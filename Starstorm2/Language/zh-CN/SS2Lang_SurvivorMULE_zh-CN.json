@@ -1,0 +1,31 @@
+{
+    "strings": {
+        "SS2_MULE_NAME": "MULE（SS2测试版。非常粗糙的原型）",
+        "SS2_MULE_SUBTITLE": "指令：生存",
+        "SS2_MULE_DESCRIPTION": "说真的，这是SS2旧版MULE设计的早期粗糙原型。计划进行全面重做，请作为新鲜事物享受，但它有很多BUG。\n\nThis mod was translated by: Jaosnake",
+        "SS2_MULE_OUTRO_FLAVOR": "..于是它离开了，引擎喷着火花，指令终于完成。",
+        "SS2_MULE_OUTRO_FAILURE": "..于是它消失了，终于报废了。",
+        "SS2_MULE_LORE": "",
+        "SS2_MULE_KEYWORD_OVERCLOCKING": "<style=cKeywordName>超频</style></style=cSub>按住按钮以延长技能持续时间，但也会延长技能冷却时间。</sub>",
+        "SS2_MULE_KEYWORD_OVERCLOCKING2": "<style=cKeywordName>超频</style></style=cSub>按住按钮以进一步充能技能，但也会延长技能冷却时间。</sub>",
+        "SS2_MULE_PASSIVE_DRONE_NAME": "故障保险援助",
+        "SS2_MULE_PASSIVE_DRONE_DESC": "受到伤害使生命低于<style=cIsHealth>25%</style>时激活你的个人<style=cIsHealing>维修无人机</style>，治疗<style=cIsHealing>50%</style>的生命值。冷却时间<style=cIsUtility>60</style>秒。",
+        "SS2_MULE_PUNCH_NAME": "干扰清除",
+        "SS2_MULE_PUNCH_DESC": "重拳出击造成<style=cIsDamage>330%伤害</style>。",
+        "SS2_MULE_KEYWORD_PUNCH_CALIBRATED": "<style=cKeywordName>校准</style></style=cSub><style=cSub>猛击面前地面，造成更高伤害并发出冲击波。（%s待定）</style>",
+        "SS2_MULE_UPHEAVAL_NAME": " upheaval",
+        "SS2_MULE_UPHEAVAL_DESC": "<style=cIsDamage>眩晕</style>。锤击面前地面，升起一颗<style=cIsUtility>巨石</style>造成<style=cIsDamage>450%伤害</style>。<style=cIsDamage>巨石可以被击打滚出。</style>",
+        "SS2_MULE_KEYWORD_UPHEAVAL_CALIBRATED": "<style=cKeywordName>校准</style></style=cSub>锤击面前地面，一次升起最多3颗巨石。",
+        "SS2_MULE_OLDPUNCH_NAME": "离心重击",
+        "SS2_MULE_OLDPUNCH_DESC": "<style=cIsUtility>超频</style>。<style=cIsUtility>眩晕</style>。蓄力，向前打出强力一拳造成<style=cIsDamage>280%伤害</style>。<style=cIsDamage>伤害随蓄力等级提升，最高4倍</style>。",
+        "SS2_MULE_JUMP_NAME": "重新定位",
+        "SS2_MULE_JUMP_DESC": "<style=cIsUtility>按住蓄力</style>以强力向上跳跃。",
+        "SS2_MULE_SPIN_NAME": "扭矩校准",
+        "SS2_MULE_SPIN_DESC": "<style=cIsUtility>超频</style>。快速旋转，逐渐提升<style=cIsUtility>移动速度</style>和<style=cIsUtility>护甲</style>，同时每圈造成<style=cIsDamage>100%伤害</style>。",
+        "SS2_MULE_NET_NAME": "固定",
+        "SS2_MULE_NET_DESC": "发射一张<style=cIsUtility>网</style>，将冲击点<style=cIsUtility>12m</style>范围内的敌人定身并阻止其攻击，持续<style=cIsUtility>5</style>秒。<style=cIsUtility>飞行敌人将被击落</style>。",
+        "SS2_MULE_CHARGE_NAME": "扭矩校准",
+        "SS2_MULE_CHARGE_DESC": "<style=cIsUtility>校准中</style>。<style=cIsUtility>按住蓄力</style>，释放后<style=cIsUtility>向前猛冲</style>并旋转造成<style=cIsDamage>（中高伤害待定）%伤害</style>。",
+        "SS2_MULE_KEYWORD_CALIBRATING": "<style=cKeywordName>校准中</style><style=cSub>可以通过主要、次要或跳跃技能取消并执行更强力的\"校准\"版本。"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_CYBORG_DESC": "Пройдите эфирное событие телепорта.",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "Играя за Киборга, пройдите игру или уничтожьтесь на сложности «Тайфун» или выше.",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Киборг: Великое мастерство",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "Играя за Киборга, пройдите игру или уничтожьтесь на сложности «Сезон дождей» или выше.",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Киборг: Мастерство",
+        "SS2_ACHIEVEMENT_CYBORG_NAME": "На подзарядке"
+    }
+}

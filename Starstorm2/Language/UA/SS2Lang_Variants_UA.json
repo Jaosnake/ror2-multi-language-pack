@@ -1,0 +1,12 @@
+{
+    "strings": {
+        "SS2_ENGINEER_LASERFOCUS_NAME": "Лазерний Фокус",
+        "SS2_ENGINEER_LASERFOCUS_DESC": "Випустіть два промені енергії на <style=cIsDamage>2x150% шкоди</style>. Шкода <style=cIsDamage>збільшується</style>, чим <style=cIsUtility>довше ціль під фокусом</style>.",
+        "SS2_ENGINEER_RAPIDDISPLACEMENT_NAME": "Швидке Переміщення",
+        "SS2_ENGINEER_RAPIDDISPLACEMENT_DESC": "<style=cIsDamage>Приголомшливий</style>. <style=cIsUtility>Рухайтеся вперед</style>, відштовхуючи будь-які сутності на шляху на <style=cIsDamage>200% шкоди</style>.",
+        "SS2_BANDIT_TRANQ_GUN_NAME": "Night Time",
+        "SS2_BANDIT_TRANQ_GUN_DESC": "Випустіть транквілізаторну стрілу на <style=cIsDamage>{0}% шкоди</style>, <style=cIsUtility>сповільнюючи</style> і зрештою <style=cIsUtility>оглушуючи</style> ворогів. Можна мати до 4 стріл.",
+        "SS2_RAILGUNNER_ROLL_NAME": "Tactical Roll",
+        "SS2_RAILGUNNER_ROLL_DESC": "Перекотись на коротку відстань і виконай ідеальну перезарядку, якщо перезаряджаєшся."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "strings": {
+        "SS2_EVENT_THUNDERSTORM_START": "<sprite name=\"CloudRight\">\t Наближається шторм...",
+        "SS2_EVENT_THUNDERSTORM_END": "Хмари починають розсіюватися...",
+        "SS2_EVENT_BLIZZARD_START": "<sprite name=\"CloudRight\">\t Наближається снігова буря...",
+        "SS2_EVENT_BLIZZARD_END": "Сніг починає вщухати...",
+        "SS2_EVENT_SANDSTORM_START": "<sprite name=\"CloudRight\">\t Наближається піщана буря...",
+        "SS2_EVENT_SANDSTORM_END": "Пісок починає осідати...",
+        "SS2_EVENT_ASHSTORM_START": "<sprite name=\"CloudRight\">\t Наближається попільна буря...",
+        "SS2_EVENT_ASHSTORM_END": "Попіл починає осідати...",
+        "SS2_EVENT_TARSTORM_START": "<sprite name=\"CloudRight\">\t З неба ллється смола...",
+        "SS2_EVENT_TARSTORM_END": "Смола починає застигати...",
+        "SS2_EVENT_FOG_START": "Згущується густий туман...",
+        "SS2_EVENT_FOG_END": "Туман розсіюється...",
+        "SS2_EVENT_GENERICNEMESIS_START": "Ви відчуваєте зловісну присутність...</style>",
+        "SS2_EVENT_GENERICNEMESIS_END": "Таємничий вплив зникає...</style>",
+        "SS2_EVENT_EMPYREANSPAWN_START": "Могутні енергії починають гармонізувати...",
+        "SS2_EVENT_BLAZINGELITE_START": "Сонце починає палати...",
+        "SS2_EVENT_BLAZINGELITE_END": "Пекельна спека розсіюється...",
+        "SS2_EVENT_GLACIALELITE_START": "Віє крижаний вітер...",
+        "SS2_EVENT_GLACIALELITE_END": "Гостре крижане повітря вщухає...",
+        "SS2_EVENT_OVERLOADINGELITE_START": "Матеріалізуються надлишкові енергії...",
+        "SS2_EVENT_OVERLOADINGELITE_END": "Шокові відчуття зникають так само швидко, як і з'явилися...",
+        "SS2_EVENT_MENDINGELITE_START": "Планета починає зцілюватися...",
+        "SS2_EVENT_MENDINGELITE_END": "Заспокійливі енергії згасають..."
+    }
+}

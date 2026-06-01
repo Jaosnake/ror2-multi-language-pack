@@ -1,0 +1,22 @@
+{
+    "strings": {
+        "SS2_WARDEN_BODY_NAME": "Варден",
+        "SS2_WARDEN_BODY_SUBTITLE": "У злочинності новий ворог",
+        "SS2_WARDEN_DESCRIPTION": "Майбутнє правоохоронних органів. Варден — це \n\nThis mod was translated by: Jaosnake",
+        "SS2_WARDEN_OUTRO_FLAVOR": "..і так він пішов, побитий до самого ядра надії.",
+        "SS2_WARDEN_OUTRO_FAILURE": "..і так він зник, щит розбито, надію згашено.",
+        "SS2_WARDEN_BODY_LORE": "чому в космосі ВАРДЕНИ",
+        "SS2_WARDEN_PASSIVE_NAME": "Підбадьорення",
+        "SS2_WARDEN_PASSIVE_DESC": "Захисна аура оточує вас, надаючи союзникам у радіусі Я ХЗ ЩЕ НЕ ПРАЦЮЄ",
+        "SS2_WARDEN_PRIMARY_SWORD_NAME": "Клинок Aeonium",
+        "SS2_WARDEN_PRIMARY_SWORD_DESC": "Розмахніться мечем на X% шкоди, третій удар пронизує вперед на X% шкоди",
+        "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Блок",
+        "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Підніміть щит для блокування, отримуючи X% броні та Y% зменшення швидкості руху. Блокування атаки в перші 0,5 с активації парирує атаку та посилює вашу наступну навичку. Ваша основна стає ударом щитом, а стрибок під час утримання щита стає перекатом.",
+        "SS2_WARDEN_SHIELD_BASH_NAME": "Удар",
+        "SS2_WARDEN_SHIELD_BASH_DESC": "Вдарте щитом перед собою на <style=cIsDamage>240% шкоди</style> та <style=cIsUtility>оглушіть</style> влучених ворогів.",
+        "SS2_WARDEN_UTILITY_LEAP_NAME": "Стрімкий Ривок",
+        "SS2_WARDEN_UTILITY_LEAP_DESC": "Обертайтеся вперед і ріжте перед собою повторно, завдаючи <style=cIsDamage>240% шкоди</style> за розріз.",
+        "SS2_WARDEN_SPECIAL_BANNER_NAME": "Збір",
+        "SS2_WARDEN_SPECIAL_BANNER_DESC": "Злетіть і вдарте прапором, який сповільнює ворогів, снаряди, дає <style=cIsUtility>X% швидкості руху</style>, <style=cIsDamage>Y% швидкості атаки</style> для вас і ваших союзників."
+    }
+}

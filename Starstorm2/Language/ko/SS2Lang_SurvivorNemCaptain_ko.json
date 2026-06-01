@@ -1,0 +1,61 @@
+{
+    "strings": {
+        "SS2_NEMCAPTAIN_NAME": "네메시스 캡틴",
+        "SS2_NEMCAPTAIN_SUBTITLE": "Down with the Ship",
+        "SS2_NEMCAPTAIN_DESCRIPTION": "네메시스 캡틴은 명령을 내려 전장을 통제하고 적응형 마이크로봇 뒤에서 안전하게 싸웁니다.\n\n<color=#CCD3E0>< ! > 침착함을 유지하세요. 명령을 너무 빨리 사용하면 스트레스가 쌓여 취약해집니다.\n\nThis mod was translated by: Jaosnake",
+        "SS2_NEMCAPTAIN_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 새 담배에 불을 붙이며.",
+        "SS2_NEMCAPTAIN_OUTRO_FAILURE": "...그리하여 그는 사라졌다, 마침내 은퇴하며.",
+        "SS2_NEMCAPTAIN_LORE": "This planet sucks man.. *takes hit from cigar*",
+
+        "SS2_NEMCAPTAIN_STRESSPASSIVE_NAME": "idk what to call half of this stuff or how to present it to the player",
+        "SS2_NEMCAPTAIN_STRESSPASSIVE_DESC": "위험 상태일 때 <style=cIsHealth>스트레스</style>를 얻습니다. 스트레스가 최대치에 도달하면 일시적으로 <style=cIsHealth>과스트레스</style> 상태가 되어 <style=cIsUtility>이동 속도</style>, <style=cIsUtility>방어력</style>, <style=cIsDamage>피해량</style>이 감소합니다.",
+
+        "SS2_NEMCAPTAIN_KEYWORD_STRESS": "<style=cKeywordName>스트레스</style><style=cSub>적에게 포위되거나, 피해를 받거나, 명령을 사용하면 스트레스가 증가합니다. 치명타를 가하거나, 치유하거나, 적을 처치하거나, 특정 명령을 사용하거나, 전투에서 벗어나면 스트레스가 감소합니다.",
+        "SS2_NEMCAPTAIN_KEYWORD_OVERSTRESS": "<style=cKeywordName>과스트레스</style><style=cSub>최대 스트레스의 효과를 받으며, 추가로 이동 속도 -30%, 방어력 -20, 피해량 -50%의 효과를 받습니다. 스트레스 수치가 0으로 줄어들 때까지 지속됩니다.",
+
+        "SS2_NEMCAPTAIN_PRIMARY_NAME": "Standard Issue",
+        "SS2_NEMCAPTAIN_PRIMARY_DESCRIPTION": "빠르게 연사하여 총알당 <style=cIsDamage>90%의 피해</style>를 줍니다. 최대 20발까지 장전할 수 있습니다.",
+
+        "SS2_NEMCAPTAIN_SECONDARY_NAME": "Personal Backup",
+        "SS2_NEMCAPTAIN_SECONDARY_DESCRIPTION": "<style=cIsDamage>기절</style>. 지팡이 소총을 준비한 후 발사하여 <style=cIsDamage>680%의 피해</style>를 줍니다.",
+
+        "SS2_NEMCAPTAIN_PUNCH_NAME": "fujin",
+        "SS2_NEMCAPTAIN_PUNCH_DESCRIPTION": "<style=cIsDamage>기절</style>. 전방을 주먹으로 가격하여 <style=cIsDamage>150%의 피해</style>를 줍니다.",
+
+        "SS2_NEMCAPTAIN_HAIDARA_NAME": "raijin",
+        "SS2_NEMCAPTAIN_HAIDARA_DESCRIPTION": "<style=cIsDamage>감전</style>. 전방으로 천둥번개를 방출하여 <style=cIsDamage>440%의 피해</style>를 줍니다.",
+
+        "SS2_NEMCAPTAIN_ORDERS_NAME": "적응형 마이크로봇",
+        "SS2_NEMCAPTAIN_ORDERS_DESCRIPTION": "4가지 <style=cIsUtility>마이크로봇 명령</style> 중 1개를 배치합니다. 명령을 사용하면 <style=cIsHealth>스트레스</style>가 증가합니다. 명령의 <style=cIsUtility>키를 길게 누르면</style> 해당 명령을 <style=cIsUtility>취소</style>합니다.",
+
+        "SS2_NEMCAPTAIN_ORDERNULL_NAME": "명령 새로고침",
+        "SS2_NEMCAPTAIN_ORDERNULL_DESCRIPTION": "새로운 공격 계획을 수립하여 <style=cIsHealth>스트레스</style>가 약간 증가합니다.",
+
+        "SS2_NEMCAPTAIN_ORDERSTRIKE_NAME": "명령: 공격",
+        "SS2_NEMCAPTAIN_ORDERSTRIKE_DESCRIPTION": "<style=cIsUtility>기절</style>. 마이크로봇을 조준하여 레이저를 발사해 <style=cIsDamage>1400%의 피해</style>를 주는 <style=cIsDamage>폭발</style>을 일으킵니다.",
+
+        "SS2_NEMCAPTAIN_ORDERSTRIKETRIPLE_NAME": "명령: 3회 공격",
+        "SS2_NEMCAPTAIN_ORDERSTRIKETRIPLE_DESCRIPTION": "<style=cIsUtility>기절</style>. 마이크로봇을 조준하여 레이저를 발사해 <style=cIsDamage>600%의 피해</style>를 주는 <style=cIsDamage>폭발</style>을 일으킵니다. <style=cIsUtility>3회 발사 가능합니다.</style>",
+
+        "SS2_NEMCAPTAIN_ORDERSTRIKEFROST_NAME": "명령: PSI 공격",
+        "SS2_NEMCAPTAIN_ORDERSTRIKEFROST_DESCRIPTION": "<style=cIsUtility>빙결</style>. 마이크로봇을 조준하여 레이저를 발사해 <style=cIsDamage>1100%의 피해</style>를 주는 <style=cIsDamage>폭발</style>을 일으킵니다.",
+
+        "SS2_NEMCAPTAIN_ORDERSTRIKESHOCK_NAME": "명령: KOPPA 공격",
+        "SS2_NEMCAPTAIN_ORDERSTRIKESHOCK_DESCRIPTION": "<style=cIsUtility>감전</style>. 마이크로봇을 조준하여 레이저를 발사해 <style=cIsDamage>900%의 피해</style>를 주는 <style=cIsDamage>폭발</style>을 일으킵니다.",
+
+        "SS2_NEMCAPTAIN_ORDERREGEN_NAME": "명령: 진정제 투여",
+        "SS2_NEMCAPTAIN_ORDERREGEN_DESCRIPTION": "<style:cIsUtility>15초</style> 동안 스트레스 감소율을 일시적으로 증가시킵니다.",
+
+        "SS2_NEMCAPTAIN_ORDERREDUCE_NAME": "명령: 각성제 투여",
+        "SS2_NEMCAPTAIN_ORDERREDUCE_DESCRIPTION": "<style:cIsUtility>10초</style> 동안 모든 원천으로부터 받는 스트레스 증가량을 일시적으로 <style:cIsUtility>50%</style> 감소시킵니다.",
+
+        "SS2_NEMCAPTAIN_ORDERRECOVER_NAME": "명령: 완전 초기화",
+        "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "현재 스트레스 수치를 대폭 감소시키며, <style:cIsUtility>다른 모든 명령을 취소</style>합니다. 취소된 명령 하나당 제거되는 스트레스량이 증가합니다.",
+
+        "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "명령: 활력의 장",
+        "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style:cIsHealing>치유</style>. 초마다 주변 아군의 <style:cIsHealth>최대 체력</style>의 </style>6%</style>를 치유하고, <style:cIsUtility>12초</style> 동안 <style:cIsUtility>50의 방어력</style>과 <style:cIsDamage>공격 속도 +20%</style>를 부여합니다.",
+
+        "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "명령: 중력 우물",
+        "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style:cIsUtility>8초</style> 동안 주변 적을 <style:cIsUtility>끌어당깁니다</style>."
+    }
+}

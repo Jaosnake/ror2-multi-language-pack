@@ -1,0 +1,22 @@
+{
+    "strings": {
+        "SS2_WARDEN_BODY_LORE": "почему WARDENы в космосе",
+        "SS2_WARDEN_BODY_NAME": "Warden",
+        "SS2_WARDEN_BODY_SUBTITLE": "У преступности новый враг",
+        "SS2_WARDEN_DESCRIPTION": "Будущее правоохранительных органов. Warden — это \n\nThis mod was translated by: Jaosnake",
+        "SS2_WARDEN_OUTRO_FAILURE": "..и так он исчез, щит разбит, надежда погасла.",
+        "SS2_WARDEN_OUTRO_FLAVOR": "..и так он ушёл, разбитый до самой сердцевины надежды.",
+        "SS2_WARDEN_PASSIVE_DESC": "Вокруг вас образуется усиливающая аура, дающая союзникам в радиусе IDK YET IT ISNT WORKING",
+        "SS2_WARDEN_PASSIVE_NAME": "Воодушевление",
+        "SS2_WARDEN_PRIMARY_SWORD_DESC": "Взмахните мечом, нанося X% урона, причём 3-й удар пронзает врага, нанося X% урона",
+        "SS2_WARDEN_PRIMARY_SWORD_NAME": "Клинок Эониум",
+        "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Поднимите щит для блокирования, получая X% брони и снижая скорость передвижения на Y%. Блокирование атаки в первые 0.5 сек активации парирует атаку и усиливает ваш следующий навык. Ваша основная атака становится ударом щитом, а прыжок с поднятым щитом совершает перекат.",
+        "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Блок",
+        "SS2_WARDEN_SHIELD_BASH_DESC": "Удар щитом перед собой, наносящий <style=cIsDamage>240% урона</style> и <style=cIsUtility>оглушающий</style> поражённых врагов.",
+        "SS2_WARDEN_SHIELD_BASH_NAME": "Удар",
+        "SS2_WARDEN_SPECIAL_BANNER_DESC": "Прыгайте и всаживайте знамя, замедляющее врагов и снаряды, дающее <style=cIsUtility>X% скорости передвижения</style> и <style=cIsDamage>Y% скорости атаки</style> вам и вашим союзникам.",
+        "SS2_WARDEN_SPECIAL_BANNER_NAME": "Сбор",
+        "SS2_WARDEN_UTILITY_LEAP_DESC": "Крутитесь вперёд и режьте перед собой, нанося <style=cIsDamage>240% урона</style> каждым разрезом.",
+        "SS2_WARDEN_UTILITY_LEAP_NAME": "Стремительный рывок"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_CHIRR_NAME": "Принцип Конкурентного Виключення",
+        "SS2_ACHIEVEMENT_CHIRR_DESC": "Вбийте емпірейну еліту.",
+        "SS2_ACHIEVEMENT_CHIRR_MASTERY_NAME": "Чірр: Майстерність",
+        "SS2_ACHIEVEMENT_CHIRR_MASTERY_DESC": "Як Чірр, пройдіть гру або знищте себе на Мусоні або складніше.",
+        "SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_NAME": "Чірр: Велика Майстерність",
+        "SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_DESC": "Як Чірр, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_CHIRR_MAID_NAME": "Чірр: Прибирання",
+        "SS2_ACHIEVEMENT_CHIRR_MAID_DESC": "Як Чірр, очистіть три Місячні предмети за один забіг.",
+        "SS2_ACHIEVEMENT_CHIRR_HEADBUTT_NAME": "Чірр: Хай Живе Королева",
+        "SS2_ACHIEVEMENT_CHIRR_HEADBUTT_DESCRIPTION": "Як Чірр, скиньте 20 жуків за край карти.",
+        "SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_NAME": "Чірр: Володар Звірів",
+        "SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_DESCRIPTION": "Як Чірр, киньте союзника зі скелі, утилізуйте 20 предметів, а потім <style=cIsHealth>помріть</style>."
+    }
+}

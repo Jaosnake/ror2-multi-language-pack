@@ -1,0 +1,27 @@
+{
+    "strings":
+    {
+        "SS2_BORG_NAME": "Borg",
+        "SS2_BORG_SUBTITLE": "Monstruosité artificielle",
+        "SS2_BORG_DESCRIPTION": "Le Borg est un survivant polyvalent, préparé à toute situation.<color=#CCD3E0> \n\n < ! > Unmaker est instantané et très précis, ce qui le rend utile contre les ennemis à courte et longue portée. \n\n < ! > Rising Star brille face à plusieurs ennemis difficiles à toucher, car il peut atteindre plusieurs cibles en peu de temps. \n\n < ! > Overheat Redress aspire les ennemis proches avant d'exploser - il offre aussi une brève poussée de mouvement dans la direction opposée à son tir. \n\n < ! > Recall peut être un atout très pratique pour explorer la carte, revenir au téléporteur ou à un objet interactif. Se téléporter inflige également de lourds dégâts aux ennemis à l'intérieur desquels vous apparaissez.</color>\n\n\n\nThis mod was translated by: Jaosnake",
+        "SS2_BORG_OUTRO_FLAVOR": "..et ainsi il partit, avec un bras cassé et aucune pièce de rechange.",
+        "SS2_BORG_OUTRO_FAILURE": "..et ainsi il disparut, la balise de téléportation ne répondant plus.",
+        "SS2_BORG_LORE": "<style=cMono>Fichier audio trouvé sous \"Témoignage du Dr Rayell\". Lecture...</style>\n\n\"Enregistrement démarré. Commencez les tests, Dr Rayell.\"\n\n\"Merci. Après le succès retentissant du DEO avec les augmentations biomécaniques, produisant certains des meilleurs ingénieurs de combat que le département ait jamais vus, ils ont poursuivi avec des conceptions légèrement plus... disons, expérimentales.\"\n\n\"Comment cela ?\"\n\n\"Le département a commencé à explorer l'augmentation mentale. C'était définitivement un bond en avant, c'est certain. L'augmentation était déjà à la pointe, mais supplémenter - ou même remplacer un cerveau endommagé ? C'était une commande difficile. Mais les dirigeants pensaient que nous pouvions le faire, alors nous nous sommes exécutés.\"\n\n\"Hm. Qu'est-il arrivé à votre projet ?\"\n\n\"Une fois le prototypage terminé, nous avons commencé les essais humains. Nous avons reçu toutes sortes de personnes comme sujets de test : des gens végétatifs, mentalement instables, brisés. On nous a dit de les réparer du mieux que nous pouvions.\"\n\n\"Et comment cela s'est-il passé ?\"\n\n\"C'était... C'était une tragédie. Certains étaient simplement trop loin. Il n'y avait rien que nous puissions faire. C'étaient les meilleurs cas. Le pire, c'était quand ils rejetaient les remplacements. Certains mourraient d'une réponse immunitaire rapide. Les plus conscients nous suppliaient de mettre fin à leurs maux de tête. Certains commençaient juste à crier. Ils criaient pendant des heures et des heures, parfois même des jours. Et puis ils s'arrêtaient. Ils se criaient littéralement à mort.\"\n\n\"C'est, euh, un peu dérangeant. Est-ce tout ?\"\n\n\"Il y en a eu un. Un qui a survécu au remplacement. Et ça a merveilleusement fonctionné. Nous l'avons eu dans un état végétatif, sans aucun espoir, et nous l'avons sorti de là, et nous lui avons donné - peut-être pas sa vie entière, mais quelque chose qui y ressemblait. Vous n'imaginez pas à quel point j'étais reconnaissante d'apprendre qu'il allait bien.\"\n\n\"Eh bien, je suppose que c'est bon à entendre. Alors, que lui est-il arrivé ?\"\n\n\"Vous savez ? Je n'en suis pas sûre. À part quelques changements de comportement, ce qui est à prévoir, il a pu retourner à la socié... (ligne tronquée à 2000 caractères)",
+
+        "KEYWORD_SS2_TELEFRAG": "<style=cKeywordName>Téléfrag</style><style=cSub>Inflige de lourds dégâts aux ennemis lors de la téléportation à l'intérieur d'eux.</style>",
+
+        "SS2_BORG_PASSIVE_NAME": "Propulseurs à réaction",
+        "SS2_BORG_PASSIVE_DESCRIPTION": "Maintenir la touche de saut vous permet de <style=cIsUtility>ralentir votre descente</style>.",
+
+        "SS2_BORG_PRIMARY_GUN_NAME": "Unmaker",
+        "SS2_BORG_PRIMARY_GUN_DESCRIPTION": "Tirez sur les adversaires pour <style=cIsDamage>damage% de dégâts</style>.",
+        "SS2_BORG_SECONDARY_AIMBOT_NAME": "Rising Star",
+        "SS2_BORG_SECONDARY_AIMBOT_DESCRIPTION": " <style=cIsUtility>Étourdissant</style>. Tirez rapidement trois projectiles chercheurs sur les adversaires devant vous pour <style=cIsDamage>3xDamage% de dégâts</style>.",
+        "SS2_BORG_SPECIAL_NOTPREON_NAME": "Overheat Redress",
+        "SS2_BORG_SPECIAL_NOTPREON_DESCRIPTION": "Projetez-vous en arrière en tirant une balle d'énergie qui inflige jusqu'à <style=cIsDamage>damage% de dégâts par seconde</style>. Explose après un certain temps, infligeant <style=cIsDamage>%damage de dégâts</style>.",
+        "SS2_BORG_SPECIAL_TELEPORT_NAME": "Recall",
+        "SS2_BORG_SPECIAL_TELEPORT_DESCRIPTION": " <style=cIsDamage>Téléfrag</style>. Placez une balise de téléportation. Une fois la balise posée, réutilisez pour vous y téléporter. Se téléporter <style=cIsUtility>réduit les temps de recharge des compétences de 4 secondes</style>.",
+        "SS2_BORG_SPECIAL_TELEPORTB_NAME": "Recall",
+        "SS2_BORG_SPECIAL_TELEPORTB_DESCRIPTION": "Appuyez pour vous téléporter à votre balise. Maintenez pour retirer votre balise."
+    }
+}

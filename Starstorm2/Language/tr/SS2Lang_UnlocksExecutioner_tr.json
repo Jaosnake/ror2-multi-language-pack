@@ -1,0 +1,18 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Aşırı öldürme",
+        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Azami sağlığının %1000'ini hasar olarak vererek bir düşmanı yen.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Cellat: Ustalık",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "Cellat olarak, Oyunu Muson zorluğunda yada daha da zorunda bitir veya kendini yok et.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Cellat: Büyük Ustalık",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "Cellat olarak, Oyunu Tayfun zorluğunda bitir veya kendini yok et.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Cellat: Kasayı Kır",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "Cellat olarak Terkedilmiş Su Kemeri'ndeki antik kapıyı açın.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Cellat: Heyecanlandırıcı",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "Cellat olarak, tek bir aşamada 15 aşırı yüklenen düşmanı öldür.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Cellat: Katil",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "Cellat olarak, tek bir İnfazda 12 düşman öldür.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Cellat: Zorla Tahliye",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "Cellat olarak Süper Şarjlanmış olun."
+    }
+}

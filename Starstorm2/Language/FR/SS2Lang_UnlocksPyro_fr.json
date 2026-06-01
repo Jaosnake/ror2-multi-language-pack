@@ -1,0 +1,13 @@
+{
+    "strings":
+    {
+        "SS2_ACHIEVEMENT_PYRO_NAME": "",
+        "SS2_ACHIEVEMENT_PYRO_DESC": "",
+
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_NAME": "Pyro : Maîtrise",
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_DESC": "En tant que Pyro, terminez le jeu ou oblitèrez-vous en mode Mousson ou plus difficile.",
+
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME": "Pyro : Grande maîtrise",
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC": "En tant que Pyro, terminez le jeu ou oblitèrez-vous en mode Typhon ou plus difficile."
+    }
+}

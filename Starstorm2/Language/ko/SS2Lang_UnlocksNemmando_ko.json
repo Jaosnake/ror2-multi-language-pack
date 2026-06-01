@@ -1,0 +1,19 @@
+{
+    "strings":
+    {
+        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "고독한 메아리",
+        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "코만도의 잔영을 처치하세요.",
+
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "네메시스 코만도: 마스터리",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "네메시스 코만도로 몬순 이상 난이도에서 게임을 클리어하거나 전멸하세요.",
+
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "네메시스 코만도: 그랜드 마스터리",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "네메시스 코만도로 태풍 이상 난이도에서 게임을 클리어하거나 전멸하세요.",
+
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "네메시스 코만도: 네메시스의 네메시스",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "네메시스 코만도로 코만도의 잔영을 처치하세요.",
+
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "네메시스 코만도: 잔다츠",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "네메시스 코만도로 가우지가 10중첩 이상인 적을 처치하세요."
+    }
+}

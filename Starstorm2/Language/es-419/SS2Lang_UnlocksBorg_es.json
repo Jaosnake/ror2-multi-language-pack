@@ -1,0 +1,10 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_CYBORG_NAME": "Powered Up",
+        "SS2_ACHIEVEMENT_CYBORG_DESC": "Complete an Ethereal Teleporter event.",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Cyborg: Mastery",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "Como Cyborg, completa el juego o destrúyete en Monzón o más difícil.",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "As Cyborg, beat the game or obliterate on Typhoon or harder."
+    }
+}

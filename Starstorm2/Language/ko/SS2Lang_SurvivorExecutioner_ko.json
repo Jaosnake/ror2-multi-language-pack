@@ -1,0 +1,39 @@
+{
+    "strings":
+    {
+        "SS2_EXECUTIONER_NAME": "이그제큐셔너",
+        "SS2_EXECUTIONER_SUBTITLE": "공포의 단두대",
+        "SS2_EXECUTIONER_DESCRIPTION" : "이그제큐셔너는 끝없는 킬 카운트를 쌓아 올리는 고위험 고수익 생존자입니다.\n\n<color=#CCD3E0> < ! > 서비스 피스톨로 킬을 올려 더 강력한 이온 버스트를 충전하세요.\n\n< ! > 이온 버스트는 짧게 눌러 몇 발을 발사하거나, 길게 눌러 모두 발사할 수 있습니다.\n\n< ! > 익스큐션은 뛰어난 군중 제어기이자 단일 대상 공격기입니다. 피해량은 맞춘 대상의 수에 비례한다는 것을 잊지 마세요!\n\n< ! > 적에게 포위당했다면, 크라우드 디스퍼전으로 빠르게 적을 떨쳐낼 수 있습니다.\n\nThis mod was translated by: Jaosnake",
+        "SS2_EXECUTIONER_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 피에 흠뻑 젖은 텅 빈 갑옷 껍데기만 남기고.",
+        "SS2_EXECUTIONER_OUTRO_FAILURE": "...그리하여 그는 사라졌다, 피할 수 없는 운명에서 도망치며.",
+        "SS2_EXECUTIONER_LORE": "죽음은 피할 수 없습니다. 그것은 우리 모두에게 찾아옵니다. 어떤 이들은 그것을 피하려 하거나, 도망치려 합니다. 하지만 죽음은 여전히 도착합니다. 그러나 죽음은 단순히 전쟁의 대가일 뿐입니다. 그리고 영광스러운 전투에서의 죽음은 인간이 바랄 수 있는 최고의 죽음 중 하나입니다.\n\n하지만, 언제나 그렇듯, 어떤 이들은 죽음으로부터 도망치려 합니다. 우리는 그들을 여러 이름으로 부릅니다. 탈영병, 겁쟁이, 변절자. 그들 모두는 대의에 대한 배신자입니다. 이 배신자들은 그들의 범죄에 대해 처벌받아야 합니다. 그리고 그 처벌은: 아이러니하게도, 그들이 피하려 했던 바로 그 것입니다.\n\n죽음이 그들에게 찾아올 것입니다. 예복을 입고 낫을 든 유령으로서가 아닙니다. 트렌치코트를 입고 리볼버를 든 모습으로도 아닙니다. 질병으로도, 세월의 흔적으로도 아닙니다. 아닙니다. 그들에게 죽음은 빛나는 전투복을 입고, 장전된 서비스 피스톨과 완전히 충전된 이온 조종기를 들고 찾아올 것입니다.",
+
+        "SS2_KEYWORD_FEAR": "<style=cKeywordName>공포</style><style=cSub>영향을 받은 적은 공격을 중단하고 도망칩니다. 공포에 걸린 적은 50%의 추가 피해를 받고 이동 속도가 30% 감소합니다.</style>",
+		"SS2_KEYWORD_EXECUTING": "<style=cKeywordName>처형</style><style=cSub>적을 1기 이하로만 맞췄을 경우 피해가 2배가 됩니다.</style>",
+		"SS2_KEYWORD_RECHARGING": "<style=cKeywordName>재충전</style><style=cSub>적 처치 시 처치한 적의 강도에 따라 이 스킬의 충전량이 회복됩니다. 익스큐션으로 처치 시 충전량이 2배가 됩니다.</style>",
+
+        "SS2_EXECUTIONER_PASSIVE_NAME": "피의 향연",
+		"SS2_EXECUTIONER_PASSIVE_DESC": "<style=cIsUtility>공포</style>에 걸린 적을 처치하면 모든 스킬의 재사용 대기시간이 <style=cIsUtility>1초</style> 감소합니다.",
+
+        "SS2_EXECUTIONER_PISTOL_NAME": "서비스 피스톨",
+        "SS2_EXECUTIONER_PISTOL_DESCRIPTION": "권총을 발사하여 <style=cIsDamage>180%의 피해</style>를 줍니다.",
+        "SS2_EXECUTIONER_TASER_NAME": "데들리 볼티지",
+        "SS2_EXECUTIONER_TASER_DESCRIPTION": "전방으로 전격을 발사하여 <style=cIsDamage>{0}%의 피해</style>를 줍니다.",
+        "SS2_EXECUTIONER_SWINGAXE_NAME": "이온 도끼",
+        "SS2_EXECUTIONER_SWINGAXE_DESCRIPTION": "도끼를 휘둘러 <style=cIsDamage>%의 피해</style>를 줍니다. <style=cIsUtility>보조 스킬 충전 1개당 최대 체력의 4%를 보호막으로 얻습니다</style>.",
+        "SS2_EXECUTIONER_IONGUN_NAME": "이온 버스트",
+        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>재충전</style>. 이온화된 탄환을 연사하여 발당 <style=cIsDamage>{0}%의 피해</style>를 줍니다. <style=cIsUtility>최대 5개의 충전량을 한 번에 발사합니다</style>.",
+        "SS2_EXECUTIONER_IONBLAST_NAME": "이온 블래스트",
+        "SS2_EXECUTIONER_IONBLAST_DESCRIPTION": "순수 이온 에너지를 발사하여 <style=cIsDamage>%의 피해</style>를 줍니다. 여러 충전량을 한 번에 사용하여 <style=cIsUtility>차지</style>할 수 있습니다. <style=cIsUtility>적 처치 시 강도에 따라 충전량이 재충전됩니다</style>.",
+        "SS2_EXECUTIONER_DASH_NAME": "크라우드 디스퍼전",
+        "SS2_EXECUTIONER_DASH_DESCRIPTION": "전방으로 돌진하며 주변의 모든 적을 <style=cIsUtility>{0}초 동안 공포</style>에 빠뜨립니다.",
+        "SS2_EXECUTIONER_AXE_NAME": "익스큐션",
+        "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>강타</style>. <style=cIsDamage>처형</style>. 공중으로 뛰어오른 후 거대한 이온 도끼로 내리찍어 <style=cIsDamage>{0}%의 피해</style>를 줍니다.",
+        "SS2_EXECUTIONER_AXESCEPTER_NAME": "크라우드 익스큐션",
+        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "공중으로 뛰어오른 후 이온 도끼로 내리찍어 <style=cIsDamage>3000%의 피해</style>를 줍니다.",
+		"SS2_EXECUTIONER_ARMOR_NAME": "이온 저거너트",
+		"SS2_EXECUTIONER_ARMOR_DESCRIPTION": "이온화된 갑옷을 장착하여 <style=cIsUtility>60의 방어력</style>을 얻고 <style=cIsDamage>4초</style> 동안 보조 스킬이 <style=cIsDamage>과충전</style>됩니다.",
+		"SS2_EXECUTIONER_ARMORSCEPTER_NAME": "이온 오버로드",
+		"SS2_EXECUTIONER_ARMORSCEPTER_NAME": "이온화된 갑옷을 장착하여 <style=cIsUtility>80의 방어력</style>을 얻고 <style=cIsDamage>4초</style> 동안 보조 스킬이 <style=cIsDamage>과충전</style>됩니다. 적 처치 시 <style=cIsUtility>4초 동안 주변 적을 공포</style>에 빠뜨립니다."
+    }
+}

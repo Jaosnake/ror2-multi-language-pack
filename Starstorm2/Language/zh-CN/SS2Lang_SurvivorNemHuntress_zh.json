@@ -1,0 +1,20 @@
+{
+    "strings": {
+        "SS2_NEMHUNTRESS2_BODY_NAME": "复仇女猎人",
+        "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "狡诈的追猎者",
+        "SS2_NEMHUNTRESS2_DESCRIPTION": "复仇女猎人用致命的長弓和双面短斧缓慢但无情地与敌人交战。\n\n<color=#CCD3E0>< ! > 死亡不畏惧自身。\n\nThis mod was translated by: Jaosnake",
+        "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..于是他们离开了，在远方找到了新家。",
+        "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..于是他们消失了，。",
+        "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "战斗面甲",
+        "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "在战斗中高亮<style=cIsDamage>弱点</style>，所有箭矢命中弱点时造成<style=cIsDamage>1.5倍伤害</style>。",
+        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "重矢",
+        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>灵巧</style>。按住<style=cIsUtility>蓄力</style>，释放后发射箭矢，最多造成<style=cIsDamage>400%伤害</style>。箭矢<style=cIsUtility>速度</style>、<style=cIsDamage>伤害</style>和<style=cIsUtility>精度</style>随蓄力等级提升。",
+        "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "激光短斧",
+        "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "挥砍并投掷回旋镖式的穿透短斧，造成<style=cIsDamage>240%伤害</style>。在空中时每秒击中<style=cIsDamage>5次</style>。",
+        "SS2_KEYWORD_REARM": "<style=cKeywordName>重新装填</style><style=cSub>为下一次主要技能使用增加2个额外弹丸，最多7个。",
+        "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "相位闪烁",
+        "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>灵巧</style>。<style=cIsDamage>重新装填</style>。<style=cIsUtility>消失</style>并<style=cIsUtility>传送</style>一小段距离。最多储存<style=cIsUtility>3</style>次充能。",
+        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "爆裂矢",
+        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "将你下一次<style=cIsDamage>主要技能</style>的箭矢替换为<style=cIsDamage>眩晕</style>箭矢，命中后不久爆炸造成<style=cIsDamage>400%伤害</style>。"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Самотня Відлуння",
+        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Переможіть Привид Коммандос.",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Немезис Коммандос: Майстерність",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "Як Немезис Коммандос, пройдіть гру або знищте себе на Мусоні або складніше.",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Немезис Коммандос: Велика Майстерність",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "Як Немезис Коммандос, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Немезис Коммандос: Немезис Немезиса",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "Як Немезис Коммандос, переможіть Привид Коммандос.",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Немезис Коммандос: Zandatsu",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "Як Немезис Коммандос, вбийте ворога з 10 або більше стеками gouge."
+    }
+}

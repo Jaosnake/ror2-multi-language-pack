@@ -1,0 +1,22 @@
+{
+    "strings": {
+        "SS2_NEMEXECUTIONER_BODY_NAME": "复仇处刑者",
+        "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "死灵摆渡人",
+        "SS2_NEMEXECUTIONER_DESCRIPTION": "复仇处刑者以他认为的更大福祉的名义，用致命一击夺走迷失者的生命。\n\n<color=#CCD3E0>< ! > 死亡不畏惧自身。\n\nThis mod was translated by: Jaosnake",
+        "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..于是他离开了，消失在未知中。",
+        "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..于是他回来了，传承永远失落。",
+        "SS2_NEMEXECUTIONER_BODY_LORE": "吓人 D:",
+        "SS2_NEMEXECUTIONER_PRIMARY_NAME": "球",
+        "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "球链闪电",
+        "SS2_KEYWORD_BLEED": "<style=cKeywordName>流血</style><style=cSub>在3秒内造成<style=cIsDamage>240%</style>基础伤害。<i>流血可叠加。</i></style>",
+        "SS2_NEMEXECUTIONER_SECONDARY_NAME": "食尸鬼",
+        "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "食尸鬼攻击附带流血",
+        "SS2_NEMEXECUTIONER_UTILITY_NAME": "恐惧",
+        "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "恐惧之云",
+        "SS2_NEMEXECUTIONER_SPECIAL_NAME": "镰刀",
+        "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>杀戮者。</style> 1500%镰刀冲刺。击杀时治疗附近目标。按住增加距离",
+        "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "幽灵模式",
+        "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "飞行、强化、击杀时延长持续时间",
+        "SS2_GHOUL_BODY_NAME": "啊！！！！！！！！！！"
+    }
+}

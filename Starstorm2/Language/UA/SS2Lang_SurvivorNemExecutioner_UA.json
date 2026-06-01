@@ -1,0 +1,22 @@
+{
+    "strings": {
+        "SS2_NEMEXECUTIONER_BODY_NAME": "Немезис Кат",
+        "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Перевізник Проклятих",
+        "SS2_NEMEXECUTIONER_DESCRIPTION": "Немезис Кат забирає життя тих, хто загублений, у смертельному ударі заради того, що він вважає загальним благом.\n\n<color=#CCD3E0>< ! > Смерть не боїться себе.\n\nThis mod was translated by: Jaosnake",
+        "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..і так він пішов, зникаючи в невідомому.",
+        "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..і так він повернувся, спадщина втрачена назавжди.",
+        "SS2_NEMEXECUTIONER_BODY_LORE": "страшно D:",
+        "SS2_NEMEXECUTIONER_PRIMARY_NAME": "яйця",
+        "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "ланцюгова блискавка яйцями",
+        "SS2_KEYWORD_BLEED": "<style=cKeywordName>Кровотеча</style><style=cSub>Завдає <style=cIsDamage>240%</style> базової шкоди за 3с. <i>Кровотеча може накопичуватися.</i></style>",
+        "SS2_NEMEXECUTIONER_SECONDARY_NAME": "гулі",
+        "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "гулі кровоточать при влучанні",
+        "SS2_NEMEXECUTIONER_UTILITY_NAME": "страх",
+        "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "хмара страху",
+        "SS2_NEMEXECUTIONER_SPECIAL_NAME": "коса",
+        "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Slayer.</style> 1500% ривок косою. лікує поряд при вбивстві. утримуйте для збільшення відстані",
+        "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "страшний режим",
+        "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "літай і баффайся, а тривалість при вбивстві",
+        "SS2_GHOUL_BODY_NAME": "AAAAAHHHHHHH!!!!!!!!"
+    }
+}

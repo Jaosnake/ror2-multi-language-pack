@@ -1,0 +1,10 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_CYBORG_NAME": "充能完毕",
+        "SS2_ACHIEVEMENT_CYBORG_DESC": "完成一次以太传送器事件。",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "赛博格：精通",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "作为赛博格，在季风或更高难度下通关游戏或抹除自己。",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "赛博格：完全精通",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "作为赛博格，在台风或更高难度下通关游戏或抹除自己。"
+    }
+}

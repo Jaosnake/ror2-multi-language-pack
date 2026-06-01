@@ -1,0 +1,13 @@
+{
+    "strings":
+    {
+        "SS2_ACHIEVEMENT_CYBORG_NAME": "파워 업",
+        "SS2_ACHIEVEMENT_CYBORG_DESC": "에테리얼 텔레포터 이벤트를 완료하세요.",
+
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "사이보그: 마스터리",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "사이보그로 몬순 이상 난이도에서 게임을 클리어하거나 전멸하세요.",
+
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "사이보그: 그랜드 마스터리",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "사이보그로 태풍 이상 난이도에서 게임을 클리어하거나 전멸하세요."
+    }
+}

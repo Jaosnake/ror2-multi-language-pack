@@ -1,0 +1,27 @@
+{
+    "strings": {
+        "SS2_EVENT_THUNDERSTORM_START": "<sprite name=\"CloudRight\">\t Bir fırtına yaklaşıyor...",
+        "SS2_EVENT_THUNDERSTORM_END": "Bulutlar temizlenmeye başlıyor...",
+        "SS2_EVENT_BLIZZARD_START": "<sprite name=\"CloudRight\">\t Bir kar fırtınası yaklaşıyor...",
+        "SS2_EVENT_BLIZZARD_END": "Kar temizlemeye başlıyor...",
+        "SS2_EVENT_SANDSTORM_START": "<sprite name=\"CloudRight\">\t Bir kum fırtınası yaklaşıyor...",
+        "SS2_EVENT_SANDSTORM_END": "Toz bulutu durulmaya başlıyor...",
+        "SS2_EVENT_ASHSTORM_START": "<sprite name=\"CloudRight\">\t Bir kül fırtınası yaklaşıyor...",
+        "SS2_EVENT_ASHSTORM_END": "Küller durulmaya başlıyor...",
+        "SS2_EVENT_TARSTORM_START": "<sprite name=\"CloudRight\">\t Gökten katran yağıyor...",
+        "SS2_EVENT_TARSTORM_END": "Katran durulmaya başlıyor...",
+        "SS2_EVENT_FOG_START": "Yoğun bir sis oluşuyor...",
+        "SS2_EVENT_FOG_END": "Sis dağılıyor...",
+        "SS2_EVENT_GENERICNEMESIS_START": "Uğursuz bir varlık hissediyorsun...</style>",
+        "SS2_EVENT_GENERICNEMESIS_END": "Gizemli etki kayboluyor...</style>",
+        "SS2_EVENT_EMPYREANSPAWN_START": "Güçlü enerjiler uyum sağlamaya başlıyor...",
+        "SS2_EVENT_BLAZINGELITE_START": "Güneş kavurmaya başlıyor...",
+        "SS2_EVENT_BLAZINGELITE_END": "Kızgın sıcaklık dağılıyor...",
+        "SS2_EVENT_GLACIALELITE_START": "Buzul bir rüzgar esiyor...",
+        "SS2_EVENT_GLACIALELITE_END": "Keskin, dondurucu hava sakinleşiyor...",
+        "SS2_EVENT_OVERLOADINGELITE_START": "Aşırı yüklenen enerjiler beliriyor...",
+        "SS2_EVENT_OVERLOADINGELITE_END": "Şok edici hisler geldikleri kadar çabuk kayboluyor...",
+        "SS2_EVENT_MENDINGELITE_START": "Gezegen iyileşmeye başlıyor...",
+        "SS2_EVENT_MENDINGELITE_END": "Sakinleştirici enerjiler kayboluyor..."
+    }
+}

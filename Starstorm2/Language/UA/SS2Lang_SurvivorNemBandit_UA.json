@@ -1,0 +1,18 @@
+{
+    "strings": {
+        "SS2_NEMBANDIT_NAME": "Немезис Бандит",
+        "SS2_NEMBANDIT_SUBTITLE": "Почорнілий Злочинець",
+        "SS2_NEMBANDIT_DESCRIPTION": "Немезис Бандит обережно позиціонує себе за допомогою камуфляжної технології, щоб долати ворогів і винищувати натовпи. \n\n<color=#CCD3E0>< ! > Не знай пощади.\n\nThis mod was translated by: Jaosnake",
+        "SS2_NEMBANDIT_OUTRO_FLAVOR": "..і так він пішов, без жодних жалю.",
+        "SS2_NEMBANDIT_OUTRO_FAILURE": "..і так він повернувся, удача нарешті закінчилася.",
+        "SS2_NEMBANDIT_LORE": "йіхав",
+        "SS2_NEMBANDIT_PRIMARY_NAME": "Gunslinger",
+        "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Вистріліть із револьвера на <style=cIsDamage>220% шкоди</style>. Можна мати до 6 куль.",
+        "SS2_NEMBANDIT_SECONDARY_NAME": "Кидок Динаміту",
+        "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "кинути динаміт, розібратися з #ми пізніше",
+        "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Кидок Монети",
+        "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "ти знаєш, що це робить",
+        "SS2_NEMBANDIT_SPECIAL_NAME": "Splatter",
+        "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Випустіть чергу з дробовика на <style=cIsDamage>6x100% шкоди</style>. Вбивства <style=cIsUtility>скидають час відновлення всіх навичок.</style>"
+    }
+}
