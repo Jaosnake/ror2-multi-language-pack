@@ -1,0 +1,31 @@
+{
+    "strings": {
+        "SS2_DIFFICULTY_DELUGE_NAME": "Diluvio",
+        "SS2_DIFFICULTY_DELUGE_DESC": "",
+        "SS2_DIFFICULTY_DELUGE1_NAME": "Diluvio +1",
+        "SS2_DIFFICULTY_DELUGE2_NAME": "Diluvio +2",
+        "SS2_DIFFICULTY_DELUGE3_NAME": "Diluvio +3",
+        "SS2_DIFFICULTY_TEMPEST_NAME": "Tempestad",
+        "SS2_DIFFICULTY_TEMPEST_DESC": "",
+        "SS2_DIFFICULTY_TEMPEST1_NAME": "Tempestad +1",
+        "SS2_DIFFICULTY_TEMPEST2_NAME": "Tempestad +2",
+        "SS2_DIFFICULTY_TEMPEST3_NAME": "Tempestad +3",
+        "SS2_DIFFICULTY_CYCLONE_NAME": "Ciclón",
+        "SS2_DIFFICULTY_CYCLONE_DESC": "",
+        "SS2_DIFFICULTY_CYCLONE1_NAME": "Ciclón +1",
+        "SS2_DIFFICULTY_CYCLONE2_NAME": "Ciclón +2",
+        "SS2_DIFFICULTY_CYCLONE3_NAME": "Ciclón +3",
+        "SS2_DIFFICULTY_TYPHOON_NAME": "Tifón",
+        "SS2_DIFFICULTY_TYPHOON_DESC": "Máxima dificultad. El mundo es una pesadilla, y la supervivencia una mera ilusión. Nadie tiene lo que se necesita.<style=cStack>\n\n>Regeneración de salud del jugador: <style=cIsHealth>-40 %</style>\n>Ajuste de dificultad: <style=cIsHealth>+75 %</style>\n>Límite de monstruos: <style=cIsHealth>+100 %</style>",
+        "SS2_DIFFICULTY_SUPERTYPHOON_NAME": "Súper Tifón",
+        "SS2_DIFFICULTY_SUPERTYPHOON_DESC": "",
+        "SS2_DIFFICULTY_SUPERTYPHOON1_NAME": "Súper Tifón +1",
+        "SS2_DIFFICULTY_SUPERTYPHOON2_NAME": "Súper Tifón +2",
+        "SS2_DIFFICULTY_SUPERTYPHOON3_NAME": "Súper Tifón +3",
+        "SS2_DIFFICULTY_CATACLYSM_NAME": "Cataclismo",
+        "SS2_DIFFICULTY_ARMAGEDDON_NAME": "Armagedón",
+        "SS2_DIFFICULTY_ARMAGEDDON1_NAME": "Armagedón +1",
+        "SS2_DIFFICULTY_ARMAGEDDON2_NAME": "Armagedón +2",
+        "SS2_DIFFICULTY_ARMAGEDDON3_NAME": "Armagedón +3"
+    }
+}

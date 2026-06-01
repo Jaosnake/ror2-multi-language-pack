@@ -1,0 +1,31 @@
+{
+    "strings": {
+        "SS2_DIFFICULTY_DELUGE_NAME": "Злива",
+        "SS2_DIFFICULTY_DELUGE_DESC": "",
+        "SS2_DIFFICULTY_DELUGE1_NAME": "Злива +1",
+        "SS2_DIFFICULTY_DELUGE2_NAME": "Злива +2",
+        "SS2_DIFFICULTY_DELUGE3_NAME": "Злива +3",
+        "SS2_DIFFICULTY_TEMPEST_NAME": "Шторм",
+        "SS2_DIFFICULTY_TEMPEST_DESC": "",
+        "SS2_DIFFICULTY_TEMPEST1_NAME": "Шторм +1",
+        "SS2_DIFFICULTY_TEMPEST2_NAME": "Шторм +2",
+        "SS2_DIFFICULTY_TEMPEST3_NAME": "Шторм +3",
+        "SS2_DIFFICULTY_CYCLONE_NAME": "Циклон",
+        "SS2_DIFFICULTY_CYCLONE_DESC": "",
+        "SS2_DIFFICULTY_CYCLONE1_NAME": "Циклон +1",
+        "SS2_DIFFICULTY_CYCLONE2_NAME": "Циклон +2",
+        "SS2_DIFFICULTY_CYCLONE3_NAME": "Циклон +3",
+        "SS2_DIFFICULTY_TYPHOON_NAME": "Тайфун",
+        "SS2_DIFFICULTY_TYPHOON_DESC": "Максимальний виклик. Світ — це кошмар, а виживання — лише ілюзія. Ніхто не має того, що потрібно.<style=cStack>\n\n>Регенерація здоров'я гравця: <style=cIsHealth>-40%</style>\n>Масштабування складності: <style=cIsHealth>+75%</style>\n>Ліміт появи монстрів: <style=cIsHealth>+100%</style>\n>Швидкість появи монстрів: <style=cIsHealth>+25%</style>\n>Нагороди золотом і досвідом: <style=cisHealth>-20%</style>",
+        "SS2_DIFFICULTY_SUPERTYPHOON_NAME": "Супертайфун",
+        "SS2_DIFFICULTY_SUPERTYPHOON_DESC": "",
+        "SS2_DIFFICULTY_SUPERTYPHOON1_NAME": "Супертайфун +1",
+        "SS2_DIFFICULTY_SUPERTYPHOON2_NAME": "Супертайфун +2",
+        "SS2_DIFFICULTY_SUPERTYPHOON3_NAME": "Супертайфун +3",
+        "SS2_DIFFICULTY_CATACLYSM_NAME": "Катаклізм",
+        "SS2_DIFFICULTY_ARMAGEDDON_NAME": "Армагеддон",
+        "SS2_DIFFICULTY_ARMAGEDDON1_NAME": "Армагеддон +1",
+        "SS2_DIFFICULTY_ARMAGEDDON2_NAME": "Армагеддон +2",
+        "SS2_DIFFICULTY_ARMAGEDDON3_NAME": "Армагеддон +3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "strings":
+    {
+        "SS2_ACHIEVEMENT_CYBORG_NAME": "Alimenté",
+        "SS2_ACHIEVEMENT_CYBORG_DESC": "Terminez un événement de téléporteur Éthéré.",
+
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Cyborg : Maîtrise",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "En tant que Cyborg, terminez le jeu ou oblitèrez-vous en mode Mousson ou plus difficile.",
+
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Cyborg : Grande maîtrise",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "En tant que Cyborg, terminez le jeu ou oblitèrez-vous en mode Typhon ou plus difficile."
+    }
+}

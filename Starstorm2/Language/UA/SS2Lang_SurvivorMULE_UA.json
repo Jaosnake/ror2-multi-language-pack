@@ -1,0 +1,31 @@
+{
+    "strings": {
+        "SS2_MULE_NAME": "MULE (SS2 БЕТА. ДУЖЕ ЧОРНОВИЙ ПРОТОТИП)",
+        "SS2_MULE_SUBTITLE": "Директива: Вижити",
+        "SS2_MULE_DESCRIPTION": "Серйозно, це дуже чорновий ранній прототип старого дизайну MULE для SS2. Заплановано повний реворк. Насолоджуйтеся як новинкою, але він глючний.\n\nThis mod was translated by: Jaosnake",
+        "SS2_MULE_OUTRO_FLAVOR": "..і так воно пішло, двигун чхаючи, директиву нарешті виконано.",
+        "SS2_MULE_OUTRO_FAILURE": "..і так воно зникло, нарешті виведене з ладу.",
+        "SS2_MULE_LORE": "",
+        "SS2_MULE_KEYWORD_OVERCLOCKING": "<style=cKeywordName>Розгін</style></style=cSub>Утримуйте кнопку, щоб продовжити тривалість навички, але також збільшити час її відновлення.</sub>",
+        "SS2_MULE_KEYWORD_OVERCLOCKING2": "<style=cKeywordName>Розгін</style></style=cSub>Утримуйте кнопку, щоб зарядити навичку сильніше, але також збільшити час її відновлення.</sub>",
+        "SS2_MULE_PASSIVE_DRONE_NAME": "Безвідмовна Допомога",
+        "SS2_MULE_PASSIVE_DRONE_DESC": "Отримання шкоди нижче <style=cIsHealth>25% здоров'я</style> активує вашого особистого <style=cIsHealing>Ремонтного Дрона</style>, лікуючи на <style=cIsHealing>50%</style> здоров'я. Має <style=cIsUtility>60</style> секунд перезарядки.",
+        "SS2_MULE_PUNCH_NAME": "Усунення Перешкод",
+        "SS2_MULE_PUNCH_DESC": "Вдарте ворогів на <style=cIsDamage>330% шкоди</style>.",
+        "SS2_MULE_KEYWORD_PUNCH_CALIBRATED": "<style=cKeywordName>Відкалібровано</style></style=cSub><style=cSub>Вдарте землю перед собою, завдаючи більшої шкоди та випускаючи ударну хвилю. (%s tbd)</style>",
+        "SS2_MULE_UPHEAVAL_NAME": "Зрушення",
+        "SS2_MULE_UPHEAVAL_DESC": "<style=cIsDamage>Приголомшливий</style>. Вдарте землю перед собою, піднімаючи <style=cIsUtility>валун</style> на <style=cIsDamage>450% шкоди</style>. <style=cIsDamage>Валуни можна вдарити, щоб вони котилися.</style>",
+        "SS2_MULE_KEYWORD_UPHEAVAL_CALIBRATED": "<style=cKeywordName>Відкалібровано</style></style=cSub>Вдарте землю перед собою, піднімаючи до 3 валунів одночасно.",
+        "SS2_MULE_OLDPUNCH_NAME": "Відцентровий Сокруш",
+        "SS2_MULE_OLDPUNCH_DESC": "<style=cIsUtility>Розгін</style>. <style=cIsUtility>Приголомшливий</style>. Розмахніться та киньте потужний удар вперед на <style=cIsDamage>280% шкоди</style>. <style=cIsDamage>Шкода множиться на рівень заряду, до 4x</style>.",
+        "SS2_MULE_JUMP_NAME": "Переміщення",
+        "SS2_MULE_JUMP_DESC": "<style=cIsUtility>Утримуйте для зарядки</style> потужного стрибка вгору.",
+        "SS2_MULE_SPIN_NAME": "Калібрування Крутного Моменту",
+        "SS2_MULE_SPIN_DESC": "<style=cIsUtility>Розгін</style>. Швидко обертайтеся, поступово збільшуючи <style=cIsUtility>швидкість руху</style> та <style=cIsUtility>збільшуючи броню</style>, завдаючи <style=cIsDamage>100% шкоди</style> за оберт.",
+        "SS2_MULE_NET_NAME": "Знерухомлення",
+        "SS2_MULE_NET_DESC": "Запустіть <style=cIsUtility>сітку</style>, утримуючи ворогів у радіусі <style=cIsUtility>12м</style> на місці та запобігаючи їхнім атакам протягом <style=cIsUtility>5</style> секунд. <style=cIsUtility>Літаючі вороги приземляються</style>.",
+        "SS2_MULE_CHARGE_NAME": "Калібрування Крутного Моменту",
+        "SS2_MULE_CHARGE_DESC": "<style=cIsUtility>Калібрування</style>. <style=cIsUtility>Утримуйте для зарядки</style>, і відпустіть, щоб <style=cIsUtility>кинутися вперед</style>, обертаючись, завдаючи <style=cIsDamage>(середньо-висока шкода TBD)% шкоди</style>.",
+        "SS2_MULE_KEYWORD_CALIBRATING": "<style=cKeywordName>Калібрування</style><style=cSub>Може бути скасовано основною, другою або стрибком для виконання потужніших \"відкаліброваних\" варіантів цих дій.</style>"
+    }
+}

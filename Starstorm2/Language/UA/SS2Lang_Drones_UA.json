@@ -1,0 +1,23 @@
+{
+    "strings": {
+        "SS2_DRONE_SHOCK_NAME": "Шоковий дрон",
+        "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Зламаний шоковий дрон",
+        "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Відремонтувати шоковий дрон",
+        "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>Шокує</style> ворогів поряд, перериваючи їхні дії та приголомшуючи.",
+        "SS2_DRONE_SHOCK_DESCRIPTION": "Супутник, куплений за золото, що слідує за виживальцем на близькій відстані, <style=cIsUtility>шокуючи</style> ворогів, перериваючи їхні дії та приголомшуючи.",
+        "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Випускає електричний заряд, завдаючи <style=cIsDamage>100% шкоди</style> в області та <style=cIsUtility>шокуючи</style> ворогів на <style=cIsUtility>5 секунд</style>.",
+        "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
+        "SS2_DRONE_CLONE_NAME": "Дрон-дублікатор",
+        "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Зламаний дрон-дублікатор",
+        "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Відремонтувати дрон-дублікатор",
+        "SS2_DRONE_CLONE_PICKUP": "Час від часу <style=cIsUtility>дублює</style> предмети поряд.",
+        "SS2_DRONE_CLONE_DESCRIPTION": "Супутник, куплений за золото, що слідує за виживальцем на близькій відстані. <style=cIsUtility>Дублює</style> підбирання предметів поряд.",
+        "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Каналізує на предмет поряд. Після завершення створює <style=cIsUtility>дублікат</style> предмета.",
+        "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
+        "SS2_DROIDDRONE_NAME": "Охоронний дрон",
+        "SS2_DROIDDRONE_PICKUP": "Стріляє у ворогів поряд. <style=cIsUtility>Успадковує тип еліти</style> вбитої еліти.",
+        "SS2_DROIDDRONE_DESCRIPTION": "Тимчасовий супутник, створений при наявності Голови Дроїда та вбивстві еліт, що слідує за виживальцем на близькій відстані, стріляючи у ворогів поряд.",
+        "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
+        "SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
+    }
+}

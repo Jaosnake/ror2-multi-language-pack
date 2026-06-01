@@ -1,0 +1,28 @@
+{
+  "strings": {
+    "SS2_WARDEN_BODY_NAME": "워든",
+    "SS2_WARDEN_BODY_SUBTITLE": "범죄의 새로운 적",
+    "SS2_WARDEN_DESCRIPTION": "법 집행의 미래. 워든은 \n\nThis mod was translated by: Jaosnake",
+    "SS2_WARDEN_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 희망의 핵심까지 박살난 채로.",
+    "SS2_WARDEN_OUTRO_FAILURE": "...그리하여 그는 사라졌다, 방패는 산산조각나고 희망은 꺼져버린 채로.",
+    "SS2_WARDEN_BODY_LORE": "why are there WARDENs in space",
+
+    "SS2_WARDEN_PASSIVE_NAME": "활력 부여",
+    "SS2_WARDEN_PASSIVE_DESC": "A buff ward surronds you that grants allies in its radius IDK YET IT ISNT WORKING",
+
+    "SS2_WARDEN_PRIMARY_SWORD_NAME": "에오니움 블레이드",
+    "SS2_WARDEN_PRIMARY_SWORD_DESC": "검을 휘둘러 X%의 피해를 주고, 3타째에는 전방을 찔러 X%의 피해를 줍니다",
+
+    "SS2_WARDEN_SECONDARY_SHIELD_NAME": "방어",
+    "SS2_WARDEN_SECONDARY_SHIELD_DESC": "방패를 들어 X%의 방어력을 얻고 이동 속도가 Y% 감소합니다. 활성화 후 0.5초 이내에 공격을 막으면 패리하여 공격을 튕겨내고 다음 스킬을 강화합니다. 기본 공격이 방패 밀치기로 바뀌고, 방패를 든 상태에서 점프하면 구르기가 됩니다.",
+
+    "SS2_WARDEN_SHIELD_BASH_NAME": "밀치기",
+    "SS2_WARDEN_SHIELD_BASH_DESC": "전방으로 방패 밀치기를 하여 <style=cIsDamage>240%의 피해</style>를 주고 맞은 적을 <style=cIsUtility>기절</style>시킵니다.",
+
+    "SS2_WARDEN_UTILITY_LEAP_NAME": "돌격 베기",
+    "SS2_WARDEN_UTILITY_LEAP_DESC": "전방으로 회전하며 연속으로 베어 매 타격마다 <style=cIsDamage>240%의 피해</style>를 줍니다.",
+
+    "SS2_WARDEN_SPECIAL_BANNER_NAME": "집결",
+    "SS2_WARDEN_SPECIAL_BANNER_DESC": "깃발을 꽂아 적과 발사체를 둔화시키고, 자신과 아군에게 <style=cIsUtility>X%의 이동 속도</style>, <style=cIsDamage>Y%의 공격 속도</style>를 부여합니다."
+  }
+}

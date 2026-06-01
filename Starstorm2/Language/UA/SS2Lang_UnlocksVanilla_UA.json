@@ -1,0 +1,20 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Коммандос: Велика Майстерність",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "Як Коммандос, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Коммандос: Скорпіон",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "Як Коммандос, знайдіть прихований Веселковий Кристал на Титанських Рівнинах.",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Коммандос: Самотня Відлуння",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "Як Коммандос, переможіть Привид Коммандос.",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Велика Майстерність",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "Як MUL-T, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Акрід: Велика Майстерність",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "Як Акрід, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Капітан: Велика Майстерність",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "Як Капітан, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Мисливиця: Велика Майстерність",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "Як Мисливиця, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Найманець: Мстивий Дезертир",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "Як Найманець, переможіть Привид Найманця."
+    }
+}

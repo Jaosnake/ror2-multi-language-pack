@@ -1,0 +1,43 @@
+{
+	"strings": {
+		"SS2_PYRO_NAME": "Pyro",
+		"SS2_PYRO_SUBTITLE": "Écocide professionnel",
+		"SS2_PYRO_DESCRIPTION": "Le Pyro est un survivant qui excelle dans le contrôle des foules, brûlant les nuisibles avec fureur et précision.\n\nThis mod was translated by: Jaosnake",
+		"SS2_PYRO_OUTRO_FLAVOR": "..et ainsi il partit, le cœur brûlant de passion.",
+		"SS2_PYRO_OUTRO_FAILURE": "..et ainsi il disparut, les flammes enfin éteintes.",
+		
+		"SS2_PYRO_SKIN_DEFAULT": "Par défaut",
+		
+		"SS2_PYRO_LORE": "Bourdonnement, bourdonnement, et encore du bourdonnement. Alors qu'ils essayaient de passer en revue les derniers détails du travail, le vrombissement des ailes d'insectes était le seul son à percer - mais ça n'avait pas d'importance. La tâche était simple, et il savait comment la mener à bien. La femme au casque retourna au port tandis que l'homme en fibres polymériques équipait une arme de taille considérable dans son dos. La tenant fermement d'une main, il utilisa l'autre pour manipuler les portes de la soute, se préparant pour l'essaim à l'intérieur.\n\nUne miasme acide suffocante emplit l'air alors que les portes coulissaient. Sans son respirateur, les vapeurs auraient été insupportables, assez toxiques pour l'assommer en quelques minutes. L'air épais était peuplé d'innombrables insectes verts géants, volant activement entre les conteneurs corrodés et les structures de ruche qu'ils avaient construites entre eux. Leur vrombissement incessant noyait ses pensées - exactement comme il les aimait. Aucun des insectes ne prêta attention à l'intrus jusqu'à ce qu'un torrent de napalm explose en brasier.\n\nLes guerriers descendirent tandis que les ouvriers se dispersaient, mais il était trop tard pour eux tous. Les plus rapides à organiser une offensive ne faisaient que hâter leur perte, tombant à ses pieds alors que le feu les dévorait. Le napalm s'accrochait indistinctement au nid, aux nuisibles et aux coffres de sécurité alors qu'il se frayait lentement un chemin entre le labyrinthe de marchandises qui constituait les fondations du repaire. Une fumée noire commença à remplir la soute, s'épaississant à chaque pas, tandis que le sol s'accumulait de restes calcinés. Plus que tout, cependant, c'était la chaleur - la chaleur implacable et brûlante de ses flammes nettoyantes - qui remplissait la pièce. Les conteneurs maritimes se transformaient en fournaises, et la soute en cimetière alors qu'il purgeait systématiquement l'infestation.\n\nDes heures plus tard, il ne restait guère que l'odeur âcre de la décomposition, une mandibule ou un thorax occasionnel, et une fine couche de cendres tapissant le sol. Après un troisième tour de la soute, il trouva enfin ce qu'il cherchait, caché derrière des conteneurs fissuré... (ligne tronquée à 2000 caractères)",
+
+		"SS2_KEYWORD_HEAT": "<style=cKeywordName>Chaleur</style><style=cSub>Ressource qui est gagnée et dépensée par diverses compétences.",
+		"SS2_KEYWORD_BLAZEBORNE": "<style=cKeywordName>Brasier-né</style><style=cSub>Être près d'ennemis en feu donne des bonus. Les ennemis plus grands brûlent plus fort. Les monstres d'élite Blazing brûlent toujours.\nLes dégâts des attaques de feu sont réduits de 25% et accordent <color=#D78326>5% de chaleur</color>.\nTotalement immunisé contre <style=cIsDamage>l'Inflammation.</style>",
+		"SS2_KEYWORD_COMBUSTING": "<style=cKeywordName>Combustion</style><style=cSub>Réinitialise la durée des cumuls d'inflammation chaque seconde.",
+		"SS2_KEYWORD_TORCHING": "<style=cKeywordName>Torche</style><style=cSub>À courte portée, inflige 1,5x de dégâts et a 75% de chance d'enflammer les ennemis à partir de <color=#D78326>35% de chaleur</color>. Avec <color=#D78326>70% de chaleur</color> ou plus, a 50% de chance supplémentaire d'enflammer les ennemis à toute portée.",
+		"SS2_KEYWORD_LIFTOFF": "<style=cKeywordName>Décollage</style><style=cSub>En l'air, remplace votre compétence utilitaire par Décollage :\nConsomme de la <color=#D78326>chaleur</color> pour <style=cIsUtility>planer</style> dans les airs.", 
+
+		"SS2_PYRO_PASSIVE_NAME": "Brasier-né",
+		"SS2_PYRO_PASSIVE_DESC": "Le Pyro est <style=cIsUtility>immunisé</style> aux brûlures et gagne de la <color=#D78326>chaleur</color> des ennemis en feu à proximité.",
+
+		"SS2_PYRO_PRIMARY_NAME": "Brûlure",
+		"SS2_PYRO_PRIMARY_DESC": "<color=#D78326>Réchauffez-vous</color> en brûlant les ennemis pour <style=cIsDamage>270% de dégâts par seconde</style>. À <color=#D78326>70% de chaleur</color>, gagne une chance d'<style=cIsDamage>enflammer</style>.",
+
+		"SS2_PYRO_SECONDARY_NAME": "Réduction des risques",
+		"SS2_PYRO_SECONDARY_DESC": "<style=cIsDamage>Inflammation</style>. Consommez de la <color=#D78326>chaleur</color> pour brûler les ennemis pour <style=cIsDamage>451% de dégâts par seconde</style>. À <color=#D78326>70% de chaleur</color>, laissez une traînée de feu pour <style=cIsDamage>200% de dégâts par seconde</style>.",
+
+		"SS2_PYRO_SECONDARY_ALT_NAME": "Vague de chaleur",
+		"SS2_PYRO_SECONDARY_ALT_DESC": "<color=#D78326>30% de chaleur</color>. Tirez une rafale de flammes, <color=#D78326>enflammant</color> les ennemis pour <style=cIsDamage>400% de dégâts</style> et <style=cIsUtility>réfléchissant les projectiles</style>. Les charges supplémentaires <color=#D78326>réduisent la consommation de chaleur de 15%</color>.",
+
+		"SS2_PYRO_UTILITY_NAME": "Contrôle d'allumage",
+		"SS2_PYRO_UTILITY_DESC": "Consommez de la <color=#D78326>chaleur</color> pour charger un saut explosif pour <style=cIsDamage>350% de dégâts</style>. Peut être <style=cIsUtility>réactivé</style> pour planer dans les airs.",
+
+		"SS2_PYRO_UTILITY2_NAME": "Décollage",
+		"SS2_PYRO_UTILITY2_DESC": "Consommez de la <color=#D78326>chaleur</color> pour <style=cIsUtility>planer</style> dans les airs.",
+
+		"SS2_PYRO_SPECIAL_NAME": "Incinérer",
+		"SS2_PYRO_SPECIAL_DESC": "<color=#D78326>70% de Chaleur</color>. Lancez une boule de feu pour <style=cIsDamage>800% de dégâts</style>. Les ennemis enflammés augmentent le rayon d'explosion, puis explosent pour <style=cIsDamage>400% de dégâts</style>.",
+
+		"SS2_PYRO_SPECIAL_ALT_NAME": "DM34 \"Exterminateur\"",
+		"SS2_PYRO_SPECIAL_ALT_DESC": "<style=cIsDamage>Combustion</style>. Tirez une rafale de fusil à pompe pour <style=cIsDamage>8x50% de dégâts</style>."
+	}
+}

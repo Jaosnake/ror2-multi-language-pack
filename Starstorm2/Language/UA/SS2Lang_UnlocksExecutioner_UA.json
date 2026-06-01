@@ -1,0 +1,18 @@
+{
+    "strings": {
+        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Перебір",
+        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Переможіть ворога, завдавши 1000% його максимального здоров'я шкодою.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Кат: Майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "Як Кат, пройдіть гру або знищте себе на Мусоні або складніше.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Кат: Велика Майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "Як Кат, пройдіть гру або знищте себе на Тайфуні або складніше.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Кат: Відкрити Сховище",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "Як Кат, відкрийте стародавні ворота на Покинутому Акведуку.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Кат: Кувабара, Кувабара",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "Як Кат, переможіть Надлишкового Черва за допомогою Execution.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Кат: Вбивця",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "Як Кат, вбийте 12 ворогів за одне використання Execution.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Кат: Примусовий Розряд",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "Як Кат, станьте Надзарядженим."
+    }
+}
