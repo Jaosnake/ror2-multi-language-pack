@@ -1,29 +1,78 @@
 # ror2-multi-language-pack
 
-Pacote de tradução multi-idioma para mods de **Risk of Rain 2**.
+## Overview
+A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers translation files for supported mods into a single, Thunderstore‑ready monorepo. Each mod's language pack is completely self‑contained and can be built and published independently.
 
-Este repositório centraliza language packs de diversos mods, com suporte a 8 idiomas cada, traduzidos a partir do EN (fonte de verdade).
+---
 
-## Mods disponíveis
+## Available Mods
+| Mod | Translation status | Thunderstore package |
+|-----|-------------------|----------------------|
+| **Starstorm 2** | ✅ Complete – 8 languages | `Starstorm2/` (ready to zip) |
+| **Sandswept** | 🟡 In progress | `Sandswept/` (placeholder) |
 
-| Mod | Status | Link Thunderstore |
-|-----|--------|------------------|
-| **Starstorm 2** | ✅ Completo (8 idiomas) | — |
-| **Sandswept** | 🟡 Em breve | — |
+---
 
-## Idiomas
+## Supported Languages
+- 🇧🇷 PT‑BR (Brazilian Portuguese)
+- 🇺🇦 UA (Ukrainian)
+- 🇰🇷 KO (Korean)
+- 🇫🇷 FR (French)
+- 🇷🇺 RU (Russian)
+- 🇨🇳 zh‑CN (Simplified Chinese)
+- 🇪🇸 es‑419 (Latin American Spanish)
+- 🇹🇷 TR (Turkish)
 
-🇧🇷 PT-BR · 🇺🇦 UA · 🇰🇷 KO · 🇫🇷 FR · 🇷🇺 RU · 🇨🇳 zh-CN · 🇪🇸 es-419 · 🇹🇷 TR
+---
 
-## Estrutura
+## Repository Layout
+```
+ror2-multi-language-pack/
+├─ README.md               # This file
+├─ LICENSE.txt             # GPL‑3.0
+├─ docs/
+│   └─ traducaobr.md       # Translation reference guide
+├─ Starstorm2/             # Thunderstore package for Starstorm 2
+│   ├─ manifest.json
+│   ├─ icon.png
+│   ├─ README.md           # Package‑specific readme
+│   └─ Language/           # 8 language folders, 47 JSON files each
+└─ Sandswept/              # Placeholder for future packs
+    └─ README.md
+```
+Each subfolder is a **stand‑alone Thunderstore package** – simply zip its contents (manifest, icon, README, Language folder) and upload.
 
-Cada subpasta (`Starstorm2/`, `Sandswept/`, etc.) é um pacote Thunderstore autônomo — basta zipar o conteúdo e publicar.
+---
 
-## Créditos
+## Getting Started
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/Jaosnake/ror2-multi-language-pack.git
+   cd ror2-multi-language-pack
+   ```
+2. **Build a package** (example for Starstorm 2):
+   ```bash
+   cd Starstorm2
+   zip -r ../Starstorm2.zip *
+   ```
+   The resulting `Starstorm2.zip` can be uploaded to Thunderstore.
+3. **Add or update translations** – edit the JSON files under `Language/<lang>/` and run the sync script (if needed) to keep keys consistent across languages.
 
-**Traduções**: Jaosnake  
-**Mods originais**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept) e respectivos times.
+---
 
-## Licença
+## Contributing
+- Fork the repository.
+- Create a branch for your changes.
+- Ensure translation keys stay in sync (all languages must have the same set of keys).
+- Submit a pull request.
 
-GNU General Public License v3.0
+---
+
+## License
+This project is licensed under the **GNU General Public License v3.0**.
+
+---
+
+## Credits
+- **Translations**: Jaosnake
+- **Original mods**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept) and their respective authors.
