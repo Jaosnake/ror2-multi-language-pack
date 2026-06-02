@@ -3,7 +3,7 @@
     "author": "Jaosnake",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description": "Tradução PT-BR/RU/KO/FR/es-419/zh-CN/TR/UA para Starstorm 2 (TeamMoonstorm). Autor: Jaosnake",
+    "description": "Translation pack (PT-BR/UA/KO/FR/RU/zh-CN/es-419/TR) for Starstorm 2 by TeamMoonstorm. Translation by Jaosnake.",
     "dependencies": [
         "TeamMoonstorm-Starstorm2-0.6.38"
     ]

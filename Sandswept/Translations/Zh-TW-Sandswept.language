@@ -94,7 +94,7 @@
         "ITEM_SANDSWEPT_CROWNS_DIAMOND_NAME": "王冠之鑽",
         "ITEM_SANDSWEPT_CROWNS_DIAMOND_PICKUP": "擊殺精英敵人時獲得最大生命值一定百分比的護盾。",
         "ITEM_SANDSWEPT_CROWNS_DIAMOND_DESCRIPTION": "擊殺<style=cIsUtility>精英</style>敵人時，獲得最大生命值{barrierPercent}%（+{barrierPercentStack}%/層）的<style=cIsHealing>護盾</style>。此護盾<style=cIsUtility>不會衰減</style>，但不會疊加。",
-        "ITEM_SANDSWEPT_CROWNS_DIAMOND_LORE": 「「我還是覺得我們不該拿這個。這是一種宗教法器……」\n\n「管它宗教不宗教，它在那邊救了我們的命。我要留著它。」\n\n「如果它屬於某個重要的人呢？某個會想要回它的人？」\n\n「在這種地方？我不信。如果他們來找，我們就談判。」\n\n「對一個剛偷了聖物的人來說，你真是樂觀。」\n\n「對一個剛在精英攻擊中活下來的人來說，你真是多疑。放下吧。」」\n\n",
+        "ITEM_SANDSWEPT_CROWNS_DIAMOND_LORE": "「「我還是覺得我們不該拿這個。這是一種宗教法器……」\n\n「管它宗教不宗教，它在那邊救了我們的命。我要留著它。」\n\n「如果它屬於某個重要的人呢？某個會想要回它的人？」\n\n「在這種地方？我不信。如果他們來找，我們就談判。」\n\n「對一個剛偷了聖物的人來說，你真是樂觀。」\n\n「對一個剛在精英攻擊中活下來的人來說，你真是多疑。放下吧。」」\n\n",
 
         "ITEM_SANDSWEPT_DRIFTING_PERCEPTION_NAME": "漂流的感知",
         "ITEM_SANDSWEPT_DRIFTING_PERCEPTION_PICKUP": "進入戰鬥時隱身。隱身時獲得提升的爆擊率和爆擊傷害。",
