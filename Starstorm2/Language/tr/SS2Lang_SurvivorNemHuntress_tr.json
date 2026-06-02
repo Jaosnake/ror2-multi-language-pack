@@ -1,20 +1,20 @@
 {
-    "strings": {
-        "SS2_NEMHUNTRESS2_BODY_NAME": "Nemesis Huntress",
-        "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Cunning Stalker",
-        "SS2_NEMHUNTRESS2_DESCRIPTION": "The Nemesis Huntress engages against enemies slowly but ruthlessly with their deadly longbow and double headed hatchet.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.\n\nThis mod was translated by: Jaosnake",
-        "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..and so they left, finding a new home far away.",
-        "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..and so they vanished, .",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Combat Visor",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Highlight <style=cIsDamage>Weak Points</style> while in combat, which can be struck with all arrows for <style=cIsDamage>1.5x damage</style>.",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Heavy Bolt",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Hold to <style=cIsUtility>charge</style>, and release to fire an arrow for up to <style=cIsDamage>400% damage</style>. Arrow <style=cIsUtility>velocity</style>, <style=cIsDamage>damage</style>, and <style=cIsUtility>accuracy</style> scale with charge level.",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Laser Hatchet",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Swing and throw a boomeranging, piercing hatchet for <style=cIsDamage>240% damage</style>. Hits <style=cIsDamage>5 times per second</style> while in the air.",
-        "SS2_KEYWORD_REARM": "<style=cKeywordName>Rearming</style><style=cSub>Adds 2 more projectiles to the next use of primary, up to a maximum of 7.",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Phase Blink",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Rearming</style>. <style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> a short distance. Can store up to <style=cIsUtility>3</style> charges.",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Explosive Bolt",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Swap the arrow of your next <style=cIsDamage>primary</style> with a <style=cIsDamage>stunning</style> arrow that explodes shortly after impact for <style=cIsDamage>400% damage</style>."
-    }
+  "strings": {
+    "SS2_NEMHUNTRESS2_BODY_NAME": "Nemesis Avcısı",
+    "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Kurnaz Avcı",
+    "SS2_NEMHUNTRESS2_DESCRIPTION": "The Nemesis Huntress engages against enemies slowly but ruthlessly with their deadly longbow and double headed hatchet.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..ve böylece uzakta yeni bir yuva bularak ayrıldılar.",
+    "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..ve böylece ortadan kayboldular.",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Savaş Vizörü",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Savaş sırasında <style=cIsDamage>Zayıf Noktaları</style> vurgulayın; <style=cIsDamage>1,5 kat hasar için tüm oklarla vurulabilir</style>.",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Ağır Cıvata",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. <style=cIsUtility>Şarj</style>'ye basılı tutun ve <style=cIsDamage>%400'e kadar hasar için bir ok atmak üzere bırakın</style>. Ok <style=cIsUtility>velocity</style>, <style=cIsDamage>damage</style> ve <style=cIsUtility>accuracy</style> şarj seviyesi ile ölçek.",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Lazer Baltası",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "<style=cIsDamage>%240 hasar için bumerang gibi delici bir baltayı sallayın ve fırlatın</style>. Havadayken <style=cIsDamage></style> saniyede 5 kez vurur.",
+    "SS2_KEYWORD_REARM": "<style=cKeywordName>Yeniden Silahlandırma</style><style=cSub>ABir sonraki birincil kullanımına maksimum 7'ye kadar 2 mermi daha ekler.",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Faz Yanıp Sönüyor",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Yeniden silahlandırma</style>. <style=cIsUtility>Disappear</style> ve <style=cIsUtility>teleport</style> kısa bir mesafe. <style=cIsUtility>3</style> ücretine kadar depolayabilir.",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Patlayıcı Cıvata",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Bir sonraki <style=cIsDamage>birincil</style>'nizin okunu, <style=cIsDamage>%400 hasar</style> için darbeden kısa süre sonra patlayan bir <style=cIsDamage>sersemletici</style> okuyla değiştirin."
+  }
 }

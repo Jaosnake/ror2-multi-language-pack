@@ -5,18 +5,14 @@
     "SS2_NEMBANDIT_DESCRIPTION": "Le Bandit Némésis se positionne prudemment grâce à un camouflage technologique pour maîtriser ses ennemis et éliminer les foules. \n\n<color=#CCD3E0>< ! > Ne montrez aucune pitié.\n\nThis mod was translated by: Jaosnake",
     "SS2_NEMBANDIT_OUTRO_FLAVOR": "..et ainsi il partit, sans absolument aucun regret.",
     "SS2_NEMBANDIT_OUTRO_FAILURE": "..et ainsi il retourna, la chance ayant finalement tourné.",
-    "SS2_NEMBANDIT_LORE": "yehaw",
-
-   "SS2_NEMBANDIT_PRIMARY_NAME": "Fossoyeur",
-   "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Tirez un coup de revolver pour <style=cIsDamage>220% de dégâts</style>. Peut contenir jusqu'à 6 balles.",
-
-   "SS2_NEMBANDIT_SECONDARY_NAME": "Lancer de dynamite",
-   "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "lancez de la dynamite, chiffres à déterminer plus tard",
-
-   "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Lancer de pièce",
-   "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "tu sais ce que ça fait",
-
-   "SS2_NEMBANDIT_SPECIAL_NAME": "Éclaboussure",
-   "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Tirez une rafale de fusil à pompe pour <style=cIsDamage>6x100% de dégâts</style>. Les kills <style=cIsUtility>réinitialisent tous vos temps de recharge.</style>"
+    "SS2_NEMBANDIT_LORE": "ouais",
+    "SS2_NEMBANDIT_PRIMARY_NAME": "Fossoyeur",
+    "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Tirez un coup de revolver pour <style=cIsDamage>220% de dégâts</style>. Peut contenir jusqu'à 6 balles.",
+    "SS2_NEMBANDIT_SECONDARY_NAME": "Lancer de dynamite",
+    "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "lancez de la dynamite, chiffres à déterminer plus tard",
+    "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Lancer de pièce",
+    "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "tu sais ce que ça fait",
+    "SS2_NEMBANDIT_SPECIAL_NAME": "Éclaboussure",
+    "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Tirez une rafale de fusil à pompe pour <style=cIsDamage>6x100% de dégâts</style>. Les kills <style=cIsUtility>réinitialisent tous vos temps de recharge.</style>"
   }
 }

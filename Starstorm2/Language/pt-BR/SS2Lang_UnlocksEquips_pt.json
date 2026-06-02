@@ -1,7 +1,6 @@
 {
-    "strings":
-    {
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Porta-Bandeira",
-		"SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Colete e leve 4 Bandeiras de Guerra de uma só vez."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Carry 4 Warbanners at once."
+  }
 }

@@ -1,20 +1,20 @@
 {
-    "strings": {
-        "SS2_NEMHUNTRESS2_BODY_NAME": "Nemesis Huntress",
-        "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Cunning Stalker",
-        "SS2_NEMHUNTRESS2_DESCRIPTION": "La Cazadora Némesis ataca lenta pero despiadadamente con su letal arco largo y hacha doble.",
-        "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..and so they left, finding a new home far away.",
-        "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..and so they vanished, .",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Combat Visor",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Highlight <style=cIsDamage>Weak Points</style> while in combat, which can be struck with all arrows for <style=cIsDamage>1.5x damage</style>.",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Heavy Bolt",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Hold to <style=cIsUtility>charge</style>, and release to fire an arrow for up to <style=cIsDamage>400% damage</style>. Arrow <style=cIsUtility>velocity</style>, <style=cIsDamage>damage</style>, and <style=cIsUtility>accuracy</style> scale with charge level.",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Laser Hatchet",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Swing and throw a boomeranging, piercing hatchet for <style=cIsDamage>240% damage</style>. Hits <style=cIsDamage>5 times per second</style> while in the air.",
-        "SS2_KEYWORD_REARM": "<style=cKeywordName>Rearming</style><style=cSub>Adds 2 more projectiles to the next use of primary, up to a maximum of 7.",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Phase Blink",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Rearming</style>. <style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> a short distance. Can store up to <style=cIsUtility>3</style> charges.",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Explosive Bolt",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Swap the arrow of your next <style=cIsDamage>primary</style> with a <style=cIsDamage>stunning</style> arrow that explodes shortly after impact for <style=cIsDamage>400% damage</style>."
-    }
+  "strings": {
+    "SS2_NEMHUNTRESS2_BODY_NAME": "Cazadora Némesis",
+    "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Acosador astuto",
+    "SS2_NEMHUNTRESS2_DESCRIPTION": "La Cazadora Némesis ataca lenta pero despiadadamente con su letal arco largo y hacha doble.",
+    "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..y así se fueron, encontrando un nuevo hogar muy lejos.",
+    "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..y así desaparecieron, .",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Visera de combate",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Resalte <style=cIsDamage>Puntos débiles</style> mientras está en combate, que puede ser golpeado con todas las flechas para <style=cIsDamage>1.5x daño</style>.",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Perno pesado",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Mantén presionado <style=cIsUtility>charge</style> y suelta para disparar una flecha con hasta <style=cIsDamage>400% de daño</style>. Báscula Arrow <style=cIsUtility>velocity</style>, <style=cIsDamage>damage</style> y <style=cIsUtility>accuracy</style> con nivel de carga.",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Hacha láser",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Balancea y lanza un hacha perforadora y boomerang para <style=cIsDamage>240% de daño</style>. Golpea a <style=cIsDamage> 5 veces por segundo </style> mientras está en el aire.",
+    "SS2_KEYWORD_REARM": "<style=cKeywordName>Rearming</style><style=cSub>Agrega 2 proyectiles más al siguiente uso de primario, hasta un máximo de 7.",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Parpadeo de fase",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Armado</style>. <style=cIsUtility>Desaparecen</style> y <style=cIsUtility>teletransportan</style> a corta distancia. Puede almacenar hasta cargas <style=cIsUtility>3</style>.",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Rayo explosivo",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Cambia la flecha de tu próximo <style=cIsDamage>primary</style> por una flecha <style=cIsDamage>stunning</style> que explota poco después del impacto para <style=cIsDamage>400% de daño</style>."
+  }
 }

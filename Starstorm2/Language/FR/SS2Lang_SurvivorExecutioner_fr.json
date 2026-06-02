@@ -1,45 +1,35 @@
 {
-    "strings":
-    {
-        "SS2_EXECUTIONER_NAME": "Executioner",
-        "SS2_EXECUTIONER_SUBTITLE": "Dreaded Guillotine",
-        "SS2_EXECUTIONER_DESCRIPTION" : "The Executioner is a high-risk, high-reward survivor that's all about racking up an endless kill count.\n\n<color=#CCD3E0> < ! > Use Service Pistol to score some kills, with each kill building up an even stronger Ion Burst.\n\n< ! > You can tap Ion Burst to fire a few shots, or hold it to fire them all.\n\n< ! > Execution is a great crowd control AND single target tool. Don't forget that its damage depends on how many targets it hits!\n\n< ! > If you find yourself getting swarmed, Crowd Dispersion can get enemies off your back fast.",
-        "SS2_EXECUTIONER_OUTRO_FLAVOR": "..and so he left, an empty shell of armor drenched in blood.",
-        "SS2_EXECUTIONER_OUTRO_FAILURE": "..and so he vanished, escaping the inevitable.",
-        "SS2_EXECUTIONER_LORE": "Death is inevitable. It comes for us all. Some may try to evade it, or run from it. But death arrives all the same. Death, however, is simply the cost of war. And death in glorious combat is one of the best deaths a man could ask for.\n\nBut, as always, some would seek to run from death. We call them by many names. Deserters, cowards, turncoats. Each and every one of them, traitors to the cause. These traitors must be punished for their crime. And that punishment: in an ironic twist, is the very thing they tried to avoid.\n\nDeath will come for them. Not as a robed spectre with a scythe. Not in a trench coat, holding a revolver. Not as a sickness, nor the wear of time. No. For them, death will come bearing lustrous battlegarb, with service pistol loaded, and ion manipulators fully charged.",
-
-        
-
-        "SS2_KEYWORD_FEAR": "<style=cKeywordName>Fear</style><style=cSub>Causes afflicted enemies to stop attacking and flee. Enemies afflicted with fear take 50% more damage and have their movement speed slowed by 30%.</style>",
-		"SS2_KEYWORD_EXECUTING": "<style=cKeywordName>Executing</style><style=cSub>Deals doubled damage if no more than 1 enemy is hit.</style>",
-		"SS2_KEYWORD_RECHARGING": "<style=cKeywordName>Recharging</style><style=cSub>Killing enemies restores charges of this skill, depending on the strength of the slain enemy. Doubled charges with kills from Execution.</style>",
-
-        
-
-        "SS2_EXECUTIONER_PASSIVE_NAME": "Bloodbath",
-		"SS2_EXECUTIONER_PASSIVE_DESC": "Killing enemies inflicted with <style=cIsUtility>fear</style> reduces all skill cooldowns by <style=cIsUtility>1 second</style>.",
-
-        
-        
-        "SS2_EXECUTIONER_PISTOL_NAME": "Pistolet de service",
-        "SS2_EXECUTIONER_PISTOL_DESCRIPTION": "Tirez avec votre pistolet pour infliger <style=cIsDamage>180% de dégâts</style>.",
-        "SS2_EXECUTIONER_TASER_NAME": "Deadly Voltage",
-        "SS2_EXECUTIONER_TASER_DESCRIPTION": "Fire arcs of lightning forward for <style=cIsDamage>{0}% damage</style>.",
-        "SS2_EXECUTIONER_SWINGAXE_NAME": "Ion Axe",
-        "SS2_EXECUTIONER_SWINGAXE_DESCRIPTION": "Swing your axe for <style=cIsDamage>% damage</style>. <style=cIsUtility>Each Secondary charge grants 4% maximum health in shield</style>.",
-        "SS2_EXECUTIONER_IONGUN_NAME": "Ion Burst",
-        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>Recharging.</style> Fire a barrage of ionized bullets, dealing <style=cIsDamage>{0}% damage</style> each. <style=cIsUtility>Up to 5 charges are fired at a time</style>.",
-        "SS2_EXECUTIONER_IONBLAST_NAME": "Ion Blast",
-        "SS2_EXECUTIONER_IONBLAST_DESCRIPTION": "Fire a blast of raw ion energy for <style=cIsDamage>% damage</style>. Can be <style=cIsUtility>charged</style>, using multiple charges at once. <style=cIsUtility>Restocks charges for every enemy you kill, depending on strength</style>.",
-        "SS2_EXECUTIONER_DASH_NAME": "Crowd Dispersion",
-        "SS2_EXECUTIONER_DASH_DESCRIPTION": "Boost forward and <style=cIsUtility>fear</style> all nearby enemies for <style=cIsUtility>{0} seconds</style>.",
-        "SS2_EXECUTIONER_AXE_NAME": "Execution",
-        "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>Heavy</style>. <style=cIsDamage>Executing.</style> Launch into the air and slam downwards with a massive ion axe for <style=cIsDamage>{0}% damage</style>.",
-        "SS2_EXECUTIONER_AXESCEPTER_NAME": "Crowd Execution",
-        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Launch into the air and slam downward with your ion axe for <style=cIsDamage>3000% damage</style>.",
-		"SS2_EXECUTIONER_ARMOR_NAME": "Ion Juggernaut",
-		"SS2_EXECUTIONER_ARMOR_DESCRIPTION": "Equip a suit of ionized armor, giving <style=cIsUtility>60 armor</style> and <style=cIsDamage>supercharging</style> your secondary skill for <style=cIsDamage>4</style> seconds.",
-		"SS2_EXECUTIONER_ARMORSCEPTER_NAME": "Ion Overlord",
-		"SS2_EXECUTIONER_ARMORSCEPTER_DESCRIPTION": "Equip a suit of ionized armor, giving <style=cIsUtility>80 armor</style> and <style=cIsDamage>supercharging</style> your secondary skill for <style=cIsDamage>4</style> seconds. Killing enemies <style=cIsUtility>fears</style> nearby enemies for 4 seconds."
-    }
+  "strings": {
+    "SS2_EXECUTIONER_NAME": "Bourreau",
+    "SS2_EXECUTIONER_SUBTITLE": "Guillotine redoutée",
+    "SS2_EXECUTIONER_DESCRIPTION": "Le bourreau est un survivant à haut risque et à haute récompense qui vise à accumuler un nombre infini de victimes.\n\n<color=#CCD3E0> < ! > Utilisez le pistolet de service pour marquer quelques victimes, chaque victime créant une explosion ionique encore plus forte.\n\n< ! > Vous pouvez appuyer sur Ion Burst pour tirer quelques coups, ou le maintenir pour les tirer. all.\n\n< ! > Execution est un excellent outil de contrôle des foules AND à cible unique. N'oubliez pas que ses dégâts dépendent du nombre de cibles touchées !\n\n< ! > Si vous vous retrouvez envahi, Crowd Dispersion peut vous débarrasser rapidement des ennemis.",
+    "SS2_EXECUTIONER_OUTRO_FLAVOR": "..et ainsi il partit, une coque d'armure vide trempée de sang.",
+    "SS2_EXECUTIONER_OUTRO_FAILURE": "..et ainsi il a disparu, échappant à l'inévitable.",
+    "SS2_EXECUTIONER_LORE": "La mort est inévitable. Cela vient pour nous tous. Certains peuvent essayer d’y échapper ou de s’enfuir. Mais la mort arrive quand même. Mais la mort n’est que le coût de la guerre. Et la mort dans un combat glorieux est l'une des meilleures morts qu'un homme puisse espérer.\n\nMais, comme toujours, certains chercheraient à fuir la mort. Nous les appelons par plusieurs noms. Déserteurs, lâches, transfuges. Chacun d’entre eux est un traître à la cause. Ces traîtres doivent être punis pour leur crime. Et cette punition : ironiquement, c'est exactement ce qu'ils ont essayé d'éviter.\n\nLa mort viendra pour eux. Pas comme un spectre en robe avec une faux. Pas en trench-coat, avec un revolver à la main. Ni comme une maladie, ni comme l'usure du temps. Non. Pour eux, la mort viendra avec des tenues de combat brillantes, un pistolet de service chargé et des manipulateurs d'ions complètement chargés.",
+    "SS2_KEYWORD_FEAR": "<style=cKeywordName>Fear</style><style=cSub>Amène les ennemis affectés à cesser d'attaquer et à fuir. Les ennemis affligés de peur subissent 50 % de dégâts supplémentaires et voient leur vitesse de déplacement ralentie de 30 %.</style>",
+    "SS2_KEYWORD_EXECUTING": "<style=cKeywordName>Executing</style><style=cSub>Inflige des dégâts doublés si pas plus d'un ennemi est touché.</style>",
+    "SS2_KEYWORD_RECHARGING": "<style=cKeywordName>Recharge</style><style=cSub>Tuer des ennemis restaure les charges de cette compétence, en fonction de la force de l'ennemi tué. Charges doublées avec les éliminations lors de l'exécution.</style>",
+    "SS2_EXECUTIONER_PASSIVE_NAME": "Bain de sang",
+    "SS2_EXECUTIONER_PASSIVE_DESC": "Tuer des ennemis infligés par <style=cIsUtility>fear</style> réduit tous les temps de recharge de compétences de <style=cIsUtility>1 seconde</style>.",
+    "SS2_EXECUTIONER_PISTOL_NAME": "Pistolet de service",
+    "SS2_EXECUTIONER_PISTOL_DESCRIPTION": "Tirez avec votre pistolet pour infliger <style=cIsDamage>180% de dégâts</style>.",
+    "SS2_EXECUTIONER_TASER_NAME": "Tension mortelle",
+    "SS2_EXECUTIONER_TASER_DESCRIPTION": "Tirez des arcs de foudre vers l'avant pour infliger des dégâts <style=cIsDamage>{0}%</style>.",
+    "SS2_EXECUTIONER_SWINGAXE_NAME": "Hache ionique",
+    "SS2_EXECUTIONER_SWINGAXE_DESCRIPTION": "Balancez votre hache pour <style=cIsDamage>% de dégâts</style>. <style=cIsUtility>Echaque charge secondaire accorde 4% de santé maximale dans le bouclier</style>.",
+    "SS2_EXECUTIONER_IONGUN_NAME": "Explosion ionique",
+    "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>Rechargement.</style> Tirez un barrage de balles ionisées, infligeant chacune <style=cIsDamage>{0} % de dégâts</style>. <style=cIsUtility>Jusqu'à 5 charges sont tirées à la fois</style>.",
+    "SS2_EXECUTIONER_IONBLAST_NAME": "Explosion ionique",
+    "SS2_EXECUTIONER_IONBLAST_DESCRIPTION": "Tirez une explosion d'énergie ionique brute pour <style=cIsDamage> % de dégâts</style>. Peut être chargé <style=cIsUtility></style>, en utilisant plusieurs charges à la fois. <style=cIsUtility>Réstocke des charges pour chaque ennemi que vous tuez, en fonction de sa force. </style>.",
+    "SS2_EXECUTIONER_DASH_NAME": "Dispersion de la foule",
+    "SS2_EXECUTIONER_DASH_DESCRIPTION": "Boostez en avant et <style=cIsUtility>fear</style> tous les ennemis proches pendant <style=cIsUtility>{0} secondes</style>.",
+    "SS2_EXECUTIONER_AXE_NAME": "Exécution",
+    "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>Hevy</style>. <style=cIsDamage>Executing.</style> Lancez-vous dans les airs et frappez vers le bas avec une énorme hache ionique pour <style=cIsDamage>{0}% de dégâts</style>.",
+    "SS2_EXECUTIONER_AXESCEPTER_NAME": "Exécution de foule",
+    "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Lancez-vous dans les airs et frappez vers le bas avec votre hache ionique pour <style=cIsDamage>3000% de dégâts</style>.",
+    "SS2_EXECUTIONER_ARMOR_NAME": "Juggernaut ionique",
+    "SS2_EXECUTIONER_ARMOR_DESCRIPTION": "Équipez-vous d'une armure ionisée, donnant à l'armure <style=cIsUtility>60</style> et à la supercharge <style=cIsDamage></style> votre compétence secondaire pendant <style=cIsDamage>4</style> secondes.",
+    "SS2_EXECUTIONER_ARMORSCEPTER_NAME": "Ion Overlord",
+    "SS2_EXECUTIONER_ARMORSCEPTER_DESCRIPTION": "Equip a suit of ionized armor, giving <style=cIsUtility>80 armor</style> and <style=cIsDamage>supercharging</style> your secondary skill for <style=cIsDamage>4</style> seconds. Killing enemies <style=cIsUtility>fears</style> nearby enemies for 4 seconds."
+  }
 }

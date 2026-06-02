@@ -1,24 +1,18 @@
 {
   "strings": {
-    "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "过度灭杀",
-    "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "通过造成相当于敌人最大生命值1000%的伤害击败一名敌人。",
-
-    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "行刑者：精通",
-    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "作为行刑者，在季风或更高难度下通关或抹除自己。",
-
-    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "行刑者：完全精通",
-    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "作为行刑者，在台风或更高难度下通关或抹除自己。",
-
-    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "行刑者：开启密藏",
-    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "作为行刑者，在废弃沟渠开启远古大门。",
-
-    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "行刑者：桑田、桑田",
-    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "作为行刑者，使用处决击败一只过载蠕虫",
-
-    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "行刑者：屠戮者",
-    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "作为行刑者，单次使用处决消灭12名敌人",
-
-    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "行刑者：强制放电",
-    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "作为行刑者，进入超载状态。"
+    "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
+    "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Defeat an enemy by dealing 1000% of its max health in damage.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Executioner: Mastery",
+    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Executioner, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Executioner: Grand Mastery",
+    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "As Executioner, beat the game or obliterate on Typhoon or harder.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Executioner: Crack the Vault",
+    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Executioner, open the ancient gate on Abandoned Aqueduct.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Executioner: Kuwabara, Kuwabara",
+    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Executioner, defeat an Overloading Worm using Execution.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Executioner: Slayer",
+    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "As Executioner, slay 12 enemies in a single use of Execution.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Executioner: Forced Discharge",
+    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "As Executioner, become Supercharged."
   }
 }

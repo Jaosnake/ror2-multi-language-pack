@@ -1,9 +1,8 @@
 {
   "strings": {
-    "SS2_ACHIEVEMENT_COGNATION_NAME": "衍生试炼",
-    "SS2_ACHIEVEMENT_COGNATION_DESC": "完成衍生试炼",
-
-    "SS2_ACHIEVEMENT_HAVOC_NAME": "浩劫试炼",
-    "SS2_ACHIEVEMENT_HAVOC_DESC": "完成浩劫试炼"
+    "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
+    "SS2_ACHIEVEMENT_COGNATION_DESC": "Complete the Trial of Cognation",
+    "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
+    "SS2_ACHIEVEMENT_HAVOC_DESC": "Complete the Trial of Havoc"
   }
 }

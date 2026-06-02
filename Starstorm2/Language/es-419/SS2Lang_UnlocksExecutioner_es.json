@@ -1,18 +1,18 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
-        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Derrota a un enemigo infligiendo 1000% de su salud máxima en daño.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Ejecutor: Maestría",
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "Con el Ejecutor, completa el juego o destrúyete en Monzón.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Ejecutor: Gran Maestría",
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "Con el Ejecutor, completa el juego o destrúyete en Tifón.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Ejecutor: Saqueador",
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "Con el Ejecutor, abre la cámara oculta en el Acueducto abandonado.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Ejecutor: Electrificante",
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "Con el Ejecutor, mata a 15 enemigos sobrecargados en una misma fase.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Ejecutor: Asesino",
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "Con el Ejecutor, mata a 12 enemigos con un solo uso de Ejecución.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Ejecutor: Descarga forzosa",
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "Con el Ejecutor, Sobrecárgate."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
+    "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Defeat an enemy by dealing 1000% of its max health in damage.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Executioner: Mastery",
+    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Executioner, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Executioner: Grand Mastery",
+    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "As Executioner, beat the game or obliterate on Typhoon or harder.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Executioner: Crack the Vault",
+    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Executioner, open the ancient gate on Abandoned Aqueduct.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Executioner: Kuwabara, Kuwabara",
+    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Executioner, defeat an Overloading Worm using Execution.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Executioner: Slayer",
+    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "As Executioner, slay 12 enemies in a single use of Execution.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Executioner: Forced Discharge",
+    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "As Executioner, become Supercharged."
+  }
 }

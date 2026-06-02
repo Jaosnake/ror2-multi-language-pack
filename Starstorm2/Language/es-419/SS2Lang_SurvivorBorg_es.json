@@ -1,23 +1,23 @@
 {
-    "strings": {
-        "SS2_BORG_NAME": "Borg",
-        "SS2_BORG_SUBTITLE": "Monstruosidad Hecha por el Hombre",
-        "SS2_BORG_DESCRIPTION": "El Borg es un superviviente versátil, preparado para cualquier situación.<color=#CCD3E0> \n\n < ! > Unmaker es instantáneo y muy preciso, útil contra enemigos a corta y larga distancia. \n\n < ! > Rising Star brilla al lidiar con varios enemigos difíciles de golpear. \n\n < ! > Overheat Redress aspira enemigos cercanos antes de explotar - también proporciona movimiento en dirección opuesta. \n\n < ! > Recall puede ser útil para volver al teletransportador o a un interactuable. Teletransportarse inflige daño a enemigos dentro de ti.</color>\n\n",
-        "SS2_BORG_OUTRO_FLAVOR": "..y así se fue, con un brazo roto y sin piezas de repuesto.",
-        "SS2_BORG_OUTRO_FAILURE": "..y así desapareció, la baliza sin señal.",
-        "SS2_BORG_LORE": "[temp] Lore de Borg",
-        "KEYWORD_SS2_TELEFRAG": "<style=cKeywordName>Teletrafragmento</style><style=cSub>Inflige daño grave a los enemigos al teletransportarse dentro de ellos.</style>",
-        "SS2_BORG_PASSIVE_NAME": "Propulsores a Chorro",
-        "SS2_BORG_PASSIVE_DESCRIPTION": "Mantener Salto permite <style=cIsUtility>descender lentamente</style>.",
-        "SS2_BORG_PRIMARY_GUN_NAME": "Unmaker",
-        "SS2_BORG_PRIMARY_GUN_DESCRIPTION": "Dispara por <style=cIsDamage>% de daño</style>.",
-        "SS2_BORG_SECONDARY_AIMBOT_NAME": "Rising Star",
-        "SS2_BORG_SECONDARY_AIMBOT_DESCRIPTION": "<style=cIsUtility>Aturdidor</style>. Dispara tres disparos buscadores por <style=cIsDamage>3x% de daño</style>.",
-        "SS2_BORG_SPECIAL_NOTPREON_NAME": "Overheat Redress",
-        "SS2_BORG_SPECIAL_NOTPREON_DESCRIPTION": "Explota hacia atrás, disparando una bala de energía por <style=cIsDamage>% de daño por segundo</style>. Explota tras tiempo.",
-        "SS2_BORG_SPECIAL_TELEPORT_NAME": "Recall",
-        "SS2_BORG_SPECIAL_TELEPORT_DESCRIPTION": "<style=cIsDamage>Teletrafragmento</style>. Coloca una baliza de teletransporte. Reusa para teletransportarte. <style=cIsUtility>Reduce tiempos de reutilización en 4s</style>.",
-        "SS2_BORG_SPECIAL_TELEPORTB_NAME": "Recall",
-        "SS2_BORG_SPECIAL_TELEPORTB_DESCRIPTION": "Toca para teletransportarte a tu baliza. Mantén para eliminarla."
-    }
+  "strings": {
+    "SS2_BORG_NAME": "Borgoña",
+    "SS2_BORG_SUBTITLE": "Monstruosidad Hecha por el Hombre",
+    "SS2_BORG_DESCRIPTION": "El Borg es un superviviente versátil, preparado para cualquier situación.<color=#CCD3E0> \n\n < ! > Unmaker es instantáneo y muy preciso, útil contra enemigos a corta y larga distancia. \n\n < ! > Rising Star brilla al lidiar con varios enemigos difíciles de golpear. \n\n < ! > Overheat Redress aspira enemigos cercanos antes de explotar - también proporciona movimiento en dirección opuesta. \n\n < ! > Recall puede ser útil para volver al teletransportador o a un interactuable. Teletransportarse inflige daño a enemigos dentro de ti.</color>\n\n",
+    "SS2_BORG_OUTRO_FLAVOR": "..y así se fue, con un brazo roto y sin piezas de repuesto.",
+    "SS2_BORG_OUTRO_FAILURE": "..y así desapareció, la baliza sin señal.",
+    "SS2_BORG_LORE": "[temp] Lore de Borg",
+    "KEYWORD_SS2_TELEFRAG": "<style=cKeywordName>Teletrafragmento</style><style=cSub>Inflige daño grave a los enemigos al teletransportarse dentro de ellos.</style>",
+    "SS2_BORG_PASSIVE_NAME": "Propulsores a Chorro",
+    "SS2_BORG_PASSIVE_DESCRIPTION": "Mantener Salto permite <style=cIsUtility>descender lentamente</style>.",
+    "SS2_BORG_PRIMARY_GUN_NAME": "Deshacer",
+    "SS2_BORG_PRIMARY_GUN_DESCRIPTION": "Dispara por <style=cIsDamage>% de daño</style>.",
+    "SS2_BORG_SECONDARY_AIMBOT_NAME": "Estrella en ascenso",
+    "SS2_BORG_SECONDARY_AIMBOT_DESCRIPTION": "<style=cIsUtility>Aturdidor</style>. Dispara tres disparos buscadores por <style=cIsDamage>3x% de daño</style>.",
+    "SS2_BORG_SPECIAL_NOTPREON_NAME": "Reparación de sobrecalentamiento",
+    "SS2_BORG_SPECIAL_NOTPREON_DESCRIPTION": "Explota hacia atrás, disparando una bala de energía por <style=cIsDamage>% de daño por segundo</style>. Explota tras tiempo.",
+    "SS2_BORG_SPECIAL_TELEPORT_NAME": "Recordar",
+    "SS2_BORG_SPECIAL_TELEPORT_DESCRIPTION": "<style=cIsDamage>Teletrafragmento</style>. Coloca una baliza de teletransporte. Reusa para teletransportarte. <style=cIsUtility>Reduce tiempos de reutilización en 4s</style>.",
+    "SS2_BORG_SPECIAL_TELEPORTB_NAME": "Recordar",
+    "SS2_BORG_SPECIAL_TELEPORTB_DESCRIPTION": "Toca para teletransportarte a tu baliza. Mantén para eliminarla."
+  }
 }

@@ -1,25 +1,18 @@
 {
-    "strings":
-    {
-        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Перебор",
-        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Убейте врага, нанеся 1000% его здоровья в качестве урона.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Палач: Мастерство",
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "Играя за Палача, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей» или выше.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Палач: Великое мастерство",
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "Играя за Палача, пройдите игру или уничтожьтесь на уровне сложности «Тайфун» или выше.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Палач: Проникнуть в убежище",
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "Играя за Палача, откройте древние врата на Заброшенном акведуке.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Палач: Все в шоке",
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "Играя за палача, убейте 15 Перегруженных врагов за один этап.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Палач: Убийца",
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "Играя за палача, убейте 12 врагов одним использованием Казни.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Палач: Утренняя зарядка",
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "Играя за Палача, станьте Сверхзаряженными."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
+    "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Defeat an enemy by dealing 1000% of its max health in damage.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Executioner: Mastery",
+    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Executioner, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Executioner: Grand Mastery",
+    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "As Executioner, beat the game or obliterate on Typhoon or harder.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Executioner: Crack the Vault",
+    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Executioner, open the ancient gate on Abandoned Aqueduct.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Executioner: Kuwabara, Kuwabara",
+    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Executioner, defeat an Overloading Worm using Execution.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Executioner: Slayer",
+    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "As Executioner, slay 12 enemies in a single use of Execution.",
+    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Executioner: Forced Discharge",
+    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "As Executioner, become Supercharged."
+  }
 }

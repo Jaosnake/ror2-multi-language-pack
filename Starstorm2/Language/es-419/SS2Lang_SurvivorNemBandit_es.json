@@ -1,18 +1,18 @@
 {
-    "strings": {
-        "SS2_NEMBANDIT_NAME": "Nemesis Bandit",
-        "SS2_NEMBANDIT_SUBTITLE": "Blackened Outlaw",
-        "SS2_NEMBANDIT_DESCRIPTION": "El Bandido Némesis se posiciona cuidadosamente mediante camuflaje para dominar enemigos y diezmar multitudes.",
-        "SS2_NEMBANDIT_OUTRO_FLAVOR": "..and so he left, with absolutely no regrets.",
-        "SS2_NEMBANDIT_OUTRO_FAILURE": "..and so he returned, luck finally running out.",
-        "SS2_NEMBANDIT_LORE": "yehaw",
-        "SS2_NEMBANDIT_PRIMARY_NAME": "Gunslinger",
-        "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Fire a revolver shot for <style=cIsDamage>220% damage</style>. Can hold up to 6 bullets.",
-        "SS2_NEMBANDIT_SECONDARY_NAME": "Dynamite Toss",
-        "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "toss dynamite figure out #s later",
-        "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Coin Toss",
-        "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "you know what it does",
-        "SS2_NEMBANDIT_SPECIAL_NAME": "Splatter",
-        "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Fire a shotgun burst for <style=cIsDamage>6x100% damage</style>. Kills <style=cIsUtility>reset all your cooldowns.</style>"
-    }
+  "strings": {
+    "SS2_NEMBANDIT_NAME": "Bandido Némesis",
+    "SS2_NEMBANDIT_SUBTITLE": "Forajido ennegrecido",
+    "SS2_NEMBANDIT_DESCRIPTION": "El Bandido Némesis se posiciona cuidadosamente mediante camuflaje para dominar enemigos y diezmar multitudes.",
+    "SS2_NEMBANDIT_OUTRO_FLAVOR": "..y así se fue, sin ningún arrepentimiento.",
+    "SS2_NEMBANDIT_OUTRO_FAILURE": "..y así regresó, finalmente se le acabó la suerte.",
+    "SS2_NEMBANDIT_LORE": "jajaja",
+    "SS2_NEMBANDIT_PRIMARY_NAME": "pistolero",
+    "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Dispara un tiro de revólver para <style=cIsDamage>220% de daño</style>. Puede contener hasta 6 balas.",
+    "SS2_NEMBANDIT_SECONDARY_NAME": "Lanzamiento de dinamita",
+    "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "tira dinamita, descubre #s más tarde",
+    "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Lanzamiento de moneda",
+    "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "sabes lo que hace",
+    "SS2_NEMBANDIT_SPECIAL_NAME": "Salpicar",
+    "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Dispara una ráfaga de escopeta para <style=cIsDamage>6x100% de daño</style>. Mata a <style=cIsUtility>restablece todos tus tiempos de reutilización.</style>"
+  }
 }

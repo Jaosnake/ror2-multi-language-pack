@@ -1,8 +1,8 @@
 {
-    "strings": {
-        "SS2_MAP_VOIDSHOP_NAME": "Приховане Царство: Сховок Незнаяки",
-        "SS2_MAP_VOIDSHOP_SUBTITLE": "Десь у Пустоті",
-        "SS2_MAP_VOIDSHOP_LORE": "Void Shop Temp Lore",
-        "SS2_UNLOCKABLE_LOG_MAP_VOIDSHOP": "Журнал Оточення: Сховок Незнаяки"
-    }
+  "strings": {
+    "SS2_MAP_VOIDSHOP_NAME": "Приховане Царство: Сховок Незнаяки",
+    "SS2_MAP_VOIDSHOP_SUBTITLE": "Десь у Пустоті",
+    "SS2_MAP_VOIDSHOP_LORE": "Історія магазину порожнечі Temp",
+    "SS2_UNLOCKABLE_LOG_MAP_VOIDSHOP": "Environment Log: Stranger's Hideout"
+  }
 }

@@ -1,8 +1,8 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_COGNATION_NAME": "Випробування Когнації",
-        "SS2_ACHIEVEMENT_COGNATION_DESC": "Пройдіть Випробування Когнації",
-        "SS2_ACHIEVEMENT_HAVOC_NAME": "Випробування Хаосу",
-        "SS2_ACHIEVEMENT_HAVOC_DESC": "Пройдіть Випробування Хаосу"
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
+    "SS2_ACHIEVEMENT_COGNATION_DESC": "Complete the Trial of Cognation",
+    "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
+    "SS2_ACHIEVEMENT_HAVOC_DESC": "Complete the Trial of Havoc"
+  }
 }
