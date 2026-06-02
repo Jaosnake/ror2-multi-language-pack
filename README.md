@@ -375,6 +375,7 @@ Important:
 - For standard IDs, R2API treats capitalization as non-critical; keep the spelling/case already used by that package unless the file is actually not loading.
 - `UA` / `ua` is Ukrainian. Risk of Rain 2 does not expose Ukrainian in the vanilla language selector.
 - `pl` is Polish. It is loaded by R2API when present, but may also need a locale/menu enabler depending on the setup.
+- Vanilla Risk of Rain 2 item/equipment tokens must not be renamed by these packs. If a token already exists in the base game, keep the original localized value.
 - Achievements and unlock text are intentionally kept in English.
 
 More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
