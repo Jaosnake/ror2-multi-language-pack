@@ -352,25 +352,28 @@ mods/rob-HUNK/
 
 Copy the whole chosen folder into `BepInEx/plugins/`.
 
-## 🗣️ Supported Language IDs
+## 🗣️ R2API.Language IDs
 
-The repo uses the language identifiers expected by Risk of Rain 2, R2API.Language, or the original mod loader.
+The repo follows the identifiers used by **R2API.Language** and, where a mod has its own loader, the identifier that loader actually reads. Do not rename folders or JSON keys just to match the vanilla Risk of Rain 2 UI.
 
-Common native or commonly used IDs:
+Common R2API/loader IDs used here:
 
 ```text
-en, pt-BR, FR, RU, IT, de, ja, ko, tr, es-419, es-ES, zh-CN, zh-TW
+en, pt-BR, FR/fr, RU/ru, IT/it, de, ja, ko, tr, es-419, es-ES, zh-CN, zh-TW
 ```
 
 Custom/non-native IDs included for packs that support them:
 
 ```text
-UA, pl
+UA, ua, pl
 ```
 
 Important:
 
-- `UA` is Ukrainian. Risk of Rain 2 does not expose Ukrainian in the vanilla language selector.
+- R2API `.language` files may use `strings` as a fallback section. This is valid and should not be removed.
+- R2API language IDs are the source of truth for `.language` files. The vanilla RoR2 language menu is only the selector players see.
+- For standard IDs, R2API treats capitalization as non-critical; keep the spelling/case already used by that package unless the file is actually not loading.
+- `UA` / `ua` is Ukrainian. Risk of Rain 2 does not expose Ukrainian in the vanilla language selector.
 - `pl` is Polish. It is loaded by R2API when present, but may also need a locale/menu enabler depending on the setup.
 - Achievements and unlock text are intentionally kept in English.
 
