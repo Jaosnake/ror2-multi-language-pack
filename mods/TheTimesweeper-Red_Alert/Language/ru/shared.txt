@@ -1,4 +1,4 @@
-﻿{
+{
     strings:
     {
     "HABIBI_MC_SKIN_NAME" : "Майнкрафт",
