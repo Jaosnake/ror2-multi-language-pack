@@ -2,7 +2,7 @@
 
 Translation packs for several **Risk of Rain 2** mods, organized for GitHub, manual installation, and future Thunderstore publishing.
 
-> **AI disclosure**: some translations were created with AI assistance and then reviewed/edited by Jaosnake. PT-BR files are manual or human-reviewed. This disclosure is kept here and in package READMEs for Thunderstore clarity.
+> **AI disclosure**: some translations were created with AI assistance and then reviewed/edited by Jaosnake. For **Starstorm 2** and **Sandswept**, the **PT-BR** translations were reviewed line by line and manually edited by Jaosnake. Original credits remain preserved. This disclosure is kept here and in package READMEs for Thunderstore clarity.
 
 ## Choose Your Language
 
@@ -28,6 +28,8 @@ Each section below tells you which language code to look for. You still install 
 ### Português Brasil
 
 Use language code `pt-BR`.
+
+For **Starstorm 2** and **Sandswept**, the PT-BR translation was reviewed line by line and manually edited by Jaosnake. Original credits from the source mods/translations are still preserved.
 
 1. Baixe o repositório em **Code -> Download ZIP**.
 2. Extraia o ZIP.
@@ -488,6 +490,8 @@ Rules for translation changes:
 ## Credits
 
 Translations and packaging: **Jaosnake**
+
+PT-BR note: for **Starstorm 2** and **Sandswept**, Jaosnake reviewed every line and manually edited the PT-BR translation. Original credits are kept where applicable.
 
 Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Frosthex, HasteReapr, JavAngle, nayDPz, Paladin_Alliance, PopcornFactory, public_ParticleSystem, Risky_Lives, rob, TeamCloudburst, TeamSillyGuy, The_Bozos, TheTimesweeper, toastyTeam, and tsuyoikenko.
 

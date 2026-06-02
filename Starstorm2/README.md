@@ -4,7 +4,7 @@ Multi-language translation pack for **TeamMoonstorm-Starstorm2**.
 
 Part of: [Jaosnake/ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack)
 
-> **AI disclosure**: PT-BR was translated manually/reviewed by Jaosnake. Other languages used AI assistance for initial generation and were human-reviewed.
+> **AI disclosure**: PT-BR was reviewed line by line and manually edited by Jaosnake. Other languages used AI assistance for initial generation and were human-reviewed. Original credits are preserved where applicable.
 
 ## Install With r2modman
 
@@ -36,7 +36,7 @@ C:\Users\<your-user>\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Def
 | Language | Folder | Notes |
 |---|---|---|
 | English | `Language/en/` | Base/reference |
-| Portuguese Brazil | `Language/pt-BR/` | Manual/human-reviewed |
+| Portuguese Brazil | `Language/pt-BR/` | Reviewed line by line and manually edited |
 | French | `Language/FR/` | Human-reviewed AI-assisted |
 | Russian | `Language/RU/` | Human-reviewed AI-assisted |
 | Ukrainian | `Language/UA/` | Custom/non-native game language |
@@ -72,7 +72,8 @@ For Thunderstore upload, zip the contents of this folder, not the parent reposit
 ## Credits
 
 - Original mod: TeamMoonstorm
-- Translation and packaging: Jaosnake
+- PT-BR review/editing and packaging: Jaosnake
+- Original credits remain preserved where applicable.
 - This package contains translation files only. It does not modify Starstorm 2 source code.
 
 ## License
