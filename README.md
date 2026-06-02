@@ -9,10 +9,41 @@ A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers t
 ---
 
 ## Available Mods
-| Mod | Translation status | Thunderstore package |
-|-----|-------------------|----------------------|
+| Mod | Translation status | Location |
+|-----|-------------------|----------|
 | **Starstorm 2** | ✅ Complete – 8 languages | `Starstorm2/` (ready to zip) |
 | **Sandswept** | ✅ Complete – 14 languages | `Sandswept/` (ready to zip) |
+| **AssassinMod** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/HasteReapr-AssassinMod/` |
+| **Banshee** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Banshee/` |
+| **Bastian** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TeamSillyGuy-Bastian/` |
+| **Belmont** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-Belmont/` |
+| **Cadet** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Cadet/` |
+| **Cloudburst** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TeamCloudburst-Cloudburst/` |
+| **Dancer** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/nayDPz-Dancer/` |
+| **Dante** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-Dante/` |
+| **Deputy** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Deputy/` |
+| **Driver** | ✅ pt-BR, es-419, FR, ru, zh-CN, ja | `mods/public_ParticleSystem-Driver/` |
+| **Enforcer** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Enforcer/` |
+| **HAND_OVERCLOCKED** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-HAND_OVERCLOCKED/` |
+| **HEL_P** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-HEL_P/` |
+| **HUNK** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-HUNK/` |
+| **Interrogator** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Interrogator/` |
+| **Lee_Hyperreal** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/PopcornFactory-Lee_Hyperreal/` |
+| **MinerUnearthed** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-MinerUnearthed/` |
+| **Mortician** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Mortician/` |
+| **Myst** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/JavAngle-Myst/` |
+| **PaladinMod** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Paladin_Alliance-PaladinMod/` |
+| **Pathfinder** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Pathfinder/` |
+| **Pilot** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Pilot/` |
+| **Ravager** | ✅ pt-BR, es-419, FR, ru, zh-CN, ja | `mods/public_ParticleSystem-Ravager/` |
+| **Red_Alert** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TheTimesweeper-Red_Alert/` |
+| **Rifter** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/toastyTeam-Rifter/` |
+| **RiskyTweaks** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Risky_Lives-RiskyTweaks/` |
+| **RobomandoMod** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/The_Bozos-RobomandoMod/` |
+| **Rocket** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Rocket/` |
+| **Arsonist** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/PopcornFactory-Arsonist_Mod/` |
+| **SorceressMod** | ✅ EN | `mods/Frosthex-SorceressMod/` |
+| **TheHouse** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/JavAngle-TheHouse/` |
 
 ---
 
@@ -192,13 +223,20 @@ ror2-multi-language-pack/
 │   ├─ icon.png
 │   ├─ README.md           # Package‑specific readme
 │   └─ Language/           # 8 language folders, 47 JSON files each
-└─ Sandswept/              # Thunderstore package for Sandswept
-    ├─ manifest.json
-    ├─ icon.png
-    ├─ README.md           # Package‑specific readme
-    └─ Translations/       # 14 .language files (all locales)
+├─ Sandswept/              # Thunderstore package for Sandswept
+│   ├─ manifest.json
+│   ├─ icon.png
+│   ├─ README.md           # Package‑specific readme
+│   └─ Translations/       # 14 .language files (all locales)
+└─ mods/                   # Translation files for 31 additional mods
+    ├─ Bog-Deputy/         # (alphabetically sorted)
+    ├─ Bog-Mortician/
+    ├─ Bog-Pathfinder/
+    ├─ ...
+    └─ tsuyoikenko-Interrogator/
 ```
-Each subfolder is a **stand‑alone Thunderstore package** – simply zip its contents (manifest, icon, README, Language folder) and upload.
+Starstorm2 and Sandswept are **stand‑alone Thunderstore packages** – simply zip their contents and upload.  
+The `mods/` folder contains translation files for additional mods, organized alphabetically.
 
 ---
 
