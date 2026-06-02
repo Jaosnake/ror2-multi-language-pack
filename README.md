@@ -136,7 +136,9 @@ Siga o **[Guia de Instalação](#installation-guide)** no topo. Resumo:
 
 ### Créditos
 - **Mod Original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
-- **Tradução PT-BR**: Jaosnake (100% manual)
+- **Tradução PT-BR**: Jaosnake — exceto onde indicado:
+  - Enforcer, HAND_OVERCLOCKED, Red_Alert, Cloudburst: tradução original por **Kauzok**; revisado e atualizado por Jaosnake
+  - MinerUnearthed: tradução original por **Donitodorito**; revisado e atualizado por Jaosnake
 - **Demais idiomas**: Jaosnake com assistência de IA
 - **AI Generated**: Este pacote contém traduções geradas com auxílio de IA, revisadas por humano
 
@@ -374,4 +376,26 @@ This project is licensed under the **GNU General Public License v3.0**.
   - **TheTimesweeper** — Red_Alert
   - **toastyTeam** — Rifter
   - **tsuyoikenko** — Banshee, Cadet, Interrogator
-- All translation tokens contain embedded credit inline (in DESCRIPTION fields).
+- **Community translators**: (original translations for specific languages)
+  - **Kauzok** — pt-BR: Enforcer, HAND_OVERCLOCKED, Red_Alert, Cloudburst
+  - **Donitodorito** — pt-BR: MinerUnearthed
+  - **StyleMyk** — FR: Enforcer, MinerUnearthed, Cloudburst
+  - **Meteorite1014** — zh-CN: Enforcer, Cloudburst
+  - **Lecarde / lecarde** — RU: Enforcer, HAND_OVERCLOCKED, MinerUnearthed
+  - **punch** — JA: Enforcer, HAND_OVERCLOCKED
+  - **Bagre** — ES: Enforcer
+  - **WockyTheWolf / JunJun_w** — zh-CN: HAND_OVERCLOCKED
+  - **FyreBW / Fyrebw** — FR: HAND_OVERCLOCKED, Red_Alert
+  - **Damglador** — UK: HAND_OVERCLOCKED, MinerUnearthed, Red_Alert
+  - **CaffeinePain** — KO: HAND_OVERCLOCKED
+  - **Juhnter** — ES: HAND_OVERCLOCKED, MinerUnearthed, Red_Alert
+  - **Lonerdev** — IT: HAND_OVERCLOCKED
+  - **JunJun_W** — zh-CN: MinerUnearthed
+  - **Адский Шкед / Hexxedude** — RU: MinerUnearthed
+  - **tymmey** — DE: MinerUnearthed
+  - **Dice** — KO: MinerUnearthed
+  - **Nikto0o** — RU: Red_Alert
+  - **Rody / FallenTroop** — zh-CN: Red_Alert
+  - **HEXXEDUDE** — RU: Cloudburst
+  - **锅巴** — zh-CN: Belmont, Dante
+  - **PlNK** — Lore: Dante

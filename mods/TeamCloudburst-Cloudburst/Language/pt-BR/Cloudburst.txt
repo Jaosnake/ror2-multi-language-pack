@@ -1,9 +1,9 @@
-{
+﻿{
     strings:
     {
     "EXPANSION_CLOUDBURST_NAME" : "Cloudburst",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "Adiciona conte�do do mod 'Cloudburst' ao jogo.
+    "EXPANSION_CLOUDBURST_DESCRIPTION" : "Adiciona conteúdo do mod 'Cloudburst' ao jogo.
 
-Mod original por TeamCloudburst. Traduzido por: Jaosnake",
+Mod original por TeamCloudburst",
     }
 }
