@@ -14,14 +14,21 @@ A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers 
 ---
 
 ## Supported Languages
-- 🇧🇷 PT‑BR (Brazilian Portuguese)
-- 🇺🇦 UA (Ukrainian)
-- 🇰🇷 KO (Korean)
-- 🇫🇷 FR (French)
-- 🇷🇺 RU (Russian)
-- 🇨🇳 zh‑CN (Simplified Chinese)
-- 🇪🇸 es‑419 (Latin American Spanish)
-- 🇹🇷 TR (Turkish)
+| Language | Starstorm 2 | Sandswept |
+|----------|:-----------:|:---------:|
+| 🇧🇷 PT‑BR (Brazilian Portuguese) | ✅ | ✅ |
+| 🇺🇦 UA (Ukrainian) | ✅ | — |
+| 🇰🇷 KO (Korean) | ✅ | ✅ |
+| 🇫🇷 FR (French) | ✅ | ✅ |
+| 🇷🇺 RU (Russian) | ✅ | ✅ |
+| 🇨🇳 zh‑CN (Simplified Chinese) | ✅ | ✅ |
+| 🇪🇸 ES / es‑419 (Spanish) | ✅ | ✅ |
+| 🇹🇷 TR (Turkish) | ✅ | ✅ |
+| 🇩🇪 DE (German) | — | ✅ |
+| 🇮🇹 IT (Italian) | — | ✅ |
+| 🇵🇱 PL (Polish) | — | ✅ |
+| 🇯🇵 JA (Japanese) | — | ✅ |
+| 🇹🇼 zh‑TW (Traditional Chinese) | — | ✅ |
 
 ---
 
@@ -30,8 +37,6 @@ A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers 
 ror2-multi-language-pack/
 ├─ README.md               # This file
 ├─ LICENSE.txt             # GPL‑3.0
-├─ docs/
-│   └─ traducaobr.md       # Translation reference guide
 ├─ Starstorm2/             # Thunderstore package for Starstorm 2
 │   ├─ manifest.json
 │   ├─ icon.png
@@ -43,7 +48,7 @@ ror2-multi-language-pack/
 │   ├─ README.md           # Package‑specific readme
 │   └─ Translations/       # 13 .language files (all locales)
 └─ docs/
-    └─ traducaobr.md       # Translation reference guide
+    └─ traducaobr.md       # Translation reference guide (PT-BR)
 ```
 Each subfolder is a **stand‑alone Thunderstore package** – simply zip its contents (manifest, icon, README, Language folder) and upload.
 
