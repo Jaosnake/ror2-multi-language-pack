@@ -11,6 +11,5 @@
     "HABIBI_RECOLOR_PURPLE_NAME" : "Roxo",
     "HABIBI_RECOLOR_PINK_NAME" : "Rosa",
     "HABIBI_RECOLOR_BLACK_NAME" : "Preto",
-    "HABIBI_RECOLOR_WHITE_NAME" : "Branco",
     }
 }

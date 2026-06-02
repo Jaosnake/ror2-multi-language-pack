@@ -1,35 +1,35 @@
 BLAKE_RIFTER_NAME: Rifter
 BLAKE_RIFTER_SUBTITLE: Manipulador de Fendas
-PRIMARY_GAUNTLET_RANGED: Fenda Proj?til
+PRIMARY_GAUNTLET_RANGED: Fenda Projétil
 PRIMARY_GAUNTLET_RANGED_DESCRIPTION: Dispare uma fenda de longo alcance para 500% de dano.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 SECONDARY_FRACTURE: Fratura
-SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Fratura</style>. Dispare uma fenda de longo alcance para 75% de dano, causando at? 5 estilha?amentos.
+SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Fratura</style>. Dispare uma fenda de longo alcance para 75% de dano, causando até 5 estilhaçamentos.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 SECONDARY_FAULT_LINE: Linha de Falha
-SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Fratura</style>. Crie uma linha de falha que se estilha?a, causando 700% de dano.
+SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Fratura</style>. Crie uma linha de falha que se estilhaça, causando 700% de dano.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 UTILITY_SLIPSTREAM: Corrente Dimensional
-UTILITY_SLIPSTREAM_DESCRIPTION: Teleporte uma curta dist?ncia. Recarrega o estoque da habilidade secund?ria.
+UTILITY_SLIPSTREAM_DESCRIPTION: Teleporte uma curta distância. Recarrega o estoque da habilidade secundária.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 UTILITY_CHAINED_WORLDS: Mundos Acorrentados
-UTILITY_CHAINED_WORLDS_DESCRIPTION: Conecte dois pontos no espa?o, criando um portal que transporta proj?teis.
+UTILITY_CHAINED_WORLDS_DESCRIPTION: Conecte dois pontos no espaço, criando um portal que transporta projéteis.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
-UTILITY_QUANTUM_RIFT: Fenda Qu?ntica
-UTILITY_QUANTUM_RIFT_DESCRIPTION: Abra uma fenda qu?ntica que distorce o espa?o ao redor.
+UTILITY_QUANTUM_RIFT: Fenda Quântica
+UTILITY_QUANTUM_RIFT_DESCRIPTION: Abra uma fenda quântica que distorce o espaço ao redor.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
-SPECIAL_TIMELOCK: Trava Temporal
-SPECIAL_TIMELOCK_DESCRIPTION: Trave o tempo de inimigos em uma ?rea, congelando-os por alguns segundos.
+SPECIAL_TIMELOCK: Travá Temporal
+SPECIAL_TIMELOCK_DESCRIPTION: Trave o tempo de inimigos em uma área, congelando-os por alguns segundos.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
-SPECIAL_RECURSION: Recurs?o
-SPECIAL_RECURSION_DESCRIPTION: Replique uma fenda, fazendo-a ecoar novamente ap?s um curto per?odo.
+SPECIAL_RECURSION: Recursão
+SPECIAL_RECURSION_DESCRIPTION: Replique uma fenda, fazendo-a ecoar novamente após um curto período.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 PASSIVE_RIFT_BOOST: Impulso de Fenda
@@ -37,9 +37,9 @@ PASSIVE_RIFT_BOOST_DESCRIPTION: Suas fendas concedem um impulso de velocidade de
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 PASSIVE_RIFT_FRACTURE: Fratura de Fenda
-PASSIVE_RIFT_FRACTURE_DESCRIPTION: Inimigos atingidos por fendas acumulam estilha?amento, aumentando o dano recebido.
+PASSIVE_RIFT_FRACTURE_DESCRIPTION: Inimigos atingidos por fendas acumulam estilhaçamento, aumentando o dano recebido.
 Mod original por toastyTeam. Traduzido por: Jaosnake
 Mod original por toastyTeam. Traduzido por: Jaosnake
 MASTERY_SKIN_NAME: Rifter: Maestria
-BLAKE_NEM_RIFTER_NAME: N?mesis Rifter
+BLAKE_NEM_RIFTER_NAME: Nêmesis Rifter
 BLAKE_NEM_RIFTER_SUBTITLE: Fenda Corrompida

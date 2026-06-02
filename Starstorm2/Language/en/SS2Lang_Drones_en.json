@@ -20,6 +20,5 @@
 	"SS2_DROIDDRONE_PICKUP": "Shoots nearby enemies. <style=cIsUtility>Inherits elite type</style> of the slain elite.",
 	"SS2_DROIDDRONE_DESCRIPTION": "A temporary companion created when holding Droid Head and killing elites that will follow the survivor at a close distance, shooting nearby enemies.",
 	"SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
-	"SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
-  }
+	"SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""}
 }

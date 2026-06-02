@@ -1,46 +1,33 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_BLASTKNUCKLES_DESC": "Грузчиком убейте босса телепортатора одним ударом.",
-        "SS2_ACHIEVEMENT_BLASTKNUCKLES_NAME": "One Punch",
-        "SS2_ACHIEVEMENT_BLOODTESTER_DESC": "Восстановите 5,000 здоровья за один забег.",
-        "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "Медик!",
-        "SS2_ACHIEVEMENT_COFFEEBAG_DESC": "Наберите +150% скорости передвижения и атаки.",
-        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "На кофеине",
-        "SS2_ACHIEVEMENT_COMPOSITEINJECTOR_DESC": "Соберите 15 разных видов снаряжения.",
-        "SS2_ACHIEVEMENT_COMPOSITEINJECTOR_NAME": "Too Much Stuff!",
-        "SS2_ACHIEVEMENT_CRYPTICSOURCE_DESC": "Наёмником завершите 3 Эфирных телепортатора за один забег.",
-        "SS2_ACHIEVEMENT_CRYPTICSOURCE_NAME": "Even More Ethereal",
-        "SS2_ACHIEVEMENT_DIARY_DESC": "Достигните 20 уровня.",
-        "SS2_ACHIEVEMENT_DIARY_NAME": "Дорогой дневник...",
-        "SS2_ACHIEVEMENT_ERRATICGADET_DESC": "Носите 5 предметов, создающих молнии.",
-        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Повелитель молний",
-        "SS2_ACHIEVEMENT_FIELDACCELERATOR_DESC": "Ремесленницей убейте босса телепортатора Нанобомбой с расстояния 100 м.",
-        "SS2_ACHIEVEMENT_FIELDACCELERATOR_NAME": "Going Long",
-        "SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC": "Одновременно имейте при себе Браслет Кьяро, Бензин и Блуждающий огонёк.",
-        "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "Жгучая смесь",
-        "SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "Нанесите не менее 1,000 урона за один критический удар.",
-        "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "Удар охотника",
-        "SS2_ACHIEVEMENT_INSECTICIDE_DESC": "REX'ом убейте элитную Королеву Жуков.",
-        "SS2_ACHIEVEMENT_INSECTICIDE_NAME": "Pest Control",
-        "SS2_ACHIEVEMENT_MALICE_DESC": "Завершите событие телепортатора на 3-м этапе на сложности «Тайфун».",
-        "SS2_ACHIEVEMENT_MALICE_NAME": "Зло во плоти",
-        "SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC": "Носите 25 уникальных предметов за один забег.",
-        "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "Коллекционер",
-        "SS2_ACHIEVEMENT_POISONOUSGLAND_DESC": "Едким отравите 500 врагов.",
-        "SS2_ACHIEVEMENT_POISONOUSGLAND_NAME": "Sooo Toxic",
-        "SS2_ACHIEVEMENT_STICKYOVERLOADER_DESC": "MUL-T соберите 20 зелёных предметов за один забег.",
-        "SS2_ACHIEVEMENT_STICKYOVERLOADER_NAME": "Overloaded",
-        "SS2_ACHIEVEMENT_STRANGECAN_DESC": "Наложите 6 ослаблений сразу на одного врага.",
-        "SS2_ACHIEVEMENT_STRANGECAN_NAME": "Ещё кусочек",
-        "SS2_ACHIEVEMENT_TOYSOLDIERS_DESC": "Капитаном наймите 15 миньонов одновременно.",
-        "SS2_ACHIEVEMENT_TOYSOLDIERS_NAME": "Assemble",
-        "SS2_ACHIEVEMENT_UNIVERSALCHARGER_DESC": "Инженером убейте 400 врагов вашими турелями.",
-        "SS2_ACHIEVEMENT_UNIVERSALCHARGER_NAME": "tRet 12 Pro Max Plus",
-        "SS2_ACHIEVEMENT_URANIUMHORSESHOE_DESC": "Бандитом пройдите этап 3 менее чем за 15 минут на сложности «Тайфун».",
-        "SS2_ACHIEVEMENT_URANIUMHORSESHOE_NAME": "Гран-при",
-        "SS2_ACHIEVEMENT_WEATHERRADIO_DESC": "Коммандос убейте босса Шторморождённого на сложности «Муссон».",
-        "SS2_ACHIEVEMENT_WEATHERRADIO_NAME": "I Am The Storm",
-        "SS2_ACHIEVEMENT_X4_DESC": "Охотницей убейте 7 уникальных боссов за один забег.",
-        "SS2_ACHIEVEMENT_X4_NAME": "Apex Predator"
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "Медик!",
+    "SS2_ACHIEVEMENT_BLOODTESTER_DESC": "Восстановите 5,000 здоровья за один забег.",
+
+    "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "На кофеине",
+    "SS2_ACHIEVEMENT_COFFEEBAG_DESC": "Наберите +150% скорости передвижения и атаки.",
+
+    "SS2_ACHIEVEMENT_DIARY_NAME": "Дорогой дневник...",
+    "SS2_ACHIEVEMENT_DIARY_DESC": "Достигните 20 уровня.",
+
+    "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Круши-и-ить!!!!",
+    "SS2_ACHIEVEMENT_ERRATICGADET_DESC": "Наберите 10 предметов, увеличивающих вероятность критического удара.",
+
+    "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "Жгучая смесь",
+    "SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC": "Одновременно имейте при себе Браслет Кьяро, Бензин и Блуждающий огонёк.",
+
+    "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "Удар охотника",
+    "SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "Нанесите не менее 1,000 урона за один критический удар.",
+
+    "SS2_ACHIEVEMENT_MALICE_NAME": "Зло во плоти",
+    "SS2_ACHIEVEMENT_MALICE_DESC": "Достигните 3 этапа на уровне сложности «Тайфун».",
+
+    "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "Коллекционер",
+    "SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC": "Наберите в инвентаре 25 уникальных предметов за один забег.",
+
+    "SS2_ACHIEVEMENT_STRANGECAN_NAME": "Ещё кусочек",
+    "SS2_ACHIEVEMENT_STRANGECAN_DESC": "Наберите на одном враге 6 отрицательных эффектов статуса одновременно.",
+
+    "SS2_ACHIEVEMENT_URANIUMHORSESHOE_NAME": "Гран-при",
+    "SS2_ACHIEVEMENT_URANIUMHORSESHOE_DESC": "Пройдите 3-й этап менее чем за 15 минут на уровне сложности Тайфун."
+  }
 }

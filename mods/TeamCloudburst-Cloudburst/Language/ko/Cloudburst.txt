@@ -1,7 +1,7 @@
 {
     strings:
     {
-    "EXPANSION_CLOUDBURST_NAME" : "Cloudburst",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "모드 'Cloudburst'의 콘텐츠를 게임에 추가합니다.",
+    "EXPANSION_CLOUDBURST_NAME" : "云爆",
+    "EXPANSION_CLOUDBURST_DESCRIPTION" : "添加模组“云爆”中的内容至游戏中。",
     }
 }

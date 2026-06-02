@@ -1,32 +1,17 @@
 {
-    "strings": {
+    "strings":
+    {
         "SS2_PYRO_NAME": "派罗",
-        "SS2_PYRO_SUBTITLE": "专业生态灭绝者",
-        "SS2_PYRO_DESCRIPTION": "派罗是一名擅长群体控制的幸存者，用怒火和精准焚烧害虫。\n\nThis mod was translated by: Jaosnake",
-        "SS2_PYRO_OUTRO_FLAVOR": "..于是他走了，心脏因激情而燃烧。",
-        "SS2_PYRO_OUTRO_FAILURE": "..于是他消失了，火焰终于熄灭了。",
-        "SS2_PYRO_SKIN_DEFAULT": "默认",
-        "SS2_PYRO_LORE": "嗡嗡声，更多的嗡嗡声。当他们试图讨论工作的最后细节时，昆虫翅膀的嗡嗡声是唯一打破寂静的声音——但这并不重要。任务很简单，他知道该如何妥善完成。戴着安全帽的女人回到港口，而穿着聚合纤维的男人从背上装备了一把相当大的武器。他一只手牢牢握住武器，另一只手操作货舱门，为内部的蜂群做好准备。\n\n门滑开时，一股令人窒息的酸雾充满了空气。如果不是呼吸器，这些烟雾本会令人难以忍受，毒性足以在几分钟内让他昏迷。浓密的空气中充满了无数巨大的绿色虫子，在腐蚀的集装箱和它们在其间建造的蜂巢结构之间忙碌飞行。它们不停歇的嗡嗡声淹没了他的思绪——这正是他喜欢的方式。直到一团凝固汽油炸成火焰之前，没有昆虫注意到这个入侵者。\n\n工虫四散，战虫降下，但对它们来说已经太晚了。那些迅速组织攻击的虫子只是加速了它们的灭亡，在火焰吞噬它们时倒在他的脚下。凝固汽油不分青红皂白地附着在蜂巢、害虫和安全箱上，他缓慢地穿行于构成巢穴基础的迷宫般的货物之间。黑烟开始充满舱室，每走一步都变得更浓，地面堆满了烧焦的残骸。但最重要的是，热度——他那清洁火焰的无情灼热——充满了整个房间。集装箱变成了熔炉，货舱变成了墓地，他系统性地清除了 infestation。\n\n数小时后，只剩下刺鼻的腐烂臭味、零星的颚片或胸节，以及一层细灰覆盖地板。在舱室中绕了三圈后，他终于找到了他一直在寻找的东西，藏在一个破裂的集装箱后面...",
-        "SS2_KEYWORD_HEAT": "<style=cKeywordName>热量</style><style=cSub>通过各种技能获得和消耗的资源。",
-        "SS2_KEYWORD_BLAZEBORNE": "<style=cKeywordName>烈焰之躯</style><style=cSub>靠近燃烧的敌人可获得增益。大型敌人燃烧更热。烈焰精英怪物总是燃烧。\n受到火焰伤害减少25%，并获得<color=#D78326>5%热量</color>。\n完全免疫<style=cIsDamage>点燃</style>效果。",
-        "SS2_KEYWORD_COMBUSTING": "<style=cKeywordName>自燃</style><style=cSub>每秒重置点燃层数的持续时间。",
-        "SS2_KEYWORD_TORCHING": "<style=cKeywordName>灼烧</style><style=cSub>在近距离造成1.5倍伤害，并有75%几率点燃敌人，从<color=#D78326>35%热量</color>开始。在<color=#D78326>70%热量</color>或以上时，在任何距离都有额外50%几率点燃敌人。",
-        "SS2_KEYWORD_LIFTOFF": "<style=cKeywordName>升空</style><style=cSub>在空中时，将你的实用技能替换为升空：\n消耗<color=#D78326>热量</color>以<style=cIsUtility>悬浮</style>在空中。",
-        "SS2_PYRO_PASSIVE_NAME": "烈焰之躯",
-        "SS2_PYRO_PASSIVE_DESC": "派罗<style=cIsUtility>免疫</style>灼烧，并从附近燃烧的敌人身上获得<color=#D78326>热量</color>。",
-        "SS2_PYRO_PRIMARY_NAME": "烈焰",
-        "SS2_PYRO_PRIMARY_DESC": "通过燃烧敌人<style=cIsDamage>每秒造成270%伤害</style>来<color=#D78326>升温</color>。在<color=#D78326>70%热量</color>时，有机会<style=cIsDamage>点燃</style>敌人。",
-        "SS2_PYRO_SECONDARY_NAME": "减害处理",
-        "SS2_PYRO_SECONDARY_DESC": "<style=cIsDamage>点燃</style>。消耗<color=#D78326>热量</color>燃烧敌人，<style=cIsDamage>每秒造成451%伤害</style>。在<color=#D78326>70%热量</color>时，留下火焰痕迹，<style=cIsDamage>每秒造成200%伤害</style>。",
-        "SS2_PYRO_SECONDARY_ALT_NAME": "热浪",
-        "SS2_PYRO_SECONDARY_ALT_DESC": "<color=#D78326>30%热量</color>。发射一团火焰，<color=#D78326>点燃</color>敌人，造成<style=cIsDamage>400%伤害</style>并<style=cIsUtility>反弹投射物</style>。额外层数<color=#D78326>减少15%热量消耗</color>。",
-        "SS2_PYRO_UTILITY_NAME": "点火检查",
-        "SS2_PYRO_UTILITY_DESC": "消耗<color=#D78326>热量</color>蓄力爆炸跳跃，造成<style=cIsDamage>350%伤害</style>。可<style=cIsUtility>再次激活</style>以在空中悬浮。",
-        "SS2_PYRO_UTILITY2_NAME": "升空",
-        "SS2_PYRO_UTILITY2_DESC": "消耗<color=#D78326>热量</color>以<style=cIsUtility>悬浮</style>在空中。",
-        "SS2_PYRO_SPECIAL_NAME": "焚化",
-        "SS2_PYRO_SPECIAL_DESC": "<color=#D78326>70%热量</color>。发射一颗火球造成<style=cIsDamage>800%伤害</style>。被点燃的敌人会扩大爆炸半径，然后爆炸造成<style=cIsDamage>400%伤害</style>。",
-        "SS2_PYRO_SPECIAL_ALT_NAME": "DM34\" exterminator\"",
-        "SS2_PYRO_SPECIAL_ALT_DESC": "<style=cIsDamage>自燃</style>。发射霰弹弹幕，造成<style=cIsDamage>8x50%伤害</style>。"
+		"SS2_PYRO_SUBTITLE": "燃烧者",
+		"SS2_PYRO_DESCRIPTION": "派罗是一个擅长群体控制的幸存者，能点燃任何敢靠近的东西。",
+		"SS2_PYRO_OUTRO_FLAVOR": "..于是他走了，胸膛即将爆裂。",
+		"SS2_PYRO_OUTRO_FAILURE": "..于是他消失了，火焰熄灭了。",
+
+        
+		
+        "SS2_PYRO_SCORCH_NAME": "烈焰",
+		"SS2_PYRO_SCORCH_DESCRIPTION": "<color=#D78326>升温</color>通过<style=cIsDamage>燃烧附近的敌人造成<style=cIsDamage>60%伤害</style>。用<color=#D78326>高温</color><style=cIsDamage>ignites</style>攻击敌人，造成<style=cIsDamage>持续伤害</style>。",
+		"SS2_PYRO_AIRBLAST_NAME": "热浪",
+		"SS2_PYRO_AIRBLAST_DESCRIPTION": "<color=#D78326>30%热量</color>。发射一团火焰，<color=#D78326>点燃</color>敌人，造成<style=cIsDamage>400%伤害</style>并<style=cIsUtility>反弹投射物</style>额外层数<color=#D78326>减少15%的热量消耗</color>."
     }
 }

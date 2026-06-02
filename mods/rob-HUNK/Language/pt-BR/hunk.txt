@@ -1,7 +1,7 @@
 ROB_HUNK_BODY_NAME: HUNK
 ROB_HUNK_BODY_SUBTITLE: O Ceifador
-ROB_HUNK_BODY_DEFAULT_SKIN_NAME: Padr?o
-ROB_HUNK_BODY_CLASSIC_SKIN_NAME: Cl?ssico
+ROB_HUNK_BODY_DEFAULT_SKIN_NAME: Padrão
+ROB_HUNK_BODY_CLASSIC_SKIN_NAME: Clássico
 ROB_HUNK_BODY_ROOKIE_SKIN_NAME: Recruta
 ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
 ROB_HUNK_BODY_LEON_SKIN_NAME: Leon
@@ -17,51 +17,51 @@ ROB_HUNK_BODY_JACKET_SKIN_NAME: Jaqueta
 ROB_HUNK_BODY_TOFU_SKIN_NAME: Tofu
 ROB_HUNK_BODY_SUPER_SKIN_NAME: Super
 SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare a M19 para <style=cIsDamage>500% de dano</style>.
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare a M19 para <style=cIsDamage>500% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare a Broom HC para <style=cIsDamage>180% de dano</style>.
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare a Broom HC para <style=cIsDamage>180% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
-SHOOT_REVOLVER_NAME: Rev?lver
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare um rev?lver para <style=cIsDamage>1.200% de dano</style>.
+SHOOT_REVOLVER_NAME: Revólver
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare um revólver para <style=cIsDamage>1.200% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_MAGNUM_NAME: Magnum
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare uma magnum para <style=cIsDamage>1.500% de dano</style>.
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare uma magnum para <style=cIsDamage>1.500% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_SHOTGUN_NAME: Escopeta
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare uma escopeta para <style=cIsDamage>14x150% de dano</style>.
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare uma escopeta para <style=cIsDamage>14x150% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare a SSG para <style=cIsDamage>16x200% de dano</style>.
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare a SSG para <style=cIsDamage>16x200% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare a Slugger para <style=cIsDamage>3.000% de dano</style>.
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare a Slugger para <style=cIsDamage>3.000% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_AR_NAME: Fuzil de Assalto
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare um fuzil para <style=cIsDamage>385% de dano</style>.
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare um fuzil para <style=cIsDamage>385% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare um Spark Shot para <style=cIsDamage>1.000% de dano</style>.
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare um Spark Shot para <style=cIsDamage>1.000% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_GOLDGUN_NAME: Arma Dourada
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare uma arma dourada para <style=cIsDamage>99.999% de dano</style>.
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare uma arma dourada para <style=cIsDamage>99.999% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SHOOT_ATM_NAME: Launcher ATM
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare um foguete para <style=cIsDamage>8.000% de dano</style>.
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare um foguete para <style=cIsDamage>8.000% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
-SHOOT_GRENADELAUNCHER_NAME: Lan?a-Granadas
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare uma granada para <style=cIsDamage>3.200% de dano</style>.
+SHOOT_GRENADELAUNCHER_NAME: Lança-Granadas
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare uma granada para <style=cIsDamage>3.200% de dano</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 PRIMARY_CQC_NAME: CQC
@@ -69,19 +69,19 @@ PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Saque.</style> <style=cIsDamage>Golpe
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SECONDARY_AIM_NAME: Mirar Firme
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Mire</style> para melhorar a precis?o da sua arma atual.
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Mire</style> para melhorar a precisão da sua arma atual.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
-UTILITY_PARRY_NAME: Apari??o
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Apare</style> para desviar de ataques. Se usada preventivamente para <style=cIsUtility>evitar um ataque</style>, realize uma <style=cIsDamage>Esquiva Perfeita</style>.
+UTILITY_PARRY_NAME: Aparição
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Apare</style> para desviar de ataques. Se usada preventivamente para <style=cIsUtility>evitar um ataque</style>, realize uma <style=cIsDamage>Esquivá Perfeita</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 UTILITY_DODGE_NAME: Deslize
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Deslize</style> uma curta dist?ncia. Se usado preventivamente para <style=cIsUtility>evitar um ataque</style>, realize uma <style=cIsDamage>Esquiva Perfeita</style>.
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Deslize</style> uma curta distância. Se usado preventivamente para <style=cIsUtility>evitar um ataque</style>, realize uma <style=cIsDamage>Esquivá Perfeita</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
-UTILITY_BASH_NAME: Deflex?o
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflita</style> inimigos pr?ximos, <style=cIsUtility>atordoando-os</style> para <style=cIsDamage>400% de dano</style>. Se usado preventivamente para <style=cIsUtility>cancelar um ataque</style>, realize uma <style=cIsDamage>Deflex?o Perfeita</style>.
+UTILITY_BASH_NAME: Deflexão
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflita</style> inimigos próximos, <style=cIsUtility>atordoando-os</style> para <style=cIsDamage>400% de dano</style>. Se usado preventivamente para <style=cIsUtility>cancelar um ataque</style>, realize uma <style=cIsDamage>Deflexão Perfeita</style>.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 SPECIAL_SWAP_NAME: Legion
@@ -90,27 +90,27 @@ Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 ROB_HUNK_KEYWORD_MANGLED: Mutilado
 ROB_HUNK_KEYWORD_COUNTERATTACK: Contra-ataque
-ROB_HUNK_KEYWORD_PERFECTDODGE: Esquiva Perfeita
-ROB_HUNK_KEYWORD_PERFECTBASH: Deflex?o Perfeita
+ROB_HUNK_KEYWORD_PERFECTDODGE: Esquivá Perfeita
+ROB_HUNK_KEYWORD_PERFECTBASH: Deflexão Perfeita
 ROB_HUNK_KEYWORD_CVIRUS: C-Virus
 ROB_HUNK_KEYWORD_LOOTING: Saque
 ROB_HUNK_TRANSCEIVER_NAME: Transmissor
 ROB_HUNK_TRANSCEIVER_DESC: Abastecimento de suprimentos.
-ROB_HUNK_TYPEWRITER_NAME: M?quina de Escrever
+ROB_HUNK_TYPEWRITER_NAME: Máquina de Escrever
 ROB_HUNK_TYPEWRITER_DESC: Salve seu progresso.
 ROB_HUNK_JETPACK_NAME: Jetpack
-ROB_HUNK_JETPACK_DESC: Concede mobilidade a?rea.
+ROB_HUNK_JETPACK_DESC: Concede mobilidade aárea.
 ROB_HUNK_C4_NAME: C4
 ROB_HUNK_GRENADE_NAME: Granada
 ROB_HUNK_SUPPLYPACK_NAME: Suprimentos
-ROB_HUNK_AMMO_NAME: Muni??o
-ROB_HUNK_AMMOITEM_NAME: Muni??o
+ROB_HUNK_AMMO_NAME: Munição
+ROB_HUNK_AMMOITEM_NAME: Munição
 ROB_HUNK_CHEST_NAME: Ba?
 ROB_HUNK_TERMINAL_NAME: Terminal
 ROB_HUNK_STARSBADGE_NAME: Distintivo S.T.A.R.S.
 ROB_HUNK_STARSBADGE2_NAME: Distintivo S.T.A.R.S. 2
 ROB_HUNK_STARSBADGE_DESC: Um distintivo de um membro da S.T.A.R.S.
-ROB_HUNK_HEARTCHEST_NAME: Ba? do Cora??o
+ROB_HUNK_HEARTCHEST_NAME: Ba? do Coração
 ROB_HUNK_T_VIRUS_NAME: T-Virus
 ROB_HUNK_T_VIRUS_DESC: Uma amostra do T-Virus.
 ROB_HUNK_G_VIRUS_NAME: G-Virus
@@ -124,17 +124,17 @@ ROB_HUNK_PLAGAS_DESC: Uma amostra de Plagas.
 ROB_HUNK_URO_SAMPLE_NAME: Amostra Uroboros
 ROB_HUNK_URO_SAMPLE_DESC: Uma amostra de Uroboros.
 ROB_HUNK_INFROCKET_NAME: Foguete Infinito
-ROB_HUNK_INFROCKET_DESC: Muni??o de foguete infinita.
+ROB_HUNK_INFROCKET_DESC: Munição de foguete infinita.
 ROB_HUNK_NEMICASE_NAME: Caso Nemi
 ROB_HUNK_NEMICASE_DESC: Um caso misterioso.
 ROB_NEMESIS_BODY_NAME: Nemesis
 ROB_NEMESIS_BODY_SUBTITLE: O Perseguidor
-ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Padr?o
-ROB_NEMESIS_BODY_PASSIVE_NAME: Persegui??o Implac?vel
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Cause <style=cIsDamage>{0}% de dano</style> b?nus a inimigos marcados.
+ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Padrão
+ROB_NEMESIS_BODY_PASSIVE_NAME: Perseguição Implacável
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Cause <style=cIsDamage>{0}% de dano</style> bônus a inimigos marcados.
 Mod original por rob. Traduzido por: Jaosnake
 Mod original por rob. Traduzido por: Jaosnake
 ROB_NEMESIS_BODY_GRAB_NAME: Agarrar
-ROB_ARTIFACT_STRIKETEAM_NAME: Artefato do Esquadr?o
+ROB_ARTIFACT_STRIKETEAM_NAME: Artefato do Esquadrão
 ROB_ARTIFACT_PURSUER_NAME: Artefato do Perseguidor
-ROB_ARTIFACT_CONTAMINATION_NAME: Artefato da Contamina??o
+ROB_ARTIFACT_CONTAMINATION_NAME: Artefato da Contaminação

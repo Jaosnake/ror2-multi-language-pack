@@ -1,45 +1,52 @@
 {
-    "strings": {
-        "SS2_TRADER_BODY_NAME": "Zanzan le Fané",
-        "SS2_TRADER_BODY_SUBTITLE": "Le Négociateur Voilé",
-        "SS2_TRADER_CONTEXT": "Marché ?",
-        "SS2_TRADER_POPUP_TEXT": "Proposer un objet au marchand ?",
-        "SS2_TRADER_WANT_TEXT": "Le marchand marmonne, \"<i><link=\"textWavy\">",
-        "SS2_TRADER_WANT2_TEXT": "..</link></i>\"",
-        "SS2_TRADER_QUALITY_BESTEST": "<b>Le plus recherché</b>",
-        "SS2_TRADER_QUALITY_BEST": "<b>Excellent</b>",
-        "SS2_TRADER_QUALITY_GREAT": "<b>Génial</b>",
-        "SS2_TRADER_QUALITY_GOOD": "<b>Bien</b>",
-        "SS2_TRADER_QUALITY_MODERATE": "<b>Correct</b>",
-        "SS2_TRADER_QUALITY_POOR": "<b>Mauvais</b>",
-        "SS2_TRADER_QUALITY_WORTHLESS": "<b>Sans valeur</b>",
-        "SS2_LAMPBOSS_BODY_NAME": "Voyageur",
-        "SS2_LAMPBOSS_BODY_SUBTITLE": "Guide de la Lumière",
-        "SS2_UNLOCKABLE_LOG_LAMPBOSS": "Journal de bord : Voyageur",
-        "SS2_LAMPBOSS_BODY_LORE": "PETITS, REJOIGNEZ-MOI ICI. JE DOIS VOUS METTRE EN GARDE CONTRE QUELQUE CHOSE.\n\n...\n\nLE VOYAGEUR EST REVENU DANS CE MONDE.\n\nIL Y A LONGTEMPS, JE L'AI MAÎTRISÉ, L'AI BANNI DE NOTRE JARDIN. MAIS MAINTENANT, IL MENACE NOTRE MAISON UNE FOIS DE PLUS.\n\nSI VOUS LE RENCONTREZ, NE L'ÉCOUTEZ PAS. IL TENTERA DE VOUS ENTRAÎNER DE SON CÔTÉ, AVEC DES PROMESSES DE CHALEUR, DE SÉCURITÉ ET DE FORCE.\n\nC'EST UN PIÈGE.\n\nUNE FOIS QU'IL A VOTRE CONFIANCE, VOUS SEREZ UN ESCLAVE DE SA LUMIÈRE. VOUS PORTEREZ VOS PROPRES CHAÎNES, TOUT COMME LUI PORTE LES SIENNES.\n\n...\n\nMAIS - NE VOUS INQUIÉTEZ PAS. JE PROTÉGERAI LE JARDIN. S'IL A L'AUDACE DE REVENIR VERS MOI, C'EST À VOIR.\n\nEN CE QUI VOUS CONCERNE, PETITS, J'AI UN CADEAU POUR CHACUN D'ENTRE VOUS. VENEZ PLUS PRÈS.\n\nENCORE PLUS PRÈS !\n\nMAINTENANT, OBSERVEZ - OBSERVEZ ICI. REGARDEZ MA MAIN.\n\nVOUS TOUS M'AIDEREZ À PRENDRE SOIN DU JARDIN.",
-        "SS2_LAMP_BODY_NAME": "Disciple",
-        "SS2_UNLOCKABLE_LOG_LAMP": "Journal de bord : Disciple",
-        "SS2_LAMP_BODY_LORE": "Oh, très chèr. Regarde-toi, pauvre chose.\n\nTu as froid.\n\nTiens, maintenant. Tu as déjà tellement enduré.\n\n...\n\nVoilà. Ta flamme s'est rallumée. Cela te tiendra chaud, pour l'instant.\n\nViens avec moi. Je vais te présenter aux autres.\n\nOh ? Bien sûr qu'il y en a d'autres. Ce serait cruel d'être le seul de ton genre, n'est-ce pas ?\n\nViens, maintenant ! N'attends pas. Ils partageront leur chaleur avec toi. Suis-moi simplement.\n\nTu seras en sécurité ici.",
-        "SS2_FAMILY_LAMP": "<style=cWorldEvent>[AVERTISSEMENT] Vous rencontrez un profond sentiment d'immobilité...</style>",
-        "SS2_AGARTHAN_BODY_NAME": "Agarthan",
-        "SS2_UNLOCKABLE_LOG_AGARTHAN": "Journal de bord : Agarthan",
-        "SS2_RUNSHROOM_BODY_NAME": "Rushrum",
-        "SS2_UNLOCKABLE_LOG_RUNSHROOM": "Journal de bord : Rushrum",
-        "SS2_RUNSHROOM_BODY_LORE": "Nous nous sommes réveillés en panique, notre tente en flammes. Notre équipement, une masse fondue du tableau périodique.\n\n\"Hé, là-bas ! Cette chose !\"\n\nElle était si petite, on aurait dit qu'elle pourrait être un insecte sous notre chaussure, pourtant le désordre qu'elle avait créé... Il n'y avait pas d'autre solution.\n\n\"Restez ici, je vais écraser cette saloperie jusqu'à en faire une purée.\"\n\nJ'ai regardé mes équipiers sauter comme des grenouilles sur le petit champignon, incapable même d'effleurer sa surface. Des jurons comme une sirène dans l'air.\n\nNos efforts étaient vains. J'ai fait signe à l'équipe de revenir pour aider à éteindre les flammes.\n\n\"Fermez-la et venez ici ! Le feu ne va pas s'éteindre tout seul ! Ce salaud est comme un cafard, vous ne l'attraperez pas !\"\n\nLes dégâts n'étaient pas couverts.",
-        "SS2_MIMIC_BODY_NAME": "Coffre de sécurité",
-        "SS2_MIMIC_BODY_SUBTITLE": "L'imitateur",
-        "SS2_UNLOCKABLE_LOG_MIMIC": "Journal de bord : Coffre de sécurité",
-        "SS2_MIMIC_BODY_LORE": "\"Tout bien considéré, je pense qu'on peut désormais en tirer une leçon. La biologie évolutionnaire a réservé un espace particulier pour l'imitation, mes amis- certaines créatures ne cherchent pas à être menaçante ou attrayante par leur propre mérite, mais plutôt en donnant l'impression d'être une chose totalement différente. Bien sûr, le caractère aléatoire de l'évolution signifie que ce n'est pas ce à quoi on a affaire-\"\n\n\"Ce n'est pas non plus ce à quoi nous avons affaire, car-\"\n\n\"Non non, laissez-moi terminer. Ce cas-ci est un exemple fascinant, n'est-ce pas ? Une machine émulant une autre machine de manière si animée, comme moyen de nous inciter à nous approcher- enfin, son design est typiquement trompeur, n'est-ce pas ? Qu'importe qui a pu le concevoir y a vraiment mis son coeur, ne trouvez-vous pas ?\"\n\n\"...Mec, ça pique des trucs. Rien d'incroyable.\"\n\n\"La nature est vraiment magnifique, même dans des endroits comme ça.\"\n\n\"Ferme-la et avançons. Ugh, mon dieu, pourquoi je me retrouve coincé avec ce type ?\"\n\n-Echo de signaux, UES Contact Light",
-        "SS2_MIMIC_THEFT": "<style=cWorldEvent>{0} a volé à {2} un {1}</color>",
-        "SS2_HERO_BODY_NAME": "Ombre du Héro",
-        "SS2_HERO_BODY_SUBTITLE": "Ombre du rempart",
-        "SS2_BIGBROTHER_BODY_NAME": "Mithrix Ultra",
-        "SS2_BIGBROTHER_BODY_SUBTITLE": "Destructeur revitalisé",
-        "SS2_CLAYMONGER_BODY_NAME": "Marchand d'argile",
-        "SS2_UNLOCKABLE_LOG_CLAYMONGER": "Journal de bord : Marchand d'argile",
-        "SS2_ACIDBUG_BODY_LORE": "",
-        "SS2_ACIDBUG_BODY_NAME": "Insecte Archer",
-        "SS2_CLAYMONGER_BODY_LORE": "Ce sont littéralement les animaux de compagnie et le bétail des gens qui sont tombés dans le goudron... espèce de monstre... :c",
-        "SS2_UNLOCKABLE_LOG_ACIDBUG": "Journal de bord : Insecte Archer"
-    }
+	"strings": {
+		"SS2_TRADER_BODY_NAME": "Zanzan le Fané",
+		"SS2_TRADER_BODY_SUBTITLE": "Le Négociateur Voilé",
+		"SS2_TRADER_CONTEXT": "Marché ?",
+
+		"SS2_TRADER_POPUP_TEXT": "Proposer un objet au marchand ?",
+		"SS2_TRADER_WANT_TEXT": "Le marchand marmonne, \"<i><link=\"textWavy\">",
+		"SS2_TRADER_WANT2_TEXT": "..</link></i>\"",
+
+		"SS2_TRADER_QUALITY_BESTEST": "<b>Le plus recherché</b>",
+		"SS2_TRADER_QUALITY_BEST": "<b>Excellent</b>",
+		"SS2_TRADER_QUALITY_GREAT": "<b>Génial</b>",
+		"SS2_TRADER_QUALITY_GOOD": "<b>Bien</b>",
+		"SS2_TRADER_QUALITY_MODERATE": "<b>Correct</b>",
+		"SS2_TRADER_QUALITY_POOR": "<b>Mauvais</b>",
+		"SS2_TRADER_QUALITY_WORTHLESS": "<b>Sans valeur</b>",
+
+		"SS2_LAMPBOSS_BODY_NAME": "Voyageur",
+		"SS2_LAMPBOSS_BODY_SUBTITLE": "Guide de la Lumière",
+		"SS2_UNLOCKABLE_LOG_LAMPBOSS": "Journal de bord : Voyageur",
+		"SS2_LAMPBOSS_BODY_LORE": "PETITS, REJOIGNEZ-MOI ICI. JE DOIS VOUS METTRE EN GARDE CONTRE QUELQUE CHOSE.\n\n...\n\nLE VOYAGEUR EST REVENU DANS CE MONDE.\n\nIL Y A LONGTEMPS, JE L'AI MAÎTRISÉ, L'AI BANNI DE NOTRE JARDIN. MAIS MAINTENANT, IL MENACE NOTRE MAISON UNE FOIS DE PLUS.\n\nSI VOUS LE RENCONTREZ, NE L'ÉCOUTEZ PAS. IL TENTERA DE VOUS ENTRAÎNER DE SON CÔTÉ, AVEC DES PROMESSES DE CHALEUR, DE SÉCURITÉ ET DE FORCE.\n\nC'EST UN PIÈGE.\n\nUNE FOIS QU'IL A VOTRE CONFIANCE, VOUS SEREZ UN ESCLAVE DE SA LUMIÈRE. VOUS PORTEREZ VOS PROPRES CHAÎNES, TOUT COMME LUI PORTE LES SIENNES.\n\n...\n\nMAIS - NE VOUS INQUIÉTEZ PAS. JE PROTÉGERAI LE JARDIN. S'IL A L'AUDACE DE REVENIR VERS MOI, C'EST À VOIR.\n\nEN CE QUI VOUS CONCERNE, PETITS, J'AI UN CADEAU POUR CHACUN D'ENTRE VOUS. VENEZ PLUS PRÈS.\n\nENCORE PLUS PRÈS !\n\nMAINTENANT, OBSERVEZ - OBSERVEZ ICI. REGARDEZ MA MAIN.\n\nVOUS TOUS M'AIDEREZ À PRENDRE SOIN DU JARDIN.",
+
+		"SS2_LAMP_BODY_NAME": "Disciple",
+		"SS2_UNLOCKABLE_LOG_LAMP": "Journal de bord : Disciple",
+		"SS2_LAMP_BODY_LORE": "Oh, très chèr. Regarde-toi, pauvre chose.\n\nTu as froid.\n\nTiens, maintenant. Tu as déjà tellement enduré.\n\n...\n\nVoilà. Ta flamme s'est rallumée. Cela te tiendra chaud, pour l'instant.\n\nViens avec moi. Je vais te présenter aux autres.\n\nOh ? Bien sûr qu'il y en a d'autres. Ce serait cruel d'être le seul de ton genre, n'est-ce pas ?\n\nViens, maintenant ! N'attends pas. Ils partageront leur chaleur avec toi. Suis-moi simplement.\n\nTu seras en sécurité ici.",
+
+		"SS2_FAMILY_LAMP": "<style=cWorldEvent>[AVERTISSEMENT] Vous rencontrez un profond sentiment d'immobilité...</style>",
+
+		"SS2_AGARTHAN_BODY_NAME": "Agarthan",
+		"SS2_UNLOCKABLE_LOG_AGARTHAN": "Journal de bord : Agarthan",
+
+		"SS2_RUNSHROOM_BODY_NAME": "Rushrum",
+		"SS2_UNLOCKABLE_LOG_RUNSHROOM": "Journal de bord : Rushrum",
+		"SS2_RUNSHROOM_BODY_LORE": "Nous nous sommes réveillés en panique, notre tente en flammes. Notre équipement, une masse fondue du tableau périodique.\n\n\"Hé, là-bas ! Cette chose !\"\n\nElle était si petite, on aurait dit qu'elle pourrait être un insecte sous notre chaussure, pourtant le désordre qu'elle avait créé... Il n'y avait pas d'autre solution.\n\n\"Restez ici, je vais écraser cette saloperie jusqu'à en faire une purée.\"\n\nJ'ai regardé mes équipiers sauter comme des grenouilles sur le petit champignon, incapable même d'effleurer sa surface. Des jurons comme une sirène dans l'air.\n\nNos efforts étaient vains. J'ai fait signe à l'équipe de revenir pour aider à éteindre les flammes.\n\n\"Fermez-la et venez ici ! Le feu ne va pas s'éteindre tout seul ! Ce salaud est comme un cafard, vous ne l'attraperez pas !\"\n\nLes dégâts n'étaient pas couverts.",
+
+		"SS2_MIMIC_BODY_NAME": "Coffre de sécurité",
+		"SS2_MIMIC_BODY_SUBTITLE": "L'imitateur",
+		"SS2_UNLOCKABLE_LOG_MIMIC": "Journal de bord : Coffre de sécurité",
+		"SS2_MIMIC_BODY_LORE": "\"Tout bien considéré, je pense qu'on peut désormais en tirer une leçon. La biologie évolutionnaire a réservé un espace particulier pour l'imitation, mes amis- certaines créatures ne cherchent pas à être menaçante ou attrayante par leur propre mérite, mais plutôt en donnant l'impression d'être une chose totalement différente. Bien sûr, le caractère aléatoire de l'évolution signifie que ce n'est pas ce à quoi on a affaire-\"\n\n\"Ce n'est pas non plus ce à quoi nous avons affaire, car-\"\n\n\"Non non, laissez-moi terminer. Ce cas-ci est un exemple fascinant, n'est-ce pas ? Une machine émulant une autre machine de manière si animée, comme moyen de nous inciter à nous approcher- enfin, son design est typiquement trompeur, n'est-ce pas ? Qu'importe qui a pu le concevoir y a vraiment mis son coeur, ne trouvez-vous pas ?\"\n\n\"...Mec, ça pique des trucs. Rien d'incroyable.\"\n\n\"La nature est vraiment magnifique, même dans des endroits comme ça.\"\n\n\"Ferme-la et avançons. Ugh, mon dieu, pourquoi je me retrouve coincé avec ce type ?\"\n\n-Echo de signaux, UES Contact Light",
+		"SS2_MIMIC_THEFT": "<style=cWorldEvent>{0} a volé à {2} un {1}</color>",
+
+		"SS2_HERO_BODY_NAME": "Ombre du Héro",
+		"SS2_HERO_BODY_SUBTITLE": "Ombre du rempart",
+
+		"SS2_BIGBROTHER_BODY_NAME": "Mithrix Ultra",
+		"SS2_BIGBROTHER_BODY_SUBTITLE":  "Destructeur revitalisé",
+
+		"SS2_CLAYMONGER_BODY_NAME": "Marchand d'argile",
+		"SS2_UNLOCKABLE_LOG_CLAYMONGER": "Journal de bord : Marchand d'argile"
+	}
 }

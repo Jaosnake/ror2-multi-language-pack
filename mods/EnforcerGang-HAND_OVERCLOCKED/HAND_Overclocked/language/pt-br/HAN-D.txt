@@ -2,72 +2,60 @@
 	strings:
 	{
 	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
-	"MOFFEIN_HAND_BODY_SUBTITLE" : "Zelador N?o Remunerado",
-	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D ? um robusto rob? zelador, seus poderosos ataques corpo a corpo com certeza v?o deixar uma bagun?a! <style=cSub>\r\n\r\n< ! > FERIR tem seu empurr?o aumentado contra inimigos no ar. Use RECONSTRU??O_FOR?ADA para levantar inimigos nos ares, e ent?o use FERIR para fazer eles voarem!\r\n\r\n< ! > ALTA_FREQU?NCIA dura enquanto conseguir atingir inimigos.\r\n\r\n< ! > Cancelar ALTA_FREQU?NCIA permite voc? se lan?ar nos ares e alcan?ar inimigos voadores.\r\n\r\n< ! > Use DRONES para se curar e continuar na luta.\r\n\r\n
-
-Mod original por EnforcerGang",
-	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--AUTOTRANSCRI??O DO DEPARTAMENTO DE BASE DA UES [CONFIDENCIAL]--//</style>\r\n\r\n<i>*ativa <color=#327FFF>T?nico de Espin?lia</color>*</i>\n\nT? jogando sem a grande idiotice do artefato de <color=#6955A6>Comando</color>?\n\nEu n?o consigo pensar ou entender nada mais idiota do que jogar sem esse artefato. Honestamente, pensa comigo. Voc? est? atirando, correndo, pulando por 60 minutos para pegar unicamente uma droga de uma <color=#77FF16>P?lipo Calamar</color>. Todo seu trabalho ?rduo - desviando dos lasers do <style=cIsHealth>Golem de Pedra</style>, se frustrando com seis mil <style=cIsHealth>Esp?ritos Inferiores</color> aparecendo em cima de voc?, ativando todos os <color=#E5C962>Templos da Montanha</color> para um simples fim: seu invent?rio lotado de <color=#FFFFFF>Estandartes de Guerra</color> e <color=#FFFFFF>Presas de Monstro</color> pagos com seu dinheiro.\n\nEm uma partida perfeita? ?timo. Um monte de lixo que n?o adiciona em nada na sua partida acaba aparecendo em todo <color=#E5C962>Ba?</color> que voc? compra. Eles tem o benef?cio do seu dinheiro suado, vindo de uma chacina de <style=cIsHealth>Lemurianos</style>.\n\nComo um homem que joga esse jogo, voc? est? <style=cIsHealth>LITERALMENTE</style> dedicando duas horas da sua vida abrindo caixas e rezando para n?o vir nenhuma outra <color=#77FF16>Bugiganga Temporal</color>. ? o ultimato ?pice do idiota submisso. Use o c?rebro.\r\n<style=cMono>\r\nTranscri??es conclu?das.\r\n</style>\r\n \r\n\r\n",
-	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, nova vida pulsando no sistema.",
-	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, sem nenhuma recompensa por seus esfor?os.",
+	"MOFFEIN_HAND_BODY_SUBTITLE" : "Zelador Não Remunerado",
+	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D é um robusto robô zelador, seus poderosos ataques corpo-a-corpo estão prontos pra limpar a bagunça! <style=cSub>\r\n\r\n< ! > FERIR tem seu empurrão aumentado contra inimigos no ar. Use RECONSTRUÇÃO_FORÇADA para levantar inimigos nos ares, e então use FERIR para fazer eles voarem!\r\n\r\n< ! > ALTA_FREQUÊNCIA dura enquanto conseguir atingir inimigos.\r\n\r\n< ! > Cancelar ALTA_FREQUÊNCIA permite você se lançar nos ares e alcançar inimigos voadores.\r\n\r\n< ! > Use DRONES para se curar e continuar com a limpeza.\r\n\r\n",
+	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--AUTOTRANCRIÇÃO DO DEPARTAMENTO DE BASE DA UES [CONFIDENCIAL]--//</style>\r\n\r\n<i>*ativá <color=#327FFF>Tônico de Espinélia</color>*</i>\n\nTá jogando sem a grande idiotice do artefato de <color=#6955A6>Comando</color>?\n\nEu não consigo pensar ou entender nada mais idiota do que jogar sem esse artefato. Honestamente, pensa comigo. Você está atirando, correndo, pulando por 60 minutos para pegar unicamente uma droga de uma <color=#77FF16>Pólipo Calamar</color>. Todo seu trabalho árduo - desviando dos lasers do <style=cIsHealth>Golem de Pedra</style>, se frustando com seis mil <style=cIsHealth>Espíritos Inferiores</color> aparecendo em cima de você, ativando todos os <color=#E5C962>Templos da Montanha</color> para um simples fim: seu inventário lotado de <color=#FFFFFF>Estandartes de Guerra</color> e <color=#FFFFFF>Presas de Monstro</color> pagos com seu dinheiro.\n\nEm uma partida perfeita? Ótimo. Um monte de lixo que não adiciona em nada na sua partida acaba aparecendo em todo <color=#E5C962>Baú</color> que você compra. Eles tem o benefício do seu dinheiro suado, vindo de uma chacina de <style=cIsHealth>Lemurianos</style>.\n\nComo um homem que joga esse jogo, você está <style=cIsHealth>LITERALMENTE</style> dedicando duas horas da sua vida abrindo caixas e rezando para não vir nenhuma outra <color=#77FF16>Bugiganga Temporal</color>. É o ultimato ápice do idiota submisso. Use o cérebro.\r\n<style=cMono>\r\nTranscrições concluídas.\r\n</style>\r\n \r\n\r\n",
+	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, nová vida pulsando no sistema.",
+	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, sem nenhuma recompensa por seus esforços.",
 	
 	"MOFFEIN_HAND_BODY_PASSIVE_NAME" : "ARMADURA_DE_ENXAME",
-	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "<style=cIsDamage>Reduz o dano recebido</style> em <style=cIsDamage>0.3%</style> de sua sa?de m?xima para cada <style=cIsUtility>drone</style> ativo.",
+	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "<style=cIsDamage>Reduz o dano recebido</style> em <style=cIsDamage>0.3%</style> de sua saúde máxima para cada <style=cIsUtility>drone</style> ativo.",
 	
 	"MOFFEIN_HAND_BODY_PRIMARY_NAME" : "FERIR",
-	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "Aplique for?a a todos os combatentes, causando <style=cIsDamage>390% de dano</style>. <style=cIsDamage>Atordoa</style> enquanto <style=cIsDamage>ALTA_FREQU?NCIA</style> estiver ativo.",
+	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "Aplique força a todos os combatentes, causando <style=cIsDamage>390% de dano</style>. <style=cIsDamage>Atordoa</style> enquanto <style=cIsDamage>ALTA_FREQUÊNCIA</style> estiver ativo.",
 	
 	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME" : "ESMAGAR",
-	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "<style=cIsHealth>Cause lentid?o</style> e esmague todos os inimigos, causando <style=cIsDamage>600% de dano</style>. <style=cIsDamage>Atordoa</style> enquanto <style=cIsDamage>ALTA_FREQU?NCIA</style> estiver ativo.",
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "<style=cIsHealth>Cause lentidão</style> e esmague todos os inimigos, causando <style=cIsDamage>600% de dano</style>. <style=cIsDamage>Atordoa</style> enquanto <style=cIsDamage>ALTA_FREQUÊNCIA</style> estiver ativo.",
 	
-	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "RECONSTRU??O_FOR?ADA",
-	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma grande for?a contra todos os inimigos, causando <style=cIsDamage>600%-1.500% de dano</style>.",
+	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "RECONSTRUÇÃO_FORÇADA",
+	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma grande força contra todos os inimigos, causando <style=cIsDamage>600%-1.500% de dano</style>.",
 	
-	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "RECONSTRU??O_ANTI?TICA",
-	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma for?a <style=cIsHealth>INSUPORT?VEL</style> em todos os inimigos, causando <style=cIsDamage>900%-2.250% de dano</style>.",
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "RECONTRUÇÃO_ANTIÉTICA",
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma força <style=cIsHealth>INSUPORTÁVEL</style> em todos os inimigos, causando <style=cIsDamage>900%-2.250% de dano</style>.",
 	
 	"KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Impulso</style><style=cSub>A habilidade pode ser cancelada antes para impulsionar ao ar.</style>",
 	
 	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME" : "CANCELAR",
 	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Impulsiona-se ao ar</style>.",
 	
-	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "ALTA_FREQU?NCIA",
-	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>Impulso</style>. Aumente a <style=cIsUtility>velocidade de movimento</style> e a <style=cIsDamage>velocidade de ataque</style> em <style=cIsDamage>40%</style>. Acertar inimigos <style=cIsUtility>aumenta a dura??o</style>.",
+	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "ALTA_FREQUÊNCIA",
+	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>Impulso</style>. Aumente a <style=cIsUtility>velocidade de movimento</style> e a <style=cIsDamage>velocidade de ataque</style> em <style=cIsDamage>40%</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
 	
 	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME" : "FOCO",
-	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsDamage>+50% de dano</style> e <style=cIsUtility>50 de armadura</style>. Acertar inimigos <style=cIsUtility>aumenta a dura??o</style>.",
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsDamage>+50% de dano</style> e <style=cIsUtility>50 de armadura</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
 
-	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "DRONE ? CURAR",
-	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "Dispare um drone que causa <style=cIsDamage>270% de dano</style> e <style=cIsHealing>cura 40% do dano causado</style>. Abates e acertos corpo a corpo <style=cIsUtility>reduzem o tempo de recarga</style>.",
+	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "DRONE – CURAR",
+	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "Dispare um drone que causa <style=cIsDamage>270% de dano</style> e <style=cIsHealing>cura 40% do dano causado</style>. Abates e acertos corpo-a-corpo <style=cIsUtility>reduzem o tempo de recarga</style>.",
 
 	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "DRONE - VELOCIDADE",
-	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "Dispare um drone que causa <style=cIsDamage>270% de dano</style> e <style=cIsDamage>garante velocidade de ataque tempor?ria</style>. Abates e acertos corpo a corpo <style=cIsUtility>reduzem o tempo de recarga</style>.",
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "Dispare um drone que causa <style=cIsDamage>270% de dano</style> e <style=cIsDamage>garante velocidade de ataque temporária</style> ao mesmo tempo. Abates e acertos corpo-a-corpo <style=cIsUtility>reduzem o tempo de recarga</style>.",
 	
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Faz-tudo",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repare o rob? zelador no Ponto de encontro Delta com uma Matriz de Combust?vel da C?psula de Fuga.
-
-Mod original por EnforcerGang",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repare o robô zelador no Ponto de encontro Delta com uma Matriz de Combustível da Cápsula de Fuga.",
 	
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Arrebenta",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Mantenha ALTA_FREQU?NCIA ativo por 45 segundos.
-
-Mod original por EnforcerGang",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Mantenha ALTA_FREQUÊNCIA ativo por 45 segundos.",
 	
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Achate o chefe final.
-
-Mod original por EnforcerGang",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Achate o chefe final.",
 	
 	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Dom?nio",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "Como HAN-D, ven?a o jogo ou aniquile em Mon??o.
-
-Mod original por EnforcerGang",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Domínio",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "Como HAN-D, vença o jogo ou aniquile em Monção.",
 
 	"MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME" : "RE-TRN",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Grande Dom?nio",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "Como HAN-D, ven?a o jogo ou aniquile em Tuf?o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf?o ou superior)</color>
-
-Mod original por EnforcerGang",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Grande Domínio",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "Como HAN-D, vença o jogo ou aniquile em Tufão ou Eclipse.\n<color=#8888>(A dificuldade Tufão requer o mod Starstorm 2)</color>",
 	
 	"MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME" : "HO-POO",
 	}

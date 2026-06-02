@@ -1,32 +1,34 @@
 {
-    "strings": {
-        "SS2_KEYWORD_BLAZEBORNE": "<style=cKeywordName>Рождённый в Пламени</style><style=cSub>Нахождение рядом с горящими врагами даёт бонусы. Крупные враги горят жарче. Элитные монстры с эффектом Пылающий всегда горят.\nУрон от огненных атак снижен на 25% и даёт <color=#D78326>5% жара</color>.\nПолный иммунитет к <style=cIsDamage>Поджигу.</style></style>",
-        "SS2_KEYWORD_COMBUSTING": "<style=cKeywordName>Возгорание</style><style=cSub>Сбрасывает длительность стаков поджига каждую секунду.",
-        "SS2_KEYWORD_HEAT": "<style=cKeywordName>Жар</style><style=cSub>Ресурс, получаемый через пассивную и основную атаку, расходуется на другие навыки.",
-        "SS2_KEYWORD_LIFTOFF": "<style=cKeywordName>Взлёт</style><style=cSub>В воздухе заменяет вспомогательный навык на Взлёт:\nРасходует <color=#D78326>жар</color>, чтобы <style=cIsUtility>парить</style> в воздухе.</style>",
-        "SS2_KEYWORD_TORCHING": "<style=cKeywordName>Прожигание</style><style=cSub>Наносит в 1.5 раза больше урона с повышенным шансом поджога на конце пламени.",
-        "SS2_PYRO_DESCRIPTION": "Пиромант - мастер контроля толпы, сжигающий врагов с яростью и точностью.\n\nThis mod was translated by: Jaosnake",
-        "SS2_PYRO_LORE": "Жужжание, жужжание и ещё раз жужжание. Пока они пытались обсудить последние детали задания, единственным звуком был гул насекомых — но это не имело значения. Задание было простым, и он знал, как его выполнить. Женщина в каске направилась обратно в порт, а мужчина в полимерном костюме снял со спины внушительное оружие. Крепко сжав его одной рукой, другой он открыл грузовые ворота, готовясь к рою внутри.\n\nУдушающая кислая вонь заполнила воздух, как только двери открылись. Если бы не респиратор, пары были бы невыносимы, достаточно токсичны, чтобы вырубить его за минуты. Густой воздух был наполнен бесчисленными огромными зелёными жуками, снующими между разъеденными контейнерами и ульевыми структурами, которые они построили между ними. Их непрекращающийся гул заглушал мысли — именно так, как он любил. Ни одно из насекомых не заметило вторжения, пока поток напалма не взорвался пламенем.\n\nВоины спустились, а рабочие разбежались, хотя для всех было уже слишком поздно. Те, кто был достаточно быстр, чтобы дать отпор, лишь ускорили свою гибель, падая к его ногам, когда огонь пожирал их. Напалм цеплялся без разбора и к гнёздам, и к вредителям, и к охранным сундукам, пока он медленно пробирался сквозь лабиринт грузов, составлявших основу логова. Чёрный дым начал заполнять отсек, сгущаясь с каждым шагом, а пол устилался слоем обугленных останков. Но больше всего было жара — безжалостного, обжигающего жара его очищающего пламени, заполнившего всё помещение. Грузовые контейнеры превратились в печи, а отсек — в кладбище, когда он систематически выжигал заражение.\n\nЧасами позже остались лишь едкий запах разложения, редкие мандибулы или тораксы и тонкий слой пепла, устилавший пол. После третьего круга по отсеку он наконец нашёл то, что искал, спрятанное за треснувшим контейнером.",
-        "SS2_PYRO_NAME": "Пиромант",
-        "SS2_PYRO_OUTRO_FAILURE": "..и он исчез, пламя угасло.",
-        "SS2_PYRO_OUTRO_FLAVOR": "..и он ушёл, с сердцем, пылающим страстью.",
-        "SS2_PYRO_PASSIVE_DESC": "Получайте <color=#D78326>жар</color>, <style=cIsUtility>броню</style> и <style=cIsHealing>регенерацию</style> за каждого горящего врага рядом. Иммунитет к <style=cIsDamage>поджигу</style>.",
-        "SS2_PYRO_PASSIVE_NAME": "Рождённый в Пламени",
-        "SS2_PYRO_PRIMARY_DESC": "<style=cIsDamage>Прожигание</style>. <color=#D78326>Накапливайте жар</color>, поджигая врагов на <style=cIsDamage>40% урона</style>. При <color=#D78326>высоком жаре</color> может <style=cIsDamage>поджигать</style>.",
-        "SS2_PYRO_PRIMARY_NAME": "Опаление",
-        "SS2_PYRO_SECONDARY_ALT_DESC": "<color=#D78326>30% жару</color>. Вспышка пламени, <color=#D78326>поджигающая</color> врагов на <style=cIsDamage>400% урона</style> и <style=cIsUtility>отражающая снаряды</style>. Доп. заряды <color=#D78326>снижают затраты жару на 15%</color>.",
-        "SS2_PYRO_SECONDARY_ALT_NAME": "Тепловая Волна",
-        "SS2_PYRO_SECONDARY_DESC": "<color=#D78326>Тратит 1.5% жару</color> для поджога врагов на <style=cIsDamage>80% урона</style> с отталкиванием. <style=cIsDamage>Усиливается</style> при <color=#D78326>высоком жаре</color>. <style=cIsHealth>В РАЗРАБОТКЕ: Показывать урон в секунду вместо тиков?",
-        "SS2_PYRO_SECONDARY_NAME": "Подавляющий Огонь",
-        "SS2_PYRO_SKIN_DEFAULT": "Стандартный",
-        "SS2_PYRO_SPECIAL_ALT_DESC": "<style=cIsDamage>Возгорание</style>. Залп из дробовика на <style=cIsDamage>8x50% урона</style>.",
-        "SS2_PYRO_SPECIAL_ALT_NAME": "DM34 \"Истребитель\"",
-        "SS2_PYRO_SPECIAL_DESC": "<style=cIsDamage>Поджиг</style>. Огненный шар на <style=cIsDamage>400% урона</style> за <color=#D78326>65% жару</color>. Взрывается, нанося <style=cIsDamage>150%</style> за каждый стак <style=cIsDamage>поджога</style> на цели.",
-        "SS2_PYRO_SPECIAL_NAME": "Устранение Угрозы",
-        "SS2_PYRO_SUBTITLE": "Профессиональный Экоцид",
-        "SS2_PYRO_UTILITY2_DESC": "Расходуйте <color=#D78326>жар</color>, чтобы <style=cIsUtility>парить</style> в воздухе.",
-        "SS2_PYRO_UTILITY2_NAME": "Взлёт",
-        "SS2_PYRO_UTILITY_DESC": "Рывок <style=cIsUtility>вперёд</style> за <color=#D78326>35% жару</color>. В воздухе - рывок <style=cIsUtility>вверх</style>. <style=cIsUtility>Удерживайте</style> для замедления падения (<color=#D78326>2% жару</color>/сек).",
-        "SS2_PYRO_UTILITY_NAME": "План Б"
-    }
+  "strings": {
+    "SS2_PYRO_NAME": "Пиромант",
+    "SS2_PYRO_SUBTITLE": "Профессиональный Экоцид",
+    "SS2_PYRO_DESCRIPTION": "Пиромант - мастер контроля толпы, сжигающий врагов с яростью и точностью.",
+    "SS2_PYRO_OUTRO_FLAVOR": "..и он ушёл, с сердцем, пылающим страстью.",
+    "SS2_PYRO_OUTRO_FAILURE": "..и он исчез, пламя угасло.",
+
+    "SS2_KEYWORD_HEAT": "<style=cKeywordName>Жар</style><style=cSub>Ресурс, получаемый через пассивную и основную атаку, расходуется на другие навыки.",
+    "SS2_KEYWORD_COMBUSTING": "<style=cKeywordName>Возгорание</style><style=cSub>Сбрасывает длительность стаков поджига каждую секунду.",
+    "SS2_KEYWORD_TORCHING": "<style=cKeywordName>Прожигание</style><style=cSub>Наносит в 1.5 раза больше урона с повышенным шансом поджога на конце пламени.",
+
+    "SS2_PYRO_PASSIVE_NAME": "Рождённый в Пламени",
+    "SS2_PYRO_PASSIVE_DESC": "Получайте <color=#D78326>жар</color>, <style=cIsUtility>броню</style> и <style=cIsHealing>регенерацию</style> за каждого горящего врага рядом. Иммунитет к <style=cIsDamage>поджигу</style>.",
+
+    "SS2_PYRO_PRIMARY_NAME": "Опаление",
+    "SS2_PYRO_PRIMARY_DESC": "<style=cIsDamage>Прожигание</style>. <color=#D78326>Накапливайте жар</color>, поджигая врагов на <style=cIsDamage>40% урона</style>. При <color=#D78326>высоком жаре</color> может <style=cIsDamage>поджигать</style>.",
+
+    "SS2_PYRO_SECONDARY_NAME": "Подавляющий Огонь",
+    "SS2_PYRO_SECONDARY_DESC": "<color=#D78326>Тратит 1.5% жару</color> для поджога врагов на <style=cIsDamage>80% урона</style> с отталкиванием. <style=cIsDamage>Усиливается</style> при <color=#D78326>высоком жаре</color>. <style=cIsHealth>В РАЗРАБОТКЕ: Показывать урон в секунду вместо тиков?",
+
+    "SS2_PYRO_SECONDARY_ALT_NAME": "Тепловая Волна",
+    "SS2_PYRO_SECONDARY_ALT_DESC": "<color=#D78326>30% жару</color>. Вспышка пламени, <color=#D78326>поджигающая</color> врагов на <style=cIsDamage>400% урона</style> и <style=cIsUtility>отражающая снаряды</style>. Доп. заряды <color=#D78326>снижают затраты жару на 15%</color>.",
+
+    "SS2_PYRO_UTILITY_NAME": "План Б",
+    "SS2_PYRO_UTILITY_DESC": "Рывок <style=cIsUtility>вперёд</style> за <color=#D78326>35% жару</color>. В воздухе - рывок <style=cIsUtility>вверх</style>. <style=cIsUtility>Удерживайте</style> для замедления падения (<color=#D78326>2% жару</color>/сек).",
+
+    "SS2_PYRO_SPECIAL_NAME": "Устранение Угрозы",
+    "SS2_PYRO_SPECIAL_DESC": "<style=cIsDamage>Поджиг</style>. Огненный шар на <style=cIsDamage>400% урона</style> за <color=#D78326>65% жару</color>. Взрывается, нанося <style=cIsDamage>150%</style> за каждый стак <style=cIsDamage>поджога</style> на цели.",
+
+    "SS2_PYRO_SPECIAL_ALT_NAME": "DM34 \"Истребитель\"",
+    "SS2_PYRO_SPECIAL_ALT_DESC": "<style=cIsDamage>Возгорание</style>. Залп из дробовика на <style=cIsDamage>8x50% урона</style>."
+  }
 }

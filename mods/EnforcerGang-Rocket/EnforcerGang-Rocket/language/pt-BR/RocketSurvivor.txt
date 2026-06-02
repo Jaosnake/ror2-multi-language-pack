@@ -1,82 +1,54 @@
 {
 	strings:
 	{
-	"MOFFEIN_ROCKET_BODY_NAME" : "Rocket",
+	"MOFFEIN_ROCKET_BODY_NAME" : "Explosivista",
 	"MOFFEIN_ROCKET_BODY_SUBTITLE" : "Choque e Pavor",
-	"MOFFEIN_ROCKET_BODY_LORE" : "Registro - Dia 432\n\nSabe o que ? melhor que um lan?a-foguetes? NADA.\n\nT? explodindo alien?gena, pedra, e sei-l?-o-que nesse planeta amaldi?oado h? mais de um ano, e deixa eu te falar, n?o tem problema que uma explos?o no momento certo n?o resolva. Veio um enxame de insetos? BOOM. Precisa atravessar um abismo? BAM. At? o jantar eu explodi umas vezes. Carne queimada ? mais gostosa quando t? crocante, certo?\n\nMe mandaram pra c? por causa do meu \"comportamento imprudente.\" Quer dizer, ? realmente imprud?ncia se eu obtenho resultados? Claro, talvez eu tenha destru?do umas bases sem querer. Quem nunca? Tenta manter o dedo no gatilho calmo quando voc? t? segurando 30 quilos de divers?o explosiva.\n\nAgora, t? preso aqui lutando contra lagartos e insetos espaciais. Mas sabe de uma coisa? T? me divertindo pra caramba (literalmente). Toda vez que ou?o aquele doce fwoosh de um foguete cortando o ar, sei que vai ser um bom dia. E quando acerta? Bom, nunca fui muito de detalhes, mas a vista ? sempre espetacular.\n\nClaro, talvez um dia eu exploda a mim mesmo. Mas at? l?, vou levar meu lan?ador e cavalgar a explos?o at? em casa.\n\nFim do Registro. E sim, eu explodi o gravador tamb?m. Opa.",
-	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "O Rocket ? um ?gil especialista em explosivos que causa um devastador dano em ?rea.<style=cSub>\r\n\r\n< ! > Decolagem permite andar rapidamente pelo mapa e escapar de qualquer perigo!\r\n\r\n< ! > Seu Lan?a-Foguetes causa uma grande repuls?o contra os inimigos. Use isso para jogar eles para fora do mapa.\r\n\r\n< ! > Detonador Remoto ? ?til contra inimigos voadores, e pode ser usado como um incremento para mobilidade.\r\n\r\n< ! > Carga de Nitro ? ?tima tanto para causar dano em ?rea quanto para mobilidade.\r\n\r\n< ! > Recarregamento R?pido pode ser usado para pular o longo tempo de recarga do Lan?a-Foguetes.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_LORE" : "bio: explosivista nasceu com um poder especial",
+	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "O Explosivista é um ágil especialista em explosivos que causa um devastador dano em área.<style=cSub>\r\n\r\n< ! > Decolagem permite andar rapidamente pelo mapa e escapar de qualquer perigo!\r\n\r\n< ! > Seu Lança-Foguetes causa uma grande repulsão contra os inimigos. Use isso para jogar eles para fora do mapa.\r\n\r\n< ! > Detonador Remoto é útil contra inimigos voadores, e pode ser usado como um incremento para mobilidade.\r\n\r\n< ! > Carga de Nitro é ótimo tanto para causar dano em área quanto para mobilidade.\r\n\r\n< ! > Recarregamento Rápido pode ser usado para ignorar seu lento recarregamento do Lança-Foguetes.",
 	
-	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, se lan?ando novamente.",
-	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "... e assim ele desapareceu, nunca mais tocando o ch?o.",
+	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, se lançando novamente.",
+	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "... e assim ele desapareceu, nunca mais tocando o chão.",
 	
 	"MOFFEIN_ROCKET_BODY_PASSIVE_NAME" : "Decolagem",
-	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "Seus explosivos podem ser usados para realizar um <style=cIsUtility>salto explosivo</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "Seus explosivos podem ser usados para realizar um <style=cIsUtility>salto explosivo</style>.",
 	
-	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "Lan?a-Foguetes HG4",
-	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>?gil</style>. Atire um foguete que causa <style=cIsDamage>600% de dano</style>. M?ximo de 4.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "Lança-Foguetes HG4",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>Ágil</style>. Atire um foguete que causa <style=cIsDamage>600% de dano</style>. Máximo de 4.",
 	
 	
-	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "Lan?ador SAM HG4",
-	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>?gil</style>. Dispare um m?ssil <style=cIsUtility>teleguiado</style> com um <style=cIsHealth>raio de explos?o menor</style> que causa <style=cIsDamage>600% de dano</style>. M?ximo de 4.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "Lançador SAM HG4",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Ágil</style>. Dispare um míssil <style=cIsUtility>teleguiado</style> com um <style=cIsHealth>raio de explosão menor</style> que causa <style=cIsDamage>600% de dano</style>. Máximo de 4.",
 	
 	"MOFFEIN_ROCKET_BODY_SECONDARY_NAME" : "Detonador Remoto",
-	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "Detone <style=cIsDamage>todos os explosivos</style>. <style=cIsDamage>Foguetes</style> detonados causam <style=cIsDamage>+50%</style> de <style=cIsDamage>dano</style> e possuem o <style=cIsDamage>raio de explos?o</style> aumentado.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "Detone <style=cIsDamage>todos os explosivos</style>. <style=cIsDamage>Foguetes</style> detonados causam <style=cIsDamage>+50%</style> de <style=cIsDamage>dano</style> e possuem o <style=cIsDamage>raio de explosão</style> aumentado.",
 	
 	"MOFFEIN_ROCKET_BODY_UTILITY_NAME" : "Carga de Nitro",
-	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Coloque uma carga de explosivo. Use o <style=cIsDamage>Detonador Remoto</style> para explodir, causando <style=cIsDamage>1.200% de dano</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Coloque uma carga de explosivo. Use o <style=cIsDamage>Detonador Remoto</style> para explodir, causando <style=cIsDamage>1.200% de dano</style>.",
 	
 	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME" : "Bombardeio",
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Pesado</style>. <style=cIsDamage>Atordoante</style>. Balance sua p? explosiva contra um inimigo, causando <style=cIsDamage>1.200% de dano</style>. Realiza <style=cIsDamage>Acertos Cr?ticos</style> durante <style=cIsUtility>saltos explosivos</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Pesado</style>. <style=cIsDamage>Atordoante</style>. Balance sua pá explosivá contra um inimigo, causando <style=cIsDamage>1.200% de dano</style>. Realiza <style=cIsDamage>Acertos Críticos</style> durante <style=cIsUtility>saltos explosivos</style>.",
 	
 	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME" : "Grande Slam",
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION" : "<style=cIsUtility>Pesado</style>. <style=cIsDamage>Atordoante</style>. Balance sua p? explosiva contra um inimigo, causando <style=cIsDamage>1.800% de dano</style>. Realiza <style=cIsDamage>Acertos Cr?ticos</style> durante <style=cIsUtility>saltos explosivos</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION" : "<style=cIsUtility>Pesado</style>. <style=cIsDamage>Atordoante</style>. Balance sua pá explosivá contra um inimigo, causando <style=cIsDamage>1.800% de dano</style>. Realiza <style=cIsDamage>Acertos Críticos</style> durante <style=cIsUtility>saltos explosivos</style>.",
 	
-	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "Recarregamento R?pido",
-	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "Rapidamente <style=cIsDamage>atire 4 foguetes</style>, e ent?o <style=cIsUtility>recarregue sua arma</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "Recarregamento Rápido",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "Rapidamente <style=cIsDamage>atire 4 foguetes</style>, e então <style=cIsUtility>recarregue sua arma</style>.",
 	
 	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "Tempestade de Foguetes",
-	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Rapidamente <style=cIsDamage>atire 10 foguetes</style>, e ent?o <style=cIsUtility>recarregue sua arma</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Rapidamente <style=cIsDamage>atire 10 foguetes</style>, e então <style=cIsUtility>recarregue sua arma</style>.",
 	
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Rocket: Sebo nas Canelas",
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "Como Rocket, acesse e conclua o Portal Celestial em 25 minutos ou menos.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Explosivista: Sebo nas Canelas",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "Como Explosivista, acesse e conclua o Portal Celestial em 25 minutos ou menos.",
 	
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Rocket: Pula Pula",
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "Como Rocket, realize um salto explosivo 10 vezes seguidas sem tocar o ch?o.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Explosivista: Pula Pula",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "Como Explosivista, realize um salto explosivo 15 vezes seguidas sem tocar o chão.",
 
 	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "Bombardeiro",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Rocket: Dom?nio",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "Como Rocket, ven?a o jogo ou aniquile em Mon??o.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Explosivista: Domínio",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "Como Explosivista, vença o jogo ou aniquile em Monção.",
 	
 	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "Patrulheiro",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Rocket: Grande Dom?nio",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "Como Rocket, ven?a o jogo ou aniquile em Tuf?o ou Eclipse.\n<color=#8888>(A dificuldade Tuf?o requer o mod Starstorm 2)</color>
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Explosivista: Grande Domínio",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "Como Explosivista, vença o jogo ou aniquile em Tufão ou Eclipse.\n<color=#8888>(A dificuldade Tufão requer o mod Starstorm 2)</color>",
 	}
 }

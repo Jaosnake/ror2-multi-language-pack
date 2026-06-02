@@ -1,36 +1,28 @@
 {
     strings:
     {
-    "ITEM_BARRIERONCRIT_NAME" : "Pendientes de Bismuto",
-    "ITEM_BARRIERONCRIT_DESCRIPTION" : "Obtén <style=cIsDamage>5% de probabilidad de sangrado</style>. Obtén una <style=cIsHealing>barrera temporal</style> al aplicar sangrado por <style=cIsHealing>15 de salud</style> <style=cStack>(+10 por acumulación)</style>.",
-
-Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_BARRIERONCRIT_PICKUP" : "Obtén barrera al aplicar sangrado",
-    "ITEM_BARRIERONCRIT_LORE" : "Los pendientes son de Bismuto o algo así, ni idea.",
-    "ITEM_ENIGMATICKEYCARD_NAME" : "Tarjeta Enigmática",
-    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Probabilidad de generar un orbe al golpear que persigue y daña enemigos.",
-    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "4% de probabilidad al golpear de generar un <style=cIsDamage>orbe buscador</style> que golpea a los enemigos cercanos por <style=cIsDamage>140% de daño base <style=cStack>(+140% por acumulación)</style></style> al impactar.",
-
-Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_ENIGMATICKEYCARD_LORE" : "Ninguna tarjeta podrá jamás abrir el maldito cerebro de Enigma",
-    "ITEM_BLEEDCRIPPLE_NAME" : "Daga de Fabinhoru",
-    "ITEM_BLEEDCRIPPLE_PICKUP" : "Golpear enemigos sangrantes reduce su armadura.",
-    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Obtén <style=cIsDamage>5%</style> de probabilidad de causar <style=cIsDamage>sangrado</style> al golpear. <style=cIsDamage>Golpear</style> enemigos que están <style=cIsDamage>sangrando</style> reduce su <style=cIsDamage>armadura</style> en <style=cIsDamage>30</style> <style=cStack>(+15 por acumulación)</style>.",
-
-Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_BLEEDCRIPPLE_LORE" : "ella me fabina la daga hasta que horu",
-    "ITEM_GLASSHARVESTER_NAME" : "Cosechador de Cristal",
-    "ITEM_GLASSHARVESTER_PICKUP" : "Tus 'Golpes Críticos' infligen un 40% adicional de daño. Se rompe con poca salud, otorgando experiencia.",
-    "ITEM_GLASSHARVESTER_DESC" : "Obtén <style=cIsDamage>5% de probabilidad de golpe crítico</style>. Los <style=cIsDamage>Golpes Críticos</style> infligen un <style=cIsDamage>40% adicional de daño</style><style=cStack>(+30% por acumulación)</style>. Recibir daño por debajo del <style=cIsHealth>25% de salud</style> <style=cIsUtility>rompe</style> este objeto y otorga el 15% de la <style=cIsUtility>experiencia</style> de tu nivel actual.",
-    "ITEM_GLASSHARVESTER_LORE" : "¿Cosecha cristal o cosecha con cristal?\nNo lo sé y no me importa, fuera de mi casa",
-    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Cosechador de Cristal (Roto)",
-    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Cosecha Recogida. ¿Valió la pena la experiencia?",
-    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Un objeto gastado sin poder restante.",
-    "ITEM_PICKUPBUFF_NAME" : "Capa de Jape",
-    "ITEM_PICKUPBUFF_PICKUP" : "Obtén una mejora que otorga armadura y curación al recoger un objeto.",
-    "ITEM_PICKUPBUFF_DESCRIPTION" : "Obtén una mejora que te otorga <style=cIsUtility>+5 de armadura</style> y <style=cIsHealing>30% de curación</style> al recoger un objeto. Máximo de 3 mejoras <style=cStack>(+2 por acumulación)</style>.",
-
-Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_PICKUPBUFF_LORE" : ""Registro del intendente. 17 días después del accidente.\n\nHa pasado más de medio mes desde que casi nos quemamos hasta convertirnos en pasta negra humeante durante nuestra involuntaria presentación a la atmósfera de este planeta asesino. Debido a la naturaleza de nuestra llegada, que fue escapar de una nave de carga que colapsaba tras ser arrancada del viaje warp, nuestro suministro de necesidades ha estado disminuyendo desde un recuento base ya peligrosamente bajo. Nos hemos visto obligados a racionar la poca comida y agua que tenemos. Para controlar esto, he sido elegido Intendente de nuestro puesto de avanzada.\nNuestros suministros son los siguientes:\n\n-Comida y agua suficientes para aproximadamente 1 semana y media.\n-3 cajas de cartón y media llenas de metal rescatado y circuitos de drones y centinelas destruidos.\n-4 bolsas de equipo médico\n-2 llaveros, ¿cada uno con 13 llaves oxidadas? (Esto debe ser un error, Juárez dice que lo trajeron junto con el resto del botín que esos tres tipos trajeron hace 2 días, ¿las están imprimiendo o qué?)\n-6 cajas llenas de munición (potencialmente disminuyendo a un ritmo exponencial)\n\nAlgo no cuadra. El tablón de anuncios que pusimos para rastrear cuántos suministros está tomando cada uno no lo cubre todo. Aunque esto puede ser solo una simple falta de comunicación, la posibilidad de que alguien esté tomando más de lo que necesita aumenta con cada día. No tengo pruebas que apunten exactamente a esto, pero es una posibilidad (muy aterradora).\n\n\nSi es solo una persona tomándolo todo, entonces al ritmo que se ha mostrado...\nPodría estar más preparada que el resto de nosotros.\n\nFin del registro.\n\n\nAnexo: ¿QUIÉN. EN EL SANTO NOMBRE DE DIOS. SE LLEVÓ. MIS. CIGARRILLOS??"",
+    "ITEM_BARRIERONCRIT_NAME" : "铋元素耳环",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "提高<style=cIsDamage>5%流血概率</style>。造成流血时获得<style=cIsHealing>15点</style> <style=cStack>(每层+10点)</style><style=cIsHealing>临时屏障</style>。",
+    "ITEM_BARRIERONCRIT_PICKUP" : "造成流血时获得临时屏障。",
+    "ITEM_BARRIERONCRIT_LORE" : "这耳环是铋或者别的什么我不知道的东西做的。",
+    "ITEM_ENIGMATICKEYCARD_NAME" : "神秘的钥匙卡",
+    "ITEM_ENIGMATICKEYCARD_PICKUP" : "有机会在命中时产生一个星体，跟随并伤害敌人。",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "命中时有4%几率产生一个<style=cIsDamage>跟踪星体</style>攻击邻近的敌人，命中时造成<style=cIsDamage>140%伤害<style=cStack>(每层+140%)</style></style>。",
+    "ITEM_ENIGMATICKEYCARD_LORE" : "没有哪个钥匙卡能打开恩尼格玛那狗日的大脑",
+    "ITEM_BLEEDCRIPPLE_NAME" : "法宾赫鲁的匕首",
+    "ITEM_BLEEDCRIPPLE_PICKUP" : "攻击流血的敌人以降低他们的护甲。",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "获得命中时<style=cIsDamage>5%</style><style=cIsDamage>流血几率</style><style=cIsDamage>刺穿</style><style=cIsDamage>流血</style>的敌人并降低目标<style=cIsDamage>30</style> <style=cStack>(每层+15)</style><style=cIsDamage>护甲</style>。",
+    "ITEM_BLEEDCRIPPLE_LORE" : "她在玩弄我的匕首，直到我高潮",
+    "ITEM_GLASSHARVESTER_NAME" : "玻璃收割者",
+    "ITEM_GLASSHARVESTER_PICKUP" : "暴击造成额外40%伤害。低生命值时损坏并获得经验值。",
+    "ITEM_GLASSHARVESTER_DESC" : "获得<style=cIsDamage>5%暴击率</style>。<style=cIsDamage>暴击</style>造成额外<style=cIsDamage>40%伤害</style><style=cStack>(每层+30%)</style>。低于<style=cIsHealth>25%生命值</style>时<style=cIsUtility>摧毁</style>此物品并获得相当于你当前等级所需<style=cIsUtility>经验</style>的15%。",
+    "ITEM_GLASSHARVESTER_LORE" : "它收割玻璃还是用玻璃收割?\n我不知道，我也不在乎，滚出我的房子！",
+    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "玻璃收割者（已损坏）",
+    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "收割者被收割了。这样的经历值得吗？",
+    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "没有任何能量的废弃物品。",
+    "ITEM_PICKUPBUFF_NAME" : "加普的斗篷",
+    "ITEM_PICKUPBUFF_PICKUP" : "捡起物品时获得治疗与护甲加成",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "捡起物品时获得<style=cIsUtility>+5护甲</style>与<style=cIsHealing>30%治疗</style>。此加成最大叠加3层<style=cStack>(每层+2可叠加层数)</style>.",
+    "ITEM_PICKUPBUFF_LORE" : "军需官日志。坠机后第17天。\n\n自从我们被迫进入这个吃人的星球的大气层、几乎把自己烧成冒烟的黑糊糊以来，已经有半个多月了。由于我们到达的方式，那就是从一艘被撕出曲速旅行的崩溃的货船中逃生，我们的必需品供应量已经从本就危险的低基数开始继续减少。我们不得不定量配给我们仅有的一点食物和水。为了控制这一点，我被选为我们哨所的军需官。\n以下是我们的物资清单：\n\n-足够一个半星期的食物和水。\n-三个半纸箱，里面装满了从被摧毁的无人机和哨兵身上回收的金属和电路。\n-4袋医疗设备\n-2个钥匙链，每个有13把生锈的钥匙？（这一定是个错误，胡亚雷斯说这是两天前那三个家伙带来的一部分战利品，他们是在印这些东西吗？）\n-6箱弹药（可能会以指数速度减少）\n\n有些事情不对劲。我们张贴的公告板上记录每个人拿走了多少物资，但并不完全准确。虽然这可能是每个人之间简单的沟通问题，但随着时间的推移，有人拿走超过自己所需的可能性正与日俱增。我没有任何证据来确切指向这一点，但这是一个非常（令人恐惧）的可能性。\n\n\n如果只是一个人拿走了所有的东西，那么按照已经显示的速率…\n他们可能比我们其他人都更有准备。\n\n日志结束。\n\n\n附记：看在上帝的份上，谁，拿了，我的，香烟？？",
     }
 }

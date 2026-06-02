@@ -1,18 +1,6 @@
 {
-    "strings": {
-        "SS2_NEMBANDIT_NAME": "复仇潜行者",
-        "SS2_NEMBANDIT_SUBTITLE": "暗黑法外之徒",
-        "SS2_NEMBANDIT_DESCRIPTION": "复仇潜行者通过伪装技术谨慎地定位自己，以缠斗敌人并收割人群。\n\n<color=#CCD3E0>< ! > 毫不留情。\n\nThis mod was translated by: Jaosnake",
-        "SS2_NEMBANDIT_OUTRO_FLAVOR": "..于是他离开了，没有丝毫遗憾。",
-        "SS2_NEMBANDIT_OUTRO_FAILURE": "..于是他回来了，运气终于耗尽了。",
-        "SS2_NEMBANDIT_LORE": "yehaw",
-        "SS2_NEMBANDIT_PRIMARY_NAME": "枪手",
-        "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "发射左轮手枪，造成<style=cIsDamage>220%伤害</style>。最多可持有6发子弹。",
-        "SS2_NEMBANDIT_SECONDARY_NAME": "投掷炸药",
-        "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "投掷炸药，数值待定",
-        "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "抛硬币",
-        "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "你知道它是干什么的",
-        "SS2_NEMBANDIT_SPECIAL_NAME": "泼溅",
-        "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "发射霰弹枪弹幕，造成<style=cIsDamage>6x100%伤害</style>。击杀<style=cIsUtility>重置所有冷却时间</style>。"
-    }
+  "strings": {
+    "SS2_NEMBANDIT_NAME": "复仇潜行者"
+  
+  }
 }

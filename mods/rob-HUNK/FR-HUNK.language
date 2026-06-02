@@ -78,7 +78,7 @@
         "ROB_HUNK_BODY_KNIFE_BLOODY_DESCRIPTION": "Une lame ensanglant\u00e9e au bord dentel\u00e9 qui a d\u00e9j\u00e0 lac\u00e9r\u00e9 de nombreux adversaires. <i>Translated by: Jaosnake. Original mod by rob</i>",
         "ROB_HUNK_BODY_KNIFE_HOTDOGGER_NAME": "HOT DOGGER",
         "ROB_HUNK_BODY_KNIFE_HOTDOGGER_DESCRIPTION": "Comme le nom l'indique, ce couteau anti-bioweapon d\u00e9velopp\u00e9 par Umbrella est utilis\u00e9 par ceux qui aiment se mettre en valeur. <i>Translated by: Jaosnake. Original mod by rob</i>",
-        "ROB_HUNK_BODY_KNIFE_STUNROD_NAME": "B"};
+        "ROB_HUNK_BODY_KNIFE_STUNROD_NAME": "B",
         "ROB_HUNK_BODY_KNIFE_STUNROD_DESCRIPTION": "AVERTISSEMENT : N'\u00e9tourdir pas vraiment. <i>Translated by: Jaosnake. Original mod by rob</i>",
         "ROB_HUNK_BODY_KNIFE_KITCHEN_NAME": "Couteau de Cuisine",
         "ROB_HUNK_BODY_KNIFE_KITCHEN_DESCRIPTION": "Un couteau fait pour cuisiner. Sa lame s'\u00e9caille facilement. <i>Translated by: Jaosnake. Original mod by rob</i>",
@@ -303,3 +303,4 @@
         "ROB_HUNK_PARASITE_BODY_NAME": "G-Jeune",
         "ROB_HUNK_HELICOPTER_BODY_NAME": "H\u00e9licopt\u00e8re d'Attaque"
     }
+}

@@ -1,28 +1,10 @@
 {
-    "strings": {
-        "SS2_KNIGHT_BODY_NAME": "骑士",
-        "SS2_KNIGHT_BODY_SUBTITLE": "皇家卫士",
-        "SS2_KNIGHT_DESCRIPTION": "骑士是一名近战领域的专家，以精确的时机和执行能力与敌人进行对决和招架。\n\n<color=#CCD3E0>< ! > 招架。\n\nThis mod was translated by: Jaosnake",
-        "SS2_KNIGHT_OUTRO_FLAVOR": "……于是他离开了，满身伤痕，心中失去希望。",
-        "SS2_KNIGHT_OUTRO_FAILURE": "……于是他消失了，盾牌破碎，心中希望熄灭。",
-        "SS2_KNIGHT_BODY_LORE": "为什么太空里会有骑士",
-        "SS2_KNIGHT_PASSIVE_NAME": "振奋",
-        "SS2_KNIGHT_PASSIVE_DESC": "一个增益光环环绕着你，为范围内的盟友提供<style=cIsDamage>20%攻击速度</style>和<style=cIsDamage>20%伤害</style>。",
-        "SS2_KNIGHT_PRIMARY_SWORD_NAME": "银波锦之刃",
-        "SS2_KNIGHT_PRIMARY_SWORD_DESC": "向前挥砍造成<style=cIsDamage>200%伤害</style>。每三次攻击向前刺击造成<style=cIsDamage>400%伤害</style>。格挡时猛击敌人造成<style=cIsDamage>400%伤害</style>。",
-        "SS2_KNGIHT_PRIMARY_SWORD_UPRGADE_TOOLTIP": "<style=cKeywordName><color=#fa78f3>强化</color></style><style=cSub>向前突进，造成<style=cIsDamage>3x400%伤害</style>。</style>",
-        "SS2_KEYWORD_PARRY": "<style=cKeywordName>招架</style><style=cSub>格挡一次即将到来的攻击以<style=cIsUtility>眩晕</style>并造成<style=cIsDamage>350%伤害</style>给周围所有敌人。你也会在1秒内<style=cIsUtility>免疫伤害</style>。</style>",
-        "SS2_KEYWORD_EMPOWERING": "<style=cKeywordName>强化</style><style=cSub><color=#fa78f3>强化</color>你的下一次技能使用。</style>",
-        "SS2_KNIGHT_SECONDARY_SHIELD_NAME": "格挡",
-        "SS2_KNIGHT_SECONDARY_SHIELD_DESC": "举起盾牌，获得<style=cIsUtility>400护甲</style>。在即将受到攻击前使用以<style=cIsDamage>招架</style>并<color=#fa78f3>强化</color>你的下一个技能。",
-        "SS2_KNIGHT_SECONDARY_SHIELD_DESC2": "举起盾牌，获得<style=cIsUtility>400护甲</style>并将跳跃替换为<style=cIsUtility>翻滚</style>。在即将受到攻击前使用以<style=cIsDamage>招架</style>并<color=#fa78f3>强化</color>你的下一个技能。",
-        "SS2_KNIGHT_SHIELD_BASH_NAME": "猛击",
-        "SS2_KNIGHT_SHIELD_BASH_DESC": "向前盾击造成<style=cIsDamage>240%伤害</style>并<style=cIsUtility>眩晕</style>被命中的敌人。",
-        "SS2_KNIGHT_UTILITY_LEAP_NAME": "突击冲锋",
-        "SS2_KNIGHT_UTILITY_LEAP_DESC": "向前冲刺，旋转挥砍每次造成<style=cIsDamage>120%伤害</style>。攻击次数随攻击速度提升。",
-        "SS2_KNIGHT_UTILITY_LEAP_UPGRADE_TOOLTIP": "<style=cKeywordName><color=#fa78f3>强化</color></style><style=cSub>冲锋更远，每次造成<style=cIsDamage>200%伤害</style>。</style>",
-        "SS2_KNIGHT_SPECIAL_BANNER_NAME": "集结",
-        "SS2_KNIGHT_SPECIAL_BANNER_DESC": "将旗帜插入地面，造成<style=cIsDamage>750%伤害</style>。附近盟友攻击时<style=cIsDamage>惩戒</style>敌人，降低其护甲并<style=cIsHealing>恢复生命</style>。",
-        "SS2_KNIGHT_SPECIAL_BANNER_UPGRADE_TOOLTIP": "<style=cKeywordName><color=#fa78f3>强化</color></style><style=cSub>额外提供<style=cIsUtility>X%护盾</style>。</style>"
-    }
+  "strings": {
+    "SS2_KNIGHT_BODY_NAME": "骑士",
+    "SS2_KNIGHT_BODY_SUBTITLE": "皇家卫士",
+    "SS2_KNIGHT_DESCRIPTION": "骑士是一名近战领域的专家，以精确的时机和执行能力与敌人进行对决和招架。\n\n<color=#CCD3E0>< ! > parry.",
+    "SS2_KNIGHT_OUTRO_FLAVOR": "……于是他离开了，满身伤痕，心中失去希望。",
+    "SS2_KNIGHT_OUTRO_FAILURE": "……于是他消失了，盾牌破碎，心中希望熄灭。"
+    
+  }
 }
