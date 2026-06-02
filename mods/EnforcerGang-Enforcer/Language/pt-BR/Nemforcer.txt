@@ -1,4 +1,4 @@
-﻿{
+{
     strings:
     {
     "NEMFORCER_NAME" : "Enforcer N?mesis",
