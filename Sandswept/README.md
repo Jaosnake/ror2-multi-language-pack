@@ -3,9 +3,9 @@
 > Este pacote faz parte do [ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack).
 
 Multi-language translation pack for **Sandswept** (by SandsweptTeam).  
-Supports **13 languages** with full coverage of all tokens (items, equipment, survivors, skills, enemies, shrines, drones, interactables, elite variants).
+Supports **14 languages** with full coverage of all tokens (items, equipment, survivors, skills, enemies, shrines, drones, interactables, elite variants).
 
-> **Note on AI**: The **PT-BR** translation was done 100% manually. All other translations (RU, DE, ES, FR, IT, PL, JA, KO, zh-CN, zh-TW, TR) used AI assistance for initial generation, with human review.
+> **Note on AI**: The **PT-BR** translation was done 100% manually. All other translations (RU, DE, ES, FR, IT, PL, JA, KO, zh-CN, zh-TW, TR, UA) used AI assistance for initial generation, with human review.
 
 ## Available Languages
 
@@ -24,6 +24,10 @@ Supports **13 languages** with full coverage of all tokens (items, equipment, su
 | 🇹🇼 **zh-TW** (Traditional Chinese) | `Translations/Zh-TW-Sandswept.language` |
 | 🇹🇷 **TR** (Turkish) | `Translations/Tr-Sandswept.language` |
 | 🇺🇸 **EN** (English – base) | `Translations/En-Sandswept.language` |
+| 🇺🇦 **UA** (Ukrainian) | `Translations/Ua-Sandswept.language` ★ |
+
+> ★ Ukrainian is **not** a natively supported language in Risk of Rain 2.  
+> See [UA-LANGUAGE-NOTE.md](UA-LANGUAGE-NOTE.md) for technical details.
 
 ## Installation
 
@@ -42,7 +46,7 @@ The `.language` files are loaded automatically by the game's language system via
 
 - **Sandswept original mod**: [SandsweptTeam](https://github.com/SandsweptTeam/Sandswept) — original code and assets (GPL-3.0)
 - **PT-BR translation**: Jaosnake (manual translation)
-- **All other translations (RU, DE, ES, FR, IT, PL, JA, KO, zh-CN, zh-TW, TR)**: Jaosnake with AI assistance
+- **All other translations (RU, DE, ES, FR, IT, PL, JA, KO, zh-CN, zh-TW, TR, UA)**: Jaosnake with AI assistance
 - This package contains **only translation files**. No original source code from Sandswept has been modified or included.
 
 ## License
