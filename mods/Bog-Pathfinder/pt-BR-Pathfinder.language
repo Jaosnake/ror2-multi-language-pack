@@ -1,32 +1,32 @@
 {
     "pt-BR": {
         "BOG_PATHFINDER_BODY_NAME": "Pathfinder",
-        "BOG_PATHFINDER_BODY_DESCRIPTION": "O Pathfinder È um escaramuÁador astuto e evasivo que luta ao lado de seu falc„o robÙ, Squall.
+        "BOG_PATHFINDER_BODY_DESCRIPTION": "O Pathfinder √© um escaramu√ßador astuto e evasivo que luta ao lado de seu falc√£o rob√¥, Squall.
 
 Mod original por Bog. Traduzido por: Jaosnake",
-        "BOG_PATHFINDER_BODY_SUBTITLE": "CaÁador Interplanet·rio",
+        "BOG_PATHFINDER_BODY_SUBTITLE": "Ca√ßador Interplanet√°rio",
         "BOG_PATHFINDER_BODY_OUTRO_FLAVOR": "..e assim eles partiram, como os novos reis da cadeia alimentar.",
         "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..e assim eles desapareceram, perdidos para sempre na natureza selvagem e indiferente.",
-        "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Padr„o",
+        "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Padr√£o",
         "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Headhunter",
 
         "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Falcoeiro",
-        "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "VocÍ È acompanhado pelo seu falc„o robÙ, Squall. Squall herda <style=cIsDamage>a maioria</style> de seus itens e È imune a dano, mas funciona com uma <style=cIsUtility>bateria</style>.
+        "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "Voc√™ √© acompanhado pelo seu falc√£o rob√¥, Squall. Squall herda <style=cIsDamage>a maioria</style> de seus itens e √© imune a dano, mas funciona com uma <style=cIsUtility>bateria</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_PATHFINDER_BODY_PRIMARY_THRUST_NAME": "Investida",
-        "BOG_PATHFINDER_BODY_PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Perfurante</style>. Empurre sua lanÁa para frente para <style=cIsDamage>250% de dano</style>.
+        "BOG_PATHFINDER_BODY_PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Perfurante</style>. Empurre sua lan√ßa para frente para <style=cIsDamage>250% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
-        "BOG_PATHFINDER_BODY_SECONDARY_DASH_NAME": "PÈ Leve",
-        "BOG_PATHFINDER_BODY_SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Deslize</style> uma curta dist‚ncia. Na prÛxima vez que usar sua habilidade prim·ria, arremesse uma <style=cIsDamage>lanÁa explosiva</style> para <style=cIsDamage>800% de dano</style>.
+        "BOG_PATHFINDER_BODY_SECONDARY_DASH_NAME": "P√© Leve",
+        "BOG_PATHFINDER_BODY_SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Deslize</style> uma curta dist√¢ncia. Na pr√≥xima vez que usar sua habilidade prim√°ria, arremesse uma <style=cIsDamage>lan√ßa explosiva</style> para <style=cIsDamage>800% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
-        "BOG_PATHFINDER_BODY_SECONDARY_JAVELIN_NAME": "LanÁa Explosiva",
-        "BOG_PATHFINDER_BODY_SECONDARY_JAVELIN_DESCRIPTION": "Arremesse uma <style=cIsDamage>lanÁa explosiva</style> para <style=cIsDamage>800% de dano</style>.
+        "BOG_PATHFINDER_BODY_SECONDARY_JAVELIN_NAME": "Lan√ßa Explosiva",
+        "BOG_PATHFINDER_BODY_SECONDARY_JAVELIN_DESCRIPTION": "Arremesse uma <style=cIsDamage>lan√ßa explosiva</style> para <style=cIsDamage>800% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
@@ -36,23 +36,23 @@ Mod original por Bog. Traduzido por: Jaosnake",
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_PATHFINDER_BODY_UTILITY_BOLAS_NAME": "Bolas de Choque",
-        "BOG_PATHFINDER_BODY_UTILITY_BOLAS_DESCRIPTION": "Arremesse boleadeiras eletricamente carregadas, que <style=cIsUtility>chocam</style> inimigos prÛximos e deixam um campo <style=cIsUtility>eletrocutante</style> por <style=cIsUtility>10 segundos</style>.
+        "BOG_PATHFINDER_BODY_UTILITY_BOLAS_DESCRIPTION": "Arremesse boleadeiras eletricamente carregadas, que <style=cIsUtility>chocam</style> inimigos pr√≥ximos e deixam um campo <style=cIsUtility>eletrocutante</style> por <style=cIsUtility>10 segundos</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_PATHFINDER_BODY_SPECIAL_COMMAND_NAME": "Emitir Comando",
         "BOG_PATHFINDER_BODY_SPECIAL_COMMAND2_NAME": "Emitir Comando - Sobrescrita de Utilidade",
-        "BOG_PATHFINDER_BODY_SPECIAL_COMMAND_DESCRIPTION": "Prepare um comando para Squall. VocÍ pode emitir um comando de <color=#FF0000>Ataque</color>, <color=#00FF00>Seguir</color> ou <color=#efeb1c>Especial</color> pressionando as teclas de habilidade Prim·ria, Secund·ria ou Especial, respectivamente.
+        "BOG_PATHFINDER_BODY_SPECIAL_COMMAND_DESCRIPTION": "Prepare um comando para Squall. Voc√™ pode emitir um comando de <color=#FF0000>Ataque</color>, <color=#00FF00>Seguir</color> ou <color=#efeb1c>Especial</color> pressionando as teclas de habilidade Prim√°ria, Secund√°ria ou Especial, respectivamente.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_PATHFINDER_BODY_SPECIAL_ATTACK_NAME": "Comando de Ataque",
-        "BOG_PATHFINDER_BODY_SPECIAL_ATTACK_DESCRIPTION": "Direcione a atenÁ„o de Squall para o inimigo alvo e ative o <color=#FF0000>Modo de Ataque</color>, concedendo acesso a metralhadoras que causam <style=cIsDamage>2x30% de dano</style> e um lanÁador de mÌsseis que causa <style=cIsDamage>150% de dano</style>.
+        "BOG_PATHFINDER_BODY_SPECIAL_ATTACK_DESCRIPTION": "Direcione a aten√ß√£o de Squall para o inimigo alvo e ative o <color=#FF0000>Modo de Ataque</color>, concedendo acesso a metralhadoras que causam <style=cIsDamage>2x30% de dano</style> e um lan√ßador de m√≠sseis que causa <style=cIsDamage>150% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_PATHFINDER_BODY_SPECIAL_FOLLOW_NAME": "Comando de Seguir",
-        "BOG_PATHFINDER_BODY_SPECIAL_FOLLOW_DESCRIPTION": "Traga Squall de volta para perto de vocÍ e ative o <color=#00FF00>Modo Seguir</color>, fazendo com que ele fique prÛximo a vocÍ.
+        "BOG_PATHFINDER_BODY_SPECIAL_FOLLOW_DESCRIPTION": "Traga Squall de volta para perto de voc√™ e ative o <color=#00FF00>Modo Seguir</color>, fazendo com que ele fique pr√≥ximo a voc√™.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
@@ -62,7 +62,7 @@ Mod original por Bog. Traduzido por: Jaosnake",
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_SQUALL_BODY_NAME": "Squall",
-        "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Padr„o",
+        "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Padr√£o",
         "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Maestria",
 
         "BOG_SQUALL_PRIMARY_GUNS_NAME": "Metralhadoras",
@@ -70,23 +70,23 @@ Mod original por Bog. Traduzido por: Jaosnake",
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
-        "BOG_SQUALL_SECONDARY_MISSILE_NAME": "LanÁador de MÌsseis",
-        "BOG_SQUALL_SECONDARY_MISSILE_DESCRIPTION": "Dispere uma saraivada de 4 mÌsseis para <style=cIsDamage>150% de dano</style> cada.
+        "BOG_SQUALL_SECONDARY_MISSILE_NAME": "Lan√ßador de M√≠sseis",
+        "BOG_SQUALL_SECONDARY_MISSILE_DESCRIPTION": "Dispere uma saraivada de 4 m√≠sseis para <style=cIsDamage>150% de dano</style> cada.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
-        "BOG_SQUALL_UTILITY_DONOTHING_NAME": "N„o Fazer Nada",
-        "BOG_SQUALL_UTILITY_DONOTHING_DESCRIPTION": "Esta habilidade n„o faz nada.
+        "BOG_SQUALL_UTILITY_DONOTHING_NAME": "N√£o Fazer Nada",
+        "BOG_SQUALL_UTILITY_DONOTHING_DESCRIPTION": "Esta habilidade n√£o faz nada.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
-        "BOG_SQUALL_SPECIAL_GOFORTHROAT_NAME": "V· para a Garganta!",
-        "BOG_SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordene Squall a atacar repetidamente o inimigo alvo para <style=cIsDamage>70% de dano</style>. Cada ataque reduz brevemente a <style=cIsDamage>armadura</style> e <style=cIsUtility>regenera 1%</style> de bateria, dobrado em Acertos CrÌticos. Esta habilidade pode brevemente <style=cIsUtility>sobrecarregar</style> a bateria.
+        "BOG_SQUALL_SPECIAL_GOFORTHROAT_NAME": "V√° para a Garganta!",
+        "BOG_SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordene Squall a atacar repetidamente o inimigo alvo para <style=cIsDamage>70% de dano</style>. Cada ataque reduz brevemente a <style=cIsDamage>armadura</style> e <style=cIsUtility>regenera 1%</style> de bateria, dobrado em Acertos Cr√≠ticos. Esta habilidade pode brevemente <style=cIsUtility>sobrecarregar</style> a bateria.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Maestria",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Pathfinder, venÁa o jogo ou oblitere na MonÁ„o.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Pathfinder, ven√ßa o jogo ou oblitere na Mon√ß√£o.",
         "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Maestria"
     }
 }
