@@ -23,13 +23,15 @@ Translation packs for several **Risk of Rain 2** mods, organized for GitHub, man
 
 ## 🌐 Download By Language
 
-Each section below tells you which language code to look for. You still install the same way: download this repository, copy the folder for the mod you want, and keep the folder structure intact.
+Cada seção abaixo está escrita no próprio idioma. Abra o idioma que você quer, baixe este repositório e copie a pasta do mod desejado mantendo a estrutura original.
+
+Each section below is written in its own language. Open the language you want, download this repository, and copy the mod folder you need while keeping the original folder structure intact.
 
 ### 🇧🇷 Português Brasil
 
-Use language code `pt-BR`.
+Use o código de idioma `pt-BR`.
 
-For **Starstorm 2** and **Sandswept**, the PT-BR translation was reviewed line by line and manually edited by Jaosnake. Original credits from the source mods/translations are still preserved.
+Para **Starstorm 2** e **Sandswept**, a tradução PT-BR foi revisada linha por linha e editada manualmente por Jaosnake. Os créditos originais dos mods/traduções de origem continuam preservados.
 
 1. Baixe o repositório em **Code -> Download ZIP**.
 2. Extraia o ZIP.
@@ -63,23 +65,23 @@ mods/<mod>/.../en/
 
 ### 🇺🇦 Українська
 
-Use language code `UA` for folder-based packs and `ua` inside Sandswept's `.language` file.
+Використовуйте код мови `UA` для пакетів із папками та `ua` всередині `.language` файла Sandswept.
 
-Risk of Rain 2 does **not** officially support Ukrainian in the vanilla language selector. This repository still includes Ukrainian translations because **R2API.Language can load the translation tokens** from the files.
+Risk of Rain 2 **офіційно не підтримує українську мову** у стандартному меню вибору мови. Але цей репозиторій все одно містить український переклад, тому що **R2API.Language може завантажувати токени перекладу** з цих файлів.
 
-What that means in practice:
+На практиці це означає:
 
-- You can download and install the Ukrainian translation files from this repo.
-- R2API.Language can read/load those files.
-- The vanilla game menu may not show Ukrainian by itself.
-- To actually select Ukrainian in-game, you may need a separate language menu/locale enabler mod.
+- Ви можете завантажити й встановити українські файли перекладу з цього репозиторію.
+- R2API.Language може читати/завантажувати ці файли.
+- Стандартне меню гри може не показувати українську мову саме по собі.
+- Щоб вибрати українську в грі, може знадобитися окремий мод меню мов або locale enabler.
 
 1. Завантажте репозиторій через **Code -> Download ZIP**.
 2. Розпакуйте ZIP.
 3. Скопіюйте потрібну папку пакета/моду до `BepInEx/plugins/`.
 4. Щоб вибрати українську в грі, може знадобитися додатковий мод для меню мов.
 
-Common files/folders:
+Типові файли/папки:
 
 ```text
 Starstorm2/Language/UA/
@@ -87,18 +89,18 @@ Sandswept/Translations/Ua-Sandswept.language
 mods/<mod>/.../UA/
 ```
 
-More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
+Докладніше: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
 ### 🇫🇷 Français
 
-Use language code `FR` for folder-based packs. Sandswept uses key `fr`.
+Utilisez le code de langue `FR` pour les packs organisés par dossier. Sandswept utilise la clé `fr`.
 
 1. Téléchargez le dépôt avec **Code -> Download ZIP**.
 2. Extrayez le ZIP.
 3. Copiez le dossier du package/mod voulu dans `BepInEx/plugins/`.
 4. Sélectionnez **Français** dans le jeu.
 
-Common files/folders:
+Fichiers/dossiers courants :
 
 ```text
 Starstorm2/Language/FR/
@@ -108,14 +110,14 @@ mods/<mod>/.../FR/
 
 ### 🇷🇺 Русский
 
-Use language code `RU`.
+Используйте код языка `RU`.
 
 1. Скачайте репозиторий через **Code -> Download ZIP**.
 2. Распакуйте ZIP.
 3. Скопируйте нужную папку пакета/мода в `BepInEx/plugins/`.
 4. Выберите русский язык в игре.
 
-Common files/folders:
+Обычные файлы/папки:
 
 ```text
 Starstorm2/Language/RU/
@@ -125,14 +127,14 @@ mods/<mod>/.../RU/
 
 ### 🇪🇸 Español
 
-Use `es-419` for Latin American Spanish where available. Sandswept currently uses `es-ES`.
+Usa `es-419` para español latinoamericano cuando esté disponible. Sandswept actualmente usa `es-ES`.
 
 1. Descarga el repositorio con **Code -> Download ZIP**.
 2. Extrae el ZIP.
 3. Copia la carpeta del paquete/mod que quieras a `BepInEx/plugins/`.
 4. Selecciona el idioma español disponible en el juego.
 
-Common files/folders:
+Archivos/carpetas comunes:
 
 ```text
 Starstorm2/Language/es-419/
@@ -143,14 +145,14 @@ mods/<mod>/.../es-ES/
 
 ### 🇩🇪 Deutsch
 
-Use language code `de`.
+Verwende den Sprachcode `de`.
 
 1. Lade das Repository über **Code -> Download ZIP** herunter.
 2. Entpacke die ZIP-Datei.
 3. Kopiere den gewünschten Paket-/Mod-Ordner nach `BepInEx/plugins/`.
 4. Wähle Deutsch im Spiel aus.
 
-Common files/folders:
+Häufige Dateien/Ordner:
 
 ```text
 Sandswept/Translations/De-Sandswept.language
@@ -159,14 +161,14 @@ mods/<mod>/.../de/
 
 ### 🇮🇹 Italiano
 
-Use language code `IT` for folder-based packs. Sandswept uses key `it`.
+Usa il codice lingua `IT` per i pacchetti organizzati in cartelle. Sandswept usa la chiave `it`.
 
 1. Scarica il repository con **Code -> Download ZIP**.
 2. Estrai lo ZIP.
 3. Copia la cartella del pacchetto/mod desiderato in `BepInEx/plugins/`.
 4. Seleziona Italiano nel gioco.
 
-Common files/folders:
+File/cartelle comuni:
 
 ```text
 Sandswept/Translations/It-Sandswept.language
@@ -175,14 +177,14 @@ mods/<mod>/.../IT/
 
 ### 🇵🇱 Polski
 
-Use language code `pl`.
+Użyj kodu języka `pl`.
 
 1. Pobierz repozytorium przez **Code -> Download ZIP**.
 2. Wypakuj ZIP.
 3. Skopiuj wybrany folder pakietu/moda do `BepInEx/plugins/`.
-4. Polish may need a language menu/locale enabler depending on your setup.
+4. Polski może wymagać dodatkowego moda menu języka albo locale enabler, zależnie od konfiguracji.
 
-Common file:
+Typowy plik:
 
 ```text
 Sandswept/Translations/Pl-Sandswept.language
@@ -190,14 +192,14 @@ Sandswept/Translations/Pl-Sandswept.language
 
 ### 🇰🇷 한국어
 
-Use language code `ko`.
+언어 코드는 `ko`를 사용합니다.
 
 1. **Code -> Download ZIP**으로 저장소를 다운로드합니다.
 2. ZIP을 압축 해제합니다.
 3. 원하는 패키지/모드 폴더를 `BepInEx/plugins/`에 복사합니다.
 4. 게임에서 한국어를 선택합니다.
 
-Common files/folders:
+일반적인 파일/폴더:
 
 ```text
 Starstorm2/Language/ko/
@@ -207,14 +209,14 @@ mods/<mod>/.../ko/
 
 ### 🇯🇵 日本語
 
-Use language code `ja`.
+言語コードは `ja` を使用します。
 
 1. **Code -> Download ZIP** でリポジトリをダウンロードします。
 2. ZIPを展開します。
 3. 必要なパッケージ/Modフォルダを `BepInEx/plugins/` にコピーします。
 4. ゲーム内で日本語を選択します。
 
-Common files/folders:
+一般的なファイル/フォルダ:
 
 ```text
 Sandswept/Translations/Ja-Sandswept.language
@@ -223,14 +225,14 @@ mods/<mod>/.../ja/
 
 ### 🇨🇳 中文简体
 
-Use language code `zh-CN`.
+使用语言代码 `zh-CN`。
 
 1. 使用 **Code -> Download ZIP** 下载仓库。
 2. 解压 ZIP。
 3. 将需要的包/模组文件夹复制到 `BepInEx/plugins/`。
 4. 在游戏中选择简体中文。
 
-Common files/folders:
+常见文件/文件夹：
 
 ```text
 Starstorm2/Language/zh-CN/
@@ -240,14 +242,14 @@ mods/<mod>/.../zh-CN/
 
 ### 🇹🇼 中文繁體
 
-Use language code `zh-TW`.
+使用語言代碼 `zh-TW`。
 
 1. 使用 **Code -> Download ZIP** 下載倉庫。
 2. 解壓 ZIP。
 3. 將需要的套件/模組資料夾複製到 `BepInEx/plugins/`。
 4. 在遊戲中選擇繁體中文。
 
-Common file:
+常見檔案：
 
 ```text
 Sandswept/Translations/Zh-TW-Sandswept.language
@@ -255,14 +257,14 @@ Sandswept/Translations/Zh-TW-Sandswept.language
 
 ### 🇹🇷 Türkçe
 
-Use language code `tr`.
+Dil kodu olarak `tr` kullanın.
 
 1. Depoyu **Code -> Download ZIP** ile indirin.
 2. ZIP dosyasını çıkarın.
 3. İstediğiniz paket/mod klasörünü `BepInEx/plugins/` içine kopyalayın.
 4. Oyunda Türkçe dilini seçin.
 
-Common files/folders:
+Yaygın dosyalar/klasörler:
 
 ```text
 Starstorm2/Language/tr/
