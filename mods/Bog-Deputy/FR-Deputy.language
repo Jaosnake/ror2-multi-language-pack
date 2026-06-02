@@ -19,8 +19,8 @@
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Lourd</style>. <style=cIsUtility>Foncez</style> et rebondissez sur un ennemi, infligeant <style=cIsDamage>800% de dégâts</style>. <style=cIsUtility>Les éliminations réinitialisent le temps de recharge de votre compétence utilitaire</style>.",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Paradis de Balles",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Sautez haut dans les airs et tirez furieusement des balles vers le bas, chacune infligeant <style=cIsDamage>150% de dégâts</style>. Le nombre de tirs s'adapte à la vitesse d'attaque.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "La Députée : Maîtrise",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "En tant que La Députée, battez le jeu ou oblitéréz-vous en Mousson.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "La Députée : Maîtrise"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
     }
 }

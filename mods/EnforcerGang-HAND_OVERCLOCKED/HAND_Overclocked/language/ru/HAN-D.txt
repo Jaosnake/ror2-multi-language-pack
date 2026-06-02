@@ -40,22 +40,22 @@
 	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "ДРОН — СКОРОСТЬ",
 	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "Выпускает дрон, который наносит <style=cIsDamage>270% урона</style> и <style=cIsDamage>временно увеличивает скорость атаки</style>. Убийства и урон в ближнем бою <style=cIsUtility>уменьшают время перезарядки</style>.",
 	
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Мастер на все руки",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Отремонтируйте робота-уборщика на Меcте сбора «Дельта» с помощью топливного элемента спасательной капсулы.",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Handyman",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
 	
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "ХЭН-Д: бойня",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Поддерживайте РАЗГОН активным в течение 45 секунд.",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Beatdown",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Keep OVERCLOCK active for over 45 seconds.",
 	
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "ХЭН-Д: шлёп!",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Размажьте финального босса.",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Flatten the final boss.",
 	
 	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "ДРЕВ-О",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "ХЭН-Д: мастерство",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "Играя за ХЭН-Да, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей».",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Mastery",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "As HAN-D, beat the game or obliterate on Monsoon.",
 	
 	"MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME" : "ВОЗВР-ЩНИЕ",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "ХЭН-Д: высшее мастерство",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "Играя за ХЭН-Да, пройдите игру или уничтожьтесь на уровне сложности «Тайфун».\n<color=#8888>(Уровень сложности «Тайфун» доступен с модом Starstorm 2)</color>",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Grand Mastery",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "As HAN-D, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
 	
 	"MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME" : "HO-POO",
 	}

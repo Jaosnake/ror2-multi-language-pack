@@ -21,7 +21,7 @@
     "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "CRIADA M88",
     "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Envia sua unidade <style=cIsUtility>CRIADA</style>, atravessando inimigos e causando <style=cIsDamage>300% de dano</style> antes de parar brevemente e retornar a você. Ative novamente para avançar em direção à <style=cIsUtility>CRIADA</style> e explodir, causando <style=cIsDamage>500% de dano</style>, aplicando <style=cIsUtility>Leveza</style>.",
     "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Clássico",
-    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Zelador: Domínio",
-    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Como Zelador, vença o jogo ou aniquile em Monção.",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Custodian: Mastery",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "As Custodian, beat the game or obliterate on Monsoon.",
     }
 }

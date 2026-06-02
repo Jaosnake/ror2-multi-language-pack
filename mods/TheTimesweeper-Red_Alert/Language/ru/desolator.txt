@@ -41,8 +41,8 @@
     "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME" : "Опустошитель: Высшее Мастерство",
     "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC" : "За Опустошителя, пройдите игру на Тифоне или Затмении.\n<color=#8888>(Считается любая сложность выше Тифона)</color>",
     "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME" : "Опустошитель: Высшее Мастерство",
-    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Иррадиаторы",
-    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Найдите и активируйте 3 иррадиатора на 3 этапе.",
+    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Irradiators",
+    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Find and activate the 3 irradiators in stage 3.",
     "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME" : "Иррадиаторы",
     }
 }

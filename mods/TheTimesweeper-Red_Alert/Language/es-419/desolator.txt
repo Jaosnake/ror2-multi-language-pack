@@ -41,8 +41,8 @@
     "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME" : "Desolador: Gran Maestría",
     "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Desolador, supera el juego o destruyete en Tifón o Eclipse.\n<color=#8888>(Cuenta cualquier dificultad Tifón o superior)</color>",
     "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME" : "Desolador: Gran Maestría",
-    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Irradiadores",
-    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Encuentra y activa los 3 irradiadores de la fase 3.",
+    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Irradiators",
+    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Find and activate the 3 irradiators in stage 3.",
     "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME" : "Irradiadores",
     }
 }

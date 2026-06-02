@@ -25,7 +25,7 @@
     "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "Lancez une grenade qui crée un trou noir instable. Après <style=cIsUtility>2</style> secondes, le trou noir s'effondre, infligeant <style=cIsDamage>700% de dégâts</style>.",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Lancez 3 grenades qui créent des trous noirs instables.</style>. Après <style=cIsUtility>5</style> secondes, les trous noirs s'effondrent, infligeant <style=cIsDamage>700% de dégâts</style>.",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "Je Suis Mary Poppins, Bordel !",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Terminez un niveau sans toucher le sol plus d'une fois.",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "I'm Mary Poppins Bitch!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete a stage without touching the ground more than once.",
     }
 }

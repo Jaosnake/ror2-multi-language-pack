@@ -26,6 +26,6 @@
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Arremesse 3 granadas que criam buracos negros instáveis. Após <style=cIsUtility>5</style> segundos, os buracos negros colapsam causando <style=cIsDamage>700% de dano</style>.\n\nMod original por tsuyoikenko. Traduzido por: Jaosnake",
     "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "I'm Mary Poppins Bitch!",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete uma fase sem tocar o chão mais de uma vez."
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete a stage without touching the ground more than once."
     }
 }

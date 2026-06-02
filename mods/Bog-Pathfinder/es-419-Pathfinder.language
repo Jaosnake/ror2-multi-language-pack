@@ -39,8 +39,8 @@
         "BOG_SQUALL_UTILITY_DONOTHING_DESCRIPTION": "Esta habilidad no hace nada.",
         "BOG_SQUALL_SPECIAL_GOFORTHROAT_NAME": "¡Ve a la Garganta!",
         "BOG_SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordena a Squall atacar repetidamente al enemigo objetivo para <style=cIsDamage>70% de daño</style>. Cada ataque reduce brevemente la <style=cIsDamage>armadura</style> y <style=cIsUtility>regenera 1%</style> de batería, duplicado en Golpes Críticos. Esta habilidad puede <style=cIsUtility>sobrecargar</style> brevemente la batería.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Maestría",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Pathfinder, vence el juego u oblitérate en Monzón.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Maestría"
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
     }
 }

@@ -1,0 +1,17 @@
+NDP_DANCER_BODY_PASSIVE_NAME: Сдерживающая лента
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Враги с лентой истекают кровью на 50% урона в секунду и не могут действовать. <i>Translated by: Jaosnake. Original mod by nayDPz</i>
+PRIMARY_SLASH_NAME: Удар
+PRIMARY_SLASH_DESCRIPTION: Атака ближнего боя с эффектами, зависящими от вашего прицела. (Наведите для подробностей)
+PRIMARY_SLASH2_NAME: Разрез
+PRIMARY_SLASH2_DESCRIPTION: Атака ближнего боя с эффектами, зависящими от вашего прицела. (Наведите для подробностей)
+UTILITY_PULL_NAME: Притяжение
+UTILITY_PULL_DESCRIPTION: Притяните врагов к себе.
+SPECIAL_RIBBON_LOCK_NAME: Связывающая лента
+SPECIAL_RIBBON_LOCK_DESCRIPTION: Наложите ленту на врага, не давая ему действовать и вызывая кровотечение.
+KEYWORD_DANCER_JAB: <style=cKeywordName>Тычок</style><style=cSub>На земле, цельтесь вперед. Рывок вперед и <style=cIsDamage>180% урона</style>.
+KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>На земле, цельтесь вниз. Подбросьте врагов вверх, нанося <style=cIsDamage>200% урона</style>.
+KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>В воздухе, цельтесь вперед. Тяжелый удар, наносящий <style=cIsDamage>180% урона</style>, пригвождающий врагов к земле, оглушая и нанося до <style=cIsDamage>300% урона</style>.
+KEYWORD_DANCER_RIBBON: <style=cKeywordName>Лента</style><style=cSub>Враги с лентой истекают кровью на <style=cIsDamage>50% урона в секунду</style> и не могут действовать.
+NDP_DANCER_BODY_SUBTITLE: Смертельный танец
+NDP_DANCER_BODY_DEFAULT_SKIN_NAME: Обычный
+NDP_DANCER_GOLD_SKIN_NAME: Золотой

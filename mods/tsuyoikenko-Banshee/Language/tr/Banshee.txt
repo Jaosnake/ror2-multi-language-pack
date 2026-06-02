@@ -25,7 +25,7 @@
     "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "Dengesiz bir kara delik oluşturan bir bomba at. <style=cIsUtility>2</style> saniye sonra kara delik çökerek <style=cIsDamage>%700 hasar</style> verir.",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Dengesiz kara delikler oluşturan 3 bomba at.</style>. <style=cIsUtility>5</style> saniye sonra kara delikler çökerek <style=cIsDamage>%700 hasar</style> verir.",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "Ben Mary Poppins'im, Lanet Olsun!",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Yere birden fazla kez değmeden bir bölümü tamamla.",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "I'm Mary Poppins Bitch!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete a stage without touching the ground more than once.",
     }
 }

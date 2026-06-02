@@ -37,18 +37,18 @@
 	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "Ракетный шторм",
 	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Быстро <style=cIsDamage>выстреливает ракетами (10)</style>, затем <style=cIsUtility>перезаряжает оружие</style>.",
 	
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Ракетомётчик: скорость - это жизнь",
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "Играя за Ракетомётчика, достигните и пройдите через Божественный портал за 25 минут или меньше.",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Rocket: Speed is Life",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
 	
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Ракетомётчик: пого",
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "Играя за Ракетомётчика, прыгните с помощью взрыва 10 раз подряд, не касаясь земли.",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Rocket: Pogo",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "As Rocket, blast jump 10 times in a row without touching the ground.",
 
 	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "Бомбардир",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Ракетомётчик: мастерство",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "Играя за Ракетомётчика, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей».",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Rocket: Mastery",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Monsoon.",
 	
 	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "Рейнджер",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Ракетомётчик: великое мастерство",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "Играя за Ракетомётчика, пройдите игру или уничтожьтесь на уровне сложности «Тайфун».\n<color=#8888>(Уровень сложности «Тайфун» доступен с модом Starstorm 2)</color>",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Rocket: Grand Mastery",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
 	}
 }

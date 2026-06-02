@@ -19,8 +19,8 @@
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Тяжёлый</style>. <style=cIsUtility>Рывок</style> и рикошет от врага, нанося <style=cIsDamage>800% урона</style>. <style=cIsUtility>Убийства сбрасывают перезарядку вашего утилитарного навыка</style>.",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Пулевой Рай",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Подпрыгните высоко в воздух и яростно стреляйте пулями вниз, каждая нанося <style=cIsDamage>150% урона</style>. Количество выстрелов масштабируется со скоростью атаки.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Делегатка: Мастерство",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Будучи Делегаткой, пройдите игру или уничтожьтесь на уровне «Муссон».",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Делегатка: Мастерство"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
     }
 }

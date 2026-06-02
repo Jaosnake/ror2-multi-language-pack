@@ -19,8 +19,8 @@
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>沉重</style>。<style=cIsUtility>猛冲</style>并从敌人身上弹开，造成<style=cIsDamage>800%伤害</style>。<style=cIsUtility>击杀重置你的辅助技能冷却时间</style>。",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "弹幕天堂",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "高高跃入空中，疯狂向下倾泻子弹，每发造成<style=cIsDamage>150%伤害</style>。射击次数随攻击速度提升。",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "副警长：精通",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "使用副警长，在季风难度下通关或在方尖碑处湮灭。",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "副警长：精通"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
     }
 }

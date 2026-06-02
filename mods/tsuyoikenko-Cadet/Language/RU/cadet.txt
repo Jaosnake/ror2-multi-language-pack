@@ -1,0 +1,19 @@
+KENKO_CADET_NAME: Кадет
+KENKO_CADET_SUBTITLE: Универсальный Стрелок
+KENKO_CADET_MASTERY_SKIN_NAME: Кадет: Специалист
+PRIMARY_SMG_NAME: Пистолет-Пулемёт
+PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Проворный</style>. Стреляйте очередями из ПП для <style=cIsDamage>60% урона</style> за выстрел.
+PRIMARY_SHOTGUN_NAME: Дробовик
+PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Проворный</style>. Стреляйте из дробовика для <style=cIsDamage>100% урона</style>.
+SECONDARY_GRENADE_NAME: Граната
+SECONDARY_GRENADE_DESCRIPTION: Бросьте гранату, наносящую <style=cIsDamage>400% урона</style>.
+SECONDARY_THROWGUN_NAME: Бросок Оружия
+SECONDARY_THROWGUN_DESCRIPTION: Бросьте текущее оружие для <style=cIsDamage>600% урона</style>.
+UTILITY_SLIDE_NAME: Скольжение
+UTILITY_SLIDE_DESCRIPTION: Скользните в направлении, <style=cIsUtility>мгновенно перезаряжая</style> оружие.
+UTILITY_ROLLOAD_NAME: Тактический Перекат
+UTILITY_ROLLOAD_DESCRIPTION: Перекатитесь в направлении, перезаряжая оружие.
+SPECIAL_ECHO_NAME: Эхо
+SPECIAL_ECHO_DESCRIPTION: Выстрелите звуковыми дронами, рикошетящими между врагами, нанося <style=cIsDamage>350% урона</style> и замедляя.
+SPECIAL_ULTRA_NAME: Ультра
+SPECIAL_ULTRA_DESCRIPTION: Выстрелите мощным энергетическим залпом, наносящим <style=cIsDamage>600% урона</style>.

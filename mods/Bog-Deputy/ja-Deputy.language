@@ -19,8 +19,8 @@
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>ヘビー</style>。<style=cIsUtility>ランジ</style>して敵で跳ね返り、<style=cIsDamage>800%のダメージ</style>を与える。<style=cIsUtility>キルでユーティリティスキルのクールダウンがリセットされる</style>。",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "バレットヘブン",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "高く跳躍し、下方に向けて弾丸を乱射する。1発あたり<style=cIsDamage>150%のダメージ</style>。発射数は攻撃速度に応じて増加する。",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "ザ・デピュティ：マスタリー",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "ザ・デピュティとして、ゲームをクリアするかモンスーンで消滅する。",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "ザ・デピュティ：マスタリー"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
     }
 }

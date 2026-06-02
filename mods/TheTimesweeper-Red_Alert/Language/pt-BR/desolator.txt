@@ -24,11 +24,11 @@
     "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_NAME_FUN" : "Varetas Luminosas Instáveis",
     "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>até 2</style> Varetas Luminosas, que cobrem uma grande área de radiação por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.\n<color=#d299ff>CETRO: Explode ao expirar, causando <style=cIsDamage>1.600% de dano</style>.</color>",
     "KEYWORD_RADIATION_SPECIAL" : "<style=cKeywordName>Irradiante</style><style=cSub>Cada tique inflige <style=cIsDamage>78% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolador: Domínio",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Desolador, vença o jogo ou aniquile em Monção.",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolador: Grande Domínio",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Desolador, vença o jogo ou aniquile em Tufão ou Eclipse.\n<color=#8888>(Ou qualquer dificuldade acima de Tufão)</color>",
-    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Irradiadores",
-    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Encontre e ative os 3 irradiadores na terceira fase..",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolator: Mastery",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "As Desolator, beat the game or obliterate on Monsoon.",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolator: Grand Mastery",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "As Desolator, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Irradiators",
+    "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Find and activate the 3 irradiators in stage 3.",
     }
 }

@@ -21,7 +21,7 @@
     "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88女仆机器人",
     "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "部署你的<style=cIsUtility>女仆机器人</style>快速穿过敌人，造成<style=cIsDamage>300%伤害</style>，随后短暂停止并返回你身边。再次激活技能以将自身卷向<style=cIsUtility>女仆机器人</style>并使其爆炸，造成<style=cIsDamage>500%伤害</style>，并造成<style=cIsUtility>失重</style>。",
     "CLOUDBURST_WYATT_CLASSIC_SKIN" : "经典",
-    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "看门人：精通",
-    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "作为看门人，在季风难度下通关游戏或抹除自己。",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Custodian: Mastery",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "As Custodian, beat the game or obliterate on Monsoon.",
     }
 }

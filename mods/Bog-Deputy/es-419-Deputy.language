@@ -19,8 +19,8 @@
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Pesado</style>. <style=cIsUtility>Avanza</style> y rebota en un enemigo, causando <style=cIsDamage>800% de daño</style>. <style=cIsUtility>Las muertes reinician el enfriamiento de tu habilidad de utilidad</style>.",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Paraíso de Balas",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salta alto en el aire y dispara balas furiosamente hacia abajo, cada una causando <style=cIsDamage>150% de daño</style>. El número de disparos escala con la velocidad de ataque.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "La Delegada: Maestría",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como La Delegada, vence el juego u oblitérate en Monzón.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "La Delegada: Maestría"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
     }
 }
