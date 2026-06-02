@@ -1,5 +1,5 @@
 NDP_DANCER_BODY_PASSIVE_NAME: 拘束テープ
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: テープが付いた敵は毎秒50%のダメージで出血し、行動不能になる。 <i>Translated by: Jaosnake</i>
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: テープが付いた敵は毎秒50%のダメージで出血し、行動不能になる。 <i>Translated by: Jaosnake. Original mod by nayDPz</i>
 PRIMARY_SLASH_NAME: 斬撃
 PRIMARY_SLASH_DESCRIPTION: 照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)
 PRIMARY_SLASH2_NAME: 切り裂き

@@ -1,18 +1,18 @@
 BASTIAN_NAME: Бастиан
 BASTIAN_SUBTITLE: Восстановленный Робот-Переводчик
-BASTIAN_DESCRIPTION: Местный робот, созданный для помощи в переговорах с иностранными планетарными телами. Его первоначальной целью было функционировать как посредник, спроектированный для выживания на планетах с воздухом и температурами, которые обычный человек не выдержал бы. Он был взят на борт UES Contact Light в рамках плана на случай чрезвычайной ситуации. Однако в итоге он был перепрограммирован для боя, несмотря на то, что это была простая миссия по доставке. <i>Translated by: Jaosnake</i>
+BASTIAN_DESCRIPTION: Местный робот, созданный для помощи в переговорах с иностранными планетарными телами. Его первоначальной целью было функционировать как посредник, спроектированный для выживания на планетах с воздухом и температурами, которые обычный человек не выдержал бы. Он был взят на борт UES Contact Light в рамках плана на случай чрезвычайной ситуации. Однако в итоге он был перепрограммирован для боя, несмотря на то, что это была простая миссия по доставке. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
 BASTIAN_NAME_EPIC: Бастиан Переводчик, Модель 4.I.N.K.
-BASTIAN_ROO_DESCRIPTION: Бастиан Переводчик, Модель 4.I.N.K. <i>Translated by: Jaosnake</i>
+BASTIAN_ROO_DESCRIPTION: Бастиан Переводчик, Модель 4.I.N.K. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
 BASTIAN_OUTRO: ..и так он ушёл, его функция наконец выполнена.
 BASTIAN_FAIL: ..и так он был деактивирован, его память стёрта навсегда.
 BASTIAN_M1: Ионный Взмах
-BASTIAN_M1_DESCRIPTION: <style=cIsDamage>Ближний бой</style>. <style=cIsUtility>Проворный</style>. Ударьте врагов спереди на <style=cIsDamage>250% урона</style>. Накапливает <style=cIsUtility>Ионные Заряды</style>. Урон уменьшается вдвое в режиме Уклонения. <i>Translated by: Jaosnake</i>
+BASTIAN_M1_DESCRIPTION: <style=cIsDamage>Ближний бой</style>. <style=cIsUtility>Проворный</style>. Ударьте врагов спереди на <style=cIsDamage>250% урона</style>. Накапливает <style=cIsUtility>Ионные Заряды</style>. Урон уменьшается вдвое в режиме Уклонения. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
 BASTIAN_M2: Микро-Пуля
-BASTIAN_M2_DESCRIPTION: <style=cIsUtility>Проворный</style>. Выпустите до 5 энергетических пуль, каждая наносит <style=cIsDamage>250% урона</style>. Накапливает <style=cIsUtility>Ионные Заряды</style>. Не оглушает в режиме Уклонения. <i>Translated by: Jaosnake</i>
+BASTIAN_M2_DESCRIPTION: <style=cIsUtility>Проворный</style>. Выпустите до 5 энергетических пуль, каждая наносит <style=cIsDamage>250% урона</style>. Накапливает <style=cIsUtility>Ионные Заряды</style>. Не оглушает в режиме Уклонения. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
 BASTIAN_UTIL: Нано-Пружина
-BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>Выполните</style> быстрый рывок в любом направлении. Накапливает <style=cIsUtility>Ионные Заряды</style>. <i>Translated by: Jaosnake</i>
+BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>Выполните</style> быстрый рывок в любом направлении. Накапливает <style=cIsUtility>Ионные Заряды</style>. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
 BASTIAN_SPEC: Взрыв Архитектора
-BASTIAN_SPEC_DESCRIPTION: Потратьте <style=cIsHealth>33% текущего здоровья</style> и <style=cIsUtility>все Ионные Заряды</style> для массивного взрыва на <style=cIsDamage>500%-3.000% урона</style>. После использования вы становитесь <color=#E9AFEA>Уклоняющимся</color> на 10 секунд. <i>Translated by: Jaosnake</i>
+BASTIAN_SPEC_DESCRIPTION: Потратьте <style=cIsHealth>33% текущего здоровья</style> и <style=cIsUtility>все Ионные Заряды</style> для массивного взрыва на <style=cIsDamage>500%-3.000% урона</style>. После использования вы становитесь <color=#E9AFEA>Уклоняющимся</color> на 10 секунд. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
 BASTIAN_SPEC_KEYWORD: Особое
 BASTIANBODY_DEFAULT_SKIN_NAME: Обычный
 BASTIANBODY_MASTERY_SKIN_NAME: Мастерство

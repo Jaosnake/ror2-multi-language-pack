@@ -1,23 +1,23 @@
 {
     "en": {
         "KENKO_INTERROGATOR_NAME": "Interrogator",
-        "KENKO_INTERROGATOR_DESCRIPTION": "The Interrogator revels in the pain of others. Don't have too much fun hurting your allies... or do.\n\n< ! > Get hit by enemies, allies, and even yourself to gain bonus stats. Nobody is safe.\n\n< ! > If you have items that trigger on being hit, use Affray to cause Hemorrhage on yourself. No pain, no gain.\n\n< ! > Falsify is a great way to force enemies to be marked as Guilty. Antithetical? What do you mean?\n\n< ! > Convict a Guilty target to ensure they are punished for their actions. Guilty until proven innocent, after all. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KENKO_INTERROGATOR_DESCRIPTION": "The Interrogator revels in the pain of others. Don't have too much fun hurting your allies... or do.\n\n< ! > Get hit by enemies, allies, and even yourself to gain bonus stats. Nobody is safe.\n\n< ! > If you have items that trigger on being hit, use Affray to cause Hemorrhage on yourself. No pain, no gain.\n\n< ! > Falsify is a great way to force enemies to be marked as Guilty. Antithetical? What do you mean?\n\n< ! > Convict a Guilty target to ensure they are punished for their actions. Guilty until proven innocent, after all. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
         "KENKO_INTERROGATOR_SUBTITLE": "Torment Specialist",
         "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..and so he departed, eager to apply more \"justice\".",
         "KENKO_INTERROGATOR_OUTRO_FAILURE": "..and so he vanished, punished for his crimes.",
         "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Default",
         "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogator: Specialist",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "Torment",
-        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "The Interrogator can hit and be hit by allies and enemies. Attackers who hit the Interrogator are permanently marked as Guilty. Deal 5% more damage per Guilty enemy. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "The Interrogator can hit and be hit by allies and enemies. Attackers who hit the Interrogator are permanently marked as Guilty. Deal 5% more damage per Guilty enemy. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
         "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Brutal Strike",
-        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Swing your baton in front, causing <style=cIsDamage>320% damage</style>. Missing the attack causes you to suffer <style=cIsDamage>damage</style> instead. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Swing your baton in front, causing <style=cIsDamage>320% damage</style>. Missing the attack causes you to suffer <style=cIsDamage>damage</style> instead. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Affray",
-        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Throw a cleaver that deals <style=cIsDamage>450% damage</style>. <style=cIsDamage>Assassin.</style> If the cleaver kills the target, applies Hemorrhage and Pressure on all in the area. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Throw a cleaver that deals <style=cIsDamage>450% damage</style>. <style=cIsDamage>Assassin.</style> If the cleaver kills the target, applies Hemorrhage and Pressure on all in the area. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsify",
-        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Dash forward dealing <style=cIsDamage>390% damage</style> and applying Guilty on hit targets. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Dash forward dealing <style=cIsDamage>390% damage</style> and applying Guilty on hit targets. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Convict",
-        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duel a Guilty enemy for 10 seconds. Your primary no longer hits you and grants a stack of Guilty on hit. During the duel, external damage to you is negated, but damage to other enemies besides the target is also negated. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duel a Guilty enemy for 10 seconds. Your primary no longer hits you and grants a stack of Guilty on hit. During the duel, external damage to you is negated, but damage to other enemies besides the target is also negated. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
         "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punish",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duel a Guilty enemy for 10 seconds. Your primary no longer hits you and grants a stack of Guilty on hit. During the duel, external damage to you is negated, but damage to other enemies is reduced by 75%. <i>Backported from pt-BR. Translated by: Jaosnake</i>"
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duel a Guilty enemy for 10 seconds. Your primary no longer hits you and grants a stack of Guilty on hit. During the duel, external damage to you is negated, but damage to other enemies is reduced by 75%. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>"
     }
 }

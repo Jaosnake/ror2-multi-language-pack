@@ -1,39 +1,39 @@
 ROB_DRIVER_BODY_NAME: Driver
-ROB_DRIVER_BODY_SUBTITLE: アーセナルドライバー <i>Translated by: Jaosnake</i>
+ROB_DRIVER_BODY_SUBTITLE: アーセナルドライバー <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 PRIMARY_PISTOL_NAME: ピストル
-PRIMARY_PISTOL_DESCRIPTION: 欠陥のある試作品で、数発しか撃てない。 <i>Translated by: Jaosnake</i>
+PRIMARY_PISTOL_DESCRIPTION: 欠陥のある試作品で、数発しか撃てない。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 PRIMARY_MACHINEGUN_NAME: マシンガン
-PRIMARY_MACHINEGUN_DESCRIPTION: 素早く発射し、1発あたり120%のダメージ。 <i>Translated by: Jaosnake</i>
-PRIMARY_RIOT_SHOTGUN_DESCRIPTION: ショットガンを発射し、8x140%のダメージを与える。 <i>Translated by: Jaosnake</i>
-PRIMARY_BADASS_SHOTGUN_DESCRIPTION: 壊滅的なショットガンを発射し、24x140%のダメージ。 <i>Translated by: Jaosnake</i>
-PRIMARY_BAZOOKA_DESCRIPTION: 爆発するロケットを発射し、600%-1,200%のダメージ。 <i>Translated by: Jaosnake</i>
-PRIMARY_ARMCANNON_DESCRIPTION: キャノン弾を発射し、1,000%のダメージ。 <i>Translated by: Jaosnake</i>
-PRIMARY_PLASMACANNON_DESCRIPTION: プラズマ弾を発射し、1,200%のダメージ。 <i>Translated by: Jaosnake</i>
-PRIMARY_GOLEMGUN_DESCRIPTION: ヘビーショットを発射し、800%のダメージ。 <i>Translated by: Jaosnake</i>
-PRIMARY_NEMMANDO_SWORD_DESCRIPTION: 前方の敵を剣で斬り、160%のダメージ。 <i>Translated by: Jaosnake</i>
+PRIMARY_MACHINEGUN_DESCRIPTION: 素早く発射し、1発あたり120%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_RIOT_SHOTGUN_DESCRIPTION: ショットガンを発射し、8x140%のダメージを与える。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BADASS_SHOTGUN_DESCRIPTION: 壊滅的なショットガンを発射し、24x140%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BAZOOKA_DESCRIPTION: 爆発するロケットを発射し、600%-1,200%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_ARMCANNON_DESCRIPTION: キャノン弾を発射し、1,000%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_PLASMACANNON_DESCRIPTION: プラズマ弾を発射し、1,200%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_GOLEMGUN_DESCRIPTION: ヘビーショットを発射し、800%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_NEMMANDO_SWORD_DESCRIPTION: 前方の敵を剣で斬り、160%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 PRIMARY_ARTI_GAUNTLET_NAME: アーティフィサーのガントレット
-PRIMARY_ARTI_GAUNTLET_DESCRIPTION: マグマ弾を発射し、350%のダメージ。 <i>Translated by: Jaosnake</i>
-SECONDARY_PISTOL_DESCRIPTION: セカンダリーピストルを発射し、500%のダメージ。 <i>Translated by: Jaosnake</i>
-SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>スタン</style>。近くの敵をスタンさせ押し出し、250%のダメージ。 <i>Translated by: Jaosnake</i>
+PRIMARY_ARTI_GAUNTLET_DESCRIPTION: マグマ弾を発射し、350%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_PISTOL_DESCRIPTION: セカンダリーピストルを発射し、500%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>スタン</style>。近くの敵をスタンさせ押し出し、250%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SECONDARY_ROCKETLAUNCHER_ALT_NAME: ロケットランチャー
-SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>スタン</style>。素早いロケット弾幕を発射し、1発あたり250%のダメージ。 <i>Translated by: Jaosnake</i>
+SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>スタン</style>。素早いロケット弾幕を発射し、1発あたり250%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SECONDARY_HEAVY_MACHINEGUN_NAME: ヘビーマシンガン
-SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>スタン</style>。敵をスタンさせるグレネードを投げ、800%のダメージ。 <i>Translated by: Jaosnake</i>
+SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>スタン</style>。敵をスタンさせるグレネードを投げ、800%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SECONDARY_PLASMACANNON_NAME: プラズマキャノン
-SECONDARY_PLASMACANNON_DESCRIPTION: チャージしたプラズマ弾を発射し、1,000%のダメージ。 <i>Translated by: Jaosnake</i>
-SECONDARY_BANDITREVOLVER_DESCRIPTION: 大口径リボルバーを発射し、1,500%のダメージ。 <i>Translated by: Jaosnake</i>
-SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>アジャイル</style>。月の破片の斉射を放ち、1発あたり180%のダメージ。 <i>Translated by: Jaosnake</i>
-SECONDARY_NEMMANDO_DESCRIPTION: 暗黒の弾を発射し、240%のダメージ。 <i>Translated by: Jaosnake</i>
-SECONDARY_ARTI_GAUNTLET_DESCRIPTION: 氷の魔法の burst を放ち、600%-2,000%のダメージ。 <i>Translated by: Jaosnake</i>
+SECONDARY_PLASMACANNON_DESCRIPTION: チャージしたプラズマ弾を発射し、1,000%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BANDITREVOLVER_DESCRIPTION: 大口径リボルバーを発射し、1,500%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>アジャイル</style>。月の破片の斉射を放ち、1発あたり180%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_NEMMANDO_DESCRIPTION: 暗黒の弾を発射し、240%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_ARTI_GAUNTLET_DESCRIPTION: 氷の魔法の burst を放ち、600%-2,000%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 UTILITY_DASH_NAME: ダッシュ
-UTILITY_DASH_DESCRIPTION: 短距離をダッシュする。最大2チャージまで可能。 <i>Translated by: Jaosnake</i>
+UTILITY_DASH_DESCRIPTION: 短距離をダッシュする。最大2チャージまで可能。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SPECIAL_SUPPLY_DROP_NAME: 空中補給
-SPECIAL_SUPPLY_DROP_DESCRIPTION: 武器の空中補給を要請する。 <i>Translated by: Jaosnake</i>
+SPECIAL_SUPPLY_DROP_DESCRIPTION: 武器の空中補給を要請する。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SPECIAL_GRENADE_NAME: グレネード
 SPECIAL_KNIFE_NAME: ナイフ
-SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>斬撃</style>。<style=cIsUtility>アジャイル</style>。前方の敵を斬り、470%のダメージ。 <i>Translated by: Jaosnake</i>
+SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>斬撃</style>。<style=cIsUtility>アジャイル</style>。前方の敵を斬り、470%のダメージ。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SPECIAL_DRIVERCOIN_NAME: ドライバーコイン
-SPECIAL_DRIVERCOIN_DESCRIPTION: コインを消費して特殊効果を発動する。 <i>Translated by: Jaosnake</i>
+SPECIAL_DRIVERCOIN_DESCRIPTION: コインを消費して特殊効果を発動する。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: デフォルト
 ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>フォーカス</style><style=cSub>フォーカスはダメージ出力を大幅に増加させるが、照準中に側面を突かれないように注意。
 ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>アーセナル</style><style=cSub>プライマリとセカンダリアビリティを使用して武器を切り替える。

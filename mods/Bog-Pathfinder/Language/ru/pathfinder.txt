@@ -1,6 +1,6 @@
 BOG_PATHFINDER_BODY_NAME: Следопыт
 BOG_PATHFINDER_BODY_SUBTITLE: Межпланетный Охотник
-BOG_PATHFINDER_BODY_DESCRIPTION: Следопыт — это хитрый и ускользающий застрельщик, который сражается бок о бок со своим роботом-соколом Шквалом. <i>Translated by: Jaosnake</i>
+BOG_PATHFINDER_BODY_DESCRIPTION: Следопыт — это хитрый и ускользающий застрельщик, который сражается бок о бок со своим роботом-соколом Шквалом. <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_PATHFINDER_BODY_PASSIVE_NAME: Сокольник
 BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: Вас сопровождает ваш робот-сокол Шквал. Шквал наследует <style=cIsDamage>большинство</style> ваших предметов и неуязвим к урону, но работает от <style=cIsUtility>батареи</style>.

@@ -1,6 +1,6 @@
 BOG_PATHFINDER_BODY_NAME: パスファインダー
 BOG_PATHFINDER_BODY_SUBTITLE: 惑星間ハンター
-BOG_PATHFINDER_BODY_DESCRIPTION: パスファインダーは狡猾で回避力に優れた遊撃戦士であり、ロボットハヤブサのスコールと共に戦う。 <i>Translated by: Jaosnake</i>
+BOG_PATHFINDER_BODY_DESCRIPTION: パスファインダーは狡猾で回避力に優れた遊撃戦士であり、ロボットハヤブサのスコールと共に戦う。 <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_PATHFINDER_BODY_PASSIVE_NAME: 鷹匠
 BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: ロボットハヤブサのスコールが同行する。スコールは<style=cIsDamage>ほとんどの</style>アイテムを継承し、ダメージを受けないが、<style=cIsUtility>バッテリー</style>で動作する。

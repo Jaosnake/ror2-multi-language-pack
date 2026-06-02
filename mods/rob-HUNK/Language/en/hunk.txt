@@ -17,41 +17,41 @@ ROB_HUNK_BODY_JACKET_SKIN_NAME: Jacket
 ROB_HUNK_BODY_TOFU_SKIN_NAME: Tofu
 ROB_HUNK_BODY_SUPER_SKIN_NAME: Super
 SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the M19 for <style=cIsDamage>500% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the M19 for <style=cIsDamage>500% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the Broom HC for <style=cIsDamage>180% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the Broom HC for <style=cIsDamage>180% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_REVOLVER_NAME: Revolver
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a revolver for <style=cIsDamage>1,200% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a revolver for <style=cIsDamage>1,200% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_MAGNUM_NAME: Magnum
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a magnum for <style=cIsDamage>1,500% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a magnum for <style=cIsDamage>1,500% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_SHOTGUN_NAME: Shotgun
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a shotgun for <style=cIsDamage>14x150% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a shotgun for <style=cIsDamage>14x150% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the SSG for <style=cIsDamage>16x200% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the SSG for <style=cIsDamage>16x200% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the Slugger for <style=cIsDamage>3,000% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the Slugger for <style=cIsDamage>3,000% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_AR_NAME: Assault Rifle
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a rifle for <style=cIsDamage>385% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a rifle for <style=cIsDamage>385% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a Spark Shot for <style=cIsDamage>1,000% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a Spark Shot for <style=cIsDamage>1,000% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_GOLDGUN_NAME: Golden Gun
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a golden gun for <style=cIsDamage>99,999% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a golden gun for <style=cIsDamage>99,999% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_ATM_NAME: ATM Launcher
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a rocket for <style=cIsDamage>8,000% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a rocket for <style=cIsDamage>8,000% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SHOOT_GRENADELAUNCHER_NAME: Grenade Launcher
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a grenade for <style=cIsDamage>3,200% damage</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a grenade for <style=cIsDamage>3,200% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Draw.</style> <style=cIsDamage>Strike</style> melee combatants for <style=cIsDamage>200% and 250% damage</style>, inflicting <style=cIsHealth>Mangled</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Draw.</style> <style=cIsDamage>Strike</style> melee combatants for <style=cIsDamage>200% and 250% damage</style>, inflicting <style=cIsHealth>Mangled</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SECONDARY_AIM_NAME: Aim Steadily
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Aim</style> to improve your current weapon's accuracy. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Aim</style> to improve your current weapon's accuracy. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 UTILITY_PARRY_NAME: Parry
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Parry</style> to deflect attacks. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Parry</style> to deflect attacks. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 UTILITY_DODGE_NAME: Slide
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Slide</style> a short distance. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Slide</style> a short distance. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 UTILITY_BASH_NAME: Deflection
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflect</style> nearby enemies, <style=cIsUtility>stunning them</style> for <style=cIsDamage>400% damage</style>. If used preemptively to <style=cIsUtility>cancel an attack</style>, perform a <style=cIsDamage>Perfect Deflection</style>. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflect</style> nearby enemies, <style=cIsUtility>stunning them</style> for <style=cIsDamage>400% damage</style>. If used preemptively to <style=cIsUtility>cancel an attack</style>, perform a <style=cIsDamage>Perfect Deflection</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 SPECIAL_SWAP_NAME: Legion
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Swap</style> your current weapon. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Swap</style> your current weapon. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 ROB_HUNK_KEYWORD_MANGLED: Mangled
 ROB_HUNK_KEYWORD_COUNTERATTACK: Counterattack
 ROB_HUNK_KEYWORD_PERFECTDODGE: Perfect Dodge
@@ -95,7 +95,7 @@ ROB_NEMESIS_BODY_NAME: Nemesis
 ROB_NEMESIS_BODY_SUBTITLE: The Pursuer
 ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Default
 ROB_NEMESIS_BODY_PASSIVE_NAME: Relentless Pursuit
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Deal <style=cIsDamage>{0}% bonus damage</style> to marked enemies. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Deal <style=cIsDamage>{0}% bonus damage</style> to marked enemies. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
 ROB_NEMESIS_BODY_GRAB_NAME: Grab
 ROB_ARTIFACT_STRIKETEAM_NAME: Artifact of the Strike Team
 ROB_ARTIFACT_PURSUER_NAME: Artifact of the Pursuer

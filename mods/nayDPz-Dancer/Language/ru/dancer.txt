@@ -1,5 +1,5 @@
 NDP_DANCER_BODY_PASSIVE_NAME: Сдерживающая лента
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Враги с лентой истекают кровью на 50% урона в секунду и не могут действовать. <i>Translated by: Jaosnake</i>
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Враги с лентой истекают кровью на 50% урона в секунду и не могут действовать. <i>Translated by: Jaosnake. Original mod by nayDPz</i>
 PRIMARY_SLASH_NAME: Удар
 PRIMARY_SLASH_DESCRIPTION: Атака ближнего боя с эффектами, зависящими от вашего прицела. (Наведите для подробностей)
 PRIMARY_SLASH2_NAME: Разрез

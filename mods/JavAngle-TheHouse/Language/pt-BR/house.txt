@@ -1,14 +1,14 @@
 JAVANGLE_HOUSE_BODY_NAME: The House
 JAVANGLE_HOUSE_BODY_SUBTITLE: O Jogador Loco
 JAVANGLE_HOUSE_BODY_DESCRIPTION: The House ? um jogador louco que depende de sua sorte para superar situa??es dif?ceis, usando dois misteriosos artefatos do destino: um rev?lver de 6 tiros chamado <style=cIsUtility>"Roleta"</style> e um baralho de cartas aparentemente amaldi?oado.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por JavAngle. Traduzido por: Jaosnake
+Mod original por JavAngle. Traduzido por: Jaosnake
 JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: Padr?o
 JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: Maestria
 JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: BulletArts: Vazio
 JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare um tiro carregado aleat?rio. Quando n?o h? tiros restantes: n?o faz nada.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por JavAngle. Traduzido por: Jaosnake
+Mod original por JavAngle. Traduzido por: Jaosnake
 
 DEFAULT_SKIN_NAME: Padr?o
 MASTERY_SKIN_NAME: The House: Maestria

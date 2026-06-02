@@ -3,7 +3,7 @@
         "KENKO_INTERROGATOR_NAME": "Interrogador",
         "KENKO_INTERROGATOR_DESCRIPTION": "O Interrogador se compraz na dor alheia. Não se divirta demais machucando seus aliados... ou divirta-se.\n\n< ! > Seja acertado por inimigos, aliados e até você mesmo para ganhar atributos bônus. Ninguém está a salvo.\n\n< ! > Se você tem itens que ativam ao ser acertado, use Refrega para causar Hemorragia em si mesmo. Sem dor, sem ganho.\n\n< ! > Falsificar é uma ótima maneira de forçar inimigos a serem marcados como Culpados. Antitético? O que você quer dizer?\n\n< ! > Condene um alvo Culpado para garantir que ele seja punido por seus atos. Culpado até que se prove inocente, afinal.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por tsuyoikenko. Traduzido por: Jaosnake",
         "KENKO_INTERROGATOR_SUBTITLE": "Especialista em Tormento",
         "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..e então ele partiu, ansioso para aplicar mais \"justiça\".",
         "KENKO_INTERROGATOR_OUTRO_FAILURE": "..e então ele desapareceu, punido por seus crimes.",
@@ -13,31 +13,31 @@ Esse personagem foi traduzido por: Jaosnake",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
         "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "O Interrogador pode acertar e ser acertado por aliados e inimigos. Atacantes que acertam o Interrogador são marcados permanentemente como Culpados. Cause 5% a mais de dano por inimigo Culpado.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Golpe Brutal",
         "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Balance seu bastão na frente, causando <style=cIsDamage>320% de dano</style>. Errar o ataque faz com que você sofra <style=cIsDamage>dano</style> no lugar.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Refrega",
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lance um cutelo que causa <style=cIsDamage>450% de dano</style>. <style=cIsDamage>Assassino.</style> Se o cutelo matar o alvo, aplica Hemorragia e Pressão em todos na área.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificar",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Avance rapidamente causando <style=cIsDamage>390% de dano</style> e aplicando Culpado nos alvos atingidos.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duelo com um inimigo Culpado por 10 segundos. Seu primário não te acerta mais e concede um acúmulo de Culpado ao acertar. Durante o duelo, dano externo a você é negado, mas dano a outros inimigos além do alvo também é negado.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir",
         "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duelo com um inimigo Culpado por 10 segundos. Seu primário não te acerta mais e concede um acúmulo de Culpado ao acertar. Durante o duelo, dano externo a você é negado, mas dano a outros inimigos é reduzido em 75%.
 
-Esse personagem foi traduzido por: Jaosnake"
+Mod original por tsuyoikenko. Traduzido por: Jaosnake"
     }
 }

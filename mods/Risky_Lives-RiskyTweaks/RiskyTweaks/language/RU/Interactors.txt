@@ -7,4 +7,8 @@
 
 		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>Сигнал Абсолютной Пустоты награждает вас предметом </style>{0}"
 	}
+},
+
+		"TRANSLATION_CREDIT" : "Original mod by Risky_Lives. Translated by: Jaosnake"
+	}
 }

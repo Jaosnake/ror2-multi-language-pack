@@ -2,35 +2,35 @@
     strings:
     {
     "ITEM_BARRIERONCRIT_NAME" : "Bismut-Ohrringe",
-    "ITEM_BARRIERONCRIT_DESCRIPTION" : "Erhalte <style=cIsDamage>5% Blutungschance</style>. Erhalte eine <style=cIsHealing>temporÃ¤re Barriere</style> beim Verursachen von Blutung fÃ¼r <style=cIsHealing>15 Gesundheit</style> <style=cStack>(+10 pro Stapel)</style>.",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "Erhalte <style=cIsDamage>5% Blutungschance</style>. Erhalte eine <style=cIsHealing>temporäre Barriere</style> beim Verursachen von Blutung für <style=cIsHealing>15 Gesundheit</style> <style=cStack>(+10 pro Stapel)</style>.",
 
-Translated by: Jaosnake
+Translated by: Jaosnake. Original mod by TeamCloudburst.
     "ITEM_BARRIERONCRIT_PICKUP" : "Erhalte Barriere beim Verursachen von Blutung",
     "ITEM_BARRIERONCRIT_LORE" : "Die Ohrringe sind aus Bismut oder so, keine Ahnung.",
-    "ITEM_ENIGMATICKEYCARD_NAME" : "RÃ¤tselhafte SchlÃ¼sselkarte",
+    "ITEM_ENIGMATICKEYCARD_NAME" : "Rätselhafte Schlüsselkarte",
     "ITEM_ENIGMATICKEYCARD_PICKUP" : "Chance, bei Treffern eine Kugel zu erzeugen, die Feinde verfolgt und verletzt.",
-    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "4% Chance bei Treffern, eine <style=cIsDamage>zielsuchende Kugel</style> zu erzeugen, die nahe Feinde bei Aufprall fÃ¼r <style=cIsDamage>140% Basisschaden <style=cStack>(+140% pro Stapel)</style></style> trifft.",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "4% Chance bei Treffern, eine <style=cIsDamage>zielsuchende Kugel</style> zu erzeugen, die nahe Feinde bei Aufprall für <style=cIsDamage>140% Basisschaden <style=cStack>(+140% pro Stapel)</style></style> trifft.",
 
-Translated by: Jaosnake
-    "ITEM_ENIGMATICKEYCARD_LORE" : "Keine SchlÃ¼sselkarte wird jemals Enigmas verdammtes Gehirn Ã¶ffnen kÃ¶nnen",
+Translated by: Jaosnake. Original mod by TeamCloudburst.
+    "ITEM_ENIGMATICKEYCARD_LORE" : "Keine Schlüsselkarte wird jemals Enigmas verdammtes Gehirn öffnen können",
     "ITEM_BLEEDCRIPPLE_NAME" : "Fabinhorus Dolch",
-    "ITEM_BLEEDCRIPPLE_PICKUP" : "Angriffe auf blutende Feinde verringern deren RÃ¼stung.",
-    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Erhalte <style=cIsDamage>5%</style> Chance, einem Feind bei Treffern <style=cIsDamage>Blutung</style> zuzufÃ¼gen. <style=cIsDamage>Angriffe</style> auf <style=cIsDamage>blutende</style> Feinde verringern deren <style=cIsDamage>RÃ¼stung</style> um <style=cIsDamage>30</style> <style=cStack>(+15 pro Stapel)</style>.",
+    "ITEM_BLEEDCRIPPLE_PICKUP" : "Angriffe auf blutende Feinde verringern deren Rüstung.",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Erhalte <style=cIsDamage>5%</style> Chance, einem Feind bei Treffern <style=cIsDamage>Blutung</style> zuzufügen. <style=cIsDamage>Angriffe</style> auf <style=cIsDamage>blutende</style> Feinde verringern deren <style=cIsDamage>Rüstung</style> um <style=cIsDamage>30</style> <style=cStack>(+15 pro Stapel)</style>.",
 
-Translated by: Jaosnake
+Translated by: Jaosnake. Original mod by TeamCloudburst.
     "ITEM_BLEEDCRIPPLE_LORE" : "sie fabiniert meinen dolch bis ich horu",
     "ITEM_GLASSHARVESTER_NAME" : "Glas-Ernter",
-    "ITEM_GLASSHARVESTER_PICKUP" : "Deine 'Kritischen Treffer' verursachen zusÃ¤tzlich 40% Schaden. Zerbricht bei niedriger Gesundheit und gewÃ¤hrt Erfahrung.",
-    "ITEM_GLASSHARVESTER_DESC" : "Erhalte <style=cIsDamage>5% kritische Trefferchance</style>. <style=cIsDamage>Kritische Treffer</style> verursachen zusÃ¤tzlich <style=cIsDamage>40% Schaden</style><style=cStack>(+30% pro Stapel)</style>. Schaden unter <style=cIsHealth>25% Gesundheit</style> <style=cIsUtility>zerbricht</style> diesen Gegenstand und gewÃ¤hrt 15% der <style=cIsUtility>Erfahrung</style> deines aktuellen Levels.",
-    "ITEM_GLASSHARVESTER_LORE" : "Erntet es Glas oder erntet es mit Glas?\nIch weiÃŸ es nicht und es ist mir egal, raus aus meinem Haus",
+    "ITEM_GLASSHARVESTER_PICKUP" : "Deine 'Kritischen Treffer' verursachen zusätzlich 40% Schaden. Zerbricht bei niedriger Gesundheit und gewährt Erfahrung.",
+    "ITEM_GLASSHARVESTER_DESC" : "Erhalte <style=cIsDamage>5% kritische Trefferchance</style>. <style=cIsDamage>Kritische Treffer</style> verursachen zusätzlich <style=cIsDamage>40% Schaden</style><style=cStack>(+30% pro Stapel)</style>. Schaden unter <style=cIsHealth>25% Gesundheit</style> <style=cIsUtility>zerbricht</style> diesen Gegenstand und gewährt 15% der <style=cIsUtility>Erfahrung</style> deines aktuellen Levels.",
+    "ITEM_GLASSHARVESTER_LORE" : "Erntet es Glas oder erntet es mit Glas?\nIch weiß es nicht und es ist mir egal, raus aus meinem Haus",
     "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Glas-Ernter (Zerbrochen)",
     "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Ernte eingeholt. War es die Erfahrung wert?",
     "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Ein verbrauchter Gegenstand ohne verbleibende Kraft.",
     "ITEM_PICKUPBUFF_NAME" : "Japes Umhang",
-    "ITEM_PICKUPBUFF_PICKUP" : "Erhalte einen Buff, der beim Aufsammeln von GegenstÃ¤nden RÃ¼stung und Heilung gewÃ¤hrt.",
-    "ITEM_PICKUPBUFF_DESCRIPTION" : "Erhalte einen Buff, der dir <style=cIsUtility>+5 RÃ¼stung</style> und <style=cIsHealing>30% Heilung</style> beim Aufsammeln eines Gegenstands gewÃ¤hrt. Maximal 3 Buffs <style=cStack>(+2 pro Stapel)</style>.",
+    "ITEM_PICKUPBUFF_PICKUP" : "Erhalte einen Buff, der beim Aufsammeln von Gegenständen Rüstung und Heilung gewährt.",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "Erhalte einen Buff, der dir <style=cIsUtility>+5 Rüstung</style> und <style=cIsHealing>30% Heilung</style> beim Aufsammeln eines Gegenstands gewährt. Maximal 3 Buffs <style=cStack>(+2 pro Stapel)</style>.",
 
-Translated by: Jaosnake
-    "ITEM_PICKUPBUFF_LORE" : ""Logbuch des Quartiermeisters. 17 Tage nach dem Absturz.\n\nEs ist mehr als ein halber Monat her, seit wir uns bei unserer unfreiwilligen EinfÃ¼hrung in die AtmosphÃ¤re dieses MÃ¶rderplaneten beinahe in schwelende schwarze Paste verbrannt hÃ¤tten. Aufgrund der Art unserer Ankunft, nÃ¤mlich der Flucht aus einem kollabierenden Frachtschiff, das aus dem Warp-Flug gerissen wurde, schwinden unsere VorrÃ¤te an Notwendigem von einem bereits gefÃ¤hrlich niedrigen Grundbestand. Wir sind gezwungen, das wenige Essen und Wasser, das wir haben, zu rationieren. Um dies zu Ã¼berwachen, wurde ich zum Quartiermeister unseres AuÃŸenpostens ernannt.\nUnsere VorrÃ¤te sind wie folgt:\n\n-Genug Essen und Wasser fÃ¼r etwa 1,5 Wochen.\n-3,5 Pappkartons voller geborgenem Metall und Schaltkreisen von zerstÃ¶rten Drohnen und GeschÃ¼tzen.\n-4 Taschen mit medizinischer AusrÃ¼stung\n-2 SchlÃ¼sselanhÃ¤nger mit je 13 verrosteten SchlÃ¼sseln? (Das muss ein Fehler sein, Juarez sagt, sie wurden zusammen mit dem Rest der Beute hereingebracht, die diese drei Kerle vor 2 Tagen reingebracht haben, drucken die die etwa?)\n-6 Kisten voller Munition (mÃ¶glicherweise exponentiell abnehmend)\n\nEtwas stimmt nicht. Das Schwarze Brett, das wir aufgehÃ¤ngt haben, um zu verfolgen, wie viele VorrÃ¤te jeder nimmt, deckt nicht alles ab. Auch wenn es sich nur um ein einfaches Kommunikationsversagen handeln mag, steigt die Wahrscheinlichkeit, dass jemand mehr nimmt als nÃ¶tig, mit jedem Tag. Ich habe keine direkten Beweise dafÃ¼r, aber es ist eine (sehr beÃ¤ngstigende) MÃ¶glichkeit.\n\n\nWenn es nur eine Person ist, die alles nimmt, dann bei den gezeigten Raten...\nIst sie vielleicht besser vorbereitet als der Rest von uns.\n\nEnde des Logbuchs.\n\n\nNachtrag: WER. IN GOTTES HEILIGEM NAMEN. HAT. MEINE. ZIGARETTEN. GENOMMEN??"",
+Translated by: Jaosnake. Original mod by TeamCloudburst.
+    "ITEM_PICKUPBUFF_LORE" : ""Logbuch des Quartiermeisters. 17 Tage nach dem Absturz.\n\nEs ist mehr als ein halber Monat her, seit wir uns bei unserer unfreiwilligen Einführung in die Atmosphäre dieses Mörderplaneten beinahe in schwelende schwarze Paste verbrannt hätten. Aufgrund der Art unserer Ankunft, nämlich der Flucht aus einem kollabierenden Frachtschiff, das aus dem Warp-Flug gerissen wurde, schwinden unsere Vorräte an Notwendigem von einem bereits gefährlich niedrigen Grundbestand. Wir sind gezwungen, das wenige Essen und Wasser, das wir haben, zu rationieren. Um dies zu überwachen, wurde ich zum Quartiermeister unseres Außenpostens ernannt.\nUnsere Vorräte sind wie folgt:\n\n-Genug Essen und Wasser für etwa 1,5 Wochen.\n-3,5 Pappkartons voller geborgenem Metall und Schaltkreisen von zerstörten Drohnen und Geschützen.\n-4 Taschen mit medizinischer Ausrüstung\n-2 Schlüsselanhänger mit je 13 verrosteten Schlüsseln? (Das muss ein Fehler sein, Juarez sagt, sie wurden zusammen mit dem Rest der Beute hereingebracht, die diese drei Kerle vor 2 Tagen reingebracht haben, drucken die die etwa?)\n-6 Kisten voller Munition (möglicherweise exponentiell abnehmend)\n\nEtwas stimmt nicht. Das Schwarze Brett, das wir aufgehängt haben, um zu verfolgen, wie viele Vorräte jeder nimmt, deckt nicht alles ab. Auch wenn es sich nur um ein einfaches Kommunikationsversagen handeln mag, steigt die Wahrscheinlichkeit, dass jemand mehr nimmt als nötig, mit jedem Tag. Ich habe keine direkten Beweise dafür, aber es ist eine (sehr beängstigende) Möglichkeit.\n\n\nWenn es nur eine Person ist, die alles nimmt, dann bei den gezeigten Raten...\nIst sie vielleicht besser vorbereitet als der Rest von uns.\n\nEnde des Logbuchs.\n\n\nNachtrag: WER. IN GOTTES HEILIGEM NAMEN. HAT. MEINE. ZIGARETTEN. GENOMMEN??"",
     }
 }

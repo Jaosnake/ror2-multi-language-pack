@@ -3,33 +3,33 @@ KENKO_CADET_SUBTITLE: Atirador Vers?til
 KENKO_CADET_MASTERY_SKIN_NAME: Cadete: Especialista
 PRIMARY_SMG_NAME: Metralhadora
 PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare rapidamente sua metralhadora para <style=cIsDamage>60% de dano</style> por tiro.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 PRIMARY_SHOTGUN_NAME: Escopeta
 PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare sua escopeta para <style=cIsDamage>100% de dano</style>.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SECONDARY_GRENADE_NAME: Granada
 SECONDARY_GRENADE_DESCRIPTION: Arremesse uma granada que causa <style=cIsDamage>400% de dano</style>.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SECONDARY_THROWGUN_NAME: Arremesso de Arma
 SECONDARY_THROWGUN_DESCRIPTION: Arremesse sua arma atual para <style=cIsDamage>600% de dano</style>.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 UTILITY_SLIDE_NAME: Deslizar
 UTILITY_SLIDE_DESCRIPTION: Deslize em uma dire??o, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 UTILITY_ROLLOAD_NAME: Rolamento T?tico
 UTILITY_ROLLOAD_DESCRIPTION: Role em uma dire??o, recarregando sua arma.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SPECIAL_ECHO_NAME: Eco
 SPECIAL_ECHO_DESCRIPTION: Dispare drones s?nicos que ricocheteiam entre inimigos, causando <style=cIsDamage>350% de dano</style> e aplicando lentid?o.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SPECIAL_ULTRA_NAME: Ultra
 SPECIAL_ULTRA_DESCRIPTION: Dispare um poderoso disparo de energia que causa <style=cIsDamage>600% de dano</style>.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake

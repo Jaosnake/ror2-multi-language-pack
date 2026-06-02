@@ -2,23 +2,23 @@ KENKO_INTERROGATOR_NAME: Interrogador
 KENKO_INTERROGATOR_SUBTITLE: Especialista em Tormento
 KENKO_INTERROGATOR_PASSIVE_NAME: Tormento
 KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: O Interrogador pode acertar e ser acertado por aliados e inimigos. Atacantes que acertam o Interrogador s?o marcados permanentemente como Culpados. Cause 50 de dano base a mais por inimigo Culpado.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Balance seu bast?o na frente, causando 320% de dano. Errar o ataque faz com que voc? sofra 90% de dano no lugar.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Lance um cutelo que causa 450% de dano. Se o cutelo matar o alvo, aplica Hemorragia e Press?o em todos na ?rea.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Avance rapidamente causando 390% de dano e aplicando Culpado nos alvos atingidos.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Condenar
 KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Marque um inimigo Culpado e lute contra ele por 10s. Durante este per?odo, todo dano externo ? negado, incluindo o seu pr?prio. Seu ataque prim?rio n?o pode mais acertar voc?, mas acumula continuamente o b?nus de dano de Culpado.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Condenar (Cetro)
 KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Marque um inimigo Culpado e lute contra ele por 14s. Durante este per?odo, todo dano externo ? negado. Seu ataque prim?rio n?o pode mais acertar voc?, mas acumula o b?nus de dano de Culpado com o dobro da efici?ncia.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
+Mod original por tsuyoikenko. Traduzido por: Jaosnake
 MASTERY_SKIN_NAME: Interrogador: Especialista

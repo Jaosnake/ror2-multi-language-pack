@@ -7,23 +7,23 @@
                   "NDP_DANCER_BODY_PASSIVE_NAME":  "Fita Restritiva",
                   "NDP_DANCER_BODY_PASSIVE_DESCRIPTION":  "Inimigos com fita sangram por 50% de dano por segundo e não podem agir.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por nayDPz. Traduzido por: Jaosnake",
                   "NDP_DANCER_BODY_PRIMARY_SLASH_NAME":  "Golpe",
                   "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION":  "Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por nayDPz. Traduzido por: Jaosnake",
                   "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME":  "Corte",
                   "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION":  "Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por nayDPz. Traduzido por: Jaosnake",
                   "NDP_DANCER_BODY_UTILITY_PULL_NAME":  "Puxão",
                   "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION":  "Puxe inimigos em sua direção.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por nayDPz. Traduzido por: Jaosnake",
                   "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME":  "Fita de Amarração",
                   "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION":  "Aplique uma fita em um inimigo, impedindo-o de agir e causando sangramento.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por nayDPz. Traduzido por: Jaosnake",
                   "KEYWORD_DANCER_JAB":  "\u003cstyle=cKeywordName\u003eJab\u003c/style\u003e\u003cstyle=cSub\u003eInput em solo, mire para frente. Avance e cause \u003cstyle=cIsDamage\u003e180% de dano\u003c/style\u003e.",
                   "KEYWORD_DANCER_DOWNTILT":  "\u003cstyle=cKeywordName\u003eDown Tilt\u003c/style\u003e\u003cstyle=cSub\u003eInput em solo, mire para baixo. Jogue inimigos para cima e cause \u003cstyle=cIsDamage\u003e200% de dano\u003c/style\u003e.",
                   "KEYWORD_DANCER_FORWARDAIR":  "\u003cstyle=cKeywordName\u003eForward Air\u003c/style\u003e\u003cstyle=cSub\u003eInput no ar, mire para frente. Golpe pesado que causa \u003cstyle=cIsDamage\u003e180% de dano\u003c/style\u003e e prende inimigos no chão, atordoando e causando até \u003cstyle=cIsDamage\u003e300% de dano\u003c/style\u003e.",

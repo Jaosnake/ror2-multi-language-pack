@@ -1,6 +1,6 @@
 BOG_PATHFINDER_BODY_NAME: Pathfinder
 BOG_PATHFINDER_BODY_SUBTITLE: Interplanetary Hunter
-BOG_PATHFINDER_BODY_DESCRIPTION: The Pathfinder is a cunning and evasive skirmisher who fights alongside his robotic falcon, Squall. <i>Backported from pt-BR. Translated by: Jaosnake</i>
+BOG_PATHFINDER_BODY_DESCRIPTION: The Pathfinder is a cunning and evasive skirmisher who fights alongside his robotic falcon, Squall. <i>Backported from pt-BR. Original mod by Bog. Translated by: Jaosnake</i>
 
 BOG_PATHFINDER_BODY_PASSIVE_NAME: Falconer
 BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: You are accompanied by your robotic falcon, Squall. Squall inherits <style=cIsDamage>most</style> of your items and is immune to damage, but runs on a <style=cIsUtility>battery</style>.

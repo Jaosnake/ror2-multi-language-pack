@@ -1,39 +1,39 @@
 ROB_DRIVER_BODY_NAME: Driver
-ROB_DRIVER_BODY_SUBTITLE: 军需官 <i>Translated by: Jaosnake</i>
+ROB_DRIVER_BODY_SUBTITLE: 军需官 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 PRIMARY_PISTOL_NAME: 手枪
-PRIMARY_PISTOL_DESCRIPTION: 一个有缺陷的原型，只能发射几发子弹。 <i>Translated by: Jaosnake</i>
+PRIMARY_PISTOL_DESCRIPTION: 一个有缺陷的原型，只能发射几发子弹。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 PRIMARY_MACHINEGUN_NAME: 机枪
-PRIMARY_MACHINEGUN_DESCRIPTION: 快速射击，每次造成120%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_RIOT_SHOTGUN_DESCRIPTION: 发射一发霰弹，造成8x140%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_BADASS_SHOTGUN_DESCRIPTION: 发射一发毁灭性的霰弹，造成24x140%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_BAZOOKA_DESCRIPTION: 发射一枚爆炸火箭，造成600%-1,200%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_ARMCANNON_DESCRIPTION: 发射一发炮击，造成1,000%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_PLASMACANNON_DESCRIPTION: 发射一发等离子射击，造成1,200%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_GOLEMGUN_DESCRIPTION: 发射一发重击，造成800%伤害。 <i>Translated by: Jaosnake</i>
-PRIMARY_NEMMANDO_SWORD_DESCRIPTION: 用剑斩击前方敌人，造成160%伤害。 <i>Translated by: Jaosnake</i>
+PRIMARY_MACHINEGUN_DESCRIPTION: 快速射击，每次造成120%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_RIOT_SHOTGUN_DESCRIPTION: 发射一发霰弹，造成8x140%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BADASS_SHOTGUN_DESCRIPTION: 发射一发毁灭性的霰弹，造成24x140%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BAZOOKA_DESCRIPTION: 发射一枚爆炸火箭，造成600%-1,200%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_ARMCANNON_DESCRIPTION: 发射一发炮击，造成1,000%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_PLASMACANNON_DESCRIPTION: 发射一发等离子射击，造成1,200%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_GOLEMGUN_DESCRIPTION: 发射一发重击，造成800%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_NEMMANDO_SWORD_DESCRIPTION: 用剑斩击前方敌人，造成160%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 PRIMARY_ARTI_GAUNTLET_NAME: 工匠的手套
-PRIMARY_ARTI_GAUNTLET_DESCRIPTION: 发射一枚岩浆弹，造成350%伤害。 <i>Translated by: Jaosnake</i>
-SECONDARY_PISTOL_DESCRIPTION: 发射副武器手枪，造成500%伤害。 <i>Translated by: Jaosnake</i>
-SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>眩晕</style>。眩晕并击退附近敌人，造成250%伤害。 <i>Translated by: Jaosnake</i>
+PRIMARY_ARTI_GAUNTLET_DESCRIPTION: 发射一枚岩浆弹，造成350%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_PISTOL_DESCRIPTION: 发射副武器手枪，造成500%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>眩晕</style>。眩晕并击退附近敌人，造成250%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SECONDARY_ROCKETLAUNCHER_ALT_NAME: 火箭发射器
-SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>眩晕</style>。快速发射一连串火箭，每发造成250%伤害。 <i>Translated by: Jaosnake</i>
+SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>眩晕</style>。快速发射一连串火箭，每发造成250%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SECONDARY_HEAVY_MACHINEGUN_NAME: 重型机枪
-SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>眩晕</style>。投掷一枚眩晕敌人的手榴弹，造成800%伤害。 <i>Translated by: Jaosnake</i>
+SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>眩晕</style>。投掷一枚眩晕敌人的手榴弹，造成800%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SECONDARY_PLASMACANNON_NAME: 等离子炮
-SECONDARY_PLASMACANNON_DESCRIPTION: 发射蓄力等离子射击，造成1,000%伤害。 <i>Translated by: Jaosnake</i>
-SECONDARY_BANDITREVOLVER_DESCRIPTION: 发射大威力左轮手枪，造成1,500%伤害。 <i>Translated by: Jaosnake</i>
-SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>灵巧</style>。发射一连串月之碎片，每个造成180%伤害。 <i>Translated by: Jaosnake</i>
-SECONDARY_NEMMANDO_DESCRIPTION: 发射黑暗弹丸，造成240%伤害。 <i>Translated by: Jaosnake</i>
-SECONDARY_ARTI_GAUNTLET_DESCRIPTION: 发射一阵冰霜魔法，造成600%-2,000%伤害。 <i>Translated by: Jaosnake</i>
+SECONDARY_PLASMACANNON_DESCRIPTION: 发射蓄力等离子射击，造成1,000%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BANDITREVOLVER_DESCRIPTION: 发射大威力左轮手枪，造成1,500%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>灵巧</style>。发射一连串月之碎片，每个造成180%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_NEMMANDO_DESCRIPTION: 发射黑暗弹丸，造成240%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_ARTI_GAUNTLET_DESCRIPTION: 发射一阵冰霜魔法，造成600%-2,000%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 UTILITY_DASH_NAME: 冲刺
-UTILITY_DASH_DESCRIPTION: 冲刺一段短距离。最多可储存2层充能。 <i>Translated by: Jaosnake</i>
+UTILITY_DASH_DESCRIPTION: 冲刺一段短距离。最多可储存2层充能。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SPECIAL_SUPPLY_DROP_NAME: 空投补给
-SPECIAL_SUPPLY_DROP_DESCRIPTION: 请求空投武器。 <i>Translated by: Jaosnake</i>
+SPECIAL_SUPPLY_DROP_DESCRIPTION: 请求空投武器。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SPECIAL_GRENADE_NAME: 手榴弹
 SPECIAL_KNIFE_NAME: 刀
-SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>切割</style>。<style=cIsUtility>灵巧</style>。斩击前方敌人，造成470%伤害。 <i>Translated by: Jaosnake</i>
+SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>切割</style>。<style=cIsUtility>灵巧</style>。斩击前方敌人，造成470%伤害。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 SPECIAL_DRIVERCOIN_NAME: 司机的硬币
-SPECIAL_DRIVERCOIN_DESCRIPTION: 消耗硬币激活特殊效果。 <i>Translated by: Jaosnake</i>
+SPECIAL_DRIVERCOIN_DESCRIPTION: 消耗硬币激活特殊效果。 <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
 ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: 默认
 ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>聚焦</style><style=cSub>聚焦大幅提升你的伤害输出，但瞄准时注意不要被包抄。
 ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>军械库</style><style=cSub>使用主副技能在武器之间切换。

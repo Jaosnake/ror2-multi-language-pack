@@ -4,49 +4,49 @@
         "HABIBI_CHRONO_SUBTITLE": "Manipulador do Tempo",
         "HABIBI_CHRONO_DESCRIPTION": "O Chrono Legionnaire usa a manipulação do tempo para agitar o campo de batalha.<color=#CCD3E0>\n\n< ! > É altamente recomendável configurar correr para ALT ou no mouse se possível.\n\n< ! > Bombas I.V.A.N. são ótimas para dano em área. Entre em cronosfera, coloque uma, e saia.\n\n< ! > Cronosfera pode ser usada para movimentação, defesa, ou para agrupar inimigos para serem explodidos por bombas.\n\n< ! > Enquanto Doença Temporal acumula para execução com a especial, causar dano ainda é importante para atingir o limiar.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Já Estou Lá",
         "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Em vez de correr, você salta no tempo de um lugar para outro, após o qual fica <style=cIsUtility>inexplicável</style> por um curto período baseado na distância.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Rifle Temporal",
         "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Dispare um rifle que para o tempo, causando <style=cIsDamage>200% de dano</style>. Inimigos acertados recebem <style=cIsUtility>Doença Temporal</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "I.V.A.N. Cronológico",
         "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Prenda uma bomba de pulso em um inimigo. Após 3 segundos, a bomba explode causando <style=cIsDamage>500% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Cronosfera",
         "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Destaque uma área, então destaque uma segunda área. <style=cIsUtility>Todas as unidades</style> na primeira área são teletransportadas para a segunda.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Esfera de Suspensão",
         "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Pare o tempo</style> de inimigos e projéteis por 3 segundos.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Deconstructing",
         "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Cause <style=cIsDamage>240% de dano</style> e aplique <style=cIsUtility>Doença Temporal</style> ao longo de 1 segundo. Se a saúde de um inimigo estiver abaixo do limiar de <style=cIsUtility>Doença Temporal</style>, ele desaparece da existência.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_CANCEL_NAME": "Cancelar",
         "HABIBI_CHRONO_CANCEL_DESC": "Cancele a habilidade atual.",
         "HABIBI_CHRONO_DRIVER_GUN_NAME": "RA Chrono Legionnaire Gun",
         "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Dispare uma bala que para o tempo.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Rifle do Motorista",
         "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Atire para causar dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Desvanecer do Motorista",
         "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Desvaneça com poder adicional.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Doença Temporal",
         "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Inimigos acumulam Doença Temporal enquanto estão em cronosferas.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
         "HABIBI_CHRONO_LORE": "Nunca Existiu",
         "HABIBI_CHRONO_OUTRO_FLAVOR": "..e então ele partiu, sem deixar vestígios.",
         "HABIBI_CHRONO_OUTRO_FAILURE": "..e então ele desapareceu, como se nunca tivesse existido."

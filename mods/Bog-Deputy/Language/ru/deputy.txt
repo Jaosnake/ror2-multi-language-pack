@@ -1,6 +1,6 @@
 BOG_DEPUTY_BODY_NAME: Делегатка
 BOG_DEPUTY_BODY_SUBTITLE: Молниеносное Правосудие
-BOG_DEPUTY_BODY_DESCRIPTION: Делегатка — это гиперагрессивный демон скорости, который вершит правосудие с помощью своих парных револьверов и смертоносных ударов ногами. <i>Translated by: Jaosnake</i>
+BOG_DEPUTY_BODY_DESCRIPTION: Делегатка — это гиперагрессивный демон скорости, который вершит правосудие с помощью своих парных револьверов и смертоносных ударов ногами. <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: Обычный
 BOG_DEPUTY_BODY_PASSIVE_NAME: Неустанное Преследование

@@ -1,8 +1,8 @@
 POPCORN_LEE_HYPERREAL_BODY_NAME: Lee: Hyperreal
 POPCORN_LEE_HYPERREAL_BODY_SUBTITLE: Simula??o completa... Comandante, n?s vamos vencer esta luta.
 POPCORN_LEE_HYPERREAL_BODY_DESCRIPTION: Lee: Hyperreal ? um personagem t?cnico de solo com jogabilidade dif?cil de dominar. Ele foca inteiramente em dano em detrimento de sua sobreviv?ncia.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_LORE: "Os testes est?o indo bem?"\n\nPassos n?tidos de sapatos caros soavam altos demais nas c?maras medicinalmente est?reis.\n\n"Sim, senhor. Sentiu aquilo agora?"\n\nO zumbido profundo de energia que varreu os pisos desinfetados vibrou contra os sapatos, o par caro e o par desgastado.\n\n"Foi um teste de armas, senhor. Arma port?til."\n\nIsso fez os passos hesitarem. "Port?til?"\n\n"Sim, senhor. Evoluiu muito desde sua ?ltima visita."\n\n"Hrm. Bem, as armas n?o significar?o muito se o sujeito for outro defeito. Estamos perto?"\n\n"Sim, senhor, ? por aqui."\n\nOs sapatos gastos, manchados de produtos qu?micos e queimados por mau funcionamento, se adiantaram, e m?os tr?mulas alcan?aram um cart?o que lhe fora dado para o dia. Sabiam que ele seria um feixe de nervos, mas isso alimentava o ego do convidado, o que significava uma visita mais feliz.\n\nUm ?nico swipe, um escaneamento de retina que acabara de receber acesso, e estavam em uma sala que nenhum deles tinha visto antes.\n\n"? ? um isso? Ou um ele?"\n\nPalavras de uma infografia memorizada preencheram sua cabe?a. "? ambos, senhor. A bioss?ntese funcionou perfeitamente, ao contr?rio dos testes anteriores. ? uma combina??o perfeita."\n\n"Entendo. Ent?o ? org?nico?"\n\n"? cibern?tico, mas est? correto. E n?o foi f?cil, senhor. Como cultivar uma melancia quadrada com sele??o natural."\n\n"Sim, sim, entendi. Os fundos ser?o transferidos no meu retorno."\n\n"Obrigado, senhor."\n\nOs sapatos caros se viraram para sair, mas foram parados por um pensamento repentino. "Diga? voc? j? testou, certo?"\n\nUm engolir nervoso, uma pergunta inesperada. "Hm? Oh, uh? n?o, acho que n?o testamos."\n\n"Hm. Bem, resolva isso, ou terei que considerar um risco. Voc? n?o quer repetir o ?ltimo erro, quer?"\n\nAs palavras amargas fizeram os sapatos gastos hesitarem, e um cart?o de acesso tremeu dentro de uma m?o queimada por ?cido. "N?o, Sr. Wade. N?o queremos. Enviaremos as imagens do teste ao vivo para sua decis?o."\n\nUma hora depois, uma grande mala foi guardada no dep?sito de carga, e um cart?o de embarque de alta prioridade da UES deixou um par de sapatos gastos e queimaduras acre a bordo do Safe Travels.
 POPCORN_LEE_HYPERREAL_BODY_OUTRO_FLAVOR: ..e ent?o ele partiu, ainda n?o mais pr?ximo de sua verdadeira realidade.
 POPCORN_LEE_HYPERREAL_BODY_OUTRO_FAILURE: ..e ent?o ele desapareceu, com uma miss?o n?o cumprida.
@@ -16,45 +16,45 @@ POPCORN_LEE_HYPERREAL_BODY_YI_SKIN_NAME: Yi
 POPCORN_LEE_HYPERREAL_BODY_BK_SKIN_NAME: Boykisser
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_ORB_AND_AMMO_NAME: Sistema de Orbes e Muni??o
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_ORB_AND_AMMO_DESCRIPTION: Lee: Hyperreal usa [Orbes] que permitem a execu??o de habilidades ?nicas. Seu [Contador de Muni??o] concede efeitos ?nicos para [Posi??o de Atirador].
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DOMAIN_NAME: Sistema Hypermatrix
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DOMAIN_DESCRIPTION: Lee: Hyperreal tem acesso ? [Hypermatrix] ao segurar o bot?o Prim?rio com o [Medidor de Poder] cheio.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_PRIMARY_NAME: Barragem de Armas
 POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION: Lance um ataque de combo de 5 golpes. No golpe 1 e 3, execute uma [Aparada] ativa por um curto per?odo. No ar, esmague para baixo, causando 400% de dano, aumentando at? 3x baseado na dist?ncia percorrida. Segure o bot?o a qualquer momento com o [Medidor de Poder] cheio para entrar na [Hypermatrix].
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_NAME: Posi??o de Atirador
 POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_DESCRIPTION: Entre na [Posi??o de Atirador], imobilizando voc? no lugar, permitindo usar o Snipe com o Prim?rio para 400% de dano.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_NAME: Sair da Posi??o de Atirador
 POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_DESCRIPTION: Saia da [Posi??o de Atirador], permitindo que voc? se mova novamente.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_SECONDARY_SNIPE_NAME: Snipe
 POPCORN_LEE_HYPERREAL_BODY_SECONDARY_SNIPE_DESCRIPTION: Atire uma bala causando 400% de dano.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_DASH_NAME: Viajante da Realidade
 POPCORN_LEE_HYPERREAL_BODY_DASH_DESCRIPTION: [Esquive], ficando invulner?vel por um curto per?odo.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_NAME: Fim dos Tempos
 POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_DESCRIPTION: Fique invulner?vel, puxando um canh?o que explode inimigos em um amplo raio para 6.500% de dano ap?s uma breve prepara??o.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_DOMAIN_NAME: Reino Colapsante
 POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_DOMAIN_DESCRIPTION: Colapse a [Hypermatrix], ficando invulner?vel por um curto per?odo e causando 1.500% de dano em sua esteira. Cada 3-Ping adiciona 3 acertos de 200% de dano ao [Reino Colapsante]. M?ximo de 12 acertos extras.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_VFX_COLOR_NAME: Cor do VFX
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DEFAULT_VFX_NAME: VFX Padr?o
 POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DEFAULT_VFX_DESCRIPTION: Muda a cor do VFX para o padr?o baseado na escolha de skin.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_ORBS: <style=cKeywordName>Sistema de Orbes</style>\nLee: Hyperreal usa 3 Orbes de cores diferentes para usar habilidades extras. No Modo Simples, ative orbes <style=cIsUtility>Azuis</style>, <style=cIsUtility>Vermelhas</style> e <style=cIsUtility>Amarelas</style> usando as teclas designadas, para usar o primeiro grupo de orbes coloridas da esquerda para a direita. Usar 3 orbes adjacentes da mesma cor, conhecido como <style=cIsUtility>[3-ping]</style>, aumenta o dano da habilidade do orbe em <style=cIsDamage>4x</style>, al?m de conceder ataques extras para Orbes <style=cIsUtility>Vermelhas</style> e <style=cIsUtility>Amarelas</style>.
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_AMMO: <style=cKeywordName>Sistema de Muni??o</style>\nLee: Hyperreal pode armazenar e usar uma variedade de <style=cIsUtility>Muni??o</style>, indicada acima do <style=cIsUtility>[Medidor de Poder]</style>. Usar um <style=cIsUtility>[3-ping]</style> armazenar? uma <style=cIsUtility>[Bala Colorida]</style>, que pode ser usada na <style=cIsUtility>[Hypermatrix]</style> para adicionar 3 Orbes da cor daquela cor de volta ao seu <style=cIsUtility>[Sistema de Orbes]</style> ao usar Snipe durante ela. Em uma <style=cIsUtility>[Aparada]</style> bem-sucedida, <style=cIsUtility>[Balas Refor?adas]</style> s?o concedidas, aumentando o dano do seu pr?ximo disparo na <style=cIsUtility>[Posi??o de Atirador]</style> em <style=cIsDamage>2x</style>.
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_SNIPE_STANCE: <style=cKeywordName>Posi??o de Atirador</style>\nEntre em uma postura que imobiliza voc?, mudando sua Habilidade Prim?ria para um tiro de precis?o que causa <style=cIsDamage>400% de dano</style> por tiro. Usar a Habilidade Utilit?ria sem nenhum input direcional permite que voc? esquive para tr?s enquanto dispara uma bala que causa <style=cIsDamage>400% de dano</style>. Usar esta habilidade de outra forma cancela a postura.
@@ -68,40 +68,40 @@ LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ON_DEATH_2: Outra realidade n?o vai te salva
 LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ON_DEATH_3: Vou esmagar cada c?pia sua.
 POPCORN_LEE_HYPERREAL_BODY_RED_VFX_NAME: VFX Vermelho
 POPCORN_LEE_HYPERREAL_BODY_RED_VFX_DESCRIPTION: Muda a cor do VFX para Vermelho.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_ORANGE_VFX_NAME: VFX Laranja
 POPCORN_LEE_HYPERREAL_BODY_ORANGE_VFX_DESCRIPTION: Muda a cor do VFX para Laranja.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_NAME: VFX Amarelo
 POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_DESCRIPTION: Muda a cor do VFX para Amarelo.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_NAME: VFX Verde
 POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_DESCRIPTION: Muda a cor do VFX para Verde.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_BLUE_VFX_NAME: VFX Azul
 POPCORN_LEE_HYPERREAL_BODY_BLUE_VFX_DESCRIPTION: Muda a cor do VFX para Azul.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_LIGHTBLUE_VFX_NAME: VFX Azul Claro
 POPCORN_LEE_HYPERREAL_BODY_LIGHTBLUE_VFX_DESCRIPTION: Muda a cor do VFX para Azul Claro.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_NAME: VFX Violeta
 POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_DESCRIPTION: Muda a cor do VFX para Violeta.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_NAME: VFX Rosa
 POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_DESCRIPTION: Muda a cor do VFX para Rosa.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_RAINBOW_VFX_NAME: VFX Arco-?ris
 POPCORN_LEE_HYPERREAL_BODY_RAINBOW_VFX_DESCRIPTION: Seleciona aleatoriamente uma cor de VFX.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_TITLE: Efeito Hyper
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_BACKUPMAG_DESC: Lee: Hyperreal ganha +1 (+1 por ac?mulo) bala(s) Refor?ada(s) em cada [Aparada] bem-sucedida.
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ALIEN_HEAD_DESC: Os orbes de Lee: Hyperreal carregam 25% mais r?pido.
@@ -110,36 +110,36 @@ POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ATTACK_SPEED_DESC: O prim?rio de Lee: Hyp
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_LUMINOUS_SHOT_DESC: Os disparos da Posi??o de Atirador de Lee: Hyperreal concedem 1 Ac?mulo por disparo em vez de usar o Secund?rio.
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Lee: Hyperreal: Maestria
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, ven?a o jogo ou se obliterate em Monsoon.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal: Maestria
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME: Lee: Hyperreal: Real
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, ven?a o jogo em Monsoon com Transcendence, ou role 5% de chance de um ba? M?dio ou superior.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME: Lee: Hyperreal: Real
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME: Lee: Hyperreal: Scarlet
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, ven?a o jogo em Monsoon sem itens de rel?gio e sangramento, ou role 5% de chance de um ba? Lend?rio.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME: Lee: Hyperreal: Scarlet
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: VFX Amarelo
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, ven?a o jogo em Monsoon com 5+ itens de Chefe, ou role 2% de chance em qualquer ba?.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: VFX Amarelo
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: VFX Verde
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, ven?a o jogo em Monsoon com 15+ itens de cura, ou role 2% de chance em qualquer ba?.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: VFX Verde
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: VFX Rosa
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, mate o chefe do Teleporter com Fim dos Tempos na for?a m?xima, ou role 2% de chance em qualquer ba?.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: VFX Rosa
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: VFX Violeta
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: Como Lee: Hyperreal, ven?a o jogo no Eclipse 8, ou role 1% de chance de um ba? Lend?rio.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
+Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: VFX Violeta
