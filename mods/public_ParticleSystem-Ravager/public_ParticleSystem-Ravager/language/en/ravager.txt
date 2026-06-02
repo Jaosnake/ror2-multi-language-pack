@@ -1,4 +1,4 @@
-﻿{
+{
 	strings: {
  	 "ROB_RAVAGER_BODY_NAME": "Ravager",
  	 "ROB_RAVAGER_BODY_DESCRIPTION": "The Ravager is an agile melee bruiser who heals off slain foes to stay in the fray.<color=#CCD3E0>\n\n< ! > Charging wall jumps is the best way to deal with flying enemies.\n\n< ! > Cleave is handy for cancelling high damage attacks as well as keeping up the damage output.\n\n< ! > Coagulate can be helpful in a pinch if you're not sure you can get the Blood Well filled, but it can also be used passively to stay topped off.\n\n< ! > Brutalize heals on demand so be sure to grab and consume something if you're getting low.",

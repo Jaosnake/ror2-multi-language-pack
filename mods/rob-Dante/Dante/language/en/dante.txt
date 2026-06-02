@@ -1,4 +1,4 @@
-﻿{
+{
 	strings: {
  	 "ROB_DANTE_BODY_NAME": "<color=#B70027>Dante</color>",
  	 "ROB_NERO_BODY_NAME": "<color=#2150AF>Nero</color>",

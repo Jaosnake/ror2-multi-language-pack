@@ -1,4 +1,4 @@
-﻿{
+{
     strings:
     {
     "ITEM_BARRIERONCRIT_NAME" : "Bismuth Earrings",
