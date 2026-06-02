@@ -1,46 +1,80 @@
-# Starstorm 2 — Multi-Language Pack
+# Starstorm 2 Language Pack
 
-> Este pacote faz parte do [ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack).
+Multi-language translation pack for **TeamMoonstorm-Starstorm2**.
 
-Tradução do mod **Starstorm 2** (TeamMoonstorm) para vários idiomas.
+Part of: [Jaosnake/ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack)
 
-> **Nota sobre IA**: A tradução **PT-BR** foi feita 100% manualmente. As demais traduções (UA, KO, FR, RU, zh-CN, es-419, TR) utilizaram assistência de IA para geração inicial, com revisão humana.
+> **AI disclosure**: PT-BR was translated manually/reviewed by Jaosnake. Other languages used AI assistance for initial generation and were human-reviewed.
 
-## Idiomas disponíveis
+## Install With r2modman
 
-| Idioma | Status | Arquivos |
-|--------|--------|----------|
-| 🇧🇷 **PT-BR** (Português Brasil) | ✅ Completo (100%) | 47/47 |
-| 🇺🇦 **UA** (Українська) | ✅ Completo (100%) | 47/47 |
-| 🇰🇷 **KO** (한국어) | ✅ Completo (100%) | 47/47 |
-| 🇫🇷 **FR** (Français) | ✅ Completo (100%) | 47/47 |
-| 🇷🇺 **RU** (Русский) | ✅ Completo (100%) | 47/47 |
-| 🇨🇳 **zh-CN** (中文简化字) | ✅ Completo (100%) | 47/47 |
-| 🇪🇸 **es-419** (Español Latinoamérica) | ✅ Completo (100%) | 47/47 |
-| 🇹🇷 **TR** (Türkçe) | ✅ Completo (100%) | 47/47 |
+When this package is available on Thunderstore:
 
-> **⚠️ Performance note**: Because the game now loads additional translation files, you may notice a **slightly longer initial loading time** when starting the game. This is normal — the game is processing the additional language data.
+1. Install **TeamMoonstorm-Starstorm2**.
+2. Install this language pack.
+3. Start the game.
+4. Select your language in the Risk of Rain 2 language menu.
 
-## Instalação
+## Manual Install
 
-1. Tenha o **Starstorm 2** original instalado via r2modman / Thunderstore
-2. Instale este pacote pelo Thunderstore (r2modman ou manualmente)
-3. Selecione o idioma desejado nas configurações do jogo (Settings → Language)
+1. Download this repository as ZIP from GitHub.
+2. Open the extracted `Starstorm2/` folder.
+3. Copy the whole `Starstorm2/` folder into:
 
-Os arquivos de tradução são carregados automaticamente pelo sistema de idiomas do jogo.
+```text
+BepInEx/plugins/
+```
 
-## Compatibilidade
+For r2modman, the default profile path is usually:
 
-- Requer: **TeamMoonstorm-Starstorm2-0.6.38** ou superior
-- Requer: **R2API_Language** (já incluído como dependência do Starstorm 2)
+```text
+C:\Users\<your-user>\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins
+```
 
-## Créditos
+## Languages
 
-- **Starstorm 2 original**: [TeamMoonstorm](https://github.com/TeamMoonstorm/Starstorm2) — código e assets originais (GPL-3.0)
-- **Tradução PT-BR**: Jaosnake (tradução manual, 100% feita à mão)
-- **Traduções demais idiomas (UA, KO, FR, RU, zh-CN, es-419, TR)**: Jaosnake com assistência de IA
-- **Fork e modificações**: Este repositório adiciona exclusivamente arquivos de tradução. Nenhum código-fonte do Starstorm 2 foi alterado.
+| Language | Folder | Notes |
+|---|---|---|
+| English | `Language/en/` | Base/reference |
+| Portuguese Brazil | `Language/pt-BR/` | Manual/human-reviewed |
+| French | `Language/FR/` | Human-reviewed AI-assisted |
+| Russian | `Language/RU/` | Human-reviewed AI-assisted |
+| Ukrainian | `Language/UA/` | Custom/non-native game language |
+| Korean | `Language/ko/` | Human-reviewed AI-assisted |
+| Turkish | `Language/tr/` | Human-reviewed AI-assisted |
+| Simplified Chinese | `Language/zh-CN/` | Human-reviewed AI-assisted |
+| Latin American Spanish | `Language/es-419/` | Human-reviewed AI-assisted |
 
-## Licença
+Each language folder contains 47 JSON files.
 
-Distribuído sob **GNU General Public License v3.0** (GPL-3.0), em conformidade com o licenciamento do Starstorm 2 original.
+## Important Notes
+
+- Achievements and unlocks are intentionally kept in English.
+- Ukrainian (`UA`) is not exposed by the vanilla Risk of Rain 2 language selector. It requires a locale/menu enabler or a compatible custom language setup.
+- Loading may take slightly longer because the game reads extra language files.
+
+## Compatibility
+
+- Requires `TeamMoonstorm-Starstorm2-0.6.38` or newer.
+- Uses the original Starstorm 2 language folder loading system.
+
+## Package Contents
+
+```text
+manifest.json
+README.md
+icon.png
+Language/
+```
+
+For Thunderstore upload, zip the contents of this folder, not the parent repository.
+
+## Credits
+
+- Original mod: TeamMoonstorm
+- Translation and packaging: Jaosnake
+- This package contains translation files only. It does not modify Starstorm 2 source code.
+
+## License
+
+GPL-3.0, matching the original Starstorm 2 licensing context.

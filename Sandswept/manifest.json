@@ -3,7 +3,7 @@
     "author": "Jaosnake",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description": "Multi-language translation pack (PT-BR/RU/DE/ES/FR/IT/PL/JA/KO/zh-CN/zh-TW/TR) for Sandswept by SandsweptTeam. Translation by Jaosnake. [AI Generated]",
+    "description": "Multi-language translation pack for SandsweptTeam-Sandswept: pt-BR, RU, de, es-ES, fr, it, pl, ja, ko, zh-CN, zh-TW, tr, ua. Achievements stay in English. Translation by Jaosnake. [AI Generated, Human Reviewed]",
     "dependencies": [
         "SandsweptTeam-Sandswept-1.4.4"
     ]
