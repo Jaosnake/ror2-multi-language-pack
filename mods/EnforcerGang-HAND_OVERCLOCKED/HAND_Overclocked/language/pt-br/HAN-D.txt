@@ -1,11 +1,11 @@
-{
+﻿{
 	strings:
 	{
 	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
 	"MOFFEIN_HAND_BODY_SUBTITLE" : "Zelador N?o Remunerado",
 	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D ? um robusto rob? zelador, seus poderosos ataques corpo a corpo com certeza v?o deixar uma bagun?a! <style=cSub>\r\n\r\n< ! > FERIR tem seu empurr?o aumentado contra inimigos no ar. Use RECONSTRU??O_FOR?ADA para levantar inimigos nos ares, e ent?o use FERIR para fazer eles voarem!\r\n\r\n< ! > ALTA_FREQU?NCIA dura enquanto conseguir atingir inimigos.\r\n\r\n< ! > Cancelar ALTA_FREQU?NCIA permite voc? se lan?ar nos ares e alcan?ar inimigos voadores.\r\n\r\n< ! > Use DRONES para se curar e continuar na luta.\r\n\r\n
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+Mod original por EnforcerGang",
 	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--AUTOTRANSCRI??O DO DEPARTAMENTO DE BASE DA UES [CONFIDENCIAL]--//</style>\r\n\r\n<i>*ativa <color=#327FFF>T?nico de Espin?lia</color>*</i>\n\nT? jogando sem a grande idiotice do artefato de <color=#6955A6>Comando</color>?\n\nEu n?o consigo pensar ou entender nada mais idiota do que jogar sem esse artefato. Honestamente, pensa comigo. Voc? est? atirando, correndo, pulando por 60 minutos para pegar unicamente uma droga de uma <color=#77FF16>P?lipo Calamar</color>. Todo seu trabalho ?rduo - desviando dos lasers do <style=cIsHealth>Golem de Pedra</style>, se frustrando com seis mil <style=cIsHealth>Esp?ritos Inferiores</color> aparecendo em cima de voc?, ativando todos os <color=#E5C962>Templos da Montanha</color> para um simples fim: seu invent?rio lotado de <color=#FFFFFF>Estandartes de Guerra</color> e <color=#FFFFFF>Presas de Monstro</color> pagos com seu dinheiro.\n\nEm uma partida perfeita? ?timo. Um monte de lixo que n?o adiciona em nada na sua partida acaba aparecendo em todo <color=#E5C962>Ba?</color> que voc? compra. Eles tem o benef?cio do seu dinheiro suado, vindo de uma chacina de <style=cIsHealth>Lemurianos</style>.\n\nComo um homem que joga esse jogo, voc? est? <style=cIsHealth>LITERALMENTE</style> dedicando duas horas da sua vida abrindo caixas e rezando para n?o vir nenhuma outra <color=#77FF16>Bugiganga Temporal</color>. ? o ultimato ?pice do idiota submisso. Use o c?rebro.\r\n<style=cMono>\r\nTranscri??es conclu?das.\r\n</style>\r\n \r\n\r\n",
 	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, nova vida pulsando no sistema.",
 	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, sem nenhuma recompensa por seus esfor?os.",
@@ -45,29 +45,29 @@ Mod original por EnforcerGang. Traduzido por: Jaosnake",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Faz-tudo",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repare o rob? zelador no Ponto de encontro Delta com uma Matriz de Combust?vel da C?psula de Fuga.
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+Mod original por EnforcerGang",
 	
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Arrebenta",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Mantenha ALTA_FREQU?NCIA ativo por 45 segundos.
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+Mod original por EnforcerGang",
 	
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Achate o chefe final.
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+Mod original por EnforcerGang",
 	
 	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Dom?nio",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "Como HAN-D, ven?a o jogo ou aniquile em Mon??o.
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+Mod original por EnforcerGang",
 
 	"MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME" : "RE-TRN",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Grande Dom?nio",
 	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "Como HAN-D, ven?a o jogo ou aniquile em Tuf?o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf?o ou superior)</color>
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+Mod original por EnforcerGang",
 	
 	"MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME" : "HO-POO",
 	}
