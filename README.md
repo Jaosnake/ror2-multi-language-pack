@@ -4,28 +4,28 @@ Translation packs for several **Risk of Rain 2** mods, organized for GitHub, man
 
 > **AI disclosure**: some translations were created with AI assistance and then reviewed/edited by Jaosnake. For **Starstorm 2** and **Sandswept**, the **PT-BR** translations were reviewed line by line and manually edited by Jaosnake. Original credits remain preserved. This disclosure is kept here and in package READMEs for Thunderstore clarity.
 
-## Choose Your Language
+## Choose Your Language / Escolha seu Idioma
 
-[Português Brasil](#português-brasil) |
-[English](#english) |
-[Українська](#українська) |
-[Français](#français) |
-[Русский](#русский) |
-[Español](#español) |
-[Deutsch](#deutsch) |
-[Italiano](#italiano) |
-[Polski](#polski) |
-[한국어](#한국어) |
-[日本語](#日本語) |
-[中文简体](#中文简体) |
-[中文繁體](#中文繁體) |
-[Türkçe](#türkçe)
+[🇧🇷 Português Brasil](#-português-brasil) |
+[🇺🇸 English](#-english) |
+[🇺🇦 Українська](#-українська) |
+[🇫🇷 Français](#-français) |
+[🇷🇺 Русский](#-русский) |
+[🇪🇸 Español](#-español) |
+[🇩🇪 Deutsch](#-deutsch) |
+[🇮🇹 Italiano](#-italiano) |
+[🇵🇱 Polski](#-polski) |
+[🇰🇷 한국어](#-한국어) |
+[🇯🇵 日本語](#-日本語) |
+[🇨🇳 中文简体](#-中文简体) |
+[🇹🇼 中文繁體](#-中文繁體) |
+[🇹🇷 Türkçe](#-türkçe)
 
-## Download By Language
+## 🌐 Download By Language
 
 Each section below tells you which language code to look for. You still install the same way: download this repository, copy the folder for the mod you want, and keep the folder structure intact.
 
-### Português Brasil
+### 🇧🇷 Português Brasil
 
 Use language code `pt-BR`.
 
@@ -44,7 +44,7 @@ Sandswept/Translations/pt-BR-Sandswept.language
 mods/<mod>/.../pt-BR/
 ```
 
-### English
+### 🇺🇸 English
 
 Use language code `en`.
 
@@ -61,7 +61,7 @@ Sandswept/Translations/En-Sandswept.language
 mods/<mod>/.../en/
 ```
 
-### Українська
+### 🇺🇦 Українська
 
 Use language code `UA` for folder-based packs and `ua` inside Sandswept's `.language` file.
 
@@ -89,7 +89,7 @@ mods/<mod>/.../UA/
 
 More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
-### Français
+### 🇫🇷 Français
 
 Use language code `FR` for folder-based packs. Sandswept uses key `fr`.
 
@@ -106,7 +106,7 @@ Sandswept/Translations/Fr-Sandswept.language
 mods/<mod>/.../FR/
 ```
 
-### Русский
+### 🇷🇺 Русский
 
 Use language code `RU`.
 
@@ -123,7 +123,7 @@ Sandswept/Translations/Ru-Sandswept.language
 mods/<mod>/.../RU/
 ```
 
-### Español
+### 🇪🇸 Español
 
 Use `es-419` for Latin American Spanish where available. Sandswept currently uses `es-ES`.
 
@@ -141,7 +141,7 @@ mods/<mod>/.../es-419/
 mods/<mod>/.../es-ES/
 ```
 
-### Deutsch
+### 🇩🇪 Deutsch
 
 Use language code `de`.
 
@@ -157,7 +157,7 @@ Sandswept/Translations/De-Sandswept.language
 mods/<mod>/.../de/
 ```
 
-### Italiano
+### 🇮🇹 Italiano
 
 Use language code `IT` for folder-based packs. Sandswept uses key `it`.
 
@@ -173,7 +173,7 @@ Sandswept/Translations/It-Sandswept.language
 mods/<mod>/.../IT/
 ```
 
-### Polski
+### 🇵🇱 Polski
 
 Use language code `pl`.
 
@@ -188,7 +188,7 @@ Common file:
 Sandswept/Translations/Pl-Sandswept.language
 ```
 
-### 한국어
+### 🇰🇷 한국어
 
 Use language code `ko`.
 
@@ -205,7 +205,7 @@ Sandswept/Translations/Ko-Sandswept.language
 mods/<mod>/.../ko/
 ```
 
-### 日本語
+### 🇯🇵 日本語
 
 Use language code `ja`.
 
@@ -221,7 +221,7 @@ Sandswept/Translations/Ja-Sandswept.language
 mods/<mod>/.../ja/
 ```
 
-### 中文简体
+### 🇨🇳 中文简体
 
 Use language code `zh-CN`.
 
@@ -238,7 +238,7 @@ Sandswept/Translations/Zh-CN-Sandswept.language
 mods/<mod>/.../zh-CN/
 ```
 
-### 中文繁體
+### 🇹🇼 中文繁體
 
 Use language code `zh-TW`.
 
@@ -253,7 +253,7 @@ Common file:
 Sandswept/Translations/Zh-TW-Sandswept.language
 ```
 
-### Türkçe
+### 🇹🇷 Türkçe
 
 Use language code `tr`.
 
@@ -270,7 +270,7 @@ Sandswept/Translations/Tr-Sandswept.language
 mods/<mod>/.../tr/
 ```
 
-## Quick Download
+## 📦 Quick Download
 
 For most players:
 
@@ -287,7 +287,7 @@ Default r2modman path on Windows:
 C:\Users\<your-user>\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins
 ```
 
-## What To Copy
+## 📁 What To Copy
 
 Keep each folder structure intact. Do not copy only one random file unless the package README says it is safe.
 
@@ -350,7 +350,7 @@ mods/rob-HUNK/
 
 Copy the whole chosen folder into `BepInEx/plugins/`.
 
-## Supported Language IDs
+## 🗣️ Supported Language IDs
 
 The repo uses the language identifiers expected by Risk of Rain 2, R2API.Language, or the original mod loader.
 
@@ -374,7 +374,7 @@ Important:
 
 More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
-## Available Packages
+## ✅ Available Packages
 
 | Package | Original mod | Folder | Notes |
 |---|---|---|---|
@@ -382,7 +382,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` | Standalone Thunderstore-ready package |
 | Additional mod translations | Multiple mods | `mods/` | One folder per mod |
 
-## Mods In `mods/`
+## 🧩 Mods In `mods/`
 
 These folders are meant to be copied as-is into `BepInEx/plugins/`:
 
@@ -420,7 +420,7 @@ tsuyoikenko-Cadet
 tsuyoikenko-Interrogator
 ```
 
-## For GitHub Users
+## 🛠️ For GitHub Users
 
 Clone the repo:
 
@@ -438,7 +438,7 @@ zip -r ../Starstorm2_LanguagePack.zip .
 
 The ZIP root must contain `manifest.json`, `README.md`, `icon.png`, and the translation files/folders.
 
-## For Manual Install Users
+## 🧑‍💻 For Manual Install Users
 
 If you do not use r2modman:
 
@@ -455,7 +455,7 @@ Risk of Rain 2/BepInEx/plugins/
 
 R2API.Language automatically loads `.language` files anywhere under `BepInEx/plugins/`. Some original mods also load `Language/<locale>/*.txt` or `Language/<locale>/*.json` folders directly.
 
-## Repository Layout
+## 🗂️ Repository Layout
 
 ```text
 ror2-multi-language-pack/
@@ -475,7 +475,7 @@ ror2-multi-language-pack/
    └─ <one folder per translated mod>
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Pull requests are welcome.
 
@@ -487,7 +487,7 @@ Rules for translation changes:
 - Use the same language folder/key style already used by that mod.
 - Do not remove the original mod credits.
 
-## Credits
+## 🙏 Credits
 
 Translations and packaging: **Jaosnake**
 
@@ -497,6 +497,6 @@ Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Fr
 
 Community translation credits preserved from the original files include Kauzok, Donitodorito, StyleMyk, Meteorite1014, Lecarde/lecarde, punch, Bagre, WockyTheWolf/JunJun_w, FyreBW/Fyrebw, Damglador, CaffeinePain, Juhnter, Lonerdev, JunJun_W, Hexxedude, tymmey, Dice, Nikto0o, Rody/FallenTroop,锅巴, and PlNK.
 
-## License
+## 📜 License
 
 GPL-3.0. See [LICENSE.txt](LICENSE.txt).
