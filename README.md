@@ -9,7 +9,7 @@ A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers 
 | Mod | Translation status | Thunderstore package |
 |-----|-------------------|----------------------|
 | **Starstorm 2** | ✅ Complete – 8 languages | `Starstorm2/` (ready to zip) |
-| **Sandswept** | 🟡 In progress | `Sandswept/` (placeholder) |
+| **Sandswept** | ✅ Complete – 13 languages | `Sandswept/` (ready to zip) |
 
 ---
 
@@ -37,8 +37,13 @@ ror2-multi-language-pack/
 │   ├─ icon.png
 │   ├─ README.md           # Package‑specific readme
 │   └─ Language/           # 8 language folders, 47 JSON files each
-└─ Sandswept/              # Placeholder for future packs
-    └─ README.md
+├─ Sandswept/              # Thunderstore package for Sandswept
+│   ├─ manifest.json
+│   ├─ icon.png
+│   ├─ README.md           # Package‑specific readme
+│   └─ Translations/       # 13 .language files (all locales)
+└─ docs/
+    └─ traducaobr.md       # Translation reference guide
 ```
 Each subfolder is a **stand‑alone Thunderstore package** – simply zip its contents (manifest, icon, README, Language folder) and upload.
 
