@@ -4,6 +4,8 @@
 
 Tradução do mod **Starstorm 2** (TeamMoonstorm) para vários idiomas.
 
+> **Nota sobre IA**: A tradução **PT-BR** foi feita 100% manualmente. As demais traduções (UA, KO, FR, RU, zh-CN, es-419, TR) utilizaram assistência de IA para geração inicial, com revisão humana.
+
 ## Idiomas disponíveis
 
 | Idioma | Status | Arquivos |
@@ -33,7 +35,8 @@ Os arquivos de tradução são carregados automaticamente pelo sistema de idioma
 ## Créditos
 
 - **Starstorm 2 original**: [TeamMoonstorm](https://github.com/TeamMoonstorm/Starstorm2) — código e assets originais (GPL-3.0)
-- **Traduções**: Jaosnake
+- **Tradução PT-BR**: Jaosnake (tradução manual, 100% feita à mão)
+- **Traduções demais idiomas (UA, KO, FR, RU, zh-CN, es-419, TR)**: Jaosnake com assistência de IA
 - **Fork e modificações**: Este repositório adiciona exclusivamente arquivos de tradução. Nenhum código-fonte do Starstorm 2 foi alterado.
 
 ## Licença
