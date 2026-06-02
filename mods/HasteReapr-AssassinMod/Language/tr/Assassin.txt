@@ -44,11 +44,11 @@
     "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_DESCRIPTION" : "<style=cIsUtility>增加自己和自身所有能力，持续5秒</style>。",
     "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME" : "致命穿刺",
     "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION" : "刺伤敌人，造成<style=cIsDamage>750%的伤害</style>。<style=cIsUtility>从背后刺伤普通敌人时</style>，<style=cIsHealth>将立即杀死目标</style>。从背后刺伤BOSS时，有<style=cIsUtility>2%的机率</style><style=cIsHealth>立即杀死目标</style>。否则，对其造成<style=cIsDamage>目标20%生命值的伤害</style>。",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME" : "刺客：精英",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION" : "作为刺客，在季风或更高难度下通关游戏或抹除自己。",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME" : "刺客：大师",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION" : "作为刺客，在台风或更高难度下通关游戏或抹除自己。",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME" : "刺客：死士",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION" : "作为刺客，对单个敌人施加10层刺客毒药。",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME" : "Assassin: Mastery",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION" : "As Assassin, beat the game or obliterate on Monsoon or higher.",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME" : "Assassin: Grand Mastery",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION" : "As Assassin, beat the game or obliterate on Typhoon or higher.",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME" : "Assassin: Deathly Concoction",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION" : "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy.",
     }
 }

@@ -7,56 +7,40 @@
         "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..e assim eles desapareceram, perdidos para sempre na natureza selvagem e indiferente.",
         "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Padrão",
         "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Headhunter",
-
         "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Falcoeiro",
         "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "Você é acompanhado pelo seu falcão robô, Squall. Squall herda <style=cIsDamage>a maioria</style> de seus itens e é imune a dano, mas funciona com uma <style=cIsUtility>bateria</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_PRIMARY_THRUST_NAME": "Investida",
         "BOG_PATHFINDER_BODY_PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Perfurante</style>. Empurre sua lança para frente para <style=cIsDamage>250% de dano</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_SECONDARY_DASH_NAME": "Pé Leve",
         "BOG_PATHFINDER_BODY_SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Deslize</style> uma curta distância. Na próxima vez que usar sua habilidade primária, arremesse uma <style=cIsDamage>lança explosiva</style> para <style=cIsDamage>800% de dano</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_SECONDARY_JAVELIN_NAME": "Lança Explosiva",
         "BOG_PATHFINDER_BODY_SECONDARY_JAVELIN_DESCRIPTION": "Arremesse uma <style=cIsDamage>lança explosiva</style> para <style=cIsDamage>800% de dano</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_UTILITY_SPIN_NAME": "Garras Dilacerantes",
         "BOG_PATHFINDER_BODY_UTILITY_SPIN_DESCRIPTION": "Eleve-se no ar, girando rapidamente para <style=cIsDamage>300% de dano</style>. Ao aterrissar, execute um golpe horizontal para <style=cIsDamage>800% de dano</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_UTILITY_BOLAS_NAME": "Bolas de Choque",
         "BOG_PATHFINDER_BODY_UTILITY_BOLAS_DESCRIPTION": "Arremesse boleadeiras eletricamente carregadas, que <style=cIsUtility>chocam</style> inimigos próximos e deixam um campo <style=cIsUtility>eletrocutante</style> por <style=cIsUtility>10 segundos</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_SPECIAL_COMMAND_NAME": "Emitir Comando",
         "BOG_PATHFINDER_BODY_SPECIAL_COMMAND2_NAME": "Emitir Comando - Sobrescrita de Utilidade",
         "BOG_PATHFINDER_BODY_SPECIAL_COMMAND_DESCRIPTION": "Prepare um comando para Squall. Você pode emitir um comando de <color=#FF0000>Ataque</color>, <color=#00FF00>Seguir</color> ou <color=#efeb1c>Especial</color> pressionando as teclas de habilidade Primária, Secundária ou Especial, respectivamente.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_SPECIAL_ATTACK_NAME": "Comando de Ataque",
         "BOG_PATHFINDER_BODY_SPECIAL_ATTACK_DESCRIPTION": "Direcione a atenção de Squall para o inimigo alvo e ative o <color=#FF0000>Modo de Ataque</color>, concedendo acesso a metralhadoras que causam <style=cIsDamage>2x30% de dano</style> e um lançador de mísseis que causa <style=cIsDamage>150% de dano</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_SPECIAL_FOLLOW_NAME": "Comando de Seguir",
         "BOG_PATHFINDER_BODY_SPECIAL_FOLLOW_DESCRIPTION": "Traga Squall de volta para perto de você e ative o <color=#00FF00>Modo Seguir</color>, fazendo com que ele fique próximo a você.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_PATHFINDER_BODY_SPECIAL_CANCEL_NAME": "Cancelar Modo de Comando",
         "BOG_PATHFINDER_BODY_SPECIAL_CANCEL_DESCRIPTION": "Cancela o Modo de Comando.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_SQUALL_BODY_NAME": "Squall",
         "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Padrão",
         "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Maestria",
-
         "BOG_SQUALL_PRIMARY_GUNS_NAME": "Metralhadoras",
         "BOG_SQUALL_PRIMARY_GUNS_DESCRIPTION": "Dispare suas torretas para <style=cIsDamage>2x30% de dano</style>.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_SQUALL_SECONDARY_MISSILE_NAME": "Lançador de Mísseis",
         "BOG_SQUALL_SECONDARY_MISSILE_DESCRIPTION": "Dispere uma saraivada de 4 mísseis para <style=cIsDamage>150% de dano</style> cada.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_SQUALL_UTILITY_DONOTHING_NAME": "Não Fazer Nada",
         "BOG_SQUALL_UTILITY_DONOTHING_DESCRIPTION": "Esta habilidade não faz nada.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
         "BOG_SQUALL_SPECIAL_GOFORTHROAT_NAME": "Vá para a Garganta!",
         "BOG_SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordene Squall a atacar repetidamente o inimigo alvo para <style=cIsDamage>70% de dano</style>. Cada ataque reduz brevemente a <style=cIsDamage>armadura</style> e <style=cIsUtility>regenera 1%</style> de bateria, dobrado em Acertos Críticos. Esta habilidade pode brevemente <style=cIsUtility>sobrecarregar</style> a bateria.\n\nMod original por Bog. Traduzido por: Jaosnake",
-
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Maestria",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Pathfinder, vença o jogo ou oblitere na Monção.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Maestria"
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
     }
 }

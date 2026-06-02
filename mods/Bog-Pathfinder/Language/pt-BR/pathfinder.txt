@@ -55,6 +55,6 @@ SQUALL_SPECIAL_GOFORTHROAT_NAME: Vá para a Garganta!
 SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Ordene Squall a atacar repetidamente o inimigo alvo para <style=cIsDamage>70% de dano</style>. Cada ataque reduz brevemente a <style=cIsDamage>armadura</style> e <style=cIsUtility>regenera 1%</style> de bateria, dobrado em Acertos Críticos. Esta habilidade pode brevemente <style=cIsUtility>sobrecarregar</style> a bateria.
 Mod original por Bog. Traduzido por: Jaosnake
 Mod original por Bog. Traduzido por: Jaosnake
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Maestria
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: Como Pathfinder, vença o jogo ou oblitere na Monção.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Maestria
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery

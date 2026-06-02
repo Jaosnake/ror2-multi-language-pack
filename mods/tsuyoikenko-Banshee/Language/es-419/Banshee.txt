@@ -25,7 +25,7 @@
     "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "Lanza una granada que crea un agujero negro inestable. Después de <style=cIsUtility>2</style> segundos, el agujero negro colapsa infligiendo <style=cIsDamage>700% de daño</style>.",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Lanza 3 granadas que crean agujeros negros inestables.</style>. Después de <style=cIsUtility>5</style> segundos, los agujeros negros colapsan infligiendo <style=cIsDamage>700% de daño</style>.",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "¡Soy Mary Poppins, Carajo!",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Completa un nivel sin tocar el suelo más de una vez.",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "I'm Mary Poppins Bitch!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete a stage without touching the ground more than once.",
     }
 }

@@ -25,7 +25,7 @@
     "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "不安定なブラックホールを作り出すグレネードを投げる。<style=cIsUtility>2</style>秒後、ブラックホールが崩壊し<style=cIsDamage>700%ダメージ</style>。",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "カラミタス",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "不安定なブラックホールを作るグレネードを3つ投げる。</style>。<style=cIsUtility>5</style>秒後、ブラックホールが崩壊し<style=cIsDamage>700%ダメージ</style>。",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "俺はメリー・ポピンズだ、この野郎！",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "地面に2回以上触れずにステージをクリアする。",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "I'm Mary Poppins Bitch!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete a stage without touching the ground more than once.",
     }
 }

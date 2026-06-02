@@ -25,7 +25,7 @@
     "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "Lancia una granata che crea un buco nero instabile. Dopo <style=cIsUtility>2</style> secondi, il buco nero collassa infliggendo <style=cIsDamage>700% danni</style>.",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
     "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Lancia 3 granate che creano buchi neri instabili.</style>. Dopo <style=cIsUtility>5</style> secondi, i buchi neri collassano infliggendo <style=cIsDamage>700% danni</style>.",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "Sono Mary Poppins, Cazzo!",
-    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Completa uno stage senza toccare terra più di una volta.",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "I'm Mary Poppins Bitch!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Complete a stage without touching the ground more than once.",
     }
 }

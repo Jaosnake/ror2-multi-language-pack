@@ -17,9 +17,9 @@
         "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>引爆</style>目标食尸鬼造成<style=cIsDamage>700%伤害</style>并<style=cIsHealing>恢复最大生命值的15%</style>。",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "墓碑",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "竖立一块墓碑，每<style=cIsUtility>10秒</style>生成一个食尸鬼。每当食尸鬼被击杀，墓碑会产生一个<style=cIsDamage>复仇之魂</style><style=cIsUtility>爆炸</style>，射向附近敌人造成<style=cIsDamage>350%伤害</style>。",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "殡仪师：精通",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "使用殡仪师，在季风难度下通关或在方尖碑处湮灭。",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "殡仪师：精通",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery",
         "BOG_GHOUL_BODY_NAME": "食尸鬼",
         "BOG_TOMBSTONE_BODY_NAME": "墓碑"
     }
