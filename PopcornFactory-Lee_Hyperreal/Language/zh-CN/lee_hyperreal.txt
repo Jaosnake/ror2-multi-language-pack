@@ -1,0 +1,91 @@
+POPCORN_LEE_HYPERREAL_BODY_NAME: Lee: Hyperreal
+POPCORN_LEE_HYPERREAL_BODY_SUBTITLE: 模拟完成...指挥官，我们会赢得这场战斗。
+POPCORN_LEE_HYPERREAL_BODY_DESCRIPTION: Lee: Hyperreal 是一名技术型地面角色，玩法难以精通。他完全专注于伤害，以牺牲自身生存能力为代价。 <i>Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_LORE: "测试进行得顺利吗？"\n\n昂贵皮鞋的清脆脚步声在药水般无菌的房间里回响得太响。\n\n"是的，先生。您刚才感觉到了吗？"\n\n扫过消毒地板的深沉能量嗡鸣声在鞋子——那双昂贵的和那双破旧的——上振动。\n\n"那是武器测试，先生。便携式武器。"\n\n这让脚步犹豫了一下。"便携式？"\n\n"是的，先生。自从您上次来访以来，它已经进化了很多。"\n\n"嗯。好吧，如果试验品是另一个残次品，武器也没什么意义。快到了吗？"\n\n"是的，先生，这边走。"\n\n那双破旧的鞋子，沾满了化学品和被故障烧焦的痕迹，向前迈步，颤抖的手伸向他当天拿到的一张卡片。他们知道他会紧张不安，但这满足了客人的虚荣心，意味着更愉快的访问。\n\n轻轻一刷，一个刚刚获得授权的视网膜扫描，他们便进入了一个两人都从未见过的房间。\n\n"那是个它？还是他？"\n\n记在脑子里的信息图文字充满了他的脑海。"两者都是，先生。生物合成完美地工作了，不像之前的测试。这是一个完美的结合。"\n\n"我明白了。所以它是有机物？"\n\n"它是机械的，但没错。而且这并不容易，先生。就像用自然选择培育方形西瓜一样。"\n\n"是的，是的，我明白了。资金在我回来后转账。"\n\n"谢谢您，先生。"\n\n昂贵的鞋子转身要离开，但被一个突如其来的念头拦住了。"我说，你测试过了吧？"\n\n紧张的吞咽，一个意想不到的问题。"嗯？哦，呃，没有，我想我们没测试过。"\n\n"嗯。好吧，处理好这个，否则我将不得不认为这是一个风险。你不想重蹈上次的覆辙吧？"\n\n苦涩的话语让破旧的鞋子犹豫了，一张门禁卡在酸烧伤的手中颤抖。"不，韦德先生。我们不想。我们会把现场测试录像发送到您的决定中。"\n\n"好的，我相信你。"\n\n当昂贵的脚步声消失后，颤抖的手放在了冰冷的机壳上。"来吧，小家伙。只是一个测试。"\n\n一道闪光，一股能量的嗡鸣，人类最新的助手睁开了眼睛。
+POPCORN_LEE_HYPERREAL_BODY_OUTRO_FLAVOR: ..然后他离开了，仍然没有接近他真实的现实。
+POPCORN_LEE_HYPERREAL_BODY_OUTRO_FAILURE: ..然后他消失了，任务未完成。
+POPCORN_LEE_HYPERREAL_BODY_SURVIVOR_POD_EXIT: 穿越维度
+POPCORN_LEE_HYPERREAL_BODY_DEFAULT_SKIN_NAME: Lee: Hyperreal
+POPCORN_LEE_HYPERREAL_BODY_ALT_SKIN_NAME: Lee: Real
+POPCORN_LEE_HYPERREAL_BODY_SCARLET_SKIN_NAME: Lee: Scarlet Redeemer
+POPCORN_LEE_HYPERREAL_BODY_PROSPECTOR_SKIN_NAME: Prospector
+POPCORN_LEE_HYPERREAL_BODY_PROSPECTOR_ALT_SKIN_NAME: 同志
+POPCORN_LEE_HYPERREAL_BODY_YI_SKIN_NAME: Yi
+POPCORN_LEE_HYPERREAL_BODY_BK_SKIN_NAME: Boykisser
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_ORB_AND_AMMO_NAME: 宝珠与弹药系统
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_ORB_AND_AMMO_DESCRIPTION: Lee: Hyperreal 使用[宝珠]来执行独特技能。他的[弹药计数器]为[狙击姿态]提供独特效果。
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DOMAIN_NAME: Hypermatrix 系统
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DOMAIN_DESCRIPTION: Lee: Hyperreal 在[能量槽]满时按住主要攻击按钮可进入[Hypermatrix]。
+POPCORN_LEE_HYPERREAL_BODY_PRIMARY_NAME: 武器弹幕
+POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION: 发动5连击组合攻击。在第1和3击时，执行一次[招架]，短时间内有效。在空中时，向下猛击造成400%伤害，根据移动距离最多提升至3倍。在[能量槽]满时随时按住按钮进入[Hypermatrix]。
+POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_NAME: 狙击姿态
+POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_DESCRIPTION: 进入[狙击姿态]，固定你的位置，允许使用主要攻击进行狙击，造成400%伤害。
+POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_NAME: 退出狙击姿态
+POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_DESCRIPTION: 退出[狙击姿态]，允许你再次移动。
+POPCORN_LEE_HYPERREAL_BODY_SECONDARY_SNIPE_NAME: 狙击
+POPCORN_LEE_HYPERREAL_BODY_SECONDARY_SNIPE_DESCRIPTION: 发射一颗子弹，造成400%伤害。
+POPCORN_LEE_HYPERREAL_BODY_DASH_NAME: 现实旅行者
+POPCORN_LEE_HYPERREAL_BODY_DASH_DESCRIPTION: [闪避]，短时间内变为无敌。
+POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_NAME: 时间尽头
+POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_DESCRIPTION: 变为无敌，拉出一门大炮，在短暂蓄力后在大范围内爆炸敌人，造成6,500%伤害。
+POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_DOMAIN_NAME: 崩坏领域
+POPCORN_LEE_HYPERREAL_BODY_ULTIMATE_DOMAIN_DESCRIPTION: 坍缩[Hypermatrix]，短时间内变为无敌并在你的路径上造成1,500%伤害。每个3-Ping为[崩坏领域]增加3次200%伤害的攻击。最多12次额外攻击。
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_VFX_COLOR_NAME: VFX颜色
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DEFAULT_VFX_NAME: 默认VFX
+POPCORN_LEE_HYPERREAL_BODY_PASSIVE_DEFAULT_VFX_DESCRIPTION: 根据皮肤选择将VFX颜色更改为默认。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_ORBS: <style=cKeywordName>宝珠系统</style>\nLee: Hyperreal 使用3种不同颜色的宝珠来使用额外技能。在简单模式下，使用指定按键激活<style=cIsUtility>蓝色</style>、<style=cIsUtility>红色</style>和<style=cIsUtility>黄色</style>宝珠，从左到右使用第一组彩色宝珠。使用3个相同颜色的相邻宝珠（称为<style=cIsUtility>[3-ping]</style>），可将宝珠技能伤害提高<style=cIsDamage>4倍</style>，此外还为<style=cIsUtility>红色</style>和<style=cIsUtility>黄色</style>宝珠提供额外攻击。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_AMMO: <style=cKeywordName>弹药系统</style>\nLee: Hyperreal 可以存储和使用多种<style=cIsUtility>弹药</style>，显示在<style=cIsUtility>[能量槽]</style>上方。使用<style=cIsUtility>[3-ping]</style>将存储一颗<style=cIsUtility>[彩色子弹]</style>，可在<style=cIsUtility>[Hypermatrix]</style>中使用，在使用狙击时将该颜色的3个宝珠添加回你的<style=cIsUtility>[宝珠系统]</style>。成功<style=cIsUtility>[招架]</style>后，获得<style=cIsUtility>[强化子弹]</style>，使你下一次在<style=cIsUtility>[狙击姿态]</style>中的射击伤害提高<style=cIsDamage>2倍</style>。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_SNIPE_STANCE: <style=cKeywordName>狙击姿态</style>\n进入一种固定你的姿势，将你的主要技能改为精准射击，每次射击造成<style=cIsDamage>400%伤害</style>。在没有方向输入时使用实用技能可让你向后闪避，同时发射一颗造成<style=cIsDamage>400%伤害</style>的子弹。以其他方式使用此技能将取消该姿势。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_POWER_GAUGE: <style=cKeywordName>能量槽</style>\n位于生命值上方的能量槽决定你何时可以进入<style=cIsUtility>[Hypermatrix]</style>，以及退出前还剩多少时间。按住主要技能进入<style=cIsUtility>[Hypermatrix]</style>。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_PARRY: <style=cKeywordName>招架</style>\n成功招架时，如果造成伤害的敌人可以被击晕则将其击晕。任何被招架的射弹将按你瞄准的方向弹回。成功招架会重置<style=cIsUtility>[武器弹幕]</style>，从用于招架的招式重新开始。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_DOMAIN: <style=cKeywordName>Hypermatrix 系统</styles>\n在你的生命值上方是<style=cIsUtility>[Hypermatrix 系统槽]</style>。当能量槽满时，在<style=cIsUtility>[武器弹幕]</style>中随时按住主要技能将把你传送到<style=cIsUtility>[Hypermatrix]</style>。在此状态下，<style=cIsUtility>红色</style>和<style=cIsUtility>黄色</style>宝珠完全改变，你的特殊技能变为<style=cIsUtility>[崩坏领域]</style>。如果能量槽在此状态下耗尽，<style=cIsUtility>[崩坏领域]</style>将自动激活，退出<style=cIsUtility>[Hypermatrix]</style>。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_DOMAIN_ULT: <style=cKeywordName>崩坏领域</style>\n坍缩<style=cIsUtility>[Hypermatrix]</style>，短时间内变为无敌并在你的路径上造成<style=cIsDamage>1,500%伤害</style>。每次在 hypermatrix 中使用<style=cIsUtility>[3-ping]</style>时，增加3次<style=cIsDamage>200%伤害</style>的攻击。最多4次，共12次额外攻击。
+LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ENTRY: 你怎么来到这里的？
+LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ON_DEATH_1: 在你自己的维度里祈祷吧。
+LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ON_DEATH_2: 另一个现实救不了你。
+LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ON_DEATH_3: 我会粉碎你的每一个复制品。
+POPCORN_LEE_HYPERREAL_BODY_RED_VFX_NAME: 红色VFX
+POPCORN_LEE_HYPERREAL_BODY_RED_VFX_DESCRIPTION: 将VFX颜色更改为红色。
+POPCORN_LEE_HYPERREAL_BODY_ORANGE_VFX_NAME: 橙色VFX
+POPCORN_LEE_HYPERREAL_BODY_ORANGE_VFX_DESCRIPTION: 将VFX颜色更改为橙色。
+POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_NAME: 黄色VFX
+POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_DESCRIPTION: 将VFX颜色更改为黄色。
+POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_NAME: 绿色VFX
+POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_DESCRIPTION: 将VFX颜色更改为绿色。
+POPCORN_LEE_HYPERREAL_BODY_BLUE_VFX_NAME: 蓝色VFX
+POPCORN_LEE_HYPERREAL_BODY_BLUE_VFX_DESCRIPTION: 将VFX颜色更改为蓝色。
+POPCORN_LEE_HYPERREAL_BODY_LIGHTBLUE_VFX_NAME: 浅蓝色VFX
+POPCORN_LEE_HYPERREAL_BODY_LIGHTBLUE_VFX_DESCRIPTION: 将VFX颜色更改为浅蓝色。
+POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_NAME: 紫色VFX
+POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_DESCRIPTION: 将VFX颜色更改为紫色。
+POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_NAME: 粉色VFX
+POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_DESCRIPTION: 将VFX颜色更改为粉色。
+POPCORN_LEE_HYPERREAL_BODY_RAINBOW_VFX_NAME: 彩虹VFX
+POPCORN_LEE_HYPERREAL_BODY_RAINBOW_VFX_DESCRIPTION: 随机选择一种VFX颜色。
+POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_TITLE: Hyper 效果
+POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_BACKUPMAG_DESC: Lee: Hyperreal 每次成功[招架]获得 +1（每叠加+1）颗强化子弹。
+POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ALIEN_HEAD_DESC: Lee: Hyperreal 的宝珠充能速度提高25%。
+POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_PURITY_DESC: Lee: Hyperreal 的宝珠充能速度减少2（每叠加+1）秒。
+POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ATTACK_SPEED_DESC: Lee: Hyperreal 的主要攻击获得更多攻击次数而非攻击速度。例如：250%攻击速度 = 2次攻击加一次半伤攻击。
+POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_LUMINOUS_SHOT_DESC: Lee: Hyperreal 的狙击姿态射击每次射击获得1层叠加，而非使用次要攻击。
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Lee: Hyperreal：精通
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下通关游戏或自我湮灭。
+POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal：精通
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME: Lee: Hyperreal：真实
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下使用超越通关，或从中级及以上宝箱中获得5%概率。
+POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME: Lee: Hyperreal：真实
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME: Lee: Hyperreal：猩红
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下不使用时钟物品和流血通关，或从传说宝箱中获得5%概率。
+POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME: Lee: Hyperreal：猩红
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：黄色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下携带5+个首领物品通关，或从任何宝箱中获得2%概率。
+POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：黄色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：绿色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下携带15+个治疗物品通关，或从任何宝箱中获得2%概率。
+POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：绿色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：粉色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在最大力量下使用时间尽头击杀传送门首领，或从任何宝箱中获得2%概率。
+POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：粉色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：紫色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在日食8难度下通关游戏，或从传说宝箱中获得1%概率。
+POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：紫色VFX

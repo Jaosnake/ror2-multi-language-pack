@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "Custode",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Macchine Perfette per Pulire",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...e così se ne andarono, un lavoro ben fatto",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...e così svanirono, lasciando un caos peggiore di prima",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "Il Custode è un maestro della guerra delle pulizie che manipola la gravità dei nemici a suo vantaggio.<color=#CCD3E0>\n\n< ! > Combina Grav-Scopa per sollevare i nemici sempre più in alto.\n\n< ! > Colpisci i nemici con Via la Spazzatura dopo averli sollevati con Grav-Scopa e MAID per danni enormi!\n\n< ! > Usa il doppio salto di Flusso per combo aeree, o l'armatura per uscire dai guai.\n\n< ! > Usa MAID per sollevare i nemici e riposizionarti per continuare le combo.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "Non posso fermarmi ora. Non posso fermarmi ora. Ogni passo che faccio è un passo che non posso annullare. Costi quel che costi, lo troverò.\n\nÈ tutto un ritmo, solo un ritmo. Ogni volta che esco dalla linea è una punizione. Obbedirò al ritmo. Niente può fermarmi ora.\n\nOgni cicatrice ne vale la pena. Lo sento, mi sto avvicinando. Lo avrò, e sarà mio.\n\nNon importa quanto sangue, ne vale la pena. Troverò ciò che voglio, e tornerò a casa.\n\nNon importa quanti ne massacri, sarà mio... Non può nascondersi da me per sempre.\n\nÈ qui, lo sento. Questa cassa di sicurezza, ce l'ha. La apro e lo trovo.\n\nÈ... finalmente mio. Lo stringo tra le mani ferite. Sono davvero passati anni?\n\nLe piacerà, lo so.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Senza Peso</style><style=cSub><style=cIsUtility>Rimuove la gravità</style> dal bersaglio e <style=cIsUtility>Rallenta il movimento e la velocità d'attacco</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Schianto</style><style=cSub>Costringe un nemico a cadere, causando un'<style=cIsDamage>onda d'urto</style> all'impatto col terreno, infliggendo <style=cIsDamage>200% danni</style> + <style=cIsDamage>30% danni</style> per metro caduto.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Flusso</style><style=cSub>Ottieni <style=cIsDamage>30 armatura</style> + <style=cIsDamage>5 armatura</style> per ogni accumulo di <style=cIsUtility>Ritmo</style>.\nOttieni un <style=cIsUtility>Doppio Salto</style>.\nOttieni <style=cIsUtility>+30% Riduzione Ricarica.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Walkman",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "Ai colpi, ottieni un accumulo di <style=cIsUtility>Ritmo</style>, che garantisce <style=cIsUtility>20% velocità di movimento</style> per accumulo. Diminuisce fuori dal combattimento.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Grav-Scopa",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Agile</style>. Oscilla la scopa per <style=cIsDamage>100% danni</style>. Ogni terzo colpo infligge <style=cIsDamage>200% danni</style> e applica <style=cIsUtility>senza peso</style>.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Via la Spazzatura",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Usa un verricello</s> Vola magicamente verso un nemico, colpendolo per <style=cIsDamage>300%</style> danni e <style=cIsDamage>schiantandolo</style>.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Flusso",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "Attiva <style=cIsDamage>Flusso</style> per <style=cIsUtility>4 secondi</style> + <style=cIsUtility>0,4 secondi</style> per accumulo di <style=cIsUtility>Ritmo</style>, ottenendo <style=cIsDamage>armatura, doppio salto e riduzione ricarica</style>. Durante <style=cIsDamage>Flusso</style>, non puoi perdere o guadagnare <style=cIsUtility>Ritmo</style>. Alla fine di <style=cIsDamage>Flusso</style>, perdi tutti gli accumuli di <style=cIsUtility>Ritmo</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Invia la tua unità <style=cIsUtility>MAID</style> tra i nemici per <style=cIsDamage>300% danni</style>, poi si ferma brevemente e torna da te. Riattiva per essere attirato verso <style=cIsUtility>MAID</style> ed esplodere per <style=cIsDamage>500% danni</style>, applicando <style=cIsUtility>Senza Peso</style>.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Classico",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Custode: Maestria",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Come Custode, completa il gioco o oblitera a Monsone.",
+    }
+}

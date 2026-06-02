@@ -1,0 +1,44 @@
+{
+	strings:
+	{
+	"MINER_NAME" : "Miner",
+	"MINER_DESCRIPTION" : "Minerは、パッシブのスタックを構築するために長いキルコンボを優先する、高速で機動性の高い近接サバイバーです。<color=#CCD3E0>\n\n< ! > アドレナリンのスタックを十分に溜めたら、GougeとCrushが最高のダメージ源になります。\n\n< ! > Drill Chargeのチャージはダメージ量にのみ影響します。地面や敵に向かって放ち、集中ダメージを与えましょう。\n\n< ! > Backblastはタップで短距離移動、長押しでより遠くへ移動できます。\n\n< ! > To The Starsは大きな敵に高いダメージを与えられます。",
+	"MINER_SUBTITLE" : "破壊的ドラッグ中毒者",
+	"MINER_LORE" : "\n貨物船の残骸の冷たい鋼材と凍える夜の空気の中、オーディオジャーナルの薄暗い青い光が目に留まる。ジャーナルは貨物の残骸の中で完全に壊れかけているにもかかわらず、機能し続けている。デバイスの筐体にあるアナログボタンはゆっくりと点滅し、歪んだエントリーを聞くように誘っているかのようだ...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - 記 録     1 - - / /</color>\n''最初の記録。日付は、ええと... 55年5月1日。上層部が採掘作業から引き揚げることにした。何ヶ月もの採掘の後、何ヶ月もの血と汗<color=#8990A7>-///////-</color>この作戦に費やされた数百万の後で、ただ諦めるだと？ふざけ<color=#8990A7>-//-</color>。''\n\n<color=#8990A7>/ / - - 記 録     5 - - / /</color>\n''<color=#8990A7>-////////-</color>小惑星の中心部。こんなものは見たことがない。まるで<color=#8990A7>-////////-</color>フラクタル... 内部は万華鏡のようだ。これは間違いなく価値が<color=#8990A7>-/////-</color>そして上層部は俺たちをすぐに撤退させたいだと。まあ、奴らはくたばれ<color=#8990A7>-////-</color>。今夜、残りを掘り出しに行く... これを売りさばければ、次の1000回分の給料なんて比較にならない。こんな機会をずっと待っていたんだ。''\n\n<color=#8990A7>/ / - - 記 録     7 - - / /</color>\n''奴らは全部知ってると思う。今は人々を尋問している。アーティファクトは<color=#8990A7>-//////-</color>の換気口に隠した、安全なはずだ。UE<color=#8990A7>-////-</color>って貨物船が数ヶ月以内にドッキングする。耐え忍んで密航するだけだ。''\n\n<color=#8990A7>/ / - - 記 録     15 - - / /</color>\n''奴らは俺を探している。見つかるのも時間の問題だ。まるで<color=#8990A7>-//////-</color>ネズミのように船の壁に隠れている。貨物船は予定より遅れている。全てをこれに捧げた。<i>全てを</i>これに捧げたんだ。''\n\n<color=#8990A7>/ / - - 記 録     20 - - / /</color>\n''見つかった。手遅れだ。貨物船が離陸しようとしている、俺は外にいる。アーティファクトは俺の手にある、今にも手放しそうで、全てが痛い... もし誰かがこれを見つけたら、言っておく。彼らは俺から全てを奪おうとした。鉱山も、発見も、人生も... でもこれは俺のものだ。俺の遺産だ。''",
+	"MINER_OUTRO_FLAVOR" : "..そして彼は去った、アドレナリンがまだ血管を駆け巡る中。",
+	
+	"MINER_PASSIVE_NAME" : "ゴールドラッシュ",
+	"MINER_PASSIVE_DESCRIPTION" : "ゴールドを獲得すると<style=cIsHealth>アドレナリン</style>を得て、<style=cIsDamage>攻撃速度</style>、<style=cIsUtility>移動速度</style>、<style=cIsHealing>体力回復</style>が増加します。",
+	"KEYWORD_CLEAVING" : "<style=cKeywordName>斬り裂き</style><style=cSub>スタックごとに<style=cIsDamage>装甲</style>を<style=cIsHealth>3</style>低下させるスタック型デバフを適用します。</style>",
+	
+	"MINER_PRIMARY_GOUGE_NAME" : "Gouge",
+	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>俊敏。</style>近くの敵を乱暴に切りつけて<style=cIsDamage>270%ダメージ</style>を与え、<style=cIsHealth>装甲を斬り裂きます</style>。",
+	
+	"MINER_PRIMARY_CRUSH_NAME" : "Crush",
+	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>俊敏。</style>近くの敵を<style=cIsDamage>360%ダメージ</style>で粉砕します。<style=cIsUtility>攻撃速度に応じて範囲が増加します</style>。",
+	
+	"MINER_SECONDARY_CHARGE_NAME" : "ドリルチャージ",
+	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "チャージして敵に突進し、最大<style=cIsDamage>6x180%ダメージ</style>を与えます。<style=cIsUtility>効果時間中は被弾しません。</style>",
+	
+	"MINER_SECONDARY_BREAK_NAME" : "クラックハンマー",
+	"MINER_SECONDARY_BREAK_DESCRIPTION" : "前方にダッシュし、敵に接触すると爆発して<style=cIsDamage>2x240%ダメージ</style>を与えます。<style=cIsUtility>効果時間中は被弾しません。</style>",
+	
+	"MINER_UTILITY_BACKBLAST_NAME" : "Backblast",
+	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>スタン。</style>後方に爆発し、近くの敵に<style=cIsDamage>600%ダメージ</style>を与えます。長押しでより遠くへ移動。<style=cIsUtility>効果時間中は被弾しません。</style>",
+	
+	"MINER_UTILITY_CAVEIN_NAME" : "洞窟崩落",
+	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>スタン。</style>後方に爆発し、広範囲の敵を<style=cIsUtility>引き寄せます</style>。<style=cIsUtility>効果時間中は被弾しません。</style>",
+	
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "星へ",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "空中にジャンプし、真下の敵に<style=cIsDamage>6x300%ダメージ</style>を与えます。",
+	
+	"MINER_SPECIAL_TOTHESTARS_NAME" : "流星群",
+	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "空中にジャンプし、下方に榴散弾を散布して<style=cIsDamage>15x160%ダメージ</style>を与えます。",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "落下彗星",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "空中にジャンプし、下方に榴散弾を散布して<style=cIsDamage>15x160%ダメージ</style>を与え、その後落下して衝撃で大爆発を起こし<style=cIsDamage>1500%ダメージ</style>を与え、敵を<style=cIsDamage>発火</style>させます。",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "スターバウンド",
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>スタン。</style>空中にジャンプし、真下の敵に合計<style=cIsDamage>10x300%ダメージ</style>を与えます。"
+	}
+}

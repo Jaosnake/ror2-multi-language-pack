@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "Hausmeister",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Schlanke, Gemeine, Reinigungsmaschinen",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...und so gingen sie, gute Arbeit geleistet",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...und so verschwanden sie und hinterließen ein größeres Chaos als zu Beginn",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "Der Hausmeister ist ein Meister der Reinigungskriegsführung, der die Schwerkraft seiner Feinde zu seinem Vorteil manipuliert.<color=#CCD3E0>\n\n< ! > Kombiniere Grav-Besen, um Feinde immer höher zu heben.\n\n< ! > Spieße Feinde mit Müll Raus, nachdem sie mit Grav-Besen und MAID in die Luft gehoben wurden, für massiven Schaden!\n\n< ! > Nutze den Doppelsprung von Fluss für Luftkombos oder die Rüstung, um aus brenzligen Situationen zu entkommen.\n\n< ! > Nutze MAID, um Feinde anzuheben und dich neu zu positionieren für weitere Kombos.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "Kann jetzt nicht aufhören. Kann jetzt nicht aufhören. Jeder Schritt, den ich mache, ist ein Schritt, den ich nicht rückgängig machen kann. Komme was wolle, ich werde es finden.\n\nEs ist alles ein Rhythmus, nur ein Rhythmus. Jedes Mal, wenn ich aus der Reihe tanze, ist eine Strafe. Ich werde dem Groove gehorchen. Nichts kann mich jetzt aufhalten.\n\nJede Narbe ist es wert. Ich spüre es, ich komme näher. Ich werde es haben, und es wird mein sein.\n\nEgal wie viel Blut, es ist es wert. Ich werde finden, was ich will, und ich werde nach Hause kommen.\n\nEgal wie viele ich abschlachte, es wird mein sein... Es kann sich nicht ewig vor mir verstecken.\n\nEs ist hier, ich spüre es. Diese Sicherheitstruhe, sie enthält es. Ich breche sie auf und finde es.\n\nEs ist... endlich mein. Ich halte es in meinen zerschundenen Händen. Sind wirklich Jahre vergangen?\n\nSie wird es lieben, ich weiß es.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Schwerelos</style><style=cSub><style=cIsUtility>Entfernt die Schwerkraft</style> vom Ziel und <style=cIsUtility>verlangsamt Bewegung und Angriffsgeschwindigkeit</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Aufspießen</style><style=cSub>Zwingt einen Feind zu fallen und verursacht eine <style=cIsDamage>Schockwelle</style> beim Aufprall auf das Gelände, die <style=cIsDamage>200% Schaden</style> + <style=cIsDamage>30% Schaden</style> pro gefallenem Meter verursacht.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Fluss</style><style=cSub>Erhalte <style=cIsDamage>30 Rüstung</style> + <style=cIsDamage>5 Rüstung</style> für jeden Stapel <style=cIsUtility>Groove</style>.\nErhalte einen <style=cIsUtility>Doppelsprung</style>.\nErhalte <style=cIsUtility>+30% Abklingzeitreduzierung.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Walkman",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "Bei Treffern erhältst du einen Stapel <style=cIsUtility>Groove</style>, der <style=cIsUtility>20% Bewegungsgeschwindigkeit</style> pro Stapel gewährt. Nimmt außerhalb des Kampfes ab.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Grav-Besen",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Agil</style>. Schwinge deinen Besen für <style=cIsDamage>100% Schaden</style>. Jeder dritte Treffer verursacht <style=cIsDamage>200% Schaden</style> und wendet <style=cIsUtility>schwerelos</style> an.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Müll Raus",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Setze eine Winde ein</s> Fliege magisch zu einem Feind, triff ihn für <style=cIsDamage>300%</style> Schaden und <style=cIsDamage>spieße</style> ihn auf.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Fluss",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "Aktiviere <style=cIsDamage>Fluss</style> für <style=cIsUtility>4 Sekunden</style> + <style=cIsUtility>0,4 Sekunden</style> pro Stapel <style=cIsUtility>Groove</style> und erhalte <style=cIsDamage>Rüstung, Doppelsprung und Abklingzeitreduzierung</style>. Während <style=cIsDamage>Fluss</style> kannst du keinen <style=cIsUtility>Groove</style> verlieren oder gewinnen. Nach Ende von <style=cIsDamage>Fluss</style> verlierst du alle Stapel <style=cIsUtility>Groove</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Sende deine <style=cIsUtility>MAID</style>-Einheit durch Feinde für <style=cIsDamage>300% Schaden</style>, dann hält sie kurz an und kehrt zu dir zurück. Erneut aktivieren, um zur <style=cIsUtility>MAID</style> gezogen zu werden und für <style=cIsDamage>500% Schaden</style> zu explodieren, wobei <style=cIsUtility>Schwerelos</style> angewendet wird.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Klassisch",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Hausmeister: Meisterschaft",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Schließe das Spiel als Hausmeister ab oder obliteriere auf Monsun.",
+    }
+}

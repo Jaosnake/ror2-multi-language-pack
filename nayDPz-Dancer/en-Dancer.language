@@ -1,0 +1,22 @@
+{
+    "en": {
+        "NDP_DANCER_BODY_NAME": "Dancer",
+        "NDP_DANCER_BODY_SUBTITLE": "Mortal Dance",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Default",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Golden",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Restrictive Tape",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Enemies with tape bleed for 50% damage per second and cannot act.\n\n<i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Slash",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Melee attack with effects based on your aim. (Hover for details)\n\n<i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Cut",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Melee attack with effects based on your aim. (Hover for details)\n\n<i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Pull",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Pull enemies towards you.\n\n<i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Binding Tape",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Apply tape to an enemy, preventing them from acting and causing bleeding.\n\n<i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "KEYWORD_DANCER_JAB": "\u003cstyle=cKeywordName\u003eJab\u003c/style\u003e\u003cstyle=cSub\u003eGround input, aim forward. Lunge forward and deal \u003cstyle=cIsDamage\u003e180% damage\u003c/style\u003e.",
+        "KEYWORD_DANCER_DOWNTILT": "\u003cstyle=cKeywordName\u003eDown Tilt\u003c/style\u003e\u003cstyle=cSub\u003eGround input, aim down. Launch enemies upward and deal \u003cstyle=cIsDamage\u003e200% damage\u003c/style\u003e.",
+        "KEYWORD_DANCER_FORWARDAIR": "\u003cstyle=cKeywordName\u003eForward Air\u003c/style\u003e\u003cstyle=cSub\u003eAir input, aim forward. Heavy strike dealing \u003cstyle=cIsDamage\u003e180% damage\u003c/style\u003e and pins enemies to the ground, stunning and dealing up to \u003cstyle=cIsDamage\u003e300% damage\u003c/style\u003e.",
+        "KEYWORD_DANCER_RIBBON": "\u003cstyle=cKeywordName\u003eTape\u003c/style\u003e\u003cstyle=cSub\u003eTaped enemies bleed for \u003cstyle=cIsDamage\u003e50% damage per second\u003c/style\u003e and cannot act."
+    }
+}

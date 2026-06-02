@@ -1,0 +1,12 @@
+KENKO_INTERROGATOR_NAME: Интеррогатор
+KENKO_INTERROGATOR_SUBTITLE: Специалист по Мучениям
+KENKO_INTERROGATOR_PASSIVE_NAME: Мучение
+KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: Интеррогатор может бить и быть битым союзниками и врагами. Атакующие, попавшие по Интеррогатору, навсегда отмечаются как Виновные. Наносите на 50 базового урона больше за каждого Виновного врага.
+KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Взмахните дубинкой перед собой, нанося 320% урона. Промах заставляет вас получить 90% урона вместо этого.
+KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Бросьте тесак, наносящий 450% урона. Если тесак убивает цель, накладывает Кровоизлияние и Давление на всех в области.
+KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Рывок вперёд, наносящий 390% урона и накладывающий Виновный на поражённые цели.
+KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Осудить
+KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Отметьте Виновного врага и сражайтесь с ним 10с. За этот период весь внешний урон игнорируется, включая ваш собственный. Ваша основная атака больше не попадает по вам, но непрерывно накапливает бонус урона Виновного.
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Осудить (Скипетр)
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Отметьте Виновного врага и сражайтесь с ним 14с. За этот период весь внешний урон игнорируется. Ваша основная атака больше не попадает по вам, но накапливает бонус урона Виновного с двойной эффективностью.
+MASTERY_SKIN_NAME: Интеррогатор: Специалист

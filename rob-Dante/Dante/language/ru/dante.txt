@@ -1,0 +1,125 @@
+{
+	strings: {
+ 	 "ROB_DANTE_BODY_NAME": "<color=#B70027>Данте</color>",
+ 	 "ROB_NERO_BODY_NAME": "<color=#2150AF>Неро</color>",
+ 	 "ROB_VERGIL_BODY_NAME": "<color=#32D2FF>Вергилий</color>",
+ 	 "ROB_DANTE_BODY_DESCRIPTION": "<color=#B70027>Данте</color> — легендарный охотник на демонов, сражающийся парой пистолетов и мечом.<color=#CCD3E0>\n\n< ! > Ebony & Ivory — надёжный, стабильный источник урона.\n\n< ! > Каждое Оружие Дьявола имеет уникальный набор приёмов, экспериментируйте с направленными вводами для максимальной эффективности.\n\n< ! > Используйте Трюк для отмены действий и уклонения от ударов.\n\n< ! > Devil Trigger делает всякое и разное.",
+ 	 "ROB_DANTE_BODY_SUBTITLE": "Легендарный Охотник на Демонов",
+ 	 "ROB_DANTE_BODY_LORE": "Знаешь, надо бы лучше проверять заказы, прежде чем браться.\n\nЗаходит парень в лавку, говорит о монстрах, которых нужно убить. Весь такой чопорный и правильный, наверное, военный. Дробовик вместо левой руки. Видимо, серьёзный.\n\nБросает мешок денег и билет на корабль на стол. Этого мне хватит, чтобы шиковать месяцами!\n\nНо надо держаться круто, не соглашаться сразу.\n\n'Долгосрочная работа означает долгосрочную оплату.'\n\n'Полагаю, это изменит ваше мнение.'\n\nНа стол падает фото. Мужчина заперт в... стекле? Не могу разглядеть его лица, но этот кулон я узнаю где угодно.\n\nЭтот парень сделал домашнюю работу. Похоже, придётся сесть на этот корабль.\n\n'По рукам.'\n\nТеперь я пересекаю планету, убирая мусор.\n\nНедели поисков, убийств, выживания.\n\nНо я должен найти <color=#32D2FF>его</color>.\n\nРабота есть работа, верно?\n\n<color=#B70027>Погнали.</color>",
+ 	 "ROB_DANTE_BODY_OUTRO_FLAVOR": "..и так он ушёл.",
+ 	 "ROB_DANTE_BODY_OUTRO_FAILURE": "..и так он исчез.",
+
+ 	 "ROB_DANTE_BODY_DEFAULT_SKIN_NAME": "<color=#B70027>Стандартный</color>",
+ 	 "ROB_DANTE_BODY_MASTERY_SKIN_NAME": "<color=#B70027>Классический</color>",
+ 	 "ROB_DANTE_BODY_TYPHOON_SKIN_NAME": "<color=#B70027>хз</color>",
+ 	 "ROB_DANTE_BODY_PRESTIGE_SKIN_NAME": "<color=#B70027>Престиж</color>"
+ 	 "ROB_DANTE_BODY_DMC2_SKIN_NAME": "<color=#B70027>Ветеран</color>",
+ 	 "ROB_DANTE_BODY_DMC_SKIN_NAME": "<color=#B70027>Эль Донте</color>",
+ 	 "ROB_DANTE_BODY_SUPER_SKIN_NAME": "<color=#B70027>Супер</color>",
+ 	 "ROB_DANTE_BODY_VERGIL_SKIN_NAME": "<color=#32D2FF>Вергилий</color>",
+ 	 "ROB_DANTE_BODY_VERGILEX_SKIN_NAME": "<color=#32D2FF>Вергилий EX</color>",
+ 	 "ROB_DANTE_BODY_MINECRAFT_SKIN_NAME": "<color=#B70027>Майнкрафт</color>",
+
+     "ROB_DANTE_BODY_PASSIVE_NAME": "<color=#B70027>Сын Спарды</color>",
+     "ROB_DANTE_BODY_PASSIVE_DESCRIPTION": "<color=#B70027>Данте</color> имеет доступ к нескольким <style=cIsDamage>уникальным способностям</style>. <style=cIsUtility>Наведите для информации.</style>",
+     "ROB_DANTE_BODY_CONFIRM_NAME": "Подтвердить",
+ 	 "ROB_DANTE_BODY_CONFIRM_DESCRIPTION": "Продолжить с текущим навыком.",
+ 	 "ROB_DANTE_BODY_CANCEL_NAME": "Отмена",
+ 	 "ROB_DANTE_BODY_CANCEL_DESCRIPTION": "Отменить текущий навык.",
+
+ 	 "ROB_DANTE_BODY_PRIMARY_NAME": "<color=#B70027>Ebony & Ivory</color>",
+ 	 "ROB_DANTE_BODY_PRIMARY_DESCRIPTION": "Быстро стреляйте на <style=cIsDamage>120% урона</style>. Прекратите стрельбу на <style=cIsUtility>1 секунду</style>, чтобы подготовить <style=cIsDamage>заряженный выстрел</style> на <style=cIsDamage>350% урона</style>.",
+
+ 	 "ROB_NERO_BODY_PRIMARY_NAME": "<color=#2150AF>Blue Rose</color>",
+ 	 "ROB_NERO_BODY_PRIMARY_DESCRIPTION": "Стреляйте дважды на <style=cIsDamage>200% урона</style> и <style=cIsDamage>350% урона</style>. Удерживайте <style=cIsUtility>1 секунду</style> для <style=cIsDamage>заряженного выстрела</style>.",
+
+ 	 "ROB_VERGIL_BODY_PRIMARY_NAME": "<color=#32D2FF>Призрачные Мечи</color>",
+ 	 "ROB_VERGIL_BODY_PRIMARY_DESCRIPTION": "Выстреливайте спектральные мечи на <style=cIsDamage>200% урона</style>.",
+
+ 	 "ROB_DANTE_BODY_MELEE_NAME": "<color=#B70027>Заряжай</color>",
+ 	 "ROB_DANTE_BODY_MELEE_DESCRIPTION": "Приготовьте своё <style=cIsUtility>удерживаемое оружие</style>. <style=cIsDamage>Основная</style> становится <style=cIsDamage>ближними атаками</style>, а вражеские атаки <style=cIsUtility>отражаются</style> при удержании.",
+
+	 "ROB_DANTE_BODY_UTILITY_NAME": "<color=#B70027>Трюк</color>",
+	 "ROB_DANTE_BODY_UTILITY_DESCRIPTION": "<style=cIsUtility>Рывок</style> в направлении, становясь кратко <style=cIsUtility>неуязвимым</style>. <style=cIsUtility>Попадания в ближнем бою мгновенно обновляют этот навык.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_NAME": "<color=#A556FF>Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_DESCRIPTION": "<color=#B70027>Адская Ярость.</color> Активируйте <color=#A556FF>Devil Trigger</color>, расходуя шкалу для получения временной <style=cIsUtility>брони</style>, <style=cIsHealing>регенерации</style> и <style=cIsDamage>урона</style>. <style=cIsUtility>Попадания в ближнем бою заполняют шкалу.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_NAME": "Совершенный Devil Trigger",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_DESCRIPTION": "<color=#B70027>Адская Ярость.</color> Активируйте <color=#A556FF>Devil Trigger</color>, расходуя шкалу для получения временной <style=cIsUtility>брони</style>, <style=cIsHealing>регенерации</style> и <style=cIsDamage>урона</style>. <style=cIsUtility>Попадания в ближнем бою заполняют шкалу.</style>\n<color=#d299ff>СКИПЕТР: Опустошайте врагов призванными мечами, пока активно.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_NAME": "<color=#B70027>Sin Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_DESCRIPTION": "<style=cIsUtility>Удерживайте</style>, чтобы направить шкалу в шкалу <color=#B70027>Sin Devil Trigger</color>. <style=cIsUtility>Удерживайте</style> при заполнении, чтобы высвободить вашу <style=cIsDamage>истинную демоническую форму</style> на короткое время.",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_NAME": "<color=#B70027>Совершенный Sin Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_DESCRIPTION": "<style=cIsUtility>Удерживайте</style>, чтобы направить шкалу в шкалу <color=#B70027>Sin Devil Trigger</color>. <style=cIsUtility>Удерживайте</style> при заполнении, чтобы высвободить вашу <style=cIsDamage>истинную демоническую форму</style> на короткое время.\n<color=#d299ff>СКИПЕТР: Опустошайте врагов призванными мечами, пока активно.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_NAME": "Серебряная Пуля",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_DESCRIPTION": "Выстрелите <style=cIsUtility>серебряной пулей</style> на <style=cIsDamage>800% урона</style>. <style=cIsUtility>Выстрелы в голову</style> наносят <style=cIsDamage>2x урона</style>. Убийства <style=cIsUtility>сбрасывают все ваши перезарядки</style>.",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Золотой Пистолет",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Выстрелите <style=cIsUtility>серебряной пулей</style> на <style=cIsDamage>800% урона</style>. <style=cIsUtility>Выстрелы в голову</style> наносят <style=cIsDamage>2x урона</style>. Убийства <style=cIsUtility>сбрасывают все ваши перезарядки</style>.\n<color=#d299ff>СКИПЕТР: Наносит 9000% урона.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "Священное Пламя",
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Призовите силу <color=#FF0033>Провидения</color>, высвобождая <style=cIsUtility>массивное пламя</style> на <style=cIsDamage>300% урона за тик</style>. Завершается сверхновой на <style=cIsDamage>4000% урона</style>.",
+
+	 "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "Пассивный",
+	 
+	 "ROB_DANTE_DEVILSHRINE_NAME": "Святилище Ночи",
+	 "ROB_DANTE_DEVILSHRINE_DESC": "Мне не платят достаточно, чтобы это писать.",
+	 "ROB_DANTE_DEVILSHRINE_CONTEXT": "Молиться Святилищу Ночи",
+	 
+	 "ROB_DANTE_TREASURECHEST_NAME": "Сундук с Сокровищами",
+	 "ROB_DANTE_TREASURECHEST_DESC": "ПОМОГИИИИИИТЕЕЕЕЕ МНЕЕЕЕЕЕ",
+	 "ROB_DANTE_TREASURECHEST_CONTEXT": "Использовать ключ и открыть",
+	 "ROB_DANTEKEYCOST": "Ключ Скелета",
+	 
+	 "ROB_DANTE_KEYFRAGMENT_NAME": "Фрагмент Ключа",
+	 "ROB_DANTE_KEYFRAGMENT_DESC": "Разломанный кусок ключа. Соберите 3, чтобы собрать целый ключ.",
+	 "ROB_DANTE_KEYFRAGMENT_PICKUP": "Разломанный кусок ключа. Соберите 3, чтобы собрать целый ключ.",
+	 "ROB_DANTE_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_DANTE_KEY_NAME": "Ключ Скелета",
+	 "ROB_DANTE_KEY_DESC": "Используется для открытия <color=#FFFF00>Сундука с Сокровищами</color>. Эти сундуки содержат <color=#FF0033>священную реликвию</color> и появляются на каждом <style=cIsUtility>четвёртом</style> уровне в <style=cIsDamage>фиксированном месте</style>.",
+	 "ROB_DANTE_KEY_PICKUP": "Используется для открытия Сундука с Сокровищами. Светится рядом с сундуком.",
+	 "ROB_DANTE_KEY_LORE": "",
+	 
+	 "ROB_DANTE_REBELLION_NAME": "Rebellion",
+	 "ROB_DANTE_REBELLION_DESC": "мечч",
+	 "ROB_DANTE_REBELLION_PICKUP": "мчч",
+	 "ROB_DANTE_REBELLION_LORE": "",
+	 
+	 "ROB_DANTE_TITAN_NAME": "Titan",
+	 "ROB_DANTE_TITAN_DESC": "1,000,000,000,000,000,000-летний крутышш",
+	 "ROB_DANTE_TITAN_PICKUP": ".",
+	 "ROB_DANTE_TITAN_LORE": "",
+	 
+	 "ROB_DANTE_QUEEN_NAME": "Queen",
+	 "ROB_DANTE_QUEEN_DESC": "Двойные большие щиты, отличные для тяжёлых ударов и контроля толпы.",
+	 "ROB_DANTE_QUEEN_PICKUP": "Тяжёлая пара больших щитов.",
+	 "ROB_DANTE_QUEEN_LORE": "",
+	 
+	 "ROB_DANTE_MITHRIX_NAME": "Mithrix",
+	 "ROB_DANTE_MITHRIX_DESC": "Тот",
+	 "ROB_DANTE_MITHRIX_PICKUP": "",
+	 "ROB_DANTE_MITHRIX_LORE": "",
+	 
+	 "ROB_DANTE_BROTHERSOUL_NAME": "Душа Короля",
+	 "ROB_DANTE_BROTHERSOUL_DESC": "Каждый <style=cIsUtility>щелчок кнута</style> порождает <style=cIsDamage>лунный огненный столб</style>, каждый <style=cIsUtility>взмах меча</style> порождает <style=cIsDamage>лунный осколок</style>, каждый <style=cIsUtility>удар кнутом</style> высвобождает <style=cIsDamage>наземные ударные волны</style> и каждый <style=cIsUtility>рывок</style> генерирует <style=cIsHealing>20% барьера</style>.",
+	 "ROB_DANTE_BROTHERSOUL_PICKUP": "Владеть силой Короля Ничто как своей собственной.",
+	 "ROB_DANTE_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_DANTE_ITEM_EFFECT_TITLE": "Бонусный Эффект",
+	 "ROB_DANTE_ITEM_EFFECT_BACKUPMAG": "Получите способность хранить дополнительные Заряженные Выстрелы.",
+	 "ROB_DANTE_ITEM_EFFECT_BANDOLIER": "Патронные сумки восстанавливают шкалу.",
+	 "ROB_DANTE_ITEM_EFFECT_ALIENHEAD": "Devil Trigger потребляет меньше шкалы.",
+	 "ROB_DANTE_ITEM_EFFECT_BRAINSTALKS": "Devil Trigger не потребляет шкалу, пока активен.",
+	 "ROB_DANTE_ITEM_EFFECT_PURITY": "Увеличивает получаемую шкалу при попадании.",
+	 "ROB_DANTE_ITEM_EFFECT_LYSATECELL": "Увеличивает максимальную шкалу.",
+	 "ROB_DANTE_ITEM_EFFECT_LUMINOUSSHOT": "Заряжается, пока ваше оружие обнажено. Сбрасывается при убирании.",
+
+	 "KEYWORD_HELLBENT": "<style=cKeywordName>Адская Ярость</style><style=cSub><style=cIsUtility>Раз за уровень</style>, падение ниже <style=cIsHealth>25% здоровья</style> заполняет вашу шкалу и даёт бесплатный <color=#A556FF>Devil Trigger</color>.",
+
+	 "KEYWORD_SONOFSPARDA": "<style=cKeywordName>Оружие Дьявола</style><style=cSub>Души определённых боссов превращаются в получаемое оружие при смерти. Нажмите спринт с оружием наготове, чтобы переключаться между ними.\n\n<style=cKeywordName>Скорость</style><style=cSub>Бегите с невероятной скоростью. Не может быть активировано в бою.\n\n<style=cKeywordName>Воздушный Прыжок</style><style=cSub>Двойной прыжок.\n\n<style=cKeywordName>Вражеский Шаг</style><style=cSub>Двойной прыжок от врага."
+	 }
+}

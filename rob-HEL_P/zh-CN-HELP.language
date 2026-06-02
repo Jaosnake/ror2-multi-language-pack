@@ -1,0 +1,21 @@
+{
+    "zh-CN": {
+        "ROB_ULTRON_BODY_NAME": "HEL-P",
+        "ROB_ULTRON_BODY_SUBTITLE": "咖啡滤纸？！",
+        "ROB_ULTRON_BODY_LORE": "'是啊，但为什么是个简单的治疗无人机？'\n\n一堆废料散落在工作台上，只有最基本的整理。两个穿着沾满油污工装裤的男人，挂满工具，监督着这一切。\n\n'紧凑，灵活，而且主板上已经有我需要的所有端口来连接新零件。'\n\n'那是老技术了，老兄。不管你升级多少，都是在抛光一坨屎。'\n\n'等我做完你就知道了。看着学吧。'\n\n'这不可能成功……'\n\n螺栓和电线四处飞舞，更多的模块和组件被粗陋地连接到无人机的系统上。\n\n'瞧！现在咱们打开它，看看它怎么运行！'\n\n无人机的前灯闪烁然后熄灭，技术员迅速用掌根拍了拍它。它活了过来，悬浮在桌子上方的空气中。\n\n'欢迎来到这个世界，HEL-P！你在这里是为了拯救生命和保护我们的船员。'\n\n无人机发出确认的哔哔声。\n\n'运行武器测试。'\n\n无人机哔了一声，一个铰接臂从无人机后面板伸出。三个爪状附肢展开并颤抖着，积聚能量。突然，一束激光从手臂中爆发，在两位技术员身后的白板上炸出一个洞。\n\n'哇！你确定这个功率对那个小东西安全吗？'\n\n'等着，还会更好呢。HEL-P，覆盖命令——命令：补丁！'\n\n无人机哔了一声，将手臂指向两位技术员，发射出两个微型无人机。无人机轻轻落在每个人的肩膀上，发出微弱的绿色光环。\n\n'靠，你是怎么把那个模块装上去的？'\n\n'只要有足够的备件、内存升级和一点技术，你就能让这些老东西做很多事。但这并不……'",
+        "DYNAMIC FLIGHT": "动态飞行",
+        "HEL-P IS ABLE TO <style=cIsUtility>FLY FREELY</style>, BUT IS <style=cIsHealth>EXTREMELY FRAGILE</style>.": "HEL-P 可以<style=cIsUtility>自由飞行</style>，但<style=cIsHealth>极其脆弱</style>。\n\n<i>Translated by: Jaosnake</i>",
+        "ENCEPHALO-RAY": "脑射线",
+        "UNLEASH A BURNING ENERGY BEAM THAT DEALS <style=cIsDamage>350% DAMAGE</style>, ENDING IN AN <style=cIsUtility>EXPLOSION</style> DEALING <style=cIsDamage>500% DAMAGE</style>.": "释放燃烧的能量束，造成<style=cIsDamage>350%伤害</style>，最后以<style=cIsUtility>爆炸</style>结束，造成<style=cIsDamage>500%伤害</style>。\n\n<i>Translated by: Jaosnake</i>",
+        "REPULSOR BLAST": "斥力爆破",
+        "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>220%</style>.": "发射纳米脉冲炮，<style=cIsHealth>伤害敌对战斗员</style>并<style=cIsHealing>治疗友好战斗员</style>，效果为<style=cIsDamage>220%</style>。\n\n<i>Translated by: Jaosnake</i>",
+        "IMPERATIVE: PATCH": "命令：补丁",
+        "TARGET AN <style=cIsUtility>ENTITY</style> TO DEPLOY A <style=cIsUtility>DRONE</style> TO THEM. ENEMIES SUFFER A CHAINING <style=cIsDamage>ELECTRIC SHOCK FOR <style=cIsDamage>100% DAMAGE</style>, WHILE ALLIES <style=cIsHealing>HEAL 25% MAX HEALTH</style>.": "瞄准一个<style=cIsUtility>实体</style>向其部署一个<style=cIsUtility>无人机</style>。敌人遭受连锁<style=cIsDamage>电击</style>，造成<style=cIsDamage>100%伤害</style>，而盟友<style=cIsHealing>治疗25%最大生命值</style>。\n\n<i>Translated by: Jaosnake</i>",
+        "IMPERATIVE: NEUTRALIZE": "命令：中和",
+        "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 2 CHARGES.</style>": "电击敌对战斗员以<style=cIsUtility>震慑</style>他们，造成<style=cIsDamage>30%</style>伤害。<style=cIsUtility>最多2层充能。</style>\n\n<i>Translated by: Jaosnake</i>",
+        "IMPERATIVE: FLEE": "命令：逃离",
+        "DASH, GAINING <style=cIsHealing>25% BARRIER</style>, AND THEN ENTER AN <style=cIsUtility>ACCELERATED</style> STATE FOR THE NEXT <style=cIsDamage>7 SECONDS</style>.": "冲刺，获得<style=cIsHealing>25%屏障</style>，然后在接下来<style=cIsDamage>7秒</style>内进入<style=cIsUtility>加速</style>状态。\n\n<i>Translated by: Jaosnake</i>",
+        "IMPERATIVE: EXTERMINATE": "命令：消灭",
+        "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "发射能量弹幕，<style=cIsHealth>伤害敌对战斗员</style>并<style=cIsHealing>治疗友好战斗员</style>，效果为<style=cIsDamage>5x800%</style>。<style=cIsUtility>最多3层充能。</style>\n\n<i>Translated by: Jaosnake</i>"
+    }
+}

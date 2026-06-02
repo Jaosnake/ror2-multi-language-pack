@@ -1,0 +1,130 @@
+{
+    "pt-BR": {
+    "ROB_DANTE_BODY_NAME": "<color=#B70027>Dante</color>",
+    "ROB_NERO_BODY_NAME": "<color=#2150AF>Nero</color>",
+    "ROB_VERGIL_BODY_NAME": "<color=#32D2FF>Vergil</color>",
+    "ROB_DANTE_BODY_DESCRIPTION": "<color=#B70027>Dante</color> é um lendário caçador de demônios que luta com um par de pistolas e uma espada.<color=#CCD3E0>\n\n< ! > Ebony & Ivory é uma fonte de dano confiável e consistente.\n\n< ! > Cada Devil Arm tem um conjunto de golpes único; experimente inputs direcionais para aproveitá-los ao máximo.\n\n< ! > Use Trick para cancelar ações e desviar de golpes recebidos.\n\n< ! > Devil Trigger faz coisas e tal.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SUBTITLE": "Lendário Caçador de Demônios",
+    "ROB_DANTE_BODY_LORE": "Sabe, eu devia pesquisar melhor meus trabalhos antes de aceitá-los.\n\nUm cara entra na minha loja falando de monstros que precisam ser mortos. Bem sério e formal, provavelmente militar. Uma escopeta no lugar do braço esquerdo. Deve estar falando sério.\n\nEle joga uma bolsa de dinheiro e uma passagem de navio na mesa. Isso vai me deixar numa boa por meses!\n\nMas tenho que manter a calma, bancar o difícil.\n\n'Trabalho longo significa pagamento longo.'\n\n'Acredito que isso vai mudar sua ideia.'\n\nUma foto cai na mesa. Mostra um homem preso em... vidro? Não dá pra ver o rosto dele, mas esse pingente eu reconheceria em qualquer lugar.\n\nEsse cara fez o dever de casa. Acho que vou ter que entrar nesse navio.\n\n'Fechado.'\n\nAgora tenho que cruzar o planeta limpando a sujeira.\n\nSemanas de busca, matança, sobrevivência.\n\nMas preciso encontrar <color=#32D2FF>ele</color>.\n\nTrabalho é trabalho, né?\n\n<color=#B70027>Let's rock.</color>",
+    "ROB_DANTE_BODY_OUTRO_FLAVOR": "..e então ele partiu.",
+    "ROB_DANTE_BODY_OUTRO_FAILURE": "..e então ele desapareceu.",
+    "ROB_DANTE_BODY_DEFAULT_SKIN_NAME": "<color=#B70027>Default</color>",
+    "ROB_DANTE_BODY_MASTERY_SKIN_NAME": "<color=#B70027>Classic</color>",
+    "ROB_DANTE_BODY_TYPHOON_SKIN_NAME": "<color=#B70027>idk</color>",
+    "ROB_DANTE_BODY_PRESTIGE_SKIN_NAME": "<color=#B70027>Prestige</color>",
+    "ROB_DANTE_BODY_DMC2_SKIN_NAME": "<color=#B70027>Veteran</color>",
+    "ROB_DANTE_BODY_DMC_SKIN_NAME": "<color=#B70027>El Donte</color>",
+    "ROB_DANTE_BODY_SUPER_SKIN_NAME": "<color=#B70027>Super</color>",
+    "ROB_DANTE_BODY_VERGIL_SKIN_NAME": "<color=#32D2FF>Vergil</color>",
+    "ROB_DANTE_BODY_VERGILEX_SKIN_NAME": "<color=#32D2FF>Vergil EX</color>",
+    "ROB_DANTE_BODY_MINECRAFT_SKIN_NAME": "<color=#B70027>Minecraft</color>",
+    "ROB_DANTE_BODY_PASSIVE_NAME": "<color=#B70027>Filho de Sparda</color>",
+    "ROB_DANTE_BODY_PASSIVE_DESCRIPTION": "<color=#B70027>Dante</color> tem acesso a diversas <style=cIsDamage>habilidades únicas</style>. <style=cIsUtility>Passe o mouse para mais informações.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_CONFIRM_NAME": "Confirmar",
+    "ROB_DANTE_BODY_CONFIRM_DESCRIPTION": "Prosseguir com a habilidade atual.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_CANCEL_NAME": "Cancelar",
+    "ROB_DANTE_BODY_CANCEL_DESCRIPTION": "Cancelar a habilidade atual.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_PRIMARY_NAME": "<color=#B70027>Ebony & Ivory</color>",
+    "ROB_DANTE_BODY_PRIMARY_DESCRIPTION": "Atire rapidamente causando <style=cIsDamage>120% de dano</style>. Pare de atirar por <style=cIsUtility>1 segundo</style> para preparar um <style=cIsDamage>tiro carregado</style> que causa <style=cIsDamage>350% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_NERO_BODY_PRIMARY_NAME": "<color=#2150AF>Blue Rose</color>",
+    "ROB_NERO_BODY_PRIMARY_DESCRIPTION": "Atire duas vezes, causando <style=cIsDamage>200% de dano</style> e <style=cIsDamage>350% de dano</style>. Segure por <style=cIsUtility>1 segundo</style> para preparar um <style=cIsDamage>tiro carregado</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_VERGIL_BODY_PRIMARY_NAME": "<color=#32D2FF>Summon Swords</color>",
+    "ROB_VERGIL_BODY_PRIMARY_DESCRIPTION": "Dispare espadas espectrais causando <style=cIsDamage>200% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_MELEE_NAME": "<color=#B70027>Lock & Load</color>",
+    "ROB_DANTE_BODY_MELEE_DESCRIPTION": "Prepare sua <style=cIsUtility>arma empunhada</style>. <style=cIsDamage>Ataque primário</style> torna-se <style=cIsDamage>ataques corpo a corpo</style>, e ataques inimigos são <style=cIsUtility>defletidos</style> enquanto empunhada.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_UTILITY_NAME": "<color=#B70027>Trick</color>",
+    "ROB_DANTE_BODY_UTILITY_DESCRIPTION": "<style=cIsUtility>Deslize</style> em uma direção, ficando brevemente <style=cIsUtility>invulnerável</style>. <style=cIsUtility>Ataques corpo a corpo recarregam esta habilidade instantaneamente.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_NAME": "<color=#A556FF>Devil Trigger</color>",
+    "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_DESCRIPTION": "<color=#B70027>Hellbent.</color> Ative o <color=#A556FF>Devil Trigger</color>, drenando sua barra para ganhar <style=cIsUtility>armadura</style>, <style=cIsHealing>regeneração</style> e <style=cIsDamage>dano</style> temporários. <style=cIsUtility>Ataques corpo a corpo preenchem a barra.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_NAME": "Perfect Devil Trigger",
+    "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_DESCRIPTION": "<color=#B70027>Hellbent.</color> Ative o <color=#A556FF>Devil Trigger</color>, drenando sua barra para ganhar <style=cIsUtility>armadura</style>, <style=cIsHealing>regeneração</style> e <style=cIsDamage>dano</style> temporários. <style=cIsUtility>Ataques corpo a corpo preenchem a barra.</style>\n<color=#d299ff>SCEPTER: Devaste seus inimigos com espadas invocadas enquanto ativo.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_SDT_NAME": "<color=#B70027>Sin Devil Trigger</color>",
+    "ROB_DANTE_BODY_SPECIAL_SDT_DESCRIPTION": "<style=cIsUtility>Segure</style> para transferir a barra para a barra de <color=#B70027>Sin Devil Trigger</color>. <style=cIsUtility>Segure</style> quando cheia para liberar sua <style=cIsDamage>verdadeira forma demoníaca</style> por um curto período.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_NAME": "<color=#B70027>Perfect Sin Devil Trigger</color>",
+    "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_DESCRIPTION": "<style=cIsUtility>Segure</style> para transferir a barra para a barra de <color=#B70027>Sin Devil Trigger</color>. <style=cIsUtility>Segure</style> quando cheia para liberar sua <style=cIsDamage>verdadeira forma demoníaca</style> por um curto período.\n<color=#d299ff>SCEPTER: Devaste seus inimigos com espadas invocadas enquanto ativo.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_PISTOL_NAME": "Silver Bullet",
+    "ROB_DANTE_BODY_SPECIAL_PISTOL_DESCRIPTION": "Atire uma <style=cIsUtility>bala de prata</style> causando <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Acertos de cabeça</style> causam <style=cIsDamage>2x dano</style>. Mortes <style=cIsUtility>reiniciam todos os seus tempos de recarga</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Golden Gun",
+    "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Atire uma <style=cIsUtility>bala de prata</style> causando <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Acertos de cabeça</style> causam <style=cIsDamage>2x dano</style>. Mortes <style=cIsUtility>reiniciam todos os seus tempos de recarga</style>.\n<color=#d299ff>SCEPTER: Causa 9.000% de dano.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "Sacred Flame",
+    "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoque o poder de <color=#FF0033>Providence</color>, liberando uma <style=cIsUtility>chama massiva</style> que causa <style=cIsDamage>300% de dano por tick</style>. Termina com uma supernova de <style=cIsDamage>4.000% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "Passiva",
+    "ROB_DANTE_DEVILSHRINE_NAME": "Santuário da Noite",
+    "ROB_DANTE_DEVILSHRINE_DESC": "Ofereça uma chave esqueleto para ganhar uma recompensa poderosa.",
+    "ROB_DANTE_DEVILSHRINE_CONTEXT": "Rezar para o Santuário da Noite",
+    "ROB_DANTE_TREASURECHEST_NAME": "Baú do Tesouro",
+    "ROB_DANTE_TREASURECHEST_DESC": "Um baú trancado que requer uma Chave Esqueleto para ser aberto.",
+    "ROB_DANTE_TREASURECHEST_CONTEXT": "Usar chave e abrir",
+    "ROB_DANTEKEYCOST": "Chave Esqueleto",
+    "ROB_DANTE_KEYFRAGMENT_NAME": "Fragmento de Chave",
+    "ROB_DANTE_KEYFRAGMENT_DESC": "Pedaço fraturado de uma chave. Colete 3 para formar uma chave inteira.",
+    "ROB_DANTE_KEYFRAGMENT_PICKUP": "Pedaço fraturado de uma chave. Colete 3 para formar uma chave inteira.",
+    "ROB_DANTE_KEYFRAGMENT_LORE": "",
+    "ROB_DANTE_KEY_NAME": "Chave Esqueleto",
+    "ROB_DANTE_KEY_DESC": "Usada para abrir um <color=#FFFF00>Baú do Tesouro</color>. Esses baús contêm uma <color=#FF0033>relíquia sagrada</color> e aparecem a cada <style=cIsUtility>quarta</style> Fase em um <style=cIsDamage>local fixo</style>.",
+    "ROB_DANTE_KEY_PICKUP": "Usada para abrir um Baú do Tesouro. Brilha quando perto de um baú.",
+    "ROB_DANTE_KEY_LORE": "",
+    "ROB_DANTE_REBELLION_NAME": "Rebellion",
+    "ROB_DANTE_REBELLION_DESC": "Uma espada grande e versátil, com ataques equilibrados entre dano e alcance.",
+    "ROB_DANTE_REBELLION_PICKUP": "Empunhe a lendária espada de Dante, Rebellion.",
+    "ROB_DANTE_REBELLION_LORE": "",
+    "ROB_DANTE_TITAN_NAME": "Titan",
+    "ROB_DANTE_TITAN_DESC": "Punhos e chutes poderosos que causam dano massivo em área.",
+    "ROB_DANTE_TITAN_PICKUP": "Esmague inimigos com o poder de Titan.",
+    "ROB_DANTE_TITAN_LORE": "",
+    "ROB_DANTE_QUEEN_NAME": "Queen",
+    "ROB_DANTE_QUEEN_DESC": "Escudos duplos ótimos para golpes pesados e controle de grupo.",
+    "ROB_DANTE_QUEEN_PICKUP": "Um par de escudos grandes e resistentes.",
+    "ROB_DANTE_QUEEN_LORE": "",
+    "ROB_DANTE_MITHRIX_NAME": "Mithrix",
+    "ROB_DANTE_MITHRIX_DESC": "O poder bruto do Rei da Lua, com ataques devastadores em cone.",
+    "ROB_DANTE_MITHRIX_PICKUP": "",
+    "ROB_DANTE_MITHRIX_LORE": "",
+    "ROB_DANTE_BROTHERSOUL_NAME": "Alma do Rei",
+    "ROB_DANTE_BROTHERSOUL_DESC": "Cada <style=cIsUtility>chicotada</style> invoca um <style=cIsDamage>pilar de chama lunar</style>, cada <style=cIsUtility>golpe de espada</style> invoca um <style=cIsDamage>estilhaço lunar</style>, cada <style=cIsUtility>chicotada violenta</style> libera <style=cIsDamage>ondas de choque no chão</style> e cada <style=cIsUtility>deslize</style> gera <style=cIsHealing>20% de barreira</style>.",
+    "ROB_DANTE_BROTHERSOUL_PICKUP": "Empunhe o poder do Rei do Nada como seu.",
+    "ROB_DANTE_BROTHERSOUL_LORE": "",
+    "ROB_DANTE_ITEM_EFFECT_TITLE": "Efeito Bônus",
+    "ROB_DANTE_ITEM_EFFECT_BACKUPMAG": "Ganha a capacidade de armazenar Tiros Carregados extras.",
+    "ROB_DANTE_ITEM_EFFECT_BANDOLIER": "Pacotes de munição restauram a barra.",
+    "ROB_DANTE_ITEM_EFFECT_ALIENHEAD": "Devil Trigger consome menos barra.",
+    "ROB_DANTE_ITEM_EFFECT_BRAINSTALKS": "Devil Trigger não consome barra enquanto ativo.",
+    "ROB_DANTE_ITEM_EFFECT_PURITY": "Aumenta a barra ganha ao acertar.",
+    "ROB_DANTE_ITEM_EFFECT_LYSATECELL": "Aumenta a barra máxima.",
+    "ROB_DANTE_ITEM_EFFECT_LUMINOUSSHOT": "Carrega enquanto sua arma está sacada. Reinicia quando você a guarda.",
+    "KEYWORD_HELLBENT": "<style=cKeywordName>Hellbent</style><style=cSub><style=cIsUtility>Uma vez por Fase</style>, cair abaixo de <style=cIsHealth>25% de saúde</style> preenche sua barra e concede um <color=#A556FF>Devil Trigger</color> gratuito.",
+    "KEYWORD_SONOFSPARDA": "<style=cKeywordName>Devil Arms</style><style=cSub>Almas de certos chefes são transformadas em armas obtíveis ao morrer. Toque em correr com a arma sacada para alternar entre elas.\n\n<style=cKeywordName>Speed</style><style=cSub>Corra com velocidade incrível. Não pode ser ativado em batalha.\n\n<style=cKeywordName>Air Hike</style><style=cSub>Pulo duplo.\n\n<style=cKeywordName>Enemy Step</style><style=cSub>Pulo duplo em cima de um inimigo."
+    }
+}

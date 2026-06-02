@@ -1,0 +1,139 @@
+﻿{
+    strings:
+    {
+    "PALADIN_NAME" : "Paladino",
+    "PALADIN_DESCRIPTION" : "O Paladino � um spellblade vers�til que pode optar por magia de outro mundo ou uma devastadora esgrima para ajudar aliados e dizimar inimigos.<color=#CCD3E0>\n\n< ! > Sua passiva � respons�vel por boa parte de seu dano, tente mant�-la ativa o m�ximo de tempo poss�vel.\n\n< ! > Corte Girat�rio pode servir tanto como um poderoso controle de multid�o ou como uma forma limitada de locomover-se.\n\n< ! > O tempo de recarga de Passos R�pidos � diminuido a cada acerto, recompensando voc� por continuar essa a��o.\n\n< ! > Voto de Sil�ncio � uma boa forma de lidar com inimigos voadores, j� que derruba todos os inimigos afetados no ch�o.\n\n
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SUBTITLE" : "Ac�lito de Provid�ncia",
+    "PALADIN_LORE" : "\"Voc� ir� para Petrichor V. Esse planeta foi selecionado para sua Peregrina��o, a puni��o pelos pecados cometidos contra o seu povo<s>, K        </s>.\"\n\nEu olhei � frente, despi minha armadura e minha espada. Minha coroa, despeda�ada. Minha carapa�a obsidiana, danificada e retalhada.  Uma pequena pedra preciosa estrelada embutida na minha palma direita, um vest�gio do meu passado como rei.  Eles me mant�m amarrado e me empurram em dire��o a uma nave, o fim da linha, meu sacrif�cio pelo bem dos meus irm�os e irm�s.\r\n\r\nEu fiz isso para salvar meu povo, mesmo que eles n�o aceitem certas sutilezas.  Eu n�o cairei em seus h�bitos de guerras intermin�veis e sofrimento.  Eu tentei mud�-los para o bem deles, mas, eu aprendi do jeito dif�cil que o tradicionalismo � algo que uma pessoa sozinha nunca poder� mudar.\n\nEnt�o que seja.  Talvez minha mensagem viver� nas mentes daqueles que tentaram me defender.  Talvez minhas a��es significar�o algo, talvez n�o resultem em nada.  Eu n�o dou a m�nima para o meu destino, apenas espero que meu povo aprenda com seu passado e melhore.\n\nPelo bem do meu povo, pelo bem da nossa hist�ria, pelo bem da longevidade...\n\nPara as estrelas eu seguirei... para esse planeta de incessantes rumores.",
+    "PALADIN_OUTRO_FLAVOR" : "... e assim ele se foi, fiel em sua doutrina abalada.",
+    "PALADIN_OUTRO_FAILURE" : "..e assim ele desapareceu, com suas preces nunca ouvidas.",
+    "PALADINBODY_DEFAULT_SKIN_NAME" : "Padr�o",
+    "PALADINBODY_LUNAR_SKIN_NAME" : "Lunar",
+    "PALADINBODY_LUNARKNIGHT_SKIN_NAME" : "Cavaleiro Lunar",
+    "PALADINBODY_TYPHOON_SKIN_NAME" : "Soberano",
+    "PALADINBODY_TYPHOONLEGACY_SKIN_NAME" : "Soberano (legado)",
+    "PALADINBODY_POISON_SKIN_NAME" : "Corrupto",
+    "PALADINBODY_POISONLEGACY_SKIN_NAME" : "Corrupto (legado)",
+    "PALADINBODY_CLAY_SKIN_NAME" : "Af�lio",
+    "PALADINBODY_SPECTER_SKIN_NAME" : "Espectro",
+    "PALADINBODY_DRIP_SKIN_NAME" : "Drip",
+    "PALADINBODY_MINECRAFT_SKIN_NAME" : "Minecraft",
+    "PALADIN_PASSIVE_NAME" : "Ben��o do Baluarte",
+    "PALADIN_PASSIVE_DESCRIPTION" : "Enquanto estiver acima de <style=cIsHealth>90% de sa�de</style> ou com a <style=cIsHealth>barreira</style> ativa, o Paladino fica <style=cIsHealing>aben�oado</style>, empoderando todas as habilidades com espada e <style=cIsHealing>aben�oando todos os aliados pr�ximos tamb�m</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_PRIMARY_SLASH_NAME" : "L�mina Divina",
+    "PALADIN_PRIMARY_SLASH_DESCRIPTION" : "Corte para frente para causar <style=cIsDamage>300% de dano</style>. Atira um <style=cIsUtility>raio de luz</style>, causando <style=cIsDamage>300% de dano</style> caso o Paladino esteja <style=cIsHealing>aben�oado</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_PRIMARY_CURSESLASH_NAME" : "L�mina Amaldi�oada",
+    "PALADIN_PRIMARY_CURSESLASH_DESCRIPTION" : "Corte para frente para causar <style=cIsDamage>380% de dano</style>. Atira um <style=cIsUtility>raio de luz</style>, causando <style=cIsDamage>300% de dano</style> caso o Paladino esteja <style=cIsHealing>aben�oado</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SECONDARY_SPINSLASH_NAME" : "Corte Girat�rio",
+    "PALADIN_SECONDARY_SPINSLASH_DESCRIPTION" : "<style=cIsUtility>Atordoante.</style> Execute um golpe amplo para causar <style=cIsDamage>750% de dano</style>, ganhando alcance caso esteja <style=cIsHealing>aben�oado</style>. Enquanto estiver no ar, realize um golpe de salto, disparando uma <style=cIsUtility>onda de choque</style> caso esteja <style=cIsHealing>aben�oado</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SECONDARY_LIGHTNING_NAME" : "Lan�a de Rel�mpago",
+    "PALADIN_SECONDARY_LIGHTNING_DESCRIPTION" : "<style=cIsUtility>Eletrizante.</style> <style=cIsUtility>�gil.</style> Carregue e arremesse um <style=cIsUtility>rel�mpago</style>, causando at� <style=cIsDamage>700% de dano</style>. Jogue aos seus p�s para revestir sua l�mina com <style=cIsUtility>raios</style> por <style=cIsUtility>4 segundos</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SECONDARY_LUNARSHARD_NAME" : "Fragmentos Lunares",
+    "PALADIN_SECONDARY_LUNARSHARD_DESCRIPTION" : "<style=cIsUtility>�gil.</style> Dispare uma salva de <style=cIsUtility>fragmentos lunares</style>, causando <style=cIsDamage>75% de dano</style> cada. Segure at� <style=cIsDamage>12</style> fragmentos.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_UTILITY_DASH_NAME" : "Passos R�pidos",
+    "PALADIN_UTILITY_DASH_DESCRIPTION" : "<style=cIsUtility>Arranque</style> por uma curta dist�ncia e ganhe <style=cIsHealing>15% de barreira</style>. Golpes certeiros com <style=cIsDamage>L�mina Divina</style> <style=cIsUtility>diminuem o tempo de espera</style> em <style=cIsDamage>1 segundo</style>. <style=cIsUtility>Voc� pode ter at� 2 arranques de carga.<style=cIsHealing>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_UTILITY_HEAL_NAME" : "Prover",
+    "PALADIN_UTILITY_HEAL_DESCRIPTION" : "Recupere <style=cIsHealing>15% de sa�de m�xima</style> e garante <style=cIsHealing>15% de barreira</style> para todos os aliados na �rea.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_HEALZONE_NAME" : "Luz Solar Sagrada",
+    "PALADIN_SPECIAL_HEALZONE_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>1.5</style> segundos, ent�o solte para <style=cIsUtility>Aben�oar</style> a �rea por <style=cIsDamage>12 segundos</style>, gradualmente <style=cIsHealing>restaurando a sa�de</style> e garantindo <style=cIsHealing>barreira</style> para todos os aliados na �rea.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_SCEPTERHEALZONE_NAME" : "Luz Solar Santificada",
+    "PALADIN_SPECIAL_SCEPTERHEALZONE_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>1.5</style> segundos, ent�o solte para <style=cIsUtility>Aben�oar</style> a �rea por <style=cIsDamage>12 segundos</style>, gradualmente <style=cIsHealing>restaurando a sa�de</style> e garantindo <style=cIsHealing>barreira</style> para todos os aliados na �rea.\n<color=#d299ff>CETRO: Dobra a cura. Dobra a barreira. Remove efeitos negativos.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_TORPOR_NAME" : "Voto de Sil�ncio",
+    "PALADIN_SPECIAL_TORPOR_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>2</style> segundos, e ent�o solte para <style=cIsUtility>Silenciar</style> a �rea por <style=cIsDamage>10 segundos</style>, infligindo <style=cIsHealth>torpor</style> em todos os inimigos pr�ximos.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_SCEPTERTORPOR_NAME" : "Juramento de Sil�ncio",
+    "PALADIN_SPECIAL_SCEPTERTORPOR_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>2</style> segundos, e ent�o solte para <style=cIsUtility>Silenciar</style> a �rea por <style=cIsDamage>10 segundos</style>, infligindo <style=cIsHealth>torpor</style> em todos os inimigos pr�ximos.\n<color=#d299ff>CETRO: Efeito negativo amplificado. �rea maior. Destr�i proj�teis.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_WARCRY_NAME" : "Juramento Sagrado",
+    "PALADIN_SPECIAL_WARCRY_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>2</style> segundos, e ent�o solte para <style=cIsUtility>Empoderar</style> a �rea por <style=cIsDamage>8 segundos</style>, aumentando o <style=cIsDamage>dano</style> e a <style=cIsDamage>velocidade de ataque</style> de todos os aliados dentro da �rea.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_SCEPTERWARCRY_NAME" : "Juramento Sagrado (Cetro)",
+    "PALADIN_SPECIAL_SCEPTERWARCRY_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>2</style> segundos, e ent�o solte para <style=cIsUtility>Empoderar</style> a �rea por <style=cIsDamage>8 segundos</style>, aumentando o <style=cIsDamage>dano</style> e a <style=cIsDamage>velocidade de ataque</style> de todos os aliados dentro da �rea.\n<color=#d299ff>CETRO: Canaliza mais r�pido. Dobro de dano. Dobro de velocidade de ataque.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_SUN_NAME" : "Sol Cruel",
+    \"PALADIN_SPECIAL_SUN_DESCRIPTION\" : \"<style=cIsHealth>Superaquecimento</style>. <style=cIsUtility>Canalize</style> por <style=cIsDamage>2</style> segundos para criar uma <style=cIsUtility>estrela em miniatura</style> por <style=cIsDamage>12.5</style> segundos que superaquece <style=cDeath>TUDO</style> ao seu redor. Com <style=cIsHealth>2</style> ac�mulos ou mais, alvos queimam, causando <style=cIsDamage>160% de dano</style>.",
+    "PALADIN_SPECIAL_SUN_CANCEL_NAME" : "Cancelar Sol Cruel",
+    "PALADIN_SPECIAL_SUN_CANCEL_DESCRIPTION" : "Pare de canalizar o Sol Cruel atual.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_SCEPSUN_NAME" : "Sinal de Orgulho",
+    \"PALADIN_SPECIAL_SCEPSUN_DESCRIPTION\" : \"<style=cIsHealth>Superaquecimento</style>. <style=cIsUtility>Canalize</style> por <style=cIsDamage>2</style> segundos para criar uma <style=cIsUtility>estrela em miniatura</style> por <style=cIsDamage>12.5</style> segundos que superaquece <style=cDeath>TUDO</style> ao seu redor. Com <style=cIsHealth>2</style> ac�mulos ou mais, alvos queimam, causando <style=cIsDamage>160% de dano</style>.\n<color=#d299ff>CETRO: Utilize novamente a habilidade e segura para mirar, ent�o solte para arremessar a estrela, explodindo e causando <style=cIsDamage>4.000% de dano</style> em <style=cDeath>TUDO</style> ao seu redor.</color>",
+    "PALADIN_SPECIAL_SUN_LEGACY_NAME" : "Sol Cruel (Legado)",
+    "PALADIN_SPECIAL_SUN_LEGACY_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>5</style> segundos para criar uma <style=cIsUtility>estrela em miniatura</style> que <style=cIsDamage>drena sa�de</style> das <style=cIsHealth>ALL</style> entidades ao seu redor.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_SCEPSUN_LEGACY_NAME" : "Sinal de Orgulho",
+    "PALADIN_SPECIAL_SCEPSUN_LEGACY_DESCRIPTION" : "<style=cIsUtility>Canalize</style> por <style=cIsDamage>5</style> segundos para criar uma <style=cIsUtility>estrela em miniatura</style> que <style=cIsDamage>drena a sa�de</style> de <style=cIsHealth>TODAS</style> as entidades ao seu redor.\n<color=#d299ff>CETRO: Explode para um grande estouro que causa 9.001% de dano.</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "PALADIN_SPECIAL_BERSERK_NAME" : "Berserker",
+    "PALADIN_SPECIAL_BERSERK_DESCRIPTION" : "Enquanto estiver abaixo de <style=cIsHealth>25% de sa�de</style>, gere <style=cIsDamage>F�ria</style>. Quando estiver com o m�ximo de <style=cIsDamage>F�ria</style>, use-a para entrar no <color=#dc0000>Modo Berserker</color>, ganhando um <style=cIsHealing>enorme efeito positivo</style> e uma <style=cIsUtility>nova gama de habilidades</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "KEYWORD_SWORDBEAM" : "<style=cKeywordName>Feixe de Espada</style><style=cSub>Um curto e perfurante raio de luz que causa <style=cIsDamage>300% de dano</style>.",
+    "KEYWORD_TORPOR" : "<style=cKeywordName>Torpor</style><style=cSub>Aplica <style=cIsHealth>60%</style> de <style=cIsDamage>lentid�o</style> na velocidade de ataque e movimento. <style=cIsHealth>Derruba inimigos no ch�o.</style>",
+    "KEYWORD_OVERHEAT" : "<style=cKeywordName>Superaquecimento</style><style=cSub>Multiplica o dano recebido pelo <style=cIsDamage>Sol</style>.</style>",
+    "PALADIN_UNLOCKABLE_ACHIEVEMENT_NAME" : "Um Voto do Paladino",
+    "PALADIN_UNLOCKABLE_ACHIEVEMENT_DESC" : "Use as Contas de Suserania e torne-se inteiro novamente.",
+    "PALADIN_UNLOCKABLE_UNLOCKABLE_NAME" : "Um Voto do Paladino",
+    "PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME" : "Paladino: Dom�nio",
+    "PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, ven�a o jogo ou aniquile em Mon��o.",
+    "PALADIN_MASTERYUNLOCKABLE_UNLOCKABLE_NAME" : "Paladino: Dom�nio",
+    "PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Paladino: Grande Dom�nio",
+    "PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, ven�a o jogo ou aniquile em Tuf�o ou maior.\n<color=#8888>(Conta qualquer dificuldade Tuf�o ou acima)</color>",
+    "PALADIN_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME" : "Paladino: Grande Dom�nio",
+    "PALADIN_POISONUNLOCKABLE_ACHIEVEMENT_NAME" : "Seu Disc�pulo",
+    "PALADIN_POISONUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, forme um pacto com a deusa da corrup��o.",
+    "PALADIN_POISONUNLOCKABLE_UNLOCKABLE_NAME" : "Seu Disc�pulo",
+    "PALADIN_LIGHTNINGSPEARUNLOCKABLE_ACHIEVEMENT_NAME" : "Coopera��o Fortuita",
+    "PALADIN_LIGHTNINGSPEARUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, relampeie um inimigo com o Capacitor R�gio. <color=#c11>Somente Host</color>",
+    "PALADIN_LIGHTNINGSPEARUNLOCKABLE_UNLOCKABLE_NAME" : "Coopera��o Fortuita",
+    "PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_NAME" : "Arauto do Rei Perdido",
+    "PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, obtenha 8 itens Lunares em uma �nica jogatina.",
+    "PALADIN_LUNARSHARDUNLOCKABLE_UNLOCKABLE_NAME" : "Arauto do Rei Perdido",
+    "PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_NAME" : "Abra�o Acalorado",
+    "PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, cure um aliado com a Criatura da Floresta Deformada. <color=#c11>Somente Host</color>",
+    "PALADIN_HEALUNLOCKABLE_UNLOCKABLE_NAME" : "Abra�o Acalorado",
+    "PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_NAME" : "Supress�o",
+    "PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, acumule 4 efeitos negativos em um �nico inimigo.",
+    "PALADIN_TORPORUNLOCKABLE_UNLOCKABLE_NAME" : "Supress�o",
+    "PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_NAME" : "Raiar",
+    "PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, suporte o impacto total de um Sol e sobreviva.",
+    "PALADIN_CRUELSUNUNLOCKABLE_UNLOCKABLE_NAME" : "Raiar",
+    "PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_NAME" : "Rel�quia Anci�",
+    "PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_DESC" : "Como Paladino, adquira uma certa urna parasita.",
+    "PALADIN_CLAYUNLOCKABLE_UNLOCKABLE_NAME" : "Rel�quia Anci�",
+    "BROTHER_SEE_PALADIN_1" : "Irm�o? N�o. Uma imita��o barata.",
+    "BROTHER_SEE_PALADIN_2" : "Eu responderei � sua f�.",
+    "BROTHER_SEE_PALADIN_3" : "Potencial desperdi�ado.",
+    "BROTHER_KILL_PALADIN_1" : "Sua bruta armadura falhou com voc�.",
+    "BROTHER_KILL_PALADIN_2" : "Olhe onde sua f� te trouxe.",
+    "BROTHER_KILL_PALADIN_3" : "Retorne ao nada, devoto tolo.",
+    }
+}

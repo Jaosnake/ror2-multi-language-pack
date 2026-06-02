@@ -1,0 +1,102 @@
+ROB_HUNK_BODY_NAME: HUNK
+ROB_HUNK_BODY_SUBTITLE: 死神
+ROB_HUNK_BODY_DEFAULT_SKIN_NAME: デフォルト
+ROB_HUNK_BODY_CLASSIC_SKIN_NAME: クラシック
+ROB_HUNK_BODY_ROOKIE_SKIN_NAME: 新人
+ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
+ROB_HUNK_BODY_LEON_SKIN_NAME: レオン
+ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
+ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: 軽量
+ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: ゲリラ
+ROB_HUNK_BODY_WESKER_SKIN_NAME: ウェスカー
+ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
+ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
+ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: レオンのシャツ
+ROB_HUNK_BODY_COMMANDO_SKIN_NAME: コマンドー
+ROB_HUNK_BODY_JACKET_SKIN_NAME: ジャケット
+ROB_HUNK_BODY_TOFU_SKIN_NAME: 豆腐
+ROB_HUNK_BODY_SUPER_SKIN_NAME: スーパー
+SHOOT_M19_NAME: M19
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>。M19を発射して<style=cIsDamage>500%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_BROOMHC_NAME: Broom HC
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>。Broom HCを発射して<style=cIsDamage>180%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_REVOLVER_NAME: リボルバー
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>。リボルバーを発射して<style=cIsDamage>1.200%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_MAGNUM_NAME: マグナム
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>。マグナムを発射して<style=cIsDamage>1.500%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SHOTGUN_NAME: ショットガン
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。ショットガンを発射して<style=cIsDamage>14x150%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SSG_NAME: SSG
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>。SSGを発射して<style=cIsDamage>16x200%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SLUGGER_NAME: Slugger
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>。Sluggerを発射して<style=cIsDamage>3.000%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_AR_NAME: アサルトライフル
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>。ライフルを発射して<style=cIsDamage>385%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SPARKSHOT_NAME: Spark Shot
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>。Spark Shotを発射して<style=cIsDamage>1.000%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_GOLDGUN_NAME: 黄金の銃
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。黄金の銃を発射して<style=cIsDamage>99.999%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_ATM_NAME: ATMランチャー
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>。ロケットを発射して<style=cIsDamage>8.000%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_GRENADELAUNCHER_NAME: グレネードランチャー
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>。グレネードを発射して<style=cIsDamage>3.200%ダメージ</style>。 <i>Translated by: Jaosnake</i>
+PRIMARY_CQC_NAME: CQC
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>抜く。</style><style=cIsDamage>打撃</style>近接戦闘員に<style=cIsDamage>200%と250%ダメージ</style>、<style=cIsHealth>四肢切断</style>を付与。 <i>Translated by: Jaosnake</i>
+SECONDARY_AIM_NAME: しっかり狙う
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>狙う</style>と現在の武器の精度が向上。 <i>Translated by: Jaosnake</i>
+UTILITY_PARRY_NAME: パリィ
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>パリィ</style>で攻撃を逸らす。予防的に<style=cIsUtility>攻撃を回避</style>するために使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。 <i>Translated by: Jaosnake</i>
+UTILITY_DODGE_NAME: スライド
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>スライド</style>短距離。予防的に<style=cIsUtility>攻撃を回避</style>するために使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。 <i>Translated by: Jaosnake</i>
+UTILITY_BASH_NAME: ディフレクション
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>弾く</style>近くの敵を、<style=cIsUtility>スタン</style>で<style=cIsDamage>400%ダメージ</style>。予防的に<style=cIsUtility>攻撃をキャンセル</style>するために使用すると、<style=cIsDamage>パーフェクトディフレクション</style>を実行。 <i>Translated by: Jaosnake</i>
+SPECIAL_SWAP_NAME: レギオン
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>切り替え</style>現在の武器。 <i>Translated by: Jaosnake</i>
+ROB_HUNK_KEYWORD_MANGLED: 四肢切断
+ROB_HUNK_KEYWORD_COUNTERATTACK: カウンターアタック
+ROB_HUNK_KEYWORD_PERFECTDODGE: パーフェクトドッジ
+ROB_HUNK_KEYWORD_PERFECTBASH: パーフェクトディフレクション
+ROB_HUNK_KEYWORD_CVIRUS: C-ウイルス
+ROB_HUNK_KEYWORD_LOOTING: 漁り
+ROB_HUNK_TRANSCEIVER_NAME: トランシーバー
+ROB_HUNK_TRANSCEIVER_DESC: 補給物資ドロップ。
+ROB_HUNK_TYPEWRITER_NAME: タイプライター
+ROB_HUNK_TYPEWRITER_DESC: 進行状況を保存。
+ROB_HUNK_JETPACK_NAME: ジェットパック
+ROB_HUNK_JETPACK_DESC: 空中機動性を付与。
+ROB_HUNK_C4_NAME: C4
+ROB_HUNK_GRENADE_NAME: グレネード
+ROB_HUNK_SUPPLYPACK_NAME: 補給品
+ROB_HUNK_AMMO_NAME: 弾薬
+ROB_HUNK_AMMOITEM_NAME: 弾薬
+ROB_HUNK_CHEST_NAME: チェスト
+ROB_HUNK_TERMINAL_NAME: 端末
+ROB_HUNK_STARSBADGE_NAME: S.T.A.R.S.バッジ
+ROB_HUNK_STARSBADGE2_NAME: S.T.A.R.S.バッジ2
+ROB_HUNK_STARSBADGE_DESC: S.T.A.R.S.メンバーのバッジ。
+ROB_HUNK_HEARTCHEST_NAME: ハートチェスト
+ROB_HUNK_T_VIRUS_NAME: T-ウイルス
+ROB_HUNK_T_VIRUS_DESC: T-ウイルスのサンプル。
+ROB_HUNK_G_VIRUS_NAME: G-ウイルス
+ROB_HUNK_G_VIRUS_DESC: G-ウイルスのサンプル。
+ROB_HUNK_G_VIRUS2_NAME: G-ウイルス2
+ROB_HUNK_C_VIRUS_NAME: C-ウイルス
+ROB_HUNK_C_VIRUS_DESC: C-ウイルスのサンプル。
+ROB_HUNK_G_VIRUSFINAL_NAME: 最終G-ウイルス
+ROB_HUNK_PLAGAS_NAME: プラーガ
+ROB_HUNK_PLAGAS_DESC: プラーガのサンプル。
+ROB_HUNK_URO_SAMPLE_NAME: Uroborosサンプル
+ROB_HUNK_URO_SAMPLE_DESC: Uroborosのサンプル。
+ROB_HUNK_INFROCKET_NAME: 無限ロケット
+ROB_HUNK_INFROCKET_DESC: 無限ロケット弾薬。
+ROB_HUNK_NEMICASE_NAME: ネミケース
+ROB_HUNK_NEMICASE_DESC: 謎のケース。
+ROB_NEMESIS_BODY_NAME: Nemesis
+ROB_NEMESIS_BODY_SUBTITLE: 追跡者
+ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: デフォルト
+ROB_NEMESIS_BODY_PASSIVE_NAME: 執拗な追跡
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: マークされた敵に<style=cIsDamage>{0}%追加ダメージ</style>。 <i>Translated by: Jaosnake</i>
+ROB_NEMESIS_BODY_GRAB_NAME: 掴む
+ROB_ARTIFACT_STRIKETEAM_NAME: 攻撃部隊の神器
+ROB_ARTIFACT_PURSUER_NAME: 追跡者の神器
+ROB_ARTIFACT_CONTAMINATION_NAME: 汚染の神器

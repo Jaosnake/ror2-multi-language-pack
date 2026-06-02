@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "Conserje",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Máquinas de Limpieza Letales",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...y así se fueron, un trabajo bien hecho",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...y así desaparecieron, dejando un desastre peor que al principio",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "El Conserje es un maestro de la guerra de limpieza que manipula la gravedad de sus enemigos a su favor.<color=#CCD3E0>\n\n< ! > Encadena combos de Grav-Escoba para levantar enemigos cada vez más alto.\n\n< ! > ¡Ensarta enemigos con Sacar la Basura después de levantarlos con Grav-Escoba y MAID para un daño masivo!\n\n< ! > Usa el doble salto de Flujo para combos aéreos, o la armadura para salir de apuros.\n\n< ! > Usa MAID para levantar enemigos y reposicionarte para continuar los combos.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "No puedo parar ahora. No puedo parar ahora. Cada paso que doy es un paso que no puedo deshacer. Contra viento y marea, lo encontraré.\n\nTodo es un ritmo, solo un ritmo. Cada vez que me salgo de la línea es un castigo. Obedeceré el ritmo. Nada puede detenerme ahora.\n\nCada cicatriz vale la pena. Lo siento, me estoy acercando. Lo tendré, y será mío.\n\nSin importar la sangre, vale la pena. Encontraré lo que quiero y volveré a casa.\n\nSin importar a cuántos masacre, será mío... No puede esconderse de mí para siempre.\n\nEstá aquí, lo siento. Este cofre de seguridad, lo tiene. Lo abro y lo encuentro.\n\nEs... finalmente mío. Lo sostengo en mis manos magulladas. ¿Realmente han pasado años?\n\nA ella le encantará, lo sé.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Ingrávido</style><style=cSub><style=cIsUtility>Elimina la gravedad</style> del objetivo y <style=cIsUtility>Ralentiza el movimiento y la velocidad de ataque</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Ensartar</style><style=cSub>Obliga a un enemigo a caer, causando una <style=cIsDamage>onda de choque</style> al impactar el terreno, infligiendo <style=cIsDamage>200% de daño</style> + <style=cIsDamage>30% de daño</style> por metro caído.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Flujo</style><style=cSub>Obtén <style=cIsDamage>30 de armadura</style> + <style=cIsDamage>5 de armadura</style> por cada acumulación de <style=cIsUtility>Ritmo</style>.\nObtén un <style=cIsUtility>Doble Salto</style>.\nObtén <style=cIsUtility>+30% de Reducción de Enfriamiento.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Walkman",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "Al golpear, ganas una acumulación de <style=cIsUtility>Ritmo</style>, otorgando <style=cIsUtility>20% de velocidad de movimiento</style> por acumulación. Disminuye fuera de combate.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Grav-Escoba",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Ágil</style>. Balancea tu escoba para <style=cIsDamage>100% de daño</style>. Cada tercer golpe inflige <style=cIsDamage>200% de daño</style> y aplica <style=cIsUtility>ingrávido</style>.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Sacar la Basura",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Despliega un cabrestante</s> Vuela mágicamente hacia un enemigo, golpéalo por <style=cIsDamage>300%</style> de daño y <style=cIsDamage>ensártalo</style>.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Flujo",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "Activa <style=cIsDamage>Flujo</style> durante <style=cIsUtility>4 segundos</style> + <style=cIsUtility>0,4 segundos</style> por acumulación de <style=cIsUtility>Ritmo</style>, obteniendo <style=cIsDamage>armadura, doble salto y reducción de enfriamiento</style>. Durante <style=cIsDamage>Flujo</style>, no puedes perder ni ganar <style=cIsUtility>Ritmo</style>. Al terminar <style=cIsDamage>Flujo</style>, pierdes todas las acumulaciones de <style=cIsUtility>Ritmo</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Envía tu unidad <style=cIsUtility>MAID</style> a través de los enemigos para <style=cIsDamage>300% de daño</style>, luego se detiene brevemente y regresa a ti. Actívala de nuevo para ser atraído hacia <style=cIsUtility>MAID</style> y explotar por <style=cIsDamage>500% de daño</style>, aplicando <style=cIsUtility>Ingrávido</style>.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Clásico",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Conserje: Maestría",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Como Conserje, completa el juego o oblitérate en Monzón.",
+    }
+}

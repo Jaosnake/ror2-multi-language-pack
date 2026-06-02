@@ -1,0 +1,25 @@
+BLAKE_RIFTER_NAME: Rifter
+BLAKE_RIFTER_SUBTITLE: Rift Manipulator
+PRIMARY_GAUNTLET_RANGED: Projectile Rift
+PRIMARY_GAUNTLET_RANGED_DESCRIPTION: Fire a long-range rift for 500% damage.
+SECONDARY_FRACTURE: Fracture
+SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Fracture</style>. Fire a long-range rift for 75% damage, causing up to 5 shatters.
+SECONDARY_FAULT_LINE: Fault Line
+SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Fracture</style>. Create a fault line that shatters, dealing 700% damage.
+UTILITY_SLIPSTREAM: Dimensional Slipstream
+UTILITY_SLIPSTREAM_DESCRIPTION: Teleport a short distance. Refreshes secondary skill stock.
+UTILITY_CHAINED_WORLDS: Chained Worlds
+UTILITY_CHAINED_WORLDS_DESCRIPTION: Connect two points in space, creating a portal that transports projectiles.
+UTILITY_QUANTUM_RIFT: Quantum Rift
+UTILITY_QUANTUM_RIFT_DESCRIPTION: Open a quantum rift that distorts the surrounding space.
+SPECIAL_TIMELOCK: Time Lock
+SPECIAL_TIMELOCK_DESCRIPTION: Lock the time of enemies in an area, freezing them for a few seconds.
+SPECIAL_RECURSION: Recursion
+SPECIAL_RECURSION_DESCRIPTION: Replicate a rift, causing it to echo again after a short period.
+PASSIVE_RIFT_BOOST: Rift Boost
+PASSIVE_RIFT_BOOST_DESCRIPTION: Your rifts grant a movement speed boost when passing through them.
+PASSIVE_RIFT_FRACTURE: Rift Fracture
+PASSIVE_RIFT_FRACTURE_DESCRIPTION: Enemies hit by rifts build up shatter, increasing damage taken.
+MASTERY_SKIN_NAME: Rifter: Mastery
+BLAKE_NEM_RIFTER_NAME: Nemesis Rifter
+BLAKE_NEM_RIFTER_SUBTITLE: Corrupted Rift

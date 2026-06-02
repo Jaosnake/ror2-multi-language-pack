@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "カストディアン",
+    "CLOUDBURST_WYATT_SUBTITLE" : "リーン・ミーン・クリーニングマシン",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...そして彼らは去った、任務完了",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...そして彼らは消えた、最初よりも大きな混乱を残して",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "カストディアンは清掃戦の達人で、敵の重力を操り有利に戦う。<color=#CCD3E0>\n\n< ! > グラヴブルームのコンボを繋げて敵をより高く持ち上げよう。\n\n< ! > グラヴブルームとMAIDで浮かせた敵にトラッシュアウトでとどめを刺せ！\n\n< ! > フローの二段ジャンプで空中コンボ、またはアーマーでピンチを脱出。\n\n< ! > MAIDで敵を浮かせ、自分も移動してコンボを継続。\n\n",
+    "CLOUDBURST_WYATT_LORE" : "止まれない。止まれない。一歩ごとに戻れない。どんな困難があろうと見つけ出す。\n\n全てはリズム、ただのリズム。リズムを外れるたびに罰。グルーヴに従う。何も私を止められない。\n\n全ての傷には価値がある。近づいているのを感じる。手に入れる、それは私のものになる。\n\nどんなに血を流しても価値がある。欲しいものを見つけ、家に帰る。\n\n何人殺そうと私のものになる... 永遠に隠れられない。\n\nここにある、感じる。このセキュリティチェスト、中にある。こじ開けて見つける。\n\nついに...私のもの。傷ついた手で握りしめる。本当に何年も経ったのか？\n\n彼女はこれを気に入る、わかっている。\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>無重力</style><style=cSub><style=cIsUtility>ターゲットの重力を除去</style>し、<style=cIsUtility>移動速度と攻撃速度を低下</style>させる。</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>スパイク</style><style=cSub>敵を強制的に落下させ、地形に衝突すると<style=cIsDamage>衝撃波</style>を発生させ、<style=cIsDamage>200%のダメージ</style> + 落下1メートルにつき<style=cIsDamage>30%のダメージ</style>を与える。</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>フロー</style><style=cSub><style=cIsDamage>30アーマー</style> + <style=cIsUtility>グルーヴ</style>のスタックごとに<style=cIsDamage>5アーマー</style>を獲得。\n<style=cIsUtility>二段ジャンプ</style>を獲得。\n<style=cIsUtility>+30%クールダウン短縮。</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "ウォークマン",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "ヒット時、<style=cIsUtility>グルーヴ</style>のスタックを獲得し、スタックごとに<style=cIsUtility>20%移動速度</style>を付与。非戦闘時に減少。",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 グラヴブルーム",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>アジャイル</style>。箒を振って<style=cIsDamage>100%ダメージ</style>。3ヒットごとに<style=cIsDamage>200%ダメージ</style>を与え<style=cIsUtility>無重力</style>を付与。",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "トラッシュアウト",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>ウインチを展開</s> 敵に向かって魔法的に飛び、<style=cIsDamage>300%</style>ダメージを与え<style=cIsDamage>スパイク</style>する。",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "フロー",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "<style=cIsDamage>フロー</style>を<style=cIsUtility>4秒間</style> + <style=cIsUtility>グルーヴ</style>のスタックごとに<style=cIsUtility>0.4秒</style>発動し、<style=cIsDamage>アーマー、二段ジャンプ、クールダウン短縮</style>を得る。<style=cIsDamage>フロー</style>中は<style=cIsUtility>グルーヴ</style>を失ったり得たりできない。<style=cIsDamage>フロー</style>終了後、全ての<style=cIsUtility>グルーヴ</style>スタックを失う。",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "<style=cIsUtility>MAID</style>ユニットを敵に突進させ<style=cIsDamage>300%ダメージ</style>を与え、一時停止後に戻ってくる。再発動で<style=cIsUtility>MAID</style>に引き寄せられ<style=cIsDamage>500%ダメージ</style>の爆発を起こし<style=cIsUtility>無重力</style>を付与。",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "クラシック",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "カストディアン：マスタリー",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "カストディアンでモンスーンでゲームをクリアまたはオブリタレートする。",
+    }
+}

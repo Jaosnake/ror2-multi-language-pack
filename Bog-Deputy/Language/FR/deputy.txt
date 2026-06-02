@@ -1,0 +1,22 @@
+BOG_DEPUTY_BODY_NAME: La Députée
+BOG_DEPUTY_BODY_SUBTITLE: Justice Éclair
+BOG_DEPUTY_BODY_DESCRIPTION: La Députée est un démon de vitesse hyperagressif qui rend la justice avec ses revolvers jumeaux et ses coups de pied mortels. <i>Translated by: Jaosnake</i>
+
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: Par défaut
+BOG_DEPUTY_BODY_PASSIVE_NAME: Poursuite Implacable
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: La Députée peut courir dans n'importe quelle direction. Toucher des ennemis avec ses compétences accorde un bonus de <style=cIsUtility>vitesse de déplacement</style> cumulable.
+
+PRIMARY_SHOOT_NAME: Tir Sûr
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez avec des revolvers à portée moyenne pour <style=cIsDamage>150% de dégâts</style>.
+
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>Agile</style>. Lancez deux revolvers. <style=cIsDamage>Étourdissant</style>. Sautez et tirez sur un ennemi en dessous de vous pour <style=cIsDamage>6x100% de dégâts</style>.
+
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez un tir précis pouvant être légèrement incliné vers le haut. Inflige <style=cIsDamage>150% de dégâts</style>.
+
+SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800% de dégâts</style>. <style=cIsUtility>Les éliminations réinitialisent le temps de recharge de votre compétence utilitaire</style>.
+
+SPECIAL_BULLETHEAVEN_DESCRIPTION: Sautez haut dans les airs et tirez furieusement des balles vers le bas pour <style=cIsDamage>150% de dégâts</style>.
+
+MASTERY_SKIN_NAME: Députée : Maîtrise
+BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..et ainsi elle partit, sous un tonnerre d'applaudissements.
+BOG_DEPUTY_BODY_OUTRO_FAILURE: ..et ainsi elle disparut, sa performance enfin terminée.

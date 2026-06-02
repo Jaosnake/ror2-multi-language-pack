@@ -1,0 +1,44 @@
+{
+	strings:
+	{
+	"MINER_NAME" : "Miner",
+	"MINER_DESCRIPTION" : "Il Miner è un sopravvissuto corpo a corpo veloce e altamente mobile che dà priorità a lunghe combo di uccisioni per accumulare stack del suo passivo.<color=#CCD3E0>\n\n< ! > Una volta ottenuto un buon numero di stack di Adrenalina, Gouge e Crush saranno la tua migliore fonte di danno.\n\n< ! > Caricare Drill Charge influenza solo il danno inflitto. Mira a terra o contro i nemici per infliggere danni concentrati.\n\n< ! > Puoi toccare Backblast per percorrere una breve distanza. Tienilo premuto per andare più lontano.\n\n< ! > To The Stars può infliggere danni elevati ai nemici grandi.",
+	"MINER_SUBTITLE" : "Tossicodipendente Distruttivo",
+	"MINER_LORE" : "\nTra l'acciaio freddo delle rovine del cargo e l'aria della notte gelida, la fioca luce blu di un diario audio attira la tua attenzione. Il diario giace in totale rovina tra i resti del carico, eppure persiste, rimanendo funzionale. I pulsanti analogici sul telaio del dispositivo pulsano lentamente, come se invitassero chiunque ad ascoltare le loro registrazioni distorte, sempre più incomprensibili...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - R E G I S T R O     1 - - / /</color>\n''Primo registro. Data, ehm... Zero-cinque, zero-uno, cinquantacinque. Gli ottoni hanno deciso di ritirarci dal lavoro in miniera. Dopo mesi di scavi, dopo mesi di sangue, sud<color=#8990A7>-///////-</color> milioni spesi in questa operazione, e la molliamo così? Stronz<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - R E G I S T R O     5 - - / /</color>\n''<color=#8990A7>-////////-</color>centro dell'asteroide. Non ho mai visto niente di simile. Era come un fr<color=#8990A7>-////////-</color> frattale... L'interno è quasi come un caleidoscopio. Dev'essere di val<color=#8990A7>-/////-</color> e gli ottoni ci vogliono fuori, al più presto. Beh, possono baciar<color=#8990A7>-////-</color>. E stasera esco a scavare il resto... Se riesco a piazzarlo, le prossime mille buste paga non reggeranno il confronto. Ho aspettato un'opportunità come questa.''\n\n<color=#8990A7>/ / - - R E G I S T R O     7 - - / /</color>\n''Sono abbastanza sicuro che sappiano tutto. Ora stanno interrogando la gente. Ho nascosto l'artefatto in una presa d'aria nel<color=#8990A7>-//////-</color>, dovrebbe essere al sicuro. Il cargo chiamato UE<color=#8990A7>-////-</color> attraccherà tra pochi mesi. Devo solo resistere e imbarcarmi di nascosto.''\n\n<color=#8990A7>/ / - - R E G I S T R O     15 - - / /</color>\n''Mi stanno cercando. Non ci vorrà molto prima che mi trovino. Nascosto nelle pareti della nave come un f<color=#8990A7>-//////-</color> ratto. Il cargo è in ritardo. Ho dato tutto per questo. Ho dato <i>tutto</i> per questo.''\n\n<color=#8990A7>/ / - - R E G I S T R O     20 - - / /</color>\n''Trovato. Troppo tardi. Il cargo sta decollando, io sono fuori. L'artefatto è nella mia mano, sul punto di mollare la presa, tutto fa male... Se qualcuno lo trova, sappia questo. Hanno provato a prendermi tutto. La miniera, la scoperta, la mia vita... ma questo è mio. La mia eredità.''",
+	"MINER_OUTRO_FLAVOR" : "..e così se ne andò, l'adrenalina che ancora scorreva nelle sue vene.",
+	
+	"MINER_PASSIVE_NAME" : "Corsa all'Oro",
+	"MINER_PASSIVE_DESCRIPTION" : "Ottieni <style=cIsHealth>ADRENALINA</style> ricevendo oro, aumentando <style=cIsDamage>velocità d'attacco</style>, <style=cIsUtility>velocità di movimento</style> e <style=cIsHealing>rigenerazione salute</style>.",
+	"KEYWORD_CLEAVING" : "<style=cKeywordName>Fendente</style><style=cSub>Applica un debuff accumulabile che riduce l'<style=cIsDamage>armatura</style> di <style=cIsHealth>3 per stack</style>.</style>",
+	
+	"MINER_PRIMARY_GOUGE_NAME" : "Gouge",
+	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>Agile.</style> Colpisci selvaggiamente i nemici vicini per <style=cIsDamage>270% danni</style>, <style=cIsHealth>fendendo</style> la loro armatura.",
+	
+	"MINER_PRIMARY_CRUSH_NAME" : "Crush",
+	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>Agile.</style> Schiaccia i nemici vicini per <style=cIsDamage>360% danni</style>. <style=cIsUtility>La portata aumenta con la velocità d'attacco</style>.",
+	
+	"MINER_SECONDARY_CHARGE_NAME" : "Carica Trivella",
+	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "Carica e scatta contro i nemici per un massimo di <style=cIsDamage>6x180% danni</style>. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	
+	"MINER_SECONDARY_BREAK_NAME" : "Martello Spaccatore",
+	"MINER_SECONDARY_BREAK_DESCRIPTION" : "Scatta in avanti, esplodendo per <style=cIsDamage>2x240% danni</style> al contatto con un nemico. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	
+	"MINER_UTILITY_BACKBLAST_NAME" : "Backblast",
+	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>Stordente.</style> Spostati all'indietro, colpendo i nemici vicini per <style=cIsDamage>600% danni</style>. Tieni premuto per andare più lontano. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	
+	"MINER_UTILITY_CAVEIN_NAME" : "Crollo",
+	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>Stordente.</style> Spostati all'indietro, <style=cIsUtility>attirando</style> tutti i nemici in un ampio raggio. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "Verso le Stelle",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "Salta in aria, colpendo i nemici direttamente sotto per <style=cIsDamage>6x300% danni</style>.",
+	
+	"MINER_SPECIAL_TOTHESTARS_NAME" : "Pioggia di Meteore",
+	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "Salta in aria, sparando una pioggia di schegge verso il basso per <style=cIsDamage>15x160% danni</style>.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "Cometa Cadente",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "Salta in aria, sparando una pioggia di schegge verso il basso per <style=cIsDamage>15x160% danni</style>, poi cadi e crea un'enorme esplosione all'impatto che infligge <style=cIsDamage>1500% danni</style> e <style=cIsDamage>incendia</style> i nemici colpiti.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "Destinato alle Stelle",
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>Stordente</style>. Salta in aria, colpendo i nemici direttamente sotto per un totale di <style=cIsDamage>10x300% danni</style>."
+	}
+}

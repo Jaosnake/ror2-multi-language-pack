@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "청소부",
+    "CLOUDBURST_WYATT_SUBTITLE" : "날렵하고 사나운 청소 기계",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...그렇게 그들은 떠났다, 임무 완수",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...그렇게 그들은 사라졌다, 처음보다 더 큰 혼란을 남기고",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "청소부는 청소 전투의 달인으로, 적의 중력을 조종하여 유리하게 싸운다.<color=#CCD3E0>\n\n< ! > 그래브 빗자루 콤보로 적을 점점 더 높이 띄우세요.\n\n< ! > 그래브 빗자루와 MAID로 공중에 띄운 적을 쓰레기 투척으로 찍어 큰 피해를!\n\n< ! > 플로우의 이중 점프로 공중 콤보를, 아머로 위기 탈출.\n\n< ! > MAID로 적을 띄우고 자신도 이동하여 콤보 지속.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "멈출 수 없어. 멈출 수 없어. 내딛는 모든 걸음은 되돌릴 수 없어. 무슨 일이 있어도 찾아낼 거야.\n\n모든 것은 리듬, 그저 리듬. 박자를 놓칠 때마다 벌을 받아. 그루브에 따를 거야. 아무것도 나를 막을 수 없어.\n\n모든 흉터는 가치가 있어. 가까워지고 있어. 손에 넣을 거야, 내 것이 될 거야.\n\n얼마나 많은 피를 흘리든 가치가 있어. 원하는 것을 찾아 집에 돌아갈 거야.\n\n몇 명을 도살하든 내 것이 될 거야... 영원히 숨을 순 없어.\n\n여기 있어, 느껴져. 이 보안 상자, 그 안에 있어. 열어서 찾아내.\n\n마침내... 내 것이야. 상처 입은 손으로 움켜쥐어. 정말 몇 년이 지난 걸까?\n\n그녀가 좋아할 거야, 알아.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>무중력</style><style=cSub><style=cIsUtility>대상의 중력을 제거</style>하고 <style=cIsUtility>이동 속도와 공격 속도를 감소</style>시킵니다.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>스파이크</style><style=cSub>적을 강제로 낙하시켜 지형에 충돌 시 <style=cIsDamage>충격파</style>를 발생시키며 낙하한 미터당 <style=cIsDamage>200% 피해</style> + <style=cIsDamage>30% 피해</style>를 줍니다.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>플로우</style><style=cSub><style=cIsDamage>30 방어력</style> + <style=cIsUtility>그루브</style> 중첩당 <style=cIsDamage>5 방어력</style> 획득.\n<style=cIsUtility>이중 점프</style> 획득.\n<style=cIsUtility>+30% 쿨다운 감소.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "워크맨",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "적중 시 <style=cIsUtility>그루브</style> 중첩을 획득하여 중첩당 <style=cIsUtility>20% 이동 속도</style> 부여. 전투 종료 시 감소.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 그래브 빗자루",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>민첩</style>. 빗자루를 휘둘러 <style=cIsDamage>100% 피해</style>. 매 3회째 타격은 <style=cIsDamage>200% 피해</style>를 주고 <style=cIsUtility>무중력</style>을 부여.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "쓰레기 투척",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>윈치 전개</s> 적을 향해 마법처럼 날아가 <style=cIsDamage>300%</style> 피해를 주고 <style=cIsDamage>스파이크</style>.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "플로우",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "<style=cIsDamage>플로우</style>를 <style=cIsUtility>4초</style> + <style=cIsUtility>그루브</style> 중첩당 <style=cIsUtility>0.4초</style> 동안 발동하여 <style=cIsDamage>방어력, 이중 점프, 쿨다운 감소</style> 획득. <style=cIsDamage>플로우</style> 중에는 <style=cIsUtility>그루브</style>를 잃거나 얻을 수 없음. <style=cIsDamage>플로우</style> 종료 후 모든 <style=cIsUtility>그루브</style> 중첩 소실.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "<style=cIsUtility>MAID</style> 유닛을 적에게 돌진시켜 <style=cIsDamage>300% 피해</style> 후 잠시 멈췄다가 돌아옴. 재발동 시 <style=cIsUtility>MAID</style>로 끌려가 <style=cIsDamage>500% 피해</style> 폭발을 일으키며 <style=cIsUtility>무중력</style> 부여.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "클래식",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "청소부: 마스터리",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "청소부로 몬순에서 게임 클리어 또는 오블리터레이트.",
+    }
+}

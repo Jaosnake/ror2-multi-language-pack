@@ -1,0 +1,22 @@
+BOG_DEPUTY_BODY_NAME: ザ・デピュティ
+BOG_DEPUTY_BODY_SUBTITLE: 電撃の正義
+BOG_DEPUTY_BODY_DESCRIPTION: デピュティは超攻撃的なスピードデーモンであり、双銃のリボルバーと致命的な蹴りで正義を執行する。 <i>Translated by: Jaosnake</i>
+
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: デフォルト
+BOG_DEPUTY_BODY_PASSIVE_NAME: 執拗な追跡
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: デピュティは任意の方向にダッシュできる。スキルで敵に命中すると、積み重ね可能な<style=cIsUtility>移動速度</style>バフを得る。
+
+PRIMARY_SHOOT_NAME: 確実な射撃
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>機敏</style>。中距離のリボルバーで射撃し、<style=cIsDamage>150%のダメージ</style>を与える。
+
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>機敏</style>。2挺のリボルバーを投げる。<style=cIsDamage>スタン</style>。ジャンプして下方の敵に射撃し、<style=cIsDamage>6x100%のダメージ</style>を与える。
+
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>機敏</style>。わずかに上方へ角度をつけられる精密な射撃を行う。<style=cIsDamage>150%のダメージ</style>を与える。
+
+SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800%のダメージ</style>。<style=cIsUtility>キルでユーティリティスキルのクールダウンがリセットされる</style>。
+
+SPECIAL_BULLETHEAVEN_DESCRIPTION: 高く跳躍し、下方に向けて弾丸を乱射して<style=cIsDamage>150%のダメージ</style>を与える。
+
+MASTERY_SKIN_NAME: デピュティ：マスタリー
+BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..そして彼女は去っていった、轟音の拍手の中を。
+BOG_DEPUTY_BODY_OUTRO_FAILURE: ..そして彼女は消え去った、彼女のパフォーマンスはついに幕を閉じた。

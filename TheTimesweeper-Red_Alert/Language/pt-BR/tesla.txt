@@ -1,0 +1,112 @@
+﻿{
+    strings:
+    {
+    "HABIBI_TESLA_BODY_NAME" : "Soldado Tesla",
+    "HABIBI_TESLA_BODY_DESCRIPTION" : "O Soldado Tesla � um guerreiro de curto e m�dio alcance, que pode construir Torres de Tesla para aprimorar seu potencial no combate.<color=#CCD3E0>\n\n< ! > Utilize a Manopla de Tesla em curto alcance para causar mais dano. O ret�culo refletir� isso.\n\n< ! > Utilize 2.000 Volts para lidar com grupos de inimigos e tamb�m para comandar sua torre para acabar com eles.\n\n< ! > Estar perto dos inimigos beneficia voc�, use Carregando para te ajudar com isso.\n\n< ! > O maior potencial de dano da Torre de Tesla � atrav�s do aprimoramento da sua habilidade secund�ria!\n\n
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_SUBTITLE" : "Eletricista em Campo",
+    "HABIBI_TESLA_BODY_LORE" : "<style=cMono><line-height=15>=========================================\n====   Gravador de V�deo MyBabel   ====\n====      [Vers�o 2.46.7-09 ]    =========\n=========================================\nArquivo selecionado:\n>20551309174644.bvl    <<\n>20551209122159.bvl\n=========================================\nDescompactando V�deo...\nDescompactando �udio...\nCarregando Legendas...\n......... ..... ..\nConclu�do!\n=========================================\nIniciar? Y/N\n>Y</line-height></style>\n\n???????????, 13 ???????? 2055 ?.\n??????? ? ???? ???????? ??? ?????? ???????????? ?????, ??????? ? ?????? ??? ????? ????????? ????????? ???????, ? ??????? ????????????? ?????????? ?????????, ??????? ?????, ??? ?????? ?????? ???????? ????? ??????? ???????????. ??? ?? ???????, ??? ? ???? ?????? ???? ?????????? ????? ??????? ?????? ?????, ??? ????? - ?????? ??????? ?? ???????!\n\n<style=cMono><line-height=15>=========================================\nTradu��o de Legendas Habilitado.\n=========================================</line-height></style>\n\nE ent�o voc� teve que se juntar a essa empresa de entregas espacial falsa. Voc� � um entregador, Milo? N�o achei que voc� chegaria t�o baixo!\n\n[Risada Aud�vel]\n\nDesde que �ramos pequenos voc� sempre era aqule com o espelho quebrado, que assobiava pela casa e passava por baixo das escadas. Eu me lembro daquela vez que est�vamos correndo pelas ruas, s� por causa que nossa sorveteria favorita abriu naquele dia. Ah, como eu sino falta daquele chocolate duplo... De qualquer forma, a loja acabou de abrir, e quando est�vamos atravessando a rua? Era como se todos os carros da cidade quisessem te atropelar! Ah, e quando fomos patinar no gelo pela primeira vez! Muitas mem�rias v�vidas! O lago atr�s de casa certamente queria que voc� ficasse l� pra sempre! Se n�o fosse por mim, o her�i destemido que sou, te salvando no �ltimo minuto, como qualquer bom e cavalheiresco irm�o mais velho faria.\n\n[Fa�scas de um Isqueiro]\n\nMesmo agora, como adultos, n�o somos livres do capitalismo que tomou nosso lar. Eu pensei que no espa�o estar�amos livres! Mas como eu estava enganado.  � triste ver um pobre camarada pedindo dinheiro toda vez que voc� passa por eles nos ancoradouros das naves, sempre que passo por eles eu dou um trocado ou um cigarro. Aposto que est� com ci�mes, n�o �? O irm�o mais velho tirando seus cigarros? Bem, � porque n�o � saud�vel para voc�! N�o quero meu irm�ozinho murcho como uma vov�! Temos que ser fortes! Pois esse universo n�o � nada gentil conosco... Certamente n�o com voc�.\n\n[Motor Roncando]\n\nFalando em coisas fortes, acho que o capacitor do meu traje pessoas est� calibrado, s� precisa de um test drive. Ah, se ao menos voc� pudesse ver isso, Milo. Se 20 volts podem matar um cavalo, ent�o eu posso derrubar um rancho inteiro! Apenas uma discarga pode dar uma voltagem de 200.000 watts! Ele at� tem uma fun��o de absorver energia cin�tica e transform�-la em eletricidade, n�o � legal? Voc� n�o pode ver isso deste �ngulo, mas eu tamb�m tenho essa torre dobr�vel que posso lan�ar em emerg�ncias, quando precisar estar em dois lugares ao mesmo tempo, se eu n�o fosse um socialista formid�vel, com certeza estaria vendendo isso como panquecas. � que mesmo quando estou trabalhando no meu equipamento, n�o consigo tirar esse pensamento da minha cabe�a.\n\n[Clang Met�lico]\n\nVoc� sabe... eu realmente espero que voc� esteja seguro e tranquilo... Sempre estivemos em contato atrav�s de tudo... Quando eu sa� de casa para ir atr�s do meu diploma de engenharia, eu sempre enviava cartas para casa, enviava ISM quando pegava o transporte espacial... Pelo menos uma vez na semana eu guardava um tempo para escrever como eu estava, esperando que voc� fizesse o mesmo. Voc� nunca perdeu o ritmo. A UES � uma empresa obscura que sempre se envolveu em encobrimentos e conspira��es sobre todos os tipos de coisas. Eu disse a voc� que a UES era suspeita, mas voc� insistiu que era apenas mais um passo em sua carreira. No entanto, quando voc� parou de enviar mensagens, eu sabia que tinha alguma coisa errada.\n\n[Respira��o Aud�vel]\n\nAssinei um contrato de comiss�o ue tinha um acordo de sigilo para um 'envio' n�o divulgado da UES. � chamado de Safe Travels. Ir�nico, vindo da UES. Eu fui escalado como t�cnico da nave, eles exigem especialistas em comiss�es n�o apenas por causa do meu talento, mas a natureza do contrato o torna sigiloso. Eu n�o achava que nenhuma dessas conspira��o era verdade, mas suponho que um rel�gio quebrado esteja certo duas vezes ao dia...-\n\n[Sirenes]\n\nMiloslav, Miloslav. Espero que da pr�xima vez que esta grava��o for tocada, seja com bebidas e brindes, sabendo que voc� est� seguro. N�o vou deixar a UES, ou qualquer coisa, o prejudique sem que haja sangue em minhas m�os.\n\n[Corrida Distante]\n\nMiloslav, eu vou te encontrar.\n\n<style=cMono><line-height=15>==========================================\n..... ... .\nTocar Novamente?\n>_</line-height></style>",
+    "HABIBI_TESLA_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, andando com seus sapatos de borracha.",
+    "HABIBI_TESLA_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, uma unidade perdida.",
+    "HABIBI_TESLA_BODY_MASTERY_SKIN_NAME" : "Spetsnaz",
+    "HABIBI_TESLA_BODY_NOD_SKIN_NAME" : "Irmandade",
+    "HABIBI_TESLA_BODY_PRIMARY_ZAP_NAME" : "Manopla de Tesla",
+    "HABIBI_TESLA_BODY_PRIMARY_ZAP_DESCRIPTION" : "<style=cIsUtility>Carregar</style>. Eletrocuta unidades selecionadas com um raio de eletricidade que causa <style=cIsDamage>120% de dano</style>. Lan�a <style=cIsUtility>at� 3 raios</style> � <style=cIsUtility>curta dist�ncia</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_KEYWORD_CHARGED" : "<style=cKeywordName>Carregar</style><style=cSub>O pr�ximo ataque de um aliado carregado � <style=cIsUtility>chocante</style> e recebe um b�nus de <style=cIsDamage>1.1x</style> de dano.",
+    "HABIBI_TESLA_BODY_PRIMARY_PUNCH_NAME" : "Punho de Tesla",
+    "HABIBI_TESLA_BODY_PRIMARY_PUNCH_DESCRIPTION" : "Soca inimigos, causando <style=cIsDamage>300% de dano</style> e eletrocutando inimigos em um cone, causando <style=cIsDamage>150% de dano</style>. <style=cIsUtility>Deflete Proj�teis</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_SECONDARY_BIGZAP_NAME" : "2.000 Volts",
+    "HABIBI_TESLA_BODY_SECONDARY_BIGZAP_DESCRIPTION" : "<style=cIsUtility>Atordoante.</style> Cria uma explos�o el�trica em larga escala, causando <style=cIsDamage>690% de dano</style>. Se estiver pr�ximo a uma <style=cIsUtility>Torre de Tesla</style>, gera uma vers�o mais <style=cIsUtility>poderosa e chocante</style>, causando <style=cIsDamage>1.500% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_SECONDARY_BIGZAPPUNCH_NAME" : "Soco Carregado",
+    "HABIBI_TESLA_BODY_SECONDARY_BIGZAPPUNCH_DESCRIPTION" : "Segure para carregar um soco que causa <style=cIsDamage>80%-800% de dano</style> e eletrocuta inimigos em um cone, causando <style=cIsDamage>40%-400% de dano</style>. Se estiver pr�ximo a uma <style=cIsUtility>Torre de Tesla</style>, substitua o cone por um feixe <style=cIsUtility>chocante</style> de longa dist�ncia que causa <style=cIsDamage>120%-1.200% de dano</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_UTILITY_BARRIER_NAME" : "Carregando",
+    "HABIBI_TESLA_BODY_UTILITY_BARRIER_DESCRIPTION" : "Por <style=cIsUtility>4 segundos</style>, <style=cIsUtility>100% do dano</style> � negado e <style=cIsUtility>absorvido</style>. Ap�s isso, <style=cIsDamage>exploda</style> em uma grande �rea <style=cIsDamage>com base no dano absorvido</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_UTILITY_BLINK_NAME" : "Avan�o Impetuoso",
+    "HABIBI_TESLA_BODY_UTILITY_BLINK_DESCRIPTION" : "<style=cIsUtility>Atordoante.</style> Transforme-se em um <style=cIsUtility>raio de eletricidade</style> e avance em dire��o a um inimigo selecionado, causando <style=cIsDamage>300% de dano</style>. <style=cIsDamage>Pode ser lan�ado novamente</style> em uma janela curta de tempo. N�o pode atingir o mesmo inimigo duas vezes.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_SPECIAL_TOWER_NAME" : "Torre de Tesla",
+    "HABIBI_TESLA_BODY_SPECIAL_TOWER_DESCRIPTION" : "Construa uma Torre de Tesla que dura <style=cIsUtility>12 segundos</style> e eletrocuta unidades pr�ximas, causando <style=cIsDamage>3x230% de dano</style>. Aprimora a Habilidade Secund�ria.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_SPECIAL_SCEPTER_TOWER_NAME" : "Tesla Network",
+    "HABIBI_TESLA_BODY_SPECIAL_SCEPTER_TOWER_DESCRIPTION" : "Construa uma Torre de Tesla por <style=cIsUtility>12 segundos</style> que eletrocuta unidades pr�ximas, causando <style=cIsDamage>3x230% de dano</style>. Aprimora a Habilidade Secund�ria.\n<color=#d299ff>CETRO: Tempo de Recarga diminu�do, Carga Adicional, a Torre eletrocuta at� 3 unidades simultaneamente</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"            : "Soldado Tesla: Dom�nio",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"     : "Como Soldado Tesla,  ven�a o jogo ou aniquile em Mon��o.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"       : "Soldado Tesla: Grande Dom�nio",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Soldado Tesla, ven�a o jogo ou aniquile em Tuf�o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf�o ou acima)</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_BIGZAPUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Big Zap",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_BIGZAPUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Soldado Tesla, comande sua Torre de Tesla para usar 2.000 Volts em 10 monstros de uma vez
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_ZAPALLYUNLOCKABLE_ACHIEVEMENT_ID_NAME"            : "Aliado Eletrocutado",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_ZAPALLYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"     : "Como Soldado Tesla, carregue um aliado com Manopla de Tesla 3 vezes em uma jogatina (o aliado carregado deve atacar para poder ser carregado novamente).
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_SHIELDZAPUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Escudo Eletrizante",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_SHIELDZAPUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Soldado Tesla, derrote um monstro chefe utilizando Carregando.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Nosso Poder",
+    "ACHIEVEMENT_HABIBI_TESLA_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Conserte uma bobina de Tesla com qualquer fonte de eletricidade (Matriz de Combust�vel, Capacitor R�gio, Bobina de Tesla Inst�vel, Perfurador Carregado, Ukelele, Ciclo do G�nese, etc).
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_TOWER_BODY_NAME" : "Torre de Tesla",
+    "HABIBI_TESLA_TOWER_SCEPTER_NAME" : "Torre de Tesla",
+    "HABIBI_TESLA_TOWER_BODY_DESCRIPTION" : "espere, como voc� chegou aqui?
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_TOWER_BODY_SUBTITLE" : "Poder da Uni�o",
+    "HABIBI_TESLA_TOWER_BODY_LORE" : ".",
+    "HABIBI_TESLA_TOWER_BODY_OUTRO_FLAVOR" : "... e ent�o se foi, constru��o conclu�da.",
+    "HABIBI_TESLA_TOWER_BODY_OUTRO_FAILURE" : "... e ent�o desapareceu, nunca se tornando a Torre Eiffel.",
+    "HABIBI_TESLA_TOWER_BODY_MASTERY_SKIN_NAME" : "Spetsnaz",
+    "HABIBI_TESLA_TOWER_BODY_NOD_SKIN_NAME" : "Nod",
+    "HABIBI_TESLA_TOWER_BODY_MC_SKIN_NAME" : "Redstone",
+    "HABIBI_TESLA_TOWER_BODY_PRIMARY_ZAP_NAME" : "Torre de Tesla",
+    "HABIBI_TESLA_TOWER_BODY_PRIMARY_ZAP_DESCRIPTION" : "Eletrocuta unidades pr�ximas, causando <style=cIsDamage>3x2.3 de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_TOWER_BODY_SECONDARY_BIGZAP_NAME" : "2.000 Volts (Torre)",
+    "HABIBI_TESLA_TOWER_BODY_SECONDARY_BIGZAP_DESCRIPTION" : "<style=cIsUtility>Eletrizante</style>. Realiza uma explos�o $<style=cIsDamage>aprimorada</style> no alvo selecionado pelo Tesla Trooper, causando <style=cIsDamage>1.500% de dano</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "TESLA_PRIMARY_ZAP_UPGRADE_DESCRIPTION" : "A cada 2 n�veis, <style=cIsUtility>+1</style> Raio de Curto Alcance
+
+Esse personagem foi traduzido por: Jaosnake",
+    "TESLA_SECONDARY_BIGZAP_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+10%</style> de �rea, <style=cIsDamage>+10%</style> de Dano
+
+Esse personagem foi traduzido por: Jaosnake",
+    "TESLA_UTILITY_SHIELDZAP_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+0.5</style> segundo tempo de melhoria
+
+Esse personagem foi traduzido por: Jaosnake",
+    "TESLA_SPECIAL_TOWER_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+1</style> segundo tempo de vida, <style=cIsUtility>carga adicional</style> a cada 3 n�veis
+
+Esse personagem foi traduzido por: Jaosnake",
+    "TESLA_SPECIAL_SCEPTER_TOWER_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+1</style> segundo tempo de vida, <style=cIsUtility>carga adicional</style> a cada 3 n�veis
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HABIBI_TESLA_BODY_PROC_BOLTS" : "Raios",
+    "HABIBI_TESLA_BODY_PROC_BOLT" : "Raio",
+    "HABIBI_TESLA_BODY_PROC_BLAST" : "Explos�o",
+    "HABIBI_TESLA_BODY_PROC_FIST" : "Soco",
+    "HABIBI_TESLA_BODY_PROC_BEAM" : "Feixe Carregado",
+    }
+}

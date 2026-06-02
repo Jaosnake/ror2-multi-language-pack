@@ -1,0 +1,47 @@
+{
+	strings:
+	{
+	"MOFFEIN_PILOT_BODY_NAME" : "파일럿",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "공수 에이스",
+	"MOFFEIN_PILOT_BODY_LORE" : "유나이티드 엔터프라이즈 운송사는 우주 전역의 파일럿을 당사의 지정 파일럿 증강 임관 프로그램에 초대하고 있음. 착륙을 손쉽게 만들어 주는 사이버네틱 증강 시술, 병기 및 보안 인증 프로그램, 호화 휴가 등 다양한 혜택을 제공함. (5년 이상의 비행 경험이 있는 인원만 지원 가능. 사이버네틱 시술의 경우 모든 프로그램 참여자에게 반드시 제공되는 것은 아님. 병기 및 보안 인증서는 UES 직원으로 재직하는 동안에만 유효함. 모든 기회는 본문에 명시된 그대로이며 참여 행성의 우주 해사법 변동에 상관없이 부가적인 퇴직금이나 기회, 혜택이 제공되진 않음.)",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "파일럿은 공중에서 공격을 퍼붓는 능력이 뛰어난 하늘의 전사입니다.<style=cSub>\r\n\r\n< ! > 파일럿은 체공을 유지하여 위험을 회피할 수 있습니다. 스킬을 영리하게 활용하면 체공 시간을 극대화할 수 있습니다.\r\n\r\n< ! > 표적 확보!는 낙하를 멈추는 데 사용할 수 있습니다.\r\n\r\n< ! > 신속 배치는 지상에서 사용하면 위로 상승하고, 체공 중에 사용하면 전방으로 이동합니다.\r\n\r\n< ! > 폭격으로 적을 공중으로 띄운 뒤 표적 확보!와 연계하면 공중에서 계속 타격할 수 있습니다.",
+	
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "...그리하여 그는 떠났다, 저 하늘 아래를 향한 꿈을 품은 채.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "...그리하여 그는 사라졌다, 더 이상 하늘에 닿지 못하게 된 채.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "...그리하여 그는 사라졌다, 더 이상 하늘에 닿지 못하게 된 채.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "집속 발사",
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "무기를 발사하여 <style=cIsDamage>160%의 피해</style>를 입힙니다. 매 3번째 공격은 <style=cIsDamage>폭발</style>하여 <style=cIsDamage>320%의 피해</style>를 입힙니다.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "무기를 발사하여 <style=cIsDamage>160%의 피해</style>를 입힙니다. 매 3번째 공격은 대상을 <style=cIsDamage>관통</style>하고 <style=cIsDamage>320%의 피해</style>를 입힙니다.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "속사",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>민첩</style>. 빠르게 무기를 발사하여 <style=cIsDamage>140%의 피해</style>를 입힙니다.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "은밀 사격",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>살해자</style>. 소음 권총을 발사하여 <style=cIsDamage>100%의 피해</style>를 입힙니다.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "표적 확보!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "무기를 <style=cIsDamage>관통성 추적 화기</style>로 전환하여 <style=cIsDamage>3x160%의 피해</style>를 입힙니다. <style=cIsUtility>공중에 있는</style> 대상에게는 <style=cIsDamage>50%</style> 더 많은 피해를 입힙니다. 최대 2회 사용 가능합니다.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "폭탄 투하!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "무기를 <style=cIsDamage>에너지 유탄 발사기</style>로 전환하여 <style=cIsDamage>480%의 피해</style>를 입힙니다. <style=cIsUtility>체공 중일 때</style>는 대신 <style=cIsDamage>3x220%의 피해</style>를 입힙니다. 최대 2회 사용 가능합니다.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "신속 배치",
+	"MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>기절</style>. 공중으로 날아올라 적을 기절시키고 <style=cIsUtility>낙하산을 펼칩니다</style>. 체공 중일 때는 대신 <style=cIsUtility>전방으로 추진</style>합니다.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "곡예비행",
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>전방으로 돌진</style>하여 잠시 <style=cIsUtility>무적 상태</style>가 됩니다. 벽에 사용할 경우 달라붙어 등반할 수 있습니다.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "폭격",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "뒤로 돌진하여 발밑에 폭탄을 설치합니다. 폭탄은 적을 <style=cIsDamage>공중으로 띄우고</style> <style=cIsDamage>600%의 피해</style>를 입힙니다. 최대 <style=cIsDamage>3</style>회 발동할 수 있으며, 2회까지 보유할 수 있습니다.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "공습",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "뒤로 돌진하여 발밑에 폭탄을 설치합니다. 폭탄은 적을 <style=cIsDamage>공중으로 띄우고</style> <style=cIsDamage>800%의 피해</style>를 입힙니다. 최대 <style=cIsDamage>6</style>회 발동할 수 있으며, 2회까지 보유할 수 있습니다.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "항공 지원",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "지정 지역에 공습을 퍼부어 <style=cIsDamage>4x400%의 피해</style>를 입힙니다. 마지막 타격은 적을 <style=cIsDamage>공중으로 띄웁니다</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "항공 포화",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "지정 지역에 공습을 퍼부어 <style=cIsDamage>8x400%의 피해</style>를 입힙니다. 마지막 타격은 적을 <style=cIsDamage>공중으로 띄웁니다</style>.",
+	}
+}

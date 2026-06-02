@@ -1,0 +1,26 @@
+{
+    "es-419": {
+        "BOG_DEPUTY_BODY_NAME": "La Delegada",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "La Delegada es un demonio de velocidad hiperagresivo que imparte justicia con sus revólveres gemelos y sus letales patadas. <i>Translated by: Jaosnake</i>",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Justicia Relámpago",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..y así se fue, al son de un estruendoso aplauso.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..y así desapareció, su actuación finalmente llegó a su fin.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Maestría",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Persecución Incansable",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "La Delegada puede correr en cualquier dirección. Golpear enemigos con sus habilidades concede una mejora de <style=cIsUtility>velocidad de movimiento</style> acumulable.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Tiro Certero",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara con revólveres de alcance medio para <style=cIsDamage>150% de daño</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Estilingada",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Arroja dos revólveres. Cada revólver disparará a un enemigo cercano para <style=cIsDamage>6x100% de daño</style>, luego explotará para <style=cIsDamage>300% de daño</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Estrella Fugaz",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Aturdidor</style>. Salta hacia adelante y dispara a un enemigo debajo de ti para <style=cIsDamage>4x150% de daño</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Cometa Colidente",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Pesado</style>. <style=cIsUtility>Avanza</style> y rebota en un enemigo, causando <style=cIsDamage>800% de daño</style>. <style=cIsUtility>Las muertes reinician el enfriamiento de tu habilidad de utilidad</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Paraíso de Balas",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salta alto en el aire y dispara balas furiosamente hacia abajo, cada una causando <style=cIsDamage>150% de daño</style>. El número de disparos escala con la velocidad de ataque.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "La Delegada: Maestría",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como La Delegada, vence el juego u oblitérate en Monzón.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "La Delegada: Maestría"
+    }
+}

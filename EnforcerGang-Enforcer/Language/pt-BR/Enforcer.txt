@@ -1,0 +1,159 @@
+﻿{
+    strings:
+    {
+    "ENFORCER_NAME" : "Enforcer",
+    "ENFORCER_DESCRIPTION" : "O Enforcer � um defensor massivo que pode resistir a ataques e revidar.<color=#CCD3E0>\n\n< ! > Escopeta Antimotim pode atravessar muitos inimigos de uma vez.\n\n< ! > Empurrar inimigos com sua Batida de Escudo vai mant�-los a uma dist�ncia segura.\n\n< ! > Use G�s Lacrimog�neo para enfraquecer multid�es de inimigos, e ent�o se aproxime e acabe com eles.\n\n< ! > Quando puder, use Proteger e Servir perto de paredes para evitar que inimigos flanqueiem voc�.\n\n
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SUBTITLE" : "Basti�o Inabal�vel",
+    "ENFORCER_LORE" : "\n<style=cMono>\"Voc� n�o tem que fazer isso.\"</style>\n\nAs palavras ecoavam em sua cabe�a e, mesmo assim, ele continuou. A c�psula estava a alguns passos de dist�ncia � ele tinha uma chance de escapar � mas algo em seu �ntimo o manteve em movimento. Ele n�o sabia o que era, mas n�o o questionou. Era uma for�a natural: a mesma for�a que sempre o impulsionou a seguir ordens.\n\nNo entanto, desta vez n�o parecia t�o natural. Essas n�o eram ordens. O gatilho pesado e seu trov�o r�tmico eram dele � e apenas dele.",
+    "ENFORCER_OUTRO_FLAVOR" : "... e assim ele se foi, incerto de seu t�tulo de protetor.",
+    "ENFORCER_OUTRO_FAILURE" : "... e assim desapareceu, as minorias do planeta finalmente em paz.",
+    "ENFORCER_PRIMARY_SHOTGUN_NAME" : "Escopeta Antimotim",
+    "ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION" : "Dispare um tiro de curto alcance que <style=cIsUtility>atravessa</style> causando <style=cIsDamage>6x60% de dano.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_PRIMARY_SUPERSHOTGUN_NAME" : "Super Escopeta",
+    "ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION" : "Dispare at� dois tiros de escopeta, causando <style=cIsDamage>8x80% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, <style=cIsDamage>dispare o cartucho inteiro de uma vez.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_PRIMARY_RIFLE_NAME" : "Metralhadora",
+    "ENFORCER_PRIMARY_RIFLE_DESCRIPTION" : "Dispare uma saraivada de balas, causando <style=cIsDamage>130% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, tem a <style=cIsDamage>precis�o aumentada</style>, mas <style=cIsHealth>diminui a velocidade de movimento</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_PRIMARY_HAMMER_NAME" : "Martelo de Brecha",
+    "ENFORCER_PRIMARY_HAMMER_DESCRIPTION" : "Balance seu martelo para causar <style=cIsDamage>500% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, acerta uma <style=cIsUtility>�rea maior</style> e causa <style=cIsDamage>1.000% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "KEYWORD_BASH" : "<style=cKeywordName>Batida</style><style=cSub>Aplica <style=cIsDamage>atordoamento</style> e <style=cIsUtility>empurr�o</style>.",
+    "KEYWORD_SPRINTBASH" : "<style=cKeywordName>Batida de Ombro</style><style=cSub><style=cIsDamage>Atordoante.</style> Corra para frente em curto alcance e cause <style=cIsDamage>450% de dano</style>.\nAtingir <style=cIsDamage>inimigos pesados</style> causa <style=cIsDamage>700% de dano</style>.",
+    "ENFORCER_SECONDARY_BASH_NAME" : "Batida de Escudo",
+    "ENFORCER_SECONDARY_BASH_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Empurra inimigos e causa <style=cIsDamage>350% de dano</style> e <style=cIsUtility>deflete proj�teis</style>.\nEnquanto estiver <style=cIsUtility>correndo</style>, realiza uma <style=cIsDamage>Batida de Ombro</style> no lugar.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "KEYWORD_BLINDED" : "<style=cKeywordName>Prejudicar</style><style=cSub>Reduz a velocidade de movimento em <style=cIsDamage>75%</style>, velocidade de ataque em <style=cIsDamage>25%</style> e armadura em <style=cIsDamage>30</style>.</style></style>",
+    "ENFORCER_UTILITY_TEARGAS_NAME" : "G�s Lacrimog�neo",
+    "ENFORCER_UTILITY_TEARGAS_DESCRIPTION" : "Lance uma granada que cobre uma �rea em um g�s <style=cIsDamage>Prejudicante</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_UTILITY_STUNGRENADE_NAME" : "Granada de Atordoamento",
+    "ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Lance uma granada que atordoa inimigos, causando <style=cIsDamage>540% de dano</style>. M�ximo de 3.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_UTILITY_TEARGASSCEPTER_NAME" : "G�s Mostarda",
+    "ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION" : "Lance uma granada que cobre uma �rea em um g�s <style=cIsDamage>Prejudicante</style>, sufocando inimigos e causando <style=cIsDamage>200% de dano por segundo</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_UTILITY_SHOCKGRENADE_NAME" : "Granada de Choque",
+    "ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION" : "<style=cIsDamage>Eletrizante</style>. Lance uma granada que eletrocuta inimigos, causando <style=cIsDamage>720% de dano</style>. M�ximo de 3.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SPECIAL_SHIELDUP_NAME" : "Proteger e Servir",
+    "ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>bloqueando todo o dano frontal</style>. <style=cIsUtility>Aumenta a habilidade prim�ria</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SPECIAL_SHIELDDOWN_NAME" : "Proteger e Servir",
+    "ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>bloqueando todo o dano frontal</style>. <style=cIsDamage>Aumenta a velocidade de ataque</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SPECIAL_SHIELDON_NAME" : "Proteger e Afastar",
+    "ENFORCER_SPECIAL_SHIELDON_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>projetando um Escudo de Energia a sua frente</style>. <style=cIsDamage>Aumenta a cad�ncia</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SPECIAL_SHIELDOFF_NAME" : "Proteger e Afastar",
+    "ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>projetando um Escudo de Energia a sua frente</style>. <style=cIsDamage>Aumenta a cad�ncia</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SPECIAL_BOARDUP_NAME" : "Skate",
+    "ENFORCER_SPECIAL_BOARDUP_DESCRIPTION" : "Descolado.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_SPECIAL_BOARDDOWN_NAME" : "Skate",
+    "ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION" : "Des-Descolado.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCERBODY_DEFAULT_SKIN_NAME" : "Padr�o",
+    "ENFORCERBODY_MASTERY_SKIN_NAME" : "Pacificador",
+    "ENFORCERBODY_TYPHOON_SKIN_NAME" : "Legislador",
+    "ENFORCERBODY_BOT_SKIN_NAME" : "N-4CR",
+    "ENFORCERBODY_CLASSIC_SKIN_NAME" : "Cl�ssico",
+    "ENFORCERBODY_NEMESIS_SKIN_NAME" : "N�mesis",
+    "ENFORCERBODY_STORM_SKIN_NAME" : "Tropa Mon��o",
+    "ENFORCERBODY_ENGI_SKIN_NAME" : "Engenheiro?",
+    "ENFORCERBODY_DOOM_SKIN_NAME" : "Doom Slayer",
+    "ENFORCERBODY_DESPERADO_SKIN_NAME" : "Desperado",
+    "ENFORCERBODY_FEMFORCER_SKIN_NAME" : "Apressado",
+    "ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME" : "Bloqueado",
+    "ENFORCERBODY_FUCKINGFROG_SKIN_NAME" : "Zero Suit",
+    "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME"           : "Motim",
+    "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"    : "Mate um Verme de Magma, uma Besta Errante e um Tit� de Pedra em uma �nica jogatina.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Enforcer: Dom�nio",
+    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Enforcer, ven�a o jogo ou aniquile em Mon��o.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Grande Dom�nio",
+    "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, ven�a o jogo ou aniquile em Tuf�o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf�o ou superior)</color>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Estra�alhar e Destruir...",
+    "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, aniquile 20 diabretes em uma �nica jogatina.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Cad�ncia",
+    "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, alcance +400% de velocidade de ataque.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Controle de Multid�o",
+    "ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, tenha 20 inimigos sob o efeito de G�s Lacrimog�neo de uma vez.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME"              : "Enforcer: N�s Temos a Tecnologia",
+    "ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"       : "Como Enforcer, seja aniquilado e trazido de volta � vida.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Libera��o",
+    "ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, estabilize a C�lula nos Campos Astrais.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: ... At� que Esteja Conclu�do",
+    "ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, aniquile 10 diabretes suseranos em uma �nica jogatina.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Enforcer: Schmoovin'",
+    "ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Enforcer, mostre seus passos de dan�a.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Enforcer: Regras da Natureza",
+    "ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer, derrote o guardi�o da Costa Dourada empurrando-o para fora do mapa.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Enforcer: Impondo Perfei��o",
+    "ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Enforcer, torne-se um com o fungo.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Vida Longa ao Imp�rio",
+    "ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, derrote uma Unidade de Controle Solus Elite.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Na Alegria e na Tristeza",
+    "ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, fa�a um amigo na Lua.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Bloqueio",
+    "ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, bloqueie um ataque com seu escudo.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME" : "Enforcer: Bloqueio",
+    "ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+5%</style> de dano, <style=cIsUtility>+10%</style> de espessura do tiro, e <style=cIsUtility>+0.1</style> espalhamento do tiro
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ENFORCER_PROC_BULLET" : "Bala",
+    "ENFORCER_PROC_HAMMER" : "Martelo",
+    "ENFORCER_PROC_BASH" : "Batida",
+    "ENFORCER_PROC_GRENADE" : "Granada",
+    "ENFORCER_PROC_DAMAGING_GAS" : "G�s Prejudicante",
+    "ENFORCER_PROC_SKATEBOARD" : "Skate",
+    }
+}

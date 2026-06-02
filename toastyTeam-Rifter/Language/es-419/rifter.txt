@@ -1,0 +1,25 @@
+BLAKE_RIFTER_NAME: Rifter
+BLAKE_RIFTER_SUBTITLE: Manipulador de Hendiduras
+PRIMARY_GAUNTLET_RANGED: Hendidura Proyectil
+PRIMARY_GAUNTLET_RANGED_DESCRIPTION: Dispara una hendidura de largo alcance para 500% de daño.
+SECONDARY_FRACTURE: Fractura
+SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Fractura</style>. Dispara una hendidura de largo alcance para 75% de daño, causando hasta 5 fragmentaciones.
+SECONDARY_FAULT_LINE: Línea de Falla
+SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Fractura</style>. Crea una línea de falla que se fragmenta, causando 700% de daño.
+UTILITY_SLIPSTREAM: Corriente Dimensional
+UTILITY_SLIPSTREAM_DESCRIPTION: Teletransporta una corta distancia. Recarga la reserva de la habilidad secundaria.
+UTILITY_CHAINED_WORLDS: Mundos Encadenados
+UTILITY_CHAINED_WORLDS_DESCRIPTION: Conecta dos puntos en el espacio, creando un portal que transporta proyectiles.
+UTILITY_QUANTUM_RIFT: Hendidura Cuántica
+UTILITY_QUANTUM_RIFT_DESCRIPTION: Abre una hendidura cuántica que distorsiona el espacio circundante.
+SPECIAL_TIMELOCK: Bloqueo Temporal
+SPECIAL_TIMELOCK_DESCRIPTION: Bloquea el tiempo de los enemigos en un área, congelándolos por unos segundos.
+SPECIAL_RECURSION: Recursión
+SPECIAL_RECURSION_DESCRIPTION: Replica una hendidura, haciendo que se repita después de un corto período.
+PASSIVE_RIFT_BOOST: Impulso de Hendidura
+PASSIVE_RIFT_BOOST_DESCRIPTION: Tus hendiduras otorgan un impulso de velocidad de movimiento al pasar a través de ellas.
+PASSIVE_RIFT_FRACTURE: Fragmentación de Hendidura
+PASSIVE_RIFT_FRACTURE_DESCRIPTION: Los enemigos golpeados por hendiduras acumulan fragmentación, aumentando el daño recibido.
+MASTERY_SKIN_NAME: Rifter: Maestría
+BLAKE_NEM_RIFTER_NAME: Némesis Rifter
+BLAKE_NEM_RIFTER_SUBTITLE: Hendidura Corrompida

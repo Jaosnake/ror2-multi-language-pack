@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "Temizlikçi",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Yalın, Acımasız, Temizlik Makineleri",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...ve böylece gittiler, iş tamamdı",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...ve böylece yok oldular, başlangıçtan daha büyük bir karmaşa bırakarak",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "Temizlikçi, düşmanlarının yerçekimini kendi avantajına kullanan bir temizlik savaşı ustasıdır.<color=#CCD3E0>\n\n< ! > Grav-Süpürge kombolarını zincirleyerek düşmanları daha da yükseğe kaldırın.\n\n< ! > Grav-Süpürge ve MAID ile havaya kaldırdıktan sonra Çöp At ile düşmanları yere çakın!\n\n< ! > Akış'ın çift zıplamasını havada kombo için, zırhını ise tehlikeli durumlardan kurtulmak için kullanın.\n\n< ! > MAID'i düşmanları kaldırmak ve kendinizi yeniden konumlandırmak için kullanın.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "Şimdi duramam. Şimdi duramam. Attığım her adım geri alamayacağım bir adım. Ne olursa olsun onu bulacağım.\n\nHepsi bir ritim, sadece bir ritim. Her çizgiden çıktığımda bir ceza. Groove'a itaat edeceğim. Hiçbir şey beni şimdi durduramaz.\n\nHer yara izi buna değer. Hissediyorum, yaklaşıyorum. Ona sahip olacağım ve benim olacak.\n\nNe kadar kan olursa olsun, buna değer. İstediğimi bulacağım ve eve döneceğim.\n\nKaç kişiyi katledersem katledeyim, benim olacak... Benden sonsuza kadar saklanamaz.\n\nBurada, hissediyorum. Bu güvenlik sandığı, içinde o var. Açıyorum ve buluyorum.\n\nSonunda... benim. Yaralı ellerimde tutuyorum. Gerçekten yıllar geçti mi?\n\nBuna bayılacak, biliyorum.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Ağırlıksız</style><style=cSub><style=cIsUtility>Hedeften yerçekimini kaldırır</style> ve <style=cIsUtility>Hareket ve saldırı hızını yavaşlatır</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Çakma</style><style=cSub>Bir düşmanı aşağı düşmeye zorlar, araziye çarptığında <style=cIsDamage>şok dalgası</style> oluşturur, düşülen metre başına <style=cIsDamage>200% hasar</style> + <style=cIsDamage>30% hasar</style> verir.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Akış</style><style=cSub>Her <style=cIsUtility>Groove</style> yığını için <style=cIsDamage>30 zırh</style> + <style=cIsDamage>5 zırh</style> kazan.\n<style=cIsUtility>Çift Zıplama</style> kazan.\n<style=cIsUtility>+30% Bekleme Süresi Azaltma.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Walkman",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "Vuruşta, yığın başına <style=cIsUtility>%20 hareket hızı</style> sağlayan <style=cIsUtility>Groove</style> yığını kazanırsın. Savaş dışında azalır.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Grav-Süpürge",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Çevik</style>. Süpürgeni salla, <style=cIsDamage>%100 hasar</style>. Her üçüncü vuruş <style=cIsDamage>%200 hasar</style> verir ve <style=cIsUtility>ağırlıksız</style> uygular.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Çöp At",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Vinç yerleştir</s> Bir düşmana sihirli bir şekilde uç, <style=cIsDamage>%300</style> hasar ver ve onu <style=cIsDamage>çak</style>.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Akış",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "<style=cIsDamage>Akış</style>'ı <style=cIsUtility>4 saniye</style> + her <style=cIsUtility>Groove</style> yığını için <style=cIsUtility>0,4 saniye</style> etkinleştir, <style=cIsDamage>zırh, çift zıplama ve bekleme süresi azaltma</style> kazan. <style=cIsDamage>Akış</style> sırasında <style=cIsUtility>Groove</style> kaybedemez veya kazanamazsın. <style=cIsDamage>Akış</style> bittikten sonra tüm <style=cIsUtility>Groove</style> yığınlarını kaybedersin.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "<style=cIsUtility>MAID</style> birimini düşmanların arasından <style=cIsDamage>%300 hasar</style> için gönder, sonra kısaca durur ve sana döner. <style=cIsUtility>MAID</style>'e çekilmek ve <style=cIsDamage>%500 hasar</style> ile patlamak için tekrar etkinleştir, <style=cIsUtility>Ağırlıksız</style> uygular.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Klasik",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Temizlikçi: Ustalık",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Temizlikçi olarak oyunu Muson'da bitir veya yok et.",
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "pt-BR":  {
+                  "BLAKE_RIFTER_NAME":  "Rifter",
+                  "BLAKE_RIFTER_DESCRIPTION":  "O Rifter utiliza posicionamento estrategico para criar fendas devastadoras na realidade.<color=#CCD3E0>\n\n<!> Fendas sao significativamente mais fortes que linhas de fratura - posicionamento e a chave!\n\n<!> Utilizar as capacidades de longo e medio alcance do seu primario permite que voce varie suas posicoes.\n\n<!> Certas habilidades podem teletransportar inimigos, enquanto outras sao condicionais. Usar este poder pode manter inimigos a distancia.\n\n<!> Trava Temporal pode ser uma ferramenta poderosa para reunir inimigos e explodir todos de uma vez!
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_SUBTITLE":  "Manipulador de Fendas",
+                  "BLAKE_RIFTER_OUTRO_FLAVOR":  "..e assim ele deixou um mundo fraturado para tras.",
+                  "BLAKE_RIFTER_OUTRO_FAILURE":  "..e assim ele desapareceu de todos os reinos.",
+                  "BLAKE_RIFTER_MASTERY_SKIN_NAME":  "Rifter: Maestria",
+                  "BLAKE_RIFTER_PASSIVE_RIFT_BOOST":  "Impulso de Fenda",
+                  "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION":  "Suas fendas concedem um impulso de velocidade de movimento ao passar por elas.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE":  "Fratura de Fenda",
+                  "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION":  "Inimigos atingidos por fendas acumulam estilhaçamento, aumentando o dano recebido.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED":  "Fenda Projétil",
+                  "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION":  "Dispare uma fenda de longo alcance para 500% de dano.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_SECONDARY_FRACTURE":  "Fratura",
+                  "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION":  "<style=cIsDamage>Fratura</style>. Dispare uma fenda de longo alcance para 75% de dano, causando até 5 estilhaçamentos.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_SECONDARY_FAULT_LINE":  "Linha de Falha",
+                  "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION":  "<style=cIsDamage>Fratura</style>. Crie uma linha de falha que se estilhaça, causando 700% de dano.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_UTILITY_SLIPSTREAM":  "Corrente Dimensional",
+                  "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION":  "Teleporte uma curta distância. Recarrega o estoque da habilidade secundária.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT":  "Fenda Quântica",
+                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION":  "Abra uma fenda quântica que distorce o espaço ao redor.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS":  "Mundos Acorrentados",
+                  "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION":  "Conecte dois pontos no espaço, criando um portal que transporta projéteis.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_RIFTER_SPECIAL_TIMELOCK":  "Trava Temporal",
+                  "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION":  "Trave o tempo de inimigos em uma área, congelando-os por alguns segundos.
+
+Esse personagem foi traduzido por: Jaosnake",
+                  "BLAKE_NEM_RIFTER_NAME":  "Nêmesis Rifter",
+                  "BLAKE_NEM_RIFTER_SUBTITLE":  "Fenda Corrompida"
+              }
+}

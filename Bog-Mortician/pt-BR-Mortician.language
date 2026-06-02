@@ -1,0 +1,45 @@
+{
+    "pt-BR": {
+        "BOG_MORRIS_BODY_NAME": "Mortician",
+        "BOG_MORRIS_BODY_DESCRIPTION": "O Mortician é um necromante corpo a corpo lento, porém resistente, que se destaca em controlar território com seu exército de mortos-vivos.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BOG_MORRIS_BODY_SUBTITLE": "Morto-Vivo",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..e assim ele partiu, seu dever sombrio ainda não cumprido.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..e assim ele desapareceu, finalmente lhe foi concedida a paz que ele desejava.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Maestria",
+
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Oferenda de Almas",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghouls <style=cIsUtility>ativam seus efeitos ao abater</style> quando são mortos.
+
+Esse personagem foi traduzido por: Jaosnake",
+
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Golpe de Pá",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Balance sua pá para <style=cIsDamage>800% de dano</style>. Acertar ghouls e tumbas com sua pá causa <style=cIsUtility>lançamento</style> para <style=cIsDamage>350% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Levantar Mortos",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Vínculo Espiritual</style>. Gera um ghoul no chão à sua frente. Ghouls mordem para <style=cIsDamage>150% de dano</style> e cospem bile <style=cIsDamage>Pestilenta</style> para <style=cIsDamage>100% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrifício",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Detone</style> o ghoul alvo para <style=cIsDamage>700% de dano</style> e <style=cIsHealing>cure 15% de sua saúde máxima</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Tombstone",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Eriga uma Tombstone que gera um ghoul a cada <style=cIsUtility>10 segundos</style>. Sempre que um ghoul é abatido, a tumba gera uma <style=cIsDamage>alma vingativa</style> <style=cIsUtility>explosiva</style> que dispara contra um inimigo próximo para <style=cIsDamage>350% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Maestria",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Mortician, vença o jogo ou oblitere na Monção.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Maestria",
+
+        "BOG_GHOUL_BODY_NAME": "Ghoul",
+        "BOG_TOMBSTONE_BODY_NAME": "Tombstone"
+    }
+}

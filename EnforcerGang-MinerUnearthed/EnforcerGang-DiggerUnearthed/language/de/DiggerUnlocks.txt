@@ -1,0 +1,56 @@
+{
+	strings:
+	{
+	"MINERBODY_DEFAULT_SKIN_NAME" : "Default",
+	"MINERBODY_MOLTEN_SKIN_NAME" : "Geschmolzen",
+	"MINERBODY_TYPHOON_SKIN_NAME" : "Eroberer",
+	"MINERBODY_PUPLE_SKIN_NAME" : "Puple",
+	"MINERBODY_TUNDRA_SKIN_NAME" : "Tundra",
+	"MINERBODY_BLACKSMITH_SKIN_NAME" : "Schmied",
+	"MINERBODY_IRON_SKIN_NAME" : "Eisen",
+	"MINERBODY_GOLD_SKIN_NAME" : "Gold",
+	"MINERBODY_DIAMOND_SKIN_NAME" : "Diamant",
+	"MINERBODY_STEVE_SKIN_NAME" : "Minecraft",
+	"MINERBODY_DRIP_SKIN_NAME" : "Drip",
+	
+	"MINER_UNLOCKABLE_ACHIEVEMENT_NAME" : "Adrenalinraush",
+	"MINER_UNLOCKABLE_UNLOCKABLE_NAME" : "Adrenalinraush",
+	"MINER_UNLOCKABLE_ACHIEVEMENT_DESC" : "Öffne eine legendäre Truhe.",
+	
+	"MINER_ALTUNLOCKABLE_ACHIEVEMENT_NAME" : "Geschmiedet in Flammen",
+	"MINER_ALTUNLOCKABLE_UNLOCKABLE_NAME" : "Geschmiedet in Flammen",
+	"MINER_ALTUNLOCKABLE_ACHIEVEMENT_DESC" : "Besiege den einzigartigen Beschützer of Abyssal Depths.",
+	
+	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter: Großmeister",
+	"MINER_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter: Großmeister",
+	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC" : "Gewinne das Spiel als Bergarbeiter oder vernichte dich selbst  Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
+	
+	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter: Beherschung",
+	"MINER_MONSOONUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter: Beherschung",
+	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC" : "Gewinne das Spiel als Bergarbeiter oder vernichte dich selbst auf der Schwierigkeissstufe Monsun.",
+	
+	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter: Geplündertes Gold",
+	"MINER_CRUSHUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter: Geplündertes Gold",
+	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_DESC" : "Füge als Bergarbeiter 12 Stapel Zerspalten dem einzigartigen Wächter der Goldküste hinzu.",
+	
+	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter:  Junkie",
+	"MINER_CRACKUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter:  Junkie",
+	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_DESC" : "Sammle als Berarbeiter 50 Stapel Adrenalin",
+	
+	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter:  Komprimiert",
+	"MINER_CAVEINUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter:  Komprimiert",
+	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_DESC" : "Treffe als Bergarbeiter 20 Gegner mit einem Rückstoß",
+	
+	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter:  Die fünf Schlüssel",
+	"MINER_PUPLEUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter:  Die fünf Schlüssel",
+	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_DESC" : "Entdecke GNOMEs Geheimnis als Bergarbeiter.",
+	
+	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter:  Eingefroren",
+	"MINER_TUNDRAUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter:  Eingefroren",
+	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_DESC" : "Erreiche als Bergarbeiter Rallypoint Delta in weniger asl 8 Minuten.",
+	
+	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_NAME" : "Bergarbeiter:  Gehärtet",
+	"MINER_BLACKSMITHUNLOCKABLE_UNLOCKABLE_NAME" : "Bergarbeiter:  Gehärtet",
+	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_DESC" : "Finde als Bergarbeiter das Schmiedewerkzeug."
+	}
+}

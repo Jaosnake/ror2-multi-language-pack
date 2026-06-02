@@ -1,0 +1,36 @@
+{
+    strings:
+    {
+    "ITEM_BARRIERONCRIT_NAME" : "Brincos de Bismuto",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "Ganhe <style=cIsDamage>5% de chance de causar sangramento</style>. Ganhe uma <style=cIsHealing>barreira tempor\u00e1ria</style> de <style=cIsHealing>15 de sa\u00fade</style> ao aplicar sangramento <style=cStack>(+10 por ac\u00famulo)</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ITEM_BARRIERONCRIT_PICKUP" : "Ganhe uma barreira ao aplicar sangramento",
+    "ITEM_BARRIERONCRIT_LORE" : "Os Brincos s\u00e3o de Bismuto, ou sei l\u00e1.",
+    "ITEM_ENIGMATICKEYCARD_NAME" : "Cart\u00e3o de Acesso Enigm\u00e1tico",
+    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Chance de gerar um orbe ao golpear que segue e ataca inimigos.",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "4% de chance ao golpear de gerar um <style=cIsDamage>orbe perseguidor</style> que atinge inimigos pr\u00f3ximos, causando <style=cIsDamage>140% de dano base <style=cStack>(+140% por ac\u00famulo)</style></style> no impacto.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ITEM_ENIGMATICKEYCARD_LORE" : "Nenhum cart\u00e3o de acesso vai conseguir abrir a droga do c\u00e9rebro do Enigma",
+    "ITEM_BLEEDCRIPPLE_NAME" : "Adaga de Fabinhoru",
+    "ITEM_BLEEDCRIPPLE_PICKUP" : "Reduz a armadura dos inimigos sangrando ap\u00f3s golpe\u00e1-los.",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Ganhe <style=cIsDamage>5%</style> de chance de causar <style=cIsDamage>sangramento</style> ao golpear um inimigo. <style=cIsDamage>Golpear</style> inimigos enquanto estiverem <style=cIsDamage>sangrando</style> reduz sua <style=cIsDamage>armadura</style> em <style=cIsDamage>30</style> <style=cStack>(+15 por ac\u00famulo)</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ITEM_BLEEDCRIPPLE_LORE" : "she fabin my dagger til i horu",
+    "ITEM_GLASSHARVESTER_NAME" : "Colheitadeira de Vidro",
+    "ITEM_GLASSHARVESTER_PICKUP" : "Seus 'Acertos Cr\u00edticos' causam 40% de dano adicional. Quebra com pouca sa\u00fade, gerando experi\u00eancia.",
+    "ITEM_GLASSHARVESTER_DESC" : "Ganhe <style=cIsDamage>5% de chance de acerto cr\u00edtico</style>. <style=cIsDamage>Acertos Cr\u00edticos</style> causam <style=cIsDamage>40% de dano</style> adicional <style=cStack>(+30% por ac\u00famulo)</style>. Ao receber dano com menos de <style=cIsHealth>25% de sa\u00fade</style>, <style=cIsUtility>quebra</style> este item e garante 15% da <style=cIsUtility>experi\u00eancia</style> do seu n\u00edvel atual.",
+    "ITEM_GLASSHARVESTER_LORE" : "Isso colhe vidro ou isso colhe com vidro?\nEu n\u00e3o sei e eu n\u00e3o ligo, agora cai fora da minha casa!",
+    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Colheitadeira de Vidro (Quebrado)",
+    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Colheita colhida. Valeu a experi\u00eancia?",
+    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Um item usado sem nenhum poder restante.",
+    "ITEM_PICKUPBUFF_NAME" : "Manto de Jape",
+    "ITEM_PICKUPBUFF_PICKUP" : "Ganha um b\u00f4nus que garante armadura e cura ao coletar um item.",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "Ganha um b\u00f4nus que garante a voc\u00ea <style=cIsUtility>+5 de armadura</style> e <style=cIsHealing>30% de cura</style> ao coletar um item. M\u00e1ximo de 3 ac\u00famulos de b\u00f4nus <style=cStack>(+2 por ac\u00famulo)</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ITEM_PICKUPBUFF_LORE" : "\"Registro do Intendente. 17 dias ap\u00f3s o incidente.\n\nJ\u00e1 se passaram mais meio m\u00eas desde que quase nos transformamos em uma pasta negra e ardente durante nossa introdu\u00e7\u00e3o involunt\u00e1ria \u00e0 atmosfera deste planeta assassino. Devido \u00e0 natureza de nossa chegada, que foi uma fuga de uma nave de carga em colapso que foi arrancada da viagem em dobra, nosso suprimento de necessidades tem diminu\u00eddo a partir de uma contagem de base j\u00e1 perigosamente baixa. Fomos for\u00e7ados a racionar a pouca comida e \u00e1gua que temos. Para manter isso sob controle, fui eleito como Intendente de nosso posto avan\u00e7ado. \nNossos suprimentos s\u00e3o os seguintes:\n\n-Comida e \u00e1gua suficientes para durar 1 semana e meia.\n-3 e meia caixas de papel\u00e3o cheias de metal e componentes eletr\u00f4nicos dos drones e sentinelas destru\u00eddos.\n-4 sacos de equipamento m\u00e9dico. \n-2 chaveiros, cada um com 13 chaves enferrujadas? (Deve ser um erro, Juarez disse que isso foi trazido junto com o resto da carga que aqueles tr\u00eas sujeitos trouxeram h\u00e1 2 dias, eles devem estar produzindo essas coisas ou algo assim?)\n-6 caixas cheias de muni\u00e7\u00e3o (potencialmente diminuindo a uma taxa exponencial)\n\nAlgo n\u00e3o est\u00e1 se encaixando. O quadro de avisos que colocamos para acompanhar a quantidade de suprimentos que todos t\u00eam usado n\u00e3o est\u00e1 cobrindo tudo. Embora isso possa ser apenas uma simples falta de comunica\u00e7\u00e3o por parte de todos, a chance de algu\u00e9m pegar mais do que precisa est\u00e1 aumentando constantemente a cada dia. N\u00e3o tenho evid\u00eancias para apontar exatamente isso, mas \u00e9 uma (assustadora) possibilidade. \n\n\nSe for apenas uma pessoa pegando tudo, ent\u00e3o pelas taxas que foram mostradas... \nEles provavelmente est\u00e3o mais preparados que o resto de n\u00f3s.\n\nFim do registro.\n\n\nAdendo: QUEM, PELO NOME SANTO DE DEUS ACIMA, PEGOU. MEUS. CIGARROS??\"",
+    }
+}

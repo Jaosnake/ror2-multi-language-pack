@@ -1,0 +1,62 @@
+{
+	strings:
+	{
+	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
+	"MOFFEIN_HAND_BODY_SUBTITLE" : "Parasız Temizlikçi",
+	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D, güçlü yakın dövüş saldırıları ortalığı dağıtacağı kesin olan tank gibi bir robot temizlikçidir! <style=cSub>\r\n\r\n< ! > HURT, havadaki düşmanlara karşı artırılmış savurmaya sahiptir. Düşmanları havaya fırlatmak için FORCED_REASSEMBLY kullan, ardından onları uçurmak için HURT kullan!\r\n\r\n< ! > OVERCLOCK, düşmanlara vurmaya devam ettiğin sürece sürer.\r\n\r\n< ! > OVERCLOCK'u iptal etmek, uçan düşmanlara ulaşmak için yukarı doğru fırlamanı sağlar.\r\n\r\n< ! > İyileşmek ve savaşta kalmak için DRONE'ları kullan.\r\n\r\n",
+	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--UES [REDACTED] TEMELLİ DEPARTMANINDAN OTOMATİK TRANSKRİPSİYON--//</style>\r\n\r\n<i>*<color=#327FFF>Spinel Tonic</color> içer*</i>\n\n<color=#6955A6>Command</color> eseri olmadan oynamak, kullanılmanın nihai biçimi midir?\n\n<color=#6955A6>Command</color> olmadan oynamaktan daha aşağılık bir şey düşünemiyorum. Dürüst ol, mantıklı düşün. 60 dakika boyunca koşuyor, zıplıyor, ateş ediyorsun, sırf kahrolası bir <color=#77FF16>Squid Polyp</color> almak için. Oyununa kattığın tüm o sıkı çalışma — <style=cIsHealth>Stone Golem</style> lazerlerinden kaçmak, altı bin <style=cIsHealth>Lesser Wisps</color>'in kafanın üstünde belirmesinden rahatsız olmak, <color=#E5C962>Shrines of the Mountain</color>'ı etkinleştirmek, hepsi basit bir sonuç için: Envanterin para harcatan <color=#FFFFFF>Warbanners</color> ve <color=#FFFFFF>Monster Tooth</color> kolyeleriyle dolu.\n\nTanrı gibi bir oyun mu? Harika. Oyununa hiçbir şey katmayan bir sürü berbat eşya, satın aldığın <color=#E5C962>Sandıklardan</color> çıkıyor. <style=cIsHealth>Lemurianları</style> öldürerek kazandığın zor kazanılmış paranın faydasını görüyorlar.\n\nBu oyunu oynayan bir adam olarak, hayatının iki saatini <style=cIsHealth>KELİMESİ KELİMESİNE</style> kutuları açmaya ve başka bir <color=#77FF16>Chronobauble</color> olmaması için dua etmeye adıyorsun. Bu nihai ve son aşağılanmadır. Bir de mantıklı düşün.\r\n<style=cMono>\r\nTranskripsiyonlar tamamlandı.\r\n</style>\r\n \r\n\r\n",
+	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "..ve böylece gitti, servoları yeni bir yaşamla atarken.",
+	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "..ve böylece yok oldu, tüm çabalarında ödülsüz kaldı.",
+	
+	"MOFFEIN_HAND_BODY_PASSIVE_NAME" : "SWARM_ARMOR",
+	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "Sahip olunan her <style=cIsUtility>drone</style> için, <style=cIsDamage>gelen hasarı</style> maksimum sağlığının <style=cIsDamage>%0,3'ü</style> kadar azalt.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_NAME" : "HURT",
+	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "Tüm savaşçılara <style=cIsDamage>%390 hasar</style> için kuvvet uygula. <style=cIsDamage>OVERCLOCK</style> aktifken <style=cIsDamage>Sersemletir</style>.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME" : "SMASH",
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "<style=cIsHealth>Yavaşla</style> ve tüm savaşçıları <style=cIsDamage>%600 hasar</style> için ez. <style=cIsDamage>OVERCLOCK</style> aktifken <style=cIsDamage>Sersemletir</style>.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "FORCED_REASSEMBLY",
+	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>Sersemletici</style>. Yüklen ve tüm savaşçılara <style=cIsDamage>%600-%1500 hasar</style> için büyük kuvvet uygula.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "UNETHICAL_REASSEMBLY",
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Sersemletici</style>. Yüklen ve tüm savaşçılara <style=cIsDamage>%900-%2250 hasar</style> için <style=cIsHealth>EZİCİ</style> kuvvet uygula.",
+	
+	"KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Fırlama</style><style=cSub>Beceri, yukarı fırlamak için erken iptal edilebilir.</style>",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME" : "CANCEL",
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Yukarı fırla</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "OVERCLOCK",
+	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>Fırlama</style>. <style=cIsUtility>Hareket hızını</style> ve <style=cIsDamage>saldırı hızını</style> <style=cIsDamage>%40</style> artır. <style=cIsUtility>Süreyi artırmak</style> için düşmanlara vur.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME" : "FOCUS",
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Fırlama</style>. <style=cIsDamage>+%50 hasar</style> ve <style=cIsUtility>50 zırh</style> kazan. <style=cIsUtility>Süreyi artırmak</style> için düşmanlara vur.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "DRONE - İYİLEŞTİR",
+	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "<style=cIsDamage>%270 hasar</style> veren ve <style=cIsHealing>verilen hasarın %40'ı kadar iyileştiren</style> bir drone ateşle. Öldürmeler ve yakın dövüş vuruşları <style=cIsUtility>bekleme süresini azaltır</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "DRONE - HIZ",
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "<style=cIsDamage>%270 hasar</style> veren ve <style=cIsDamage>geçici olarak saldırı hızı kazandıran</style> bir drone ateşle. Öldürmeler ve yakın dövüş vuruşları <style=cIsUtility>bekleme süresini azaltır</style>.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Tamirci",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Rallypoint Delta'daki robot temizlikçiyi bir Kaçış Kapsülünün Yakıt Dizisiyle onar.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Dayak",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "OVERCLOCK'u 45 saniyeden fazla aktif tut.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Son boss'u dümdüz et.",
+	
+	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Ustalık",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "HAN-D olarak, oyunu Monsoon'da bitir veya obliterate ol.",
+	
+	"MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME" : "RE-TRN",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Büyük Ustalık",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "HAN-D olarak, oyunu Typhoon veya Eclipse'de bitir veya obliterate ol.\n<color=#8888>(Typhoon veya daha yüksek herhangi bir zorluğu sayar)</color>",
+	
+	"MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME" : "HO-POO",
+	}
+}

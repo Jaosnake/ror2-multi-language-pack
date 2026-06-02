@@ -1,0 +1,154 @@
+{
+	strings: {
+ 	 "ROB_BELMONT_BODY_NAME": "<color=#3060FF>Belmont</color>",
+ 	 "ROB_BELMONT_BODY_NAME_ALT": "Chasseur",
+ 	 "ROB_BELMONT_BODY_DESCRIPTION": "Le <color=#3060FF>Belmont</color> est un chasseur de monstres d'élite avec les bons outils pour toute situation, aussi terrible soit-elle.<color=#CCD3E0>\n\n< ! > Le fouet inflige des dégâts en sécurité à distance, mais les coups d'épée infligent bien plus de dégâts au total.\n\n< ! > Ruée est l'outil parfait pour s'approcher et déchiqueter avec votre épée.\n\n< ! > Utilisez Esquive pour vous balancer depuis les monstres volants et parcourir de grandes distances.\n\n< ! > Flamme Ancienne peut être utilisée pour nettoyer une foule avec facilité.",
+ 	 "ROB_BELMONT_BODY_SUBTITLE": "Chasseur de Monstres",
+ 	 "ROB_BELMONT_BODY_LORE": "Je ne suis pas à ma place ici.\n\nCe monde pue la <color=#7F364F>corruption</color>. Pas celle qui suppure dans le cœur des hommes, ni la souillure d'un domaine vampirique, mais quelque chose de plus profond — de plus ancien. Elle s'accroche à l'air, sature le sol et tord les bêtes qui errent sur cette terre abandonnée. La lune au-dessus observe, distante mais suffocante. Elle est anormale, comme volée à sa place légitime.\n\nEt pourtant, j'ai été amené ici.\n\nLe destin ? Non, je n'ai jamais fait confiance à de telles notions. Une blague cruelle, peut-être, jouée par une main invisible. Un instant, le vent hurlait dans les couloirs de ma chasse, l'odeur du sang et de la vieille pierre dans mes poumons — l'instant d'après, je tombais. Le ciel était une tempête de feu, le sol montait rapidement sous moi. <style=cIsHealth>J'aurais dû mourir.</style>\n\nAu lieu de cela, je me tiens debout.\n\nEncore.\n\n<color=#FF0033>Toujours.</color>",
+ 	 "ROB_BELMONT_BODY_OUTRO_FLAVOR": "..et ainsi il partit, son vertueux voyage achevé.",
+ 	 "ROB_BELMONT_BODY_OUTRO_FAILURE": "..et ainsi il disparut, la noble lignée touchant à sa fin.",
+
+ 	 "ROB_BELMONT_BODY_DEFAULT_SKIN_NAME": "<color=#3060FF>Défaut</color>",
+ 	 "ROB_BELMONT_BODY_MONSOON_SKIN_NAME": "<color=#3060FF>Exilé</color>",
+     "ROB_BELMONT_BODY_MONSOON_ALTERNATE_SKIN_NAME": "<color=#3060FF>Exilé EX</color>",
+ 	 "ROB_BELMONT_BODY_LEON_SKIN_NAME": "<color=#3060FF>Progéniteur</color>",
+	 "ROB_BELMONT_BODY_SOMA_SKIN_NAME": "<color=#3060FF>Réincarnation</color>",
+	 "ROB_BELMONT_BODY_MORRIS_SKIN_NAME": "<color=#3060FF>Explorateur</color>",
+ 	 "ROB_BELMONT_BODY_JULIUS_SKIN_NAME": "<color=#3060FF>Pionnier</color>",
+ 	 "ROB_BELMONT_BODY_ISAAC_SKIN_NAME": "<color=#3060FF>Forge-Maître</color>",
+ 	 "ROB_BELMONT_BODY_MINECRAFT_SKIN_NAME": "<color=#3060FF>Minecraft</color>",
+
+     "ROB_BELMONT_BODY_PASSIVE_NAME": "Lignée Divine",
+     "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "À chaque étape, un <color=#7F364F>Autel de la Nuit</color> apparaît, octroyant des <color=#FFFF00>Fragments de Clé</color> une fois complété. Ceux-ci servent à acquérir de l'<style=cIsDamage>équipement puissant</style> pour le <color=#3060FF>Belmont.",
+     "ROB_BELMONT_BODY_CONFIRM_NAME": "Confirmer",
+ 	 "ROB_BELMONT_BODY_CONFIRM_DESCRIPTION": "Procéder avec la compétence actuelle.",
+ 	 "ROB_BELMONT_BODY_CANCEL_NAME": "Annuler",
+ 	 "ROB_BELMONT_BODY_CANCEL_DESCRIPTION": "Annuler la compétence actuelle.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY_NAME": "Purifier",
+ 	 "ROB_BELMONT_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>Agile.</style> Taillez pour <style=cIsDamage>260% de dégâts</style>. Si la cible est éloignée, faites claquer votre <style=cIsUtility>fouet</style> pour <style=cIsDamage>700% de dégâts</style>.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY2_NAME": "Purge",
+ 	 "ROB_BELMONT_BODY_PRIMARY2_DESCRIPTION": "<style=cIsUtility>Agile.</style> Faites claquer votre <style=cIsUtility>fouet</style> pour <style=cIsDamage>500% de dégâts</style> à tous les ennemis devant.",
+ 	 
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_NAME": "Ruée",
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_DESCRIPTION": "<style=cIsUtility>Étourdisant.</style> Glissez vers l'avant pour <style=cIsDamage>350% de dégâts</style>, vous propulsant du premier ennemi touché.",
+
+	 "ROB_BELMONT_BODY_UTILITY_NAME": "Esquive",
+	 "ROB_BELMONT_BODY_UTILITY_DESCRIPTION": "Foncez dans une direction. <style=cIsUtility>Maintenez</style> pour ensuite vous balancer depuis l'<style=cIsDamage>ennemi ciblé</style> avec votre <style=cIsUtility>fouet</style>.",
+
+	 "ROB_BELMONT_BODY_UTILITY2_NAME": "Juger",
+	 "ROB_BELMONT_BODY_UTILITY2_DESCRIPTION": "Exécutez un uppercut dévastateur pour <style=cIsDamage>1200% de dégâts</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_NAME": "Flamme Ancienne",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_DESCRIPTION": "Lancez un bocal de <style=cIsUtility>fragments de feu follet</style>, explosant et déclenchant des <style=cIsUtility>piliers de flammes</style> pour <style=cIsDamage>800% de dégâts</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_NAME": "Feu Infernal",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_DESCRIPTION": "Lancez un bocal de <style=cIsUtility>fragments de feu follet</style>, explosant et déclenchant des <style=cIsUtility>piliers de flammes</style> pour <style=cIsDamage>800 de dégâts</style>.\n<color=#d299ff>SCEPTRE : Les flammes sont plus grandes, infligent 1200% de dégâts et laissent une traînée de feu au sol.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_NAME": "Croix de Combat",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_DESCRIPTION": "Lancez une <style=cIsUtility>croix perforante</style> qui frappe plusieurs fois pour <style=cIsDamage>250% de dégâts</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_NAME": "Triple Croix",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_DESCRIPTION": "Lancez une <style=cIsUtility>croix perforante</style> qui frappe plusieurs fois pour <style=cIsDamage>250% de dégâts</style>.\n<color=#d299ff>SCEPTRE : En lance trois à la fois.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_NAME": "Balle d'Argent",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_DESCRIPTION": "Tirez une <style=cIsUtility>balle d'argent</style> pour <style=cIsDamage>800% de dégâts</style>. Les <style=cIsUtility>tirs à la tête</style> infligent <style=cIsDamage>2x dégâts</style>. Les éliminations <style=cIsUtility>réinitialisent tous vos rechargements</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Pistolet d'Or",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Tirez une <style=cIsUtility>balle d'argent</style> pour <style=cIsDamage>800% de dégâts</style>. Les <style=cIsUtility>tirs à la tête</style> infligent <style=cIsDamage>2x dégâts</style>. Les éliminations <style=cIsUtility>réinitialisent tous vos rechargements</style>.\n<color=#d299ff>SCEPTRE : Inflige 99999% de dégâts.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_NAME": "Flamme Sacrée",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoquez le pouvoir de la <color=#FF0033>Providence</color>, déclenchant une <style=cIsUtility>flamme massive</style> pour <style=cIsDamage>300% de dégâts par tick</style>. Se termine par une supernova de <style=cIsDamage>4000% de dégâts</style>.",
+
+   
+
+	 "ROB_BELMONT_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "Lignées Divines",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "Lignées Divines",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "Découvrez une relique sacrée sur la lune.",
+	 
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Maîtrise",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Maîtrise",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, terminez le jeu ou oblitérez en Mousson.",
+	 
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Grande Maîtrise",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Grande Maîtrise",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, terminez le jeu ou oblitérez en Typhon ou Éclipse.\n<color=#8888>Compte toute difficulté Typhon ou supérieure</color>",
+	 
+	 "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Aria de la Peine",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Aria de la Peine",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, entrez dans Un Moment, Entier.",
+     
+	 "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Portrait de Ruine",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Portrait de Ruine",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, obtenez une relique sacrée.",
+	 
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Aube de la Peine",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Aube de la Peine",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, maniez toutes les reliques sacrées à la fois.",
+	 
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Malédiction des Ténèbres",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Malédiction des Ténèbres",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, complétez un Autel de la Nuit.",
+	 
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Chercheur",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Chercheur",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, trouvez l'arme volée sur la lune.",
+	 
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color> : Prémonition",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color> : Prémonition",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_DESC": "En tant que <color=#3060FF>Belmont</color>, trouvez l'arme secrète dans le Néant.",
+
+	 "ROB_BELMONT_BODY_LOADOUT_SKILL_MISC": "Passif",
+	 
+	 "ROB_BELMONT_DEVILSHRINE_NAME": "Autel de la Nuit",
+	 "ROB_BELMONT_DEVILSHRINE_DESC": "Je ne suis pas assez payé pour écrire ça.",
+	 "ROB_BELMONT_DEVILSHRINE_CONTEXT": "Prier l'Autel de la Nuit",
+	 
+	 "ROB_BELMONT_TREASURECHEST_NAME": "Coffre au Trésor",
+	 "ROB_BELMONT_TREASURECHEST_DESC": "AAAAUUUUUUUUUU SECOUUUUUUUUURS MOOOOOOIIIIIIII",
+	 "ROB_BELMONT_TREASURECHEST_CONTEXT": "Utiliser la clé et ouvrir",
+	 "ROB_BELMONTKEYCOST": "Clé Squelette",
+	 
+	 "ROB_BELMONT_KEYFRAGMENT_NAME": "Fragment de Clé",
+	 "ROB_BELMONT_KEYFRAGMENT_DESC": "Morceau fracturé d'une clé. Rassemblez-en 3 pour former une clé entière.",
+	 "ROB_BELMONT_KEYFRAGMENT_PICKUP": "Morceau fracturé d'une clé. Rassemblez-en 3 pour former une clé entière.",
+	 "ROB_BELMONT_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_BELMONT_KEY_NAME": "Clé Squelette",
+	 "ROB_BELMONT_KEY_DESC": "Utilisée pour ouvrir un <color=#FFFF00>Coffre au Trésor</color>. Ces coffres contiennent une <color=#FF0033>relique sacrée</color> et apparaissent à chaque <style=cIsUtility>quatrième</style> étape à un <style=cIsDamage>emplacement fixe</style>.",
+	 "ROB_BELMONT_KEY_PICKUP": "Utilisée pour ouvrir un Coffre au Trésor. Brille lorsqu'elle est proche.",
+	 "ROB_BELMONT_KEY_LORE": "",
+	 
+	 "ROB_BELMONT_MORNINGSTAR_NAME": "Étoile du Matin",
+	 "ROB_BELMONT_MORNINGSTAR_DESC": "Chaque coup de fouet déclenche une <style=cIsUtility>explosion consécutive</style> pour <style=cIsDamage>600% de dégâts</style>.",
+	 "ROB_BELMONT_MORNINGSTAR_PICKUP": "Le fouet qui détruira tous ceux liés à la parenté de la nuit.",
+	 "ROB_BELMONT_MORNINGSTAR_LORE": "",
+	 
+	 "ROB_BELMONT_CRISSAEGRIM_NAME": "Crissaegrim",
+	 "ROB_BELMONT_CRISSAEGRIM_DESC": "Chaque coup d'épée frappe <style=cIsUtility>3 fois supplémentaires</style> pour <style=cIsDamage>300% de dégâts</style> chacun.",
+	 "ROB_BELMONT_CRISSAEGRIM_PICKUP": "D'innombrables lames découpent l'ennemi.",
+	 "ROB_BELMONT_CRISSAEGRIM_LORE": "",
+	 
+	 "ROB_BELMONT_WINGEDBOOTS_NAME": "Bottes de Pégase",
+	 "ROB_BELMONT_WINGEDBOOTS_DESC": "Après <style=cIsUtility>1</style> seconde de sprint au <style=cIsUtility>sol</style>, gagnez <style=cIsDamage>12 de vitesse de déplacement</style>. Toucher un ennemi avec <style=cIsDamage>Ruée</style> vous fait le projeter <style=cIsUtility>dans les airs</style> puis au loin, pour <style=cIsDamage>4x200%</style> et <style=cIsDamage>300%</style> de dégâts.",
+	 "ROB_BELMONT_WINGEDBOOTS_PICKUP": "Bottes qui améliorent votre compétence secondaire et vous permettent de courir comme le vent.",
+	 "ROB_BELMONT_WINGEDBOOTS_LORE": "",
+	 
+	 "ROB_BELMONT_HOLYCROSS_NAME": "Écharpe du Sauveur",
+	 "ROB_BELMONT_HOLYCROSS_DESC": "Toutes les <style=cIsUtility>3</style> minutes, remplace votre <style=cIsDamage>compétence spéciale</style> par <color=#FF0033>Flamme Sacrée</color>.",
+	 "ROB_BELMONT_HOLYCROSS_PICKUP": "Accédez à une puissante attaque ultime.",
+	 "ROB_BELMONT_HOLYCROSS_LORE": "",
+	 
+	 "ROB_BELMONT_BROTHERSOUL_NAME": "Âme du Roi",
+	 "ROB_BELMONT_BROTHERSOUL_DESC": "Chaque <style=cIsUtility>claquement de fouet</style> génère un <style=cIsDamage>pilier de flamme lunaire</style>, chaque <style=cIsUtility>coup d'épée</style> génère un <style=cIsDamage>éclat lunaire</style>, chaque <style=cIsUtility>fouettement</style> déclenche des <style=cIsDamage>ondes de choc au sol</style> et chaque <style=cIsUtility>ruée</style> génère <style=cIsHealing>20% de barrière</style>.",
+	 "ROB_BELMONT_BROTHERSOUL_PICKUP": "Maniez le pouvoir du Roi du Néant comme le vôtre.",
+	 "ROB_BELMONT_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_GARGOYLE_NAME": "Gargouille",
+	 
+	 "ROB_GREAT_GARGOYLE_NAME": "Crocs Bleus",
+	 
+	 "KEYWORD_WHIP_SLAM": "<style=cKeywordName>Fouettement</style><style=cSub>Double tapez en étant verrouillé sur un ennemi <style=cIsUtility>aérien</style> pour le <style=cIsDamage>clouer</style> au sol pour <style=cIsDamage>1800% de dégâts</style>."
+	 }
+}

@@ -1,0 +1,23 @@
+{
+    "en": {
+        "JAVANGLE_HOUSE_BODY_NAME": "The House",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House is an insane gambler who relies on his luck to overcome difficult situations, using two mysterious artifacts of fate: a 6-shot revolver called <style=cIsUtility>\"Roulette\"</style> and a seemingly cursed deck of cards. <i>Backported from pt-BR. Translated by: Jaosnake</i>",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "The Insane Gambler",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Default",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Mastery",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..and so he left, playing tricks on fate once more.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..and so he vanished, his luck finally having run out.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Standard Shot",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire a random shot from your revolver.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Full House",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Fire multiple shots from the revolver at once.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Divination",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Predict the next card from the deck to gain an advantage.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Shuffle",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Shuffle your deck and reset your options.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Standard Reload",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Reload your revolver with all 6 bullets.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "All-In Reload",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Reload and double down."
+    }
+}

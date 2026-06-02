@@ -1,0 +1,34 @@
+{
+    "pt-BR": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Robô Tradutor Recondicionado",
+        "BASTIAN_DESCRIPTION": "Um robô local, construído para ajudar a negociar acordos com corpos planetários estrangeiros. Seu propósito original era funcionar como intermediário, projetado para sobreviver em planetas com ar e temperaturas que um humano normal não suportaria. Ele foi trazido a bordo da UES Contact Light como parte de um plano de contingência. No entanto, ele acabou sendo reprogramado para o combate, apesar de esta ser uma simples missão de pegar e levar.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BASTIAN_NAME_EPIC": "Bastian, o Tradutor, Modelo 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian, o Tradutor, Modelo 4.I.N.K.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BASTIAN_OUTRO": "..e assim ele partiu, sua função finalmente cumprida.",
+        "BASTIAN_FAIL": "..e assim ele foi desativado, sua memória apagada para sempre.",
+        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Corpo a corpo</style>. <style=cIsUtility>Ágil</style>. Golpeie inimigos à frente para <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. O dano é reduzido pela metade enquanto Evasivo.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BASTIAN_M2": "Micro-Bala",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare até 5 balas de energia, cada uma causando <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. Não aplica atordoamento enquanto Evasivo.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BASTIAN_UTIL": "Nano-Mola",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Execute</style> um dash rápido em qualquer direção. Acumula <style=cIsUtility>Cargas Iônicas</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BASTIAN_SPEC": "Explosão do Arquiteto",
+        "BASTIAN_SPEC_DESCRIPTION": "Gaste <style=cIsHealth>33% de vida atual</style> e <style=cIsUtility>todas as Cargas Iônicas</style> para uma explosão massiva de <style=cIsDamage>500%-3.000% de dano</style>. Após o uso, você fica <color=#E9AFEA>Evasivo</color> por 10 segundos.
+
+Esse personagem foi traduzido por: Jaosnake",
+        "BASTIAN_SPEC_KEYWORD": "Especial",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Padrão",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Maestria"
+    }
+}

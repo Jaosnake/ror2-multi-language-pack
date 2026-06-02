@@ -1,0 +1,47 @@
+{
+	strings:
+	{
+	"MOFFEIN_PILOT_BODY_NAME" : "Пилот",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "Воздушный ас",
+	"MOFFEIN_PILOT_BODY_LORE" : "UES приглашает пилотов со всей вселенной, чтобы подать заявку на вступление в нашу программу Обновлённого Найма Предпочтительных Пилотов! Преимущества нашей программы включают в себя: доступ к кибернетическим противоударным имплантам для комфортных посадок, сертификационные программы Вооружения и Страхования, а также предоставление горячих туров в самые умопомрачительные места галактики! (Соискатели обязаны подать заявку не позднее чем за 5 лет до участия в лётных операциях. Импланты НЕ гарантированы всем участникам программы. Сертификаты Вооружения и Страхования действительны только при устройстве на работу через UES. Все предоставляемые услуги описаны в точности и не подразумевают никаких дополнительных гарантий, возможностей и преимуществ, вне зависимости от возможных будущих правок в космический лётный устав, принятый на планетах, участвующих в программе.",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "Пилот - витающий по воздуху Выживший, который блистательно наносит урон сверху.<style=cSub>\r\n\r\n< ! > Пилот может избегать опасности, витая в воздухе. Разумное использование его способностей позволит вам увеличить время полёта.\r\n\r\n< ! > Цель захвачена - идеальный навык для остановки падения.\r\n\r\n< ! > Быстрое развёртывание движется вверх при использовании на земле, но прямо при использовании в полёте.\r\n\r\n< ! > Разносите врагов в щепки Авиаударом, а затем применяйте Цель захвачена, чтобы жонглировать их остатками в воздухе.",
+	
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "..и он ушёл, исполнив мечту о небе.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..и он исчез, его хватка над небесами навсегда потеряна.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "..и он исчез, его хватка над небесами навсегда потеряна.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "Кучная стрельба",
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "Даёт кучный залп из орудия, нанося <style=cIsDamage>160% урона</style>. Каждое третье попадание <style=cIsDamage>вызывает взрыв</style> и наносит <style=cIsDamage>320% урона</style>.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "Даёт кучный залп из орудия, нанося <style=cIsDamage>160% урона</style>. Каждое третье попадание наносит <style=cIsDamage>320% урона</style> и <style=cIsDamage>пробивает цель насквозь</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "Беглый огонь",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Подвижность</style>. Открывает беглый огонь из орудия, нанося <style=cIsDamage>140% урона</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "Заглушённый огонь",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>Гроза</style>. Выстреливает из заглушённого пистолета, нанося <style=cIsDamage>100% урона</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "Цель захвачена!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "Превращает ваше оружие в <style=cIsDamage>умный пистолет с пробивающими снарядами</style>, который наносит <style=cIsDamage>3x160% урона</style> каждым выстрелом. Наносит <style=cIsDamage>на 50%</style> больше урона <style=cIsUtility>воздушным</style> целям. Можно хранить до 2.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "Бомбы за борт!",
+    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "Превращает ваше оружие в <style=cIsDamage>энергетический гранатомёт</style>, который наносит <style=cIsDamage>480% урона</style>. При стрельбе <style=cIsUtility>из воздуха</style> вместо этого наносит <style=cIsDamage>3x220% урона</style>. Можно хранить до 2.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "Быстрое развёртывание",
+    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Оглушение</style>. Запускает Пилота в воздух и <style=cIsUtility>активирует его парашут</style>. Используя этот навык в воздухе <style=cIsHealth>уменьшает подъёмную силу</style> в обмен на увелечение <style=cIsUtility>ускоряющей вперёд</style>.",
+    
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "Высший пилотаж",
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "Пилот <style=cIsUtility>выполняет рывок вперёд</style> и <style=cIsUtility>цепляется к стене,</style> получая <style=cIsDamage>30% к скорости атаки</style>. При <style=cIsUtility>прыжке от стены,</style> Пилот стремится вперёд.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "Залп с воздуха",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "<style=cIsUtility>Совершает рывок</style> и закладывает <style=cIsDamage>под ногами</style> заряд, который <style=cIsDamage>подбрасывает врагов в воздух</style>, нанося им <style=cIsDamage>600% урона</style>. Срабатывает до <style=cIsDamage>3</style> раз. Можно хранить до 2.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "Воздушный налёт",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "<style=cIsUtility>Совершает рывок</style> и закладывает <style=cIsDamage>под ногами</style> заряд, который <style=cIsDamage>подбрасывает врагов в воздух</style>, нанося им <style=cIsDamage>800% урона</style>. Срабатывает до <style=cIsDamage>6</style> раз. Можно хранить до 2.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "Поддержка с воздуха",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "Бомбит выделенную зону, нанося в ней <style=cIsDamage>4x400% урона</style>, <style=cIsDamage>подбрасывая врагов в воздух</style> после последнего попадания.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "Воздушный обыстрел",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "Бомбит выделенную зону, нанося в ней <style=cIsDamage>8x400% урона</style>, <style=cIsDamage>подбрасывая врагов в воздух</style> после последнего попадания.",
+	}
+}

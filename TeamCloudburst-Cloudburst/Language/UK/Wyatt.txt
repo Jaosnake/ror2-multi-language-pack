@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "Двірник",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Худі, Злі, Прибиральні Машини",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...і так вони пішли, робота виконана добре",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...і так вони зникли, залишивши більший безлад, ніж на початку",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "Двірник — майстер прибиральної війни, що маніпулює гравітацією ворогів.<color=#CCD3E0>\n\n< ! > Комбінуйте Грав-Мітлу, щоб піднімати ворогів усе вище.\n\n< ! > Встромляйте ворогів Виносом Сміття після підйому Грав-Мітлою та MAID для величезної шкоди!\n\n< ! > Використовуйте подвійний стрибок Потоку для комбо в повітрі або броню для виходу зі складної ситуації.\n\n< ! > Використовуйте MAID для підйому ворогів та переміщення для продовження комбо.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "Не можу зупинитися. Не можу зупинитися. Кожен крок — це крок, який я не можу повернути. Незважаючи ні на що, я знайду це.\n\nЦе все ритм, просто ритм. Щоразу, коли я виходжу з лінії — покарання. Я підкорятимусь ритму. Ніщо не зупинить мене.\n\nКожен шрам того вартий. Я відчуваю, що наближаюся. Я отримаю це, і воно буде моїм.\n\nНеважливо, скільки крові, воно того варте. Я знайду те, що хочу, і повернуся додому.\n\nНеважливо, скількох я вб'ю, воно буде моїм... Воно не зможе ховатися від мене вічно.\n\nВоно тут, я відчуваю. Цей сейф, у ньому воно. Я зламую його і знаходжу.\n\nВоно... нарешті моє. Я тримаю це у своїх побитих руках. Невже минули роки?\n\nЇй це сподобається, я знаю.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Невагомість</style><style=cSub><style=cIsUtility>Прибирає гравітацію</style> з цілі та <style=cIsUtility>Сповільнює швидкість руху та атаки</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Проколювання</style><style=cSub>Змушує ворога падати вниз, викликаючи <style=cIsDamage>ударну хвилю</style> при ударі об землю, завдаючи <style=cIsDamage>200% шкоди</style> + <style=cIsDamage>30% шкоди</style> за кожен метр падіння.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Потік</style><style=cSub>Дає <style=cIsDamage>30 броні</style> + <style=cIsDamage>5 броні</style> за кожен заряд <style=cIsUtility>Ритму</style>.\nДає <style=cIsUtility>Подвійний Стрибок</style>.\nДає <style=cIsUtility>+30% Скорочення Перезарядки.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Плеєр",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "При влучанні дає заряд <style=cIsUtility>Ритму</style>, що дає <style=cIsUtility>20% швидкості руху</style> за заряд. Зменшується поза боєм.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Грав-Мітла",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Спритність</style>. Змахніть мітлою на <style=cIsDamage>100% шкоди</style>. Кожен третій удар завдає <style=cIsDamage>200% шкоди</style> і накладає <style=cIsUtility>невагомість</style>.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Винос Сміття",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Висуньте лебідку</s> Магічно летіть до ворога, б'ючи на <style=cIsDamage>300%</style> шкоди і <style=cIsDamage>проколюючи</style> його.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Потік",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "Активуйте <style=cIsDamage>Потік</style> на <style=cIsUtility>4 секунди</style> + <style=cIsUtility>0,4 секунди</style> за кожен заряд <style=cIsUtility>Ритму</style>, отримуючи <style=cIsDamage>броню, подвійний стрибок і скорочення перезарядки</style>. Під час <style=cIsDamage>Потоку</style> ви не можете втрачати або отримувати <style=cIsUtility>Ритм</style>. Після закінчення <style=cIsDamage>Потоку</style> втрачаються всі заряди <style=cIsUtility>Ритму</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Відправте ваш <style=cIsUtility>MAID</style> крізь ворогів на <style=cIsDamage>300% шкоди</style>, потім він зупиняється і повертається до вас. Активуйте знову, щоб притягнутися до <style=cIsUtility>MAID</style> і вибухнути на <style=cIsDamage>500% шкоди</style>, накладаючи <style=cIsUtility>Невагомість</style>.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Класичний",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Двірник: Майстерність",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Пройдіть гру або облітеруйте на Мусоні за Двірника.",
+    }
+}

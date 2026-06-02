@@ -1,0 +1,25 @@
+{
+    "es-419": {
+        "KENKO_CADET_NAME": "Cadete",
+        "KENKO_CADET_DESCRIPTION": "El Cadete es un artillero vers\u00e1til que puede navegar el combate con armas de corto alcance y movilidad r\u00e1pida.<color=#CCD3E0>\n\n< ! > Aseg\u00farate de disparar de cerca para usar efectivamente tu limitada cantidad de municiones sin reducir el da\u00f1o.\n\n< ! > El Plan C aumenta el da\u00f1o y radio con tu munici\u00f3n actual, as\u00ed que \u00fasalo cuando tu cargador est\u00e9 lleno.\n\n< ! > Usa Rodada Repositora para evitar r\u00e1pidamente da\u00f1o explosivo y reabastecer completamente tu cargador.\n\n< ! > Intenta usar Drones Eco siempre que sea posible, ya que ayudan a eliminar enemigos que podr\u00edas haber pasado por alto mientras te mueves. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_SUBTITLE": "Tirador Vers\u00e1til",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Predeterminado",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Tormenta de Balas",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara un l\u00e1ser para <style=cIsDamage>60% de da\u00f1o</style>. Requiere <style=cIsUtility>recarga</style> tras 20 balas. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marcas Devastadoras",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara una r\u00e1faga para <style=cIsDamage>3x100% de da\u00f1o</style>. Requiere <style=cIsUtility>recarga</style> tras 10 proyectiles. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispara tu lanzagranadas ligero para <style=cIsDamage>400% de da\u00f1o</style>. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lanza tu arma causando <style=cIsDamage>250% a 750% de da\u00f1o</style> seg\u00fan la munic\u00f3n actual. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposici\u00f3n Deslizante",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Desl\u00edzate en una direcci\u00f3n, <style=cIsUtility>recargando</style> tu arma al instante. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rodada Repositora",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Rueda en una direcci\u00f3n, <style=cIsUtility>recargando</style> tu arma al instante. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara una r\u00e1faga pesada de perdigones para <style=cIsDamage>32x150% de da\u00f1o</style>. <i>Translated by: Jaosnake</i>",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrica <style=cIsDamage>dos drones</style> que buscan enemigos cercanos causando <style=cIsDamage>2x370% de da\u00f1o</style>. <i>Translated by: Jaosnake</i>"
+    }
+}

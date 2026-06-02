@@ -1,0 +1,31 @@
+{
+    strings:
+    {
+    "KENKO_BANSHEE_NAME" : "Banshee",
+    "KENKO_BANSHEE_DESCRIPTION" : "La Banshee es una superviviente aérea que destaca esquivando en el combate a corta distancia.<color=#CCD3E0>\n\n< ! > El Paraguas ATK es lento de balancear y no se puede usar mientras flotas, pero es una gran manera de elevarte.\n\n< ! > Acumular cargas de Bomba en Picada antes de desatarla puede infligir un daño devastador en su punto óptimo.\n\n< ! > Los Propulsores HDN pueden aumentar considerablemente la movilidad de la Banshee en el aire — úsalos con moderación para esquivar proyectiles enemigos letales.\n\n< ! > La Granada CAL es genial para agrupar enemigos — ¡Intenta apuntar tu Bomba en Picada a su centro para máxima eficiencia!\n\n",
+    "KENKO_BANSHEE_SUBTITLE" : "Heraldo de la Casa del Más Allá",
+    "KENKO_BANSHEE_LORE" : "A medida que las herramientas se convierten en armas, nuevas fuerzas han surgido dentro de la estricta jerarquía de la Casa del Más Allá para "Experimentar" con sus nuevas tecnologías. Entre estas fuerzas, las Banshees dominan en armamento aéreo con sus Paraguas FLT. Con la capacidad de invocar fuegos fatuos y colapsar la gravedad, sus capacidades destructivas son infinitas. En el futuro, la Casa del Más Allá espera perfeccionar los principios de diseño para disparar las capacidades de su tecnología hasta la luna.",
+    "KENKO_BANSHEE_OUTRO_FLAVOR" : "..y así se fue, sus susurros resonando en la eternidad.",
+    "KENKO_BANSHEE_OUTRO_FAILURE" : "..y así desapareció, haciendo eco de un silencio ensordecedor.",
+    "KENKO_BANSHEE_PASSIVE_NAME" : "Paraguas FLT",
+    "KENKO_BANSHEE_PASSIVE_DESCRIPTION" : "Mantener presionada la tecla de salto hace que la Banshee flote en el aire. Mientras flotas, tu <style=cIsUtility>Habilidad Primaria</style> dispara un fuego fatuo en su lugar, infligiendo <style=cIsDamage>200% de daño</style>.",
+    "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_NAME" : "Paraguas ATK",
+    "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_DESCRIPTION" : "<color=#ba8fff>Presagio</color>. Corta al frente por <style=cIsDamage>250% de daño</style>. Cada 3er corte te impulsa hacia adelante y al aire infligiendo <style=cIsDamage>300% de daño</style>.",
+    "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_NAME" : "Paraguas THRST",
+    "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_DESCRIPTION" : "<color=#ba8fff>Presagio</color>. Corta al frente por <style=cIsDamage>250% de daño</style>. Cada 3er corte te impulsa al aire infligiendo <style=cIsDamage>300% de daño</style>.",
+    "KENKO_BANSHEE_PRIMARY_WISP_NAME" : "Fuego Fatuo Etéreo",
+    "KENKO_BANSHEE_PRIMARY_WISP_DESCRIPTION" : "Dispara un fuego fatuo por <style=cIsDamage>200% de daño</style>.",
+    "KENKO_BANSHEE_SECONDARY_DIVE_NAME" : "Bomba en Picada",
+    "KENKO_BANSHEE_SECONDARY_DIVE_DESCRIPTION" : "<style=cIsUtility>Aerodinámico</style>. Pica hacia abajo infligiendo <style=cIsDamage>250% de daño</style> al impactar. <style=cIsHealth>Consume</style> todas las cargas de <style=cIsUtility>habilidad</style> aumentando el <style=cIsDamage>daño infligido</style> por cada una consumida.",
+    "KENKO_BANSHEE_UTILITY_THRUST_NAME" : "Propulsores HDN",
+    "KENKO_BANSHEE_UTILITY_THRUST_DESCRIPTION" : "<color=#ba8fff>Presagio</color>. Impúlsate en una dirección.",
+    "KENKO_BANSHEE_UTILITY_SUPERTHRUST_NAME" : "Propulsor EXP",
+    "KENKO_BANSHEE_UTILITY_SUPERTHRUST_DESCRIPTION" : "<color=#ba8fff>Presagio</color>. Impúlsate en una dirección. <color=#ba8fff>Presagio</color> se activa <style=cIsUtility>4</style> veces adicionales.",
+    "KENKO_BANSHEE_SPECIAL_CALAMITAS_NAME" : "Granada CAL",
+    "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "Lanza una granada que crea un agujero negro inestable. Después de <style=cIsUtility>2</style> segundos, el agujero negro colapsa infligiendo <style=cIsDamage>700% de daño</style>.",
+    "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
+    "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Lanza 3 granadas que crean agujeros negros inestables.</style>. Después de <style=cIsUtility>5</style> segundos, los agujeros negros colapsan infligiendo <style=cIsDamage>700% de daño</style>.",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "¡Soy Mary Poppins, Carajo!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Completa un nivel sin tocar el suelo más de una vez.",
+    }
+}

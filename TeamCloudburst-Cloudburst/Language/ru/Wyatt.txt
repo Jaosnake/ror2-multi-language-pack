@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "Хранитель",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Бережливые, Злобные, Чистящие Машины",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...и так они ушли, работа выполнена хорошо",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...и так они исчезли, оставив больший беспорядок, чем в начале",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "Хранитель — мастер уборочной войны, манипулирующий гравитацией врагов.<color=#CCD3E0>\n\n< ! > Комбинируйте Грав-Метлу, чтобы поднимать врагов всё выше.\n\n< ! > Вонзайте врагов с помощью Вынос Мусора после подъёма Грав-Метлой и MAID для огромного урона!\n\n< ! > Используйте двойной прыжок Потока для комбо в воздухе или броню, чтобы выбраться из трудной ситуации.\n\n< ! > Используйте MAID для подъёма врагов и для перемещения для продолжения комбо.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "Не могу остановиться. Не могу остановиться. Каждый шаг — это шаг, который я не могу вернуть. Несмотря ни на что, я найду это.\n\nЭто всё ритм, просто ритм. Каждый раз, когда я выхожу из ритма — наказание. Я буду подчиняться ритму. Ничто не остановит меня.\n\nКаждый шрам того стоит. Я чувствую, что приближаюсь. Я получу это, и это будет моим.\n\nНеважно, сколько крови, оно того стоит. Я найду то, что хочу, и вернусь домой.\n\nНеважно, скольких я убью, оно будет моим... Оно не сможет прятаться от меня вечно.\n\nОно здесь, я чувствую. Этот сейф, в нём оно. Я взламываю его и нахожу.\n\nОно... наконец моё. Я держу это в своих израненных руках. Неужели прошли годы?\n\nЕй это понравится, я знаю.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Невесомость</style><style=cSub><style=cIsUtility>Убирает гравитацию</style> у цели и <style=cIsUtility>Замедляет скорость передвижения и атаки</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Вонзание</style><style=cSub>Принуждает врага падать вниз, вызывая <style=cIsDamage>ударную волну</style> при ударе о землю, нанося <style=cIsDamage>200% урона</style> + <style=cIsDamage>30% урона</style> за каждый метр падения.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Поток</style><style=cSub>Даёт <style=cIsDamage>30 брони</style> + <style=cIsDamage>5 брони</style> за каждый заряд <style=cIsUtility>Ритма</style>.\nДаёт <style=cIsUtility>Двойной Прыжок</style>.\nДаёт <style=cIsUtility>+30% Сокращения Перезарядки.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Плеер",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "При попадании даёт заряд <style=cIsUtility>Ритма</style>, дающий <style=cIsUtility>20% скорости передвижения</style> за заряд. Уменьшается вне боя.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Грав-Метла",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Ловкость</style>. Взмахните метлой на <style=cIsDamage>100% урона</style>. Каждый третий удар наносит <style=cIsDamage>200% урона</style> и накладывает <style=cIsUtility>невесомость</style>.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Вынос Мусора",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Выдвиньте лебёдку</s> Магически летите к врагу, ударяя на <style=cIsDamage>300%</style> урона и <style=cIsDamage>вонзая</style> его.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Поток",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "Активируйте <style=cIsDamage>Поток</style> на <style=cIsUtility>4 секунды</style> + <style=cIsUtility>0,4 секунды</style> за каждый заряд <style=cIsUtility>Ритма</style>, получая <style=cIsDamage>броню, двойной прыжок и сокращение перезарядки</style>. Во время <style=cIsDamage>Потока</style> вы не можете терять или получать <style=cIsUtility>Ритм</style>. После окончания <style=cIsDamage>Потока</style> теряются все заряды <style=cIsUtility>Ритма</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Отправьте ваш <style=cIsUtility>MAID</style> сквозь врагов на <style=cIsDamage>300% урона</style>, затем он останавливается и возвращается к вам. Активируйте снова, чтобы притянуться к <style=cIsUtility>MAID</style> и взорваться на <style=cIsDamage>500% урона</style>, накладывая <style=cIsUtility>Невесомость</style>.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Классический",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Хранитель: Мастерство",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "Пройти игру или уничтожиться на Муссоне за Хранителя.",
+    }
+}
