@@ -1,0 +1,16 @@
+{
+    strings:
+    {
+    "HABIBI_MC_SKIN_NAME" : "마인크래프트",
+    "HABIBI_RECOLOR_RED_NAME" : "빨강",
+    "HABIBI_RECOLOR_BLUE_NAME" : "파랑",
+    "HABIBI_RECOLOR_GREEN_NAME" : "초록",
+    "HABIBI_RECOLOR_YELLOW_NAME" : "노랑",
+    "HABIBI_RECOLOR_ORANGE_NAME" : "주황",
+    "HABIBI_RECOLOR_CYAN_NAME" : "청록",
+    "HABIBI_RECOLOR_PURPLE_NAME" : "보라",
+    "HABIBI_RECOLOR_PINK_NAME" : "분홍",
+    "HABIBI_RECOLOR_BLACK_NAME" : "검정",
+    "HABIBI_RECOLOR_WHITE_NAME" : "하양",
+    }
+}

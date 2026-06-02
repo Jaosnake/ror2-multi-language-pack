@@ -1,0 +1,125 @@
+{
+	strings: {
+ 	 "ROB_DANTE_BODY_NAME": "<color=#B70027>ダンテ</color>",
+ 	 "ROB_NERO_BODY_NAME": "<color=#2150AF>ネロ</color>",
+ 	 "ROB_VERGIL_BODY_NAME": "<color=#32D2FF>バージル</color>",
+ 	 "ROB_DANTE_BODY_DESCRIPTION": "<color=#B70027>ダンテ</color>は二丁拳銃と剣で戦う伝説のデビルハンター。<color=#CCD3E0>\n\n< ! > Ebony & Ivoryは信頼できる安定したダメージ源。\n\n< ! > 各デビルアームには固有のモーションセットがあり、方向入力で最大限に活用せよ。\n\n< ! > トリックでアクションをキャンセルし攻撃を回避。\n\n< ! > デビルトリガーはあれこれする。",
+ 	 "ROB_DANTE_BODY_SUBTITLE": "伝説のデビルハンター",
+ 	 "ROB_DANTE_BODY_LORE": "やっぱ仕事を受ける前にちゃんと調べるべきだったな。\n\nモンスター退治の話で男が店に来た。堅苦しくて真面目、多分軍人だ。左腕がショットガン。本気ってことだな。\n\n金の袋と船のチケットをテーブルに投げる。これで何ヶ月も遊んで暮らせる！\n\nでもクールに決めなきゃ、簡単には受けちゃいけない。\n\n「長期の仕事は長期の報酬だ。」\n\n「これで考えが変わると思うが。」\n\nテーブルに写真が落ちる。男が…ガラスに閉じ込められてる？顔はわからないが、そのペンダントはどこででも見分けられる。\n\nこの野郎、調べてやがる。どうやら船に乗らなきゃならないらしい。\n\n「取引だ。」\n\n今じゃ惑星を横断してゴミ掃除だ。\n\n何週間もの捜索、殺し、生き残り。\n\nでも<color=#32D2FF>彼</color>を見つけなきゃならない。\n\n仕事は仕事だろ？\n\n<color=#B70027>行くぜ。</color>",
+ 	 "ROB_DANTE_BODY_OUTRO_FLAVOR": "..そして彼は去った。",
+ 	 "ROB_DANTE_BODY_OUTRO_FAILURE": "..そして彼は消えた。",
+
+ 	 "ROB_DANTE_BODY_DEFAULT_SKIN_NAME": "<color=#B70027>デフォルト</color>",
+ 	 "ROB_DANTE_BODY_MASTERY_SKIN_NAME": "<color=#B70027>クラシック</color>",
+ 	 "ROB_DANTE_BODY_TYPHOON_SKIN_NAME": "<color=#B70027>わからん</color>",
+ 	 "ROB_DANTE_BODY_PRESTIGE_SKIN_NAME": "<color=#B70027>プレステージ</color>"
+ 	 "ROB_DANTE_BODY_DMC2_SKIN_NAME": "<color=#B70027>ベテラン</color>",
+ 	 "ROB_DANTE_BODY_DMC_SKIN_NAME": "<color=#B70027>エル・ドンテ</color>",
+ 	 "ROB_DANTE_BODY_SUPER_SKIN_NAME": "<color=#B70027>スーパー</color>",
+ 	 "ROB_DANTE_BODY_VERGIL_SKIN_NAME": "<color=#32D2FF>バージル</color>",
+ 	 "ROB_DANTE_BODY_VERGILEX_SKIN_NAME": "<color=#32D2FF>バージルEX</color>",
+ 	 "ROB_DANTE_BODY_MINECRAFT_SKIN_NAME": "<color=#B70027>マインクラフト</color>",
+
+     "ROB_DANTE_BODY_PASSIVE_NAME": "<color=#B70027>スパーダの息子</color>",
+     "ROB_DANTE_BODY_PASSIVE_DESCRIPTION": "<color=#B70027>ダンテ</color>は複数の<style=cIsDamage>ユニークな能力</style>にアクセスできる。<style=cIsUtility>情報はホバーで。</style>",
+     "ROB_DANTE_BODY_CONFIRM_NAME": "確認",
+ 	 "ROB_DANTE_BODY_CONFIRM_DESCRIPTION": "現在のスキルで続行。",
+ 	 "ROB_DANTE_BODY_CANCEL_NAME": "キャンセル",
+ 	 "ROB_DANTE_BODY_CANCEL_DESCRIPTION": "現在のスキルをキャンセル。",
+
+ 	 "ROB_DANTE_BODY_PRIMARY_NAME": "<color=#B70027>エボニー＆アイボリー</color>",
+ 	 "ROB_DANTE_BODY_PRIMARY_DESCRIPTION": "素早く射撃し<style=cIsDamage>120%ダメージ</style>。<style=cIsUtility>1秒間</style>射撃を止めると<style=cIsDamage>チャージショット</style>を準備し<style=cIsDamage>350%ダメージ</style>。",
+
+ 	 "ROB_NERO_BODY_PRIMARY_NAME": "<color=#2150AF>ブルーローズ</color>",
+ 	 "ROB_NERO_BODY_PRIMARY_DESCRIPTION": "二連射し<style=cIsDamage>200%ダメージ</style>と<style=cIsDamage>350%ダメージ</style>。<style=cIsUtility>1秒間</style>長押しで<style=cIsDamage>チャージショット</style>を準備。",
+
+ 	 "ROB_VERGIL_BODY_PRIMARY_NAME": "<color=#32D2FF>サモンソード</color>",
+ 	 "ROB_VERGIL_BODY_PRIMARY_DESCRIPTION": "幻影剣を放ち<style=cIsDamage>200%ダメージ</style>。",
+
+ 	 "ROB_DANTE_BODY_MELEE_NAME": "<color=#B70027>ロック＆ロード</color>",
+ 	 "ROB_DANTE_BODY_MELEE_DESCRIPTION": "<style=cIsUtility>保持武器</style>を構える。<style=cIsDamage>プライマリ</style>が<style=cIsDamage>近接攻撃</style>になり、敵の攻撃は構え中<style=cIsUtility>偏向</style>される。",
+
+	 "ROB_DANTE_BODY_UTILITY_NAME": "<color=#B70027>トリック</color>",
+	 "ROB_DANTE_BODY_UTILITY_DESCRIPTION": "方向に<style=cIsUtility>ダッシュ</style>し、短時間<style=cIsUtility>無敵</style>になる。<style=cIsUtility>近接ヒットでこのスキルが即リフレッシュ。</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_NAME": "<color=#A556FF>デビルトリガー</color>",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_DESCRIPTION": "<color=#B70027>ヘルベント。</color><color=#A556FF>デビルトリガー</color>を発動し、ゲージを消費して一時的な<style=cIsUtility>アーマー</style>、<style=cIsHealing>再生</style>、<style=cIsDamage>ダメージ</style>を得る。<style=cIsUtility>近接ヒットでゲージが溜まる。</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_NAME": "パーフェクトデビルトリガー",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_DESCRIPTION": "<color=#B70027>ヘルベント。</color><color=#A556FF>デビルトリガー</color>を発動し、ゲージを消費して一時的な<style=cIsUtility>アーマー</style>、<style=cIsHealing>再生</style>、<style=cIsDamage>ダメージ</style>を得る。<style=cIsUtility>近接ヒットでゲージが溜まる。</style>\n<color=#d299ff>SCEPTER: 発動中、召喚した剣で敵を蹂躙する。</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_NAME": "<color=#B70027>シン・デビルトリガー</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_DESCRIPTION": "<style=cIsUtility>長押し</style>でゲージを<color=#B70027>シン・デビルトリガー</color>ゲージに注入。<style=cIsUtility>満タン時に長押し</style>で<style=cIsDamage>真の悪魔形態</style>を短時間解放。",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_NAME": "<color=#B70027>パーフェクトシン・デビルトリガー</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_DESCRIPTION": "<style=cIsUtility>長押し</style>でゲージを<color=#B70027>シン・デビルトリガー</color>ゲージに注入。<style=cIsUtility>満タン時に長押し</style>で<style=cIsDamage>真の悪魔形態</style>を短時間解放。\n<color=#d299ff>SCEPTER: 発動中、召喚した剣で敵を蹂躙する。</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_NAME": "シルバーバレット",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_DESCRIPTION": "<style=cIsUtility>銀の弾丸</style>を放ち<style=cIsDamage>800%ダメージ</style>。<style=cIsUtility>ヘッドショット</style>は<style=cIsDamage>2倍ダメージ</style>。キルで<style=cIsUtility>全クールダウンがリセット</style>。",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "ゴールデンガン",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "<style=cIsUtility>銀の弾丸</style>を放ち<style=cIsDamage>800%ダメージ</style>。<style=cIsUtility>ヘッドショット</style>は<style=cIsDamage>2倍ダメージ</style>。キルで<style=cIsUtility>全クールダウンがリセット</style>。\n<color=#d299ff>SCEPTER: 9000%ダメージを与える。</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "セイクリッドフレイム",
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "<color=#FF0033>プロビデンス</color>の力を呼び起こし、<style=cIsUtility>巨大な炎</style>を放ち<style=cIsDamage>ティック毎に300%ダメージ</style>。<style=cIsDamage>4000%ダメージ</style>の超新星で終了。",
+
+	 "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "パッシブ",
+	 
+	 "ROB_DANTE_DEVILSHRINE_NAME": "夜の祠",
+	 "ROB_DANTE_DEVILSHRINE_DESC": "こんなの書くほど給料もらってない。",
+	 "ROB_DANTE_DEVILSHRINE_CONTEXT": "夜の祠に祈る",
+	 
+	 "ROB_DANTE_TREASURECHEST_NAME": "宝箱",
+	 "ROB_DANTE_TREASURECHEST_DESC": "タスケテエエエエエエエエエエエエエエ",
+	 "ROB_DANTE_TREASURECHEST_CONTEXT": "鍵を使って開ける",
+	 "ROB_DANTEKEYCOST": "スケルトンキー",
+	 
+	 "ROB_DANTE_KEYFRAGMENT_NAME": "鍵の欠片",
+	 "ROB_DANTE_KEYFRAGMENT_DESC": "砕けた鍵の欠片。3つ集めて完全な鍵にする。",
+	 "ROB_DANTE_KEYFRAGMENT_PICKUP": "砕けた鍵の欠片。3つ集めて完全な鍵にする。",
+	 "ROB_DANTE_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_DANTE_KEY_NAME": "スケルトンキー",
+	 "ROB_DANTE_KEY_DESC": "<color=#FFFF00>宝箱</color>を開けるのに使用。これらの宝箱は<color=#FF0033>聖なる遺物</color>を含み、<style=cIsUtility>4ステージ</style>ごとに<style=cIsDamage>固定位置</style>に出現する。",
+	 "ROB_DANTE_KEY_PICKUP": "宝箱を開けるのに使用。宝箱の近くで光る。",
+	 "ROB_DANTE_KEY_LORE": "",
+	 
+	 "ROB_DANTE_REBELLION_NAME": "リベリオン",
+	 "ROB_DANTE_REBELLION_DESC": "けん",
+	 "ROB_DANTE_REBELLION_PICKUP": "つるぎ",
+	 "ROB_DANTE_REBELLION_LORE": "",
+	 
+	 "ROB_DANTE_TITAN_NAME": "タイタン",
+	 "ROB_DANTE_TITAN_DESC": "1,000,000,000,000,000,000歳のワル",
+	 "ROB_DANTE_TITAN_PICKUP": ".",
+	 "ROB_DANTE_TITAN_LORE": "",
+	 
+	 "ROB_DANTE_QUEEN_NAME": "クイーン",
+	 "ROB_DANTE_QUEEN_DESC": "重撃と群衆制御に最適な二枚の大盾。",
+	 "ROB_DANTE_QUEEN_PICKUP": "重厚な一対の大盾。",
+	 "ROB_DANTE_QUEEN_LORE": "",
+	 
+	 "ROB_DANTE_MITHRIX_NAME": "ミスリックス",
+	 "ROB_DANTE_MITHRIX_DESC": "その",
+	 "ROB_DANTE_MITHRIX_PICKUP": "",
+	 "ROB_DANTE_MITHRIX_LORE": "",
+	 
+	 "ROB_DANTE_BROTHERSOUL_NAME": "王の魂",
+	 "ROB_DANTE_BROTHERSOUL_DESC": "全ての<style=cIsUtility>鞭の一打ち</style>が<style=cIsDamage>月の炎柱</style>を、全ての<style=cIsUtility>剣の一振り</style>が<style=cIsDamage>月の破片</style>を、全ての<style=cIsUtility>鞭打ち</style>が<style=cIsDamage>地面の衝撃波</style>を放ち、全ての<style=cIsUtility>ダッシュ</style>が<style=cIsHealing>20%バリア</style>を生成する。",
+	 "ROB_DANTE_BROTHERSOUL_PICKUP": "無の王の力を己のものとして振るえ。",
+	 "ROB_DANTE_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_DANTE_ITEM_EFFECT_TITLE": "ボーナス効果",
+	 "ROB_DANTE_ITEM_EFFECT_BACKUPMAG": "追加のチャージショットを貯蔵する能力を得る。",
+	 "ROB_DANTE_ITEM_EFFECT_BANDOLIER": "弾薬パックがゲージを回復。",
+	 "ROB_DANTE_ITEM_EFFECT_ALIENHEAD": "デビルトリガーの消費ゲージが減少。",
+	 "ROB_DANTE_ITEM_EFFECT_BRAINSTALKS": "デビルトリガー発動中はゲージを消費しない。",
+	 "ROB_DANTE_ITEM_EFFECT_PURITY": "ヒット時のゲージ獲得量が増加。",
+	 "ROB_DANTE_ITEM_EFFECT_LYSATECELL": "最大ゲージが増加。",
+	 "ROB_DANTE_ITEM_EFFECT_LUMINOUSSHOT": "武器を出している間チャージされる。しまうとリセット。",
+
+	 "KEYWORD_HELLBENT": "<style=cKeywordName>ヘルベント</style><style=cSub><style=cIsUtility>1ステージに1回</style>、体力が<style=cIsHealth>25%以下</style>になるとゲージが満タンになり、無料の<color=#A556FF>デビルトリガー</color>を得る。",
+
+	 "KEYWORD_SONOFSPARDA": "<style=cKeywordName>デビルアーム</style><style=cSub>特定のボスの魂が死後、入手可能な武器に変わる。武器を出した状態でスプリントをタップして切り替え。\n\n<style=cKeywordName>スピード</style><style=cSub>驚異的な速度で走る。戦闘中は発動不可。\n\n<style=cKeywordName>エアハイク</style><style=cSub>二段ジャンプ。\n\n<style=cKeywordName>エネミーステップ</style><style=cSub>敵から二段ジャンプ。"
+	 }
+}

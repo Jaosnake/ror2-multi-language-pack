@@ -1,0 +1,102 @@
+ROB_HUNK_BODY_NAME: HUNK
+ROB_HUNK_BODY_SUBTITLE: 收割者
+ROB_HUNK_BODY_DEFAULT_SKIN_NAME: 默认
+ROB_HUNK_BODY_CLASSIC_SKIN_NAME: 经典
+ROB_HUNK_BODY_ROOKIE_SKIN_NAME: 新兵
+ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
+ROB_HUNK_BODY_LEON_SKIN_NAME: 里昂
+ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
+ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: 轻量
+ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: 游击兵
+ROB_HUNK_BODY_WESKER_SKIN_NAME: 威斯克
+ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
+ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
+ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: 里昂的衬衫
+ROB_HUNK_BODY_COMMANDO_SKIN_NAME: 突击兵
+ROB_HUNK_BODY_JACKET_SKIN_NAME: 夹克
+ROB_HUNK_BODY_TOFU_SKIN_NAME: 豆腐
+ROB_HUNK_BODY_SUPER_SKIN_NAME: 超级
+SHOOT_M19_NAME: M19
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>。用M19射击造成<style=cIsDamage>500%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_BROOMHC_NAME: Broom HC
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>。用Broom HC射击造成<style=cIsDamage>180%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_REVOLVER_NAME: 左轮手枪
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>。用左轮手枪射击造成<style=cIsDamage>1.200%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_MAGNUM_NAME: 马格南
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>。用马格南射击造成<style=cIsDamage>1.500%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SHOTGUN_NAME: 霰弹枪
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。用霰弹枪射击造成<style=cIsDamage>14x150%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SSG_NAME: SSG
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>。用SSG射击造成<style=cIsDamage>16x200%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SLUGGER_NAME: Slugger
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>。用Slugger射击造成<style=cIsDamage>3.000%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_AR_NAME: 突击步枪
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>。用步枪射击造成<style=cIsDamage>385%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SPARKSHOT_NAME: Spark Shot
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>。用Spark Shot射击造成<style=cIsDamage>1.000%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_GOLDGUN_NAME: 黄金枪
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。用黄金枪射击造成<style=cIsDamage>99.999%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_ATM_NAME: ATM发射器
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>。发射火箭造成<style=cIsDamage>8.000%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_GRENADELAUNCHER_NAME: 榴弹发射器
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>。发射榴弹造成<style=cIsDamage>3.200%伤害</style>。 <i>Translated by: Jaosnake</i>
+PRIMARY_CQC_NAME: CQC
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>拔出。</style><style=cIsDamage>打击</style>近战战斗员造成<style=cIsDamage>200%和250%伤害</style>，施加<style=cIsHealth>残废</style>。 <i>Translated by: Jaosnake</i>
+SECONDARY_AIM_NAME: 稳定瞄准
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>瞄准</style>以提高当前武器的精度。 <i>Translated by: Jaosnake</i>
+UTILITY_PARRY_NAME: 格挡
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>格挡</style>以偏转攻击。如果预防性地用于<style=cIsUtility>躲避攻击</style>，执行<style=cIsDamage>完美闪避</style>。 <i>Translated by: Jaosnake</i>
+UTILITY_DODGE_NAME: 滑步
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>滑行</style>一小段距离。如果预防性地用于<style=cIsUtility>躲避攻击</style>，执行<style=cIsDamage>完美闪避</style>。 <i>Translated by: Jaosnake</i>
+UTILITY_BASH_NAME: 偏转
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>偏转</style>附近敌人，<style=cIsUtility>眩晕他们</style>造成<style=cIsDamage>400%伤害</style>。如果预防性地用于<style=cIsUtility>取消攻击</style>，执行<style=cIsDamage>完美偏转</style>。 <i>Translated by: Jaosnake</i>
+SPECIAL_SWAP_NAME: 军团
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>切换</style>当前武器。 <i>Translated by: Jaosnake</i>
+ROB_HUNK_KEYWORD_MANGLED: 残废
+ROB_HUNK_KEYWORD_COUNTERATTACK: 反击
+ROB_HUNK_KEYWORD_PERFECTDODGE: 完美闪避
+ROB_HUNK_KEYWORD_PERFECTBASH: 完美偏转
+ROB_HUNK_KEYWORD_CVIRUS: C-病毒
+ROB_HUNK_KEYWORD_LOOTING: 搜刮
+ROB_HUNK_TRANSCEIVER_NAME: 收发器
+ROB_HUNK_TRANSCEIVER_DESC: 空投补给。
+ROB_HUNK_TYPEWRITER_NAME: 打字机
+ROB_HUNK_TYPEWRITER_DESC: 保存进度。
+ROB_HUNK_JETPACK_NAME: 喷气背包
+ROB_HUNK_JETPACK_DESC: 提供空中机动能力。
+ROB_HUNK_C4_NAME: C4
+ROB_HUNK_GRENADE_NAME: 手榴弹
+ROB_HUNK_SUPPLYPACK_NAME: 补给品
+ROB_HUNK_AMMO_NAME: 弹药
+ROB_HUNK_AMMOITEM_NAME: 弹药
+ROB_HUNK_CHEST_NAME: 箱子
+ROB_HUNK_TERMINAL_NAME: 终端
+ROB_HUNK_STARSBADGE_NAME: S.T.A.R.S.徽章
+ROB_HUNK_STARSBADGE2_NAME: S.T.A.R.S.徽章2
+ROB_HUNK_STARSBADGE_DESC: 来自S.T.A.R.S.成员的徽章。
+ROB_HUNK_HEARTCHEST_NAME: 心之箱
+ROB_HUNK_T_VIRUS_NAME: T-病毒
+ROB_HUNK_T_VIRUS_DESC: 一个T-病毒样本。
+ROB_HUNK_G_VIRUS_NAME: G-病毒
+ROB_HUNK_G_VIRUS_DESC: 一个G-病毒样本。
+ROB_HUNK_G_VIRUS2_NAME: G-病毒2
+ROB_HUNK_C_VIRUS_NAME: C-病毒
+ROB_HUNK_C_VIRUS_DESC: 一个C-病毒样本。
+ROB_HUNK_G_VIRUSFINAL_NAME: 最终G-病毒
+ROB_HUNK_PLAGAS_NAME: Plagas
+ROB_HUNK_PLAGAS_DESC: 一个Plagas样本。
+ROB_HUNK_URO_SAMPLE_NAME: Uroboros样本
+ROB_HUNK_URO_SAMPLE_DESC: 一个Uroboros样本。
+ROB_HUNK_INFROCKET_NAME: 无限火箭
+ROB_HUNK_INFROCKET_DESC: 无限火箭弹药。
+ROB_HUNK_NEMICASE_NAME: Nemi箱子
+ROB_HUNK_NEMICASE_DESC: 一个神秘的箱子。
+ROB_NEMESIS_BODY_NAME: Nemesis
+ROB_NEMESIS_BODY_SUBTITLE: 追踪者
+ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: 默认
+ROB_NEMESIS_BODY_PASSIVE_NAME: 无情追猎
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: 对标记的敌人造成<style=cIsDamage>{0}%额外伤害</style>。 <i>Translated by: Jaosnake</i>
+ROB_NEMESIS_BODY_GRAB_NAME: 抓取
+ROB_ARTIFACT_STRIKETEAM_NAME: 突击队神器
+ROB_ARTIFACT_PURSUER_NAME: 追踪者神器
+ROB_ARTIFACT_CONTAMINATION_NAME: 污染神器

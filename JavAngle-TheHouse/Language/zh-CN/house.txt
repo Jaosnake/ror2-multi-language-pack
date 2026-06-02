@@ -1,0 +1,14 @@
+JAVANGLE_HOUSE_BODY_NAME: 豪斯
+JAVANGLE_HOUSE_BODY_SUBTITLE: 疯狂赌徒
+JAVANGLE_HOUSE_BODY_DESCRIPTION: 豪斯是一名疯狂的赌徒，依靠他的运气来克服困难，使用两件神秘的命运神器：一把名为<style=cIsUtility>"轮盘"</style>的6发左轮手枪和一副看似被诅咒的卡牌。 <i>Translated by: Jaosnake</i>
+
+JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: 默认
+JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: 精通
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: 子弹艺术：虚空
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>灵巧</style>。发射一发随机装填的子弹。当没有剩余子弹时：不产生任何效果。
+
+DEFAULT_SKIN_NAME: 默认
+MASTERY_SKIN_NAME: 豪斯：精通
+
+BODY_OUTRO_FLAVOR: ..于是他离开了，再次戏弄着命运。
+BODY_OUTRO_FAILURE: ..于是他消失了，他的运气终于用尽了。

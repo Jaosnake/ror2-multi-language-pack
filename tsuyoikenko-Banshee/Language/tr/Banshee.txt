@@ -1,0 +1,31 @@
+{
+    strings:
+    {
+    "KENKO_BANSHEE_NAME" : "Banshee",
+    "KENKO_BANSHEE_DESCRIPTION" : "Banshee, yakın mesafe çatışmalarına girip çıkmada ustalaşmış hava kaynaklı bir hayatta kalıcıdır.<color=#CCD3E0>\n\n< ! > ATK Şemsiyesi yavaş sallanır ve havada asılıyken kullanılamaz ancak havalanmak için harika bir yoldur.\n\n< ! > Dalış Bombası stoklarını serbest bırakmadan önce biriktirmek, tatlı noktasında yıkıcı hasar verebilir.\n\n< ! > HDN İticileri Banshee'nin havadaki hareketliliğini önemli ölçüde artırabilir — ölümcül düşman mermilerinden kaçmak için idareli kullanın.\n\n< ! > CAL Bombası düşmanları gruplandırmada harikadır — Maksimum verimlilik için Dalış Bombanızı merkezine nişanlamaya çalışın!\n\n",
+    "KENKO_BANSHEE_SUBTITLE" : "Öteki Ev'in Habercisi",
+    "KENKO_BANSHEE_LORE" : "Aletler silaha dönüştükçe, Öteki Ev'in katı hiyerarşisi içinde yeni keşfedilen teknolojileriyle \"Deney\" yapmak için yeni güçler yükseldi. Bu güçler arasında Banshee'ler FLT Şemsiyeleri ile hava silahlarında hüküm sürer. Hayalet alevler çağırma ve yerçekimini çökertme yeteneğiyle yıkıcı kapasiteleri sonsuzdur. Gelecekte, Öteki Ev, teknolojilerinin yeteneklerini aya kadar fırlatmak için tasarım prensiplerini mükemmelleştirmeyi umuyor.",
+    "KENKO_BANSHEE_OUTRO_FLAVOR" : "..ve böylece gitti, fısıltıları sonsuzlukta yankılanıyor.",
+    "KENKO_BANSHEE_OUTRO_FAILURE" : "..ve böylece yok oldu, sağır edici bir sessizliği yankılayarak.",
+    "KENKO_BANSHEE_PASSIVE_NAME" : "FLT Şemsiye",
+    "KENKO_BANSHEE_PASSIVE_DESCRIPTION" : "Zıplama tuşunu basılı tutmak Banshee'nin havada asılı kalmasını sağlar. Havada asılıyken <style=cIsUtility>Birincil Yeteneğiniz</style> bunun yerine bir hayalet alev ateşleyerek <style=cIsDamage>%200 hasar</style> verir.",
+    "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_NAME" : "ATK Şemsiye",
+    "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_DESCRIPTION" : "<color=#ba8fff>Alamet</color>. Önünüzü keserek <style=cIsDamage>%250 hasar</style> verin. Her 3. kesiş sizi ileri ve havaya fırlatarak <style=cIsDamage>%300 hasar</style> verir.",
+    "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_NAME" : "THRST Şemsiye",
+    "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_DESCRIPTION" : "<color=#ba8fff>Alamet</color>. Önünüzü keserek <style=cIsDamage>%250 hasar</style> verin. Her 3. kesiş sizi havaya fırlatarak <style=cIsDamage>%300 hasar</style> verir.",
+    "KENKO_BANSHEE_PRIMARY_WISP_NAME" : "Ruhani Hayalet Alev",
+    "KENKO_BANSHEE_PRIMARY_WISP_DESCRIPTION" : "<style=cIsDamage>%200 hasar</style> için bir hayalet alev ateşler.",
+    "KENKO_BANSHEE_SECONDARY_DIVE_NAME" : "Dalış Bombası",
+    "KENKO_BANSHEE_SECONDARY_DIVE_DESCRIPTION" : "<style=cIsUtility>Aerodinamik</style>. Aşağı dalış yaparak çarpma anında <style=cIsDamage>%250 hasar</style> verin. Tüm <style=cIsUtility>yetenek</style> yüklerini <style=cIsHealth>Tüketerek</style> tüketilen her yük için <style=cIsDamage>verilen hasarı</style> artırır.",
+    "KENKO_BANSHEE_UTILITY_THRUST_NAME" : "HDN İticileri",
+    "KENKO_BANSHEE_UTILITY_THRUST_DESCRIPTION" : "<color=#ba8fff>Alamet</color>. Bir yöne atıl.",
+    "KENKO_BANSHEE_UTILITY_SUPERTHRUST_NAME" : "EXP İtici",
+    "KENKO_BANSHEE_UTILITY_SUPERTHRUST_DESCRIPTION" : "<color=#ba8fff>Alamet</color>. Bir yöne atıl. <color=#ba8fff>Alamet</color> ek olarak <style=cIsUtility>4</style> kez etkinleşir.",
+    "KENKO_BANSHEE_SPECIAL_CALAMITAS_NAME" : "CAL Bombası",
+    "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION" : "Dengesiz bir kara delik oluşturan bir bomba at. <style=cIsUtility>2</style> saniye sonra kara delik çökerek <style=cIsDamage>%700 hasar</style> verir.",
+    "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME" : "Calamitas",
+    "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION" : "Dengesiz kara delikler oluşturan 3 bomba at.</style>. <style=cIsUtility>5</style> saniye sonra kara delikler çökerek <style=cIsDamage>%700 hasar</style> verir.",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME" : "Ben Mary Poppins'im, Lanet Olsun!",
+    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION" : "Yere birden fazla kez değmeden bir bölümü tamamla.",
+    }
+}

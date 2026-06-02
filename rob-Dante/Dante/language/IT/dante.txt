@@ -1,0 +1,125 @@
+{
+	strings: {
+ 	 "ROB_DANTE_BODY_NAME": "<color=#B70027>Dante</color>",
+ 	 "ROB_NERO_BODY_NAME": "<color=#2150AF>Nero</color>",
+ 	 "ROB_VERGIL_BODY_NAME": "<color=#32D2FF>Vergil</color>",
+ 	 "ROB_DANTE_BODY_DESCRIPTION": "<color=#B70027>Dante</color> è un leggendario cacciatore di demoni che combatte con un paio di pistole e una spada.<color=#CCD3E0>\n\n< ! > Ebony & Ivory è una fonte di danno affidabile e costante.\n\n< ! > Ogni Braccio Demonico ha un moveset unico, sperimenta con gli input direzionali per sfruttarli al meglio.\n\n< ! > Usa Trucco per cancellare azioni e schivare i colpi in arrivo.\n\n< ! > Devil Trigger fa roba e cose.",
+ 	 "ROB_DANTE_BODY_SUBTITLE": "Leggendario Cacciatore di Demoni",
+ 	 "ROB_DANTE_BODY_LORE": "Sai, dovrei proprio valutare meglio i lavori prima di accettarli.\n\nUn tizio entra nel mio negozio parlando di mostri da uccidere. Molto rigido e formale, probabilmente militare. Un fucile a pompa al posto del braccio sinistro. Deve fare sul serio.\n\nGetta una borsa di soldi e un biglietto della nave sul tavolo. Questo mi farà stare alla grande per mesi!\n\nMa devo restare cool, fare il difficile.\n\n'Un lavoro a lungo termine significa paga a lungo termine.'\n\n'Credo che questo ti farà cambiare idea.'\n\nUna foto atterra sul tavolo. Mostra un uomo intrappolato nel... vetro? Non riesco a distinguere il suo volto, ma quel ciondolo lo riconoscerei ovunque.\n\nQuesto tizio ha fatto i compiti. Credo proprio che dovrò salire su questa nave.\n\n'Affare fatto.'\n\nOra devo attraversare il pianeta a ripulire la spazzatura.\n\nSettimane di ricerche, uccisioni, sopravvivenza.\n\nMa devo trovare <color=#32D2FF>lui</color>.\n\nIl lavoro è lavoro, no?\n\n<color=#B70027>Diamoci dentro.</color>",
+ 	 "ROB_DANTE_BODY_OUTRO_FLAVOR": "..e così se ne andò.",
+ 	 "ROB_DANTE_BODY_OUTRO_FAILURE": "..e così svanì.",
+
+ 	 "ROB_DANTE_BODY_DEFAULT_SKIN_NAME": "<color=#B70027>Predefinito</color>",
+ 	 "ROB_DANTE_BODY_MASTERY_SKIN_NAME": "<color=#B70027>Classico</color>",
+ 	 "ROB_DANTE_BODY_TYPHOON_SKIN_NAME": "<color=#B70027>boh</color>",
+ 	 "ROB_DANTE_BODY_PRESTIGE_SKIN_NAME": "<color=#B70027>Prestigio</color>"
+ 	 "ROB_DANTE_BODY_DMC2_SKIN_NAME": "<color=#B70027>Veterano</color>",
+ 	 "ROB_DANTE_BODY_DMC_SKIN_NAME": "<color=#B70027>El Donte</color>",
+ 	 "ROB_DANTE_BODY_SUPER_SKIN_NAME": "<color=#B70027>Super</color>",
+ 	 "ROB_DANTE_BODY_VERGIL_SKIN_NAME": "<color=#32D2FF>Vergil</color>",
+ 	 "ROB_DANTE_BODY_VERGILEX_SKIN_NAME": "<color=#32D2FF>Vergil EX</color>",
+ 	 "ROB_DANTE_BODY_MINECRAFT_SKIN_NAME": "<color=#B70027>Minecraft</color>",
+
+     "ROB_DANTE_BODY_PASSIVE_NAME": "<color=#B70027>Figlio di Sparda</color>",
+     "ROB_DANTE_BODY_PASSIVE_DESCRIPTION": "<color=#B70027>Dante</color> ha accesso a diverse <style=cIsDamage>abilità uniche</style>. <style=cIsUtility>Passa sopra per informazioni.</style>",
+     "ROB_DANTE_BODY_CONFIRM_NAME": "Conferma",
+ 	 "ROB_DANTE_BODY_CONFIRM_DESCRIPTION": "Procedi con l'abilità attuale.",
+ 	 "ROB_DANTE_BODY_CANCEL_NAME": "Annulla",
+ 	 "ROB_DANTE_BODY_CANCEL_DESCRIPTION": "Annulla l'abilità attuale.",
+
+ 	 "ROB_DANTE_BODY_PRIMARY_NAME": "<color=#B70027>Ebony & Ivory</color>",
+ 	 "ROB_DANTE_BODY_PRIMARY_DESCRIPTION": "Spara rapidamente per <style=cIsDamage>120% danni</style>. Smetti di sparare per <style=cIsUtility>1 secondo</style> per preparare un <style=cIsDamage>colpo caricato</style> che infligge <style=cIsDamage>350% danni</style>.",
+
+ 	 "ROB_NERO_BODY_PRIMARY_NAME": "<color=#2150AF>Blue Rose</color>",
+ 	 "ROB_NERO_BODY_PRIMARY_DESCRIPTION": "Spara due volte, per <style=cIsDamage>200% danni</style> e <style=cIsDamage>350% danni</style>. Tieni premuto per <style=cIsUtility>1 secondo</style> per preparare un <style=cIsDamage>colpo caricato</style>.",
+
+ 	 "ROB_VERGIL_BODY_PRIMARY_NAME": "<color=#32D2FF>Spade Evocatrici</color>",
+ 	 "ROB_VERGIL_BODY_PRIMARY_DESCRIPTION": "Spara spade spettrali per <style=cIsDamage>200% danni</style>.",
+
+ 	 "ROB_DANTE_BODY_MELEE_NAME": "<color=#B70027>Pronti al Fuoco</color>",
+ 	 "ROB_DANTE_BODY_MELEE_DESCRIPTION": "Prepara la tua <style=cIsUtility>arma impugnata</style>. <style=cIsDamage>Primaria</style> diventa <style=cIsDamage>attacchi corpo a corpo</style>, e gli attacchi nemici sono <style=cIsUtility>deflessi</style> mentre è impugnata.",
+
+	 "ROB_DANTE_BODY_UTILITY_NAME": "<color=#B70027>Trucco</color>",
+	 "ROB_DANTE_BODY_UTILITY_DESCRIPTION": "<style=cIsUtility>Scatta</style> in una direzione, diventando brevemente <style=cIsUtility>invulnerabile</style>. <style=cIsUtility>I colpi corpo a corpo ricaricano istantaneamente questa abilità.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_NAME": "<color=#A556FF>Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_DESCRIPTION": "<color=#B70027>Infernale.</color> Attiva il <color=#A556FF>Devil Trigger</color>, consumando la barra per ottenere temporaneamente <style=cIsUtility>armatura</style>, <style=cIsHealing>rigenerazione</style> e <style=cIsDamage>danni</style>. <style=cIsUtility>I colpi corpo a corpo riempiono la barra.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_NAME": "Devil Trigger Perfetto",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_DESCRIPTION": "<color=#B70027>Infernale.</color> Attiva il <color=#A556FF>Devil Trigger</color>, consumando la barra per ottenere temporaneamente <style=cIsUtility>armatura</style>, <style=cIsHealing>rigenerazione</style> e <style=cIsDamage>danni</style>. <style=cIsUtility>I colpi corpo a corpo riempiono la barra.</style>\n<color=#d299ff>SCETTRO: Devasta i nemici con spade evocate mentre è attivo.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_NAME": "<color=#B70027>Sin Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_DESCRIPTION": "<style=cIsUtility>Tieni premuto</style> per incanalare la barra nella barra <color=#B70027>Sin Devil Trigger</color>. <style=cIsUtility>Tieni premuto</style> quando è piena per scatenare la tua <style=cIsDamage>vera forma demoniaca</style> per un breve periodo.",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_NAME": "<color=#B70027>Sin Devil Trigger Perfetto</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_DESCRIPTION": "<style=cIsUtility>Tieni premuto</style> per incanalare la barra nella barra <color=#B70027>Sin Devil Trigger</color>. <style=cIsUtility>Tieni premuto</style> quando è piena per scatenare la tua <style=cIsDamage>vera forma demoniaca</style> per un breve periodo.\n<color=#d299ff>SCETTRO: Devasta i nemici con spade evocate mentre è attivo.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_NAME": "Proiettile d'Argento",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_DESCRIPTION": "Spara un <style=cIsUtility>proiettile d'argento</style> per <style=cIsDamage>800% danni</style>. I <style=cIsUtility>colpi alla testa</style> infliggono <style=cIsDamage>2x danni</style>. Le uccisioni <style=cIsUtility>azzerano tutti i tuoi tempi di ricarica</style>.",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Pistola d'Oro",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Spara un <style=cIsUtility>proiettile d'argento</style> per <style=cIsDamage>800% danni</style>. I <style=cIsUtility>colpi alla testa</style> infliggono <style=cIsDamage>2x danni</style>. Le uccisioni <style=cIsUtility>azzerano tutti i tuoi tempi di ricarica</style>.\n<color=#d299ff>SCETTRO: Infligge 9000% danni.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "Fiamma Sacra",
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoca il potere della <color=#FF0033>Provvidenza</color>, scatenando una <style=cIsUtility>fiamma imponente</style> per <style=cIsDamage>300% danni per tick</style>. Termina con una supernova da <style=cIsDamage>4000% danni</style>.",
+
+	 "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "Passivo",
+	 
+	 "ROB_DANTE_DEVILSHRINE_NAME": "Santuario della Notte",
+	 "ROB_DANTE_DEVILSHRINE_DESC": "Non sono pagato abbastanza per scrivere queste cose.",
+	 "ROB_DANTE_DEVILSHRINE_CONTEXT": "Prega al Santuario della Notte",
+	 
+	 "ROB_DANTE_TREASURECHEST_NAME": "Scrigno del Tesoro",
+	 "ROB_DANTE_TREASURECHEST_DESC": "AIUUUUUUUUTOOOOOOOO A MEEEEE STEEEEESSSOOOO",
+	 "ROB_DANTE_TREASURECHEST_CONTEXT": "Usa la chiave e apri",
+	 "ROB_DANTEKEYCOST": "Chiave Scheletrica",
+	 
+	 "ROB_DANTE_KEYFRAGMENT_NAME": "Frammento di Chiave",
+	 "ROB_DANTE_KEYFRAGMENT_DESC": "Pezzo fratturato di una chiave. Raccogline 3 per formare una chiave intera.",
+	 "ROB_DANTE_KEYFRAGMENT_PICKUP": "Pezzo fratturato di una chiave. Raccogline 3 per formare una chiave intera.",
+	 "ROB_DANTE_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_DANTE_KEY_NAME": "Chiave Scheletrica",
+	 "ROB_DANTE_KEY_DESC": "Usata per aprire uno <color=#FFFF00>Scrigno del Tesoro</color>. Questi scrigni contengono una <color=#FF0033>sacra reliquia</color> e appaiono ogni <style=cIsUtility>quarto</style> livello in una <style=cIsDamage>posizione fissa</style>.",
+	 "ROB_DANTE_KEY_PICKUP": "Usata per aprire uno Scrigno del Tesoro. Si illumina quando vicino a uno scrigno.",
+	 "ROB_DANTE_KEY_LORE": "",
+	 
+	 "ROB_DANTE_REBELLION_NAME": "Ribellione",
+	 "ROB_DANTE_REBELLION_DESC": "spada",
+	 "ROB_DANTE_REBELLION_PICKUP": "spd",
+	 "ROB_DANTE_REBELLION_LORE": "",
+	 
+	 "ROB_DANTE_TITAN_NAME": "Titano",
+	 "ROB_DANTE_TITAN_DESC": "il duro di 1,000,000,000,000,000,000 anni",
+	 "ROB_DANTE_TITAN_PICKUP": ".",
+	 "ROB_DANTE_TITAN_LORE": "",
+	 
+	 "ROB_DANTE_QUEEN_NAME": "Queen",
+	 "ROB_DANTE_QUEEN_DESC": "Doppi grandiscudi ottimi per colpi pesanti e controllo della folla.",
+	 "ROB_DANTE_QUEEN_PICKUP": "Un robusto paio di grandiscudi.",
+	 "ROB_DANTE_QUEEN_LORE": "",
+	 
+	 "ROB_DANTE_MITHRIX_NAME": "Mithrix",
+	 "ROB_DANTE_MITHRIX_DESC": "Il",
+	 "ROB_DANTE_MITHRIX_PICKUP": "",
+	 "ROB_DANTE_MITHRIX_LORE": "",
+	 
+	 "ROB_DANTE_BROTHERSOUL_NAME": "Anima del Re",
+	 "ROB_DANTE_BROTHERSOUL_DESC": "Ogni <style=cIsUtility>schiocco di frusta</style> genera un <style=cIsDamage>pilastro di fiamma lunare</style>, ogni <style=cIsUtility>colpo di spada</style> genera una <style=cIsDamage>scheggia lunare</style>, ogni <style=cIsUtility>frustata</style> scatena <style=cIsDamage>onde d'urto al suolo</style> e ogni <style=cIsUtility>scatto</style> genera <style=cIsHealing>20% barriera</style>.",
+	 "ROB_DANTE_BROTHERSOUL_PICKUP": "Brandisci il potere del Re del Nulla come tuo.",
+	 "ROB_DANTE_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_DANTE_ITEM_EFFECT_TITLE": "Effetto Bonus",
+	 "ROB_DANTE_ITEM_EFFECT_BACKUPMAG": "Ottieni la capacità di immagazzinare Colpi Caricati extra.",
+	 "ROB_DANTE_ITEM_EFFECT_BANDOLIER": "I pacchi di munizioni ripristinano la barra.",
+	 "ROB_DANTE_ITEM_EFFECT_ALIENHEAD": "Il Devil Trigger consuma meno barra.",
+	 "ROB_DANTE_ITEM_EFFECT_BRAINSTALKS": "Il Devil Trigger non consuma barra mentre è attivo.",
+	 "ROB_DANTE_ITEM_EFFECT_PURITY": "Aumenta la barra guadagnata ai colpi.",
+	 "ROB_DANTE_ITEM_EFFECT_LYSATECELL": "Aumenta la barra massima.",
+	 "ROB_DANTE_ITEM_EFFECT_LUMINOUSSHOT": "Si carica quando la tua arma è estratta. Si azzera quando la riponi.",
+
+	 "KEYWORD_HELLBENT": "<style=cKeywordName>Infernale</style><style=cSub><style=cIsUtility>Una volta per livello</style>, scendere sotto il <style=cIsHealth>25% di salute</style> riempie la barra e concede un <color=#A556FF>Devil Trigger</color> gratuito.",
+
+	 "KEYWORD_SONOFSPARDA": "<style=cKeywordName>Braccia Demoniache</style><style=cSub>Le anime di alcuni boss vengono trasformate in armi ottenibili alla morte. Tocca sprint con l'arma estratta per ciclare tra loro.\n\n<style=cKeywordName>Velocità</style><style=cSub>Corri con velocità incredibile. Non può essere attivato in battaglia.\n\n<style=cKeywordName>Salto Aereo</style><style=cSub>Doppio salto.\n\n<style=cKeywordName>Passo Nemico</style><style=cSub>Doppio salto da un nemico."
+	 }
+}

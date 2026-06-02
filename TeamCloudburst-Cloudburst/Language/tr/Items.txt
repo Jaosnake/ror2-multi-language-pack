@@ -1,0 +1,36 @@
+{
+    strings:
+    {
+    "ITEM_BARRIERONCRIT_NAME" : "Bizmut Küpeler",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "<style=cIsDamage>%5 kanama şansı</style> kazan. Kanama uyguladığında <style=cIsHealing>geçici bariyer</style> kazan, <style=cIsHealing>15 sağlık</style> <style=cStack>(yığın başına +10)</style>.",
+
+Translated by: Jaosnake
+    "ITEM_BARRIERONCRIT_PICKUP" : "Kanama uygularken bariyer kazan",
+    "ITEM_BARRIERONCRIT_LORE" : "Küpeler Bizmut falanmış, ne bileyim.",
+    "ITEM_ENIGMATICKEYCARD_NAME" : "Esrarengiz Anahtar Kart",
+    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Vuruşta düşmanları takip edip hasar veren bir küre çıkarma şansı.",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "Vuruşta %4 şansla <style=cIsDamage>takipçi küre</style> çıkar, yakındaki düşmanlara çarpma anında <style=cIsDamage>%140 temel hasar <style=cStack>(yığın başına +%140)</style></style> verir.",
+
+Translated by: Jaosnake
+    "ITEM_ENIGMATICKEYCARD_LORE" : "Hiçbir anahtar kart Enigma'nın lanet beynini açamaz",
+    "ITEM_BLEEDCRIPPLE_NAME" : "Fabinhoru'nun Hançeri",
+    "ITEM_BLEEDCRIPPLE_PICKUP" : "Kanayan düşmanlara vurmak zırhlarını azaltır.",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Vuruşta düşmanda <style=cIsDamage>kanama</style> başlatmak için <style=cIsDamage>%5</style> şans kazan. <style=cIsDamage>Kanayan</style> düşmanlara <style=cIsDamage>vurmak</style> <style=cIsDamage>zırhlarını</style> <style=cIsDamage>30</style> azaltır <style=cStack>(yığın başına +15)</style>.",
+
+Translated by: Jaosnake
+    "ITEM_BLEEDCRIPPLE_LORE" : "hançerimi fabinliyor ta ki ben horu olana kadar",
+    "ITEM_GLASSHARVESTER_NAME" : "Cam Biçerdöver",
+    "ITEM_GLASSHARVESTER_PICKUP" : "'Kritik Vuruşların' ek %40 hasar verir. Düşük sağlıkta kırılır, deneyim kazandırır.",
+    "ITEM_GLASSHARVESTER_DESC" : "<style=cIsDamage>%5 kritik vuruş şansı</style> kazan. <style=cIsDamage>Kritik Vuruşlar</style> ek <style=cIsDamage>%40 hasar</style><style=cStack>(yığın başına +%30)</style> verir. <style=cIsHealth>%25 sağlığın altına</style> hasar almak bu eşyayı <style=cIsUtility>kırar</style> ve mevcut seviyenin %15'i kadar <style=cIsUtility>deneyim</style> kazandırır.",
+    "ITEM_GLASSHARVESTER_LORE" : "Cam mı biçiyor yoksa camla mı biçiyor?\nBilmiyorum ve umrumda değil, evimden çık",
+    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Cam Biçerdöver (Kırık)",
+    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Hasat Biçildi. Deneyime değdi mi?",
+    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Kalan gücü olmayan tükenmiş bir eşya.",
+    "ITEM_PICKUPBUFF_NAME" : "Jape'in Pelerini",
+    "ITEM_PICKUPBUFF_PICKUP" : "Eşya alındığında zırh ve iyileştirme sağlayan bir güçlendirme kazan.",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "Bir eşya aldığında sana <style=cIsUtility>+5 zırh</style> ve <style=cIsHealing>%30 iyileştirme</style> sağlayan bir güçlendirme kazan. Maksimum 3 güçlendirme <style=cStack>(yığın başına +2)</style>.",
+
+Translated by: Jaosnake
+    "ITEM_PICKUPBUFF_LORE" : ""İkmal Subayının günlüğü. Kazadan 17 gün sonra.\n\nBu katil gezegenin atmosferiyle gönülsüz tanışmamız sırasında neredeyse kendimizi yanan siyah macuna dönüştürmemizin üzerinden yarım aydan fazla zaman geçti. Varış şeklimiz, yani warp yolculuğundan kopan çöken bir kargo gemisinden kaçış, zaten tehlikeli derecede düşük olan temel ihtiyaç stokumuzun daha da azalmasına neden oldu. Sahip olduğumuz az miktarda yiyecek ve suyu karneye bağlamak zorunda kaldık. Bunu kontrol altında tutmak için karakolumuzun İkmal Subayı seçildim.\nStoklarımız şöyle:\n\n-Yaklaşık 1,5 haftalık yiyecek ve su.\n-Yok edilmiş dronlardan ve taretlerden kurtarılmış metal ve devrelerle dolu 3,5 karton kutu.\n-4 torba tıbbi ekipman\n-2 anahtarlık, her birinde 13 paslı anahtar mı var? (Bu bir hata olmalı, Juarez 2 gün önce o üç herifin getirdiği ganimetin geri kalanıyla birlikte getirildiğini söylüyor, bunları basıyorlar mı ne?)\n-6 kutu mühimmat (üssel bir hızla azalıyor olabilir)\n\nBir şeyler uyuşmuyor. Herkesin ne kadar stok aldığını takip etmek için astığımız ilan panosu hepsini kapsamıyor. Bu sadece basit bir iletişim eksikliği olsa da, birinin ihtiyacından fazlasını alma olasılığı her geçen gün artıyor. Tam olarak bunu gösteren bir kanıtım yok, ama bu (çok ürkütücü) bir olasılık.\n\n\nEğer hepsini alan tek bir kişiyse, gösterilen oranlarda...\nDiğerlerimizden daha hazırlıklı olabilir.\n\nGünlük sonu.\n\n\nEk: KİM. TANRI AŞKINA. SİGARALARIMI. ALDI??"",
+    }
+}

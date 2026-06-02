@@ -1,0 +1,102 @@
+ROB_HUNK_BODY_NAME: HUNK
+ROB_HUNK_BODY_SUBTITLE: Жнец
+ROB_HUNK_BODY_DEFAULT_SKIN_NAME: Обычный
+ROB_HUNK_BODY_CLASSIC_SKIN_NAME: Классический
+ROB_HUNK_BODY_ROOKIE_SKIN_NAME: Новичок
+ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
+ROB_HUNK_BODY_LEON_SKIN_NAME: Леон
+ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
+ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: Лёгкий
+ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: Партизан
+ROB_HUNK_BODY_WESKER_SKIN_NAME: Уэскер
+ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
+ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
+ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: Рубашка Леона
+ROB_HUNK_BODY_COMMANDO_SKIN_NAME: Commando
+ROB_HUNK_BODY_JACKET_SKIN_NAME: Куртка
+ROB_HUNK_BODY_TOFU_SKIN_NAME: Тофу
+ROB_HUNK_BODY_SUPER_SKIN_NAME: Супер
+SHOOT_M19_NAME: M19
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из M19 на <style=cIsDamage>500% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_BROOMHC_NAME: Broom HC
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из Broom HC на <style=cIsDamage>180% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_REVOLVER_NAME: Револьвер
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из револьвера на <style=cIsDamage>1.200% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_MAGNUM_NAME: Магнум
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из магнума на <style=cIsDamage>1.500% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SHOTGUN_NAME: Дробовик
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из дробовика на <style=cIsDamage>14x150% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SSG_NAME: SSG
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из SSG на <style=cIsDamage>16x200% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SLUGGER_NAME: Slugger
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из Slugger на <style=cIsDamage>3.000% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_AR_NAME: Штурмовая Винтовка
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из винтовки на <style=cIsDamage>385% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SPARKSHOT_NAME: Spark Shot
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из Spark Shot на <style=cIsDamage>1.000% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_GOLDGUN_NAME: Золотой Пистолет
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте из золотого пистолета на <style=cIsDamage>99.999% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_ATM_NAME: Пусковая ATM
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте ракетой на <style=cIsDamage>8.000% урона</style>. <i>Translated by: Jaosnake</i>
+SHOOT_GRENADELAUNCHER_NAME: Гранатомёт
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>. Стреляйте гранатой на <style=cIsDamage>3.200% урона</style>. <i>Translated by: Jaosnake</i>
+PRIMARY_CQC_NAME: CQC
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Вытащить.</style> <style=cIsDamage>Ударьте</style> ближних бойцов на <style=cIsDamage>200% и 250% урона</style>, нанося <style=cIsHealth>Увечье</style>. <i>Translated by: Jaosnake</i>
+SECONDARY_AIM_NAME: Прицеливание
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Цельтесь</style> для улучшения точности текущего оружия. <i>Translated by: Jaosnake</i>
+UTILITY_PARRY_NAME: Парирование
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Парируйте</style> для отражения атак. Если использовать превентивно для <style=cIsUtility>избежания атаки</style>, совершите <style=cIsDamage>Идеальное Уклонение</style>. <i>Translated by: Jaosnake</i>
+UTILITY_DODGE_NAME: Скольжение
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Скользните</style> на короткое расстояние. Если использовать превентивно для <style=cIsUtility>избежания атаки</style>, совершите <style=cIsDamage>Идеальное Уклонение</style>. <i>Translated by: Jaosnake</i>
+UTILITY_BASH_NAME: Отражение
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Отразите</style> ближайших врагов, <style=cIsUtility>оглушая их</style> на <style=cIsDamage>400% урона</style>. Если использовать превентивно для <style=cIsUtility>отмены атаки</style>, совершите <style=cIsDamage>Идеальное Отражение</style>. <i>Translated by: Jaosnake</i>
+SPECIAL_SWAP_NAME: Легион
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Смените</style> текущее оружие. <i>Translated by: Jaosnake</i>
+ROB_HUNK_KEYWORD_MANGLED: Увечье
+ROB_HUNK_KEYWORD_COUNTERATTACK: Контратака
+ROB_HUNK_KEYWORD_PERFECTDODGE: Идеальное Уклонение
+ROB_HUNK_KEYWORD_PERFECTBASH: Идеальное Отражение
+ROB_HUNK_KEYWORD_CVIRUS: C-Вирус
+ROB_HUNK_KEYWORD_LOOTING: Обыск
+ROB_HUNK_TRANSCEIVER_NAME: Передатчик
+ROB_HUNK_TRANSCEIVER_DESC: Сброс припасов.
+ROB_HUNK_TYPEWRITER_NAME: Печатная Машинка
+ROB_HUNK_TYPEWRITER_DESC: Сохраните прогресс.
+ROB_HUNK_JETPACK_NAME: Реактивный Ранец
+ROB_HUNK_JETPACK_DESC: Даёт воздушную мобильность.
+ROB_HUNK_C4_NAME: C4
+ROB_HUNK_GRENADE_NAME: Граната
+ROB_HUNK_SUPPLYPACK_NAME: Припасы
+ROB_HUNK_AMMO_NAME: Патроны
+ROB_HUNK_AMMOITEM_NAME: Патроны
+ROB_HUNK_CHEST_NAME: Сундук
+ROB_HUNK_TERMINAL_NAME: Терминал
+ROB_HUNK_STARSBADGE_NAME: Значок S.T.A.R.S.
+ROB_HUNK_STARSBADGE2_NAME: Значок S.T.A.R.S. 2
+ROB_HUNK_STARSBADGE_DESC: Значок члена S.T.A.R.S.
+ROB_HUNK_HEARTCHEST_NAME: Сундук Сердца
+ROB_HUNK_T_VIRUS_NAME: T-Вирус
+ROB_HUNK_T_VIRUS_DESC: Образец T-Вируса.
+ROB_HUNK_G_VIRUS_NAME: G-Вирус
+ROB_HUNK_G_VIRUS_DESC: Образец G-Вируса.
+ROB_HUNK_G_VIRUS2_NAME: G-Вирус 2
+ROB_HUNK_C_VIRUS_NAME: C-Вирус
+ROB_HUNK_C_VIRUS_DESC: Образец C-Вируса.
+ROB_HUNK_G_VIRUSFINAL_NAME: Финальный G-Вирус
+ROB_HUNK_PLAGAS_NAME: Plagas
+ROB_HUNK_PLAGAS_DESC: Образец Plagas.
+ROB_HUNK_URO_SAMPLE_NAME: Образец Uroboros
+ROB_HUNK_URO_SAMPLE_DESC: Образец Uroboros.
+ROB_HUNK_INFROCKET_NAME: Бесконечная Ракета
+ROB_HUNK_INFROCKET_DESC: Бесконечные патроны для ракетницы.
+ROB_HUNK_NEMICASE_NAME: Кейс Неми
+ROB_HUNK_NEMICASE_DESC: Таинственный кейс.
+ROB_NEMESIS_BODY_NAME: Nemesis
+ROB_NEMESIS_BODY_SUBTITLE: Преследователь
+ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Обычный
+ROB_NEMESIS_BODY_PASSIVE_NAME: Неумолимое Преследование
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Наносит <style=cIsDamage>{0}% бонусного урона</style> отмеченным врагам. <i>Translated by: Jaosnake</i>
+ROB_NEMESIS_BODY_GRAB_NAME: Захват
+ROB_ARTIFACT_STRIKETEAM_NAME: Артефакт Ударной Команды
+ROB_ARTIFACT_PURSUER_NAME: Артефакт Преследователя
+ROB_ARTIFACT_CONTAMINATION_NAME: Артефакт Заражения

@@ -1,0 +1,146 @@
+{
+    "zh-CN": {
+"ROB_BELMONT_BODY_NAME": "贝尔蒙特",
+"ROB_BELMONT_BODY_NAME_ALT": "猎人",
+"ROB_BELMONT_BODY_DESCRIPTION": "贝尔蒙特是一位精英怪物猎人，使用中远程和近战武器的混合战斗方式。<color=#CCD3E0>\n\n< ! > 鞭子可以从安全距离造成伤害，但剑的挥砍总体上造成更多伤害。\n\n< ! > 冲刺是接近敌人并用剑撕裂他们的完美工具。\n\n< ! > 使用逃脱技能可以在飞行怪物上摆动以覆盖更远的距离。\n\n< ! > 古代火焰可以轻松清理一群敌人。",
+"ROB_BELMONT_BODY_SUBTITLE": "怪物猎人",
+"ROB_BELMONT_BODY_LORE": "我不属于这里。\n\n这个世界充满了<color=#7F364F>腐败</color>。不是那种在人们心中滋生的腐败，也不是吸血鬼领域的污秽，而是更深层、更古老的东西。它附着在空气中，浸透土壤，扭曲了这片被遗弃土地上的野兽。上方的月亮注视着，遥远却令人窒息。它是错误的，就像从它应有的位置被偷走了一样。\n\n然而，我被带到了这里。\n\n命运？不，我从不相信这种概念。也许是一个残酷的玩笑，由某个看不见的手所玩弄。那一刻，风在我的狩猎大厅中呼啸，我的肺里充满了鲜血和古老石头的味道——下一刻，我在坠落。天空是一片火海，地面迅速向我逼近。<style=cIsHealth>我本该死去的。</style>\n\n然而，我依然站立。\n\n再次。\n\n<color=#FF0033>永远如此。</color>",
+"ROB_BELMONT_BODY_OUTRO_FLAVOR": "..于是他离开了，他的崇高旅程完成了。",
+"ROB_BELMONT_BODY_OUTRO_FAILURE": "..于是他消失了，高贵的血统就此终结。", "ROB_BELMONT_BODY_DEFAULT_SKIN_NAME": "默认",
+ "ROB_BELMONT_BODY_MONSOON_SKIN_NAME": "流放者",
+ "ROB_BELMONT_BODY_MONSOON_ALTERNATE_SKIN_NAME": "流放者 EX",
+ "ROB_BELMONT_BODY_LEON_SKIN_NAME": "始祖",
+ "ROB_BELMONT_BODY_SOMA_SKIN_NAME": "转世",
+ "ROB_BELMONT_BODY_MORRIS_SKIN_NAME": "探险家",
+ "ROB_BELMONT_BODY_JULIUS_SKIN_NAME": "先驱",
+ "ROB_BELMONT_BODY_ISAAC_SKIN_NAME": "锻造大师",
+ "ROB_BELMONT_BODY_MINECRAFT_SKIN_NAME": "我的世界",
+
+ "ROB_BELMONT_BODY_PASSIVE_NAME": "神圣血统",
+ "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "每个阶段，一个<color=#7F364F>夜之祭坛</color>会生成，完成后会给予<color=#FFFF00>钥匙碎片</color>。这些碎片用于为贝尔蒙特获取<style=cIsDamage>强大的装备</style>。",
+ "ROB_BELMONT_BODY_CONFIRM_NAME": "确认",
+ "ROB_BELMONT_BODY_CONFIRM_DESCRIPTION": "继续使用当前技能。",
+ "ROB_BELMONT_BODY_CANCEL_NAME": "取消",
+ "ROB_BELMONT_BODY_CANCEL_DESCRIPTION": "取消当前技能。",
+
+ "ROB_BELMONT_BODY_PRIMARY_NAME": "净化",
+ "ROB_BELMONT_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>敏捷。</style> 挥砍造成<style=cIsDamage>300%伤害</style>。如果目标较远，则使用<style=cIsUtility>鞭子</style>抽打，造成<style=cIsDamage>700%伤害</style>。",
+
+ "ROB_BELMONT_BODY_PRIMARY2_NAME": "清除",
+ "ROB_BELMONT_BODY_PRIMARY2_DESCRIPTION": "<style=cIsUtility>敏捷。</style> 使用<style=cIsUtility>鞭子</style>抽打，对前方所有敌人造成<style=cIsDamage>500%伤害</style>。",
+ 	
+ "ROB_BELMONT_BODY_SLIDEKICK_NAME": "冲刺",
+ "ROB_BELMONT_BODY_SLIDEKICK_DESCRIPTION": "<style=cIsUtility>眩晕。</style> 向前滑动，造成<style=cIsDamage>350%伤害</style>，并从第一个击中的敌人身上弹开。",
+
+ "ROB_BELMONT_BODY_UTILITY_NAME": "逃脱",
+ "ROB_BELMONT_BODY_UTILITY_DESCRIPTION": "向一个方向冲刺。<style=cIsUtility>按住</style>可以使用<style=cIsUtility>鞭子</style>从<style=cIsDamage>目标敌人</style>身上摆动。",
+
+ "ROB_BELMONT_BODY_UTILITY2_NAME": "裁决",
+ "ROB_BELMONT_BODY_UTILITY2_DESCRIPTION": "后空翻。<style=cIsUtility>按住</style>可以使用<style=cIsUtility>鞭子</style>拉向<style=cIsDamage>目标敌人</style>，并用上勾拳击中他们，造成<style=cIsDamage>1200%伤害</style>。",
+
+ "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_NAME": "古代火焰",
+ "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_DESCRIPTION": "投掷一个装有<style=cIsUtility>幽魂碎片</style>的罐子，爆炸并释放<style=cIsUtility>火焰柱</style>，造成<style=cIsDamage>800%伤害</style>。",
+
+ "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_NAME": "地狱火",
+ "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_DESCRIPTION": "投掷一个装有<style=cIsUtility>幽魂碎片</style>的罐子，爆炸并释放<style=cIsUtility>火焰柱</style>，造成<style=cIsDamage>800伤害</style>。\n<color=#d299ff>权杖：火焰更大，造成1200%伤害，并在地面上留下火焰痕迹。</color>",
+
+ "ROB_BELMONT_BODY_SPECIAL_CROSS_NAME": "战斗十字架",
+ "ROB_BELMONT_BODY_SPECIAL_CROSS_DESCRIPTION": "投掷一个<style=cIsUtility>穿透十字架</style>，多次击中敌人，造成<style=cIsDamage>200%伤害</style>。",
+
+ "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_NAME": "战斗十字架 MkII",
+ "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_DESCRIPTION": "投掷一个<style=cIsUtility>穿透十字架</style>，多次击中敌人，造成<style=cIsDamage>200%伤害</style>。\n<color=#d299ff>权杖：冷却时间减半，并获得额外储备。</color>",
+
+ "ROB_BELMONT_BODY_SPECIAL_PISTOL_NAME": "银弹",
+ "ROB_BELMONT_BODY_SPECIAL_PISTOL_DESCRIPTION": "射击一颗<style=cIsUtility>银弹</style>，造成<style=cIsDamage>800%伤害</style>。<style=cIsUtility>爆头</style>造成<style=cIsDamage>2倍伤害</style>。击杀<style=cIsUtility>重置所有冷却时间</style>。",
+
+ "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "黄金枪",
+ "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "射击一颗<style=cIsUtility>银弹</style>，造成<style=cIsDamage>800%伤害</style>。<style=cIsUtility>爆头</style>造成<style=cIsDamage>2倍伤害</style>。击杀<style=cIsUtility>重置所有冷却时间</style>。\n<color=#d299ff>权杖：造成99999%伤害。</color>",
+
+ "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_NAME": "神圣火焰",
+ "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "召唤<color=#FF0033>天意</color>的力量，释放<style=cIsUtility>巨大的火焰</style>，每跳造成<style=cIsDamage>300%伤害</style>。以<style=cIsDamage>4000%伤害</style>的超新星结束。",
+
+ "ROB_BELMONT_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "神圣血统",
+ "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "神圣血统",
+ "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "在月球上发现一件神圣遗物。",
+ 	
+ "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：精通",
+ "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：精通",
+ "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，在季风难度下通关游戏或湮灭。",
+ 	
+ "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：大师精通",
+ "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：大师精通",
+ "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，在台风或月蚀难度下通关游戏或湮灭。\n<color=#8888>计算任何台风或更高难度</color>",
+ 	
+ "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：悲伤咏叹调",
+ "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：悲伤咏叹调",
+ "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，进入“完整时刻”。",
+ 	
+ "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：废墟肖像",
+ "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：废墟肖像",
+ "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，获得一件神圣遗物。",
+ 	
+ "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：黎明咏叹调",
+ "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：黎明咏叹调",
+ "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，同时持有所有神圣遗物。",
+ 	
+ "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：黑暗诅咒",
+ "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：黑暗诅咒",
+ "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，完成一个夜之祭坛。",
+ 	
+ "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：追寻者",
+ "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：追寻者",
+ "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，在月球上找到被盗的武器。",
+ 	
+ "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_UNLOCKABLE_NAME": "贝尔蒙特：预感",
+ "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_NAME": "贝尔蒙特：预感",
+ "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_DESC": "作为贝尔蒙特，在虚空中找到秘密武器。",
+
+ "ROB_BELMONT_BODY_LOADOUT_SKILL_MISC": "被动",
+ 	
+ "ROB_BELMONT_DEVILSHRINE_NAME": "夜之祭坛",
+ "ROB_BELMONT_DEVILSHRINE_DESC": "我的工资不足以让我写这些。",
+ "ROB_BELMONT_DEVILSHRINE_CONTEXT": "向夜之祭坛祈祷",
+ 	
+ "ROB_BELMONT_TREASURECHEST_NAME": "宝藏箱",
+ "ROB_BELMONT_TREASURECHEST_DESC": "救救救救救救",
+ "ROB_BELMONT_KEYFRAGMENT_NAME": "钥匙碎片",
+ "ROB_BELMONT_KEYFRAGMENT_DESC": "钥匙的碎片。收集3个以组成完整的钥匙。",
+ "ROB_BELMONT_KEYFRAGMENT_PICKUP": "钥匙的碎片。收集3个以组成完整的钥匙。",
+ "ROB_BELMONT_KEYFRAGMENT_LORE": "",
+ 	
+ "ROB_BELMONT_KEY_NAME": "骷髅钥匙",
+ "ROB_BELMONT_KEY_DESC": "用于打开<color=#FFFF00>宝藏箱</color>。这些箱子包含一个<color=#FF0033>神圣遗物</color>，并且每<style=cIsUtility>第四个</style>阶段在<style=cIsDamage>固定位置</style>生成。",
+ "ROB_BELMONT_KEY_PICKUP": "用于打开宝藏箱。靠近箱子时会发光。",
+ "ROB_BELMONT_KEY_LORE": "",
+ 	
+ "ROB_BELMONT_MORNINGSTAR_NAME": "晨星",
+ "ROB_BELMONT_MORNINGSTAR_DESC": "每次鞭击会引发<style=cIsUtility>后续爆炸</style>，造成<style=cIsDamage>600%伤害</style>。",
+ "ROB_BELMONT_MORNINGSTAR_PICKUP": "这把鞭子将摧毁所有与夜之族裔有关的敌人。",
+ "ROB_BELMONT_MORNINGSTAR_LORE": "",
+ 	
+ "ROB_BELMONT_CRISSAEGRIM_NAME": "克莉丝格里姆",
+ "ROB_BELMONT_CRISSAEGRIM_DESC": "每次剑击会额外攻击<style=cIsUtility>3次</style>，每次造成<style=cIsDamage>300%伤害</style>。",
+ "ROB_BELMONT_CRISSAEGRIM_PICKUP": "无数的刀刃将敌人切碎。",
+ "ROB_BELMONT_CRISSAEGRIM_LORE": "",
+ 	
+ "ROB_BELMONT_WINGEDBOOTS_NAME": "飞马靴",
+ "ROB_BELMONT_WINGEDBOOTS_DESC": "在<style=cIsUtility>地面</style>冲刺<style=cIsUtility>1</style>秒后，获得<style=cIsDamage>12移动速度</style>。使用<style=cIsDamage>冲刺</style>击中敌人时，会将其踢向<style=cIsUtility>空中</style>然后击飞，造成<style=cIsDamage>4x200%</style>和<style=cIsDamage>300%</style>伤害。",
+ "ROB_BELMONT_WINGEDBOOTS_PICKUP": "这双靴子可以升级你的次要技能，并让你像风一样奔跑。",
+ "ROB_BELMONT_WINGEDBOOTS_LORE": "",
+ 	
+ "ROB_BELMONT_HOLYCROSS_NAME": "救世主的围巾",
+ "ROB_BELMONT_HOLYCROSS_DESC": "每<style=cIsUtility>3</style>分钟，将你的<style=cIsDamage>特殊技能</style>替换为<color=#FF0033>神圣火焰</color>。",
+ "ROB_BELMONT_HOLYCROSS_PICKUP": "获得一个强大的终极攻击。",
+ "ROB_BELMONT_HOLYCROSS_LORE": "",
+ 	
+ "ROB_BELMONT_BROTHERSOUL_NAME": "王者之魂",
+ "ROB_BELMONT_BROTHERSOUL_DESC": "每次<style=cIsUtility>鞭击</style>会生成一个<style=cIsDamage>月焰柱</style>，每次<style=cIsUtility>剑击</style>会生成一个<style=cIsDamage>月之碎片</style>，每次<style=cIsUtility>鞭击猛击</style>会释放<style=cIsDamage>地面冲击波</style>，每次<style=cIsUtility>冲刺</style>会生成<style=cIsHealing>20%护盾</style>。",
+ "ROB_BELMONT_BROTHERSOUL_PICKUP": "将虚无之王的力量化为己用。",
+ "ROB_BELMONT_BROTHERSOUL_LORE": "",
+ 	
+ "ROB_GARGOYLE_NAME": "石像鬼",
+ 	
+ "ROB_GREAT_GARGOYLE_NAME": "蓝牙",
+ 	
+ "KEYWORD_WHIP_SLAM": "<style=cKeywordName>鞭击猛击</style><style=cSub>双击锁定一个<style=cIsUtility>空中</style>敌人，将其<style=cIsDamage>猛击</style>到地面，造成<style=cIsDamage>1800%伤害</style>。"
+ }

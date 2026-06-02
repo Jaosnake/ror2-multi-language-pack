@@ -1,0 +1,84 @@
+﻿{
+    strings:
+    {
+    "HASTEREAPR_ASSASSIN_NAME" : "Assassino",
+    "HASTEREAPR_ASSASSIN_DESCRIPTION" : "O Assassino luta a m�dia dist�ncia e usa veneno para causar dano aos inimigos ao longo do tempo.<color=#CCD3E0>\n\n< ! > Adagas s�o �timas para lidar com alvos �nicos.\n\n< ! > Venenos s�o �timos para lidar com multid�es de inimigos.\n\n< ! > Teleportar pode ser dif�cil de mirar, como tem trajet�ria em arco, mire um pouco acima de onde realmente quer cair.\n\n< ! > Grito de Guerra � �timo para usar ao ativar o teletransporte.\n\n
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_SUBTITLE" : "Profissional Silencioso e Venenoso",
+    "HASTEREAPR_ASSASSIN_LORE" : "Antigamente reverenciado como um prod�gio alqu�mico, o Assassino estava destinado a deixar uma marca indel�vel na hist�ria. Eles demonstravam uma afinidade incompar�vel por preparar po��es que podiam fazer qualquer coisa que se pudesse pedir. Sob a mentoria de alquimistas respeitados, aprimoraram sua arte e ganharam reputa��o como o alquimista mais capaz que existia. No entanto, com o tempo, foram consumidos pela gan�ncia, algo que a sociedade alqu�mica desaprovava fortemente. Isso os levou a abandonar a sociedade que os mentorou.\n\nSua imensa gan�ncia e �dio pela sociedade alqu�mica em que cresceram levaram o Assassino por um caminho sombrio que jamais poderiam ter imaginado. Consumido pela gan�ncia e pelo desejo de ser famoso, ele voltou sua expertise para um prop�sito mais sombrio. Passou meses preparando sua po��o mais mortal, uma neurotoxina t�o letal que drenava a vida de qualquer um que inalasse seus vapores. Sabendo que n�o sobreviveria a isso, ele criou um ant�doto e infundiu sua capa com ele.\n\nEle ganhou notoriedade como um ca�ador de recompensas implac�vel e indescrit�vel. Seus servi�os eram requisitados por criminosos e senhores da guerra, seu veneno se tornando sua marca registrada de assassinato, servindo efetivamente como um cart�o de visita. Ele aproveitou suas habilidades de prepara��o para fazer outras po��es, que podiam mover sua estrutura molecular, e outras que podiam fazer seu corpo desaparecer num piscar de olhos.\n\nIterando em seu veneno anterior, ele criou algo muito mais virulento. Este novo veneno era capaz de liberar todas as suas toxinas quase instantaneamente, com o efeito colateral de que permanecia no ar. Isso permitia que ele matasse salas inteiras de pessoas com uma �nica po��o.\n\nEle foi incumbido de matar o Capit�o do U.S.S. Safe Travels, no entanto, ao pousar, sentiu uma poderosa presen�a de outro mundo o atraindo por um caminho cada vez mais sombrio, cada vez mais profundo.",
+    "HASTEREAPR_ASSASSIN_OUTRO_FLAVOR" : "..e assim partiu, para reivindicar sua maior recompensa.",
+    "HASTEREAPR_ASSASSIN_OUTRO_FAILURE" : "..e assim desapareceu, sem deixar nem um tra�o de fuma�a.",
+    "HASTEREAPR_ASSASSIN_EXPLOSIVEDECOY_NAME" : "Isca do Assassino",
+    "HASTEREAPR_ASSASSIN_KEYWORD_DAGGER_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse 4 adagas.",
+    "HASTEREAPR_ASSASSIN_KEYWORD_GHOSTLY_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>o dano m�nimo � aumentado para <style=cIsDamage>75%</style>.",
+    "HASTEREAPR_ASSASSIN_KEYWORD_POISON_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse uma po��o aglomerada com filhos mais fracos.",
+    "HASTEREAPR_ASSASSIN_KEYWORD_VENOM_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse 2 po��es em leque aberto.",
+    "HASTEREAPR_ASSASSIN_KEYWORD_TELEPORT_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse a po��o de teleporte mais r�pido e exploda em uma nuvem venenosa ao teleportar.",
+    "HASTEREAPR_ASSASSIN_KEYWORD_ROLL_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>rolar aplica o efeito de estandarte de guerra.",
+    "HASTEREAPR_ASSASSIN_KEYWORD_DECOY_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse venenos em sua esteira.",
+    "HASTEREAPR_ASSASSIN_DEFAULT_SKIN_NAME" : "Padr�o",
+    "HASTEREAPR_ASSASSIN_MASTERY_SKIN_NAME" : "Exaltado",
+    "HASTEREAPR_ASSASSIN_GRAND_MASTERY_SKIN_NAME" : "Divino",
+    "HASTEREAPR_ASSASSIN_PASSIVE_NAME" : "F�ria do Deus Louco",
+    "HASTEREAPR_ASSASSIN_PASSIVE_DESCRIPTION" : "Ser atingido abaixo de <style=cIsHealth>60% de sa�de m�xima</style> aumenta sua velocidade de ataque e dano em <style=cIsDamage>7.5% por ac�mulo</style>, por <style=cIsUtility>3 segundos.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_ALT_PASSIVE_NAME" : "Terror T�xico",
+    "HASTEREAPR_ASSASSIN_ALT_PASSIVE_DESCRIPTION" : "Ser atingido arremessa um veneno na dire��o do dano, causando <style=cIsDamage>250% de dano</style> mais <style=cIsDamage>500% de dano adicional ao longo do tempo</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_NAME" : "Artimanha do Trapaceiro",
+    "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_DESCRIPTION" : "Ser atingido tem <style=cIsUtility>5%</style> de chance de gerar uma isca que vive por 5 segundos e explode causando <style=cIsDamage>1.500% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_NAME" : "Adaga",
+    "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_DESCRIPTION" : "<style=cIsUtility>�gil.</style> Arremesse 2 adagas causando <style=cIsDamage>100% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_NAME" : "Adaga Fantasma",
+    "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_DESCRIPTION" : "<style=cIsUtility>�gil.</style> Arremesse 1 adaga causando <style=cIsDamage>30% a 200% de dano</style>.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME" : "Veneno",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION" : "<style=cIsUtility>�gil.</style> Arremesse uma po��o venenosa causando <style=cIsDamage>250% de dano</style> mais <style=cIsDamage>500% de dano adicional ao longo do tempo.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_SCEPTER" : "<style=cIsUtility>�gil.</style> Arremesse uma po��o venenosa aglomerada causando <style=cIsDamage>250% de dano</style> mais <style=cIsDamage>500% de dano ao longo do tempo, cada.</style> \n\n<style=cKeywordName>Sob efeito do Grito de Guerra, arremesse uma po��o aglomerada recursivamente, com filhos mais fracos.</style>",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME_ALT" : "Veneno Virulento",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_ALT" : "<style=cIsUtility>�gil.</style> Arremesse uma po��o persistente causando <style=cIsDamage>500% de dano.</style> <style=cIsUtility>Toxinas persistem por 5 segundos.</style> <style=cDeath>N�o inflige veneno.</style>",
+    "HASTEREAPR_ASSASSIN_SCEPTER_SECONDARY_POISON_DESCRIPTION_ALT" : "<style=cIsUtility>�gil.</style> Arremesse 2 po��es persistentes em leque aberto causando <style=cIsDamage>500% de dano.</style> <style=cIsUtility>Toxinas persistem por 5 segundos.</style> <style=cDeath>N�o inflige veneno.</style>",
+    "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_NAME" : "Teleporte",
+    "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_DESCRIPTION" : "Arremesse uma po��o em dire��o ao cursor <style=cIsUtility>teleportando voc� para onde ela cair,</style> ent�o arremesse uma po��o no ch�o, <style=cIsUtility>explodindo em uma nuvem de fuma�a, ganhando o buff de Velocidade de Capa.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_UTILITY_ROLL_NAME" : "Rolamento Camuflado",
+    "HASTEREAPR_ASSASSIN_UTILITY_ROLL_DESCRIPTION" : "Role para frente, ficando invis�vel e ganhando um pequeno aumento de velocidade de movimento.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_UTILITY_DECOY_NAME" : "Prisma-Isca",
+    "HASTEREAPR_ASSASSIN_UTILITY_DECOY_DESCRIPTION" : "Avance rapidamente, deixando uma isca explosiva em sua posi��o anterior.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_NAME" : "Grito de Guerra",
+    "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_DESCRIPTION" : "<style=cIsUtility>Fortale�a a si mesmo e todas as suas habilidades por 5 segundos.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME" : "Pun��o Espinhal",
+    "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION" : "Apunhale seus inimigos causando <style=cIsDamage>750% de dano. </style><style=cIsUtility>Ao apunhalar um inimigo menor pelas costas,</style> <style=cIsHealth>mate instantaneamente o alvo.</style> Ao apunhalar um chefe pelas costas, tem <style=cIsUtility>2%</style> de chance de <style=cIsHealth>matar instantaneamente o alvo.</style> Se falhar, causa <style=cIsDamage>20% da sa�de do alvo.</style>
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME" : "Assassino: Dom�nio",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION" : "Como Assassino, ven�a o jogo ou aniquile em Mon��o ou superior.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME" : "Assassino: Grande Dom�nio",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION" : "Como Assassino, ven�a o jogo ou aniquile em Tuf�o ou superior.
+
+Esse personagem foi traduzido por: Jaosnake",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME" : "Assassino: Po��o Mortal",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION" : "Como Assassino, aplique 10 ac�mulos de Veneno do Assassino em um �nico inimigo.
+
+Esse personagem foi traduzido por: Jaosnake",
+    }
+}

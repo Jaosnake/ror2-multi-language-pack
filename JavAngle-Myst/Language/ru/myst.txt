@@ -1,0 +1,102 @@
+JAVANGLE_MYST_BODY_NAME: Мист
+JAVANGLE_MYST_BODY_SUBTITLE: Таинственный Арканист
+JAVANGLE_MYST_BODY_DESCRIPTION: Мист — универсальный выживший, использующий <style=cIsUtility>Магическую Силу</style> для применения разнообразных сверхъестественных навыков и <style=cIsUtility>Лимит</style> для высвобождения мощных суперприёмов. <i>Translated by: Jaosnake</i>
+JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: Обычный
+JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: Мастерство
+JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: Великое Мастерство
+
+BASEFORM_SLASH_NAME: Ворпальный Разрез
+BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>Проворный</style>. Разрежьте врагов перед собой, нанося <style=cIsDamage>165% урона</style>.
+BASEFORM_DASH_NAME: Рывок
+BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>Проворный</style>. Скользните на короткое расстояние в любом горизонтальном направлении.
+BASEFORM_BLOCK_NAME: Призрак
+BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>Удерживайте</style>, чтобы значительно снизить получаемый фронтальный урон, получая <style=cIsUtility>Лимит</style> на основе заблокированного урона. Если <style=cIsUtility>вовремя</style>: полностью избегает урона со всех направлений, обнуляет перезарядку навыка, восстанавливает <style=cIsUtility>Магическую Силу</style> на основе заблокированного урона, получает <style=cIsUtility>двойной Лимит</style> и отражает до <style=cIsDamage>3x заблокированного урона</style> по ближайшим врагам.
+BASEFORM_LIMITMENU_NAME: Меню Лимита
+BASEFORM_LIMITMENU_DESCRIPTION: Откройте Меню Лимита, позволяющее использовать экипированные <style=cIsUtility>Лимит Брейки</style>.
+
+JAVANGLE_MYST_BODY_UI_MAGICNAME: Меню Магии
+JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: Откройте Меню Магии, позволяющее использовать экипированные заклинания.
+JAVANGLE_MYST_BODY_UI_LIMITNAME: Меню Лимита
+JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: Откройте Меню Лимита, позволяющее использовать экипированные Лимит Брейки.
+JAVANGLE_MYST_BODY_UI_SHOPRANDOM: Случайно
+JAVANGLE_MYST_BODY_UI_SHOPSPELL: Заклинание
+JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: Поддержка
+JAVANGLE_MYST_BODY_UI_SHOPLIMIT: Лимит
+JAVANGLE_MYST_BODY_UI_SHOPFINISHER: Финишёр
+JAVANGLE_MYST_BODY_UI_SORT: Сортировать
+JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: Обучение
+JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: Мист использует два меню для применения своих экипированных <style=cIsUtility>Заклинаний</style> и высвобождения навыков, хранящихся в них.
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: Инвентарь Магии
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: Имя
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: Уровень
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: Утилизировать
+JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: Экипированные Магии
+
+JOBCLASS_MYSTIC_NAME: Мистик
+JOBCLASS_MYSTIC_DESCRIPTION: Начните забег с универсальным набором, в котором есть всего понемногу.
+JOBCLASS_MYSTIC_KEYWORD: Мистик
+JOBCLASS_WARRIOR_NAME: Воин
+JOBCLASS_WARRIOR_DESCRIPTION: Начните забег с набором, ориентированным на использование атак Финишёра.
+JOBCLASS_WARRIOR_KEYWORD: Воин
+JOBCLASS_SORCERER_NAME: Колдун
+JOBCLASS_SORCERER_DESCRIPTION: Начните забег с набором, ориентированным на заклинания.
+JOBCLASS_SORCERER_KEYWORD: Колдун
+JOBCLASS_BABY_NAME: Младенец
+JOBCLASS_BABY_DESCRIPTION: Начните забег без магии.
+JOBCLASS_BABY_KEYWORD: Младенец
+JOBCLASS_CHAD_NAME: Чад
+JOBCLASS_CHAD_DESCRIPTION: Начните забег без магии.
+JOBCLASS_CHAD_KEYWORD: Чад
+
+MAGICITE_FIREBALL_NAME: Огненный Шар
+MAGICITE_FIREBALL_DESCRIPTION: Выпускает самонаводящийся огненный шар в цель, который взрывается при ударе, нанося урон и <style=cIsDamage>поджигая</style> врагов в области действия.
+MAGICITE_CALL_LIGHTNING_NAME: Призыв Молнии
+MAGICITE_CALL_LIGHTNING_DESCRIPTION: Призовите молнию на цель, нанося урон и сбивая воздушных врагов на землю.
+MAGICITE_CONE_OF_FROST_NAME: Конус Мороза
+MAGICITE_CONE_OF_FROST_DESCRIPTION: Призовите конус ледяного ветра, чтобы нанести урон и <style=cIsDamage>заморозить</style> врагов перед вами.
+MAGICITE_FORTIFY_NAME: Укрепление
+MAGICITE_FORTIFY_DESCRIPTION: После короткого канала: даёт мощный бафф <style=cIsUtility>брони</style> вам и выбранному союзнику.
+MAGICITE_MEND_WOUNDS_NAME: Лечение Ран
+MAGICITE_MEND_WOUNDS_DESCRIPTION: После короткого канала: исцеляет вас и выбранного союзника на <style=cIsHealing>50% от Максимального Здоровья</style>.
+MAGICITE_MAGNET_NAME: Магнит
+MAGICITE_MAGNET_DESCRIPTION: Призовите магнитное поле, чтобы притянуть врагов в широкой области вокруг цели.
+MAGICITE_HASTE_NAME: Ускорение
+MAGICITE_HASTE_DESCRIPTION: После короткого канала: даёт Скорость Передвижения и Атаки вам и выбранному союзнику.
+MAGICITE_MAGIC_MISSILE_NAME: Магическая Ракета
+MAGICITE_MAGIC_MISSILE_DESCRIPTION: Выпустите залп самонаводящихся магических снарядов, ищущих цели. Больше МС — больше выпущенных снарядов.
+MAGICITE_ECLIPSE_GATE_NAME: Врата Затмения
+MAGICITE_ECLIPSE_GATE_DESCRIPTION: Призывает фрагмент теневой силы, наносящий урон цели на основе недостающей МС.
+MAGICITE_ULTIMA_NAME: Ультима
+MAGICITE_ULTIMA_DESCRIPTION: После короткого канала: тратит всю оставшуюся Магическую Силу, создавая огромный энергетический вихрь, который наносит невероятный урон всем врагам в широкой области после долгой задержки.
+
+MAGICITE_FATED_CIRCLE_NAME: Круг Судьбы
+MAGICITE_FATED_CIRCLE_DESCRIPTION: Вращающаяся атака, оглушающая и притягивающая врагов, с последующими огненными взрывами, отбрасывающими их, нанося тяжёлый урон.
+MAGICITE_EXPLOSION_NAME: Взрыв
+MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>(Финишёры различаются в зависимости от того, находится ли Мист на земле или в воздухе)</style>. Оставайтесь на месте и призовите Сферы Света, чтобы они вращались вокруг вас, нанося урон и оглушая ближайших врагов.
+MAGICITE_CHALLENGING_SHOUT_NAME: Вызывающий Крик
+MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: Издайте властный крик, который ослабляет и притягивает врагов к вам.
+MAGICITE_BLADE_DANCE_NAME: Танец Клинков
+MAGICITE_BLADE_DANCE_DESCRIPTION: Художественная серенада режущих ударов, которая продвигает пользователя и быстро наносит урон.
+MAGICITE_JUDGEMENT_CUT_NAME: Разрез Суда
+MAGICITE_JUDGEMENT_CUT_DESCRIPTION: Станьте нематериальным и нанесите несколько ударов по области, нанося больше ударов с более высокой скоростью атаки.
+MAGICITE_SHILLELAGH_NAME: Шиллела
+MAGICITE_SHILLELAGH_DESCRIPTION: В режиме <style=cIsUtility>Магической Перезарядки</style>: наносит тяжёлый урон и восстанавливает Магическую Силу. В остальное время — не впечатляет.
+
+MAGICITE_BLASTING_ZONE_NAME: Взрывная Зона
+MAGICITE_BLASTING_ZONE_DESCRIPTION: Призовите гигантский столп силы, чтобы окутать Ворпальный Меч, затем взмахните клинком, обрушив его на врагов перед вами, нанося невероятный урон по широкой области.
+MAGICITE_BERSERK_FORM_NAME: Форма Берсерка
+MAGICITE_BERSERK_FORM_DESCRIPTION: Мист приходит в ярость, получая повышенные Скорость Передвижения и Высоту Прыжка, а также набор движений, ориентированный на атаки.
+MAGICITE_JUDGEMENT_CUT_END_NAME: Финальный Разрез Суда
+MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: Вложите Ворпальный Меч в ножны, накапливая энергию, прежде чем высвободить шквал молниеносных разрезов, наносящих невероятный урон после задержки.
+MAGICITE_POWER_WORD_KILL_NAME: Слово Силы: Смерть
+MAGICITE_POWER_WORD_KILL_DESCRIPTION: После короткого канала: <style=cIsDamage>мгновенно устраняет</style> цель.
+
+MAGICITE_MP_THRIFT_NAME: Экономия МС
+MAGICITE_MP_THRIFT_DESCRIPTION: Связанное Заклинание стоит меньше МС.
+MAGICITE_MP_TURBO_NAME: МС Турбо
+MAGICITE_MP_TURBO_DESCRIPTION: Связанное Заклинание наносит больше урона и стоит больше МС.
+MAGICITE_LIMIT_SYPHON_NAME: Сифон Лимита
+MAGICITE_LIMIT_SYPHON_DESCRIPTION: Даёт Лимит на основе Стоимости Магии.
+
+JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: Кол-во молний:
+JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% x количество заблокированных ударов

@@ -1,0 +1,27 @@
+BOG_MORRIS_BODY_NAME: Мортициан
+BOG_MORRIS_BODY_SUBTITLE: Нежить
+BOG_MORRIS_BODY_DESCRIPTION: Мортициан — это медленный, но крепкий некромант ближнего боя, который превосходно контролирует территорию с помощью своей армии нежити. <i>Translated by: Jaosnake</i>
+
+BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: Обычный
+BOG_MORRIS_BODY_OUTRO_FLAVOR: ..и так он ушёл, его мрачный долг всё ещё не выполнен.
+BOG_MORRIS_BODY_OUTRO_FAILURE: ..и так он исчез, наконец обретя покой, которого так желал.
+BOG_MORRIS_BODY_PASSIVE_NAME: Подношение Душ
+BOG_MORRIS_BODY_PASSIVE_DESCRIPTION: Гули <style=cIsUtility>активируют свои эффекты при убийстве</style>, когда их убивают.
+
+PRIMARY_SHOVEL_NAME: Удар Лопатой
+PRIMARY_SHOVEL_DESCRIPTION: Размахнитесь лопатой для <style=cIsDamage>800% урона</style>. Попадание по гулям и надгробиям лопатой вызывает <style=cIsUtility>подбрасывание</style> с <style=cIsDamage>350% урона</style>.
+
+SECONDARY_GHOUL_NAME: Поднять Мёртвых
+SECONDARY_GHOUL_DESCRIPTION: <style=cIsUtility>Духовная Связь</style>. Создаёт гуля на земле перед вами. Гули кусают, нанося <style=cIsDamage>150% урона</style>, и плюются <style=cIsDamage>Чумной</style> желчью, нанося <style=cIsDamage>100% урона</style>.
+
+UTILITY_LANTERN_NAME: Жертвоприношение
+UTILITY_LANTERN_DESCRIPTION: <style=cIsHealth>Подорвите</style> целевого гуля, нанося <style=cIsDamage>700% урона</style>, и <style=cIsHealing>восстановите 15% вашего максимального здоровья</style>.
+
+SPECIAL_TOMBSTONE_NAME: Надгробие
+SPECIAL_TOMBSTONE_DESCRIPTION: Воздвигните Надгробие, которое порождает гуля каждые <style=cIsUtility>10 секунд</style>. Когда гуля убивают, надгробие создаёт <style=cIsDamage>мстительную душу</style> <style=cIsUtility>взрывного</style> типа, которая стреляет в ближайшего врага, нанося <style=cIsDamage>350% урона</style>.
+
+BOG_GHOUL_BODY_NAME: Гуль
+BOG_TOMBSTONE_BODY_NAME: Надгробие
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Мортициан: Мастерство
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: Будучи Мортицианом, пройдите игру или уничтожьтесь на уровне «Муссон».
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Мортициан: Мастерство

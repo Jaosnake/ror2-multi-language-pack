@@ -1,0 +1,17 @@
+NDP_DANCER_BODY_PASSIVE_NAME: Cinta Restrictiva
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Los enemigos con cinta sangran por 50% de daño por segundo y no pueden actuar. <i>Translated by: Jaosnake</i>
+PRIMARY_SLASH_NAME: Golpe
+PRIMARY_SLASH_DESCRIPTION: Ataque cuerpo a cuerpo con efectos basados en tu mira. (Pasa el mouse para más detalles)
+PRIMARY_SLASH2_NAME: Corte
+PRIMARY_SLASH2_DESCRIPTION: Ataque cuerpo a cuerpo con efectos basados en tu mira. (Pasa el mouse para más detalles)
+UTILITY_PULL_NAME: Tirón
+UTILITY_PULL_DESCRIPTION: Atrae enemigos hacia ti.
+SPECIAL_RIBBON_LOCK_NAME: Cinta de Amarre
+SPECIAL_RIBBON_LOCK_DESCRIPTION: Aplica una cinta a un enemigo, impidiéndole actuar y causando sangrado.
+KEYWORD_DANCER_JAB: <style=cKeywordName>Jab</style><style=cSub>Input en tierra, apunta hacia adelante. Avanza y causa <style=cIsDamage>180% de daño</style>.
+KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>Input en tierra, apunta hacia abajo. Lanza enemigos hacia arriba y causa <style=cIsDamage>200% de daño</style>.
+KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>Input en el aire, apunta hacia adelante. Golpe pesado que causa <style=cIsDamage>180% de daño</style> y clava enemigos al suelo, aturdiendo y causando hasta <style=cIsDamage>300% de daño</style>.
+KEYWORD_DANCER_RIBBON: <style=cKeywordName>Cinta</style><style=cSub>Los enemigos con cinta sangran por <style=cIsDamage>50% de daño por segundo</style> y no pueden actuar.
+NDP_DANCER_BODY_SUBTITLE: Danza Mortal
+NDP_DANCER_BODY_DEFAULT_SKIN_NAME: Predeterminado
+NDP_DANCER_GOLD_SKIN_NAME: Dorado

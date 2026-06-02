@@ -1,0 +1,125 @@
+{
+	strings: {
+ 	 "ROB_DANTE_BODY_NAME": "<color=#B70027>Dante</color>",
+ 	 "ROB_NERO_BODY_NAME": "<color=#2150AF>Nero</color>",
+ 	 "ROB_VERGIL_BODY_NAME": "<color=#32D2FF>Vergil</color>",
+ 	 "ROB_DANTE_BODY_DESCRIPTION": "<color=#B70027>Dante</color>, bir çift tabanca ve bir kılıçla savaşan efsanevi bir şeytan avcısıdır.<color=#CCD3E0>\n\n< ! > Ebony & Ivory güvenilir, tutarlı bir hasar kaynağıdır.\n\n< ! > Her Şeytan Kolu benzersiz bir hareket setine sahiptir, onlardan en iyi şekilde yararlanmak için yön tuşlarıyla deneyler yap.\n\n< ! > Gelen darbeleri iptal etmek ve kaçmak için Hile'yi kullan.\n\n< ! > Şeytan Tetikleyici bazı şeyleri yapar.",
+ 	 "ROB_DANTE_BODY_SUBTITLE": "Efsanevi Şeytan Avcısı",
+ 	 "ROB_DANTE_BODY_LORE": "Biliyorum, işleri almadan önce gerçekten daha iyi araştırmalıyım.\n\nHerif dükkanıma geliyor, öldürülmesi gereken canavarlardan bahsediyor. Pek ciddi ve resmi, muhtemelen asker. Sol kolu yerine av tüfeği. Ciddi olmalı.\n\nBir torba para ve bir gemi biletini masaya fırlatıyor. Bu beni aylarca krallar gibi yaşatır!\n\nAma havalı kalmalıyım, nazlı davranmalıyım.\n\n'Uzun vadeli iş, uzun vadeli ödeme demektir.'\n\n'Bunun fikrini değiştireceğine inanıyorum.'\n\nMasaya bir fotoğraf düşüyor. Bir adam... camın içinde mi sıkışmış? Yüzünü seçemiyorum, ama o kolyeyi her yerde tanırım.\n\nBu adam ödevini yapmış. Sanırım o gemiye binmem gerekiyor.\n\n'Anlaştık.'\n\nŞimdi gezegeni baştan sona gezip çöpleri temizliyorum.\n\nHaftalarca arama, öldürme, hayatta kalma.\n\nAma <color=#32D2FF>onu</color> bulmalıyım.\n\nİş iştir, değil mi?\n\n<color=#B70027>Hadi coşalım.</color>",
+ 	 "ROB_DANTE_BODY_OUTRO_FLAVOR": "..ve böylece gitti.",
+ 	 "ROB_DANTE_BODY_OUTRO_FAILURE": "..ve böylece yok oldu.",
+
+ 	 "ROB_DANTE_BODY_DEFAULT_SKIN_NAME": "<color=#B70027>Varsayılan</color>",
+ 	 "ROB_DANTE_BODY_MASTERY_SKIN_NAME": "<color=#B70027>Klasik</color>",
+ 	 "ROB_DANTE_BODY_TYPHOON_SKIN_NAME": "<color=#B70027>blm</color>",
+ 	 "ROB_DANTE_BODY_PRESTIGE_SKIN_NAME": "<color=#B70027>Prestij</color>"
+ 	 "ROB_DANTE_BODY_DMC2_SKIN_NAME": "<color=#B70027>Gazi</color>",
+ 	 "ROB_DANTE_BODY_DMC_SKIN_NAME": "<color=#B70027>El Donte</color>",
+ 	 "ROB_DANTE_BODY_SUPER_SKIN_NAME": "<color=#B70027>Süper</color>",
+ 	 "ROB_DANTE_BODY_VERGIL_SKIN_NAME": "<color=#32D2FF>Vergil</color>",
+ 	 "ROB_DANTE_BODY_VERGILEX_SKIN_NAME": "<color=#32D2FF>Vergil EX</color>",
+ 	 "ROB_DANTE_BODY_MINECRAFT_SKIN_NAME": "<color=#B70027>Minecraft</color>",
+
+     "ROB_DANTE_BODY_PASSIVE_NAME": "<color=#B70027>Sparda'nın Oğlu</color>",
+     "ROB_DANTE_BODY_PASSIVE_DESCRIPTION": "<color=#B70027>Dante</color> birkaç <style=cIsDamage>benzersiz yeteneğe</style> erişebilir. <style=cIsUtility>Daha fazla bilgi için üzerine gel.</style>",
+     "ROB_DANTE_BODY_CONFIRM_NAME": "Onayla",
+ 	 "ROB_DANTE_BODY_CONFIRM_DESCRIPTION": "Mevcut beceriyle devam et.",
+ 	 "ROB_DANTE_BODY_CANCEL_NAME": "İptal",
+ 	 "ROB_DANTE_BODY_CANCEL_DESCRIPTION": "Mevcut beceriyi iptal et.",
+
+ 	 "ROB_DANTE_BODY_PRIMARY_NAME": "<color=#B70027>Abanoz & Fildişi</color>",
+ 	 "ROB_DANTE_BODY_PRIMARY_DESCRIPTION": "<style=cIsDamage>%120 hasar</style> için hızla ateş et. <style=cIsDamage>%350 hasar</style> veren bir <style=cIsDamage>şarj atışı</style> hazırlamak için <style=cIsUtility>1 saniye</style> ateşi kes.",
+
+ 	 "ROB_NERO_BODY_PRIMARY_NAME": "<color=#2150AF>Mavi Gül</color>",
+ 	 "ROB_NERO_BODY_PRIMARY_DESCRIPTION": "<style=cIsDamage>%200 hasar</style> ve <style=cIsDamage>%350 hasar</style> için iki kez ateş et. <style=cIsDamage>Şarj atışı</style> hazırlamak için <style=cIsUtility>1 saniye</style> basılı tut.",
+
+ 	 "ROB_VERGIL_BODY_PRIMARY_NAME": "<color=#32D2FF>Çağrı Kılıçları</color>",
+ 	 "ROB_VERGIL_BODY_PRIMARY_DESCRIPTION": "<style=cIsDamage>%200 hasar</style> için hayalet kılıçlar ateşle.",
+
+ 	 "ROB_DANTE_BODY_MELEE_NAME": "<color=#B70027>Doldur ve Ateşle</color>",
+ 	 "ROB_DANTE_BODY_MELEE_DESCRIPTION": "<style=cIsUtility>Tuttuğun silahı</style> hazırla. <style=cIsDamage>Birincil</style> <style=cIsDamage>yakın dövüş saldırılarına</style> dönüşür ve tutarken düşman saldırıları <style=cIsUtility>saptırılır</style>.",
+
+	 "ROB_DANTE_BODY_UTILITY_NAME": "<color=#B70027>Hile</color>",
+	 "ROB_DANTE_BODY_UTILITY_DESCRIPTION": "Bir yöne <style=cIsUtility>atıl</style>, kısa süreliğine <style=cIsUtility>dokunulmaz</style> ol. <style=cIsUtility>Yakın dövüş vuruşları bu beceriyi anında yeniler.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_NAME": "<color=#A556FF>Şeytan Tetikleyici</color>",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_DESCRIPTION": "<color=#B70027>Cehennem Azimli.</color> <color=#A556FF>Şeytan Tetikleyici</color>'yi etkinleştir, ölçerini tüketerek geçici <style=cIsUtility>zırh</style>, <style=cIsHealing>yeniden canlanma</style> ve <style=cIsDamage>hasar</style> kazan. <style=cIsUtility>Yakın dövüş vuruşları ölçeri doldurur.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_NAME": "Kusursuz Şeytan Tetikleyici",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_DESCRIPTION": "<color=#B70027>Cehennem Azimli.</color> <color=#A556FF>Şeytan Tetikleyici</color>'yi etkinleştir, ölçerini tüketerek geçici <style=cIsUtility>zırh</style>, <style=cIsHealing>yeniden canlanma</style> ve <style=cIsDamage>hasar</style> kazan. <style=cIsUtility>Yakın dövüş vuruşları ölçeri doldurur.</style>\n<color=#d299ff>ASA: Aktifken çağrı kılıçlarıyla düşmanlarını mahvet.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_NAME": "<color=#B70027>Günah Şeytan Tetikleyici</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_DESCRIPTION": "<style=cIsUtility>Basılı tutarak</style> ölçeri <color=#B70027>Günah Şeytan Tetikleyici</color> ölçerine aktar. <style=cIsUtility>Dolduğunda basılı tutarak</style> <style=cIsDamage>gerçek şeytani formunu</style> kısa bir süreliğine serbest bırak.",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_NAME": "<color=#B70027>Kusursuz Günah Şeytan Tetikleyici</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_DESCRIPTION": "<style=cIsUtility>Basılı tutarak</style> ölçeri <color=#B70027>Günah Şeytan Tetikleyici</color> ölçerine aktar. <style=cIsUtility>Dolduğunda basılı tutarak</style> <style=cIsDamage>gerçek şeytani formunu</style> kısa bir süreliğine serbest bırak.\n<color=#d299ff>ASA: Aktifken çağrı kılıçlarıyla düşmanlarını mahvet.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_NAME": "Gümüş Kurşun",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_DESCRIPTION": "<style=cIsDamage>%800 hasar</style> için bir <style=cIsUtility>gümüş kurşun</style> ateşle. <style=cIsUtility>Kafa vuruşları</style> <style=cIsDamage>2 kat hasar</style> verir. Öldürmeler <style=cIsUtility>tüm bekleme sürelerini sıfırlar</style>.",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Altın Tabanca",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "<style=cIsDamage>%800 hasar</style> için bir <style=cIsUtility>gümüş kurşun</style> ateşle. <style=cIsUtility>Kafa vuruşları</style> <style=cIsDamage>2 kat hasar</style> verir. Öldürmeler <style=cIsUtility>tüm bekleme sürelerini sıfırlar</style>.\n<color=#d299ff>ASA: %9000 hasar verir.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "Kutsal Alev",
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "<color=#FF0033>İlahi Takdir</color>in gücünü çağır, <style=cIsDamage>tik başına %300 hasar</style> veren <style=cIsUtility>dev bir alev</style> sal. <style=cIsDamage>%4000 hasar</style>lık bir süpernovayla sonlanır.",
+
+	 "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "Pasif",
+	 
+	 "ROB_DANTE_DEVILSHRINE_NAME": "Gece Tapınağı",
+	 "ROB_DANTE_DEVILSHRINE_DESC": "Bunları yazacak kadar maaş almıyorum.",
+	 "ROB_DANTE_DEVILSHRINE_CONTEXT": "Gece Tapınağı'na Dua Et",
+	 
+	 "ROB_DANTE_TREASURECHEST_NAME": "Hazine Sandığı",
+	 "ROB_DANTE_TREASURECHEST_DESC": "YAAAAARDIIIIIIM EDİİİİN BAAAAANA",
+	 "ROB_DANTE_TREASURECHEST_CONTEXT": "Anahtarı kullan ve aç",
+	 "ROB_DANTEKEYCOST": "İskelet Anahtar",
+	 
+	 "ROB_DANTE_KEYFRAGMENT_NAME": "Anahtar Parçası",
+	 "ROB_DANTE_KEYFRAGMENT_DESC": "Kırık bir anahtar parçası. Bütün bir anahtar oluşturmak için 3 tane topla.",
+	 "ROB_DANTE_KEYFRAGMENT_PICKUP": "Kırık bir anahtar parçası. Bütün bir anahtar oluşturmak için 3 tane topla.",
+	 "ROB_DANTE_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_DANTE_KEY_NAME": "İskelet Anahtar",
+	 "ROB_DANTE_KEY_DESC": "Bir <color=#FFFF00>Hazine Sandığı</color> açmak için kullanılır. Bu sandıklar bir <color=#FF0033>kutsal kalıntı</color> içerir ve her <style=cIsUtility>dördüncü</style> aşamada <style=cIsDamage>sabit bir konumda</style> belirir.",
+	 "ROB_DANTE_KEY_PICKUP": "Bir Hazine Sandığı açmak için kullanılır. Sandığın yakınındayken parlar.",
+	 "ROB_DANTE_KEY_LORE": "",
+	 
+	 "ROB_DANTE_REBELLION_NAME": "İsyan",
+	 "ROB_DANTE_REBELLION_DESC": "kılış",
+	 "ROB_DANTE_REBELLION_PICKUP": "kılıc",
+	 "ROB_DANTE_REBELLION_LORE": "",
+	 
+	 "ROB_DANTE_TITAN_NAME": "Titan",
+	 "ROB_DANTE_TITAN_DESC": "1,000,000,000,000,000,000 yaşındaki belalı",
+	 "ROB_DANTE_TITAN_PICKUP": ".",
+	 "ROB_DANTE_TITAN_LORE": "",
+	 
+	 "ROB_DANTE_QUEEN_NAME": "Kraliçe",
+	 "ROB_DANTE_QUEEN_DESC": "Ağır vuruşlar ve kalabalık kontrolü için harika çift büyük kalkan.",
+	 "ROB_DANTE_QUEEN_PICKUP": "Sağlam bir çift büyük kalkan.",
+	 "ROB_DANTE_QUEEN_LORE": "",
+	 
+	 "ROB_DANTE_MITHRIX_NAME": "Mithrix",
+	 "ROB_DANTE_MITHRIX_DESC": "O",
+	 "ROB_DANTE_MITHRIX_PICKUP": "",
+	 "ROB_DANTE_MITHRIX_LORE": "",
+	 
+	 "ROB_DANTE_BROTHERSOUL_NAME": "Kralın Ruhu",
+	 "ROB_DANTE_BROTHERSOUL_DESC": "Her <style=cIsUtility>kırbaç şaklatması</style> bir <style=cIsDamage>ay alev sütunu</style>, her <style=cIsUtility>kılıç darbesi</style> bir <style=cIsDamage>ay parçası</style>, her <style=cIsUtility>kırbaç vuruşu</style> <style=cIsDamage>yer şok dalgaları</style> oluşturur ve her <style=cIsUtility>atılma</style> <style=cIsHealing>%20 bariyer</style> üretir.",
+	 "ROB_DANTE_BROTHERSOUL_PICKUP": "Hiçliğin Kralı'nın gücünü kendininki gibi kuşan.",
+	 "ROB_DANTE_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_DANTE_ITEM_EFFECT_TITLE": "Bonus Etki",
+	 "ROB_DANTE_ITEM_EFFECT_BACKUPMAG": "Ekstra Şarj Atışları saklama yeteneği kazan.",
+	 "ROB_DANTE_ITEM_EFFECT_BANDOLIER": "Mühimmat paketleri ölçeri yeniler.",
+	 "ROB_DANTE_ITEM_EFFECT_ALIENHEAD": "Şeytan Tetikleyici daha az ölçer tüketir.",
+	 "ROB_DANTE_ITEM_EFFECT_BRAINSTALKS": "Şeytan Tetikleyici aktifken ölçer tüketmez.",
+	 "ROB_DANTE_ITEM_EFFECT_PURITY": "Vuruşta kazanılan ölçeri artırır.",
+	 "ROB_DANTE_ITEM_EFFECT_LYSATECELL": "Maksimum ölçeri artırır.",
+	 "ROB_DANTE_ITEM_EFFECT_LUMINOUSSHOT": "Silahın çekiliyken şarj olur. Kaldırdığında sıfırlanır.",
+
+	 "KEYWORD_HELLBENT": "<style=cKeywordName>Cehennem Azimli</style><style=cSub><style=cIsUtility>Her aşamada bir kez</style>, <style=cIsHealth>%25 sağlığın</style> altına düşmek ölçerini doldurur ve bedava bir <color=#A556FF>Şeytan Tetikleyici</color> verir.",
+
+	 "KEYWORD_SONOFSPARDA": "<style=cKeywordName>Şeytan Kolları</style><style=cSub>Belirli boss'ların ruhları ölümde elde edilebilir silahlara dönüşür. Silahın çekiliyken sprint'e dokunarak aralarında geçiş yap.\n\n<style=cKeywordName>Hız</style><style=cSub>İnanılmaz bir hızla koş. Savaşta etkinleştirilemez.\n\n<style=cKeywordName>Hava Yürüyüşü</style><style=cSub>Çift zıplama.\n\n<style=cKeywordName>Düşman Adımı</style><style=cSub>Düşmandan çift zıplama."
+	 }
+}

@@ -1,0 +1,154 @@
+{
+	strings: {
+ 	 "ROB_BELMONT_BODY_NAME": "<color=#3060FF>Бельмонт</color>",
+ 	 "ROB_BELMONT_BODY_NAME_ALT": "Охотник",
+ 	 "ROB_BELMONT_BODY_DESCRIPTION": "<color=#3060FF>Бельмонт</color> — элитный охотник на монстров с нужными инструментами для любой ситуации, какой бы ужасной она ни была.<color=#CCD3E0>\n\n< ! > Кнут наносит безопасный урон с расстояния, но удары мечом наносят гораздо больше урона в целом.\n\n< ! > Рывок — идеальный инструмент, чтобы подобраться вплотную и разорвать врагов мечом.\n\n< ! > Используйте Уклон, чтобы отталкиваться от летающих монстров и преодолевать большие расстояния.\n\n< ! > Древнее Пламя можно использовать для лёгкой зачистки толпы.",
+ 	 "ROB_BELMONT_BODY_SUBTITLE": "Охотник на Монстров",
+ 	 "ROB_BELMONT_BODY_LORE": "Я здесь не на своём месте.\n\nЭтот мир смердит <color=#7F364F>скверной</color>. Не той, что гноится в сердцах людей, и не порчей вампирских владений, а чем-то более глубоким — более древним. Она цепляется за воздух, пропитывает почву и искажает зверей, что бродят по этой забытой земле. Луна сверху наблюдает, далёкая, но удушающая. Она неправильна, будто украдена с её законного места.\n\nИ всё же меня принесли сюда.\n\nСудьба? Нет, я никогда не доверял таким понятиям. Жестокая шутка, возможно, сыгранная невидимой рукой. В один момент ветер завывал в залах моей охоты, запах крови и старого камня в моих лёгких — в следующий я падал. Небо было штормом огня, земля быстро приближалась. <style=cIsHealth>Я должен был умереть.</style>\n\nВместо этого я стою.\n\nСнова.\n\n<color=#FF0033>Всегда.</color>",
+ 	 "ROB_BELMONT_BODY_OUTRO_FLAVOR": "..и так он ушёл, его добродетельное путешествие завершено.",
+ 	 "ROB_BELMONT_BODY_OUTRO_FAILURE": "..и так он исчез, благородная родословная подошла к концу.",
+
+ 	 "ROB_BELMONT_BODY_DEFAULT_SKIN_NAME": "<color=#3060FF>Стандартный</color>",
+ 	 "ROB_BELMONT_BODY_MONSOON_SKIN_NAME": "<color=#3060FF>Изгнанник</color>",
+     "ROB_BELMONT_BODY_MONSOON_ALTERNATE_SKIN_NAME": "<color=#3060FF>Изгнанник EX</color>",
+ 	 "ROB_BELMONT_BODY_LEON_SKIN_NAME": "<color=#3060FF>Прародитель</color>",
+	 "ROB_BELMONT_BODY_SOMA_SKIN_NAME": "<color=#3060FF>Реинкарнация</color>",
+	 "ROB_BELMONT_BODY_MORRIS_SKIN_NAME": "<color=#3060FF>Исследователь</color>",
+ 	 "ROB_BELMONT_BODY_JULIUS_SKIN_NAME": "<color=#3060FF>Пионер</color>",
+ 	 "ROB_BELMONT_BODY_ISAAC_SKIN_NAME": "<color=#3060FF>Кузнец</color>",
+ 	 "ROB_BELMONT_BODY_MINECRAFT_SKIN_NAME": "<color=#3060FF>Майнкрафт</color>",
+
+     "ROB_BELMONT_BODY_PASSIVE_NAME": "Божественная Родословная",
+     "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "На каждом уровне появляется <color=#7F364F>Святилище Ночи</color>, дающее <color=#FFFF00>Фрагменты Ключа</color> после завершения. Они используются для получения <style=cIsDamage>мощного снаряжения</style> для <color=#3060FF>Бельмонта.",
+     "ROB_BELMONT_BODY_CONFIRM_NAME": "Подтвердить",
+ 	 "ROB_BELMONT_BODY_CONFIRM_DESCRIPTION": "Продолжить с текущим навыком.",
+ 	 "ROB_BELMONT_BODY_CANCEL_NAME": "Отмена",
+ 	 "ROB_BELMONT_BODY_CANCEL_DESCRIPTION": "Отменить текущий навык.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY_NAME": "Очищение",
+ 	 "ROB_BELMONT_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>Ловкость.</style> Рубите на <style=cIsDamage>260% урона</style>. Если цель далеко, вместо этого щёлкните <style=cIsUtility>кнутом</style> на <style=cIsDamage>700% урона</style>.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY2_NAME": "Истребление",
+ 	 "ROB_BELMONT_BODY_PRIMARY2_DESCRIPTION": "<style=cIsUtility>Ловкость.</style> Щёлкните <style=cIsUtility>кнутом</style> на <style=cIsDamage>500% урона</style> по всем врагам впереди.",
+ 	 
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_NAME": "Рывок",
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_DESCRIPTION": "<style=cIsUtility>Оглушение.</style> Скользите вперёд на <style=cIsDamage>350% урона</style>, отталкиваясь от первого поражённого врага.",
+
+	 "ROB_BELMONT_BODY_UTILITY_NAME": "Уклон",
+	 "ROB_BELMONT_BODY_UTILITY_DESCRIPTION": "Рывок в направлении. <style=cIsUtility>Удерживайте</style>, чтобы затем оттолкнуться от <style=cIsDamage>выбранного врага</style> с помощью <style=cIsUtility>кнута</style>.",
+
+	 "ROB_BELMONT_BODY_UTILITY2_NAME": "Правосудие",
+	 "ROB_BELMONT_BODY_UTILITY2_DESCRIPTION": "Выполните разрушительный апперкот на <style=cIsDamage>1200% урона</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_NAME": "Древнее Пламя",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_DESCRIPTION": "Бросьте банку с <style=cIsUtility>фрагментами огоньков</style>, которая взрывается и высвобождает <style=cIsUtility>столбы пламени</style> на <style=cIsDamage>800% урона</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_NAME": "Адское Пламя",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_DESCRIPTION": "Бросьте банку с <style=cIsUtility>фрагментами огоньков</style>, которая взрывается и высвобождает <style=cIsUtility>столбы пламени</style> на <style=cIsDamage>800 урона</style>.\n<color=#d299ff>СКИПЕТР: Пламя больше, наносит 1200% урона и оставляет след огня на земле.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_NAME": "Боевой Крест",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_DESCRIPTION": "Бросьте <style=cIsUtility>пронзающий крест</style>, поражающий несколько раз на <style=cIsDamage>250% урона</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_NAME": "Тройной Крест",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_DESCRIPTION": "Бросьте <style=cIsUtility>пронзающий крест</style>, поражающий несколько раз на <style=cIsDamage>250% урона</style>.\n<color=#d299ff>СКИПЕТР: Бросьте три одновременно.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_NAME": "Серебряная Пуля",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_DESCRIPTION": "Выстрелите <style=cIsUtility>серебряной пулей</style> на <style=cIsDamage>800% урона</style>. <style=cIsUtility>Выстрелы в голову</style> наносят <style=cIsDamage>2x урона</style>. Убийства <style=cIsUtility>сбрасывают все ваши перезарядки</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Золотой Пистолет",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Выстрелите <style=cIsUtility>серебряной пулей</style> на <style=cIsDamage>800% урона</style>. <style=cIsUtility>Выстрелы в голову</style> наносят <style=cIsDamage>2x урона</style>. Убийства <style=cIsUtility>сбрасывают все ваши перезарядки</style>.\n<color=#d299ff>СКИПЕТР: Наносит 99999% урона.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_NAME": "Священное Пламя",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Призовите силу <color=#FF0033>Провидения</color>, высвобождая <style=cIsUtility>массивное пламя</style> на <style=cIsDamage>300% урона за тик</style>. Завершается сверхновой на <style=cIsDamage>4000% урона</style>.",
+
+   
+
+	 "ROB_BELMONT_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "Божественные Родословные",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "Божественные Родословные",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "Найдите священную реликвию на луне.",
+	 
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Мастерство",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Мастерство",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_DESC": "Пройти игру или уничтожиться на Муссоне за <color=#3060FF>Бельмонта</color>.",
+	 
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Великое Мастерство",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Великое Мастерство",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "Пройти игру или уничтожиться на Тайфуне или Затмении за <color=#3060FF>Бельмонта</color>.\n<color=#8888>Засчитывается любая сложность Тайфун или выше</color>",
+	 
+	 "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Ария Скорби",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Ария Скорби",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_DESC": "Войдите в Цельный Миг за <color=#3060FF>Бельмонта</color>.",
+     
+	 "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Портрет Руин",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Портрет Руин",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_DESC": "Получите священную реликвию за <color=#3060FF>Бельмонта</color>.",
+	 
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Рассвет Скорби",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Рассвет Скорби",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_DESC": "Используйте все священные реликвии одновременно за <color=#3060FF>Бельмонта</color>.",
+	 
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Проклятие Тьмы",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Проклятие Тьмы",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_DESC": "Завершите Святилище Ночи за <color=#3060FF>Бельмонта</color>.",
+	 
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Искатель",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Искатель",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_DESC": "Найдите украденное оружие на луне за <color=#3060FF>Бельмонта</color>.",
+	 
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Бельмонт</color>: Предчувствие",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Бельмонт</color>: Предчувствие",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_DESC": "Найдите секретное оружие в Пустоте за <color=#3060FF>Бельмонта</color>.",
+
+	 "ROB_BELMONT_BODY_LOADOUT_SKILL_MISC": "Пассивный",
+	 
+	 "ROB_BELMONT_DEVILSHRINE_NAME": "Святилище Ночи",
+	 "ROB_BELMONT_DEVILSHRINE_DESC": "Мне не платят достаточно, чтобы это писать.",
+	 "ROB_BELMONT_DEVILSHRINE_CONTEXT": "Молиться Святилищу Ночи",
+	 
+	 "ROB_BELMONT_TREASURECHEST_NAME": "Сундук с Сокровищами",
+	 "ROB_BELMONT_TREASURECHEST_DESC": "ПОМОГИИИИИИИИИТЕЕЕЕЕ МНЕЕЕЕЕЕЕЕ",
+	 "ROB_BELMONT_TREASURECHEST_CONTEXT": "Использовать ключ и открыть",
+	 "ROB_BELMONTKEYCOST": "Ключ Скелета",
+	 
+	 "ROB_BELMONT_KEYFRAGMENT_NAME": "Фрагмент Ключа",
+	 "ROB_BELMONT_KEYFRAGMENT_DESC": "Разломанный кусок ключа. Соберите 3, чтобы собрать целый ключ.",
+	 "ROB_BELMONT_KEYFRAGMENT_PICKUP": "Разломанный кусок ключа. Соберите 3, чтобы собрать целый ключ.",
+	 "ROB_BELMONT_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_BELMONT_KEY_NAME": "Ключ Скелета",
+	 "ROB_BELMONT_KEY_DESC": "Используется для открытия <color=#FFFF00>Сундука с Сокровищами</color>. Эти сундуки содержат <color=#FF0033>священную реликвию</color> и появляются на каждом <style=cIsUtility>четвёртом</style> уровне в <style=cIsDamage>фиксированном месте</style>.",
+	 "ROB_BELMONT_KEY_PICKUP": "Используется для открытия Сундука с Сокровищами. Светится, когда рядом.",
+	 "ROB_BELMONT_KEY_LORE": "",
+	 
+	 "ROB_BELMONT_MORNINGSTAR_NAME": "Утренняя Звезда",
+	 "ROB_BELMONT_MORNINGSTAR_DESC": "Каждый удар кнутом вызывает <style=cIsUtility>последующий взрыв</style> на <style=cIsDamage>600% урона</style>.",
+	 "ROB_BELMONT_MORNINGSTAR_PICKUP": "Кнут, который уничтожит всех, кто связан с родом ночи.",
+	 "ROB_BELMONT_MORNINGSTAR_LORE": "",
+	 
+	 "ROB_BELMONT_CRISSAEGRIM_NAME": "Криссаэгрим",
+	 "ROB_BELMONT_CRISSAEGRIM_DESC": "Каждый удар мечом наносит <style=cIsUtility>3 дополнительных удара</style> по <style=cIsDamage>300% урона</style> каждый.",
+	 "ROB_BELMONT_CRISSAEGRIM_PICKUP": "Бесчисленные лезвия кромсают врага.",
+	 "ROB_BELMONT_CRISSAEGRIM_LORE": "",
+	 
+	 "ROB_BELMONT_WINGEDBOOTS_NAME": "Сапоги Пегаса",
+	 "ROB_BELMONT_WINGEDBOOTS_DESC": "После <style=cIsUtility>1</style> секунды бега на <style=cIsUtility>земле</style> получите <style=cIsDamage>12 скорости передвижения</style>. Попадание по врагу с помощью <style=cIsDamage>Рывка</style> заставляет вас пнуть его <style=cIsUtility>в воздух</style> и затем прочь, нанося <style=cIsDamage>4x200%</style> и <style=cIsDamage>300%</style> урона.",
+	 "ROB_BELMONT_WINGEDBOOTS_PICKUP": "Сапоги, улучшающие ваш вторичный навык и позволяющие бежать как ветер.",
+	 "ROB_BELMONT_WINGEDBOOTS_LORE": "",
+	 
+	 "ROB_BELMONT_HOLYCROSS_NAME": "Шарф Спасителя",
+	 "ROB_BELMONT_HOLYCROSS_DESC": "Каждые <style=cIsUtility>3</style> минуты заменяет ваш <style=cIsDamage>специальный навык</style> на <color=#FF0033>Священное Пламя</color>.",
+	 "ROB_BELMONT_HOLYCROSS_PICKUP": "Получить доступ к мощной ультимативной атаке.",
+	 "ROB_BELMONT_HOLYCROSS_LORE": "",
+	 
+	 "ROB_BELMONT_BROTHERSOUL_NAME": "Душа Короля",
+	 "ROB_BELMONT_BROTHERSOUL_DESC": "Каждый <style=cIsUtility>щелчок кнута</style> порождает <style=cIsDamage>лунный огненный столб</style>, каждый <style=cIsUtility>взмах меча</style> порождает <style=cIsDamage>лунный осколок</style>, каждый <style=cIsUtility>удар кнутом</style> высвобождает <style=cIsDamage>наземные ударные волны</style> и каждый <style=cIsUtility>рывок</style> генерирует <style=cIsHealing>20% барьера</style>.",
+	 "ROB_BELMONT_BROTHERSOUL_PICKUP": "Владеть силой Короля Ничто как своей собственной.",
+	 "ROB_BELMONT_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_GARGOYLE_NAME": "Горгулья",
+	 
+	 "ROB_GREAT_GARGOYLE_NAME": "Синие Клыки",
+	 
+	 "KEYWORD_WHIP_SLAM": "<style=cKeywordName>Удар Кнутом</style><style=cSub>Двойное нажатие при захвате <style=cIsUtility>воздушного</style> врага, чтобы <style=cIsDamage>обрушить</style> его вниз на <style=cIsDamage>1800% урона</style>."
+	 }
+}

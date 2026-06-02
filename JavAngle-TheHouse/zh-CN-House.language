@@ -1,0 +1,23 @@
+{
+    "zh-CN": {
+        "JAVANGLE_HOUSE_BODY_NAME": "豪斯",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "豪斯是一名疯狂的赌徒，依靠他的运气来克服困难，使用两件神秘的命运神器：一把名为<style=cIsUtility>\"轮盘\"</style>的6发左轮手枪和一副看似被诅咒的卡牌。 <i>Translated by: Jaosnake</i>",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "疯狂赌徒",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "默认",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "精通",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..于是他离开了，再次戏弄着命运。",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..于是他消失了，他的运气终于用尽了。",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "标准射击",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>灵巧</style>。从左轮手枪中发射一发随机子弹。",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "满堂彩",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "一次从左轮手枪中发射多发子弹。",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "占卜",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "预测卡组中的下一张牌以获得优势。",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "洗牌",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "洗牌你的卡组并重置你的选项。",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "标准装填",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "用所有6发子弹装填你的左轮手枪。",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "全押装填",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "装填并加倍下注。"
+    }
+}

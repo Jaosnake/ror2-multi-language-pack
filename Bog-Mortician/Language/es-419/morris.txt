@@ -1,0 +1,27 @@
+BOG_MORRIS_BODY_NAME: Mortician
+BOG_MORRIS_BODY_SUBTITLE: No-Muerto
+BOG_MORRIS_BODY_DESCRIPTION: El Mortician es un necromante cuerpo a cuerpo lento pero resistente que destaca en controlar territorio con su ejército de no-muertos. <i>Translated by: Jaosnake</i>
+
+BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: Predeterminado
+BOG_MORRIS_BODY_OUTRO_FLAVOR: ..y así se fue, su deber sombrío aún sin cumplir.
+BOG_MORRIS_BODY_OUTRO_FAILURE: ..y así desapareció, finalmente se le concedió la paz que tanto deseaba.
+BOG_MORRIS_BODY_PASSIVE_NAME: Ofrenda de Almas
+BOG_MORRIS_BODY_PASSIVE_DESCRIPTION: Los Ghouls <style=cIsUtility>activan sus efectos al matar</style> cuando son asesinados.
+
+PRIMARY_SHOVEL_NAME: Golpe de Pala
+PRIMARY_SHOVEL_DESCRIPTION: Balancea tu pala para <style=cIsDamage>800% de daño</style>. Golpear ghouls y tumbas con tu pala causa <style=cIsUtility>lanzamiento</style> por <style=cIsDamage>350% de daño</style>.
+
+SECONDARY_GHOUL_NAME: Levantar Muertos
+SECONDARY_GHOUL_DESCRIPTION: <style=cIsUtility>Vínculo Espiritual</style>. Genera un ghoul en el suelo frente a ti. Los ghouls muerden para <style=cIsDamage>150% de daño</style> y escupen bilis <style=cIsDamage>Pestilente</style> para <style=cIsDamage>100% de daño</style>.
+
+UTILITY_LANTERN_NAME: Sacrificio
+UTILITY_LANTERN_DESCRIPTION: <style=cIsHealth>Detona</style> al ghoul objetivo para <style=cIsDamage>700% de daño</style> y <style=cIsHealing>cura 15% de tu salud máxima</style>.
+
+SPECIAL_TOMBSTONE_NAME: Tombstone
+SPECIAL_TOMBSTONE_DESCRIPTION: Erige una Tombstone que genera un ghoul cada <style=cIsUtility>10 segundos</style>. Cada vez que un ghoul es abatido, la tumba genera un <style=cIsDamage>alma vengativa</style> <style=cIsUtility>explosiva</style> que dispara a un enemigo cercano para <style=cIsDamage>350% de daño</style>.
+
+BOG_GHOUL_BODY_NAME: Ghoul
+BOG_TOMBSTONE_BODY_NAME: Tombstone
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Mortician: Maestría
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: Como Mortician, vence el juego u oblitérate en Monzón.
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Mortician: Maestría

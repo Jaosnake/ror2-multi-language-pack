@@ -1,0 +1,14 @@
+JAVANGLE_HOUSE_BODY_NAME: The House
+JAVANGLE_HOUSE_BODY_SUBTITLE: Le Joueur Fou
+JAVANGLE_HOUSE_BODY_DESCRIPTION: The House est un joueur fou qui compte sur sa chance pour surmonter les situations difficiles, utilisant deux mystérieux artefacts du destin : un revolver à 6 coups appelé <style=cIsUtility>"Roulette"</style> et un jeu de cartes apparemment maudit. <i>Translated by: Jaosnake</i>
+
+JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: Par défaut
+JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: Maîtrise
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: BulletArts : Vide
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez un coup chargé aléatoire. Quand il ne reste plus de balles : ne fait rien.
+
+DEFAULT_SKIN_NAME: Par défaut
+MASTERY_SKIN_NAME: The House : Maîtrise
+
+BODY_OUTRO_FLAVOR: ..et ainsi il s'en alla, jouant des tours au destin une fois de plus.
+BODY_OUTRO_FAILURE: ..et ainsi il disparut, sa chance ayant finalement tourné.

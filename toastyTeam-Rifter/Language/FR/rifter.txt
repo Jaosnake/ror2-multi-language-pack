@@ -1,0 +1,25 @@
+BLAKE_RIFTER_NAME: Rifter
+BLAKE_RIFTER_SUBTITLE: Manipulateur de Failles
+PRIMARY_GAUNTLET_RANGED: Faille Projectile
+PRIMARY_GAUNTLET_RANGED_DESCRIPTION: Tire une faille à longue portée pour 500% de dégâts.
+SECONDARY_FRACTURE: Fracture
+SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Fracture</style>. Tire une faille à longue portée pour 75% de dégâts, causant jusqu'à 5 éclatements.
+SECONDARY_FAULT_LINE: Ligne de Faille
+SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Fracture</style>. Crée une ligne de faille qui se brise, infligeant 700% de dégâts.
+UTILITY_SLIPSTREAM: Courant Dimensionnel
+UTILITY_SLIPSTREAM_DESCRIPTION: Téléportez-vous sur une courte distance. Recharge la réserve de la compétence secondaire.
+UTILITY_CHAINED_WORLDS: Mondes Enchaînés
+UTILITY_CHAINED_WORLDS_DESCRIPTION: Connectez deux points dans l'espace, créant un portail qui transporte les projectiles.
+UTILITY_QUANTUM_RIFT: Faille Quantique
+UTILITY_QUANTUM_RIFT_DESCRIPTION: Ouvrez une faille quantique qui déforme l'espace environnant.
+SPECIAL_TIMELOCK: Verrouillage Temporel
+SPECIAL_TIMELOCK_DESCRIPTION: Verrouille le temps des ennemis dans une zone, les gelant pendant quelques secondes.
+SPECIAL_RECURSION: Récursion
+SPECIAL_RECURSION_DESCRIPTION: Réplique une faille, la faisant résonner à nouveau après une courte période.
+PASSIVE_RIFT_BOOST: Boost de Faille
+PASSIVE_RIFT_BOOST_DESCRIPTION: Vos failles accordent un bonus de vitesse de déplacement en les traversant.
+PASSIVE_RIFT_FRACTURE: Fracture de Faille
+PASSIVE_RIFT_FRACTURE_DESCRIPTION: Les ennemis touchés par les failles accumulent de l'éclatement, augmentant les dégâts reçus.
+MASTERY_SKIN_NAME: Rifter: Maîtrise
+BLAKE_NEM_RIFTER_NAME: Némésis Rifter
+BLAKE_NEM_RIFTER_SUBTITLE: Faille Corrompue

@@ -1,0 +1,47 @@
+{
+	strings:
+	{
+	"MOFFEIN_PILOT_BODY_NAME" : "Pilote",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "As de l'Air",
+	"MOFFEIN_PILOT_BODY_LORE" : "United Enterprise Shipping invite les pilotes de tout l'univers connu à postuler à notre programme de Commissions Améliorées pour Pilotes Préférés ! Les avantages incluent l'accès à des augmentations cybernétiques d'impact pour des atterrissages plus faciles, des programmes de certification en Armes et Sécurité, et des opportunités de vacances luxueuses ! (Les candidats doivent postuler 5 ans avant les opérations de vol. Les cybernétiques ne sont pas garanties pour tous les participants au programme. Les certificats d'Armes et Sécurité ne sont valables que pendant l'emploi chez UES. Toutes les opportunités sont listées telles quelles et aucune gratification, opportunité ou avantage supplémentaire ne doit être présumé, indépendamment des mises à jour des lois spatiales maritimes sur les planètes participantes.",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "Le Pilote est un combattant aérien qui excelle à faire pleuvoir les dégâts depuis les airs.<style=cSub>\r\n\r\n< ! > Le Pilote peut éviter le danger en restant dans les airs. Une utilisation astucieuse de ses compétences vous permettra de maximiser votre temps en vol.\r\n\r\n< ! > Cible Acquise peut être utilisé pour amortir votre chute.\r\n\r\n< ! > Déploiement Rapide vous propulse vers le haut au sol, et vers l'avant en vol.\r\n\r\n< ! > Projetez les ennemis dans les airs avec Frappe Aérienne, puis combinez avec Cible Acquise pour les jongler en l'air.",
+	
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "..et ainsi il partit, ses rêves du ciel en contrebas.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..et ainsi il disparut, les cieux à jamais hors de portée.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "..et ainsi il disparut, les cieux à jamais hors de portée.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "Tir en Rafale",
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "Tirez avec votre arme pour <style=cIsDamage>160% de dégâts</style>. Chaque troisième coup <style=cIsDamage>explose</style> et inflige <style=cIsDamage>320% de dégâts</style>.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "Tirez avec votre arme pour <style=cIsDamage>160% de dégâts</style>. Chaque troisième coup inflige <style=cIsDamage>320% de dégâts</style> et <style=cIsDamage>transperce</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "Tir Rapide",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Agile</style>. Tirez rapidement avec votre arme pour <style=cIsDamage>140% de dégâts</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "Tir Supprimé",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>Pourfendeur</style>. Tirez avec votre pistolet silencieux pour <style=cIsDamage>100% de dégâts</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "Cible Acquise !",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "Transformez votre arme en un <style=cIsDamage>canon intelligent perforant</style> qui inflige <style=cIsDamage>3x160% de dégâts</style>. Inflige <style=cIsDamage>50%</style> de dégâts supplémentaires aux cibles <style=cIsUtility>aériennes</style>. Jusqu'à 2 charges.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "Bombes Larguées !",
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "Transformez votre arme en un <style=cIsDamage>lance-grenades à énergie</style> qui inflige <style=cIsDamage>480% de dégâts</style>. En <style=cIsUtility>vol</style>, inflige plutôt <style=cIsDamage>3x220% de dégâts</style>. Jusqu'à 2 charges.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "Déploiement Rapide",
+	"MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Étourdissant</style>. Lancez-vous dans les airs et <style=cIsUtility>activez votre parachute</style>. En vol, <style=cIsHealth>réduit la portance</style> en échange de plus de <style=cIsUtility>force vers l'avant</style>.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "Acrobaties",
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Élancez-vous en avant</style> et <style=cIsUtility>agrippez-vous à un mur</style> tout en gagnant <style=cIsDamage>30% de vitesse d'attaque</style>. Propulsion vers l'avant en <style=cIsUtility>sautant du mur</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "Frappe Aérienne",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "<style=cIsUtility>Élancez-vous</style> et placez une bombe <style=cIsDamage>à vos pieds</style> qui <style=cIsDamage>projette les ennemis dans les airs</style> pour <style=cIsDamage>600% de dégâts</style>. Peut se déclencher <style=cIsDamage>3</style> fois. Jusqu'à 2 charges.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "Raid Aérien",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "<style=cIsUtility>Élancez-vous</style> et placez une bombe <style=cIsDamage>à vos pieds</style> qui <style=cIsDamage>projette les ennemis dans les airs</style> pour <style=cIsDamage>800% de dégâts</style>. Peut se déclencher <style=cIsDamage>6</style> fois. Jusqu'à 2 charges.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "Soutien Aérien",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "Bombardez une zone pour <style=cIsDamage>4x400% de dégâts</style>, <style=cIsDamage>projetant les ennemis dans les airs</style> au coup final.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "Barrage Aérien",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "Bombardez une zone pour <style=cIsDamage>8x400% de dégâts</style>, <style=cIsDamage>projetant les ennemis dans les airs</style> au coup final.\n\nTranslated by: Jaosnake",
+	}
+}

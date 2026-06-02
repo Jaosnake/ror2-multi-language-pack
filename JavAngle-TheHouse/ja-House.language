@@ -1,0 +1,23 @@
+{
+    "ja": {
+        "JAVANGLE_HOUSE_BODY_NAME": "ザ・ハウス",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "ザ・ハウスは狂気のギャンブラーであり、運を頼りに困難な状況を乗り越える。2つの神秘的な運命のアーティファクト、<style=cIsUtility>\"ルーレット\"</style>と呼ばれる6連発リボルバーと、呪われたかのようなカードデッキを使う。 <i>Translated by: Jaosnake</i>",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "狂気のギャンブラー",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "マスタリー",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..そして彼は去っていった、再び運命を欺いて。",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..そして彼は消え去った、ついに運が尽きた。",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "スタンダードショット",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>機敏</style>。リボルバーからランダムな弾丸を発射する。",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "フルハウス",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "リボルバーから複数の弾丸を同時に発射する。",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "占い",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "デッキの次のカードを予測して有利にする。",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "シャッフル",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "デッキをシャッフルし、オプションをリセットする。",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "スタンダードリロード",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "リボルバーに6発すべての弾丸を再装填する。",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "オールインリロード",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "再装填して賭け金を2倍にする。"
+    }
+}

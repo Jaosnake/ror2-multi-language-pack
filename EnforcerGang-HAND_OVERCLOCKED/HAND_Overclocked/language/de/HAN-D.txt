@@ -1,0 +1,62 @@
+{
+	strings:
+	{
+	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
+	"MOFFEIN_HAND_BODY_SUBTITLE" : "Unbezahlter Hausmeister",
+	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D ist ein robuster Roboter-Hausmeister, dessen mächtige Nahkampfangriffe garantiert eine Sauerei hinterlassen! <style=cSub>\r\n\r\n< ! > HURT hat erhöhten Rückstoß gegen Gegner in der Luft. Benutze FORCED_REASSEMBLY, um Feinde in die Luft zu schleudern, dann HURT, um sie wegzufliegen!\r\n\r\n< ! > OVERCLOCK hält an, solange du Feinde triffst.\r\n\r\n< ! > Das Abbrechen von OVERCLOCK ermöglicht dir einen Aufwärtsschub, um fliegende Feinde zu erreichen.\r\n\r\n< ! > Benutze DRONES, um dich zu heilen und im Kampf zu bleiben.\r\n\r\n",
+	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--AUTO-TRANSKRIPTION DER BASIERTEN ABTEILUNG VON UES [REDACTED]--//</style>\r\n\r\n<i>*nimmt einen Schluck <color=#327FFF>Spinel Tonic</color>*</i>\n\nIst das Spielen ohne das <color=#6955A6>Command</color>-Artefakt die ultimative Form der Hahnreischaft?\n\nIch kann mir nichts Hahnreiartigeres vorstellen, als ohne <color=#6955A6>Command</color> zu spielen. Ehrlich, denk mal rational darüber nach. Du schießt, rennst, springst 60 Minuten lang, nur um einen verdammten <color=#77FF16>Squid Polyp</color> zu bekommen. All die harte Arbeit, die du in deinen Run steckst — <style=cIsHealth>Stone Golem</style>-Lasern ausweichen, von sechstausend <style=cIsHealth>Lesser Wisps</color> genervt werden, die über deinem Kopf spawnen, <color=#E5C962>Shrines of the Mountain</color> aktivieren, alles für ein einfaches Ergebnis: Dein Inventar ist voll mit <color=#FFFFFF>Warbanners</color> und <color=#FFFFFF>Monster Tooth</color>-Halsketten, die Geld kosten.\n\nEin Gott-Run? Klasse. Ein Haufen beschissener Items, die nichts zu deinem Run beitragen, kommen aus den <color=#E5C962>Chests</color>, die du kaufst. Sie profitieren von deinem hart verdienten Zaster, das vom Töten von <style=cIsHealth>Lemurians</style> stammt.\n\nAls Mann, der dieses Spiel spielt, widmest du <style=cIsHealth>WÖRTLICH</style> zwei Stunden deines Lebens dem Öffnen von Kisten und dem Beten, dass es nicht noch ein <color=#77FF16>Chronobauble</color> ist. Es ist die ultimative und endgültige Hahnreischaft. Denk mal logisch darüber nach.\r\n<style=cMono>\r\nTranskriptionen abgeschlossen.\r\n</style>\r\n \r\n\r\n",
+	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "..und so ging es, Servos pulsierten mit neuem Leben.",
+	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "..und so verschwand es, unbelohnt in all seinen Bemühungen.",
+	
+	"MOFFEIN_HAND_BODY_PASSIVE_NAME" : "SWARM_ARMOR",
+	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "<style=cIsDamage>Reduziere eingehenden Schaden</style> um <style=cIsDamage>0,3%</style> deiner maximalen Gesundheit für jede besessene <style=cIsUtility>Drohne</style>.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_NAME" : "HURT",
+	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "Wende Kraft auf alle Kombattanten für <style=cIsDamage>390% Schaden</style> an. <style=cIsDamage>Betäubt</style>, während <style=cIsDamage>OVERCLOCK</style> aktiv ist.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME" : "SMASH",
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "<style=cIsHealth>Werde langsamer</style> und zerschmettere alle Kombattanten für <style=cIsDamage>600% Schaden</style>. <style=cIsDamage>Betäubt</style>, während <style=cIsDamage>OVERCLOCK</style> aktiv ist.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "FORCED_REASSEMBLY",
+	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>Betäubend</style>. Lade auf und wende große Kraft auf alle Kombattanten für <style=cIsDamage>600%-1500% Schaden</style> an.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "UNETHICAL_REASSEMBLY",
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Betäubend</style>. Lade auf und wende <style=cIsHealth>ÜBERWÄLTIGENDE</style> Kraft auf alle Kombattanten für <style=cIsDamage>900%-2250% Schaden</style> an.",
+	
+	"KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Schub</style><style=cSub>Die Fähigkeit kann frühzeitig abgebrochen werden, um aufwärts zu schuben.</style>",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME" : "CANCEL",
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Schube aufwärts</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "OVERCLOCK",
+	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>Schub</style>. Erhöhe <style=cIsUtility>Bewegungsgeschwindigkeit</style> und <style=cIsDamage>Angriffsgeschwindigkeit</style> um <style=cIsDamage>40%</style>. Triff Feinde, um die <style=cIsUtility>Dauer zu erhöhen</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME" : "FOCUS",
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Schub</style>. Erhalte <style=cIsDamage>+50% Schaden</style> und <style=cIsUtility>50 Rüstung</style>. Triff Feinde, um die <style=cIsUtility>Dauer zu erhöhen</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "DRONE - HEILEN",
+	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "Feuere eine Drohne ab, die <style=cIsDamage>270% Schaden</style> verursacht und <style=cIsHealing>40% des verursachten Schadens heilt</style>. Kills und Nahkampftreffer <style=cIsUtility>reduzieren die Abklingzeit</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "DRONE - TEMPO",
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "Feuere eine Drohne ab, die <style=cIsDamage>270% Schaden</style> verursacht und <style=cIsDamage>vorübergehend Angriffsgeschwindigkeit gewährt</style>. Kills und Nahkampftreffer <style=cIsUtility>reduzieren die Abklingzeit</style>.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Handwerker",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repariere den Roboter-Hausmeister auf Rallypoint Delta mit einem Fuel Array einer Rettungskapsel.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Prügel",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Halte OVERCLOCK für über 45 Sekunden aktiv.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Plätte den Endboss.",
+	
+	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Meisterschaft",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "Als HAN-D, beende das Spiel oder obliteriere auf Monsoon.",
+	
+	"MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME" : "RE-TRN",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Großmeisterschaft",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "Als HAN-D, beende das Spiel oder obliteriere auf Taifun oder Eclipse.\n<color=#8888>(Zählt jede Schwierigkeit Taifun oder höher)</color>",
+	
+	"MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME" : "HO-POO",
+	}
+}

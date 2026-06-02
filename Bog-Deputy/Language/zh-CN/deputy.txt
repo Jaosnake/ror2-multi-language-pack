@@ -1,0 +1,22 @@
+BOG_DEPUTY_BODY_NAME: 副警长
+BOG_DEPUTY_BODY_SUBTITLE: 闪电正义
+BOG_DEPUTY_BODY_DESCRIPTION: 副警长是一名超激进的极速恶魔，用她的双持左轮手枪和致命踢技来伸张正义。 <i>Translated by: Jaosnake</i>
+
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: 默认
+BOG_DEPUTY_BODY_PASSIVE_NAME: 不懈追击
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: 副警长可以向任何方向冲刺。用技能击中敌人会获得可叠加的<style=cIsUtility>移动速度</style>增益。
+
+PRIMARY_SHOOT_NAME: 精准射击
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>灵巧</style>。用中距离左轮手枪射击，造成<style=cIsDamage>150%伤害</style>。
+
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>灵巧</style>。投掷两把左轮手枪。<style=cIsDamage>眩晕</style>。跳跃并向身下的敌人射击，造成<style=cIsDamage>6x100%伤害</style>。
+
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>灵巧</style>。射出一发精准的子弹，可以略微向上调整角度。造成<style=cIsDamage>150%伤害</style>。
+
+SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800%伤害</style>。<style=cIsUtility>击杀重置你的辅助技能冷却时间</style>。
+
+SPECIAL_BULLETHEAVEN_DESCRIPTION: 高高跃入空中，疯狂向下倾泻子弹，造成<style=cIsDamage>150%伤害</style>。
+
+MASTERY_SKIN_NAME: 副警长：精通
+BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..于是她离去了，在雷鸣般的掌声中。
+BOG_DEPUTY_BODY_OUTRO_FAILURE: ..于是她消失了，她的表演终于落下了帷幕。

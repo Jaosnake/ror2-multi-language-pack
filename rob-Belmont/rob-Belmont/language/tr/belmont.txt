@@ -1,0 +1,154 @@
+{
+	strings: {
+ 	 "ROB_BELMONT_BODY_NAME": "<color=#3060FF>Belmont</color>",
+ 	 "ROB_BELMONT_BODY_NAME_ALT": "Avcı",
+ 	 "ROB_BELMONT_BODY_DESCRIPTION": "<color=#3060FF>Belmont</color>, ne kadar korkunç olursa olsun her durum için doğru araçlara sahip seçkin bir canavar avcısıdır.<color=#CCD3E0>\n\n< ! > Kırbaç uzaktan güvenli hasar verir ancak kılıç darbeleri toplamda çok daha fazla hasar verir.\n\n< ! > Hücum, kılıcınla parçalamak için yaklaşmanın mükemmel yoludur.\n\n< ! > Kaçış'ı uçan canavarlardan sıçrayarak uzun mesafeler katetmek için kullan.\n\n< ! > Kadim Alev, bir kalabalığı kolayca temizlemek için kullanılabilir.",
+ 	 "ROB_BELMONT_BODY_SUBTITLE": "Canavar Avcısı",
+ 	 "ROB_BELMONT_BODY_LORE": "Buraya ait değilim.\n\nBu dünya <color=#7F364F>yozlaşma</color> kokuyor. İnsanların kalbinde iltihaplanan türden değil, bir vampir diyarının lekesi de değil, daha derin—daha eski bir şey. Havaya yapışıyor, toprağı doyuruyor ve bu lanetli topraklarda gezinen canavarları çarpıtıyor. Yukarıdaki ay izliyor, uzak ama boğucu. Yanlış, sanki ait olduğu yerden çalınmış gibi.\n\nYine de, buraya getirildim.\n\nKader mi? Hayır, böyle kavramlara hiç güvenmedim. Zalim bir şaka belki, görünmez bir el tarafından oynanan. Bir an, avımın salonlarında rüzgar uğulduyor, ciğerlerimde kan ve eski taş kokusu—sonraki an, düşüyordum. Gökyüzü bir ateş fırtınası, yer hızla yükseliyordu altımda. <style=cIsHealth>Ölmeliydim.</style>\n\nOnun yerine, ayaktayım.\n\nTekrar.\n\n<color=#FF0033>Daima.</color>",
+ 	 "ROB_BELMONT_BODY_OUTRO_FLAVOR": "..ve böylece gitti, erdemli yolculuğu tamamlandı.",
+ 	 "ROB_BELMONT_BODY_OUTRO_FAILURE": "..ve böylece yok oldu, asil kan soyu sona erdi.",
+
+ 	 "ROB_BELMONT_BODY_DEFAULT_SKIN_NAME": "<color=#3060FF>Varsayılan</color>",
+ 	 "ROB_BELMONT_BODY_MONSOON_SKIN_NAME": "<color=#3060FF>Sürgün</color>",
+     "ROB_BELMONT_BODY_MONSOON_ALTERNATE_SKIN_NAME": "<color=#3060FF>Sürgün EX</color>",
+ 	 "ROB_BELMONT_BODY_LEON_SKIN_NAME": "<color=#3060FF>Ata</color>",
+	 "ROB_BELMONT_BODY_SOMA_SKIN_NAME": "<color=#3060FF>Reenkarnasyon</color>",
+	 "ROB_BELMONT_BODY_MORRIS_SKIN_NAME": "<color=#3060FF>Kâşif</color>",
+ 	 "ROB_BELMONT_BODY_JULIUS_SKIN_NAME": "<color=#3060FF>Öncü</color>",
+ 	 "ROB_BELMONT_BODY_ISAAC_SKIN_NAME": "<color=#3060FF>Demirci Ustası</color>",
+ 	 "ROB_BELMONT_BODY_MINECRAFT_SKIN_NAME": "<color=#3060FF>Minecraft</color>",
+
+     "ROB_BELMONT_BODY_PASSIVE_NAME": "Kutsal Kan Soyu",
+     "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "Her aşamada bir <color=#7F364F>Gece Tapınağı</color> belirir, tamamlandığında <color=#FFFF00>Anahtar Parçaları</color> verir. Bunlar <color=#3060FF>Belmont</color> için <style=cIsDamage>güçlü teçhizat</style> almaya yarar.",
+     "ROB_BELMONT_BODY_CONFIRM_NAME": "Onayla",
+ 	 "ROB_BELMONT_BODY_CONFIRM_DESCRIPTION": "Mevcut beceriyle devam et.",
+ 	 "ROB_BELMONT_BODY_CANCEL_NAME": "İptal",
+ 	 "ROB_BELMONT_BODY_CANCEL_DESCRIPTION": "Mevcut beceriyi iptal et.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY_NAME": "Arındır",
+ 	 "ROB_BELMONT_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>Çevik.</style> <style=cIsDamage>%260 hasar</style> için kes. Hedef uzaktaysa onlara <style=cIsDamage>%700 hasar</style> vermek için <style=cIsUtility>kırbacını</style> şaklat.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY2_NAME": "Tasfiye Et",
+ 	 "ROB_BELMONT_BODY_PRIMARY2_DESCRIPTION": "<style=cIsUtility>Çevik.</style> Önündeki tüm düşmanlara <style=cIsDamage>%500 hasar</style> vermek için <style=cIsUtility>kırbacını</style> şaklat.",
+ 	 
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_NAME": "Hücum",
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_DESCRIPTION": "<style=cIsUtility>Sersemletici.</style> <style=cIsDamage>%350 hasar</style> için ileri kay, vurduğun ilk düşmandan sıçra.",
+
+	 "ROB_BELMONT_BODY_UTILITY_NAME": "Kaçış",
+	 "ROB_BELMONT_BODY_UTILITY_DESCRIPTION": "Bir yöne atıl. <style=cIsUtility>Basılı tutarak</style> <style=cIsUtility>kırbacınla</style> <style=cIsDamage>hedeflenen düşmandan</style> sıçra.",
+
+	 "ROB_BELMONT_BODY_UTILITY2_NAME": "Yargıla",
+	 "ROB_BELMONT_BODY_UTILITY2_DESCRIPTION": "<style=cIsDamage>%1200 hasar</style> için yıkıcı bir aparkat yap.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_NAME": "Kadim Alev",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_DESCRIPTION": "<style=cIsUtility>Çıngı parçaları</style> dolu bir kavanoz fırlat, patlayıp <style=cIsDamage>%800 hasar</style> için <style=cIsUtility>alev sütunları</style> salar.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_NAME": "Cehennem Ateşi",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_DESCRIPTION": "<style=cIsUtility>Çıngı parçaları</style> dolu bir kavanoz fırlat, patlayıp <style=cIsDamage>%800 hasar</style> için <style=cIsUtility>alev sütunları</style> salar.\n<color=#d299ff>ASA: Alevler daha büyük, %1200 hasar verir ve yerde ateş izi bırakır.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_NAME": "Savaş Haçı",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_DESCRIPTION": "Birden çok kez vurarak <style=cIsDamage>%250 hasar</style> veren <style=cIsUtility>delici bir haç</style> fırlat.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_NAME": "Üçlü Haç",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_DESCRIPTION": "Birden çok kez vurarak <style=cIsDamage>%250 hasar</style> veren <style=cIsUtility>delici bir haç</style> fırlat.\n<color=#d299ff>ASA: Aynı anda üç tane fırlat.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_NAME": "Gümüş Kurşun",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_DESCRIPTION": "<style=cIsDamage>%800 hasar</style> için bir <style=cIsUtility>gümüş kurşun</style> ateşle. <style=cIsUtility>Kafa vuruşları</style> <style=cIsDamage>2 kat hasar</style> verir. Öldürmeler <style=cIsUtility>tüm bekleme sürelerini sıfırlar</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Altın Tabanca",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "<style=cIsDamage>%800 hasar</style> için bir <style=cIsUtility>gümüş kurşun</style> ateşle. <style=cIsUtility>Kafa vuruşları</style> <style=cIsDamage>2 kat hasar</style> verir. Öldürmeler <style=cIsUtility>tüm bekleme sürelerini sıfırlar</style>.\n<color=#d299ff>ASA: %99999 hasar verir.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_NAME": "Kutsal Alev",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "<color=#FF0033>İlahi Takdir</color>in gücünü çağır, <style=cIsDamage>tik başına %300 hasar</style> veren <style=cIsUtility>dev bir alev</style> sal. <style=cIsDamage>%4000 hasar</style>lık bir süpernovayla sonlanır.",
+
+   
+
+	 "ROB_BELMONT_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "Kutsal Kan Soyları",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "Kutsal Kan Soyları",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "Ay'da kutsal bir kalıntı keşfet.",
+	 
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Ustalık",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Ustalık",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak Muson'da oyunu bitir veya yok et.",
+	 
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Büyük Ustalık",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Büyük Ustalık",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak Tayfun veya Tutulma'da oyunu bitir veya yok et.\n<color=#8888>Tayfun veya daha yüksek her zorluğu sayar</color>",
+	 
+	 "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Keder Aryası",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Keder Aryası",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak Tam Bir An'a gir.",
+     
+	 "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Yıkım Portresi",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Yıkım Portresi",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak kutsal bir kalıntı elde et.",
+	 
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Keder Şafağı",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Keder Şafağı",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak tüm kutsal kalıntıları aynı anda kuşan.",
+	 
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Karanlığın Laneti",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Karanlığın Laneti",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak bir Gece Tapınağı tamamla.",
+	 
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Arayıcı",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Arayıcı",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak Ay'da çalınan silahı bul.",
+	 
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Önsezi",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Önsezi",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_DESC": "<color=#3060FF>Belmont</color> olarak Hiçlik'teki gizli silahı bul.",
+
+	 "ROB_BELMONT_BODY_LOADOUT_SKILL_MISC": "Pasif",
+	 
+	 "ROB_BELMONT_DEVILSHRINE_NAME": "Gece Tapınağı",
+	 "ROB_BELMONT_DEVILSHRINE_DESC": "Bunları yazacak kadar maaş almıyorum.",
+	 "ROB_BELMONT_DEVILSHRINE_CONTEXT": "Gece Tapınağı'na Dua Et",
+	 
+	 "ROB_BELMONT_TREASURECHEST_NAME": "Hazine Sandığı",
+	 "ROB_BELMONT_TREASURECHEST_DESC": "YAAAAARDIIIIIIIIM EDİİİİİİİN BAAAAAANAAAAAA",
+	 "ROB_BELMONT_TREASURECHEST_CONTEXT": "Anahtarı kullan ve aç",
+	 "ROB_BELMONTKEYCOST": "İskelet Anahtar",
+	 
+	 "ROB_BELMONT_KEYFRAGMENT_NAME": "Anahtar Parçası",
+	 "ROB_BELMONT_KEYFRAGMENT_DESC": "Kırık bir anahtar parçası. Bütün bir anahtar oluşturmak için 3 tane topla.",
+	 "ROB_BELMONT_KEYFRAGMENT_PICKUP": "Kırık bir anahtar parçası. Bütün bir anahtar oluşturmak için 3 tane topla.",
+	 "ROB_BELMONT_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_BELMONT_KEY_NAME": "İskelet Anahtar",
+	 "ROB_BELMONT_KEY_DESC": "Bir <color=#FFFF00>Hazine Sandığı</color> açmak için kullanılır. Bu sandıklar bir <color=#FF0033>kutsal kalıntı</color> içerir ve her <style=cIsUtility>dördüncü</style> aşamada <style=cIsDamage>sabit bir konumda</style> belirir.",
+	 "ROB_BELMONT_KEY_PICKUP": "Bir Hazine Sandığı açmak için kullanılır. Yakınındayken parlar.",
+	 "ROB_BELMONT_KEY_LORE": "",
+	 
+	 "ROB_BELMONT_MORNINGSTAR_NAME": "Sabahyıldızı",
+	 "ROB_BELMONT_MORNINGSTAR_DESC": "Her kırbaç vuruşu <style=cIsDamage>%600 hasar</style> için bir <style=cIsUtility>takip patlaması</style> başlatır.",
+	 "ROB_BELMONT_MORNINGSTAR_PICKUP": "Gece soyuna bağlı olan herkesi yok edecek kırbaç.",
+	 "ROB_BELMONT_MORNINGSTAR_LORE": "",
+	 
+	 "ROB_BELMONT_CRISSAEGRIM_NAME": "Crissaegrim",
+	 "ROB_BELMONT_CRISSAEGRIM_DESC": "Her kılıç darbesi her biri <style=cIsDamage>%300 hasar</style> için <style=cIsUtility>3 ek kez</style> vurur.",
+	 "ROB_BELMONT_CRISSAEGRIM_PICKUP": "Sayısız bıçak düşmanı doğrar.",
+	 "ROB_BELMONT_CRISSAEGRIM_LORE": "",
+	 
+	 "ROB_BELMONT_WINGEDBOOTS_NAME": "Pegasus Çizmeleri",
+	 "ROB_BELMONT_WINGEDBOOTS_DESC": "<style=cIsUtility>Yerdeyken</style> <style=cIsUtility>1</style> saniye koştuktan sonra <style=cIsDamage>12 hareket hızı</style> kazan. Bir düşmana <style=cIsDamage>Hücum</style> ile vurmak onu <style=cIsUtility>havaya</style> ve uzağa tekmelemene neden olur, <style=cIsDamage>4x200%</style> ve <style=cIsDamage>%300</style> hasar.",
+	 "ROB_BELMONT_WINGEDBOOTS_PICKUP": "İkincil yeteneğini geliştiren ve rüzgar gibi koşmanı sağlayan çizmeler.",
+	 "ROB_BELMONT_WINGEDBOOTS_LORE": "",
+	 
+	 "ROB_BELMONT_HOLYCROSS_NAME": "Kurtarıcının Atkısı",
+	 "ROB_BELMONT_HOLYCROSS_DESC": "Her <style=cIsUtility>3</style> dakikada bir <style=cIsDamage>özel yeteneğini</style> <color=#FF0033>Kutsal Alev</color> ile değiştir.",
+	 "ROB_BELMONT_HOLYCROSS_PICKUP": "Güçlü bir nihai saldırıya erişim kazan.",
+	 "ROB_BELMONT_HOLYCROSS_LORE": "",
+	 
+	 "ROB_BELMONT_BROTHERSOUL_NAME": "Kralın Ruhu",
+	 "ROB_BELMONT_BROTHERSOUL_DESC": "Her <style=cIsUtility>kırbaç şaklatması</style> bir <style=cIsDamage>ay alev sütunu</style>, her <style=cIsUtility>kılıç darbesi</style> bir <style=cIsDamage>ay parçası</style>, her <style=cIsUtility>kırbaç vuruşu</style> <style=cIsDamage>yer şok dalgaları</style> oluşturur ve her <style=cIsUtility>atılma</style> <style=cIsHealing>%20 bariyer</style> üretir.",
+	 "ROB_BELMONT_BROTHERSOUL_PICKUP": "Hiçliğin Kralı'nın gücünü kendininki gibi kuşan.",
+	 "ROB_BELMONT_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_GARGOYLE_NAME": "Gargoyle",
+	 
+	 "ROB_GREAT_GARGOYLE_NAME": "Mavi Dişler",
+	 
+	 "KEYWORD_WHIP_SLAM": "<style=cKeywordName>Kırbaç Vuruşu</style><style=cSub><style=cIsUtility>Havadaki</style> bir düşmana kilitlenmişken iki kere dokunarak onu <style=cIsDamage>%1800 hasar</style> için <style=cIsDamage>yere çak</style>."
+	 }
+}

@@ -1,0 +1,30 @@
+BASTIAN_NAME: Bastian
+BASTIAN_SUBTITLE: Rob? Tradutor Recondicionado
+BASTIAN_DESCRIPTION: Um rob? local, constru?do para ajudar a negociar acordos com corpos planet?rios estrangeiros. Seu prop?sito original era funcionar como intermedi?rio, projetado para sobreviver em planetas com ar e temperaturas que um humano normal n?o suportaria. Ele foi trazido a bordo da UES Contact Light como parte de um plano de conting?ncia. No entanto, ele acabou sendo reprogramado para o combate, apesar de esta ser uma simples miss?o de pegar e levar.
+Esse personagem foi traduzido por: Jaosnake
+Esse personagem foi traduzido por: Jaosnake
+BASTIAN_NAME_EPIC: Bastian, o Tradutor, Modelo 4.I.N.K.
+BASTIAN_ROO_DESCRIPTION: Bastian, o Tradutor, Modelo 4.I.N.K.
+Esse personagem foi traduzido por: Jaosnake
+Esse personagem foi traduzido por: Jaosnake
+BASTIAN_OUTRO: ..e assim ele partiu, sua fun??o finalmente cumprida.
+BASTIAN_FAIL: ..e assim ele foi desativado, sua mem?ria apagada para sempre.
+BASTIAN_M1: Ion Swing
+BASTIAN_M1_DESCRIPTION: <style=cIsDamage>Corpo a corpo</style>. <style=cIsUtility>?gil</style>. Golpeie inimigos ? frente para <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas I?nicas</style>. O dano ? reduzido pela metade enquanto Evasivo.
+Esse personagem foi traduzido por: Jaosnake
+Esse personagem foi traduzido por: Jaosnake
+BASTIAN_M2: Micro-Bala
+BASTIAN_M2_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare at? 5 balas de energia, cada uma causando <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas I?nicas</style>. N?o aplica atordoamento enquanto Evasivo.
+Esse personagem foi traduzido por: Jaosnake
+Esse personagem foi traduzido por: Jaosnake
+BASTIAN_UTIL: Nano-Mola
+BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>Execute</style> um dash r?pido em qualquer dire??o. Acumula <style=cIsUtility>Cargas I?nicas</style>.
+Esse personagem foi traduzido por: Jaosnake
+Esse personagem foi traduzido por: Jaosnake
+BASTIAN_SPEC: Explos?o do Arquiteto
+BASTIAN_SPEC_DESCRIPTION: Gaste <style=cIsHealth>33% de vida atual</style> e <style=cIsUtility>todas as Cargas I?nicas</style> para uma explos?o massiva de <style=cIsDamage>500%-3.000% de dano</style>. Ap?s o uso, voc? fica <color=#E9AFEA>Evasivo</color> por 10 segundos.
+Esse personagem foi traduzido por: Jaosnake
+Esse personagem foi traduzido por: Jaosnake
+BASTIAN_SPEC_KEYWORD: Especial
+BASTIANBODY_DEFAULT_SKIN_NAME: Padr?o
+BASTIANBODY_MASTERY_SKIN_NAME: Maestria

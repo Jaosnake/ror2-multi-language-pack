@@ -1,0 +1,26 @@
+{
+    "FR": {
+        "BOG_MORRIS_BODY_NAME": "Mortician",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Le Mortician est un nécromancien de mêlée lent mais robuste qui excelle dans le contrôle du territoire avec son armée de morts-vivants. <i>Translated by: Jaosnake</i>",
+        "BOG_MORRIS_BODY_SUBTITLE": "Mort-Vivant",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..et ainsi il partit, son devoir sinistre toujours inachevé.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..et ainsi il disparut, enfin obtenant la paix qu'il désirait tant.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Maîtrise",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Offrande d'Âmes",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Les Ghouls <style=cIsUtility>déclenchent leurs effets à la mise à mort</style> lorsqu'ils sont tués.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Coup de Pelle",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Balancez votre pelle pour <style=cIsDamage>800% de dégâts</style>. Toucher des ghouls et des pierres tombales avec votre pelle cause un <style=cIsUtility>lancement</style> pour <style=cIsDamage>350% de dégâts</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Lever les Morts",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Lien Spirituel</style>. Invoque un ghoul au sol devant vous. Les ghouls mordent pour <style=cIsDamage>150% de dégâts</style> et crachent de la bile <style=cIsDamage>Pestilentielle</style> pour <style=cIsDamage>100% de dégâts</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrifice",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Détonez</style> le ghoul ciblé pour <style=cIsDamage>700% de dégâts</style> et <style=cIsHealing>soignez 15% de votre santé maximale</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Tombstone",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Érigez une Tombstone qui génère un ghoul toutes les <style=cIsUtility>10 secondes</style>. Lorsqu'un ghoul est tué, la tombe génère une <style=cIsDamage>âme vengeresse</style> <style=cIsUtility>explosive</style> qui tire sur un ennemi proche pour <style=cIsDamage>350% de dégâts</style>.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician : Maîtrise",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "En tant que Mortician, battez le jeu ou oblitéréz-vous en Mousson.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician : Maîtrise",
+        "BOG_GHOUL_BODY_NAME": "Ghoul",
+        "BOG_TOMBSTONE_BODY_NAME": "Tombstone"
+    }
+}

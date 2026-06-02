@@ -1,0 +1,47 @@
+﻿{
+	strings:
+	{
+	"MOFFEIN_PILOT_BODY_NAME" : "Pilot",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "Airborne Ace",
+	"MOFFEIN_PILOT_BODY_LORE" : "United Enterprise Shipping invites pilots from across the known universe to apply to our Preferred Pilot Enhanced Commissions program! Benefits include access to cybernetic impact augmentations for easier landings, Weapons and Securities certification programs, and luxurious vacation opportunities! (Applicants expected to apply 5 years in advance of flight operations. Cybernetics not guaranteed to all program participants. Weapons and Securities certificates only valid through UES employment. All opportunities are listed as-is and no further gratuities, opportunities or benefits are to be assumed regardless of updates to space maritime law on participating planets.",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "The Pilot is an airborne fighter that excels at raining damage from above.<style=cSub>\r\n\r\n< ! > Pilot can avoid danger by staying airborne. Clever use of his skills will allow you to maximize your airtime.\r\n\r\n< ! > Target Acquired can be used to break your fall.\r\n\r\n< ! > Rapid Deployment travels upwards when used on the ground, and forwards when used while airborne.\r\n\r\n< ! > Knock enemies into the sky with Air Strike, then combine that with Target Acquired to juggle them in the air.",
+	
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "..and so he left, his dreams of the sky below.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..and so he vanished, the skies forever out of reach.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "..and so he vanished, the skies forever out of reach.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "Cluster Fire",
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "Fire your weapon for <style=cIsDamage>160% damage</style>. Every third hit <style=cIsDamage>explodes</style> and deals <style=cIsDamage>320% damage</style>.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "Fire your weapon for <style=cIsDamage>160% damage</style>. Every third hit deals <style=cIsDamage>320% damage</style> and <style=cIsDamage>pierces</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "Rapid Fire",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Agile</style>. Rapidly fire your weapon for <style=cIsDamage>140% damage</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "Suppressed Fire",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>Slayer</style>. Fire your silenced pistol for <style=cIsDamage>100% damage</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "Target Acquired!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "Transform your weapon into a <style=cIsDamage>piercing smartgun</style> that deals <style=cIsDamage>3x160% damage</style>. Deals <style=cIsDamage>50%</style> more damage to <style=cIsUtility>airborne</style> targets. Hold up to 2.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "Bombs Away!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "Transform your weapon into a <style=cIsDamage>energy grenade launcher</style> that deals <style=cIsDamage>480% damage</style>. While <style=cIsUtility>airborne</style>, deals <style=cIsDamage>3x220% damage</style> instead. Hold up to 2.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "Rapid Deployment",
+	"MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Stunning</style>. Launch into the air and <style=cIsUtility>activate your parachute</style>. Using this midair <style=cIsHealth>reduces lift</style> in exchange for more <style=cIsUtility>forward force</style>.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "Aerobatics",
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Dash forwards</style> and <style=cIsUtility>cling to a wall</style> while gaining <style=cIsDamage>30% attack speed</style>. Boost forwards when <style=cIsUtility>jumping off the wall</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "Air Strike",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "<style=cIsUtility>Dash</style> and place a bomb <style=cIsDamage>at your feet</style> that <style=cIsDamage>knocks enemies into the air</style> for <style=cIsDamage>600% damage</style>. Can trigger <style=cIsDamage>3</style> times. Hold up to 2.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "Air Raid",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "<style=cIsUtility>Dash</style> and place a bomb <style=cIsDamage>at your feet</style> that <style=cIsDamage>knocks enemies into the air</style> for <style=cIsDamage>800% damage</style>. Can trigger <style=cIsDamage>6</style> times. Hold up to 2.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "Aerial Support",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "Bombard an area for <style=cIsDamage>4x400% damage</style>, <style=cIsDamage>knocking enemies into the air</style> on the final hit.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "Aerial Barrage",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "Bombard an area for <style=cIsDamage>8x400% damage</style>, <style=cIsDamage>knocking enemies into the air</style> on the final hit.",
+	}
+}

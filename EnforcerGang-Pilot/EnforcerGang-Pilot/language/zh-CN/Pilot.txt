@@ -1,0 +1,47 @@
+{
+    strings:
+    {
+    "MOFFEIN_PILOT_BODY_NAME" : "领航员",
+    "MOFFEIN_PILOT_BODY_SUBTITLE" : "空中王牌",
+    "MOFFEIN_PILOT_BODY_LORE" : "联合集团货运邀请已知宇宙中的所有领航员前来应聘我们的青睐领航员强化雇佣项目！项目福利包括能够帮助轻松着陆的电子义体冲击强化，武器以及安保培训认证项目，外加奢华丰富的假期机会！（应聘者应有至少5年的飞行操作经验。不能保证所有应聘人员能够获得电子义体。武器与安保培训认证仅受到UES认可。上文所述内容适用于所有情况，无论对应星球的太空法是否有更新变动，本项目将不会提供任何额外退休金、福利或假期机会。）",
+    "MOFFEIN_PILOT_BODY_DESCRIPTION" : "领航员是一名空中战斗机驾驶员，精于从空中降下雨点般的伤害。<style=cSub>\r\n\r\n< ! > 领航员可以通过保持在空中来避开危险。巧妙使用他的技能将让你最大限度地延长滞空时间。\r\n\r\n< ! > 发现目标！可用于缓冲落地。\r\n\r\n< ! > 快速部署在地面使用时可以向上腾空，在空中使用时则向前冲刺。\r\n\r\n< ! > 使用空中打击将敌人击飞至空中，再结合发现目标！在空中连击他们。",
+    
+    "MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "..于是他离开了，将天空的梦想留在了下方。",
+    "MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..于是他消失了，天空永远遥不可及。",
+    "MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "..于是他消失了，天空永远遥不可及。",
+    
+    "MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "集束射击",
+    "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "开火射击，造成<style=cIsDamage>160%伤害</style>。每第三击会<style=cIsDamage>爆炸</style>，造成<style=cIsDamage>320%伤害</style>。",
+    "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "开火射击，造成<style=cIsDamage>160%伤害</style>。每第三击会造成<style=cIsDamage>320%伤害</style>并<style=cIsDamage>穿透</style>。",
+    
+    "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "快速开火",
+    "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>灵巧</style>。快速开火射击，造成<style=cIsDamage>140%伤害</style>。",
+    
+    "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "消音射击",
+    "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>屠戮者</style>。使用消音手枪射击，造成<style=cIsDamage>100%伤害</style>。",
+    
+    "MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "发现目标！",
+    "MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "将武器变形为<style=cIsDamage>穿透性智能枪</style>，造成<style=cIsDamage>3x160%伤害</style>。对<style=cIsUtility>空中</style>目标造成的伤害提高<style=cIsDamage>50%</style>。最多可储存2发。",
+    
+    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "投弹！",
+    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "将武器变形为<style=cIsDamage>能量榴弹发射器</style>，造成<style=cIsDamage>480%伤害</style>。在<style=cIsUtility>空中</style>时，改为造成<style=cIsDamage>3x220%伤害</style>。最多可储存2发。",
+    
+    "MOFFEIN_PILOT_BODY_UTILITY_NAME" : "快速部署",
+    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>眩晕</style>。腾空而起并<style=cIsUtility>打开降落伞</style>。在半空中使用此技能会以更强的<style=cIsUtility>前冲力</style>为代价，<style=cIsHealth>减少升力</style>。",
+    
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "特技飞行",
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>向前冲刺</style>并可以<style=cIsUtility>紧贴墙体</style>，同时获得<style=cIsDamage>30%攻速</style>加成。从墙体<style=cIsUtility>跳下</style>时会向前突进。",
+    
+    "MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "空中打击",
+    "MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "<style=cIsUtility>冲刺</style>并在<style=cIsDamage>脚下</style>放置一颗炸弹，<style=cIsDamage>将敌人击飞至空中</style>，造成<style=cIsDamage>600%伤害</style>。可以触发<style=cIsDamage>3</style>次。最多可储存2发。",
+    
+    "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "强力打击",
+    "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "<style=cIsUtility>冲刺</style>并在<style=cIsDamage>脚下</style>放置一颗炸弹，<style=cIsDamage>将敌人击飞至空中</style>，造成<style=cIsDamage>800%伤害</style>。可以触发<style=cIsDamage>6</style>次。最多可储存2发。",
+    
+    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "空中支援",
+    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "标记轰炸一片区域，造成<style=cIsDamage>4x400%伤害</style>，并在最后一击时<style=cIsDamage>将敌人击飞至空中</style>。",
+    
+    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "空中弹幕",
+    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "标记轰炸一片区域，造成<style=cIsDamage>8x400%伤害</style>，并在最后一击时<style=cIsDamage>将敌人击飞至空中</style>。",
+    }
+}

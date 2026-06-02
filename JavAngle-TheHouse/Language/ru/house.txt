@@ -1,0 +1,14 @@
+JAVANGLE_HOUSE_BODY_NAME: Хаус
+JAVANGLE_HOUSE_BODY_SUBTITLE: Безумный Игрок
+JAVANGLE_HOUSE_BODY_DESCRIPTION: Хаус — безумный игрок, который полагается на свою удачу, чтобы преодолевать трудные ситуации, используя два таинственных артефакта судьбы: 6-зарядный револьвер под названием <style=cIsUtility>"Рулетка"</style> и, по-видимому, проклятую колоду карт. <i>Translated by: Jaosnake</i>
+
+JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: Обычный
+JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: Мастерство
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: BulletArts: Пустота
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>Проворный</style>. Сделайте случайный заряженный выстрел. Когда патронов не осталось: ничего не делает.
+
+DEFAULT_SKIN_NAME: Обычный
+MASTERY_SKIN_NAME: Хаус: Мастерство
+
+BODY_OUTRO_FLAVOR: ..и так он ушёл, снова играя с судьбой в кошки-мышки.
+BODY_OUTRO_FAILURE: ..и так он исчез, его удача наконец иссякла.

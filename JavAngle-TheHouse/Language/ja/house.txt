@@ -1,0 +1,14 @@
+JAVANGLE_HOUSE_BODY_NAME: ザ・ハウス
+JAVANGLE_HOUSE_BODY_SUBTITLE: 狂気のギャンブラー
+JAVANGLE_HOUSE_BODY_DESCRIPTION: ザ・ハウスは狂気のギャンブラーであり、運を頼りに困難な状況を乗り越える。2つの神秘的な運命のアーティファクト、<style=cIsUtility>"ルーレット"</style>と呼ばれる6連発リボルバーと、呪われたかのようなカードデッキを使う。 <i>Translated by: Jaosnake</i>
+
+JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: デフォルト
+JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: マスタリー
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: バレットアーツ：ヴォイド
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>機敏</style>。ランダムに装填されたショットを発射する。残弾がない場合：何も起こらない。
+
+DEFAULT_SKIN_NAME: デフォルト
+MASTERY_SKIN_NAME: ザ・ハウス：マスタリー
+
+BODY_OUTRO_FLAVOR: ..そして彼は去っていった、再び運命を欺いて。
+BODY_OUTRO_FAILURE: ..そして彼は消え去った、ついに運が尽きた。
