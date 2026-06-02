@@ -29,6 +29,8 @@ Supports **14 languages** with full coverage of all tokens (items, equipment, su
 > ★ Ukrainian is **not** a natively supported language in Risk of Rain 2.  
 > See [UA-LANGUAGE-NOTE.md](UA-LANGUAGE-NOTE.md) for technical details.
 
+> **⚠️ Performance note**: Because the game now loads additional translation files, you may notice a **slightly longer initial loading time** when starting the game. This is normal — the game is processing the additional language data.
+
 ## Installation
 
 1. Have the **Sandswept** mod (SandsweptTeam) installed via r2modman / Thunderstore

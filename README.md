@@ -106,6 +106,8 @@ BepInEx/plugins/
 
 **Starstorm 2 and Sandswept** are complete Thunderstore packages — upload via Thunderstore or extract the `Language/` folder directly into `BepInEx/plugins/`.
 
+> **⚠️ Performance note**: Because the game now loads additional translation files, you may notice a **slightly longer initial loading time** when starting the game. This is normal — the game is processing the additional language data. Loading times increase with the number of translation files added.
+
 ### TL;DR
 > **Copy the mod's translation folder into `BepInEx/plugins/`.** The exact internal structure doesn't matter — the game and mod DLLs discover the files automatically. Just keep the folder structure intact inside each mod folder.
 

@@ -19,6 +19,8 @@ Tradução do mod **Starstorm 2** (TeamMoonstorm) para vários idiomas.
 | 🇪🇸 **es-419** (Español Latinoamérica) | ✅ Completo (100%) | 47/47 |
 | 🇹🇷 **TR** (Türkçe) | ✅ Completo (100%) | 47/47 |
 
+> **⚠️ Performance note**: Because the game now loads additional translation files, you may notice a **slightly longer initial loading time** when starting the game. This is normal — the game is processing the additional language data.
+
 ## Instalação
 
 1. Tenha o **Starstorm 2** original instalado via r2modman / Thunderstore
