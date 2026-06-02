@@ -1,31 +1,44 @@
-# Ukrainian (UA) Translation — Technical Note
+# Custom Language Notes: Ukrainian and Polish
 
-## Why Ukrainian Is Listed Separately
+This note exists because not every language key in these packs is shown by the vanilla Risk of Rain 2 language menu.
 
-Ukrainian (`UA`) is **not** a language natively supported by Risk of Rain 2.  
-The game's built-in language list (in `StreamingAssets/Language/`) only includes:
+## What R2API.Language Does
 
-`en`, `es`, `fr`, `de`, `it`, `ja`, `ko`, `pl`, `pt-BR`, `ru`, `tr`, `zh-CN`, `zh-TW`
+R2API.Language scans `.language` files anywhere under `BepInEx/plugins/`.
 
-## How It Still Works
+If a file contains:
 
-The `.language` file with key `"ua"` is loaded by **R2API Language** regardless of whether the game officially knows about the locale. R2API scans for any `.language` file in `BepInEx/plugins/` and applies the tokens.
+```json
+{
+  "ua": {
+    "TOKEN_NAME": "Translated text"
+  }
+}
+```
 
-**However**, because Ukrainian is not in the game's native language list:
+R2API can load those tokens without the file crashing, even if the base game does not show that language in the menu.
 
-1. The game's **Settings → Language** menu will **not** show "Українська" as an option.
-2. To actually use these translations, you need an additional mod that adds Ukrainian to the language selection UI (e.g. "LanguageUI" mods or a custom mod that registers the locale).
-3. Without such a mod, the translations exist in the game's memory but are never selected by the player.
+## What The Vanilla Game Menu Does
 
-## Compatibility
+Risk of Rain 2 only shows languages that are registered in the game's language list or added by another mod.
 
-- ✅ R2API Language loads the file without errors
-- ✅ Tokens are registered and can be used by other mods
-- ❌ The in-game language switcher does not expose Ukrainian natively
-- ❗ Requires a third-party locale enabler to be selectable
+That means:
 
-## Why Include UA Then?
+- `ua` / `UA` Ukrainian tokens can load, but Ukrainian will not appear in the normal language menu by default.
+- `pl` Polish tokens can load, but Polish may also need a menu/locale enabler depending on the setup.
 
-- The Starstorm 2 language pack already supports UA, and the same user base may want it for Sandswept
-- Mod developers can reference `"ua"` tokens programmatically
-- Future game updates or mods may add native UA support
+## Practical Result
+
+These translations are safe to ship as language data, but a player may need an extra mod that adds the language to the selector before they can choose it in-game.
+
+Without a selector/locale enabler:
+
+- R2API can still read the file.
+- The tokens exist in memory.
+- The player cannot normally select that language from the vanilla menu.
+
+## Why Keep Them
+
+- They are useful for players using custom locale/menu mods.
+- They let future packages support the language without reworking the translation files.
+- They keep the translation data ready if Risk of Rain 2 or a mod adds the locale later.

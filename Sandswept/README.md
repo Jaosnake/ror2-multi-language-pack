@@ -1,56 +1,88 @@
-# Sandswept — Multi-Language Pack
+# Sandswept Language Pack
 
-> Este pacote faz parte do [ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack).
+Multi-language translation pack for **SandsweptTeam-Sandswept**.
 
-Multi-language translation pack for **Sandswept** (by SandsweptTeam).  
-Supports **14 languages** with full coverage of all tokens (items, equipment, survivors, skills, enemies, shrines, drones, interactables, elite variants).
+Part of: [Jaosnake/ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack)
 
-> **Note on AI**: The **PT-BR** translation was done 100% manually. All other translations (RU, DE, ES, FR, IT, PL, JA, KO, zh-CN, zh-TW, TR, UA) used AI assistance for initial generation, with human review.
+> **AI disclosure**: PT-BR was translated manually/reviewed by Jaosnake. Other languages used AI assistance for initial generation and were human-reviewed.
 
-## Available Languages
+## Install With r2modman
 
-| Language | File |
-|----------|------|
-| 🇧🇷 **PT-BR** (Brazilian Portuguese) | `Translations/pt-BR-Sandswept.language` |
-| 🇷🇺 **RU** (Russian) | `Translations/Ru-Sandswept.language` |
-| 🇩🇪 **DE** (German) | `Translations/De-Sandswept.language` |
-| 🇪🇸 **ES** (Latin American Spanish) | `Translations/Es-Sandswept.language` |
-| 🇫🇷 **FR** (French) | `Translations/Fr-Sandswept.language` |
-| 🇮🇹 **IT** (Italian) | `Translations/It-Sandswept.language` |
-| 🇵🇱 **PL** (Polish) | `Translations/Pl-Sandswept.language` |
-| 🇯🇵 **JA** (Japanese) | `Translations/Ja-Sandswept.language` |
-| 🇰🇷 **KO** (Korean) | `Translations/Ko-Sandswept.language` |
-| 🇨🇳 **zh-CN** (Simplified Chinese) | `Translations/Zh-CN-Sandswept.language` |
-| 🇹🇼 **zh-TW** (Traditional Chinese) | `Translations/Zh-TW-Sandswept.language` |
-| 🇹🇷 **TR** (Turkish) | `Translations/Tr-Sandswept.language` |
-| 🇺🇸 **EN** (English – base) | `Translations/En-Sandswept.language` |
-| 🇺🇦 **UA** (Ukrainian) | `Translations/Ua-Sandswept.language` ★ |
+When this package is available on Thunderstore:
 
-> ★ Ukrainian is **not** a natively supported language in Risk of Rain 2.  
-> See [UA-LANGUAGE-NOTE.md](UA-LANGUAGE-NOTE.md) for technical details.
+1. Install **SandsweptTeam-Sandswept**.
+2. Install this language pack.
+3. Start the game.
+4. Select your language in the Risk of Rain 2 language menu.
 
-> **⚠️ Performance note**: Because the game now loads additional translation files, you may notice a **slightly longer initial loading time** when starting the game. This is normal — the game is processing the additional language data.
+## Manual Install
 
-## Installation
+1. Download this repository as ZIP from GitHub.
+2. Open the extracted `Sandswept/` folder.
+3. Copy the whole `Sandswept/` folder into:
 
-1. Have the **Sandswept** mod (SandsweptTeam) installed via r2modman / Thunderstore
-2. Install this package via Thunderstore (r2modman or manually)
-3. Select the desired language in game settings (Settings → Language)
+```text
+BepInEx/plugins/
+```
 
-The `.language` files are loaded automatically by the game's language system via R2API Language.
+R2API.Language will find the `.language` files under `Translations/`.
+
+For r2modman, the default profile path is usually:
+
+```text
+C:\Users\<your-user>\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins
+```
+
+## Languages
+
+| Language | R2API key | File |
+|---|---:|---|
+| English | `en` | `Translations/En-Sandswept.language` |
+| Portuguese Brazil | `pt-BR` | `Translations/pt-BR-Sandswept.language` |
+| Russian | `RU` | `Translations/Ru-Sandswept.language` |
+| German | `de` | `Translations/De-Sandswept.language` |
+| Spanish Spain | `es-ES` | `Translations/Es-Sandswept.language` |
+| French | `fr` | `Translations/Fr-Sandswept.language` |
+| Italian | `it` | `Translations/It-Sandswept.language` |
+| Polish | `pl` | `Translations/Pl-Sandswept.language` |
+| Japanese | `ja` | `Translations/Ja-Sandswept.language` |
+| Korean | `ko` | `Translations/Ko-Sandswept.language` |
+| Simplified Chinese | `zh-CN` | `Translations/Zh-CN-Sandswept.language` |
+| Traditional Chinese | `zh-TW` | `Translations/Zh-TW-Sandswept.language` |
+| Turkish | `tr` | `Translations/Tr-Sandswept.language` |
+| Ukrainian | `ua` | `Translations/Ua-Sandswept.language` |
+
+## Important Notes
+
+- Achievements and unlocks are intentionally kept in English.
+- Ukrainian (`ua`) is not exposed by the vanilla Risk of Rain 2 language selector. It requires a locale/menu enabler or a compatible custom language setup.
+- Polish (`pl`) is included as an R2API language key. Depending on the game/mod setup, it may also require a menu/locale enabler to be selectable.
+- Loading may take slightly longer because R2API reads extra `.language` files.
+
+More details: [UA-LANGUAGE-NOTE.md](UA-LANGUAGE-NOTE.md)
 
 ## Compatibility
 
-- Requires: **SandsweptTeam-Sandswept-1.4.4** or higher
-- Requires: **R2API_Language** (already included as a dependency of Sandswept itself)
+- Requires `SandsweptTeam-Sandswept-1.4.4` or newer.
+- Requires R2API.Language. Sandswept already depends on R2API.Language.
+
+## Package Contents
+
+```text
+manifest.json
+README.md
+icon.png
+Translations/
+```
+
+For Thunderstore upload, zip the contents of this folder, not the parent repository.
 
 ## Credits
 
-- **Sandswept original mod**: [SandsweptTeam](https://github.com/SandsweptTeam/Sandswept) — original code and assets (GPL-3.0)
-- **PT-BR translation**: Jaosnake (manual translation)
-- **All other translations (RU, DE, ES, FR, IT, PL, JA, KO, zh-CN, zh-TW, TR, UA)**: Jaosnake with AI assistance
-- This package contains **only translation files**. No original source code from Sandswept has been modified or included.
+- Original mod: SandsweptTeam
+- Translation and packaging: Jaosnake
+- This package contains translation files only. It does not modify Sandswept source code.
 
 ## License
 
-Distributed under **GNU General Public License v3.0** (GPL-3.0), in compliance with the original Sandswept mod license.
+GPL-3.0, matching the original Sandswept licensing context.
