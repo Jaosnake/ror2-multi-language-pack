@@ -1,50 +1,50 @@
 {
     "pt-BR": {
         "KENKO_CADET_NAME": "Cadete",
-        "KENKO_CADET_DESCRIPTION": "O Cadete È um artilheiro vers·til que consegue navegar pelo combate com armas de curto alcance e mobilidade r·pida.<color=#CCD3E0>\n\n< ! > Certifique-se de atirar de perto para usar efetivamente sua contagem de muniÁ„o limitada sem diminuir seu dano.\n\n< ! > Plano C aumenta seu dano e raio com sua muniÁ„o atual, ent„o use-o quando seu pente estiver cheio.\n\n< ! > Use Rolagem Repositora para evitar rapidamente dano explosivo e reabastecer completamente seu pente.\n\n< ! > Tente usar Drones Eco sempre que possÌvel, pois ajudam a eliminar inimigos que vocÍ possa ter perdido enquanto se movimenta.
+        "KENKO_CADET_DESCRIPTION": "O Cadete √© um artilheiro vers√°til que consegue navegar pelo combate com armas de curto alcance e mobilidade r√°pida.<color=#CCD3E0>\n\n< ! > Certifique-se de atirar de perto para usar efetivamente sua contagem de muni√ß√£o limitada sem diminuir seu dano.\n\n< ! > Plano C aumenta seu dano e raio com sua muni√ß√£o atual, ent√£o use-o quando seu pente estiver cheio.\n\n< ! > Use Rolagem Repositora para evitar rapidamente dano explosivo e reabastecer completamente seu pente.\n\n< ! > Tente usar Drones Eco sempre que poss√≠vel, pois ajudam a eliminar inimigos que voc√™ possa ter perdido enquanto se movimenta.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
-        "KENKO_CADET_SUBTITLE": "Atirador Vers·til",
-        "KENKO_CADET_DEFAULT_SKIN_NAME": "Padr„o",
+        "KENKO_CADET_SUBTITLE": "Atirador Vers√°til",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Padr√£o",
         "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
 
         "KENKO_CADET_PRIMARY_SMG_NAME": "Tempestade de Balas",
-        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>¡gil</style>. Dispare um laser para <style=cIsDamage>60% de dano</style>. Requer <style=cIsUtility>recarga</style> apÛs 20 balas.
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>√Ågil</style>. Dispare um laser para <style=cIsDamage>60% de dano</style>. Requer <style=cIsUtility>recarga</style> ap√≥s 20 balas.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
-        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "MarÈs Devastadoras",
-        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>¡gil</style>. Dispare uma rajada para <style=cIsDamage>3x100% de dano</style>. Requer <style=cIsUtility>recarga</style> apÛs 10 projÈteis.
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Mar√©s Devastadoras",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>√Ågil</style>. Dispare uma rajada para <style=cIsDamage>3x100% de dano</style>. Requer <style=cIsUtility>recarga</style> ap√≥s 10 proj√©teis.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plano B",
-        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispare seu lanÁa-granadas leve para <style=cIsDamage>400% de dano</style>.
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispare seu lan√ßa-granadas leve para <style=cIsDamage>400% de dano</style>.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plano C",
-        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Arremesse sua arma causando <style=cIsDamage>250% a 750% de dano</style> baseado na muniÁ„o atual.
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Arremesse sua arma causando <style=cIsDamage>250% a 750% de dano</style> baseado na muni√ß√£o atual.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
-        "KENKO_CADET_UTILITY_SLIDE_NAME": "ReposiÁ„o Deslizante",
-        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Deslize em uma direÁ„o, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposi√ß√£o Deslizante",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Deslize em uma dire√ß√£o, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rolagem Repositora",
-        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Role em uma direÁ„o, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Role em uma dire√ß√£o, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plano A",
-        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>¡gil</style>. Dispare uma rajada pesada de pellets para <style=cIsDamage>32x150% de dano</style>.
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>√Ågil</style>. Dispare uma rajada pesada de pellets para <style=cIsDamage>32x150% de dano</style>.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake",
 
         "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
-        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrique <style=cIsDamage>dois drones</style> que procuram inimigos prÛximos causando <style=cIsDamage>2x370% de dano</style>.
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrique <style=cIsDamage>dois drones</style> que procuram inimigos pr√≥ximos causando <style=cIsDamage>2x370% de dano</style>.
 
 Mod original por tsuyoikenko. Traduzido por: Jaosnake"
     }
