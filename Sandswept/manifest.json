@@ -1,0 +1,10 @@
+{
+    "name": "Sandswept_LanguagePack",
+    "author": "Jaosnake",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+    "description": "Multi-language pack (PT-BR/RU/DE/ES/FR/IT/PL/JA/KO/zh-CN/zh-TW/TR) for Sandswept (SandsweptTeam). Author: Jaosnake",
+    "dependencies": [
+        "SandsweptTeam-Sandswept-1.4.4"
+    ]
+}
