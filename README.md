@@ -9,41 +9,41 @@ A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers t
 ---
 
 ## Available Mods
-| Mod | Translation status | Location |
-|-----|-------------------|----------|
-| **Starstorm 2** | ✅ Complete – 8 languages | `Starstorm2/` (ready to zip) |
-| **Sandswept** | ✅ Complete – 14 languages | `Sandswept/` (ready to zip) |
-| **AssassinMod** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/HasteReapr-AssassinMod/` |
-| **Banshee** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Banshee/` |
-| **Bastian** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TeamSillyGuy-Bastian/` |
-| **Belmont** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-Belmont/` |
-| **Cadet** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Cadet/` |
-| **Cloudburst** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TeamCloudburst-Cloudburst/` |
-| **Dancer** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/nayDPz-Dancer/` |
-| **Dante** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-Dante/` |
-| **Deputy** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Deputy/` |
-| **Driver** | ✅ pt-BR, es-419, FR, ru, zh-CN, ja | `mods/public_ParticleSystem-Driver/` |
-| **Enforcer** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Enforcer/` |
-| **HAND_OVERCLOCKED** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-HAND_OVERCLOCKED/` |
-| **HEL_P** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-HEL_P/` |
-| **HUNK** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-HUNK/` |
-| **Interrogator** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Interrogator/` |
-| **Lee_Hyperreal** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/PopcornFactory-Lee_Hyperreal/` |
-| **MinerUnearthed** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-MinerUnearthed/` |
-| **Mortician** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Mortician/` |
-| **Myst** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/JavAngle-Myst/` |
-| **PaladinMod** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Paladin_Alliance-PaladinMod/` |
-| **Pathfinder** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Pathfinder/` |
-| **Pilot** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Pilot/` |
-| **Ravager** | ✅ pt-BR, es-419, FR, ru, zh-CN, ja | `mods/public_ParticleSystem-Ravager/` |
-| **Red_Alert** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TheTimesweeper-Red_Alert/` |
-| **Rifter** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/toastyTeam-Rifter/` |
-| **RiskyTweaks** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Risky_Lives-RiskyTweaks/` |
-| **RobomandoMod** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/The_Bozos-RobomandoMod/` |
-| **Rocket** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Rocket/` |
-| **Arsonist** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/PopcornFactory-Arsonist_Mod/` |
-| **SorceressMod** | ✅ EN | `mods/Frosthex-SorceressMod/` |
-| **TheHouse** | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/JavAngle-TheHouse/` |
+| Mod | Original Author | Translation status | Location |
+|-----|----------------|-------------------|----------|
+| **Starstorm 2** | TeamMoonstorm | ✅ Complete – 8 languages | `Starstorm2/` (ready to zip) |
+| **Sandswept** | TeamSandswept | ✅ Complete – 14 languages | `Sandswept/` (ready to zip) |
+| **Arsonist** | PopcornFactory | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/PopcornFactory-Arsonist_Mod/` |
+| **AssassinMod** | HasteReapr | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/HasteReapr-AssassinMod/` |
+| **Banshee** | tsuyoikenko | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Banshee/` |
+| **Bastian** | TeamSillyGuy | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TeamSillyGuy-Bastian/` |
+| **Belmont** | rob | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-Belmont/` |
+| **Cadet** | tsuyoikenko | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Cadet/` |
+| **Cloudburst** | TeamCloudburst | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TeamCloudburst-Cloudburst/` |
+| **Dancer** | nayDPz | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/nayDPz-Dancer/` |
+| **Dante** | rob | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-Dante/` |
+| **Deputy** | Bog | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Deputy/` |
+| **Driver** | public_ParticleSystem | ✅ pt-BR, es-419, FR, ru, zh-CN, ja | `mods/public_ParticleSystem-Driver/` |
+| **Enforcer** | EnforcerGang | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Enforcer/` |
+| **HAND_OVERCLOCKED** | EnforcerGang | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-HAND_OVERCLOCKED/` |
+| **HEL_P** | rob | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-HEL_P/` |
+| **HUNK** | rob | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/rob-HUNK/` |
+| **Interrogator** | tsuyoikenko | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/tsuyoikenko-Interrogator/` |
+| **Lee_Hyperreal** | PopcornFactory | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/PopcornFactory-Lee_Hyperreal/` |
+| **MinerUnearthed** | EnforcerGang | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-MinerUnearthed/` |
+| **Mortician** | Bog | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Mortician/` |
+| **Myst** | JavAngle | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/JavAngle-Myst/` |
+| **PaladinMod** | Paladin_Alliance | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Paladin_Alliance-PaladinMod/` |
+| **Pathfinder** | Bog | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Bog-Pathfinder/` |
+| **Pilot** | EnforcerGang | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Pilot/` |
+| **Ravager** | public_ParticleSystem | ✅ pt-BR, es-419, FR, ru, zh-CN, ja | `mods/public_ParticleSystem-Ravager/` |
+| **Red_Alert** | TheTimesweeper | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/TheTimesweeper-Red_Alert/` |
+| **Rifter** | toastyTeam | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/toastyTeam-Rifter/` |
+| **RiskyTweaks** | Risky_Lives | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/Risky_Lives-RiskyTweaks/` |
+| **RobomandoMod** | The_Bozos | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/The_Bozos-RobomandoMod/` |
+| **Rocket** | EnforcerGang | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/EnforcerGang-Rocket/` |
+| **SorceressMod** | Frosthex | ✅ EN | `mods/Frosthex-SorceressMod/` |
+| **TheHouse** | JavAngle | ✅ EN, pt-BR, es-419, FR, ru, zh-CN, ja | `mods/JavAngle-TheHouse/` |
 
 ---
 
@@ -347,4 +347,24 @@ This project is licensed under the **GNU General Public License v3.0**.
 
 ## Credits
 - **Translations**: Jaosnake
-- **Original mods**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept) and their respective authors.
+- **Original mod authors**:
+  - **TeamMoonstorm** — Starstorm 2
+  - **TeamSandswept** — Sandswept
+  - **Bog** — Deputy, Mortician, Pathfinder
+  - **EnforcerGang** — Enforcer, HAND_OVERCLOCKED, MinerUnearthed, Pilot, Rocket
+  - **Frosthex** — SorceressMod
+  - **HasteReapr** — AssassinMod
+  - **JavAngle** — Myst, TheHouse
+  - **nayDPz** — Dancer
+  - **Paladin_Alliance** — PaladinMod
+  - **PopcornFactory** — Arsonist, Lee_Hyperreal
+  - **public_ParticleSystem** — Driver, Ravager
+  - **Risky_Lives** — RiskyTweaks
+  - **rob** — Belmont, Dante, HEL_P, HUNK
+  - **TeamCloudburst** — Cloudburst
+  - **TeamSillyGuy** — Bastian
+  - **The_Bozos** — RobomandoMod
+  - **TheTimesweeper** — Red_Alert
+  - **toastyTeam** — Rifter
+  - **tsuyoikenko** — Banshee, Cadet, Interrogator
+- All translation tokens contain embedded credit inline (in DESCRIPTION fields).

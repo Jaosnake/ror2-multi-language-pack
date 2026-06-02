@@ -1,6 +1,6 @@
 BOG_DEPUTY_BODY_NAME: 副警长
 BOG_DEPUTY_BODY_SUBTITLE: 闪电正义
-BOG_DEPUTY_BODY_DESCRIPTION: 副警长是一名超激进的极速恶魔，用她的双持左轮手枪和致命踢技来伸张正义。 <i>Translated by: Jaosnake</i>
+BOG_DEPUTY_BODY_DESCRIPTION: 副警长是一名超激进的极速恶魔，用她的双持左轮手枪和致命踢技来伸张正义。 <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: 默认
 BOG_DEPUTY_BODY_PASSIVE_NAME: 不懈追击

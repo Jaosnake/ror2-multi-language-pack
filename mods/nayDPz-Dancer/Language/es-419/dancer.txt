@@ -1,5 +1,5 @@
 NDP_DANCER_BODY_PASSIVE_NAME: Cinta Restrictiva
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Los enemigos con cinta sangran por 50% de daño por segundo y no pueden actuar. <i>Translated by: Jaosnake</i>
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Los enemigos con cinta sangran por 50% de daño por segundo y no pueden actuar. <i>Translated by: Jaosnake. Original mod by nayDPz</i>
 PRIMARY_SLASH_NAME: Golpe
 PRIMARY_SLASH_DESCRIPTION: Ataque cuerpo a cuerpo con efectos basados en tu mira. (Pasa el mouse para más detalles)
 PRIMARY_SLASH2_NAME: Corte

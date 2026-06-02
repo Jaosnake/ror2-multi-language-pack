@@ -17,41 +17,41 @@ ROB_HUNK_BODY_JACKET_SKIN_NAME: 夹克
 ROB_HUNK_BODY_TOFU_SKIN_NAME: 豆腐
 ROB_HUNK_BODY_SUPER_SKIN_NAME: 超级
 SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>。用M19射击造成<style=cIsDamage>500%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>。用M19射击造成<style=cIsDamage>500%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>。用Broom HC射击造成<style=cIsDamage>180%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>。用Broom HC射击造成<style=cIsDamage>180%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_REVOLVER_NAME: 左轮手枪
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>。用左轮手枪射击造成<style=cIsDamage>1.200%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>。用左轮手枪射击造成<style=cIsDamage>1.200%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_MAGNUM_NAME: 马格南
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>。用马格南射击造成<style=cIsDamage>1.500%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>。用马格南射击造成<style=cIsDamage>1.500%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SHOTGUN_NAME: 霰弹枪
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。用霰弹枪射击造成<style=cIsDamage>14x150%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。用霰弹枪射击造成<style=cIsDamage>14x150%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>。用SSG射击造成<style=cIsDamage>16x200%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>。用SSG射击造成<style=cIsDamage>16x200%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>。用Slugger射击造成<style=cIsDamage>3.000%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>。用Slugger射击造成<style=cIsDamage>3.000%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_AR_NAME: 突击步枪
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>。用步枪射击造成<style=cIsDamage>385%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>。用步枪射击造成<style=cIsDamage>385%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>。用Spark Shot射击造成<style=cIsDamage>1.000%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>。用Spark Shot射击造成<style=cIsDamage>1.000%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_GOLDGUN_NAME: 黄金枪
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。用黄金枪射击造成<style=cIsDamage>99.999%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。用黄金枪射击造成<style=cIsDamage>99.999%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_ATM_NAME: ATM发射器
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>。发射火箭造成<style=cIsDamage>8.000%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>。发射火箭造成<style=cIsDamage>8.000%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_GRENADELAUNCHER_NAME: 榴弹发射器
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>。发射榴弹造成<style=cIsDamage>3.200%伤害</style>。 <i>Translated by: Jaosnake</i>
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>。发射榴弹造成<style=cIsDamage>3.200%伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>拔出。</style><style=cIsDamage>打击</style>近战战斗员造成<style=cIsDamage>200%和250%伤害</style>，施加<style=cIsHealth>残废</style>。 <i>Translated by: Jaosnake</i>
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>拔出。</style><style=cIsDamage>打击</style>近战战斗员造成<style=cIsDamage>200%和250%伤害</style>，施加<style=cIsHealth>残废</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SECONDARY_AIM_NAME: 稳定瞄准
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>瞄准</style>以提高当前武器的精度。 <i>Translated by: Jaosnake</i>
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>瞄准</style>以提高当前武器的精度。 <i>Translated by: Jaosnake. Original mod by rob</i>
 UTILITY_PARRY_NAME: 格挡
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>格挡</style>以偏转攻击。如果预防性地用于<style=cIsUtility>躲避攻击</style>，执行<style=cIsDamage>完美闪避</style>。 <i>Translated by: Jaosnake</i>
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>格挡</style>以偏转攻击。如果预防性地用于<style=cIsUtility>躲避攻击</style>，执行<style=cIsDamage>完美闪避</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 UTILITY_DODGE_NAME: 滑步
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>滑行</style>一小段距离。如果预防性地用于<style=cIsUtility>躲避攻击</style>，执行<style=cIsDamage>完美闪避</style>。 <i>Translated by: Jaosnake</i>
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>滑行</style>一小段距离。如果预防性地用于<style=cIsUtility>躲避攻击</style>，执行<style=cIsDamage>完美闪避</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 UTILITY_BASH_NAME: 偏转
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>偏转</style>附近敌人，<style=cIsUtility>眩晕他们</style>造成<style=cIsDamage>400%伤害</style>。如果预防性地用于<style=cIsUtility>取消攻击</style>，执行<style=cIsDamage>完美偏转</style>。 <i>Translated by: Jaosnake</i>
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>偏转</style>附近敌人，<style=cIsUtility>眩晕他们</style>造成<style=cIsDamage>400%伤害</style>。如果预防性地用于<style=cIsUtility>取消攻击</style>，执行<style=cIsDamage>完美偏转</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 SPECIAL_SWAP_NAME: 军团
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>切换</style>当前武器。 <i>Translated by: Jaosnake</i>
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>切换</style>当前武器。 <i>Translated by: Jaosnake. Original mod by rob</i>
 ROB_HUNK_KEYWORD_MANGLED: 残废
 ROB_HUNK_KEYWORD_COUNTERATTACK: 反击
 ROB_HUNK_KEYWORD_PERFECTDODGE: 完美闪避
@@ -95,7 +95,7 @@ ROB_NEMESIS_BODY_NAME: Nemesis
 ROB_NEMESIS_BODY_SUBTITLE: 追踪者
 ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: 默认
 ROB_NEMESIS_BODY_PASSIVE_NAME: 无情追猎
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: 对标记的敌人造成<style=cIsDamage>{0}%额外伤害</style>。 <i>Translated by: Jaosnake</i>
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: 对标记的敌人造成<style=cIsDamage>{0}%额外伤害</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
 ROB_NEMESIS_BODY_GRAB_NAME: 抓取
 ROB_ARTIFACT_STRIKETEAM_NAME: 突击队神器
 ROB_ARTIFACT_PURSUER_NAME: 追踪者神器

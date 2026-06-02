@@ -1,6 +1,6 @@
 BOG_MORRIS_BODY_NAME: Mortician
 BOG_MORRIS_BODY_SUBTITLE: Mort-Vivant
-BOG_MORRIS_BODY_DESCRIPTION: Le Mortician est un nécromancien de mêlée lent mais robuste qui excelle dans le contrôle du territoire avec son armée de morts-vivants. <i>Translated by: Jaosnake</i>
+BOG_MORRIS_BODY_DESCRIPTION: Le Mortician est un nécromancien de mêlée lent mais robuste qui excelle dans le contrôle du territoire avec son armée de morts-vivants. <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: Par défaut
 BOG_MORRIS_BODY_OUTRO_FLAVOR: ..et ainsi il partit, son devoir sinistre toujours inachevé.

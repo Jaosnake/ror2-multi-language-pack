@@ -1,6 +1,6 @@
 BOG_DEPUTY_BODY_NAME: ザ・デピュティ
 BOG_DEPUTY_BODY_SUBTITLE: 電撃の正義
-BOG_DEPUTY_BODY_DESCRIPTION: デピュティは超攻撃的なスピードデーモンであり、双銃のリボルバーと致命的な蹴りで正義を執行する。 <i>Translated by: Jaosnake</i>
+BOG_DEPUTY_BODY_DESCRIPTION: デピュティは超攻撃的なスピードデーモンであり、双銃のリボルバーと致命的な蹴りで正義を執行する。 <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: デフォルト
 BOG_DEPUTY_BODY_PASSIVE_NAME: 執拗な追跡

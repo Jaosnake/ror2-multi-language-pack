@@ -1,6 +1,6 @@
 JAVANGLE_MYST_BODY_NAME: Myst
 JAVANGLE_MYST_BODY_SUBTITLE: O Arcano Misterioso
-JAVANGLE_MYST_BODY_DESCRIPTION: Myst é um sobrevivente versátil que usa <style=cIsUtility>Poder Mágico</style> para utilizar uma variedade de habilidades sobrenaturais, e <style=cIsUtility>Limit</style> para liberar super-movimentos poderosos. <i>Esse personagem foi traduzido por: Jaosnake</i>
+JAVANGLE_MYST_BODY_DESCRIPTION: Myst é um sobrevivente versátil que usa <style=cIsUtility>Poder Mágico</style> para utilizar uma variedade de habilidades sobrenaturais, e <style=cIsUtility>Limit</style> para liberar super-movimentos poderosos. <i>Mod original por JavAngle. Traduzido por: Jaosnake</i>
 JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: Padrão
 JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: Maestria
 JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: Grande Maestria

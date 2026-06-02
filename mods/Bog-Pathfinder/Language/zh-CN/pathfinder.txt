@@ -1,6 +1,6 @@
 BOG_PATHFINDER_BODY_NAME: 探路者
 BOG_PATHFINDER_BODY_SUBTITLE: 星际猎人
-BOG_PATHFINDER_BODY_DESCRIPTION: 探路者是一名狡猾而难以捉摸的游击战士，与他的机器猎鹰斯考尔并肩作战。 <i>Translated by: Jaosnake</i>
+BOG_PATHFINDER_BODY_DESCRIPTION: 探路者是一名狡猾而难以捉摸的游击战士，与他的机器猎鹰斯考尔并肩作战。 <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_PATHFINDER_BODY_PASSIVE_NAME: 驯鹰者
 BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: 你的机器猎鹰斯考尔伴随着你。斯考尔继承<style=cIsDamage>大部分</style>你的物品，免疫伤害，但依靠<style=cIsUtility>电池</style>运作。

@@ -3,7 +3,7 @@
         "ROB_HUNK_BODY_NAME": "HUNK",
         "ROB_HUNK_BODY_DESCRIPTION": "HUNK e um infiltrador de elite que carrega um grande arsenal de armas obtidas via OSP (On-Site Procurement).<color=#CCD3E0>\n\n< ! > Use sua Faca de Combate contra inimigos mais fracos para conservar municao.\n\n< ! > Obter a Amostra de G-Virus lhe dara um keycard, permitindo acessar cases de armas em cada Fase.\n\n< ! > Use o Quickstep perto de um inimigo ou projetil atacando para realizar uma Esquiva Perfeita, e entao contra-ataque com o Primario.\n\n< ! > Municao e escassa, mas pode ser encontrada em baus abertos. Estoques do Secundario e reducao de recarga tambem afetam a municao.\n\n< ! > Isto e guerra. A sobrevivencia e sua responsabilidade.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SUBTITLE": "O Ceifador",
         "ROB_HUNK_BODY_OUTRO_FLAVOR": "..e entao ele partiu, tudo bem.",
         "ROB_HUNK_BODY_OUTRO_FAILURE": "..e entao ele desapareceu, unidade humana agora neutralizada.",
@@ -27,243 +27,243 @@ Esse personagem foi traduzido por: Jaosnake",
         "ROB_HUNK_BODY_PPASSIVE_NAME": "OSP (On-Site Procurement)",
         "ROB_HUNK_BODY_PPASSIVE_DESCRIPTION": "HUNK pode coletar <color=#FFFF00>U.C. Keycards</color> para abrir <style=cIsDamage>cases de armas</style> e expandir seu arsenal.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_PPASSIVE2_NAME": "Soldado Esquecido",
         "ROB_HUNK_BODY_PPASSIVE2_DESCRIPTION": "O primeiro <style=cIsHealth>chefe</style> a morrer em cada Fase derruba um <style=cIsDamage>pacote de suprimentos</style> contendo uma arma ou acessorio.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_PASSIVE_NAME": "Luta Sombria",
         "ROB_HUNK_BODY_PASSIVE_DESCRIPTION": "Comece com uma <style=cIsDamage>LE 5</style> e uma <style=cIsDamage>arma secundaria</style>. Voce pode <style=cIsDamage>vasculhar</style> <style=cIsUtility>baus</style> em busca de municao.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_PASSIVE2_NAME": "Temor Iminente",
         "ROB_HUNK_BODY_PASSIVE2_DESCRIPTION": "Comece com um <style=cIsDamage>arsenal completo</style>, <style=cIsHealth>MAS</style> voce nao pode mais <style=cIsHealth>obter municao adicional</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_RANDOMPASSIVE_NAME": "New Game+",
         "ROB_HUNK_BODY_RANDOMPASSIVE_DESCRIPTION": "Comece com uma <style=cIsDamage>LE 5</style> e uma <style=cIsDamage>arma secundaria</style>. Voce pode <style=cIsDamage>vasculhar</style> <style=cIsUtility>baus</style> em busca de municao. <style=cIsHealth>Todo o conteudo das cases de armas e aleatorio.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOTGUNPASSIVE_NAME": "Autoridade Suprema",
         "ROB_HUNK_BODY_SHOTGUNPASSIVE_DESCRIPTION": "Comece com uma <style=cIsDamage>W-870</style> e uma <style=cIsDamage>arma secundaria</style>. Voce pode <style=cIsDamage>vasculhar</style> <style=cIsUtility>baus</style> em busca de municao.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SMGPASSIVE_NAME": "Mercenario Supremo",
         "ROB_HUNK_BODY_SMGPASSIVE_DESCRIPTION": "Comece <style=cIsHealth>SOMENTE</style> com uma <style=cIsDamage>LE 5 totalmente melhorada</style>. Voce pode <style=cIsDamage>vasculhar</style> <style=cIsUtility>baus</style> em busca de municao. O <style=cIsDamage>Especial</style> e substituido por <color=#C80202>Modo Caos</color>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_WPASSIVE_NAME": "Saturacao Global Completa",
         "ROB_HUNK_BODY_WPASSIVE_DESCRIPTION": "Comece <style=cIsHealth>SOMENTE</style> com uma <style=cIsDamage>arma secundaria</style>. Voce pode <style=cIsDamage>vasculhar</style> <style=cIsUtility>baus</style> em busca de municao. A <style=cIsDamage>Utilidade</style> e substituida por <color=#C80202>Uroboros</color>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_FLAMERPASSIVE_NAME": "Piromania",
         "ROB_HUNK_BODY_FLAMERPASSIVE_DESCRIPTION": "Comece <style=cIsHealth>SOMENTE</style> com um <style=cIsDamage>Lanca-Chamas Quimico</style>. Voce pode <style=cIsDamage>vasculhar</style> <style=cIsUtility>baus</style> em busca de municao. <style=cIsHealth>Apenas UMA case de arma surge por Fase.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_HUNK_BODY_PRIMARY_KNIFE_NAME": "Faca de Combate",
         "ROB_HUNK_BODY_PRIMARY_KNIFE_DESCRIPTION": "<style=cIsUtility>Saque.</style> <style=cIsDamage>Corte</style> combatentes proximos para <style=cIsDamage>200% de dano</style>, infligindo <style=cIsHealth>Mutilado</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_PRIMARY_CQC_NAME": "CQC (Combate Corpo a Corpo)",
         "ROB_HUNK_BODY_PRIMARY_CQC_DESCRIPTION": "<style=cIsUtility>Saque.</style> <style=cIsDamage>Chute duas vezes</style> para <style=cIsDamage>200% e 250% de dano</style>. Se o <style=cIsUtility>segundo chute</style> conectar, siga com um <style=cIsDamage>Contra-ataque</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_PRIMARY_RELOAD_NAME": "Recarregar",
         "ROB_HUNK_BODY_RELOAD_DESCRIPTION": "Recarregue sua arma atual.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SECONDARY_AIM_NAME": "Mirar Firme",
         "ROB_HUNK_BODY_SECONDARY_AIM_DESCRIPTION": "Mire, <style=cIsUtility>expondo pontos fracos do inimigo</style>. <style=cIsDamage>Usar o primario enquanto mira dispara sua arma equipada.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_UTILITY_DODGE_NAME": "Quickstep",
         "ROB_HUNK_BODY_UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>Avance</style> uma curta distancia. Se usado preventivamente para <style=cIsUtility>evitar um ataque</style>, realize uma <style=cIsDamage>Esquiva Perfeita</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_UTILITY_DODGE_SCEPTER_NAME": "Uroboros",
         "ROB_HUNK_BODY_UTILITY_DODGE_SCEPTER_DESCRIPTION": "<style=cIsUtility>Avance</style> uma curta distancia. Se usado preventivamente para <style=cIsUtility>evitar um ataque</style>, realize uma <style=cIsDamage>Esquiva Perfeita</style>. O poder de Uroboros flui atraves de voce.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_UTILITY_PARRY_NAME": "Aparar",
         "ROB_HUNK_BODY_UTILITY_PARRY_DESCRIPTION": "<style=cIsUtility>Bloqueie</style> um ataque, <style=cIsDamage>anulando</style> o dano e <style=cIsUtility>reembolsando a recarga</style>. Se usado preventivamente, realize uma <style=cIsDamage>Aparição Perfeita</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_UTILITY_BASH_NAME": "Ombrozada",
         "ROB_HUNK_BODY_UTILITY_BASH_DESCRIPTION": "<style=cIsUtility>Atinja</style> inimigos proximos com o ombro, <style=cIsUtility>atordoando-os</style> para <style=cIsDamage>400% de dano</style>. Se usado preventivamente para <style=cIsUtility>cancelar um ataque</style>, realize uma <style=cIsDamage>Deflexao Perfeita</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SPECIAL_SWAP_NAME": "Legiao",
         "ROB_HUNK_BODY_SPECIAL_SWAP_DESCRIPTION": "<style=cIsUtility>Troque</style> para uma <style=cIsDamage>arma</style> diferente. Toque para trocar para sua <style=cIsUtility>ultima arma usada</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SPECIAL_MAYHEM_NAME": "Modo Caos",
         "ROB_HUNK_BODY_SPECIAL_MAYHEM_DESCRIPTION": "Entre em <style=cIsDamage>Modo Caos</style>, aumentando drasticamente o desempenho da arma.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_HUNK_BODY_CONFIRM_NAME": "Confirmar",
         "ROB_HUNK_BODY_CONFIRM_DESCRIPTION": "Prosseguir com a habilidade atual.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_CANCEL_NAME": "Cancelar",
         "ROB_HUNK_BODY_CANCEL_DESCRIPTION": "Cancelar a habilidade atual.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_HUNK_BODY_KNIFE_DEFAULT_NAME": "Faca de Combate",
         "ROB_HUNK_BODY_KNIFE_DEFAULT_DESCRIPTION": "Uma faca militar padrao. Certamente util em momentos dificeis.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_INFINITE_NAME": "Faca de Combate EX",
         "ROB_HUNK_BODY_KNIFE_INFINITE_DESCRIPTION": "Uma faca militar especialmente tratada que foi endurecida a um grau inacreditavel. Dizem que foi feita para realmente durar.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_HIDDEN_NAME": "Lamina Oculta",
         "ROB_HUNK_BODY_KNIFE_HIDDEN_DESCRIPTION": "Uma lamina retratil de baixo perfil escondida na manga. Ideal para operacoes furtivas.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_WESKER_NAME": "Faca Personalizada",
         "ROB_HUNK_BODY_KNIFE_WESKER_DESCRIPTION": "Uma lamina cruel com borda serrilhada para ajudar a dilacerar seus oponentes.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_MACHETE_NAME": "Facao",
         "ROB_HUNK_BODY_KNIFE_MACHETE_DESCRIPTION": "Uma lamina enorme destinada principalmente a taticas de guerrilha.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_RE4_NAME": "Faca Primaria",
         "ROB_HUNK_BODY_KNIFE_RE4_DESCRIPTION": "Uma faca forjada com infinitas possibilidades.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_BLOODY_NAME": "Lamina Ensanguentada",
         "ROB_HUNK_BODY_KNIFE_BLOODY_DESCRIPTION": "Uma lamina ensanguentada com uma borda serrilhada que ja dilacerou muitos oponentes.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_HOTDOGGER_NAME": "HOT DOGGER",
         "ROB_HUNK_BODY_KNIFE_HOTDOGGER_DESCRIPTION": "Como o nome indica, esta faca anti-bioweapon desenvolvida pela Umbrella e usada por aqueles que gostam de se exibir.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_STUNROD_NAME": "Bastao de Choque",
         "ROB_HUNK_BODY_KNIFE_STUNROD_DESCRIPTION": "AVISO: Nao atordoa de verdade.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_KNIFE_KITCHEN_NAME": "Faca de Cozinha",
         "ROB_HUNK_BODY_KNIFE_KITCHEN_DESCRIPTION": "Uma faca feita para cozinhar. Sua lamina lasca facilmente.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_HUNK_BODY_SHOOT_SMG_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_SMG_DESCRIPTION": "Dispara para <style=cIsDamage>110% de dano</style>. <style=cIsUtility>25% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_M19_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_M19_DESCRIPTION": "Dispara para <style=cIsDamage>500% de dano</style>. <style=cIsUtility>100% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_SG09_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_SG09_DESCRIPTION": "Dispara para <style=cIsDamage>500% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_BROOMHC_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_BROOMHC_DESCRIPTION": "Dispara para <style=cIsDamage>180% de dano</style>. <style=cIsUtility>25% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_MAGNUM_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_MAGNUM_DESCRIPTION": "Dispara para <style=cIsDamage>1.200% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_GOLDGUN_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_GOLDGUN_DESCRIPTION": "Dispara para <style=cIsDamage>99.999% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_MUP_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_MUP_DESCRIPTION": "Dispara para <style=cIsDamage>320% de dano</style>. <style=cIsUtility>25% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_REVOLVER_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_REVOLVER_DESCRIPTION": "Dispara para <style=cIsDamage>1.200% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_COLT_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_COLT_DESCRIPTION": "Dispara para <style=cIsDamage>2.000% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_SPARKSHOT_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_SPARKSHOT_DESCRIPTION": "Dispara uma agulha eletrificada para <style=cIsDamage>1.000% de dano</style>. <style=cIsUtility>Salta para ate 3 inimigos para <style=cIsDamage>2.000% de dano</style>.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_BLUEROSE_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_BLUEROSE_DESCRIPTION": "Dispara para <style=cIsDamage>2x3.800% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_SHOTGUN_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_SHOTGUN_DESCRIPTION": "Dispara para <style=cIsDamage>14x150% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_M3_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_M3_DESCRIPTION": "Dispara para <style=cIsDamage>10x130% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_SSG_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_SSG_DESCRIPTION": "Dispara para <style=cIsDamage>16x200% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_STREETSWEEPER_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_STREETSWEEPER_DESCRIPTION": "Dispara para <style=cIsDamage>14x24% de dano</style>. <style=cIsUtility>25% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_SLUGGER_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_SLUGGER_DESCRIPTION": "Dispara para <style=cIsDamage>3.000% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_AR_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_AR_DESCRIPTION": "Dispara para <style=cIsDamage>385% de dano</style>. <style=cIsUtility>50% de bonus em tiros na cabeca.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_MINIGUN_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_MINIGUN_DESCRIPTION": "Dispara para <style=cIsDamage>2x250% de dano</style>. <style=cIsUtility>O dano escala com a velocidade de ataque.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_ATM_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_ATM_DESCRIPTION": "Dispara para <style=cIsDamage>8.000% de dano</style>. <style=cIsUtility>Causa mais dano em acertos diretos.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_ATM2_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_ATM2_DESCRIPTION": "Dispara para <style=cIsDamage>8.000% de dano</style>. <style=cIsUtility>Causa mais dano em acertos diretos.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_RPG_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_RPG_DESCRIPTION": "Dispara para <style=cIsDamage>8.000% de dano</style>. <style=cIsUtility>Causa mais dano em acertos diretos.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_ROCKETLAUNCHER_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_ROCKETLAUNCHER_DESCRIPTION": "Dispara para <style=cIsDamage>12.000% de dano</style>. <style=cIsDamage>Incendiario.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_GRENADELAUNCHER_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_GRENADELAUNCHER_DESCRIPTION": "Dispara para <style=cIsDamage>3.200% de dano</style>. <style=cIsDamage>Incendiario.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_MGL_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_MGL_DESCRIPTION": "Dispara para <style=cIsDamage>2.400% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_RAILGUN_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_RAILGUN_DESCRIPTION": "Dispara para <style=cIsDamage>20.000% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_FLAMETHROWER_NAME": "Disparar",
         "ROB_HUNK_BODY_SHOOT_FLAMETHROWER_DESCRIPTION": "Dispara um jato de chamas para <style=cIsDamage>toneladas de dano</style>. <style=cIsUtility>Incendeia.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_SCANNER_NAME": "Escanear",
         "ROB_HUNK_BODY_SHOOT_SCANNER_DESCRIPTION": "Escaneia em busca de <style=cIsUtility>cases de armas nao abertas</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_SHOOT_HOOKSHOT_NAME": "Gancho",
         "ROB_HUNK_BODY_SHOOT_HOOKSHOT_DESCRIPTION": "Dispara um gancho para um <style=cIsUtility>ponto distante</style>, entao <style=cIsUtility>puxe-se ate ele</style>. <style=cIsDamage>Voce pode contra-atacar apos aterrissar.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_HUNK_KEYWORD_MANGLED": "Mutilado",
         "ROB_HUNK_KEYWORD_COUNTER": "Contra-ataque",
@@ -348,84 +348,84 @@ Esse personagem foi traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Ceifador",
         "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, vença o jogo ou oblitere.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Maestria",
         "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, vença o jogo ou oblitere na Moncao.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Grao-Maestria",
         "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, vença o jogo ou oblitere no Tufao ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tufao ou superior)</color>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_SUPPORTER_ACHIEVEMENT_ID_NAME": "HUNK: Early Supporter",
         "ACHIEVEMENT_ROB_HUNK_SUPPORTER_ACHIEVEMENT_ID_DESCRIPTION": "Jogue com HUNK antes do lancamento oficial.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_LIGHTWEIGHT_ACHIEVEMENT_ID_NAME": "HUNK: Minimalista",
         "ACHIEVEMENT_ROB_HUNK_LIGHTWEIGHT_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, conclua a Fase 1 sem itens.\n<color=#8888>(Armas e ferramentas nao contam contra voce)</color>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_GUERRILLA_ACHIEVEMENT_ID_NAME": "HUNK: Trancado e Carregado",
         "ACHIEVEMENT_ROB_HUNK_GUERRILLA_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, obtenha um arsenal completo.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_ROOKIE_ACHIEVEMENT_ID_NAME": "HUNK: Primeiro Dia no Trabalho",
         "ACHIEVEMENT_ROB_HUNK_ROOKIE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, obtenha uma nova arma.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_SWAT_ACHIEVEMENT_ID_NAME": "HUNK: Guardiao da Paz",
         "ACHIEVEMENT_ROB_HUNK_SWAT_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, melhore totalmente a MUP.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_CQC_ACHIEVEMENT_ID_NAME": "HUNK: CQC (Combate Corpo a Corpo)",
         "ACHIEVEMENT_ROB_HUNK_CQC_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, realize 10 contra-ataques bem-sucedidos em uma Fase.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_INFINITEKNIFE_ACHIEVEMENT_ID_NAME": "HUNK: As de Espadas",
         "ACHIEVEMENT_ROB_HUNK_INFINITEKNIFE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, carregue dois Keycards de Espadas ao mesmo tempo.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_WESKERKNIFE_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Entusiasta de Armas de Fogo",
         "ACHIEVEMENT_ROB_HUNK_WESKERKNIFE_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, melhore uma arma com um novo acessorio.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_MACHETE_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Nao Preciso de Arma Nenhuma",
         "ACHIEVEMENT_ROB_HUNK_MACHETE_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, complete uma Fase sem disparar nenhuma arma.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_RE4KNIFE_ACHIEVEMENT_ID_NAME": "HUNK: A Estrada a Frente",
         "ACHIEVEMENT_ROB_HUNK_RE4KNIFE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, alcance a Fase 6.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_HOTDOGGER_ACHIEVEMENT_ID_NAME": "HUNK: Quimica Basica",
         "ACHIEVEMENT_ROB_HUNK_HOTDOGGER_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, obtenha o Lanca-Chamas Quimico.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_STUNROD_ACHIEVEMENT_ID_NAME": "HUNK: Oferta Tres por Um",
         "ACHIEVEMENT_ROB_HUNK_STUNROD_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, obtenha a Spark Shot.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_SSG_ACHIEVEMENT_ID_NAME": "HUNK: Dominador",
         "ACHIEVEMENT_ROB_HUNK_SSG_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, obtenha a SSG.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_FLAMER_ACHIEVEMENT_ID_NAME": "HUNK: Piromaniaco",
         "ACHIEVEMENT_ROB_HUNK_FLAMER_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, melhore totalmente o Lanca-Chamas Quimico.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_SURVIVALKIT_ACHIEVEMENT_ID_NAME": "HUNK: Sem Sorte Nenhuma",
         "ACHIEVEMENT_ROB_HUNK_SURVIVALKIT_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, fique sem municao no Commencement.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_JUMPPACK_ACHIEVEMENT_ID_NAME": "HUNK: Sem Lugar pra Ir Senao pra Cima",
         "ACHIEVEMENT_ROB_HUNK_JUMPPACK_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, seja vitima de um acidente de paraquedismo.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_NEMESIS_BODY_NAME": "Nemesis T-Type",
         "ROB_NEMESIS_BODY_DESCRIPTION": "O Nemesis T-Type e uma arma biologica imparavel feita para resistir a qualquer quantidade de punicao e neutralizar seus alvos com facilidade.<color=#CCD3E0>\n\n< ! > Saltos podem ser carregados para maior distancia.\n\n< ! > Consumir inimigos deixa voce vulneravel, entao encontre um lugar seguro antes de faze-lo.\n\n< ! > A Biomassa aumenta seu dano quando cheia.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_SUBTITLE": "Arma Biologica Invencivel",
         "ROB_NEMESIS_BODY_OUTRO_FLAVOR": "..e entao ele partiu, tudo bem.",
         "ROB_NEMESIS_BODY_OUTRO_FAILURE": "..e entao ele desapareceu, unidade humana agora neutralizada.",
@@ -439,31 +439,31 @@ Esse personagem foi traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_PASSIVE_NAME": "Forma de Vida Suprema",
         "ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION": "<style=cIsDamage>Causar dano</style> armazena <style=cIsHealth>Biomassa</style>, aumentando seu <style=cIsDamage>dano</style> quando cheia. Saltos podem ser <style=cIsDamage>carregados</style> para <style=cIsUtility>saltos poderosos</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_PASSIVE2_NAME": "Armamento Biologico",
         "ROB_NEMESIS_BODY_PASSIVE2_DESCRIPTION": "O Nemesis T-Type pode <style=cIsHealth>mutar</style> consumindo <style=cIsDamage>pessoas de interesse</style>, ganhando <style=cIsDamage>habilidades novas e melhoradas</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_PASSIVE22_NAME": "Aumento de Massa Muscular",
         "ROB_NEMESIS_BODY_PASSIVE22_DESCRIPTION": "<style=cIsUtility>Ataques corpo a corpo</style> causam <style=cIsDamage>20%</style> mais dano, <style=isHealth>MAS aliados podem sofrer dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_MELEE_NAME": "Agressao Brutal",
         "ROB_NEMESIS_BODY_MELEE_DESCRIPTION": "Soco para <style=cIsDamage>350% de dano</style>. Use enquanto <style=cIsUtility>parado</style> para pisotear para <style=cIsDamage>800% de dano</style>. Use enquanto <style=cIsUtility>correndo</style> para dar uma ombrada para <style=cIsDamage>600% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_GRAB_NAME": "Alcance Mortal",
         "ROB_NEMESIS_BODY_GRAB_DESCRIPTION": "Agarre um inimigo. Use o Primario para consumi-lo e curar 10% da saude maxima, ou o Secundario para carregar um arremesso de ate 2.400% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_DASH_NAME": "Investida de Risco Biologico",
         "ROB_NEMESIS_BODY_DASH_DESCRIPTION": "Use enquanto <style=cIsUtility>no ar</style> para avancar no ar <style=cIsDamage>uma vez</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
         "ROB_NEMESIS_BODY_ULTIMATE_NAME": "Massa Critica",
         "ROB_NEMESIS_BODY_ULTIMATE_DESCRIPTION": "Segure para consumir lentamente <style=cIsHealth>Biomassa</style>, restaurando ate <style=cIsHealing>100% da saude maxima</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por rob. Traduzido por: Jaosnake",
 
         "ROB_NEMESIS_ITEM_EFFECT_TITLE": "Efeito Bonus",
         "ROB_NEMESIS_ITEM_EFFECT_BANDOLIER": "Pacotes de municao restauram <style=cIsHealth>10% de Biomassa</style>.",

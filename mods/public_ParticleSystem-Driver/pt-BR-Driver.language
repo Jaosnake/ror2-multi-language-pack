@@ -3,7 +3,7 @@
         "ROB_DRIVER_BODY_NAME": "Driver",
         "ROB_DRIVER_BODY_DESCRIPTION": "O Driver é literalmente eu.<color=#CCD3E0>\n\n< ! > Inimigos têm chance de derrubar uma nova <style=cIsUtility>arma</style>. Estas concedem <style=cIsDamage>ataques poderosos</style> por tempo limitado!\n\n< ! > Use o Arsenal para alternar entre armas que você já desbloqueou.\n\n< ! > Submeter-se à escuridão para poder além da compreensão...
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SUBTITLE": "Driver? Mal o conheço!",
         "ROB_DRIVER_BODY_LORE": "De costas contra a parede e contra as probabilidades\nCom a força de uma vontade e de uma causa\nSuas buscas são chamadas de notáveis\nVocê é emocionalmente complexo\n\nContra a corrente de alegações distópicas\nNão os pensamentos que suas ações entretenem\nE você provou ser\n\n\nUm verdadeiro ser humano e um verdadeiro herói\n\n\"Então, o que você faz?\"\n\n\"Eu dirijo.\"",
         "ROB_DRIVER_BODY_OUTRO_FLAVOR": "..e então ele partiu, ainda o mesmo de quando começou.",
@@ -21,327 +21,327 @@ Esse personagem foi traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PASSIVE_NAME": "Sobrevivencialista",
         "ROB_DRIVER_BODY_PASSIVE_DESCRIPTION": "Inimigos têm chance de derrubar uma nova <style=cIsUtility>arma</style>. Estas concedem <style=cIsDamage>ataques poderosos</style> por tempo limitado!
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PASSIVE2_NAME": "Atirador (Legado)",
         "ROB_DRIVER_BODY_PASSIVE2_DESCRIPTION": "Sua <style=cIsHealth>pistola</style> de confiança é tudo que você precisa.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PASSIVE3_NAME": "Leadfoot",
         "ROB_DRIVER_BODY_PASSIVE3_DESCRIPTION": "Inimigos têm chance de derrubar <style=cIsHealth>munição</style>. Estas concedem à sua <style=cIsHealth>arma</style> <style=cIsDamage>ataques poderosos</style> por tempo limitado!
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PASSIVE4_NAME": "Godsling",
         "ROB_DRIVER_BODY_PASSIVE4_DESCRIPTION": "Eu <style=cIsHealth>dirijo</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "ROB_DRIVER_BODY_CONFIRM_NAME": "Confirmar",
         "ROB_DRIVER_BODY_CONFIRM_DESCRIPTION": "Prosseguir com a habilidade atual.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_CANCEL_NAME": "Cancelar",
         "ROB_DRIVER_BODY_CANCEL_DESCRIPTION": "Cancelar a habilidade atual.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_RELOAD_NAME": "Recarregar",
         "ROB_DRIVER_BODY_RELOAD_DESCRIPTION": "Recarregue sua arma.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "ROB_DRIVER_BODY_PRIMARY_PISTOL_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_PISTOL_DESCRIPTION": "Dispare sua pistola para 220% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_PYRITE_PISTOL_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_PYRITE_PISTOL_DESCRIPTION": "Dispare sua pistola para 250% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_BEETLESHIELD_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_BEETLESHIELD_DESCRIPTION": "Dispare sua pistola para 250% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_LUNAR_PISTOL_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_LUNAR_PISTOL_DESCRIPTION": "Dispare sua pistola para 350% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_VOID_PISTOL_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_VOID_PISTOL_DESCRIPTION": "Dispare sua pistola para 350% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_FALSE_PISTOL_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_FALSE_PISTOL_DESCRIPTION": "Dispare sua pistola para 350% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>\n<style=cIsUtility>Sem queda de dano com distância.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_GOLDENGUN_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_GOLDENGUN_DESCRIPTION": "Dispare sua pistola para 1.500% de dano. <style=cIsDamage>Sempre crítico. Ignora armadura.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_REVOLVER_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_REVOLVER_DESCRIPTION": "Dispare sua pistola para 500% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_SHOTGUN_NAME": "Explosão",
         "ROB_DRIVER_BODY_PRIMARY_SHOTGUN_DESCRIPTION": "Dispare uma explosão de curto alcance para 8x190% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_RIOT_SHOTGUN_NAME": "Rajada",
         "ROB_DRIVER_BODY_PRIMARY_RIOT_SHOTGUN_DESCRIPTION": "Dispare uma rajada <style=cIsUtility>perfurante</style> de curto alcance para 8x140% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_SLUG_SHOTGUN_NAME": "Explosão",
         "ROB_DRIVER_BODY_PRIMARY_SLUG_SHOTGUN_DESCRIPTION": "Dispare um balote de curto alcance para 900% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_BADASS_SHOTGUN_NAME": "Explosão",
         "ROB_DRIVER_BODY_PRIMARY_BADASS_SHOTGUN_DESCRIPTION": "Dispare uma explosão de curto alcance para 24x140% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_MACHINEGUN_NAME": "Rajada",
         "ROB_DRIVER_BODY_PRIMARY_MACHINEGUN_DESCRIPTION": "Dispare uma rajada rápida de tiros para 120% de dano por tiro.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_SMG_NAME": "Rajada",
         "ROB_DRIVER_BODY_PRIMARY_SMG_DESCRIPTION": "Dispare uma rajada rápida de tiros para 150% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_HEAVY_MACHINEGUN_NAME": "Rajada",
         "ROB_DRIVER_BODY_PRIMARY_HEAVY_MACHINEGUN_DESCRIPTION": "Dispare uma rajada de tiros <style=cIsUtility>perfurantes</style> para 160% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_BAZOOKA_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_BAZOOKA_DESCRIPTION": "Carregue e dispare um foguete para 600%-1.200% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_ROCKETLAUNCHER_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_ROCKETLAUNCHER_DESCRIPTION": "Dispare um foguete para 500% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_ROCKETLAUNCHER_ALT_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_ROCKETLAUNCHER_ALT_DESCRIPTION": "Dispare um foguete para 450% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_GRENADELAUNCHER_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_GRENADELAUNCHER_DESCRIPTION": "Lance uma granada para 500% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_LUNAR_GRENADELAUNCHER_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_LUNAR_GRENADELAUNCHER_DESCRIPTION": "Lance uma granada lunar para 500% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_PLASMACANNON_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_PLASMACANNON_DESCRIPTION": "Dispare uma rajada de plasma para 1.200% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_BFG_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_BFG_DESCRIPTION": "Dispare uma rajada de plasma para 1.000% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_SNIPER_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_SNIPER_DESCRIPTION": "Dispare seu rifle para 600% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_LUNARRIFLE_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_LUNARRIFLE_DESCRIPTION": "Dispare uma rajada para 600% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_VOIDRIFLE_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_VOIDRIFLE_DESCRIPTION": "Dispare uma rajada para 350% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_LUNARHAMMER_NAME": "Esmagar",
         "ROB_DRIVER_BODY_PRIMARY_LUNARHAMMER_DESCRIPTION": "Bata com seu martelo para 3.200% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_NEMMANDO_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_NEMMANDO_DESCRIPTION": "Dispare sua pistola para 240% de dano. <style=cIsDamage>Acertos críticos disparam duas vezes.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_NEMMERC_NAME": "Espirrar",
         "ROB_DRIVER_BODY_PRIMARY_NEMMERC_DESCRIPTION": "Dispare uma explosão de curto alcance para 6x150% de dano, e novamente ao soltar.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_NEMMANDO_SWORD_NAME": "Lâmina da Cessação",
         "ROB_DRIVER_BODY_PRIMARY_NEMMANDO_SWORD_DESCRIPTION": "<style=cIsDamage>Gouging</style>. <style=cIsUtility>Ágil</style>. Corte inimigos à frente para 160% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_RAV_SLASHCOMBO_NAME": "Desmantelar",
         "ROB_DRIVER_BODY_PRIMARY_RAV_SLASHCOMBO_DESCRIPTION": "Bata para frente para 280% de dano. A cada 3º golpe <style=cIsUtility>atordoa</style> e causa 560% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_ARMCANNON_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_ARMCANNON_DESCRIPTION": "Dispare uma rajada de plasma para 1.000% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_GOLEMGUN_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_GOLEMGUN_DESCRIPTION": "Dispare um raio intenso para 350% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_PRIMARY_ARTI_GAUNTLET_NAME": "Disparar",
         "ROB_DRIVER_BODY_PRIMARY_ARTI_GAUNTLET_DESCRIPTION": "Dispare uma rajada para 350% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "ROB_DRIVER_BODY_SECONDARY_FALSE_PISTOL_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_FALSE_PISTOL_DESCRIPTION": "Mire e carregue um tiro de até 900% de dano. <style=cIsUtility>Perfurante. Aumenta taxa de tiro e precisão.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_PISTOL_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_PISTOL_DESCRIPTION": "Mire e carregue um tiro de até 500% de dano. <style=cIsUtility>Aumenta taxa de tiro e precisão.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_PYRITE_PISTOL_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_PYRITE_PISTOL_DESCRIPTION": "Mire e carregue um tiro de até 500% de dano. <style=cIsUtility>Aumenta taxa de tiro e precisão.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_LUNAR_PISTOL_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_LUNAR_PISTOL_DESCRIPTION": "Mire e carregue um tiro de até 700% de dano. <style=cIsUtility>Aumenta taxa de tiro e precisão.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_VOID_PISTOL_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_VOID_PISTOL_DESCRIPTION": "Mire e carregue um tiro de até 700% de dano. <style=cIsUtility>Aumenta taxa de tiro e precisão.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_BEETLESHIELD_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_BEETLESHIELD_DESCRIPTION": "Mire e carregue um tiro de até 500% de dano. <style=cIsUtility>Aumenta taxa de tiro, precisão e armadura.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_BASH_NAME": "Batida",
         "ROB_DRIVER_BODY_SECONDARY_BASH_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Atordoe e empurre inimigos próximos para 250% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_SMG_NAME": "Tiro Perfurante",
         "ROB_DRIVER_BODY_SECONDARY_SMG_DESCRIPTION": "Dispare um laser perfurante para 600% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_MACHINEGUN_NAME": "Zape",
         "ROB_DRIVER_BODY_SECONDARY_MACHINEGUN_DESCRIPTION": "<style=cIsDamage>Chocante.</style> Dispare um laser rápido para 380% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_HEAVY_MACHINEGUN_NAME": "Granada",
         "ROB_DRIVER_BODY_SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION": "Lance uma granada que <style=cIsUtility>atordoa</style> inimigos para 800% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_ROCKETLAUNCHER_NAME": "Tempestade",
         "ROB_DRIVER_BODY_SECONDARY_ROCKETLAUNCHER_DESCRIPTION": "Dispare uma barragem rápida de foguetes para 300% de dano cada.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_ROCKETLAUNCHER_ALT_NAME": "Tempestade",
         "ROB_DRIVER_BODY_SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION": "Dispare uma barragem rápida de foguetes para 250% de dano cada.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_PLASMACANNON_NAME": "Aniquilação",
         "ROB_DRIVER_BODY_SECONDARY_PLASMACANNON_DESCRIPTION": "Dispare uma barragem de rajadas de plasma para 1.000% de dano cada.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_SNIPER_NAME": "Foco",
         "ROB_DRIVER_BODY_SECONDARY_SNIPER_DESCRIPTION": "Mire pela sua luneta, <style=cIsDamage>expondo pontos fracos</style> e dispare um tiro devastador para 600% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_BANDITREVOLVER_NAME": "Luzes Apagadas",
         "ROB_DRIVER_BODY_SECONDARY_BANDITREVOLVER_DESCRIPTION": "Mire e dispare um tiro devastador para 1.500% de dano. <style=cIsHealth>Resfria recargas e munição ao abater, mas consome a arma.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_GOLDENGUN_NAME": "Desperado",
         "ROB_DRIVER_BODY_SECONDARY_GOLDENGUN_DESCRIPTION": "Mire e dispare um tiro devastador para 1.500% de dano. <style=cIsHealth>Consome a arma ao usar.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_LUNARHAMMER_NAME": "Fragmentos",
         "ROB_DRIVER_BODY_SECONDARY_LUNARHAMMER_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma salva de fragmentos lunares, causando 180% de dano cada.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_MANDO_SMG_NAME": "Fogo Supressivo",
         "ROB_DRIVER_BODY_SECONDARY_MANDO_SMG_DESCRIPTION": "<style=cIsDamage>Atordoante.</style> Dispare repetidamente para 6x250% de dano. O número de tiros aumenta com a velocidade de ataque.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_NEMMANDO_NAME": "Submissão",
         "ROB_DRIVER_BODY_SECONDARY_NEMMANDO_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Dispare repetidamente para 6x250% de dano por tiro. O número de tiros aumenta com a velocidade de ataque.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_NEMMERC_NAME": "Batida",
         "ROB_DRIVER_BODY_SECONDARY_NEMMERC_DESCRIPTION": "<style=cIsDamage>Atordoe</style> e <style=cIsUtility>empurre</style> inimigos próximos para 250% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_RAV_PUNCH_NAME": "Socar",
         "ROB_DRIVER_BODY_SECONDARY_RAV_PUNCH_DESCRIPTION": "Avance e <style=cIsUtility>socue</style>, causando 400% de dano com uma <style=cIsUtility>onda de choque</style> que causa o mesmo dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SECONDARY_ARTI_GAUNTLET_NAME": "Nano-Bomba",
         "ROB_DRIVER_BODY_SECONDARY_ARTI_GAUNTLET_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Carregue uma nanobomba explosiva que causa 600%-2.000% de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "ROB_DRIVER_BODY_UTILITY_SLIDE_NAME": "Deslize de Combate",
         "ROB_DRIVER_BODY_UTILITY_SLIDE_DESCRIPTION": "<style=cIsUtility>Deslize</style> no chão por uma curta distância. Você pode <style=cIsDamage>atirar enquanto desliza.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_UTILITY_DASH_NAME": "Desvio",
         "ROB_DRIVER_BODY_UTILITY_DASH_DESCRIPTION": "<style=cIsUtility>Avance</style> uma curta distância. Você pode <style=cIsUtility>ter até 2 cargas.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_UTILITY_SKATEBOARD_NAME": "Skate",
         "ROB_DRIVER_BODY_UTILITY_SKATEBOARD_DESCRIPTION": "Ande de <style=cIsUtility>skate</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_UTILITY_SKATEBOARD2_DESCRIPTION": "Desça do <style=cIsUtility>skate</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "ROB_DRIVER_BODY_SPECIAL_GRENADE_NAME": "Flashbang",
         "ROB_DRIVER_BODY_SPECIAL_GRENADE_DESCRIPTION": "Lance uma granada que <style=cIsUtility>atordoa</style> inimigos para 500% de dano. <style=cIsUtility>Inimigos atordoados miram em direções aleatórias por 10 segundos.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_GRENADE_SCEPTER_NAME": "Coquetel Molotov",
         "ROB_DRIVER_BODY_SPECIAL_GRENADE_SCEPTER_DESCRIPTION": "Lance uma granada que <style=cIsUtility>atordoa</style> inimigos para 500% de dano. <style=cIsUtility>Inimigos atordoados miram em direções aleatórias por 10 segundos.</style>\n<style=cIsUtility>Cetro: Lance um coquetel molotov que explode em chamas.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_NAME": "Suprimento Aéreo",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_DESCRIPTION": "Chame uma maleta contendo uma <color=#00FF66>arma aleatória</color>. <style=cIsHealth>A arma vem com apenas metade da munição.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_LEGACY_NAME": "Suprimento Aéreo (Legado)",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_LEGACY_DESCRIPTION": "Chame uma maleta contendo um <color=#FFFF00>Lança-Foguetes Protótipo</color>. <style=cIsUtility>Você só pode pedir um por estágio.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_SCEPTER_NAME": "Chamado do Vazio",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_SCEPTER_DESCRIPTION": "Chame uma maleta contendo uma <color=#00FF66>arma aleatória</color>. <style=cIsHealth>A arma vem com apenas metade da munição.</style>\n<style=cIsUtility>Cetro: Invoque uma arma do vazio.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_LEGACY_SCEPTER_NAME": "Chamado do Vazio",
         "ROB_DRIVER_BODY_SPECIAL_SUPPLY_DROP_LEGACY_SCEPTER_DESCRIPTION": "Chame uma maleta contendo um <color=#FFFF00>Lança-Foguetes Protótipo</color>.\n<style=cIsUtility>Cetro: Invoque uma arma do vazio.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_HEAL_NAME": "Autocuidado",
         "ROB_DRIVER_BODY_SPECIAL_HEAL_DESCRIPTION": "Puxe um <style=cIsUtility>Medkit</style> e cure-se gradualmente até a vida máxima.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_KNIFE_NAME": "Faca de Combate",
         "ROB_DRIVER_BODY_SPECIAL_KNIFE_DESCRIPTION": "Corte inimigos próximos com uma lâmina serrilhada, causando 470% de dano e <style=cIsHealth>ferindo</style> eles, <style=cIsDamage>reduzindo armadura</style> por <style=cIsUtility>4 segundos</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_KNIFE_SCEPTER_NAME": "Faca de Combate (Cetro)",
         "ROB_DRIVER_BODY_SPECIAL_KNIFE_SCEPTER_DESCRIPTION": "Corte inimigos próximos com uma lâmina serrilhada, causando 470% de dano e <style=cIsHealth>ferindo</style> eles, <style=cIsDamage>reduzindo armadura</style> por <style=cIsUtility>4 segundos</style>.\n<style=cIsUtility>Cetro: Recarga reduzida pela metade e carga extra.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGE_NAME": "Seringa Experimental",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGE_DESCRIPTION": "Injete-se com uma <style=cIsUtility>seringa</style>, concedendo <style=cIsDamage>velocidade de ataque</style>, <style=cIsUtility>velocidade de movimento</style> e <style=cIsHealing>regeneração de vida</style> extras pelos próximos <style=cIsUtility>6 segundos</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGE_SCEPTER_NAME": "Seringa Aperfeiçoada",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGE_SCEPTER_DESCRIPTION": "Injete-se com uma <style=cIsUtility>seringa</style>, concedendo <style=cIsDamage>velocidade de ataque</style> e <style=cIsHealing>regeneração de vida</style> extras pelos próximos <style=cIsUtility>6 segundos</style>.\n<style=cIsUtility>Cetro: Aumenta dano e chance crítica e fortalece os buffs.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGELEGACY_NAME": "Seringa Suspeita (Legado)",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGELEGACY_DESCRIPTION": "Injete-se com uma <style=cIsUtility>seringa</style>, concedendo um <style=cIsDamage>buff ofensivo aleatório</style> pelos próximos <style=cIsUtility>6 segundos</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGELEGACY_SCEPTER_NAME": "Seringa Aperfeiçoada (Legado)",
         "ROB_DRIVER_BODY_SPECIAL_SYRINGELEGACY_SCEPTER_DESCRIPTION": "Injete-se com uma <style=cIsUtility>seringa</style>, concedendo um <style=cIsDamage>buff ofensivo aleatório</style> pelos próximos <style=cIsUtility>6 segundos</style>.\n<style=cIsUtility>Cetro: Aplica todos os três buffs de uma vez.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ROB_DRIVER_BODY_SPECIAL_DRIVERCOIN_NAME": "Pague Adiante",
         "ROB_DRIVER_BODY_SPECIAL_DRIVERCOIN_DESCRIPTION": "Jogue uma <style=cIsUtility>moeda</style> que pode ser atingida para multiplicar o <style=cIsDamage>dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "ROB_DRIVER_PISTOL_NAME": "Pistola",
         "ROB_DRIVER_PISTOL_DESC": "Uma pistola confiável que não se destaca em nada.",
@@ -423,31 +423,31 @@ Esse personagem foi traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Um Herói de Verdade",
         "ACHIEVEMENT_ROB_DRIVER_BODY_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Chegue ao estágio 3 em menos de 15 minutos.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Maestria",
         "ACHIEVEMENT_ROB_DRIVER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Driver, vença o jogo ou se obliterate em Monsoon.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Grande Maestria",
         "ACHIEVEMENT_ROB_DRIVER_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Driver, vença o jogo ou se obliterate em Typhoon, ou vença no Eclipse 8.\n<color=#8888>(Conta qualquer dificuldade Typhoon ou superior)</color>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_SUPPLY_DROP_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Carregado e Pronto",
         "ACHIEVEMENT_ROB_DRIVER_BODY_SUPPLY_DROP_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Driver, complete um evento de teleporter sem deixar nenhum malote desaparecer.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_PISTOLPASSIVE_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Assassino Profissional",
         "ACHIEVEMENT_ROB_DRIVER_BODY_PISTOLPASSIVE_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Driver, complete um evento de teleporter sem pegar nenhuma arma.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_GODSLING_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Ryan Godsling",
         "ACHIEVEMENT_ROB_DRIVER_BODY_GODSLING_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Driver, vença o jogo ou se obliterate em Monsoon ou superior sem pegar armas ou munição.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_DRIVER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "Driver: Mortalmente Elegante",
         "ACHIEVEMENT_ROB_DRIVER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Driver, dê o golpe final em um chefe com um Rifle de Precisão.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
 
         "UNLOCKABLE_ROB_DRIVER_WEAPON_NAME": "Arma Desbloqueada",
         "UNLOCKABLE_ROB_DRIVER_WEAPON_DESC": "Esta arma agora pode ser selecionada a qualquer momento no Arsenal do Driver.",

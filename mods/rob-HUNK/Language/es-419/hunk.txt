@@ -17,41 +17,41 @@ ROB_HUNK_BODY_JACKET_SKIN_NAME: Chaqueta
 ROB_HUNK_BODY_TOFU_SKIN_NAME: Tofu
 ROB_HUNK_BODY_SUPER_SKIN_NAME: Super
 SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la M19 para <style=cIsDamage>500% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la M19 para <style=cIsDamage>500% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la Broom HC para <style=cIsDamage>180% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la Broom HC para <style=cIsDamage>180% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_REVOLVER_NAME: Revólver
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un revólver para <style=cIsDamage>1.200% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un revólver para <style=cIsDamage>1.200% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_MAGNUM_NAME: Magnum
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una magnum para <style=cIsDamage>1.500% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una magnum para <style=cIsDamage>1.500% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SHOTGUN_NAME: Escopeta
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una escopeta para <style=cIsDamage>14x150% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una escopeta para <style=cIsDamage>14x150% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la SSG para <style=cIsDamage>16x200% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la SSG para <style=cIsDamage>16x200% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la Slugger para <style=cIsDamage>3.000% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la Slugger para <style=cIsDamage>3.000% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_AR_NAME: Fusil de Asalto
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un fusil para <style=cIsDamage>385% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un fusil para <style=cIsDamage>385% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un Spark Shot para <style=cIsDamage>1.000% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un Spark Shot para <style=cIsDamage>1.000% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_GOLDGUN_NAME: Arma Dorada
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un arma dorada para <style=cIsDamage>99.999% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un arma dorada para <style=cIsDamage>99.999% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_ATM_NAME: Lanzador ATM
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un cohete para <style=cIsDamage>8.000% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un cohete para <style=cIsDamage>8.000% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SHOOT_GRENADELAUNCHER_NAME: Lanzagranadas
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una granada para <style=cIsDamage>3.200% de daño</style>. <i>Translated by: Jaosnake</i>
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una granada para <style=cIsDamage>3.200% de daño</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Saque.</style> <style=cIsDamage>Golpea</style> combatientes cuerpo a cuerpo para <style=cIsDamage>200% y 250% de daño</style>, infligiendo <style=cIsHealth>Mutilar</style>. <i>Translated by: Jaosnake</i>
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Saque.</style> <style=cIsDamage>Golpea</style> combatientes cuerpo a cuerpo para <style=cIsDamage>200% y 250% de daño</style>, infligiendo <style=cIsHealth>Mutilar</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SECONDARY_AIM_NAME: Apuntar Firme
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Apunta</style> para mejorar la precisión de tu arma actual. <i>Translated by: Jaosnake</i>
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Apunta</style> para mejorar la precisión de tu arma actual. <i>Translated by: Jaosnake. Original mod by rob</i>
 UTILITY_PARRY_NAME: Aparición
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Aparece</style> para desviar ataques. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>. <i>Translated by: Jaosnake</i>
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Aparece</style> para desviar ataques. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 UTILITY_DODGE_NAME: Desliz
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Deslízate</style> una corta distancia. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>. <i>Translated by: Jaosnake</i>
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Deslízate</style> una corta distancia. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 UTILITY_BASH_NAME: Deflexión
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflecte</style> a enemigos cercanos, <style=cIsUtility>aturdíéndolos</style> para <style=cIsDamage>400% de daño</style>. Si se usa preventivamente para <style=cIsUtility>cancelar un ataque</style>, realiza una <style=cIsDamage>Deflexión Perfecta</style>. <i>Translated by: Jaosnake</i>
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflecte</style> a enemigos cercanos, <style=cIsUtility>aturdíéndolos</style> para <style=cIsDamage>400% de daño</style>. Si se usa preventivamente para <style=cIsUtility>cancelar un ataque</style>, realiza una <style=cIsDamage>Deflexión Perfecta</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
 SPECIAL_SWAP_NAME: Legion
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Cambia</style> tu arma actual. <i>Translated by: Jaosnake</i>
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Cambia</style> tu arma actual. <i>Translated by: Jaosnake. Original mod by rob</i>
 ROB_HUNK_KEYWORD_MANGLED: Mutilar
 ROB_HUNK_KEYWORD_COUNTERATTACK: Contraataque
 ROB_HUNK_KEYWORD_PERFECTDODGE: Esquiva Perfecta
@@ -95,7 +95,7 @@ ROB_NEMESIS_BODY_NAME: Nemesis
 ROB_NEMESIS_BODY_SUBTITLE: El Perseguidor
 ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Predeterminado
 ROB_NEMESIS_BODY_PASSIVE_NAME: Persecución Implacable
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Causa <style=cIsDamage>{0}% de daño</style> adicional a enemigos marcados. <i>Translated by: Jaosnake</i>
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Causa <style=cIsDamage>{0}% de daño</style> adicional a enemigos marcados. <i>Translated by: Jaosnake. Original mod by rob</i>
 ROB_NEMESIS_BODY_GRAB_NAME: Agarrar
 ROB_ARTIFACT_STRIKETEAM_NAME: Artefacto del Escuadrón
 ROB_ARTIFACT_PURSUER_NAME: Artefacto del Perseguidor

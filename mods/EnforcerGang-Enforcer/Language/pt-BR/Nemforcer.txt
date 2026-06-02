@@ -1,89 +1,89 @@
-﻿{
+{
     strings:
     {
-    "NEMFORCER_NAME" : "Enforcer N�mesis",
-    "NEMFORCER_DESCRIPTION" : "Enforcer N�mesis � a encarna��o de valor e for�a, uma for�a sobrenatural que n�o deve ser subestimada.<color=#CCD3E0>\n\n< ! > Martelo Dourado pode atingir v�rios inimigos de uma vez.\n\n< ! > Use Domin�ncia de bem alto para realizar um impacto devastador.\n\n< ! > Movimentar-se de forma inteligente com sua Metralhadora Dourada � a chave para aniquilar poderosos chefes.\n\n< ! > Escudos s�o para ot�rios.\n\n
+    "NEMFORCER_NAME" : "Enforcer N?mesis",
+    "NEMFORCER_DESCRIPTION" : "Enforcer N?mesis ? a encarna??o de valor e for?a, uma for?a sobrenatural que n?o deve ser subestimada.<color=#CCD3E0>\n\n< ! > Martelo Dourado pode atingir v?rios inimigos de uma vez.\n\n< ! > Use Domin?ncia de bem alto para realizar um impacto devastador.\n\n< ! > Movimentar-se de forma inteligente com sua Metralhadora Dourada ? a chave para aniquilar poderosos chefes.\n\n< ! > Escudos s?o para ot?rios.\n\n
 
-Esse personagem foi traduzido por: Jaosnake",
-    "NEMFORCER_SUBTITLE" : "Sombra Incorrupt�vel",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "NEMFORCER_SUBTITLE" : "Sombra Incorrupt?vel",
     "NEMFORCER_LORE" : "\nheavy tf2\n\n",
-    "NEMFORCER_OUTRO_FLAVOR" : "... e assim ele se foi, com uma for�a rec�m-descoberta para honrar.",
-    "NEMFORCER_OUTRO_FAILURE" : "... e assim ele retornou, basti�o infal�vel verdadeiramente imortalizado.",
-    "NEMFORCER_BOSS_NAME" : "Ultra Enforcer N�mesis",
+    "NEMFORCER_OUTRO_FLAVOR" : "... e assim ele se foi, com uma for?a rec?m-descoberta para honrar.",
+    "NEMFORCER_OUTRO_FAILURE" : "... e assim ele retornou, basti?o infal?vel verdadeiramente imortalizado.",
+    "NEMFORCER_BOSS_NAME" : "Ultra Enforcer N?mesis",
     "NEMFORCER_BOSS_SUBTITLE" : "Fim da Linha",
     "DEDEDE_NAME" : "Rei Dedede",
     "DEDEDE_BOSS_SUBTITLE" : "Rei de Dreamland",
-    "ENFORCER_EVENT_NEMFORCERBOSS_START" : "Uma for�a n�o natural emana no vazio... </style>",
-    "ENFORCER_EVENT_NEMFORCERBOSS_END" : "A influ�ncia do vazio se esvai...</style>",
+    "ENFORCER_EVENT_NEMFORCERBOSS_START" : "Uma for?a n?o natural emana no vazio... </style>",
+    "ENFORCER_EVENT_NEMFORCERBOSS_END" : "A influ?ncia do vazio se esvai...</style>",
     "NEMFORCER_PASSIVE_NAME" : "Colosso",
-    "NEMFORCER_PASSIVE_DESCRIPTION" : "Enforcer N�mesis ganha <style=cIsHealing>regenera��o de sa�de b�nus</style>, baseado em sua <style=cIsHealth>sa�de perdida</style>, at� <style=cIsHealth>2.5% de sa�de m�xima</style>.
+    "NEMFORCER_PASSIVE_DESCRIPTION" : "Enforcer N?mesis ganha <style=cIsHealing>regenera??o de sa?de b?nus</style>, baseado em sua <style=cIsHealth>sa?de perdida</style>, at? <style=cIsHealth>2.5% de sa?de m?xima</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "NEMFORCER_PASSIVE_REWORK_DESCRIPTION" : "Enforcer N�mesis regenera <style=cIsHealing>2%</style> de sua <style=cIsHealing>sa�de m�xima</style> ao longo de 3s ao acertar inimigos com <style=cIsDamage>ataques corpo a corpo</style>.
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "NEMFORCER_PASSIVE_REWORK_DESCRIPTION" : "Enforcer N?mesis regenera <style=cIsHealing>2%</style> de sua <style=cIsHealing>sa?de m?xima</style> ao longo de 3s ao acertar inimigos com <style=cIsDamage>ataques corpo a corpo</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "NEMFORCER_PRIMARY_HAMMER_NAME" : "Martelo Dourado",
     "NEMFORCER_PRIMARY_HAMMER_DESCRIPTION" : "Balance seu martelo para causar <style=cIsDamage>500%</style> de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "NEMFORCER_PRIMARY_THROWHAMMER_NAME" : "Martelo de Arremesso",
     "NEMFORCER_PRIMARY_THROWHAMMER_DESCRIPTION" : "Arremesse seu martelo para causar <style=cIsDamage>620%</style> de dano.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "NEMFORCER_PRIMARY_MINIGUN_NAME" : "Metralhadora Dourada",
     "NEMFORCER_PRIMARY_MINIGUN_DESCRIPTION" : "Gire e dispare uma rajada de balas causando <style=cIsDamage>65% de dano</style> por bala. <style=cIsUtility>Desacelera seu movimento enquanto dispara.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "KEYWORD_SLAM" : "<style=cKeywordName>Golpe Descendente</style><style=cIsDamage>Atordoante.</style> <style=cIsHealth>Desce violentamente</style> com seu martelo, causando <style=cIsDamage>300%-2.500% de dano</style> e infligindo um adicional de <style=cIsDamage>30%</style> desse valor no impacto. <style=cIsUtility>O raio do impacto aumenta com a velocidade.</style>",
-    "NEMFORCER_SECONDARY_BASH_NAME" : "Domin�ncia",
-    "NEMFORCER_SECONDARY_BASH_DESCRIPTION" : "<style=cIsUtility>Carregue</style>, e ent�o avance e libere um <style=cIsDamage>gancho ascendente</style> causando <style=cIsDamage>450%-2.500% de dano</style>. Use enquanto <style=cIsUtility>estiver caindo e olhando para baixo</style> para realizar um <style=cIsUtility>Golpe Descendente</style> em vez disso.
+    "NEMFORCER_SECONDARY_BASH_NAME" : "Domin?ncia",
+    "NEMFORCER_SECONDARY_BASH_DESCRIPTION" : "<style=cIsUtility>Carregue</style>, e ent?o avance e libere um <style=cIsDamage>gancho ascendente</style> causando <style=cIsDamage>450%-2.500% de dano</style>. Use enquanto <style=cIsUtility>estiver caindo e olhando para baixo</style> para realizar um <style=cIsUtility>Golpe Descendente</style> em vez disso.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "NEMFORCER_SECONDARY_SLAM_NAME" : "Domin�ncia (Metralhadora)",
-    "NEMFORCER_SECONDARY_SLAM_DESCRIPTION" : "<style=cIsDamage>Atordoante.</style> Enquanto estiver na postura da metralhadora, <style=cIsHealth>des�a</style> violentamente com seu martelo, causando <style=cIsDamage>600% de dano</style> e <style=cIsDamage>empurrando</style> todos os inimigos atingidos. <style=cIsUtility>Explode proj�teis.</style>
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "NEMFORCER_SECONDARY_SLAM_NAME" : "Domin?ncia (Metralhadora)",
+    "NEMFORCER_SECONDARY_SLAM_DESCRIPTION" : "<style=cIsDamage>Atordoante.</style> Enquanto estiver na postura da metralhadora, <style=cIsHealth>des?a</style> violentamente com seu martelo, causando <style=cIsDamage>600% de dano</style> e <style=cIsDamage>empurrando</style> todos os inimigos atingidos. <style=cIsUtility>Explode proj?teis.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "NEMFORCER_UTILITY_GAS_NAME" : "Granada XM47",
-    "NEMFORCER_UTILITY_GAS_DESCRIPTION" : "Arremesse uma granada que explode em uma nuvem de <style=cIsUtility>g�s corrosivo</style> que <style=cIsUtility>desacelera</style> e causa <style=cIsDamage>200% de dano por segundo</style> e dura <style=cIsDamage>16 segundos</style>.
+    "NEMFORCER_UTILITY_GAS_DESCRIPTION" : "Arremesse uma granada que explode em uma nuvem de <style=cIsUtility>g?s corrosivo</style> que <style=cIsUtility>desacelera</style> e causa <style=cIsDamage>200% de dano por segundo</style> e dura <style=cIsDamage>16 segundos</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "NEMFORCER_UTILITY_JUMP_NAME" : "Super Pulo do Dedede",
-    "NEMFORCER_UTILITY_JUMP_DESCRIPTION" : "Salte no ar e, em seguida, des�a com for�a causando <style=cIsDamage>3.200% de dano</style>. <style=cIsUtility>Causa dano reduzido em alvos fora do centro do impacto.</style>
+    "NEMFORCER_UTILITY_JUMP_DESCRIPTION" : "Salte no ar e, em seguida, des?a com for?a causando <style=cIsDamage>3.200% de dano</style>. <style=cIsUtility>Causa dano reduzido em alvos fora do centro do impacto.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
-    "KEYWORD_GRAPPLE" : "<style=cKeywordName>Agarramento</style><style=cSub>Aplica <style=cIsDamage>atordoamento</style> e tenta <style=cIsUtility>agarrar</style> um inimigo pr�ximo.",
-    "NEMFORCER_UTILITY_CRASH_NAME" : "Colis�o de Calor",
-    "NEMFORCER_UTILITY_CRASH_DESCRIPTION" : "<style=cIsUtility>Agarramento.</style> Salte no ar e, em seguida, des�a com for�a causando <style=cIsDamage>2.400% de dano</style>. <style=cIsUtility>Causa dano reduzido em alvos fora do centro do impacto.</style>
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "KEYWORD_GRAPPLE" : "<style=cKeywordName>Agarramento</style><style=cSub>Aplica <style=cIsDamage>atordoamento</style> e tenta <style=cIsUtility>agarrar</style> um inimigo pr?ximo.",
+    "NEMFORCER_UTILITY_CRASH_NAME" : "Colis?o de Calor",
+    "NEMFORCER_UTILITY_CRASH_DESCRIPTION" : "<style=cIsUtility>Agarramento.</style> Salte no ar e, em seguida, des?a com for?a causando <style=cIsDamage>2.400% de dano</style>. <style=cIsUtility>Causa dano reduzido em alvos fora do centro do impacto.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
-    "NEMFORCER_SPECIAL_MINIGUNUP_NAME" : "Postura de Supress�o",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "NEMFORCER_SPECIAL_MINIGUNUP_NAME" : "Postura de Supress?o",
     "NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION" : "Assuma uma postura ofensiva, <style=cIsDamage>preparando sua metralhadora</style>. <style=cIsHealth>Impossibilita corrida</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "NEMFORCERBODY_DEFAULT_SKIN_NAME" : "N�mesis",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "NEMFORCERBODY_DEFAULT_SKIN_NAME" : "N?mesis",
     "NEMFORCERBODY_ENFORCER_SKIN_NAME" : "Enforcer",
-    "NEMFORCERBODY_CLASSIC_SKIN_NAME" : "Cl�ssico",
-    "NEMFORCERBODY_TYPHOON_SKIN_NAME" : "Campe�o",
+    "NEMFORCERBODY_CLASSIC_SKIN_NAME" : "Cl?ssico",
+    "NEMFORCERBODY_TYPHOON_SKIN_NAME" : "Campe?o",
     "NEMFORCERBODY_DRIP_SKIN_NAME" : "ExecuStyle",
     "NEMFORCERBODY_DEDEDE_SKIN_NAME" : "Rei Dedede",
     "NEMFORCERBODY_MINECRAFT_SKIN_NAME" : "Minecraft",
     "NEMFORCERBODY_FEM_SKIN_NAME" : "Spiked",
     "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "???",
-    "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer N�mesis, em Mon��o ou superior, estabilize os Campos Astrais e derrote o Vest�gio do Enforcer.
+    "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer N?mesis, em Mon??o ou superior, estabilize os Campos Astrais e derrote o Vest?gio do Enforcer.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Enforcer N�mesis: Dom�nio",
-    "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer N�mesis, ven�a o jogo ou aniquile em Mon��o.
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Enforcer N?mesis: Dom?nio",
+    "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer N?mesis, ven?a o jogo ou aniquile em Mon??o.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Enforcer N�mesis: Grande Dom�nio",
-    "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer N�mesis, ven�a o jogo ou aniquile em Tuf�o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf�o ou acima)</color>
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Enforcer N?mesis: Grande Dom?nio",
+    "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer N?mesis, ven?a o jogo ou aniquile em Tuf?o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf?o ou acima)</color>
 
-Esse personagem foi traduzido por: Jaosnake",
-    "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer N�mesis: Demoli��o",
-    "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer N�mesis, destrua 5 proj�teis de uma vez com Domin�ncia.
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
+    "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer N?mesis: Demoli??o",
+    "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer N?mesis, destrua 5 proj?teis de uma vez com Domin?ncia.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por EnforcerGang. Traduzido por: Jaosnake",
     "NEMFORCER_PROC_UPPERCUT" : "Gancho Ascendente",
     "NEMFORCER_PROC_SLAM" : "Impacto",
     "NEMFORCER_PROC_JAM" : "Batida",

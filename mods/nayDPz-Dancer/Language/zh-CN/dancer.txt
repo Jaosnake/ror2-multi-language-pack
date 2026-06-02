@@ -1,5 +1,5 @@
 NDP_DANCER_BODY_PASSIVE_NAME: 限制胶带
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: 带有胶带的敌人每秒流血50%伤害，且无法行动。 <i>Translated by: Jaosnake</i>
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: 带有胶带的敌人每秒流血50%伤害，且无法行动。 <i>Translated by: Jaosnake. Original mod by nayDPz</i>
 PRIMARY_SLASH_NAME: 斩击
 PRIMARY_SLASH_DESCRIPTION: 基于你的瞄准产生不同效果的近战攻击。（悬停查看详情）
 PRIMARY_SLASH2_NAME: 切割

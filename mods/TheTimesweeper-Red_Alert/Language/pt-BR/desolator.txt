@@ -1,66 +1,66 @@
-﻿{
+{
     strings:
     {
     "HABIBI_DESOLATOR_BODY_NAME" : "Desolador",
-    "HABIBI_DESOLATOR_BODY_DESCRIPTION" : "O Desolador � um po�o de radia��o ambulante.<color=#CCD3E0>\n\n< ! > Canh�o de Radia��o aplica tr�s ac�mulos de Radia��o, auxiliando outras habilidades a causarem mais dano.\n\n< ! > Terra Desolada causa muito dano, e acumula v�rios ac�mulos de Radia��o tamb�m.\n\n< ! > Utilize a velocidade de movimento do Reator para sair de qualquer enrascada, mas voc� pode tamb�m usar suas propriedades enfraquecedoras para causar um dano extra.\n\n< ! > Espalhar a Ru�na te deixa vulner�vel a ataques, mas quanto mais tempo voc� ficar implantado maior ser� a radia��o e dano causados.\n\n< ! > A chave para causar mais dano � acumular Radia��o nos inimigos para potencializar o dano das suas habilidades.\n\n
+    "HABIBI_DESOLATOR_BODY_DESCRIPTION" : "O Desolador ? um po?o de radia??o ambulante.<color=#CCD3E0>\n\n< ! > Canh?o de Radia??o aplica tr?s ac?mulos de Radia??o, auxiliando outras habilidades a causarem mais dano.\n\n< ! > Terra Desolada causa muito dano, e acumula v?rios ac?mulos de Radia??o tamb?m.\n\n< ! > Utilize a velocidade de movimento do Reator para sair de qualquer enrascada, mas voc? pode tamb?m usar suas propriedades enfraquecedoras para causar um dano extra.\n\n< ! > Espalhar a Ru?na te deixa vulner?vel a ataques, mas quanto mais tempo voc? ficar implantado maior ser? a radia??o e dano causados.\n\n< ! > A chave para causar mais dano ? acumular Radia??o nos inimigos para potencializar o dano das suas habilidades.\n\n
 
-Esse personagem foi traduzido por: Jaosnake",
-    "HABIBI_DESOLATOR_BODY_SUBTITLE" : "A� Vem o Sol",
-    "HABIBI_DESOLATOR_BODY_LORE" : "<i>Em colabora��o com [CONFIDENCIAL], o Minist�rio da Informa��o apresenta...</i>\n<i>DESOLADOR: O HER�I REVOLUCION�RIO CONTRA A TIRANIA!</i>\n\nO filme vive falhando, sua idade se mostra como ferrugem em metal, mas ele continua rodando na fita de qualquer maneira. Ele � reproduzido em um bunker esfarrapado no qual a porta blindada est� soldada e alinhada com todos os objetos dispon�veis no quarto; livros, cadeiras, a cama. Sozinho, um homem nervoso assiste.\n\n<i>DESOLADOR, um pobre jovem inocente das favelas que cresceu com nada mais al�m do �DIO do governo tir�nico! Buscou uma maneira de libertar si mesmo e seus camaradas dos b�rbaros!\nEle mesmo organizou nossa GLORIOSA REVOLU��O! Lutou lado a lado com os homens na linha de frente para garantir que nenhuma batalha fosse perdida!\nMas eventualmente, ele foi GRAVEMENTE FERIDO e, usando o poder da tecnol�gica experimental roubada de nossos OPRESSORES, ele foi RECONSTRU�DO no her�i que conhecemos hoje!</i>\n\nO bunker treme, enquanto sua �nica ilumina��o balan�a para frente e para tr�s em resposta. Seu passado o alcan�ou, cujo trabalho viria assombr�-lo.\nNingu�m conhece a verdade sobre suas a��es; seu trabalho era encobri-las.  Mas tal trabalho exigia uma tenacidade mental para suportar a pintura sobre os fatos.\nGritos podiam ser ouvidos do lado de fora do bunker, apenas para se afogarem no que soava como lodo.\n\n<i>DESOLADOR retornou ao fronte de batalha! Resgatando todos os seus companheiros compatriotas-</i>\n\"Eles foram massacrados.\"\n<i>para que n�o carregassem o mesmo fardo que ele!-</i>\n\"Voc� imp�s a nossos irm�os de armas tanto sofrimento quanto imp�s ao inimigo.\"\n<i>DESOLADOR E SEUS CAMARADAS REVOLUCION�RIOS SALVARAM NOSSO PLANETA, O QUAL ELE CONSTRUIU A SOCIEDADE QUE TEMOS HOJE!</i>\n\"Tudo o que voc� deixou foi um rio vermelho de corpos por uma causa na qual voc� n�o acreditava, o salvador da revolu��o tinha a desculpa perfeita.\"\n\nMas antes que ele pudesse continuar assistindo � fita, o homem aflito sentiu sua pele arrepiar e o suor se acumular. Ele estava aqui.\nAntes que outro pensamento pudesse ser processado, a porta brilhou em um verde iridiscente e come�ou a derreter. Parafusos que seguravam a porta, que poderiam resistir a uma queda nuclear, derreteram como manteiga em uma faca quente. As barricadas remanescentes foram liquidadas pelo ch�o, peda�os de metal e m�veis; queimando, derretidos em uma po�a de radia��o. � ele, �-\n\n<i>DESOLADOR!</i>\n\nO filme toca solenemente, antes de falhar e se dissolver como a porta antes dele.\nAntes que palavras pudessem ser trocadas, a carne derretida do homem moribundo come�ou a se dividir e escorregar de seu corpo,  semelhante a carne cozida lentamente. Seus olhos ficaram turvos, dando uma �ltima olhada para a presen�a radioativa, enquanto pronunciava as �ltimas palavras que o homem ouviria.\n\n\"Shh, o fim est� pr�ximo.\"\n\nO c�rebro se agitando, m�sculos gotejando para revelar o esqueleto por baixo, � medida que a estrutura at�mica do esqueleto come�ou a se liquefazer. Logo, a sala por si s� se tornou inst�vel; as �ltimas coisas a sairem foram os passos pesados de botas de a�o e a respira��o pesada. Sua respira��o era a �nica coisa humana nele.",
-    "HABIBI_DESOLATOR_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, atr�s dele, um o�sis de morte.",
-    "HABIBI_DESOLATOR_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, o fim estava pr�ximo.",
-    "HABIBI_DESOLATOR_BODY_MASTERY_SKIN_NAME" : "Profana��o",
-    "HABIBI_DESOLATOR_BODY_PASSIVE_NAME" : "Radia��o",
-    "HABIBI_DESOLATOR_BODY_PASSIVE_DESCRIPTION" : "Os ataques do Desolador causam mais dano a alvos <style=cIsHealing>Irradiados</style>: <style=cIsDamage>+0.04x</style> por ac�mulo de <style=cIsHealing>Radia��o</style>.
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "HABIBI_DESOLATOR_BODY_SUBTITLE" : "A? Vem o Sol",
+    "HABIBI_DESOLATOR_BODY_LORE" : "<i>Em colabora??o com [CONFIDENCIAL], o Minist?rio da Informa??o apresenta...</i>\n<i>DESOLADOR: O HER?I REVOLUCION?RIO CONTRA A TIRANIA!</i>\n\nO filme vive falhando, sua idade se mostra como ferrugem em metal, mas ele continua rodando na fita de qualquer maneira. Ele ? reproduzido em um bunker esfarrapado no qual a porta blindada est? soldada e alinhada com todos os objetos dispon?veis no quarto; livros, cadeiras, a cama. Sozinho, um homem nervoso assiste.\n\n<i>DESOLADOR, um pobre jovem inocente das favelas que cresceu com nada mais al?m do ?DIO do governo tir?nico! Buscou uma maneira de libertar si mesmo e seus camaradas dos b?rbaros!\nEle mesmo organizou nossa GLORIOSA REVOLU??O! Lutou lado a lado com os homens na linha de frente para garantir que nenhuma batalha fosse perdida!\nMas eventualmente, ele foi GRAVEMENTE FERIDO e, usando o poder da tecnol?gica experimental roubada de nossos OPRESSORES, ele foi RECONSTRU?DO no her?i que conhecemos hoje!</i>\n\nO bunker treme, enquanto sua ?nica ilumina??o balan?a para frente e para tr?s em resposta. Seu passado o alcan?ou, cujo trabalho viria assombr?-lo.\nNingu?m conhece a verdade sobre suas a??es; seu trabalho era encobri-las.  Mas tal trabalho exigia uma tenacidade mental para suportar a pintura sobre os fatos.\nGritos podiam ser ouvidos do lado de fora do bunker, apenas para se afogarem no que soava como lodo.\n\n<i>DESOLADOR retornou ao fronte de batalha! Resgatando todos os seus companheiros compatriotas-</i>\n\"Eles foram massacrados.\"\n<i>para que n?o carregassem o mesmo fardo que ele!-</i>\n\"Voc? imp?s a nossos irm?os de armas tanto sofrimento quanto imp?s ao inimigo.\"\n<i>DESOLADOR E SEUS CAMARADAS REVOLUCION?RIOS SALVARAM NOSSO PLANETA, O QUAL ELE CONSTRUIU A SOCIEDADE QUE TEMOS HOJE!</i>\n\"Tudo o que voc? deixou foi um rio vermelho de corpos por uma causa na qual voc? n?o acreditava, o salvador da revolu??o tinha a desculpa perfeita.\"\n\nMas antes que ele pudesse continuar assistindo ? fita, o homem aflito sentiu sua pele arrepiar e o suor se acumular. Ele estava aqui.\nAntes que outro pensamento pudesse ser processado, a porta brilhou em um verde iridiscente e come?ou a derreter. Parafusos que seguravam a porta, que poderiam resistir a uma queda nuclear, derreteram como manteiga em uma faca quente. As barricadas remanescentes foram liquidadas pelo ch?o, peda?os de metal e m?veis; queimando, derretidos em uma po?a de radia??o. ? ele, ?-\n\n<i>DESOLADOR!</i>\n\nO filme toca solenemente, antes de falhar e se dissolver como a porta antes dele.\nAntes que palavras pudessem ser trocadas, a carne derretida do homem moribundo come?ou a se dividir e escorregar de seu corpo,  semelhante a carne cozida lentamente. Seus olhos ficaram turvos, dando uma ?ltima olhada para a presen?a radioativa, enquanto pronunciava as ?ltimas palavras que o homem ouviria.\n\n\"Shh, o fim est? pr?ximo.\"\n\nO c?rebro se agitando, m?sculos gotejando para revelar o esqueleto por baixo, ? medida que a estrutura at?mica do esqueleto come?ou a se liquefazer. Logo, a sala por si s? se tornou inst?vel; as ?ltimas coisas a sairem foram os passos pesados de botas de a?o e a respira??o pesada. Sua respira??o era a ?nica coisa humana nele.",
+    "HABIBI_DESOLATOR_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, atr?s dele, um o?sis de morte.",
+    "HABIBI_DESOLATOR_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, o fim estava pr?ximo.",
+    "HABIBI_DESOLATOR_BODY_MASTERY_SKIN_NAME" : "Profana??o",
+    "HABIBI_DESOLATOR_BODY_PASSIVE_NAME" : "Radia??o",
+    "HABIBI_DESOLATOR_BODY_PASSIVE_DESCRIPTION" : "Os ataques do Desolador causam mais dano a alvos <style=cIsHealing>Irradiados</style>: <style=cIsDamage>+0.04x</style> por ac?mulo de <style=cIsHealing>Radia??o</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_NAME" : "Canh�o de Radia��o",
-    "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Dispare um feixe de radia��o, causando <style=cIsDamage>80% de dano</style> e 3 ac�mulos de <style=cIsHealing>Radia��o</style>.
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_NAME" : "Canh?o de Radia??o",
+    "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Dispare um feixe de radia??o, causando <style=cIsDamage>80% de dano</style> e 3 ac?mulos de <style=cIsHealing>Radia??o</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "KEYWORD_RADIATION_PRIMARY" : "<style=cKeywordName>Irradiante</style><style=cSub>Inflige 3 ac�mulos de <style=cIsHealing>Radia��o</style>, cada ac�mulo causa <style=cIsDamage>201% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "KEYWORD_RADIATION_PRIMARY" : "<style=cKeywordName>Irradiante</style><style=cSub>Inflige 3 ac?mulos de <style=cIsHealing>Radia??o</style>, cada ac?mulo causa <style=cIsDamage>201% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
     "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_NAME" : "Terra Desolada",
-    "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Explode uma �rea, causando <style=cIsDamage>320% de dano</style> e cobrindo a �rea com radia��o por <style=cIsUtility>2 segundos</style>. Inimigos em contato recebem <style=cIsDamage>20% de dano duas vezes por segundo</style>
+    "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Explode uma ?rea, causando <style=cIsDamage>320% de dano</style> e cobrindo a ?rea com radia??o por <style=cIsUtility>2 segundos</style>. Inimigos em contato recebem <style=cIsDamage>20% de dano duas vezes por segundo</style>
 
-Esse personagem foi traduzido por: Jaosnake",
-    "KEYWORD_RADIATION_SECONDARY" : "<style=cKeywordName>Irradiante</style><style=cSub><style=cIsHealth>Explos�o Inicial: Inflige <style=cIsDamage>112% de dano</style> por <style=cIsUtility>8 segundos</style>.\n<style=cIsHealth>�rea Persistente: Cada tique inflige <style=cIsDamage>56% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "KEYWORD_RADIATION_SECONDARY" : "<style=cKeywordName>Irradiante</style><style=cSub><style=cIsHealth>Explos?o Inicial: Inflige <style=cIsDamage>112% de dano</style> por <style=cIsUtility>8 segundos</style>.\n<style=cIsHealth>?rea Persistente: Cada tique inflige <style=cIsDamage>56% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
     "HABIBI_DESOLATOR_BODY_UTILITY_AURA_NAME" : "Reator",
-    "HABIBI_DESOLATOR_BODY_UTILITY_AURA_DESCRIPTION" : "Por <style=cIsUtility>4 segundos</style>, <style=cIsDamage>Enfraque�a</style> todos os inimigos pr�ximos, e ganhe um b�nus de <style=cIsUtility>velocidade de movimento</style> e <style=cIsUtility>armadura</style>.
+    "HABIBI_DESOLATOR_BODY_UTILITY_AURA_DESCRIPTION" : "Por <style=cIsUtility>4 segundos</style>, <style=cIsDamage>Enfraque?a</style> todos os inimigos pr?ximos, e ganhe um b?nus de <style=cIsUtility>velocidade de movimento</style> e <style=cIsUtility>armadura</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_NAME" : "Espalhar a Ru�na",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Implante seu Canh�o de Radia��o no ch�o. Ganhe <style=cIsUtility>barreira</style> para cada inimigo pr�ximo. <style=cIsUtility>A cada 3 segundos</style>, injete um ac�mulo de radia��o que dura por <style=cIsUtility>7 segundos</style>, causando <style=cIsDamage>20% de dano por segundo</style>.
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_NAME" : "Espalhar a Ru?na",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Implante seu Canh?o de Radia??o no ch?o. Ganhe <style=cIsUtility>barreira</style> para cada inimigo pr?ximo. <style=cIsUtility>A cada 3 segundos</style>, injete um ac?mulo de radia??o que dura por <style=cIsUtility>7 segundos</style>, causando <style=cIsDamage>20% de dano por segundo</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_DEPLOY_NAME" : "L� Se Vai a Vizinhan�a",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_DEPLOY_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Implante seu Canh�o de Radia��o no ch�o. Ganhe <style=cIsUtility>barreira</style> para cada inimigo pr�ximo. <style=cIsUtility>A cada 3 segundos</style>, injete um ac�mulo de radia��o que dura por <style=cIsUtility>7 segundos</style>, causando <style=cIsDamage>20% de dano por segundo</style>.\n<color=#d299ff>CETRO: Dobra a �rea. Tiques por Segundo s�o 1.5x mais R�pidos.</color>
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_DEPLOY_NAME" : "L? Se Vai a Vizinhan?a",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_DEPLOY_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Implante seu Canh?o de Radia??o no ch?o. Ganhe <style=cIsUtility>barreira</style> para cada inimigo pr?ximo. <style=cIsUtility>A cada 3 segundos</style>, injete um ac?mulo de radia??o que dura por <style=cIsUtility>7 segundos</style>, causando <style=cIsDamage>20% de dano por segundo</style>.\n<color=#d299ff>CETRO: Dobra a ?rea. Tiques por Segundo s?o 1.5x mais R?pidos.</color>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
     "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_CANCEL_NAME" : "Cancelar",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_CANCEL_DESCRIPTION" : "Pare Espalhar a Ru�na.
+    "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_CANCEL_DESCRIPTION" : "Pare Espalhar a Ru?na.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
     "HABIBI_DESOLATOR_BODY_SPECIAL_IRRADIATOR_NAME" : "Irradiadores",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_IRRADIATOR_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at� 2</style> Irradiadores, que cobrem uma �rea de radia��o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.
+    "HABIBI_DESOLATOR_BODY_SPECIAL_IRRADIATOR_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at? 2</style> Irradiadores, que cobrem uma ?rea de radia??o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_NAME" : "Irradiadores Inst�veis",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at� 2</style> Irradiadores, que cobrem uma �rea de radia��o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.\n<color=#d299ff>CETRO: Explode ao expirar, causando <style=cIsDamage>1.600% de dano</style>.</color>
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_NAME" : "Irradiadores Inst?veis",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at? 2</style> Irradiadores, que cobrem uma ?rea de radia??o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.\n<color=#d299ff>CETRO: Explode ao expirar, causando <style=cIsDamage>1.600% de dano</style>.</color>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
     "HABIBI_DESOLATOR_BODY_SPECIAL_IRRADIATOR_NAME_FUN" : "Varetas Luminosas",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_IRRADIATOR_DESCRIPTION_FUN" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at� 2</style> Varetas Luminosas, que cobrem uma grande �rea de radia��o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_NAME_FUN" : "Varetas Luminosas Inst�veis",
-    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at� 2</style> Varetas Luminosas, que cobrem uma grande �rea de radia��o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.\n<color=#d299ff>CETRO: Explode ao expirar, causando <style=cIsDamage>1.600% de dano</style>.</color>",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_IRRADIATOR_DESCRIPTION_FUN" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at? 2</style> Varetas Luminosas, que cobrem uma grande ?rea de radia??o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_NAME_FUN" : "Varetas Luminosas Inst?veis",
+    "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN" : "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>at? 2</style> Varetas Luminosas, que cobrem uma grande ?rea de radia??o por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.\n<color=#d299ff>CETRO: Explode ao expirar, causando <style=cIsDamage>1.600% de dano</style>.</color>",
     "KEYWORD_RADIATION_SPECIAL" : "<style=cKeywordName>Irradiante</style><style=cSub>Cada tique inflige <style=cIsDamage>78% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolador: Dom�nio",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Desolador, ven�a o jogo ou aniquile em Mon��o.
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolador: Dom?nio",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Desolador, ven?a o jogo ou aniquile em Mon??o.
 
-Esse personagem foi traduzido por: Jaosnake",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolador: Grande Dom�nio",
-    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Desolador, ven�a o jogo ou aniquile em Tuf�o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf�o ou acima)</color>
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME" : "Desolador: Grande Dom?nio",
+    "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Desolador, ven?a o jogo ou aniquile em Tuf?o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf?o ou acima)</color>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por TheTimesweeper. Traduzido por: Jaosnake",
     "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME" : "Irradiadores",
     "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC" : "Encontre e ative os 3 irradiadores na terceira fase.",
     }

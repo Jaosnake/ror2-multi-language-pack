@@ -1,6 +1,6 @@
 BOG_MORRIS_BODY_NAME: Mortician
 BOG_MORRIS_BODY_SUBTITLE: No-Muerto
-BOG_MORRIS_BODY_DESCRIPTION: El Mortician es un necromante cuerpo a cuerpo lento pero resistente que destaca en controlar territorio con su ejército de no-muertos. <i>Translated by: Jaosnake</i>
+BOG_MORRIS_BODY_DESCRIPTION: El Mortician es un necromante cuerpo a cuerpo lento pero resistente que destaca en controlar territorio con su ejército de no-muertos. <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: Predeterminado
 BOG_MORRIS_BODY_OUTRO_FLAVOR: ..y así se fue, su deber sombrío aún sin cumplir.

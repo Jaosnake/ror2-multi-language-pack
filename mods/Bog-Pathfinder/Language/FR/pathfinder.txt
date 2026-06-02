@@ -1,6 +1,6 @@
 BOG_PATHFINDER_BODY_NAME: Pathfinder
 BOG_PATHFINDER_BODY_SUBTITLE: Chasseur Interplanétaire
-BOG_PATHFINDER_BODY_DESCRIPTION: Le Pathfinder est un escarmoucheur rusé et insaisissable qui combat aux côtés de son faucon robotique, Squall. <i>Translated by: Jaosnake</i>
+BOG_PATHFINDER_BODY_DESCRIPTION: Le Pathfinder est un escarmoucheur rusé et insaisissable qui combat aux côtés de son faucon robotique, Squall. <i>Translated by: Jaosnake. Original mod by Bog</i>
 
 BOG_PATHFINDER_BODY_PASSIVE_NAME: Fauconnier
 BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: Vous êtes accompagné de votre faucon robotique, Squall. Squall hérite de <style=cIsDamage>la plupart</style> de vos objets et est immunisé aux dégâts, mais fonctionne avec une <style=cIsUtility>batterie</style>.

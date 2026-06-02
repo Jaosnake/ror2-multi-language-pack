@@ -3,7 +3,7 @@
         "BOG_DEPUTY_BODY_NAME": "A Delegada",
         "BOG_DEPUTY_BODY_DESCRIPTION": "A Delegada é uma demônio de velocidade hiperagressiva que distribui justiça com seus revólveres gêmeos e chutes letais.<color=#CCD3E0>\n\n< ! > Tiro Certo tem precisão perfeita e sem perda de dano à distância, mas seu alcance máximo é bastante limitado comparado a outros ataques com armas de fogo.\n\n< ! > Os revólveres arremessados por Estilingada sempre priorizarão o inimigo mais próximo deles.\n\n< ! > Estrela Cadente pode ser levemente angulada para cima olhando para cima.\n\n< ! > Cometa Colidente pode causar dano explosivo devastador com altos valores de velocidade de movimento. Use suas armas para acumular Pilhas de Perseguição Incansável, então vá para o abate.\n\n<style=cShrine>Nota do Modder</style> <style=cUserSetting>Obrigado pelo interesse em <color=#e1c100>A Delegada</color>! Para feedback e relatórios de bugs, contate <style=cIsUtility>Bog#4770</style> no Discord.</style>
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
         "BOG_DEPUTY_BODY_SUBTITLE": "Justiça Relâmpago",
         "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..e assim ela partiu, ao som de aplausos estrondosos.",
         "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..e assim ela desapareceu, sua performance finalmente chegou ao fim.",
@@ -14,32 +14,32 @@ Esse personagem foi traduzido por: Jaosnake",
         "BOG_DEPUTY_BODY_PASSIVE_NAME": "Perseguição Incansável",
         "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "A Delegada pode correr em qualquer direção. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumulável.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Tiro Certo",
         "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Atire com revólveres de médio alcance para <style=cIsDamage>150% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Estilingada",
         "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Arremesse dois revólveres. Cada revólver atirará em um inimigo próximo para <style=cIsDamage>6x100% de dano</style>, então explodirá para <style=cIsDamage>300% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Estrela Cadente",
         "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Salte para frente e atire em um inimigo abaixo de você para <style=cIsDamage>4x150% de dano</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Cometa Colidente",
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Pesado</style>. <style=cIsUtility>Avance</style> e ricocheteie em um inimigo, causando <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Abates resetam o resfriamento de sua habilidade de utilidade</style>.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Paraíso de Balas",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salte bem alto no ar e dispare balas furiosamente para baixo, cada uma causando <style=cIsDamage>150% de dano</style>. O número de tiros escala com a velocidade de ataque.
 
-Esse personagem foi traduzido por: Jaosnake",
+Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "A Delegada: Maestria",
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como A Delegada, vença o jogo ou oblitere na Monção.",

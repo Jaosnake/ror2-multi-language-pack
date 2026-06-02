@@ -1,23 +1,23 @@
 NDP_DANCER_BODY_PASSIVE_NAME: Fita Restritiva
 NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Inimigos com fita sangram por 50% de dano por segundo e n?o podem agir.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
 PRIMARY_SLASH_NAME: Golpe
 PRIMARY_SLASH_DESCRIPTION: Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
 PRIMARY_SLASH2_NAME: Corte
 PRIMARY_SLASH2_DESCRIPTION: Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
 UTILITY_PULL_NAME: Pux?o
 UTILITY_PULL_DESCRIPTION: Puxe inimigos em sua dire??o.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
 SPECIAL_RIBBON_LOCK_NAME: Fita de Amarra??o
 SPECIAL_RIBBON_LOCK_DESCRIPTION: Aplique uma fita em um inimigo, impedindo-o de agir e causando sangramento.
-Esse personagem foi traduzido por: Jaosnake
-Esse personagem foi traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
+Mod original por nayDPz. Traduzido por: Jaosnake
 KEYWORD_DANCER_JAB: <style=cKeywordName>Jab</style><style=cSub>Input em solo, mire para frente. Avance e cause <style=cIsDamage>180% de dano</style>.
 KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>Input em solo, mire para baixo. Jogue inimigos para cima e cause <style=cIsDamage>200% de dano</style>.
 KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>Input no ar, mire para frente. Golpe pesado que causa <style=cIsDamage>180% de dano</style> e prende inimigos no ch?o, atordoando e causando at? <style=cIsDamage>300% de dano</style>.

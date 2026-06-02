@@ -1,6 +1,6 @@
 JAVANGLE_MYST_BODY_NAME: ミスト
 JAVANGLE_MYST_BODY_SUBTITLE: 神秘の魔術師
-JAVANGLE_MYST_BODY_DESCRIPTION: ミストは多用途な生存者であり、<style=cIsUtility>魔力</style>を使って様々な超自然的なスキルを駆使し、<style=cIsUtility>リミット</style>を使って強力なスーパームーブを解放する。 <i>Translated by: Jaosnake</i>
+JAVANGLE_MYST_BODY_DESCRIPTION: ミストは多用途な生存者であり、<style=cIsUtility>魔力</style>を使って様々な超自然的なスキルを駆使し、<style=cIsUtility>リミット</style>を使って強力なスーパームーブを解放する。 <i>Translated by: Jaosnake. Original mod by JavAngle</i>
 JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: デフォルト
 JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: マスタリー
 JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: グランドマスタリー

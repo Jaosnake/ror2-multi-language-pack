@@ -1,5 +1,5 @@
 NDP_DANCER_BODY_PASSIVE_NAME: Ruban Restrictif
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Les ennemis avec un ruban saignent de 50% de dégâts par seconde et ne peuvent pas agir. <i>Translated by: Jaosnake</i>
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Les ennemis avec un ruban saignent de 50% de dégâts par seconde et ne peuvent pas agir. <i>Translated by: Jaosnake. Original mod by nayDPz</i>
 PRIMARY_SLASH_NAME: Coup
 PRIMARY_SLASH_DESCRIPTION: Attaque au corps à corps avec des effets basés sur votre visée. (Passez la souris pour plus de détails)
 PRIMARY_SLASH2_NAME: Entaille

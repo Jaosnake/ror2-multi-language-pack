@@ -7,4 +7,8 @@
 		
 		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>Sinal de Nulidade Profunda derrubou </style>{0}"
 	}
+},
+
+		"TRANSLATION_CREDIT" : "Mod original por Risky_Lives. Traduzido por: Jaosnake"
+	}
 }
