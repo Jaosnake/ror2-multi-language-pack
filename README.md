@@ -1,5 +1,11 @@
 # ror2-multi-language-pack
 
+📖 **Choose Your Language | Escolha seu Idioma**
+
+[🇧🇷 Português (Brasil)](#-português-brasil) • [🇺🇦 Українська](#-українська) • [🇰🇷 한국어](#-한국어) • [🇫🇷 Français](#-français) • [🇷🇺 Русский](#-русский) • [🇨🇳 中文](#-中文) • [🇪🇸 Español](#-español) • [🇹🇷 Türkçe](#-türkçe)
+
+---
+
 > **AI Generated** — Translations in this repository were created with AI assistance and reviewed/edited by Jaosnake. Per Thunderstore policy, this disclosure is required for any mod containing AI-generated content.
 
 ## Overview
@@ -114,14 +120,6 @@ cp -r mods/EnforcerGang-Enforcer/  "path/to/BepInEx/plugins/"
 
 # 3. Launch the game and select your language
 ```
-
----
-
-## 📖 Choose Your Language | Escolha seu Idioma
-
-Click on your language below to read the documentation in your preferred language:
-
-**[🇧🇷 Português (Brasil)](#-português-brasil)** | **[🇺🇦 Українська](#-українська)** | **[🇰🇷 한국어](#-한국어)** | **[🇫🇷 Français](#-français)** | **[🇷🇺 Русский](#-русский)** | **[🇨🇳 中文](#-中文)** | **[🇪🇸 Español](#-español)** | **[🇹🇷 Türkçe](#-türkçe)**
 
 ---
 
