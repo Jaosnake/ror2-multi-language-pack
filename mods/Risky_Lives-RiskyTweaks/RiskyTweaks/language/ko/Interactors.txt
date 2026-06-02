@@ -7,8 +7,4 @@
 		
 		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>심연의 공허 신호에서 </style>{0}이(가) 떨어졌습니다"
 	}
-},
-
-		"TRANSLATION_CREDIT" : "Original mod by Risky_Lives. Translated by: Jaosnake"
-	}
 }

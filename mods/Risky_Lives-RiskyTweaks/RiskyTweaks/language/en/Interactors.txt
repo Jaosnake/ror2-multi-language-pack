@@ -7,8 +7,4 @@
 		
 		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>Deep Void Signal has dropped </style>{0}"
 	}
-},
-
-		"TRANSLATION_CREDIT" : "Original mod by Risky_Lives. Translated by: Jaosnake"
-	}
 }

@@ -7,8 +7,4 @@
 		
 		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>深空信号掉落了</style>{0}"
 	}
-},
-
-		"TRANSLATION_CREDIT" : "Original mod by Risky_Lives. Translated by: Jaosnake"
-	}
 }
