@@ -4,7 +4,7 @@ Multi-language translation pack for **SandsweptTeam-Sandswept**.
 
 Part of: [Jaosnake/ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack)
 
-> **AI disclosure**: PT-BR was translated manually/reviewed by Jaosnake. Other languages used AI assistance for initial generation and were human-reviewed.
+> **AI disclosure**: PT-BR was reviewed line by line and manually edited by Jaosnake. Other languages used AI assistance for initial generation and were human-reviewed. Original credits are preserved where applicable.
 
 ## Install With r2modman
 
@@ -80,7 +80,8 @@ For Thunderstore upload, zip the contents of this folder, not the parent reposit
 ## Credits
 
 - Original mod: SandsweptTeam
-- Translation and packaging: Jaosnake
+- PT-BR review/editing and packaging: Jaosnake
+- Original credits remain preserved where applicable.
 - This package contains translation files only. It does not modify Sandswept source code.
 
 ## License
