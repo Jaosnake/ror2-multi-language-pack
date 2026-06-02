@@ -63,6 +63,15 @@ mods/<mod>/.../en/
 
 Use language code `UA` for folder-based packs and `ua` inside Sandswept's `.language` file.
 
+Risk of Rain 2 does **not** officially support Ukrainian in the vanilla language selector. This repository still includes Ukrainian translations because **R2API.Language can load the translation tokens** from the files.
+
+What that means in practice:
+
+- You can download and install the Ukrainian translation files from this repo.
+- R2API.Language can read/load those files.
+- The vanilla game menu may not show Ukrainian by itself.
+- To actually select Ukrainian in-game, you may need a separate language menu/locale enabler mod.
+
 1. Завантажте репозиторій через **Code -> Download ZIP**.
 2. Розпакуйте ZIP.
 3. Скопіюйте потрібну папку пакета/моду до `BepInEx/plugins/`.
