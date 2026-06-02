@@ -300,8 +300,6 @@ GPL-3.0
 ror2-multi-language-pack/
 ├─ README.md               # This file
 ├─ LICENSE.txt             # GPL‑3.0
-├─ docs/
-│   └─ traducaobr.md       # Translation reference guide
 ├─ Starstorm2/             # Thunderstore package for Starstorm 2
 │   ├─ manifest.json
 │   ├─ icon.png
