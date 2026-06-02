@@ -86,7 +86,7 @@ Mod original por rob. Traduzido por: Jaosnake",
 
 Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_UTILITY_PARRY_NAME": "Aparar",
-        "ROB_HUNK_BODY_UTILITY_PARRY_DESCRIPTION": "<style=cIsUtility>Bloqueie</style> um ataque, <style=cIsDamage>anulando</style> o dano e <style=cIsUtility>reembolsando a recarga</style>. Se usado preventivamente, realize uma <style=cIsDamage>Aparição Perfeita</style>.
+        "ROB_HUNK_BODY_UTILITY_PARRY_DESCRIPTION": "<style=cIsUtility>Bloqueie</style> um ataque, <style=cIsDamage>anulando</style> o dano e <style=cIsUtility>reembolsando a recarga</style>. Se usado preventivamente, realize uma <style=cIsDamage>ApariÃ§Ã£o Perfeita</style>.
 
 Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_BODY_UTILITY_BASH_NAME": "Ombrozada",
@@ -269,7 +269,7 @@ Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_KEYWORD_COUNTER": "Contra-ataque",
         "ROB_HUNK_KEYWORD_PERFECTDODGE": "Esquiva Perfeita",
         "ROB_HUNK_KEYWORD_PERFECTBASH": "Deflexao Perfeita",
-        "ROB_HUNK_KEYWORD_PERFECTPARRY": "Aparição Perfeita",
+        "ROB_HUNK_KEYWORD_PERFECTPARRY": "ApariÃ§Ã£o Perfeita",
         "ROB_HUNK_KEYWORD_CVIRUS": "C-Virus",
         "ROB_HUNK_KEYWORD_GVIRUS": "G-Virus",
         "ROB_HUNK_KEYWORD_TVIRUS": "T-Virus",
@@ -346,15 +346,15 @@ Mod original por rob. Traduzido por: Jaosnake",
         "ROB_HUNK_ITEM_EFFECT_LUMINOUSSHOT": "Ganha um acumulo apos mirar por <style=cIsUtility>1 segundo</style>. <style=cIsHealth>Perde todos os acumulos ao disparar ou parar de mirar.</style>",
 
         "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Ceifador",
-        "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, vença o jogo ou oblitere.
+        "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, venÃ§a o jogo ou oblitere.
 
 Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Maestria",
-        "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, vença o jogo ou oblitere na Moncao.
+        "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, venÃ§a o jogo ou oblitere na Moncao.
 
 Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Grao-Maestria",
-        "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, vença o jogo ou oblitere no Tufao ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tufao ou superior)</color>
+        "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como HUNK, venÃ§a o jogo ou oblitere no Tufao ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tufao ou superior)</color>
 
 Mod original por rob. Traduzido por: Jaosnake",
         "ACHIEVEMENT_ROB_HUNK_SUPPORTER_ACHIEVEMENT_ID_NAME": "HUNK: Early Supporter",
