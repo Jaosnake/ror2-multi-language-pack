@@ -13,38 +13,38 @@ Mod original por toastyTeam. Traduzido por: Jaosnake",
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
                   "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE":  "Fratura de Fenda",
-                  "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION":  "Inimigos atingidos por fendas acumulam estilhaÁamento, aumentando o dano recebido.
+                  "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION":  "Inimigos atingidos por fendas acumulam estilha√ßamento, aumentando o dano recebido.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
-                  "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED":  "Fenda ProjÈtil",
+                  "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED":  "Fenda Proj√©til",
                   "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION":  "Dispare uma fenda de longo alcance para 500% de dano.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
                   "BLAKE_RIFTER_SECONDARY_FRACTURE":  "Fratura",
-                  "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION":  "<style=cIsDamage>Fratura</style>. Dispare uma fenda de longo alcance para 75% de dano, causando atÈ 5 estilhaÁamentos.
+                  "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION":  "<style=cIsDamage>Fratura</style>. Dispare uma fenda de longo alcance para 75% de dano, causando at√© 5 estilha√ßamentos.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
                   "BLAKE_RIFTER_SECONDARY_FAULT_LINE":  "Linha de Falha",
-                  "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION":  "<style=cIsDamage>Fratura</style>. Crie uma linha de falha que se estilhaÁa, causando 700% de dano.
+                  "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION":  "<style=cIsDamage>Fratura</style>. Crie uma linha de falha que se estilha√ßa, causando 700% de dano.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
                   "BLAKE_RIFTER_UTILITY_SLIPSTREAM":  "Corrente Dimensional",
-                  "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION":  "Teleporte uma curta dist‚ncia. Recarrega o estoque da habilidade secund·ria.
+                  "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION":  "Teleporte uma curta dist√¢ncia. Recarrega o estoque da habilidade secund√°ria.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
-                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT":  "Fenda Qu‚ntica",
-                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION":  "Abra uma fenda qu‚ntica que distorce o espaÁo ao redor.
+                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT":  "Fenda Qu√¢ntica",
+                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION":  "Abra uma fenda qu√¢ntica que distorce o espa√ßo ao redor.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
                   "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS":  "Mundos Acorrentados",
-                  "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION":  "Conecte dois pontos no espaÁo, criando um portal que transporta projÈteis.
+                  "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION":  "Conecte dois pontos no espa√ßo, criando um portal que transporta proj√©teis.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
                   "BLAKE_RIFTER_SPECIAL_TIMELOCK":  "Trava Temporal",
-                  "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION":  "Trave o tempo de inimigos em uma ·rea, congelando-os por alguns segundos.
+                  "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION":  "Trave o tempo de inimigos em uma √°rea, congelando-os por alguns segundos.
 
 Mod original por toastyTeam. Traduzido por: Jaosnake",
-                  "BLAKE_NEM_RIFTER_NAME":  "NÍmesis Rifter",
+                  "BLAKE_NEM_RIFTER_NAME":  "N√™mesis Rifter",
                   "BLAKE_NEM_RIFTER_SUBTITLE":  "Fenda Corrompida"
               }
 }
