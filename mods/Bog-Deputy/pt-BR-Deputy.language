@@ -1,33 +1,33 @@
 {
     "pt-BR": {
         "BOG_DEPUTY_BODY_NAME": "A Delegada",
-        "BOG_DEPUTY_BODY_DESCRIPTION": "A Delegada È uma demÙnio de velocidade hiperagressiva que distribui justiÁa com seus revÛlveres gÍmeos e chutes letais.<color=#CCD3E0>\n\n< ! > Tiro Certo tem precis„o perfeita e sem perda de dano ‡ dist‚ncia, mas seu alcance m·ximo È bastante limitado comparado a outros ataques com armas de fogo.\n\n< ! > Os revÛlveres arremessados por Estilingada sempre priorizar„o o inimigo mais prÛximo deles.\n\n< ! > Estrela Cadente pode ser levemente angulada para cima olhando para cima.\n\n< ! > Cometa Colidente pode causar dano explosivo devastador com altos valores de velocidade de movimento. Use suas armas para acumular Pilhas de PerseguiÁ„o Incans·vel, ent„o v· para o abate.\n\n<style=cShrine>Nota do Modder</style> <style=cUserSetting>Obrigado pelo interesse em <color=#e1c100>A Delegada</color>! Para feedback e relatÛrios de bugs, contate <style=cIsUtility>Bog#4770</style> no Discord.</style>
+        "BOG_DEPUTY_BODY_DESCRIPTION": "A Delegada √© uma dem√¥nio de velocidade hiperagressiva que distribui justi√ßa com seus rev√≥lveres g√™meos e chutes letais.<color=#CCD3E0>\n\n< ! > Tiro Certo tem precis√£o perfeita e sem perda de dano √† dist√¢ncia, mas seu alcance m√°ximo √© bastante limitado comparado a outros ataques com armas de fogo.\n\n< ! > Os rev√≥lveres arremessados por Estilingada sempre priorizar√£o o inimigo mais pr√≥ximo deles.\n\n< ! > Estrela Cadente pode ser levemente angulada para cima olhando para cima.\n\n< ! > Cometa Colidente pode causar dano explosivo devastador com altos valores de velocidade de movimento. Use suas armas para acumular Pilhas de Persegui√ß√£o Incans√°vel, ent√£o v√° para o abate.\n\n<style=cShrine>Nota do Modder</style> <style=cUserSetting>Obrigado pelo interesse em <color=#e1c100>A Delegada</color>! Para feedback e relat√≥rios de bugs, contate <style=cIsUtility>Bog#4770</style> no Discord.</style>
 
 Mod original por Bog. Traduzido por: Jaosnake",
-        "BOG_DEPUTY_BODY_SUBTITLE": "JustiÁa Rel‚mpago",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Justi√ßa Rel√¢mpago",
         "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..e assim ela partiu, ao som de aplausos estrondosos.",
         "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..e assim ela desapareceu, sua performance finalmente chegou ao fim.",
 
-        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Padr„o",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Padr√£o",
         "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Maestria",
 
-        "BOG_DEPUTY_BODY_PASSIVE_NAME": "PerseguiÁ„o Incans·vel",
-        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "A Delegada pode correr em qualquer direÁ„o. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumul·vel.
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Persegui√ß√£o Incans√°vel",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "A Delegada pode correr em qualquer dire√ß√£o. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumul√°vel.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Tiro Certo",
-        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>¡gil</style>. Atire com revÛlveres de mÈdio alcance para <style=cIsDamage>150% de dano</style>.
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>√Ågil</style>. Atire com rev√≥lveres de m√©dio alcance para <style=cIsDamage>150% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Estilingada",
-        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>¡gil</style>. Arremesse dois revÛlveres. Cada revÛlver atirar· em um inimigo prÛximo para <style=cIsDamage>6x100% de dano</style>, ent„o explodir· para <style=cIsDamage>300% de dano</style>.
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>√Ågil</style>. Arremesse dois rev√≥lveres. Cada rev√≥lver atirar√° em um inimigo pr√≥ximo para <style=cIsDamage>6x100% de dano</style>, ent√£o explodir√° para <style=cIsDamage>300% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Estrela Cadente",
-        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Salte para frente e atire em um inimigo abaixo de vocÍ para <style=cIsDamage>4x150% de dano</style>.
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Salte para frente e atire em um inimigo abaixo de voc√™ para <style=cIsDamage>4x150% de dano</style>.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
@@ -36,13 +36,13 @@ Mod original por Bog. Traduzido por: Jaosnake",
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
-        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "ParaÌso de Balas",
-        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salte bem alto no ar e dispare balas furiosamente para baixo, cada uma causando <style=cIsDamage>150% de dano</style>. O n˙mero de tiros escala com a velocidade de ataque.
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Para√≠so de Balas",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salte bem alto no ar e dispare balas furiosamente para baixo, cada uma causando <style=cIsDamage>150% de dano</style>. O n√∫mero de tiros escala com a velocidade de ataque.
 
 Mod original por Bog. Traduzido por: Jaosnake",
 
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "A Delegada: Maestria",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como A Delegada, venÁa o jogo ou oblitere na MonÁ„o.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como A Delegada, ven√ßa o jogo ou oblitere na Mon√ß√£o.",
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "A Delegada: Maestria"
     }
 }
