@@ -1,4 +1,4 @@
-﻿{
+{
 	strings: {
  	 "ROB_BELMONT_BODY_NAME": "<color=#3060FF>Belmont</color>",
  	 "ROB_BELMONT_BODY_NAME_ALT": "Hunter",
