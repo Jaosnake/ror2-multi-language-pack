@@ -47,6 +47,74 @@ A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers t
 
 ---
 
+## Installation Guide
+
+### Prerequisites
+- **Original mod must be installed** first via [r2modman](https://thunderstore.io/c/riskofrain2/) or manually in `BepInEx/plugins/`
+- **BepInEx** must be installed (included with r2modman)
+- **Language settings**: Set your language in-game (Options → Language)
+
+### How RoR2 loads translations
+The game auto-discovers `.language` files **anywhere under `BepInEx/plugins/`** — no configuration needed. Some mods also load `Language/{locale}/*.txt` folders via their own DLL code. **All translation files in this repo use one (or both) of these mechanisms.**
+
+### Via r2modman
+1. Download this repo as ZIP (Code → Download ZIP)
+2. Drag the **individual mod folders you want** into r2modman's "Local import" (Settings → Import local mod)
+   - Or manually extract into your r2modman profile's `BepInEx/plugins/` folder
+
+### Manual installation
+1. Install the original mod (from Thunderstore or GitHub)
+2. Copy the **entire mod translation folder** (e.g., `mods/Bog-Deputy/`) into `BepInEx/plugins/`
+3. Ensure the original mod's files and the translation files are **both** present in `BepInEx/plugins/`
+
+### Which files to copy?
+
+**Most mods (22 of 31)** use `.language` files at root — copy the whole folder:
+```
+BepInEx/plugins/
+└─ Bog-Deputy/               ← copy this entire folder
+    ├─ pt-BR-Deputy.language  ← auto-discovered by the game
+    ├─ en-Deputy.language
+    └─ Language/              ← optional, referenced by mod DLL
+```
+
+**Some mods (6 of 31)** use only `Language/` txt files:
+```
+BepInEx/plugins/
+└─ EnforcerGang-Enforcer/    ← copy this entire folder
+    └─ Language/
+        ├─ pt-BR/Enforcer.txt ← loaded by the mod's DLL
+        └─ english/Enforcer.txt
+```
+
+**Some mods (3 of 31)** have nested subfolders matching the original mod:
+```
+BepInEx/plugins/
+└─ EnforcerGang-HAND_OVERCLOCKED/  ← copy this entire folder
+    └─ HAND_Overclocked/
+        └─ language/
+            └─ pt-br/HAN-D.txt
+```
+
+**Starstorm 2 and Sandswept** are complete Thunderstore packages — upload via Thunderstore or extract the `Language/` folder directly into `BepInEx/plugins/`.
+
+### TL;DR
+> **Copy the mod's translation folder into `BepInEx/plugins/`.** The exact internal structure doesn't matter — the game and mod DLLs discover the files automatically. Just keep the folder structure intact inside each mod folder.
+
+### Quick start
+```bash
+# 1. Clone or download the repo
+git clone https://github.com/Jaosnake/ror2-multi-language-pack.git
+
+# 2. Copy only the mods you want translated
+cp -r mods/Bog-Deputy/  "path/to/BepInEx/plugins/"
+cp -r mods/EnforcerGang-Enforcer/  "path/to/BepInEx/plugins/"
+
+# 3. Launch the game and select your language
+```
+
+---
+
 ## 📖 Choose Your Language | Escolha seu Idioma
 
 Click on your language below to read the documentation in your preferred language:
@@ -61,9 +129,10 @@ Click on your language below to read the documentation in your preferred languag
 Este repositório contém pacotes de tradução para mods de **Risk of Rain 2**, incluindo **Starstorm 2** e **Sandswept**, com suporte a múltiplos idiomas.
 
 ### Instalação
-1. Tenha o mod original instalado via **r2modman** ou **Thunderstore**
-2. Baixe este pacote e extraia na pasta `BepInEx/plugins/` do jogo
-3. Selecione o idioma nas configurações do jogo (Settings → Language)
+Siga o **[Guia de Instalação](#installation-guide)** no topo. Resumo:
+1. Instale o mod original por r2modman/Thunderstore
+2. Copie a pasta do mod desejado (ex: `mods/Bog-Deputy/`) para `BepInEx/plugins/`
+3. Selecione o idioma no jogo (Settings → Language)
 
 ### Créditos
 - **Mod Original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -81,9 +150,10 @@ GPL-3.0
 Цей репозиторій містить пакети перекладів для модів **Risk of Rain 2**, включаючи **Starstorm 2** та **Sandswept**, з підтримкою кількох мов.
 
 ### Встановлення
-1. Встановіть оригінальний мод через **r2modman** або **Thunderstore**
-2. Завантажте цей пакет і розпакуйте в папку `BepInEx/plugins/` гри
-3. Виберіть мову в налаштуваннях гри (Settings → Language)
+Дотримуйтесь **[Інструкції зі встановлення](#installation-guide)**. Основні кроки:
+1. Встановіть оригінальний мод через r2modman/Thunderstore
+2. Скопіюйте папку потрібного моду (напр. `mods/Bog-Deputy/`) до `BepInEx/plugins/`
+3. Виберіть мову в налаштуваннях гри
 
 > ⚠️ Українська мова не є рідною для Risk of Rain 2.  
 > Докладніше: [UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
@@ -103,9 +173,10 @@ GPL-3.0
 이 저장소는 **Starstorm 2** 및 **Sandswept** 를 포함한 **Risk of Rain 2** 모드의 다국어 번역 팩을 제공합니다.
 
 ### 설치 방법
-1. **r2modman** 또는 **Thunderstore** 를 통해 원래 모드를 설치하세요
-2. 이 팩을 다운로드하여 게임의 `BepInEx/plugins/` 폴더에 압축을 풉니다
-3. 게임 설정에서 언어를 선택하세요 (Settings → Language)
+**[설치 가이드](#installation-guide)** 를 참조하세요. 요약:
+1. r2modman/Thunderstore로 원본 모드 설치
+2. 원하는 모드 폴더(예: `mods/Bog-Deputy/`)를 `BepInEx/plugins/`에 복사
+3. 게임 설정에서 언어 선택
 
 ### 크레딧
 - **원본 모드**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -122,9 +193,10 @@ GPL-3.0
 Ce dépôt contient des packs de traduction pour les mods **Risk of Rain 2**, y compris **Starstorm 2** et **Sandswept**, avec prise en charge de plusieurs langues.
 
 ### Installation
-1. Installez le mod original via **r2modman** ou **Thunderstore**
-2. Téléchargez ce pack et extrayez-le dans le dossier `BepInEx/plugins/` du jeu
-3. Sélectionnez la langue dans les paramètres du jeu (Settings → Language)
+Suivez le **[Guide d'installation](#installation-guide)**. Résumé :
+1. Installez le mod original via r2modman/Thunderstore
+2. Copiez le dossier du mod souhaité (ex: `mods/Bog-Deputy/`) dans `BepInEx/plugins/`
+3. Sélectionnez la langue dans les paramètres du jeu
 
 ### Crédits
 - **Mod original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -141,9 +213,10 @@ GPL-3.0
 Этот репозиторий содержит пакеты переводов для модов **Risk of Rain 2**, включая **Starstorm 2** и **Sandswept**, с поддержкой нескольких языков.
 
 ### Установка
-1. Установите оригинальный мод через **r2modman** или **Thunderstore**
-2. Скачайте этот пакет и распакуйте в папку `BepInEx/plugins/` игры
-3. Выберите язык в настройках игры (Settings → Language)
+Следуйте **[Руководству по установке](#installation-guide)**. Кратко:
+1. Установите оригинальный мод через r2modman/Thunderstore
+2. Скопируйте папку нужного мода (напр. `mods/Bog-Deputy/`) в `BepInEx/plugins/`
+3. Выберите язык в настройках игры
 
 ### Благодарности
 - **Оригинальный мод**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -160,9 +233,10 @@ GPL-3.0
 此仓库包含 **Risk of Rain 2** 模组的多语言翻译包，包括 **Starstorm 2** 和 **Sandswept**。
 
 ### 安装方法
-1. 通过 **r2modman** 或 **Thunderstore** 安装原始模组
-2. 下载此包并解压到游戏的 `BepInEx/plugins/` 文件夹
-3. 在游戏设置中选择语言（Settings → Language）
+请参阅 **[安装指南](#installation-guide)**。简要步骤：
+1. 通过 r2modman/Thunderstore 安装原始模组
+2. 将所需模组文件夹（如 `mods/Bog-Deputy/`）复制到 `BepInEx/plugins/`
+3. 在游戏设置中选择语言
 
 ### 致谢
 - **原始模组**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -179,9 +253,10 @@ GPL-3.0
 Este repositorio contiene paquetes de traducción para mods de **Risk of Rain 2**, incluyendo **Starstorm 2** y **Sandswept**, con soporte para varios idiomas.
 
 ### Instalación
-1. Instala el mod original a través de **r2modman** o **Thunderstore**
-2. Descarga este paquete y extráelo en la carpeta `BepInEx/plugins/` del juego
-3. Selecciona el idioma en la configuración del juego (Settings → Language)
+Siga la **[Guía de instalación](#installation-guide)**. Resumen:
+1. Instale el mod original mediante r2modman/Thunderstore
+2. Copie la carpeta del mod deseado (ej: `mods/Bog-Deputy/`) a `BepInEx/plugins/`
+3. Seleccione el idioma en la configuración del juego
 
 ### Créditos
 - **Mod original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -198,9 +273,10 @@ GPL-3.0
 Bu depo, **Starstorm 2** ve **Sandswept** dahil olmak üzere **Risk of Rain 2** modları için çok dilli çeviri paketleri içerir.
 
 ### Kurulum
-1. Orijinal modu **r2modman** veya **Thunderstore** üzerinden kurun
-2. Bu paketi indirin ve oyunun `BepInEx/plugins/` klasörüne çıkarın
-3. Oyun ayarlarından dili seçin (Settings → Language)
+**[Kurulum Kılavuzu](#installation-guide)** 'nu izleyin. Özet:
+1. Orijinal modu r2modman/Thunderstore üzerinden kurun
+2. İstediğiniz mod klasörünü (örn. `mods/Bog-Deputy/`) `BepInEx/plugins/` içine kopyalayın
+3. Oyun ayarlarından dili seçin
 
 ### Katkıda Bulunanlar
 - **Orijinal mod**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
