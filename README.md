@@ -3,13 +3,16 @@
 ## Overview
 A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers translation files for supported mods into a single, Thunderstore‑ready monorepo. Each mod's language pack is completely self‑contained and can be built and published independently.
 
+> ⚠️ **UA (Ukrainian)** is not a natively supported language in Risk of Rain 2.  
+> See [UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md) for technical details.
+
 ---
 
 ## Available Mods
 | Mod | Translation status | Thunderstore package |
 |-----|-------------------|----------------------|
 | **Starstorm 2** | ✅ Complete – 8 languages | `Starstorm2/` (ready to zip) |
-| **Sandswept** | ✅ Complete – 13 languages | `Sandswept/` (ready to zip) |
+| **Sandswept** | ✅ Complete – 14 languages | `Sandswept/` (ready to zip) |
 
 ---
 
@@ -50,6 +53,9 @@ GPL-3.0
 1. Встановіть оригінальний мод через **r2modman** або **Thunderstore**
 2. Завантажте цей пакет і розпакуйте в папку `BepInEx/plugins/` гри
 3. Виберіть мову в налаштуваннях гри (Settings → Language)
+
+> ⚠️ Українська мова не є рідною для Risk of Rain 2.  
+> Докладніше: [UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
 ### Подяки
 - **Оригінальний мод**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
@@ -190,7 +196,7 @@ ror2-multi-language-pack/
     ├─ manifest.json
     ├─ icon.png
     ├─ README.md           # Package‑specific readme
-    └─ Translations/       # 13 .language files (all locales)
+    └─ Translations/       # 14 .language files (all locales)
 ```
 Each subfolder is a **stand‑alone Thunderstore package** – simply zip its contents (manifest, icon, README, Language folder) and upload.
 
