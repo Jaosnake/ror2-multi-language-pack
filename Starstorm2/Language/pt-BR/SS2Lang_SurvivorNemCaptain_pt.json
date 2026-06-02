@@ -2,7 +2,7 @@
   "strings": {
     "SS2_NEMCAPTAIN_NAME": "Capitão Nêmesis",
     "SS2_NEMCAPTAIN_SUBTITLE": "Afundar com o Navio",
-    "SS2_NEMCAPTAIN_DESCRIPTION": "O Capitão Nêmesis emite ordens para controlar o campo de batalha e lutar com segurança atrás de seus Microrrobôs Adaptáveis\n\n<color=#CCD3E0>< ! > Mantenha a calma. Usar Ordens muito rápido acumulará Estresse, deixando você vulnerável.\n\nEsse mod foi traduzido por: Jaosnake",
+    "SS2_NEMCAPTAIN_DESCRIPTION": "O Capitão Nêmesis emite ordens para controlar o campo de batalha e lutar com segurança atrás de seus Microrrobôs Adaptáveis\n\n<color=#CCD3E0>< ! > Mantenha a calma. Usar Ordens muito rápido acumulará Estresse, deixando você vulnerável.",
     "SS2_NEMCAPTAIN_OUTRO_FLAVOR": "... e assim ele se foi, acendendo um novo cigarro.",
     "SS2_NEMCAPTAIN_OUTRO_FAILURE": "... e assim ele retornou, de férias ao menos.",
     "SS2_NEMCAPTAIN_LORE": "Esse planeta é uma droga, cara... *acende um cigarro*",
@@ -17,7 +17,7 @@
    "SS2_NEMCAPTAIN_PRIMARY_NAME": "Problema Padrão",
    "SS2_NEMCAPTAIN_PRIMARY_DESCRIPTION": "Rapidamente dispara para causar <style=cIsDamage>90% de dano</style> por bala. Máximo de 20 projéteis.",
 
-   "SS2_NEMCAPTAIN_SECONDARY_NAME": "Reserva Pessoal",
+   "SS2_NEMCAPTAIN_SECONDARY_NAME": "Reservá Pessoal",
    "SS2_NEMCAPTAIN_SECONDARY_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Arme sua pistola de bengala e dispare um tiro para causar <style=cIsDamage>680% de dano</style>.",
     
    "SS2_NEMCAPTAIN_PUNCH_NAME": "Fujin",

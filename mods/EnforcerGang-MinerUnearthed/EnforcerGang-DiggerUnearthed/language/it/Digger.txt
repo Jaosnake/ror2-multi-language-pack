@@ -1,44 +1,45 @@
 {
 	strings:
 	{
-	"MINER_NAME" : "Miner",
-	"MINER_DESCRIPTION" : "Il Miner è un sopravvissuto corpo a corpo veloce e altamente mobile che dà priorità a lunghe combo di uccisioni per accumulare stack del suo passivo.<color=#CCD3E0>\n\n< ! > Una volta ottenuto un buon numero di stack di Adrenalina, Gouge e Crush saranno la tua migliore fonte di danno.\n\n< ! > Caricare Drill Charge influenza solo il danno inflitto. Mira a terra o contro i nemici per infliggere danni concentrati.\n\n< ! > Puoi toccare Backblast per percorrere una breve distanza. Tienilo premuto per andare più lontano.\n\n< ! > To The Stars può infliggere danni elevati ai nemici grandi.",
-	"MINER_SUBTITLE" : "Tossicodipendente Distruttivo",
-	"MINER_LORE" : "\nTra l'acciaio freddo delle rovine del cargo e l'aria della notte gelida, la fioca luce blu di un diario audio attira la tua attenzione. Il diario giace in totale rovina tra i resti del carico, eppure persiste, rimanendo funzionale. I pulsanti analogici sul telaio del dispositivo pulsano lentamente, come se invitassero chiunque ad ascoltare le loro registrazioni distorte, sempre più incomprensibili...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - R E G I S T R O     1 - - / /</color>\n''Primo registro. Data, ehm... Zero-cinque, zero-uno, cinquantacinque. Gli ottoni hanno deciso di ritirarci dal lavoro in miniera. Dopo mesi di scavi, dopo mesi di sangue, sud<color=#8990A7>-///////-</color> milioni spesi in questa operazione, e la molliamo così? Stronz<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - R E G I S T R O     5 - - / /</color>\n''<color=#8990A7>-////////-</color>centro dell'asteroide. Non ho mai visto niente di simile. Era come un fr<color=#8990A7>-////////-</color> frattale... L'interno è quasi come un caleidoscopio. Dev'essere di val<color=#8990A7>-/////-</color> e gli ottoni ci vogliono fuori, al più presto. Beh, possono baciar<color=#8990A7>-////-</color>. E stasera esco a scavare il resto... Se riesco a piazzarlo, le prossime mille buste paga non reggeranno il confronto. Ho aspettato un'opportunità come questa.''\n\n<color=#8990A7>/ / - - R E G I S T R O     7 - - / /</color>\n''Sono abbastanza sicuro che sappiano tutto. Ora stanno interrogando la gente. Ho nascosto l'artefatto in una presa d'aria nel<color=#8990A7>-//////-</color>, dovrebbe essere al sicuro. Il cargo chiamato UE<color=#8990A7>-////-</color> attraccherà tra pochi mesi. Devo solo resistere e imbarcarmi di nascosto.''\n\n<color=#8990A7>/ / - - R E G I S T R O     15 - - / /</color>\n''Mi stanno cercando. Non ci vorrà molto prima che mi trovino. Nascosto nelle pareti della nave come un f<color=#8990A7>-//////-</color> ratto. Il cargo è in ritardo. Ho dato tutto per questo. Ho dato <i>tutto</i> per questo.''\n\n<color=#8990A7>/ / - - R E G I S T R O     20 - - / /</color>\n''Trovato. Troppo tardi. Il cargo sta decollando, io sono fuori. L'artefatto è nella mia mano, sul punto di mollare la presa, tutto fa male... Se qualcuno lo trova, sappia questo. Hanno provato a prendermi tutto. La miniera, la scoperta, la mia vita... ma questo è mio. La mia eredità.''",
-	"MINER_OUTRO_FLAVOR" : "..e così se ne andò, l'adrenalina che ancora scorreva nelle sue vene.",
+	"MINER_NAME" : "矿工",
+	"MINER_DESCRIPTION" : "矿工是一个快节奏且高机动的近战幸存者，要优先考虑击杀敌人获得被动堆叠。<color=#CCD3E0>\n\n< ! >一旦你获得了大量的肾上腺素，凿击和征服将是你最好的伤害来源。\n\n< ! >钻头冲锋充能只影响造成的伤害。瞄准地面或敌人造成集中伤害。\n\n< ! >可以使用后撤步以移动一小段距离。按住可以移动得更远。\n\n< ! >星之闪烁可以对大型敌人造成高额伤害。",
+	"MINER_SUBTITLE" : "破坏性挖掘者",
+	"MINER_LORE" : "\n在货轮废墟的冰冷钢铁和寒冷的夜晚的空气中，有声杂志的微弱蓝光映入眼帘。日记本在货物的残骸中完全失修，但它仍然存在，保持功能。设备外壳上的模拟按钮缓慢跳动，仿佛在邀请任何人聆听他们扭曲的条目，连贯性不断衰减...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''第一个日志。日期，呃……哦，5，哦，1，20-50-5。布拉斯决定把我们从采矿工作中拉出来。经过几个月的挖掘，经过几个月的鲜血，在这项行动上花费了数百万美元，我们只是放弃了吗？''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''我从来没有见过这样的东西。内部几乎就像一个万花筒。黄铜希望我们尽快离开。今晚我要出去把剩下的挖出来……如果我能做到这一点，接下来的一千薪水就会拿到。我一直在等待这样的机会。''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''很确定他们什么都知道。他们现在在质疑人们。我把神器藏在通风口，应该是安全的。货机叫UES，几个月后对接。我只需要坚持偷偷摸摸。''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''他们在找我，不久他们就找到了我，像一个躲在船壁上的肥老鼠。货机停运，我为此付出了一切。我为此付出了<i>一切</i>。''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''船体某处。没有人回到这里，甚至没有维护。在船到达之前我应该是安全的。''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''船仍然搁置。不知道什么时候出发。'' <color=#8990A7><呻吟></color>\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>在这，最后，最后。必须把神器拿到船上。不过，到处都是安保。佣兵团...'' <color=#8990A7><远处的声音有听不清的对话></color> ''好的。住口。闭嘴走吧。我要去。去。今晚。''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>船出事了。货物飞出。遗失神器。失去了一切. . . . 失去了<color=#8990A7>-//-</color>.''\n\n音频日志的屏幕发出火花和爆裂声，处于完全的黑暗中，伴随着矿工不祥的遗言带来的震耳欲聋的沉默。",
+	"MINER_OUTRO" : "..所以他离开了，肾上腺素还在他的血管里奔腾。",
+	"MINER_OUTRO_FLAVOR" : "..所以他离开了，肾上腺素还在他的血管里奔腾。",
 	
-	"MINER_PASSIVE_NAME" : "Corsa all'Oro",
-	"MINER_PASSIVE_DESCRIPTION" : "Ottieni <style=cIsHealth>ADRENALINA</style> ricevendo oro, aumentando <style=cIsDamage>velocità d'attacco</style>, <style=cIsUtility>velocità di movimento</style> e <style=cIsHealing>rigenerazione salute</style>.",
-	"KEYWORD_CLEAVING" : "<style=cKeywordName>Fendente</style><style=cSub>Applica un debuff accumulabile che riduce l'<style=cIsDamage>armatura</style> di <style=cIsHealth>3 per stack</style>.</style>",
+	"MINER_PASSIVE_NAME" : "淘金热",
+	"MINER_PASSIVE_DESCRIPTION" : "收到金钱时，获得<style=cIsHealth>肾上腺素</style>，提升<style=cIsDamage>攻击速度</style>，<style=cIsUtility>移动速度</style>，和<style=cIsHealing>生命恢复</style>。",
+	"KEYWORD_CLEAVING" : "<style=cKeywordName>裂劈</style><style=cSub>施加一个叠加减益，<style=cIsHealth>每层降低3点</style><style=cIsDamage>护甲</style>。</style>",
 	
-	"MINER_PRIMARY_GOUGE_NAME" : "Gouge",
-	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>Agile.</style> Colpisci selvaggiamente i nemici vicini per <style=cIsDamage>270% danni</style>, <style=cIsHealth>fendendo</style> la loro armatura.",
+	"MINER_PRIMARY_GOUGE_NAME" : "凿击",
+	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>灵巧</style>。向附近的敌人疯狂挥动凿子，造成<style=cIsDamage>270%伤害</style>，<style=cIsHealth>裂劈</style>护甲。",
 	
-	"MINER_PRIMARY_CRUSH_NAME" : "Crush",
-	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>Agile.</style> Schiaccia i nemici vicini per <style=cIsDamage>360% danni</style>. <style=cIsUtility>La portata aumenta con la velocità d'attacco</style>.",
+	"MINER_PRIMARY_CRUSH_NAME" : "征服",
+	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>灵巧</style>。粉碎附近的敌人，造成<style=cIsDamage>360%伤害</style>。<style=cIsUtility>范围随攻击速度增加</style>。",
 	
-	"MINER_SECONDARY_CHARGE_NAME" : "Carica Trivella",
-	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "Carica e scatta contro i nemici per un massimo di <style=cIsDamage>6x180% danni</style>. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	"MINER_SECONDARY_CHARGE_NAME" : "钻头冲锋",
+	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "充能并冲向敌人，最多造成<style=cIsDamage>6x180%伤害</style>。<style=cIsUtility>在此期间不能被击中。</style>",
 	
-	"MINER_SECONDARY_BREAK_NAME" : "Martello Spaccatore",
-	"MINER_SECONDARY_BREAK_DESCRIPTION" : "Scatta in avanti, esplodendo per <style=cIsDamage>2x240% danni</style> al contatto con un nemico. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	"MINER_SECONDARY_BREAK_NAME" : "破坏锤",
+	"MINER_SECONDARY_BREAK_DESCRIPTION" : "向前冲刺，在与敌人接触时，爆炸造成<style=cIsDamage>2x240%伤害</style>。<style=cIsUtility>在此期间不能被击中。</style>",
 	
-	"MINER_UTILITY_BACKBLAST_NAME" : "Backblast",
-	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>Stordente.</style> Spostati all'indietro, colpendo i nemici vicini per <style=cIsDamage>600% danni</style>. Tieni premuto per andare più lontano. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	"MINER_UTILITY_BACKBLAST_NAME" : "后撤步",
+	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>眩晕</style>。向后爆炸，击中附近的敌人，造成<style=cIsDamage>600%伤害</style>。按住后距离更远。<style=cIsUtility>在此期间不能被击中。</style>",
 	
-	"MINER_UTILITY_CAVEIN_NAME" : "Crollo",
-	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>Stordente.</style> Spostati all'indietro, <style=cIsUtility>attirando</style> tutti i nemici in un ampio raggio. <style=cIsUtility>Non puoi essere colpito per la durata.</style>",
+	"MINER_UTILITY_CAVEIN_NAME" : "塌陷",
+	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>眩晕</style>。向后爆炸，<style=cIsUtility>拉动</style>大范围内的所有敌人。<style=cIsUtility>在此期间不能被击中。</style>",
 	
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "Verso le Stelle",
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "Salta in aria, colpendo i nemici direttamente sotto per <style=cIsDamage>6x300% danni</style>.",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "星之闪烁",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "跳到空中，直接击中下方的敌人，造成<style=cIsDamage>6x300%伤害</style>。",
 	
-	"MINER_SPECIAL_TOTHESTARS_NAME" : "Pioggia di Meteore",
-	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "Salta in aria, sparando una pioggia di schegge verso il basso per <style=cIsDamage>15x160% danni</style>.",
+	"MINER_SPECIAL_TOTHESTARS_NAME" : "陨石降落",
+	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "跳到空中，向下射出一团弹片，造成<style=cIsDamage>15x160%伤害</style>。",
 	
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "Cometa Cadente",
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "Salta in aria, sparando una pioggia di schegge verso il basso per <style=cIsDamage>15x160% danni</style>, poi cadi e crea un'enorme esplosione all'impatto che infligge <style=cIsDamage>1500% danni</style> e <style=cIsDamage>incendia</style> i nemici colpiti.",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "坠落的彗星",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "跳到空中，向下射出一团弹片，造成<style=cIsDamage>15x160%伤害</style>，然后向下坠落并产生巨大的冲击力，造成<style=cIsDamage>1500%伤害</style>并<style=cIsDamage>点燃</style>击中的敌人。",
 	
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "Destinato alle Stelle",
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>Stordente</style>. Salta in aria, colpendo i nemici direttamente sotto per un totale di <style=cIsDamage>10x300% danni</style>."
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "星界",
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>眩晕。</style>跳到空中，直接击中下方的敌人，造成<style=cIsDamage>10x300%总伤害</style>。"
 	}
 }

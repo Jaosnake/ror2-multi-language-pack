@@ -2,72 +2,46 @@
 	strings:
 	{
 	"MOFFEIN_PILOT_BODY_NAME" : "Piloto",
-	"MOFFEIN_PILOT_BODY_SUBTITLE" : "?s dos C?us",
-	"MOFFEIN_PILOT_BODY_LORE" : "United Enterprise Shipping convida pilotos de todos os cantos do universo para se inscrever em nosso programa de Comiss?es Aprimoradas para Pilotos Preferenciais! Os benef?cios incluem o acesso a aumentos cibern?ticos de impacto para pousos mais simples, programas de certifica??o em Armas e Seguran?a, e oportunidades de f?rias luxuosas! (Os candidatos devem se inscrever com 5 anos de anteced?ncia em rela??es ?s opera??es de voo. Cibern?ticas n?o s?o garantidas para todos os participantes do programa. Certificados de Armas e Seguran?a v?lidos apenas durante a contrata??o da UES. Todas as oportunidades s?o listadas como est?o e n?o se deve supor quaisquer gratifica??es, oportunidades ou benef?cios adicionais, independentemente de atualiza??es nas leis espaciais mar?timas nos planetas participantes.",
-	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "O Piloto ? um lutador a?reo que se destaca em causar destrui??o enquanto voa.<style=cSub>\r\n\r\n< ! > Piloto pode evitar danos ao manter-se no ar. O uso s?bio de suas habilidades permitem maximizar seu tempo no ar.\r\n\r\n< ! > Alvo Identificado pode ser utilizado para amortecer sua queda.\r\n\r\n< ! > Implementa??o R?pida lan?a-o para cima quando utilizada no ch?o, e para frente quando utilizada no ar.\r\n\r\n< ! > Lance inimigos aos c?us com Ataque A?reo, ent?o combine com Alvo Identificado para mant?-los no ar.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "Ás dos Céus",
+	"MOFFEIN_PILOT_BODY_LORE" : "United Enterprise Shipping convida pilotos de todos os cantos do universo para se inscrevem em nosso programa de Comissões Aprimoradas para Pilotos Preferenciais! Os benefícios incluem o acesso a aumentos cibernéticos de impacto para pousos mais simples, programas de certificação em Armas e Segurança, e oportunidades de férias luxuosas! (Os candidatos devem se inscrever com 5 anos de antecedência em relações às operações de voo. Cibernéticas não são garantidas para todos os participantes do programa. Certificados de Armas e Segurança válidos apenas durante a contratação da UES. Todas as oportunidades são listadas como estão e não se deve supor quaisquer gratificações, oportunidades ou benefícios adicionais, independentemente de atualizações nas leis espaciais marítimas nos planetas participantes.",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "O Piloto é um lutador aéreo que se destaca em causar destruição enquanto voa.<style=cSub>\r\n\r\n< ! > Piloto pode prevenir danos ao manter-se no ar. O uso sábio de suas habilidades permitem maximiar seu tempo no ar.\r\n\r\n< ! > Alvo Identificado pode ser utilizado para amortecer sua queda.\r\n\r\n< ! > Implementação Rápida lança-o para cima quando utilizada no chão, e para frente quando utilizada no ar.\r\n\r\n< ! > Lance inimigos aos céus com Ataque Aéreo, então combine com Alvo Identificado para mantê-los no ar.",
 	
-	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, com seus sonhos do c?u l? embaixo.",
-	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "... e assim ele desapareceu, os c?us para sempre fora do alcance.",
-	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, os c?us para sempre fora do alcance.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, com seus sonhos do céu lá embaixo.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "... e assim ele desapareceu, os céus para sempre fora do alcance.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, os céus para sempre fora do alcance.",
 	
 	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "Tiro Aglomerado",
-	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "Dispare a arma, causando <style=cIsDamage>160% de dano</style>. Cada terceiro acerto <style=cIsDamage>explode</style> e causa <style=cIsDamage>320% de dano</style>.
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "Dispare a arma, causando <style=cIsDamage>160% de dano</style>. Cada terceiro acerto <style=cIsDamage>explode</style> e causa <style=cIsDamage>320% de dano</style>.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "Dispare a arma, causando <style=cIsDamage>160% de dano</style>. Cada terceiro acerto é <style=cIsDamage>perfurante</style> e causa <style=cIsDamage>320% de dano</style>.",
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
-	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "Dispare a arma, causando <style=cIsDamage>160% de dano</style>. Cada terceiro acerto ? <style=cIsDamage>perfurante</style> e causa <style=cIsDamage>320% de dano</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
-
-	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "Tiro R?pido",
-	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>?gil</style>. Dispare a arma rapidamente, causando <style=cIsDamage>140% de dano</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "Tiro Rápido",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Ágil</style>. Dispare a arma rapidamente, causando <style=cIsDamage>140% de dano</style>.",
 	
-	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "Tiro de Supress?o",
-	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>Assassino</style>. Dispare com sua pistola silenciada, causando <style=cIsDamage>100% de dano</style>.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "Tiro de Supressão",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>Assassino</style>. Dispare com sua pistola silenciada, causando <style=cIsDamage>100% de dano</style>.",
 	
 	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "Alvo Identificado!",
-	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "Transforme sua arma em uma <style=cIsDamage>arma de perfura??o inteligente</style>, causando <style=cIsDamage>3x160% de dano</style>. Causa <style=cIsDamage>50%</style> a mais de dano a alvos <style=cIsUtility>no ar</style>. M?ximo de 2.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "Transforme sua arma em uma <style=cIsDamage>arma de perfuração inteligente</style>, causando <style=cIsDamage>3x160% de dano</style>. Causa <style=cIsDamage>50%</style> a mais de dano a alvos <style=cIsUtility>no ar</style>. Máximo de 2.",
 	
-	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "A? v?o bombas!",
-    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "Transforme sua arma em um <style=cIsDamage>lan?ador de granadas de energia</style>, causando <style=cIsDamage>480% de dano</style>. Enquanto estiver <style=cIsUtility>no ar</style>, cause <style=cIsDamage>3x220% de dano</style>. M?ximo de 2.", 
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "Aí vão bombas!",
+    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "Transforme sua arma em um <style=cIsDamage>lançador de granadas de energia</style>, causando <style=cIsDamage>480% de dano</style>. Enquanto estiver <style=cIsUtility>no ar</style>, cause <style=cIsDamage>3x220% de dano</style>. Máximo de 2.", 
 	
-	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "Implementa??o R?pida
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "Implementação Rápida",
+    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Lance-se para o alto e <style=cIsUtility>ative seu paraquedas</style>. Se utilizado no ar. <style=cIsHealth>reduz a elevação</style> em troca de um maior impulso frontal</style>.",
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
-    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Lance-se para o alto e <style=cIsUtility>ative seu paraquedas</style>. Se utilizado no ar, <style=cIsHealth>reduz a eleva??o</style> em troca de um maior impulso frontal.
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "Acrobacia Aérea",
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Corra para a frente</style> e <style=cIsUtility>agarre paredes</style>, ganhando <style=cIsDamage>30% de velocidade de ataque</style>. Impulsiona-se para trás quando <style=cIsUtility>pula em contato com uma parede</style>.",
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "Ataque Aéreo",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "Realize uma <style=cIsUtility>investida</style>, soltando uma bomba <style=cIsDamage>no local</style> que <style=cIsDamage>lança inimigos no ar</style> e causa <style=cIsDamage>600% de dano</style>. Pode ser ativada <style=cIsDamage>3</style> vezes. Máximo de 2.",
 
-    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "Acrobacia A?rea",
-    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Corra para a frente</style> e <style=cIsUtility>agarre paredes</style>, ganhando <style=cIsDamage>30% de velocidade de ataque</style>. Impulsiona-se para tr?s quando <style=cIsUtility>pula em contato com uma parede</style>.
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "Incursão Aérea",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Realize uma <style=cIsUtility>investida</style>, soltando uma bomba <style=cIsDamage>no local</style> que <style=cIsDamage>lança inimigos no ar</style> e causa <style=cIsDamage>800% de dano</style>. Pode ser ativada <style=cIsDamage>6</style> vezes. Máximo de 2.",
 
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "Apoio Aéreo",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "Bombardeie uma área, causando <style=cIsDamage>4x400% de dano</style>, <style=cIsDamage>lançando inimigos no ar</style> no último acero.",
 
-	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "Ataque A?reo",
-	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "Realize uma <style=cIsUtility>investida</style>, soltando uma bomba <style=cIsDamage>no local</style> que <style=cIsDamage>lan?a inimigos no ar</style> e causa <style=cIsDamage>600% de dano</style>. Pode ser ativada <style=cIsDamage>3</style> vezes. M?ximo de 2.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
-
-	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "Incurs?o A?rea",
-	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Realize uma <style=cIsUtility>investida</style>, soltando uma bomba <style=cIsDamage>no local</style> que <style=cIsDamage>lan?a inimigos no ar</style> e causa <style=cIsDamage>800% de dano</style>. Pode ser ativada <style=cIsDamage>6</style> vezes. M?ximo de 2.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
-
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "Apoio A?reo",
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "Bombardeie uma ?rea, causando <style=cIsDamage>4x400% de dano</style>, <style=cIsDamage>lan?ando inimigos no ar</style> no ?ltimo acerto.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
-
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "Barragem A?rea",
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "Bombardeie uma ?rea, causando <style=cIsDamage>8x400% de dano</style>, <style=cIsDamage>lan?ando inimigos no ar</style> no ?ltimo acerto.
-
-Mod original por EnforcerGang. Traduzido por: Jaosnake",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "Barragem Aérea",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "Bombardeie uma área, causando <style=cIsDamage>8x400% de dano</style>, <style=cIsDamage>lançando inimigos no ar</style> no último acero.",
 	}
 }

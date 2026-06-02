@@ -1,21 +1,21 @@
 BOG_DEPUTY_BODY_NAME: A Delegada
-BOG_DEPUTY_BODY_SUBTITLE: Justi?a Rel?mpago
-BOG_DEPUTY_BODY_DESCRIPTION: A Delegada ? uma demonstra de velocidade hiperagressiva que distribui justi?a com seus rev?lveres g?meos e chutes letais.
+BOG_DEPUTY_BODY_SUBTITLE: Justiça Relâmpago
+BOG_DEPUTY_BODY_DESCRIPTION: A Delegada é uma demonstra de velocidade hiperagressivá que distribui justiça com seus revólveres gêmeos e chutes letais.
 Mod original por Bog. Traduzido por: Jaosnake
 Mod original por Bog. Traduzido por: Jaosnake
-BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: Padr?o
-BOG_DEPUTY_BODY_PASSIVE_NAME: Persegui??o Incans?vel
-BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: A Delegada pode correr em qualquer dire??o. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumul?vel.
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: Padrão
+BOG_DEPUTY_BODY_PASSIVE_NAME: Perseguição Incansável
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: A Delegada pode correr em qualquer direção. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumulável.
 Mod original por Bog. Traduzido por: Jaosnake
 Mod original por Bog. Traduzido por: Jaosnake
 PRIMARY_SHOOT_NAME: Tiro Certo
-PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>?gil</style>. Atire com rev?lveres de m?dio alcance para <style=cIsDamage>150% de dano</style>.
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>Ágil</style>. Atire com revólveres de médio alcance para <style=cIsDamage>150% de dano</style>.
 Mod original por Bog. Traduzido por: Jaosnake
 Mod original por Bog. Traduzido por: Jaosnake
-SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>?gil</style>. Arremesse dois rev?lveres. <style=cIsDamage>Atordoante</style>. Salte e atire em um inimigo abaixo de voc? para <style=cIsDamage>6x100% de dano</style>.
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>Ágil</style>. Arremesse dois revólveres. <style=cIsDamage>Atordoante</style>. Salte e atire em um inimigo abaixo de você para <style=cIsDamage>6x100% de dano</style>.
 Mod original por Bog. Traduzido por: Jaosnake
 Mod original por Bog. Traduzido por: Jaosnake
-UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>?gil</style>. Atire um tiro preciso que pode ser ligeiramente angulado para cima. Cause <style=cIsDamage>150% de dano</style>.
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>Ágil</style>. Atire um tiro preciso que pode ser ligeiramente angulado para cima. Cause <style=cIsDamage>150% de dano</style>.
 Mod original por Bog. Traduzido por: Jaosnake
 Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Abates resetam o resfriamento de sua habilidade de utilidade</style>.

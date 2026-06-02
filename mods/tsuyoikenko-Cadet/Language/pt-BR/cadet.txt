@@ -1,12 +1,12 @@
 KENKO_CADET_NAME: Cadete
-KENKO_CADET_SUBTITLE: Atirador Vers?til
+KENKO_CADET_SUBTITLE: Atirador Versátil
 KENKO_CADET_MASTERY_SKIN_NAME: Cadete: Especialista
 PRIMARY_SMG_NAME: Metralhadora
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare rapidamente sua metralhadora para <style=cIsDamage>60% de dano</style> por tiro.
+PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare rapidamente sua metralhadora para <style=cIsDamage>60% de dano</style> por tiro.
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 PRIMARY_SHOTGUN_NAME: Escopeta
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispare sua escopeta para <style=cIsDamage>100% de dano</style>.
+PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Ágil</style>. Dispare sua escopeta para <style=cIsDamage>100% de dano</style>.
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SECONDARY_GRENADE_NAME: Granada
@@ -18,15 +18,15 @@ SECONDARY_THROWGUN_DESCRIPTION: Arremesse sua arma atual para <style=cIsDamage>6
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 UTILITY_SLIDE_NAME: Deslizar
-UTILITY_SLIDE_DESCRIPTION: Deslize em uma dire??o, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
+UTILITY_SLIDE_DESCRIPTION: Deslize em uma direção, <style=cIsUtility>recarregando</style> sua arma instantaneamente.
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
-UTILITY_ROLLOAD_NAME: Rolamento T?tico
-UTILITY_ROLLOAD_DESCRIPTION: Role em uma dire??o, recarregando sua arma.
+UTILITY_ROLLOAD_NAME: Rolamento Tático
+UTILITY_ROLLOAD_DESCRIPTION: Role em uma direção, recarregando sua arma.
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SPECIAL_ECHO_NAME: Eco
-SPECIAL_ECHO_DESCRIPTION: Dispare drones s?nicos que ricocheteiam entre inimigos, causando <style=cIsDamage>350% de dano</style> e aplicando lentid?o.
+SPECIAL_ECHO_DESCRIPTION: Dispare drones sônicos que ricocheteiam entre inimigos, causando <style=cIsDamage>350% de dano</style> e aplicando lentidão.
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 Mod original por tsuyoikenko. Traduzido por: Jaosnake
 SPECIAL_ULTRA_NAME: Ultra

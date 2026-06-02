@@ -18,7 +18,7 @@
         "ROB_DRIVER_BODY_PASSIVE_NAME": "Supervivencialista",
         "ROB_DRIVER_BODY_PASSIVE_DESCRIPTION": "Los enemigos tienen probabilidad de soltar un <style=cIsUtility>arma</style> nueva. Estas otorgan <style=cIsDamage>ataques poderosos</style> por tiempo limitado.\n\n<i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>",
         "ROB_DRIVER_BODY_PASSIVE2_NAME": "Tirador (Legado)",
-        "ROB_DRIVER_BODY_PASSIVE2_DESCRIPTION": Tu <style=cIsHealth>pistola</style> de confianza es todo lo que necesitas.\n\n<i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>",
+        "ROB_DRIVER_BODY_PASSIVE2_DESCRIPTION": "Tu <style=cIsHealth>pistola</style> de confianza es todo lo que necesitas.\n\n<i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>",
         "ROB_DRIVER_BODY_PASSIVE3_NAME": "Leadfoot",
         "ROB_DRIVER_BODY_PASSIVE3_DESCRIPTION": "Los enemigos tienen probabilidad de soltar <style=cIsHealth>munición</style>. Estas otorgan a tu <style=cIsHealth>arma</style> <style=cIsDamage>ataques poderosos</style> por tiempo limitado.\n\n<i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>",
         "ROB_DRIVER_BODY_PASSIVE4_NAME": "Godsling",

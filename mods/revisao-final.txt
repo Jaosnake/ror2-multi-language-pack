@@ -1,0 +1,43 @@
+========================================
+REVISAO FINAL - ror2 Multi-Language Pack
+Data: 01/06/2026 23:05
+========================================
+
+MODS COM TRADUCOES: 32
+TOTAL DE ARQUIVOS: 439
+
+Bog-Deputy: 14 arquivos [Bog-Deputy, en, es-419, FR, ja, pt-BR, ru, zh-CN]
+Bog-Mortician: 14 arquivos [Bog-Mortician, en, es-419, FR, ja, pt-BR, ru, zh-CN]
+Bog-Pathfinder: 14 arquivos [Bog-Pathfinder, en, es-419, FR, ja, pt-BR, ru, zh-CN]
+EnforcerGang-Enforcer: 24 arquivos [de, english, es-419, es-ES, FR, it, ja, ko, pt-BR, ru, tr, uk, zh-CN]
+EnforcerGang-HAND_OVERCLOCKED: 12 arquivos [de, en, es-ES, FR, IT, ja, ko, pt-br, ru, tr, UK, zh-CN]
+EnforcerGang-MinerUnearthed: 29 arquivos [de, en, es-ES, FR, it, ja, ko, pt-BR, ru, UK, zh-CN]
+EnforcerGang-Pilot: 6 arquivos [en, FR, ko, pt-BR, ru, zh-CN]
+EnforcerGang-Rocket: 8 arquivos [en, FR, ja, ko, pt-BR, ru, uk, zh-CN]
+Frosthex-SorceressMod: 1 arquivos [Language]
+HasteReapr-AssassinMod: 12 arquivos [de, en, es-419, FR, IT, ja, ko, pt-BR, RU, tr, UK, zh-CN]
+JavAngle-Myst: 14 arquivos [en, es-419, FR, ja, JavAngle-Myst, pt-BR, ru, zh-CN]
+JavAngle-TheHouse: 14 arquivos [en, es-419, FR, ja, JavAngle-TheHouse, pt-BR, ru, zh-CN]
+nayDPz-Dancer: 14 arquivos [en, es-419, FR, ja, nayDPz-Dancer, pt-BR, ru, zh-CN]
+Paladin_Alliance-PaladinMod: 9 arquivos [english, es-419, es-ES, FR, IT, ja, pt-BR, ru, zh-CN]
+PopcornFactory-Arsonist_Mod: 14 arquivos [en, es-419, FR, ja, PopcornFactory-Arsonist_Mod, pt-BR, ru, zh-CN]
+PopcornFactory-Lee_Hyperreal: 14 arquivos [en, es-419, FR, ja, PopcornFactory-Lee_Hyperreal, pt-BR, ru, zh-CN]
+public_ParticleSystem-Driver: 14 arquivos [en, es-419, FR, ja, pt-BR, public_ParticleSystem-Driver, ru, zh-CN]
+public_ParticleSystem-Ravager: 5 arquivos [en, pt-BR, public_ParticleSystem-Ravager, ru, zh-CN]
+Risky_Lives-RiskyTweaks: 5 arquivos [en, ko, PT-BR, RU, zh-CN]
+rob-Belmont: 14 arquivos [de, en, es-419, FR, IT, ja, ko, pt-BR, rob-Belmont, ru, tr, UK, zh-CN]
+rob-Dante: 13 arquivos [de, en, es-419, FR, IT, ja, ko, pt-BR, rob-Dante, ru, tr, UK, zh-CN]
+rob-HEL_P: 14 arquivos [en, es-419, FR, ja, pt-BR, rob-HEL_P, ru, zh-CN]
+rob-HUNK: 15 arquivos [en, es-419, FR, ja, pt-BR, rob-HUNK, ru, zh-CN]
+SandsweptTeam-Sandswept: 4 arquivos [SandsweptTeam-Sandswept]
+TeamCloudburst-Cloudburst: 33 arquivos [de, english, es-419, IT, ja, ko, pt-BR, ru, tr, UK, zh-CN]
+TeamSillyGuy-Bastian: 14 arquivos [en, es-419, FR, ja, pt-BR, ru, TeamSillyGuy-Bastian, zh-CN]
+The_Bozos-RobomandoMod: 1 arquivos [The_Bozos-RobomandoMod]
+TheTimesweeper-Red_Alert: 40 arquivos [de, english, es-419, es-ES, FR, IT, ja, ko, pt-BR, ru, TheTimesweeper-Red_Alert, tr, UK, zh-CN]
+toastyTeam-Rifter: 14 arquivos [en, es-419, FR, ja, pt-BR, ru, toastyTeam-Rifter, zh-CN]
+tsuyoikenko-Banshee: 12 arquivos [de, en, es-419, FR, IT, ja, ko, pt-BR, ru, tr, UK, zh-CN]
+tsuyoikenko-Cadet: 14 arquivos [en, es-419, FR, ja, pt-BR, ru, tsuyoikenko-Cadet, zh-CN]
+tsuyoikenko-Interrogator: 14 arquivos [en, es-419, FR, ja, pt-BR, ru, tsuyoikenko-Interrogator, zh-CN]
+
+
+ERROS: NENHUM - TODOS OS ARQUIVOS COM CREDITO!

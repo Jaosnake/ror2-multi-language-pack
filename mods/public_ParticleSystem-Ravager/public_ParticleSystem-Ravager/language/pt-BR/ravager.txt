@@ -1,157 +1,111 @@
 {
 	strings: {
-  	 "ROB_RAVAGER_BODY_NAME": "Ravager",
-  	 "ROB_RAVAGER_BODY_DESCRIPTION": "O Ravager ? um brigador corpo a corpo ?gil que se cura ao abater inimigos para permanecer na batalha.<color=#CCD3E0>\n\n< ! > Pular de paredes carregado ? a melhor forma de lidar com inimigos voadores.\n\n< ! > Cindir ? ?til para cancelar ataques de alto dano, al?m de manter a produ??o de dano.\n\n< ! > Coagular pode ser ?til em apertos se voc? n?o tiver certeza de que conseguir? encher o Po?o de Sangue, mas tamb?m pode ser usado passivamente para se manter cheio.\n\n< ! > Esmagar cura sob demanda, ent?o agarre e consuma algo se sua sa?de estiver baixa.
+ 	 "ROB_RAVAGER_BODY_NAME": "掠夺者",
+ 	 "ROB_RAVAGER_BODY_DESCRIPTION": "掠夺者是一位敏捷的近战斗士，他能通过杀死敌人来治愈自己，从而在战场中存活下去。<color=#CCD3E0>\n\n< ! > 蹬墙跳是对付空中敌人的绝佳手段。\n\n< ! > 劈裂可以规避即将到来的高能打击并打出大量伤害。\n\n< ! > 如果你不能让血池充分填充，凝血会很有帮助，但它也可以被动生效以保持你的状态。\n\n< ! > 对治疗能力有极高的要求，所以尽可能获取治疗物品。",
+ 	 "ROB_RAVAGER_BODY_SUBTITLE": "冷酷篡夺者",
+ 	 "ROB_RAVAGER_BODY_LORE": "掠夺者的力量不属于自己...\n\n...相反，他生来就带着一把被诅咒的血色武士刀。 但是有一天他去了便便次元，遇到了邪恶的力量.....\n\n他最终从便便次元中逃了出来，并驾驭了这种可怕的邪恶力量，随后他乘坐Petrichor V飞船并欲要毁灭宇宙。",
+ 	 "ROB_RAVAGER_BODY_OUTRO_FLAVOR": "..于是他离开了，去寻找并亵渎新的世界。",
+ 	 "ROB_RAVAGER_BODY_OUTRO_FAILURE": "..就这样，他消失了，他荒谬的暴力终于结束了。",
 
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-  	 "ROB_RAVAGER_BODY_SUBTITLE": "Usurpador Insens?vel",
-  	 "ROB_RAVAGER_BODY_LORE": "O Ravager n?o nasceu com um poder especial...\n\n...em vez disso, ele nasceu com uma Katana Amaldi?oada de Sangue Derramado, mas um dia ele foi para a Dimens?o do Coc? e foi recebido por um poder maligno.....\n\nFinalmente escapou da Dimens?o do Coc? e empunhando esse incr?vel poder maligno, ele veio a Petr?coro V para destruir o universo?",
-  	 "ROB_RAVAGER_BODY_OUTRO_FLAVOR": "..e ent?o ele partiu, em busca de novas terras para profanar.",
-  	 "ROB_RAVAGER_BODY_OUTRO_FAILURE": "..e ent?o ele desapareceu, sua viol?ncia rid?cula finalmente chegando ao fim.",
+ 	 "ROB_RAVAGER_BODY_DEFAULT_SKIN_NAME": "默认",
+ 	 "ROB_RAVAGER_BODY_MONSOON_SKIN_NAME": "虚空之触",
+     "ROB_RAVAGER_BODY_MONSOON_ALTERNATE_SKIN_NAME": "虚空之触 EX",
+     "ROB_RAVAGER_BODY_TYPHOON_SKIN_NAME": "[数据删除]",
+ 	 "ROB_RAVAGER_BODY_VOID_SKIN_NAME": "虚空之子",
+	 "ROB_RAVAGER_BODY_SELLSWORD_SKIN_NAME": "雇佣兵",
+	 "ROB_RAVAGER_BODY_GUERRILLA_SKIN_NAME": "游击队",
+ 	 "ROB_RAVAGER_BODY_MAHORAGA_SKIN_NAME": "天命者",
+ 	 "ROB_RAVAGER_BODY_MINECRAFT_SKIN_NAME": "我的世界",
 
-  	 "ROB_RAVAGER_BODY_DEFAULT_SKIN_NAME": "Default",
-  	 "ROB_RAVAGER_BODY_MONSOON_SKIN_NAME": "Voidtouched",
-     "ROB_RAVAGER_BODY_MONSOON_ALTERNATE_SKIN_NAME": "Voidtouched EX",
-     "ROB_RAVAGER_BODY_TYPHOON_SKIN_NAME": "[?????? ???????]",
-  	 "ROB_RAVAGER_BODY_VOID_SKIN_NAME": "Voidborn",
- 	 "ROB_RAVAGER_BODY_MANGUY_SKIN_NAME": "Marauder",
- 	 "ROB_RAVAGER_BODY_COMMANDO_SKIN_NAME": "Commando",
- 	 "ROB_RAVAGER_BODY_SELLSWORD_SKIN_NAME": "Sellsword",
- 	 "ROB_RAVAGER_BODY_GUERRILLA_SKIN_NAME": "Guerrilla",
-  	 "ROB_RAVAGER_BODY_MAHORAGA_SKIN_NAME": "Divine",
-  	 "ROB_RAVAGER_BODY_MINECRAFT_SKIN_NAME": "Minecraft",
+     "ROB_RAVAGER_BODY_BLOODWELL_NAME": "血池",
+     "ROB_RAVAGER_BODY_BLOODWELL_DESCRIPTION": "掠夺者通过攻击来积累 <style=cIsHealth>血液</style> ，血池积满时消耗并治疗你 <style=cIsHealing>75% 已损失生命值</style> 并短时间 <style=cIsDamage>强化你的技能</style> 。",
+     "ROB_RAVAGER_BODY_BLOODWELL2_NAME": "灵液罐",
+     "ROB_RAVAGER_BODY_BLOODWELL2_DESCRIPTION": "掠夺者通过攻击来积累 <style=cIsHealth>血液</style>，血池积满时消耗并治疗你 <style=cIsHealing>100% 最大生命值</style> 并短时间<style=cIsDamage>强化你的技能</style>。 <style=cIsHealth>攻击时消耗更快</style>。",
+     "ROB_RAVAGER_BODY_PARASITE_NAME": "寄生",
+     "ROB_RAVAGER_BODY_PARASITE_DESCRIPTION": "<style=cIsHealth>它很饥饿 ...</style>",
+ 	 "ROB_RAVAGER_BODY_PASSIVE_NAME": "超凡体能",
+ 	 "ROB_RAVAGER_BODY_PASSIVE_DESCRIPTION": "掠夺者可以 <style=cIsUtility>从墙上跳下来</style> 并 <style=cIsHealth>震击敌人</style>。 蹬墙跳可以蓄能来<style=cIsDamage>远距离跳跃</style>。",
+     "ROB_RAVAGER_BODY_PASSIVE2_NAME": "扭曲突变",
+     "ROB_RAVAGER_BODY_PASSIVE2_DESCRIPTION": "跳在空中可以蓄能并 <style=cIsUtility>向前闪现</style>，每次跳跃仅生效一次。降落时 <style=cIsDamage>攻击</style> 可刷新此技能。",
+     "ROB_RAVAGER_BODY_PASSIVE3_NAME": "扭曲突变 (后遗症)",
+     "ROB_RAVAGER_BODY_PASSIVE3_DESCRIPTION": "<style=cIsHealth>消耗 5% 当前生命值。</style>跳在空中可以蓄能并 <style=cIsUtility>向前闪现</style>，每次跳跃仅生效一次。降落时<style=cIsDamage>攻击</style>可刷新此技能。",
+     "ROB_RAVAGER_BODY_CONFIRM_NAME": "确认",
+ 	 "ROB_RAVAGER_BODY_CONFIRM_DESCRIPTION": "继续当前技能。",
+ 	 "ROB_RAVAGER_BODY_CANCEL_NAME": "取消",
+ 	 "ROB_RAVAGER_BODY_CANCEL_DESCRIPTION": "取消当前技能。",
 
-     "ROB_RAVAGER_BODY_BLOODWELL_NAME": "Po?o de Sangue",
-     "ROB_RAVAGER_BODY_BLOODWELL_DESCRIPTION": "O Ravager armazena <style=cIsHealth>sangue</style> com seus golpes, que ? drenado quando cheio para curar <style=cIsHealing>75% da sa?de perdida</style> e <style=cIsDamage>fortalecer suas habilidades</style> temporariamente.
+ 	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_NAME": "劈砍",
+ 	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "向前攻击造成 <style=cIsDamage> 230% 伤害</style>。 在 <style=cIsUtility>蹬墙跳蓄能</style> 时使用可抓住 <style=cIsDamage>支撑点</style>。",
+     "ROB_RAVAGER_BODY_PRIMARY_SLASHCOMBO_NAME": "肢解",
+     "ROB_RAVAGER_BODY_PRIMARY_SLASHCOMBO_DESCRIPTION": "向前攻击造成 <style=cIsDamage> 180% 伤害</style>。 每 3 次攻击 <style=cIsUtility>击晕敌人</style> 并造成 <style=cIsDamage> 390% 伤害</style>。",
+	 
+ 	 "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_NAME": "劈裂",
+ 	 "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_DESCRIPTION": "箭步向前，进行大范围 <style=cIsUtility>击晕</style> 并造成 <style=cIsDamage> 500% 伤害</style>。",
 
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_BLOODWELL2_NAME": "Bombona de Icor",
-     "ROB_RAVAGER_BODY_BLOODWELL2_DESCRIPTION": "O Ravager armazena <style=cIsHealth>sangue</style> com seus golpes, que ? drenado quando cheio para curar <style=cIsHealing>100% da sa?de m?xima</style> e <style=cIsDamage>fortalecer suas habilidades</style> temporariamente. <style=cIsHealth>Drena mais r?pido ao atacar.</style>
+	 "ROB_RAVAGER_BODY_UTILITY_HEAL_NAME": "凝血",
+	 "ROB_RAVAGER_BODY_UTILITY_HEAL_DESCRIPTION": "凝结 <style=cIsHealth>血池</style>，<style=cIsHealing>治疗自己</style> 并消耗血池。",
+	 "ROB_RAVAGER_BODY_UTILITY_BEAM_NAME": "反斥",
+	 "ROB_RAVAGER_BODY_UTILITY_BEAM_DESCRIPTION": "<style=cIsHealth>吸收</style> 来袭的 <style=cIsUtility>弹射物</style> ，发动毁灭性的爆炸，完全蓄能可造成 <style=cIsDamage> 5000% 伤害</style> 。",
+     "ROB_RAVAGER_BODY_UTILITY_SWAP_NAME": "移行",
+     "ROB_RAVAGER_BODY_UTILITY_SWAP_DESCRIPTION": "和 <style=cIsUtility>任何实体</style>交换位置。",
+	 "ROB_RAVAGER_BODY_UTILITY_SNATCH_NAME": "鬼手",
+	 "ROB_RAVAGER_BODY_UTILITY_SNATCH_DESCRIPTION": "发射你的 <style=cIsDamage>鬼手</style> 抓住前方的敌人， <style=cIsUtility>并将自己拉向命中的敌人</style>。",
 
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_PARASITE_NAME": "O Parasita",
-     "ROB_RAVAGER_BODY_PARASITE_DESCRIPTION": "<style=cIsHealth>Ele est? faminto....</style>
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-  	 "ROB_RAVAGER_BODY_PASSIVE_NAME": "Proeza F?sica",
-  	 "ROB_RAVAGER_BODY_PASSIVE_DESCRIPTION": "O Ravager pode <style=cIsUtility>saltar de paredes</style> e de <style=cIsHealth>inimigos</style>. Use <style=cIsUtility>o Ataque</style> enquanto carrega para entrar em uma <style=cIsDamage>postura de espera</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_PASSIVE2_NAME": "Muta??o Distorcida",
-     "ROB_RAVAGER_BODY_PASSIVE2_DESCRIPTION": "<style=cIsHealth>10% de PV</style>. Pule no ar para carregar um <style=cIsUtility>salto instant?neo</style> para frente, uma vez por pulo. Acertar <style=cIsDamage>golpes corpo a corpo</style> recarrega esta habilidade.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_PASSIVE3_NAME": "Muta??o Distorcida (Legado)",
-     "ROB_RAVAGER_BODY_PASSIVE3_DESCRIPTION": "<style=cIsHealth>Custa 5% da sa?de atual.</style> Pule no ar para <style=cIsUtility>se deslocar instantaneamente</style> para frente, uma vez por pulo. Acertar <style=cIsDamage>golpes corpo a corpo</style> recarrega esta habilidade.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_CONFIRM_NAME": "Confirmar",
-  	 "ROB_RAVAGER_BODY_CONFIRM_DESCRIPTION": "Prosseguir com a habilidade atual.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-  	 "ROB_RAVAGER_BODY_CANCEL_NAME": "Cancelar",
-  	 "ROB_RAVAGER_BODY_CANCEL_DESCRIPTION": "Cancelar a habilidade atual.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-
-  	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_NAME": "Retalhar",
-  	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "Golpeie para frente causando <style=cIsDamage>230% de dano</style>. <style=cIsHealth>Os golpes s?o mais r?pidos quanto menor sua sa?de.</style>
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_PRIMARY_SLASHCOMBO_NAME": "Desmantelar",
-     "ROB_RAVAGER_BODY_PRIMARY_SLASHCOMBO_DESCRIPTION": "Golpeie para frente causando <style=cIsDamage>180% de dano</style>. A cada 3 golpes, <style=cIsUtility>atordoa</style> e causa <style=cIsDamage>390% de dano</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
- 	 
-  	 "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_NAME": "Cindir",
-  	 "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_DESCRIPTION": "Avance e realize um corte largo e <style=cIsUtility>atordoante</style> causando <style=cIsDamage>500% de dano</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-
- 	 "ROB_RAVAGER_BODY_UTILITY_HEAL_NAME": "Coagular",
- 	 "ROB_RAVAGER_BODY_UTILITY_HEAL_DESCRIPTION": "Drene instantaneamente o <style=cIsHealth>Po?o de Sangue</style>, <style=cIsHealing>curando a si mesmo</style> com o sangue consumido.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
- 	 "ROB_RAVAGER_BODY_UTILITY_BEAM_NAME": "Anular",
- 	 "ROB_RAVAGER_BODY_UTILITY_BEAM_DESCRIPTION": "<style=cIsHealth>Absorva</style> <style=cIsUtility>proj?teis</style> recebidos para carregar uma explos?o devastadora que causa at? <style=cIsDamage>5.000% de dano</style> quando totalmente carregada.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_UTILITY_SWAP_NAME": "Boogie Woogie",
-     "ROB_RAVAGER_BODY_UTILITY_SWAP_DESCRIPTION": "Troque de lugar com <style=cIsUtility>qualquer entidade</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
- 	 "ROB_RAVAGER_BODY_UTILITY_SNATCH_NAME": "Agarrar",
- 	 "ROB_RAVAGER_BODY_UTILITY_SNATCH_DESCRIPTION": "Lance seu <style=cIsDamage>bra?o demon?aco</style> e agarre um inimigo distante, <style=cIsUtility>puxando-se em dire??o ao que ele acertar</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-
- 	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_NAME": "Esmagar",
- 	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_DESCRIPTION": "Avance e <style=cIsUtility>agarre</style> inimigos pr?ximos, ent?o esmague-os causando <style=cIsDamage>1.000% de dano</style>. Se matar, <style=cIsHealth>consuma</style> o inimigo para restaurar <style=cIsHealing>10% da sa?de m?xima</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
- 	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_SCEPTER_NAME": "Aniquilar",
- 	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_SCEPTER_DESCRIPTION": "Avance e <style=cIsUtility>agarre</style> inimigos pr?ximos, ent?o esmague-os causando <style=cIsDamage>1.000% de dano</style>. Se matar, <style=cIsHealth>consuma</style> o inimigo para restaurar <style=cIsHealing>10% da sa?de m?xima</style>.\n<color=#d299ff>CETRO: Raio de esmagamento maior, e pressione Pular enquanto arrasta para subir instantaneamente.</color>
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
-     "ROB_RAVAGER_BODY_SPECIAL_PUNCH_NAME": "Socar",
-     "ROB_RAVAGER_BODY_SPECIAL_PUNCH_DESCRIPTION": "Avance e <style=cIsUtility>soco</style>, causando <style=cIsDamage>1.000% de dano</style> com uma <style=cIsUtility>onda de choque</style> que causa o mesmo dano. Se matar, <style=cIsHealth>consuma</style> o inimigo para restaurar <style=cIsHealing>10% da sa?de m?xima</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
- 	 "ROB_RAVAGER_BODY_SPECIAL_THROW_NAME": "Arremessar",
- 	 "ROB_RAVAGER_BODY_SPECIAL_THROW_DESCRIPTION": "Avance e <style=cIsUtility>agarre</style> inimigos pr?ximos, ent?o arremesse-os causando <style=cIsDamage>1.000% de dano</style> no impacto. Se matar, <style=cIsHealth>consuma</style> o inimigo para restaurar <style=cIsHealing>10% da sa?de m?xima</style>.
-
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake",
+	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_NAME": "冷血",
+	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_DESCRIPTION": "前冲并 <style=cIsUtility>抓住</style> 近距离的敌人， 然后猛击造成 <style=cIsDamage> 1000% 伤害</style>。 如果此技能 <style=cIsHealth>击杀</style>敌人，则治愈 <style=cIsHealing> 10%  最大生命值</style>。",
+	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_SCEPTER_NAME": "恶行",
+	 "ROB_RAVAGER_BODY_SPECIAL_GRAB_SCEPTER_DESCRIPTION": "扔出手雷 <style=cIsUtility>击晕</style> 敌人 并造成 <style=cIsDamage> 1000% 伤害</style>。 <style=cIsUtility>最多可持有 2 枚。</style>" + Helpers.ScepterDescription("替换为扔出燃烧手雷。",
+     "ROB_RAVAGER_BODY_SPECIAL_PUNCH_NAME": "连拳",
+     "ROB_RAVAGER_BODY_SPECIAL_PUNCH_DESCRIPTION": "前冲并 <style=cIsUtility>击打</style>敌人，造成 <style=cIsDamage> 1250% 伤害</style> 并产生 <style=cIsUtility>冲击波</style> 以相同伤害穿透后方敌人。 如果此技能 <style=cIsHealth>击杀</style> 敌人，则治愈 <style=cIsHealing>10% 最大生命值</style>。",
+	 "ROB_RAVAGER_BODY_SPECIAL_THROW_NAME": "猛摔",
+	 "ROB_RAVAGER_BODY_SPECIAL_THROW_DESCRIPTION": "前冲并 <style=cIsUtility>抓住</style> 近距离的敌人，然后扔出敌人造成 <style=cIsDamage> 1000% 伤害</style> 。 如果此技能 <style=cIsHealth>击杀</style> 敌人，则治愈 <style=cIsHealing> 10% 最大生命值</style>。",
  
-     "KEYWORD_REDGUY_M12": "<style=cKeywordName>Postura de Espera</style><style=cSub>Ao carregar um salto de parede, entre em uma <style=cIsUtility>postura de espera</style>. Solte para golpear causando at? <style=cIsDamage>5x de dano</style> baseado na velocidade.",
- 	 "KEYWORD_REDGUY_M1": "<style=cKeywordName>Efeito Fortalecido</style><style=cSub>Golpes mais r?pidos.",
- 	 "KEYWORD_REDGUY_M2": "<style=cKeywordName>Efeito Fortalecido (Terrestre)</style><style=cSub>Acertos bem-sucedidos <style=cIsUtility>avan?am mais</style> e <style=cIsDamage>aumentam o dano em 50%</style>, acumul?vel.",
- 	 "KEYWORD_REDGUY_M2B": "<style=cKeywordName>Efeito Fortalecido (A?reo)</style><style=cSub>Causa mais dano a <style=cIsUtility>inimigos com pouca sa?de</style> e avan?a mais.",
- 	 "KEYWORD_REDGUY_HEAL":  "<style=cKeywordName>Efeito Fortalecido</style><style=cSub>Explode causando <style=cIsDamage>2.400% de dano</style>.",
- 	 "KEYWORD_REDGUY_BEAM":  "<style=cKeywordName>Efeito Fortalecido</style><style=cSub>Carrega muito mais r?pido.",
- 	 "KEYWORD_REDGUY_GRAB": "<style=cKeywordName>Efeito Fortalecido</style><style=cSub>Pode agarrar chefes. Arraste inimigos pelo ch?o, causando dano ao longo do tempo.",
- 	 "KEYWORD_REDGUY_GRAB2": "<style=cKeywordName>Chefes</style><style=cSub>Contra chefes, <style=cIsDamage>grude</style> neles e ative o goblin mode.",
-     "KEYWORD_REDGUY_PUNCH": "<style=cKeywordName>Efeito Fortalecido</style><style=cSub>Desencadeia uma saraivada de socos, causando dano pesado.",   
+     "KEYWORD_REDGUY_M12": "<style=cKeywordName>支撑点</style><style=cSub>在蹬墙跳蓄能时抓住 <style=cIsUtility>支撑点</style>。 释放时向前冲并基于当前速度造成 <style=cIsDamage>5x 伤害</style>。",
+	 "KEYWORD_REDGUY_M1": "<style=cKeywordName>赋予效果</style><style=cSub>速度加快。",
+	 "KEYWORD_REDGUY_M2": "<style=cKeywordName>赋予效果 (地面)</style><style=cSub>成功触发时 <style=cIsUtility>增加移动距离</style> 并 <style=cIsDamage>增加 50% 伤害</style>，可叠加。",
+	 "KEYWORD_REDGUY_M2B": "<style=cKeywordName>赋予效果 (空中)</style><style=cSub>对 <style=cIsUtility>低生命敌人</style> 伤害增加并增加移动距离。",
+	 "KEYWORD_REDGUY_HEAL":  "<style=cKeywordName>赋予效果</style><style=cSub>爆炸造成 <style=cIsDamage> 2400% 伤害</style>。",
+	 "KEYWORD_REDGUY_BEAM":  "<style=cKeywordName>赋予效果</style><style=cSub>蓄能速度加快。",
+	 "KEYWORD_REDGUY_GRAB": "<style=cKeywordName>赋予效果</style><style=cSub>可抓住Boss。 在地面上拖拽敌人，随着时间造成伤害。",
+	 "KEYWORD_REDGUY_GRAB2": "<style=cKeywordName>首领特攻</style><style=cSub>对Boss释放可<style=cIsDamage>附着</style> 敌人并进入虚幻形态。",
+     "KEYWORD_REDGUY_PUNCH": "<style=cKeywordName>赋予效果</style><style=cSub>打出一连串的拳击，造成严重伤害。",   
 
- 	 "ROB_RAVAGER_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "Um Sonho de Armagedom",
- 	 "ROB_RAVAGER_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "Um Sonho de Armagedom",
- 	 "ROB_RAVAGER_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "Aplique 50 ac?mulos de Sangramento em um inimigo.",
- 	 
- 	 "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Maestria",
- 	 "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Maestria",
- 	 "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, ven?a o jogo ou se aniquile na Mon??o.",
- 	 
-     "ROB_RAVAGER_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Grande Maestria",
-     "ROB_RAVAGER_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Grande Maestria",
-     "ROB_RAVAGER_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, ven?a o jogo ou se aniquile no Tuf?o ou Eclipse.\n<color=#8888>Conta qualquer dificuldade Tuf?o ou superior</color>",
- 	 
- 	 "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Em uma Trilha de Fogo",
-     "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Em uma Trilha de Fogo",
-     "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, esmague um inimigo no ch?o 3+ vezes em uma agarrada.",
+	 "ROB_RAVAGER_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "末日噩梦",
+	 "ROB_RAVAGER_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "末日噩梦",
+	 "ROB_RAVAGER_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "对一个敌人施加50层流血效果。",
+	 
+	 "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：精通",
+	 "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：精通",
+	 "ROB_RAVAGER_BODY_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，在季风难度完成游戏或抹除自己。",
+	 
+     "ROB_RAVAGER_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：大师精通",
+     "ROB_RAVAGER_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：大师精通",
+     "ROB_RAVAGER_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，在台风难度或月食完成游戏或抹除自己。\n<color=#8888>台风及以上难度生效。</color>",
+	 
+	 "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：火焰之路",
+     "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：火焰之路",
+     "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，在一次抓取中将一名敌人摔在地上 3 次以上。",
      
- 	 "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Hungry Fella",
-     "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Hungry Fella",
-     "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, consuma 8 ou mais inimigos de uma s? vez.",
- 	 
- 	 "ROB_RAVAGER_BODY_BEAM_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Calmo como um Oceano",
- 	 "ROB_RAVAGER_BODY_BEAM_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Calmo como um Oceano",
- 	 "ROB_RAVAGER_BODY_BEAM_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, complete um est?gio sem encher o Po?o de Sangue.",
- 	 
- 	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Maximum Monkey",
- 	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Maximum Monkey",
- 	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, pule em paredes 20 vezes sem tocar o ch?o.",
- 	 
- 	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: All My Fellas",
- 	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: All My Fellas",
- 	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, tenha 15 aliados vivos de uma s? vez.",
- 	 
- 	 "ROB_RAVAGER_BODY_GUYMAN_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Autorreflex?o Rigorosa",
- 	 "ROB_RAVAGER_BODY_GUYMAN_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Autorreflex?o Rigorosa",
- 	 "ROB_RAVAGER_BODY_GUYMAN_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, olhe para o abismo at? ele olhar de volta.",
- 	 
- 	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_UNLOCKABLE_NAME": "Ravager: Do Nada",
- 	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_ACHIEVEMENT_NAME": "Ravager: Do Nada",
- 	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_ACHIEVEMENT_DESC": "Como Ravager, escape do Planet?rio.",
+	 "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：饥饿野兽",
+     "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：饥饿野兽",
+     "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，一次消灭 8 个或更多敌人。",
+	 
+	 "ROB_RAVAGER_BODY_BEAM_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：心如止水",
+	 "ROB_RAVAGER_BODY_BEAM_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：心如止水",
+	 "ROB_RAVAGER_BODY_BEAM_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，在没有填满血池的情况下完成一个关卡。",
+	 
+	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：最强的猴子",
+	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：最强的猴子",
+	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，在不触地的情况下跳跃 20 次。",
+	 
+	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：我所有的伙伴",
+	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：我所有的伙伴",
+	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，一次有 15 个盟友活着。",
+	 
+	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_UNLOCKABLE_NAME": "掠夺者：来自虚无",
+	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_ACHIEVEMENT_NAME": "掠夺者：来自虚无",
+	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_ACHIEVEMENT_DESC": "作为掠夺者，逃离天文馆。",
 
- 	 "ROB_RAVAGER_BODY_LOADOUT_SKILL_MISC": "Passiva",
- 	 }
+	 "ROB_RAVAGER_BODY_LOADOUT_SKILL_MISC": "被动技能",
+	 }
 }

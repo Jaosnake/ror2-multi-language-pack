@@ -1,84 +1,54 @@
 {
     strings:
     {
-    "HASTEREAPR_ASSASSIN_NAME" : "Assassino",
-    "HASTEREAPR_ASSASSIN_DESCRIPTION" : "O Assassino luta a m?dia dist?ncia e usa veneno para causar dano aos inimigos ao longo do tempo.<color=#CCD3E0>\n\n< ! > Adagas s?o ?timas para lidar com alvos ?nicos.\n\n< ! > Venenos s?o ?timos para lidar com multid?es de inimigos.\n\n< ! > Teleportar pode ser dif?cil de mirar, como tem trajet?ria em arco, mire um pouco acima de onde realmente quer cair.\n\n< ! > Grito de Guerra ? ?timo para usar ao ativar o teletransporte.\n\n
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_SUBTITLE" : "Profissional Silencioso e Venenoso",
-    "HASTEREAPR_ASSASSIN_LORE" : "Antigamente reverenciado como um prod?gio alqu?mico, o Assassino estava destinado a deixar uma marca indel?vel na hist?ria. Eles demonstravam uma afinidade incompar?vel por preparar po??es que podiam fazer qualquer coisa que se pudesse pedir. Sob a mentoria de alquimistas respeitados, aprimoraram sua arte e ganharam reputa??o como o alquimista mais capaz que existia. No entanto, com o tempo, foram consumidos pela gan?ncia, algo que a sociedade alqu?mica desaprovava fortemente. Isso os levou a abandonar a sociedade que os mentorou.\n\nSua imensa gan?ncia e ?dio pela sociedade alqu?mica em que cresceram levaram o Assassino por um caminho sombrio que jamais poderiam ter imaginado. Consumido pela gan?ncia e pelo desejo de ser famoso, ele voltou sua expertise para um prop?sito mais sombrio. Passou meses preparando sua po??o mais mortal, uma neurotoxina t?o letal que drenava a vida de qualquer um que inalasse seus vapores. Sabendo que n?o sobreviveria a isso, ele criou um ant?doto e infundiu sua capa com ele.\n\nEle ganhou notoriedade como um ca?ador de recompensas implac?vel e indescrit?vel. Seus servi?os eram requisitados por criminosos e senhores da guerra, seu veneno se tornando sua marca registrada de assassinato, servindo efetivamente como um cart?o de visita. Ele aproveitou suas habilidades de prepara??o para fazer outras po??es, que podiam mover sua estrutura molecular, e outras que podiam fazer seu corpo desaparecer num piscar de olhos.\n\nIterando em seu veneno anterior, ele criou algo muito mais virulento. Este novo veneno era capaz de liberar todas as suas toxinas quase instantaneamente, com o efeito colateral de que permanecia no ar. Isso permitia que ele matasse salas inteiras de pessoas com uma ?nica po??o.\n\nEle foi incumbido de matar o Capit?o do U.S.S. Safe Travels, no entanto, ao pousar, sentiu uma poderosa presen?a de outro mundo o atraindo por um caminho cada vez mais sombrio, cada vez mais profundo.",
-    "HASTEREAPR_ASSASSIN_OUTRO_FLAVOR" : "..e assim partiu, para reivindicar sua maior recompensa.",
-    "HASTEREAPR_ASSASSIN_OUTRO_FAILURE" : "..e assim desapareceu, sem deixar nem um tra?o de fuma?a.",
-    "HASTEREAPR_ASSASSIN_EXPLOSIVEDECOY_NAME" : "Isca do Assassino",
-    "HASTEREAPR_ASSASSIN_KEYWORD_DAGGER_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse 4 adagas.",
-    "HASTEREAPR_ASSASSIN_KEYWORD_GHOSTLY_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>o dano m?nimo ? aumentado para <style=cIsDamage>75%</style>.",
-    "HASTEREAPR_ASSASSIN_KEYWORD_POISON_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse uma po??o aglomerada com filhos mais fracos.",
-    "HASTEREAPR_ASSASSIN_KEYWORD_VENOM_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse 2 po??es em leque aberto.",
-    "HASTEREAPR_ASSASSIN_KEYWORD_TELEPORT_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse a po??o de teleporte mais r?pido e exploda em uma nuvem venenosa ao teleportar.",
-    "HASTEREAPR_ASSASSIN_KEYWORD_ROLL_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>rolar aplica o efeito de estandarte de guerra.",
-    "HASTEREAPR_ASSASSIN_KEYWORD_DECOY_WC" : "<style=cKeywordName>Inspirado</style>\n<style=cIsUtility>Sob efeito do Grito de Guerra, </style>arremesse venenos em sua esteira.",
-    "HASTEREAPR_ASSASSIN_DEFAULT_SKIN_NAME" : "Padr?o",
-    "HASTEREAPR_ASSASSIN_MASTERY_SKIN_NAME" : "Exaltado",
-    "HASTEREAPR_ASSASSIN_GRAND_MASTERY_SKIN_NAME" : "Divino",
-    "HASTEREAPR_ASSASSIN_PASSIVE_NAME" : "F?ria do Deus Louco",
-    "HASTEREAPR_ASSASSIN_PASSIVE_DESCRIPTION" : "Ser atingido abaixo de <style=cIsHealth>60% de sa?de m?xima</style> aumenta sua velocidade de ataque e dano em <style=cIsDamage>7.5% por ac?mulo</style>, por <style=cIsUtility>3 segundos.</style>
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_ALT_PASSIVE_NAME" : "Terror T?xico",
-    "HASTEREAPR_ASSASSIN_ALT_PASSIVE_DESCRIPTION" : "Ser atingido arremessa um veneno na dire??o do dano, causando <style=cIsDamage>250% de dano</style> mais <style=cIsDamage>500% de dano adicional ao longo do tempo</style>.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_NAME" : "Artimanha do Trapaceiro",
-    "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_DESCRIPTION" : "Ser atingido tem <style=cIsUtility>5%</style> de chance de gerar uma isca que vive por 5 segundos e explode causando <style=cIsDamage>1.500% de dano</style>.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_NAME" : "Adaga",
-    "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_DESCRIPTION" : "<style=cIsUtility>?gil.</style> Arremesse 2 adagas causando <style=cIsDamage>100% de dano</style>.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_NAME" : "Adaga Fantasma",
-    "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_DESCRIPTION" : "<style=cIsUtility>?gil.</style> Arremesse 1 adaga causando <style=cIsDamage>30% a 200% de dano</style>.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME" : "Veneno",
-    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION" : "<style=cIsUtility>?gil.</style> Arremesse uma po??o venenosa causando <style=cIsDamage>250% de dano</style> mais <style=cIsDamage>500% de dano adicional ao longo do tempo.</style>
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_SCEPTER" : "<style=cIsUtility>?gil.</style> Arremesse uma po??o venenosa aglomerada causando <style=cIsDamage>250% de dano</style> mais <style=cIsDamage>500% de dano ao longo do tempo, cada.</style> \n\n<style=cKeywordName>Sob efeito do Grito de Guerra, arremesse uma po??o aglomerada recursivamente, com filhos mais fracos.</style>",
-    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME_ALT" : "Veneno Virulento",
-    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_ALT" : "<style=cIsUtility>?gil.</style> Arremesse uma po??o persistente causando <style=cIsDamage>500% de dano.</style> <style=cIsUtility>Toxinas persistem por 5 segundos.</style> <style=cDeath>N?o inflige veneno.</style>",
-    "HASTEREAPR_ASSASSIN_SCEPTER_SECONDARY_POISON_DESCRIPTION_ALT" : "<style=cIsUtility>?gil.</style> Arremesse 2 po??es persistentes em leque aberto causando <style=cIsDamage>500% de dano.</style> <style=cIsUtility>Toxinas persistem por 5 segundos.</style> <style=cDeath>N?o inflige veneno.</style>",
-    "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_NAME" : "Teleporte",
-    "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_DESCRIPTION" : "Arremesse uma po??o em dire??o ao cursor <style=cIsUtility>teleportando voc? para onde ela cair,</style> ent?o arremesse uma po??o no ch?o, <style=cIsUtility>explodindo em uma nuvem de fuma?a, ganhando o buff de Velocidade de Capa.</style>
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_UTILITY_ROLL_NAME" : "Rolamento Camuflado",
-    "HASTEREAPR_ASSASSIN_UTILITY_ROLL_DESCRIPTION" : "Role para frente, ficando invis?vel e ganhando um pequeno aumento de velocidade de movimento.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_UTILITY_DECOY_NAME" : "Prisma-Isca",
-    "HASTEREAPR_ASSASSIN_UTILITY_DECOY_DESCRIPTION" : "Avance rapidamente, deixando uma isca explosiva em sua posi??o anterior.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_NAME" : "Grito de Guerra",
-    "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_DESCRIPTION" : "<style=cIsUtility>Fortale?a a si mesmo e todas as suas habilidades por 5 segundos.</style>
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME" : "Pun??o Espinhal",
-    "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION" : "Apunhale seus inimigos causando <style=cIsDamage>750% de dano. </style><style=cIsUtility>Ao apunhalar um inimigo menor pelas costas,</style> <style=cIsHealth>mate instantaneamente o alvo.</style> Ao apunhalar um chefe pelas costas, tem <style=cIsUtility>2%</style> de chance de <style=cIsHealth>matar instantaneamente o alvo.</style> Se falhar, causa <style=cIsDamage>20% da sa?de do alvo.</style>
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME" : "Assassino: Dom?nio",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION" : "Como Assassino, ven?a o jogo ou aniquile em Mon??o ou superior.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME" : "Assassino: Grande Dom?nio",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION" : "Como Assassino, ven?a o jogo ou aniquile em Tuf?o ou superior.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME" : "Assassino: Po??o Mortal",
-    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION" : "Como Assassino, aplique 10 ac?mulos de Veneno do Assassino em um ?nico inimigo.
-
-Mod original por HasteReapr. Traduzido por: Jaosnake",
+    "HASTEREAPR_ASSASSIN_NAME" : "刺客",
+    "HASTEREAPR_ASSASSIN_DESCRIPTION" : "刺客是一名身手敏捷的远程角色，可以使用毒药对敌人造成持续伤害。<color=#CCD3E0>\n\n< ! > 匕首非常适合对付单个目标。\n\n< ! > 毒药在对付一大群敌人时非常有效。\n\n< ! > 尽管传送术非常强大，但弧线降落意味着要准确降落至目标点并不轻松，因此请瞄准您着陆点的偏上位置。\n\n< ! > 当你激活传送器时，战吼技能将有奇效。\n\n",
+    "HASTEREAPR_ASSASSIN_SUBTITLE" : "无声蛊毒师",
+    "HASTEREAPR_ASSASSIN_LORE" : "刺客曾贵为炼金奇才，注定要名垂青史。他们热爱酿造，希望研制出任何想要的药水。得到了前辈的指导之后，他们的炼金技艺变得炉火纯青，最终获得了“炼金大师”的称号。然而，随着时间的推移，污秽之物侵蚀了他们的内心，他们开始变得贪婪，这与炼金术士所信奉的“炼金之道”背道而驰。最终他们抛弃了炼金术士的身份，离开了土生土长的故土。\n\n贪婪汇聚仇恨，刺客逐渐堕入了他们未曾设想的黑暗道路。随着最后一丝残存的理智也被欲望吞噬，他们陷入了疯狂，开始将自身所学投入更黑暗的目的。他们花费数月时间酿造出自己的“得意”作品，一种致命的神经毒素，任何生命在这种毒药面前都显得脆弱不堪。他们知道就连自己也无法在这种毒药中幸存，便制作了解药藏在斗篷中随身携带。\n\n就这样，他们收获了另一个臭名昭著的称号：“冷酷无情的赏金猎人”。各路的罪犯和军阀都想方设法的寻找他们的服务，“毒药暗杀，干脆利落”，已经成为他们的招牌。在强大的炼金基础加持之下，他们陆续研制出其他药水：有的可以移动自身分子结构，还有的可以实现空间传送。\n\n在之前毒药的基础上，他们做了点“小创造”，研制出毒性更强的毒药。新的毒药能够几乎在瞬间施放全部毒素，副作用是毒素会在空气中停留。“只需一瓶，就能够收割一整屋人的性命”。\n\n这一次，他们奉命前往杀死U.S.S.安全旅行号的船长，这是他们有史以来最大的任务，然而在着陆后，他们感到一种强大的超自然力量正将他们引向一条越来越黑暗、越来越深的道路。",
+    "HASTEREAPR_ASSASSIN_OUTRO_FLAVOR" : "..于是他们离开了，去领取一笔不菲的赏金。",
+    "HASTEREAPR_ASSASSIN_OUTRO_FAILURE" : "..于是他们消失了，无影无踪。",
+    "HASTEREAPR_ASSASSIN_EXPLOSIVEDECOY_NAME" : "刺客诱饵",
+    "HASTEREAPR_ASSASSIN_KEYWORD_DAGGER_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>投掷4把匕首。",
+    "HASTEREAPR_ASSASSIN_KEYWORD_GHOSTLY_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>最低伤害增加至 <style=cIsDamage>75%</style>。",
+    "HASTEREAPR_ASSASSIN_KEYWORD_POISON_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>投掷一簇效果逐渐衰减的毒药。",
+    "HASTEREAPR_ASSASSIN_KEYWORD_VENOM_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>投掷2瓶药水，并在地面上形成一团有毒的扇形区域。",
+    "HASTEREAPR_ASSASSIN_KEYWORD_TELEPORT_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>更快施展传送术，并且在途中施放一团毒雾。",
+    "HASTEREAPR_ASSASSIN_KEYWORD_ROLL_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>翻滚后技能增益与战吼增益叠加。",
+    "HASTEREAPR_ASSASSIN_KEYWORD_DECOY_WC" : "<style=cKeywordName>强化</style>\n<style=cIsUtility>在战吼施放期间，</style>在身后位置留下毒药。",
+    "HASTEREAPR_ASSASSIN_DEFAULT_SKIN_NAME" : "默认",
+    "HASTEREAPR_ASSASSIN_MASTERY_SKIN_NAME" : "尊贵",
+    "HASTEREAPR_ASSASSIN_GRAND_MASTERY_SKIN_NAME" : "神圣",
+    "HASTEREAPR_ASSASSIN_PASSIVE_NAME" : "狂神之怒",
+    "HASTEREAPR_ASSASSIN_PASSIVE_DESCRIPTION" : "在生命值低于<style=cIsHealth>60%最大生命值</style>时受到伤害将会增加你的攻速和伤害，<style=cIsDamage>每层+7.5%</style>，持续<style=cIsUtility>3秒</style>。",
+    "HASTEREAPR_ASSASSIN_ALT_PASSIVE_NAME" : "恐惧之毒",
+    "HASTEREAPR_ASSASSIN_ALT_PASSIVE_DESCRIPTION" : "受到伤害时会向伤害来源方向投掷毒药，造成<style=cIsDamage>250%的伤害</style>，随时间推移增加额外的<style=cIsDamage>500%的伤害</style>。",
+    "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_NAME" : "诡秘之术",
+    "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_DESCRIPTION" : "受到伤害时有<style=cIsUtility>5%的几率</style>生成一个存活5秒的诱饵，诱饵将会爆炸并造成<style=cIsDamage>1500%的伤害</style>。",
+    "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_NAME" : "匕首",
+    "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_DESCRIPTION" : "<style=cIsUtility>灵巧。</style>投掷2把匕首，造成<style=cIsDamage>100%的伤害</style>。",
+    "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_NAME" : "幽灵匕首",
+    "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_DESCRIPTION" : "<style=cIsUtility>灵巧。</style>投掷1把匕首，造成<style=cIsDamage>30%到200%的随机伤害</style>。",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME" : "毒药",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION" : "<style=cIsUtility>灵巧。</style>投掷毒药，造成<style=cIsDamage>250%的伤害</style>，随时间推移增加额外的<style=cIsDamage>500%的伤害</style>。",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_SCEPTER" : "<style=cIsUtility>灵巧。</style>投掷1瓶浓缩毒药，造成<style=cIsDamage>250%的伤害</style>，随时间推移每瓶药剂增加额外的<style=cIsDamage>500%的伤害</style>。\n\n<style=cKeywordName>在战吼施放期间，投掷一簇效果逐渐衰减的毒药</style>。",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME_ALT" : "烈性毒药",
+    "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_ALT" : "<style=cIsUtility>灵巧。</style>投掷烈性毒药，造成<style=cIsDamage>500%的伤害</style>。<style=cIsUtility>毒液会持续5秒</style>。<style=cDeath>不会造成中毒效果</style>。",
+    "HASTEREAPR_ASSASSIN_SCEPTER_SECONDARY_POISON_DESCRIPTION_ALT" : "<style=cIsUtility>灵巧。</style>投掷2瓶烈性毒药，呈扇形分布，造成<style=cIsDamage>500%的伤害</style>。<style=cIsUtility>毒液会持续5秒</style>。<style=cDeath>不会造成中毒效果</style>。",
+    "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_NAME" : "传送术",
+    "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_DESCRIPTION" : "向准星位置投掷药水，<style=cIsUtility>角色将传送至其落地处</style>，然后向地面投掷药水，<style=cIsUtility>药水将生成一团烟雾，给予角色隐身与速度增益</style>。",
+    "HASTEREAPR_ASSASSIN_UTILITY_ROLL_NAME" : "隐身术",
+    "HASTEREAPR_ASSASSIN_UTILITY_ROLL_DESCRIPTION" : "向前翻滚，进入隐身状态，并获得小幅移速提升。",
+    "HASTEREAPR_ASSASSIN_UTILITY_DECOY_NAME" : "引诱术",
+    "HASTEREAPR_ASSASSIN_UTILITY_DECOY_DESCRIPTION" : "向前翻滚，在原位置留下一个即将爆炸的诱饵。",
+    "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_NAME" : "战吼",
+    "HASTEREAPR_ASSASSIN_SPECIAL_POISON_SPAM_DESCRIPTION" : "<style=cIsUtility>增加自己和自身所有能力，持续5秒</style>。",
+    "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME" : "致命穿刺",
+    "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION" : "刺伤敌人，造成<style=cIsDamage>750%的伤害</style>。<style=cIsUtility>从背后刺伤普通敌人时</style>，<style=cIsHealth>将立即杀死目标</style>。从背后刺伤BOSS时，有<style=cIsUtility>2%的机率</style><style=cIsHealth>立即杀死目标</style>。否则，对其造成<style=cIsDamage>目标20%生命值的伤害</style>。",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME" : "刺客：精英",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION" : "作为刺客，在季风或更高难度下通关游戏或抹除自己。",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME" : "刺客：大师",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION" : "作为刺客，在台风或更高难度下通关游戏或抹除自己。",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME" : "刺客：死士",
+    "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION" : "作为刺客，对单个敌人施加10层刺客毒药。",
     }
 }

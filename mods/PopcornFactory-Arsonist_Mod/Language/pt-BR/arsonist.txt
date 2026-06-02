@@ -1,15 +1,15 @@
 POPCORN_ARSONIST_BODY_NAME: Arsonista
-POPCORN_ARSONIST_BODY_SUBTITLE: Incendi?rio Man?aco
+POPCORN_ARSONIST_BODY_SUBTITLE: Incendiário Maníaco
 POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME: Medidor Normal
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: Cause <style=cIsDamage>100%</style> de dano na por??o branca. O Medidor Base ? resistente ao Superaquecimento.
+POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: Cause <style=cIsDamage>100%</style> de dano na porção branca. O Medidor Base é resistente ao Superaquecimento.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: Medidor Cr?tico
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: Cause <style=cIsDamage>70%</style> de dano na por??o branca e <style=cIsDamage>250%</style> de dano na por??o azul. Calor m?ximo ? fixo.
+POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: Medidor Crítico
+POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: Cause <style=cIsDamage>70%</style> de dano na porção branca e <style=cIsDamage>250%</style> de dano na porção azul. Calor máximo é fixo.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME: Dragon's Breath
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: Dispare um feixe de fogo que causa <style=cIsDamage>90% de dano</style>. Chance de igni??o aumentada quanto mais pr?ximo do alvo.
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: Dispare um feixe de fogo que causa <style=cIsDamage>90% de dano</style>. Chance de ignição aumentada quanto mais próximo do alvo.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME: Fireball
@@ -17,34 +17,34 @@ POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION: <style=cIsUtility>Calor. </
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME: Zero Point Blast
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>?gil. Calor. </style>Propela-se para frente, explodindo inimigos atr?s de voc? para <style=cIsDamage>200% de dano</style>. Colidir logo ap?s o lan?amento no primeiro inimigo causa <style=cIsDamage>200% de dano</style> em uma explos?o ao redor.
+POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>Ágil. Calor. </style>Propela-se para frente, explodindo inimigos atrás de você para <style=cIsDamage>200% de dano</style>. Colidir logo após o lançamento no primeiro inimigo causa <style=cIsDamage>200% de dano</style> em uma explosão ao redor.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME: Sinalizador
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: Dispare um sinalizador que causa <style=cIsDamage>400% de dano</style> ao longo de 5 segundos, ent?o explode causando <style=cIsDamage>400% de dano</style>, lan?ando 5 sinalizadores que causam <style=cIsDamage>200% de dano</style> cada.
+POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: Dispare um sinalizador que causa <style=cIsDamage>400% de dano</style> ao longo de 5 segundos, então explode causando <style=cIsDamage>400% de dano</style>, lançando 5 sinalizadores que causam <style=cIsDamage>200% de dano</style> cada.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME: Masochism
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>?gil. Calor. </style>O dano de ser <style=cIsDamage>incendiado</style> se transforma em <style=cIsHealing>cura</style> por 6,5 segundos. Aumenta a Velocidade de Ataque em <style=cIsDamage>125%</style>.
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>Ágil. Calor. </style>O dano de ser <style=cIsDamage>incendiado</style> se transforma em <style=cIsHealing>cura</style> por 6,5 segundos. Aumenta a Velocidade de Ataque em <style=cIsDamage>125%</style>.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME: Masoquismo
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: Ao atingir o limite de <style=cKeywordName>Antecipa??o</style>, periodicamente cause dano a si mesmo em troca de <style=cIsHealing>Suga-Vida</style> em ?rea e queimadura. Ap?s no m?ximo 10 segundos, <style=cIsDamage>Detone</style>, ent?o <style=cIsUtility>Superaque?a</style>.
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: Ao atingir o limite de <style=cKeywordName>Antecipação</style>, periodicamente cause dano a si mesmo em troca de <style=cIsHealing>Suga-Vida</style> em área e queimadura. Após no máximo 10 segundos, <style=cIsDamage>Detone</style>, então <style=cIsUtility>Superaqueça</style>.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME: Despeito
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: Ao atingir o limite de <style=cKeywordName>Antecipa??o</style>, voc? se move mais r?pido e ganha <style=cKeywordName>Disparo Duplo</style> e <style=cIsHealing>Suga-Vida</style>. Ap?s no m?ximo 10 segundos, <style=cIsDamage>Detone</style>, ent?o <style=cIsUtility>Superaque?a</style>.
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: Ao atingir o limite de <style=cKeywordName>Antecipação</style>, você se move mais rápido e ganha <style=cKeywordName>Disparo Duplo</style> e <style=cIsHealing>Suga-Vida</style>. Após no máximo 10 segundos, <style=cIsDamage>Detone</style>, então <style=cIsUtility>Superaqueça</style>.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME: Dante's Rebuke
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: Dispare um feixe intenso que causa <style=cIsDamage>140% de dano</style>. Chance de igni??o aumentada quanto mais pr?ximo do alvo. Se segurado por 2 segundos ou mais, dispare um feixe final ao soltar para <style=cIsDamage>150% de dano</style>.
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: Dispare um feixe intenso que causa <style=cIsDamage>140% de dano</style>. Chance de ignição aumentada quanto mais próximo do alvo. Se segurado por 2 segundos ou mais, dispare um feixe final ao soltar para <style=cIsDamage>150% de dano</style>.
 Mod original por PopcornFactory. Traduzido por: Jaosnake
 Mod original por PopcornFactory. Traduzido por: Jaosnake
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>Antecipa??o</style>A cada 100 de calor perdido e/ou ganho, Arsonista ganha 1 carga de Antecipa??o; Ap?s ganhar 5 cargas, ele pode ativar Masoquismo; Cargas adicionais aumentam dano e dura??o; Todas as cargas s?o consumidas ao final.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>Detonar</style>Arsonista explode, causando <style=cIsDamage>150% de dano</style> vezes a quantidade de Cargas de Antecipa??o acumuladas.
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>Antecipação</style>A cada 100 de calor perdido e/ou ganho, Arsonista ganha 1 carga de Antecipação; Após ganhar 5 cargas, ele pode ativar Masoquismo; Cargas adicionais aumentam dano e duração; Todas as cargas são consumidas ao final.
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>Detonar</style>Arsonista explode, causando <style=cIsDamage>150% de dano</style> vezes a quantidade de Cargas de Antecipação acumuladas.
 POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL: <style=cKeywordName>Suga-Vida</style>Arsonista cura <style=cIsHealing>18%</style> do dano causado enquanto Masoquismo estiver ativo.
 POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL: <style=cKeywordName>Suga-Vida</style>Arsonista cura <style=cIsHealing>5%</style> do dano causado enquanto Despeito estiver ativo.
-POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>Superaquecimento: Masoquismo</style>Se Arsonista sair do Masoquismo devido ao ac?mulo excessivo de calor, o Superaquecimento EX ? aplicado, reduzindo sua Velocidade de Movimento e Dano para 70%. Cancelar ou deixar a habilidade seguir seu curso aplica Superaquecimento, reduzindo sua Velocidade de Ataque para 50%.
+POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>Superaquecimento: Masoquismo</style>Se Arsonista sair do Masoquismo devido ao acúmulo excessivo de calor, o Superaquecimento EX é aplicado, reduzindo sua Velocidade de Movimento e Dano para 70%. Cancelar ou deixar a habilidade seguir seu curso aplica Superaquecimento, reduzindo sua Velocidade de Ataque para 50%.
 POPCORN_ARSONIST_BODY_OVERHEAT_TEXT: SUPERAQUECIMENTO!
 POPCORN_ARSONIST_BODY_COOLING_TEXT: ESFRIANDO...!
 POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT: SUPERAQUECIMENTO:EX!

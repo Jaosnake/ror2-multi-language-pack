@@ -1,84 +1,52 @@
 {
     strings:
     {
-    "ENFORCER_NAME" : "Enforcer",
-    "ENFORCER_DESCRIPTION" : "O Enforcer ? um defensor massivo que pode resistir a ataques e revidar.<color=#CCD3E0>\n\n< ! > Escopeta Antimotim pode atravessar muitos inimigos de uma vez.\n\n< ! > Empurrar inimigos com sua Batida de Escudo vai mant?-los a uma dist?ncia segura.\n\n< ! > Use G?s Lacrimog?neo para enfraquecer multid?es de inimigos, e ent?o se aproxime e acabe com eles.\n\n< ! > Quando puder, use Proteger e Servir perto de paredes para evitar que inimigos flanqueiem voc?.\n\n
-
-Mod original por EnforcerGang",
-    "ENFORCER_SUBTITLE" : "Basti?o Inabal?vel",
-    "ENFORCER_LORE" : "\n<style=cMono>\"Voc? n?o tem que fazer isso.\"</style>\n\nAs palavras ecoavam em sua cabe?a e, mesmo assim, ele continuou. A c?psula estava a alguns passos de dist?ncia ? ele tinha uma chance de escapar ? mas algo em seu ?ntimo o manteve em movimento. Ele n?o sabia o que era, mas n?o o questionou. Era uma for?a natural: a mesma for?a que sempre o impulsionou a seguir ordens.\n\nNo entanto, desta vez n?o parecia t?o natural. Essas n?o eram ordens. O gatilho pesado e seu trov?o r?tmico eram dele ? e apenas dele.",
-    "ENFORCER_OUTRO_FLAVOR" : "... e assim ele se foi, incerto de seu t?tulo de protetor.",
+    "ENFORCER_NAME" : "Executor",
+    "ENFORCER_DESCRIPTION" : "O Executor é um massivo defensor que pode resistir a ataques e revidar.<color=#CCD3E0>\n\n< ! > Escopeta Antimotim pode acertar muitos inimigos de uma vez.\n\n< ! > Empurrar inimigos com sua Batida de Escudo vai mantê-los à uma distância segura.\n\n< ! > Use Gás Lacrimogêneo para enfraquecer multidões de inimigos, e então se aproxime e acabe com eles.\n\n< ! > Use Proteger e Servir perto de paredes para evitar que inimigos comecem a flanquear você.\n\n",
+    "ENFORCER_SUBTITLE" : "Bastião Inabalável",
+    "ENFORCER_LORE" : "\n<style=cMono>"Você não tem que fazer isso."</style>\n\nAs palavras ecoavam em sua cabeça e, mesmo assim, ele continuou. A cápsula estavá a alguns passos de distância — ele tinha uma chance de escapar — mas algo em seu íntimo o manteve em movimento. Ele não sabia o que era, mas não o questionou. Era uma força natural: a mesma força que sempre o impulsionou a seguir ordens.\n\nNo entando, desta vez não parecia tão natural. Essas não eram ordens. O gatilho pesado e seu trovão rítmico eram dele — e apenas dele.",
+    "ENFORCER_OUTRO_FLAVOR" : "... e assim ele se foi, incerto de seu título de protetor.",
     "ENFORCER_OUTRO_FAILURE" : "... e assim desapareceu, as minorias do planeta finalmente em paz.",
     "ENFORCER_PRIMARY_SHOTGUN_NAME" : "Escopeta Antimotim",
-    "ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION" : "Dispare um tiro de curto alcance que <style=cIsUtility>atravessa</style> causando <style=cIsDamage>6x60% de dano.</style>
-
-Mod original por EnforcerGang",
+    "ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION" : "Dispare um tiro de curto alcance, <style=cIsUtility>pierces</style> causando <style=cIsDamage>6x60% de dano.</style>",
     "ENFORCER_PRIMARY_SUPERSHOTGUN_NAME" : "Super Escopeta",
-    "ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION" : "Dispare at? dois tiros de escopeta, causando <style=cIsDamage>8x80% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, <style=cIsDamage>dispare o cartucho inteiro de uma vez.</style>
-
-Mod original por EnforcerGang",
+    "ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION" : "Dispare até dois tiros de escopeta, causando <style=cIsDamage>8x80% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, <style=cIsDamage>dispare o cartucho inteiro de uma vez.</style>",
     "ENFORCER_PRIMARY_RIFLE_NAME" : "Metralhadora",
-    "ENFORCER_PRIMARY_RIFLE_DESCRIPTION" : "Dispare uma saraivada de balas, causando <style=cIsDamage>130% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, tem a <style=cIsDamage>precis?o aumentada</style>, mas <style=cIsHealth>diminui a velocidade de movimento</style>.
-
-Mod original por EnforcerGang",
+    "ENFORCER_PRIMARY_RIFLE_DESCRIPTION" : "Dispare uma saraivada de balas, causando <style=cIsDamage>130% de dani</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, tem a <style=cIsDamage>precisão aumentada</style>, mas <style=cIsHealth>diminui a velocidade de movimento</style>.",
     "ENFORCER_PRIMARY_HAMMER_NAME" : "Martelo de Brecha",
-    "ENFORCER_PRIMARY_HAMMER_DESCRIPTION" : "Balance seu martelo para causar <style=cIsDamage>500% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, acerta uma <style=cIsUtility>?rea maior</style> e causa <style=cIsDamage>1.000% de dano</style>.
-
-Mod original por EnforcerGang",
-    "KEYWORD_BASH" : "<style=cKeywordName>Batida</style><style=cSub>Aplica <style=cIsDamage>atordoamento</style> e <style=cIsUtility>empurr?o</style>.",
+    "ENFORCER_PRIMARY_HAMMER_DESCRIPTION" : "Balance seu martelo para causar <style=cIsDamage>500% de dano</style>.\nEnquanto <style=cIsUtility>Proteger e Servir</style> estiver ativo, acerta uma <style=cIsUtility>área maior</style> e causa <style=cIsDamage>1.000% de dano</style>.",
+    "KEYWORD_BASH" : "<style=cKeywordName>Batida</style><style=cSub>Aplica <style=cIsDamage>atordoamento</style> e <style=cIsUtility>empurrando</style>.",
     "KEYWORD_SPRINTBASH" : "<style=cKeywordName>Batida de Ombro</style><style=cSub><style=cIsDamage>Atordoante.</style> Corra para frente em curto alcance e cause <style=cIsDamage>450% de dano</style>.\nAtingir <style=cIsDamage>inimigos pesados</style> causa <style=cIsDamage>700% de dano</style>.",
     "ENFORCER_SECONDARY_BASH_NAME" : "Batida de Escudo",
-    "ENFORCER_SECONDARY_BASH_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Empurra inimigos e causa <style=cIsDamage>350% de dano</style> e <style=cIsUtility>deflete proj?teis</style>.\nEnquanto estiver <style=cIsUtility>correndo</style>, realiza uma <style=cIsDamage>Batida de Ombro</style> no lugar.
-
-Mod original por EnforcerGang",
+    "ENFORCER_SECONDARY_BASH_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Empurra inimigos e causa <style=cIsDamage>350% de dano</style> e <style=cIsUtility>deflete projéteis</style>.\nEnquanto estiver <style=cIsUtility>correndo</style>, realiza uma <style=cIsDamage>Batida de Ombro</style> no lugar.",
     "KEYWORD_BLINDED" : "<style=cKeywordName>Prejudicar</style><style=cSub>Reduz a velocidade de movimento em <style=cIsDamage>75%</style>, velocidade de ataque em <style=cIsDamage>25%</style> e armadura em <style=cIsDamage>30</style>.</style></style>",
-    "ENFORCER_UTILITY_TEARGAS_NAME" : "G?s Lacrimog?neo",
-    "ENFORCER_UTILITY_TEARGAS_DESCRIPTION" : "Lance uma granada que cobre uma ?rea em um g?s <style=cIsDamage>Prejudicante</style>.
-
-Mod original por EnforcerGang",
+    "ENFORCER_UTILITY_TEARGAS_NAME" : "Gás Lacrimogêneo",
+    "ENFORCER_UTILITY_TEARGAS_DESCRIPTION" : "Lance uma granada que cobre uma área em um gás <style=cIsDamage>Prejudicante</style>.",
     "ENFORCER_UTILITY_STUNGRENADE_NAME" : "Granada de Atordoamento",
-    "ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Lance uma granada que atordoa inimigos, causando <style=cIsDamage>540% de dano</style>. M?ximo de 3.
-
-Mod original por EnforcerGang",
-    "ENFORCER_UTILITY_TEARGASSCEPTER_NAME" : "G?s Mostarda",
-    "ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION" : "Lance uma granada que cobre uma ?rea em um g?s <style=cIsDamage>Prejudicante</style>, sufocando inimigos e causando <style=cIsDamage>200% de dano por segundo</style>.
-
-Mod original por EnforcerGang",
+    "ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Lance uma granada que atordoa inimigos, causando <style=cIsDamage>540% de dano</style>. Máximo de 3.",
+    "ENFORCER_UTILITY_TEARGASSCEPTER_NAME" : "Gás Mostarda",
+    "ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION" : "Lance uma granada que cobre uma área em um gás <style=cIsDamage>Prejudicante</style>, sufocando inimigos e causando <style=cIsDamage>200% de dano por segundo</style>.",
     "ENFORCER_UTILITY_SHOCKGRENADE_NAME" : "Granada de Choque",
-    "ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION" : "<style=cIsDamage>Eletrizante</style>. Lance uma granada que eletrocuta inimigos, causando <style=cIsDamage>720% de dano</style>. M?ximo de 3.
-
-Mod original por EnforcerGang",
-    "ENFORCER_SPECIAL_SHIELDUP_NAME" : "Proteger e Servir",
-    "ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>bloqueando todo o dano frontal</style>. <style=cIsUtility>Aumenta a habilidade prim?ria</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
-
-Mod original por EnforcerGang",
-    "ENFORCER_SPECIAL_SHIELDDOWN_NAME" : "Proteger e Servir",
-    "ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>bloqueando todo o dano frontal</style>. <style=cIsDamage>Aumenta a velocidade de ataque</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
-
-Mod original por EnforcerGang",
+    "ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION" : "<style=cIsDamage>Eletrizante</style>. Lance uma granada que eletrocuta inimigos, causando <style=cIsDamage>720% de dano</style>. Máximo de 3.",
+    "ENFORCER_SPECIAL_SHIELDUP_NAME" : "Poteger e Servir",
+    "ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>bloqueando todo o dano frontal</style>. <style=cIsUtility>Aumenta a habilidade primária</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.",
+    "ENFORCER_SPECIAL_SHIELDDOWN_NAME" : "Poteger e Servir",
+    "ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>bloqueando todo o dano frontal</style>. <style=cIsDamage>Aumenta a velocidade de ataque</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.",
     "ENFORCER_SPECIAL_SHIELDON_NAME" : "Proteger e Afastar",
-    "ENFORCER_SPECIAL_SHIELDON_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>projetando um Escudo de Energia a sua frente</style>. <style=cIsDamage>Aumenta a cad?ncia</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
-
-Mod original por EnforcerGang",
+    "ENFORCER_SPECIAL_SHIELDON_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>projetando um Escudo de Energia a sua frente</style>. <style=cIsDamage>Aumenta a cadência</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.",
     "ENFORCER_SPECIAL_SHIELDOFF_NAME" : "Proteger e Afastar",
-    "ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>projetando um Escudo de Energia a sua frente</style>. <style=cIsDamage>Aumenta a cad?ncia</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.
-
-Mod original por EnforcerGang",
+    "ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION" : "Assuma uma postura defensiva, <style=cIsUtility>projetando um Escudo de Energia a sua frente</style>. <style=cIsDamage>Aumenta a cadência</style>, mas <style=cIsHealth>impossibilita corrida e pulo</style>.",
     "ENFORCER_SPECIAL_BOARDUP_NAME" : "Skate",
-    "ENFORCER_SPECIAL_BOARDUP_DESCRIPTION" : "Descolado.
-
-Mod original por EnforcerGang",
+    "ENFORCER_SPECIAL_BOARDUP_DESCRIPTION" : "Descolado.",
     "ENFORCER_SPECIAL_BOARDDOWN_NAME" : "Skate",
-    "ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION" : "Des-Descolado.
-
-Mod original por EnforcerGang",
-    "ENFORCERBODY_DEFAULT_SKIN_NAME" : "Padr?o",
+    "ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION" : "Des-Descolado.",
+    "ENFORCERBODY_DEFAULT_SKIN_NAME" : "Padrão",
     "ENFORCERBODY_MASTERY_SKIN_NAME" : "Pacificador",
     "ENFORCERBODY_TYPHOON_SKIN_NAME" : "Legislador",
     "ENFORCERBODY_BOT_SKIN_NAME" : "N-4CR",
-    "ENFORCERBODY_CLASSIC_SKIN_NAME" : "Cl?ssico",
-    "ENFORCERBODY_NEMESIS_SKIN_NAME" : "N?mesis",
-    "ENFORCERBODY_STORM_SKIN_NAME" : "Tropa Mon??o",
+    "ENFORCERBODY_CLASSIC_SKIN_NAME" : "Clássico",
+    "ENFORCERBODY_NEMESIS_SKIN_NAME" : "Nêmesis",
+    "ENFORCERBODY_STORM_SKIN_NAME" : "Tropa Monção",
     "ENFORCERBODY_ENGI_SKIN_NAME" : "Engenheiro?",
     "ENFORCERBODY_DOOM_SKIN_NAME" : "Doom Slayer",
     "ENFORCERBODY_DESPERADO_SKIN_NAME" : "Desperado",
@@ -86,74 +54,35 @@ Mod original por EnforcerGang",
     "ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME" : "Bloqueado",
     "ENFORCERBODY_FUCKINGFROG_SKIN_NAME" : "Zero Suit",
     "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME"           : "Motim",
-    "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"    : "Mate um Verme de Magma, uma Besta Errante e um Tit? de Pedra em uma ?nica jogatina.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Enforcer: Dom?nio",
-    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Enforcer, ven?a o jogo ou aniquile em Mon??o.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Grande Dom?nio",
-    "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, ven?a o jogo ou aniquile em Tuf?o ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Tuf?o ou superior)</color>
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Estra?alhar e Destruir...",
-    "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, aniquile 20 diabretes em uma ?nica jogatina.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Cad?ncia",
-    "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, alcance +400% de velocidade de ataque.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Controle de Multid?o",
-    "ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, tenha 20 inimigos sob o efeito de G?s Lacrimog?neo de uma vez.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME"              : "Enforcer: N?s Temos a Tecnologia",
-    "ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"       : "Como Enforcer, seja aniquilado e trazido de volta ? vida.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Libera??o",
-    "ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, estabilize a C?lula nos Campos Astrais.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: ... At? que Esteja Conclu?do",
-    "ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, aniquile 10 diabretes suseranos em uma ?nica jogatina.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Enforcer: Schmoovin'",
-    "ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Enforcer, mostre seus passos de dan?a.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Enforcer: Regras da Natureza",
-    "ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Enforcer, derrote o guardi?o da Costa Dourada empurrando-o para fora do mapa.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Enforcer: Impondo Perfei??o",
-    "ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Enforcer, torne-se um com o fungo.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Enforcer: Vida Longa ao Imp?rio",
-    "ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Enforcer, derrote uma Unidade de Controle Solus Elite.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Na Alegria e na Tristeza",
-    "ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, fa?a um amigo na Lua.
-
-Mod original por EnforcerGang",
-    "ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Enforcer: Bloqueio",
-    "ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Enforcer, bloqueie um ataque com seu escudo.
-
-Mod original por EnforcerGang",
-    "ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME" : "Enforcer: Bloqueio",
-    "ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+5%</style> de dano, <style=cIsUtility>+10%</style> de espessura do tiro, e <style=cIsUtility>+0.1</style> espalhamento do tiro
-
-Mod original por EnforcerGang",
-    "ENFORCER_PROC_BULLET" : "Bala",
-    "ENFORCER_PROC_HAMMER" : "Martelo",
-    "ENFORCER_PROC_BASH" : "Batida",
-    "ENFORCER_PROC_GRENADE" : "Granada",
-    "ENFORCER_PROC_DAMAGING_GAS" : "G?s Prejudicante",
-    "ENFORCER_PROC_SKATEBOARD" : "Skate",
+    "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"    : "Mate um Verme de Magma, uma Besta Errante e um Titã de Pedra em uma única jogatina.",
+    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Executor: Domínio",
+    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Executor, vença o jogo ou aniquile em Monção.",
+    "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Executor: Grande Domínio",
+    "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Executor, vença o jogo ou aniquile em Tufão ou Eclipse.\n<color=#8888>(A dificuldade Tufão requer o mod Starstorm 2)</color>",
+    "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Executor: Estraçalhar e Destruir...",
+    "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Executor, aniquile 20 diabretes em uma única jogatina.",
+    "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Executor: Cadência",
+    "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Executor, alcance +400% de velocidade de ataque.",
+    "ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Executor: Controle de Multidão",
+    "ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Executor, tenha 20 inimigos sob o efeito de Gás Lacrimogêneo de uma vez.",
+    "ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME"              : "Executor: Nós Temos a Tecnologia",
+    "ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"       : "Como Executor, seja aniquilado e trazido de volta à vida.",
+    "ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Executor: Liberação",
+    "ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Executor, estabilize a Célula nos Campos Astrais.",
+    "ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Executor: ... Até que Esteja Concluído",
+    "ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Executor, aniquile 10 diabretes suseranos em uma única jogatina.",
+    "ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Executor: Schmoovin'",
+    "ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Executor, mostre seus passos de dança.",
+    "ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME"          : "Executor: Regras da Natureza",
+    "ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"   : "Como Executor, derrote o guardião da Costa Dourada empurrando-o para fora do mapa.",
+    "ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME"             : "Executor: Impondo Perfeição",
+    "ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"      : "Como Executor, torne-se um com o fungo.",
+    "ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME"        : "Executor: Vida Longa ao Império",
+    "ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION" : "Como Executor, derrote uma Unidade de Controle Solus Elite.",
+    "ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Executor: Na Alegria e na Tristeza",
+    "ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Executor, faça um amigo na Lua.",
+    "ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"               : "Executor: Bloqueio",
+    "ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION"        : "Como Executor, bloqueie um ataque com seu escudo.",
+    "ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION" : "<style=cIsUtility>+5%</style> de dano, <style=cIsUtility>+10%</style> de espessura do tiro, e <style=cIsUtility>+0.1</style> espalhamento do tiro",
     }
 }
