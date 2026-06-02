@@ -1,6 +1,6 @@
 # ror2-multi-language-pack
 
-> **AI Generated** — Translations in this repository were created with AI assistance (Gemini/DeepSeek) and reviewed/edited by Jaosnake. Per Thunderstore policy, this disclosure is required for any mod containing AI-generated content.
+> **AI Generated** — Translations in this repository were created with AI assistance and reviewed/edited by Jaosnake. Per Thunderstore policy, this disclosure is required for any mod containing AI-generated content.
 
 ## Overview
 A **multi‑language pack** repository for **Risk of Rain 2** mods. It gathers translation files for supported mods into a single, Thunderstore‑ready monorepo. Each mod's language pack is completely self‑contained and can be built and published independently.
@@ -140,7 +140,7 @@ Siga o **[Guia de Instalação](#installation-guide)** no topo. Resumo:
 - **Mod Original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **Tradução PT-BR**: Jaosnake (100% manual)
 - **Demais idiomas**: Jaosnake com assistência de IA
-- **AI Generated**: Este pacote contém traduções geradas com auxílio de IA (Gemini/DeepSeek), revisadas por humano
+- **AI Generated**: Este pacote contém traduções geradas com auxílio de IA, revisadas por humano
 
 ### Licença
 GPL-3.0
@@ -164,7 +164,7 @@ GPL-3.0
 ### Подяки
 - **Оригінальний мод**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **Переклад**: Jaosnake за допомогою ШІ
-- **AI Generated**: Цей пакет містить переклади, створені за допомогою ШІ (Gemini/DeepSeek), перевірені людиною
+- **AI Generated**: Цей пакет містить переклади, створені за допомогою ШІ, перевірені людиною
 
 ### Ліцензія
 GPL-3.0
@@ -185,7 +185,7 @@ GPL-3.0
 ### 크레딧
 - **원본 모드**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **번역**: Jaosnake (AI 지원)
-- **AI Generated**: 이 패키지에는 AI(Gemini/DeepSeek)의 도움을 받아 생성된 번역이 포함되어 있으며, 사람이 검토했습니다
+- **AI Generated**: 이 패키지에는 AI의 도움을 받아 생성된 번역이 포함되어 있으며, 사람이 검토했습니다
 
 ### 라이선스
 GPL-3.0
@@ -206,7 +206,7 @@ Suivez le **[Guide d'installation](#installation-guide)**. Résumé :
 ### Crédits
 - **Mod original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **Traduction**: Jaosnake (assisté par IA)
-- **AI Generated**: Ce paquet contient des traductions générées avec l'aide de l'IA (Gemini/DeepSeek), révisées par un humain
+- **AI Generated**: Ce paquet contient des traductions générées avec l'aide de l'IA, révisées par un humain
 
 ### Licence
 GPL-3.0
@@ -227,7 +227,7 @@ GPL-3.0
 ### Благодарности
 - **Оригинальный мод**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **Перевод**: Jaosnake (с помощью ИИ)
-- **AI Generated**: Этот пакет содержит переводы, созданные с помощью ИИ (Gemini/DeepSeek), проверенные человеком
+- **AI Generated**: Этот пакет содержит переводы, созданные с помощью ИИ, проверенные человеком
 
 ### Лицензия
 GPL-3.0
@@ -248,7 +248,7 @@ GPL-3.0
 ### 致谢
 - **原始模组**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **翻译**: Jaosnake (AI 辅助)
-- **AI Generated**: 此包包含由 AI (Gemini/DeepSeek) 辅助生成的翻译，经人工审核
+- **AI Generated**: 此包包含由 AI 辅助生成的翻译，经人工审核
 
 ### 许可证
 GPL-3.0
@@ -269,7 +269,7 @@ Siga la **[Guía de instalación](#installation-guide)**. Resumen:
 ### Créditos
 - **Mod original**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **Traducción**: Jaosnake (asistido por IA)
-- **AI Generated**: Este paquete contiene traducciones generadas con ayuda de IA (Gemini/DeepSeek), revisadas por humano
+- **AI Generated**: Este paquete contiene traducciones generadas con ayuda de IA, revisadas por humano
 
 ### Licencia
 GPL-3.0
@@ -290,7 +290,7 @@ Bu depo, **Starstorm 2** ve **Sandswept** dahil olmak üzere **Risk of Rain 2** 
 ### Katkıda Bulunanlar
 - **Orijinal mod**: TeamMoonstorm (Starstorm 2), TeamSandswept (Sandswept)
 - **Çeviri**: Jaosnake (Yapay Zeka destekli)
-- **AI Generated**: Bu paket, yapay zeka (Gemini/DeepSeek) yardımıyla oluşturulmuş ve insan tarafından gözden geçirilmiş çeviriler içerir
+- **AI Generated**: Bu paket, yapay zeka yardımıyla oluşturulmuş ve insan tarafından gözden geçirilmiş çeviriler içerir
 
 ### Lisans
 GPL-3.0
@@ -356,7 +356,7 @@ This project is licensed under the **GNU General Public License v3.0**.
 ---
 
 ## Credits
-- **Translations**: Jaosnake (with AI assistance — Gemini/DeepSeek. All AI output reviewed and edited by human.)
+- **Translations**: Jaosnake (with AI assistance. All AI output reviewed and edited by human.)
 - **AI Generated**: Per Thunderstore policy, this repository discloses that translations were created with AI assistance.
 - **Original mod authors**:
   - **TeamMoonstorm** — Starstorm 2
