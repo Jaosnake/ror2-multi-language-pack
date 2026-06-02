@@ -2,35 +2,35 @@
     strings:
     {
     "ITEM_BARRIERONCRIT_NAME" : "Pendientes de Bismuto",
-    "ITEM_BARRIERONCRIT_DESCRIPTION" : "Obtén <style=cIsDamage>5% de probabilidad de sangrado</style>. Obtén una <style=cIsHealing>barrera temporal</style> al aplicar sangrado por <style=cIsHealing>15 de salud</style> <style=cStack>(+10 por acumulación)</style>.",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "ObtÃ©n <style=cIsDamage>5% de probabilidad de sangrado</style>. ObtÃ©n una <style=cIsHealing>barrera temporal</style> al aplicar sangrado por <style=cIsHealing>15 de salud</style> <style=cStack>(+10 por acumulaciÃ³n)</style>.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_BARRIERONCRIT_PICKUP" : "Obtén barrera al aplicar sangrado",
-    "ITEM_BARRIERONCRIT_LORE" : "Los pendientes son de Bismuto o algo así, ni idea.",
-    "ITEM_ENIGMATICKEYCARD_NAME" : "Tarjeta Enigmática",
-    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Probabilidad de generar un orbe al golpear que persigue y daña enemigos.",
-    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "4% de probabilidad al golpear de generar un <style=cIsDamage>orbe buscador</style> que golpea a los enemigos cercanos por <style=cIsDamage>140% de daño base <style=cStack>(+140% por acumulación)</style></style> al impactar.",
+    "ITEM_BARRIERONCRIT_PICKUP" : "ObtÃ©n barrera al aplicar sangrado",
+    "ITEM_BARRIERONCRIT_LORE" : "Los pendientes son de Bismuto o algo asÃ­, ni idea.",
+    "ITEM_ENIGMATICKEYCARD_NAME" : "Tarjeta EnigmÃ¡tica",
+    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Probabilidad de generar un orbe al golpear que persigue y daÃ±a enemigos.",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "4% de probabilidad al golpear de generar un <style=cIsDamage>orbe buscador</style> que golpea a los enemigos cercanos por <style=cIsDamage>140% de daÃ±o base <style=cStack>(+140% por acumulaciÃ³n)</style></style> al impactar.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_ENIGMATICKEYCARD_LORE" : "Ninguna tarjeta podrá jamás abrir el maldito cerebro de Enigma",
+    "ITEM_ENIGMATICKEYCARD_LORE" : "Ninguna tarjeta podrÃ¡ jamÃ¡s abrir el maldito cerebro de Enigma",
     "ITEM_BLEEDCRIPPLE_NAME" : "Daga de Fabinhoru",
     "ITEM_BLEEDCRIPPLE_PICKUP" : "Golpear enemigos sangrantes reduce su armadura.",
-    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Obtén <style=cIsDamage>5%</style> de probabilidad de causar <style=cIsDamage>sangrado</style> al golpear. <style=cIsDamage>Golpear</style> enemigos que están <style=cIsDamage>sangrando</style> reduce su <style=cIsDamage>armadura</style> en <style=cIsDamage>30</style> <style=cStack>(+15 por acumulación)</style>.",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "ObtÃ©n <style=cIsDamage>5%</style> de probabilidad de causar <style=cIsDamage>sangrado</style> al golpear. <style=cIsDamage>Golpear</style> enemigos que estÃ¡n <style=cIsDamage>sangrando</style> reduce su <style=cIsDamage>armadura</style> en <style=cIsDamage>30</style> <style=cStack>(+15 por acumulaciÃ³n)</style>.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
     "ITEM_BLEEDCRIPPLE_LORE" : "ella me fabina la daga hasta que horu",
     "ITEM_GLASSHARVESTER_NAME" : "Cosechador de Cristal",
-    "ITEM_GLASSHARVESTER_PICKUP" : "Tus 'Golpes Críticos' infligen un 40% adicional de daño. Se rompe con poca salud, otorgando experiencia.",
-    "ITEM_GLASSHARVESTER_DESC" : "Obtén <style=cIsDamage>5% de probabilidad de golpe crítico</style>. Los <style=cIsDamage>Golpes Críticos</style> infligen un <style=cIsDamage>40% adicional de daño</style><style=cStack>(+30% por acumulación)</style>. Recibir daño por debajo del <style=cIsHealth>25% de salud</style> <style=cIsUtility>rompe</style> este objeto y otorga el 15% de la <style=cIsUtility>experiencia</style> de tu nivel actual.",
-    "ITEM_GLASSHARVESTER_LORE" : "¿Cosecha cristal o cosecha con cristal?\nNo lo sé y no me importa, fuera de mi casa",
+    "ITEM_GLASSHARVESTER_PICKUP" : "Tus 'Golpes CrÃ­ticos' infligen un 40% adicional de daÃ±o. Se rompe con poca salud, otorgando experiencia.",
+    "ITEM_GLASSHARVESTER_DESC" : "ObtÃ©n <style=cIsDamage>5% de probabilidad de golpe crÃ­tico</style>. Los <style=cIsDamage>Golpes CrÃ­ticos</style> infligen un <style=cIsDamage>40% adicional de daÃ±o</style><style=cStack>(+30% por acumulaciÃ³n)</style>. Recibir daÃ±o por debajo del <style=cIsHealth>25% de salud</style> <style=cIsUtility>rompe</style> este objeto y otorga el 15% de la <style=cIsUtility>experiencia</style> de tu nivel actual.",
+    "ITEM_GLASSHARVESTER_LORE" : "Â¿Cosecha cristal o cosecha con cristal?\nNo lo sÃ© y no me importa, fuera de mi casa",
     "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Cosechador de Cristal (Roto)",
-    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Cosecha Recogida. ¿Valió la pena la experiencia?",
+    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Cosecha Recogida. Â¿ValiÃ³ la pena la experiencia?",
     "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Un objeto gastado sin poder restante.",
     "ITEM_PICKUPBUFF_NAME" : "Capa de Jape",
-    "ITEM_PICKUPBUFF_PICKUP" : "Obtén una mejora que otorga armadura y curación al recoger un objeto.",
-    "ITEM_PICKUPBUFF_DESCRIPTION" : "Obtén una mejora que te otorga <style=cIsUtility>+5 de armadura</style> y <style=cIsHealing>30% de curación</style> al recoger un objeto. Máximo de 3 mejoras <style=cStack>(+2 por acumulación)</style>.",
+    "ITEM_PICKUPBUFF_PICKUP" : "ObtÃ©n una mejora que otorga armadura y curaciÃ³n al recoger un objeto.",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "ObtÃ©n una mejora que te otorga <style=cIsUtility>+5 de armadura</style> y <style=cIsHealing>30% de curaciÃ³n</style> al recoger un objeto. MÃ¡ximo de 3 mejoras <style=cStack>(+2 por acumulaciÃ³n)</style>.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_PICKUPBUFF_LORE" : ""Registro del intendente. 17 días después del accidente.\n\nHa pasado más de medio mes desde que casi nos quemamos hasta convertirnos en pasta negra humeante durante nuestra involuntaria presentación a la atmósfera de este planeta asesino. Debido a la naturaleza de nuestra llegada, que fue escapar de una nave de carga que colapsaba tras ser arrancada del viaje warp, nuestro suministro de necesidades ha estado disminuyendo desde un recuento base ya peligrosamente bajo. Nos hemos visto obligados a racionar la poca comida y agua que tenemos. Para controlar esto, he sido elegido Intendente de nuestro puesto de avanzada.\nNuestros suministros son los siguientes:\n\n-Comida y agua suficientes para aproximadamente 1 semana y media.\n-3 cajas de cartón y media llenas de metal rescatado y circuitos de drones y centinelas destruidos.\n-4 bolsas de equipo médico\n-2 llaveros, ¿cada uno con 13 llaves oxidadas? (Esto debe ser un error, Juárez dice que lo trajeron junto con el resto del botín que esos tres tipos trajeron hace 2 días, ¿las están imprimiendo o qué?)\n-6 cajas llenas de munición (potencialmente disminuyendo a un ritmo exponencial)\n\nAlgo no cuadra. El tablón de anuncios que pusimos para rastrear cuántos suministros está tomando cada uno no lo cubre todo. Aunque esto puede ser solo una simple falta de comunicación, la posibilidad de que alguien esté tomando más de lo que necesita aumenta con cada día. No tengo pruebas que apunten exactamente a esto, pero es una posibilidad (muy aterradora).\n\n\nSi es solo una persona tomándolo todo, entonces al ritmo que se ha mostrado...\nPodría estar más preparada que el resto de nosotros.\n\nFin del registro.\n\n\nAnexo: ¿QUIÉN. EN EL SANTO NOMBRE DE DIOS. SE LLEVÓ. MIS. CIGARRILLOS??"",
+    "ITEM_PICKUPBUFF_LORE" : ""Registro del intendente. 17 dÃ­as despuÃ©s del accidente.\n\nHa pasado mÃ¡s de medio mes desde que casi nos quemamos hasta convertirnos en pasta negra humeante durante nuestra involuntaria presentaciÃ³n a la atmÃ³sfera de este planeta asesino. Debido a la naturaleza de nuestra llegada, que fue escapar de una nave de carga que colapsaba tras ser arrancada del viaje warp, nuestro suministro de necesidades ha estado disminuyendo desde un recuento base ya peligrosamente bajo. Nos hemos visto obligados a racionar la poca comida y agua que tenemos. Para controlar esto, he sido elegido Intendente de nuestro puesto de avanzada.\nNuestros suministros son los siguientes:\n\n-Comida y agua suficientes para aproximadamente 1 semana y media.\n-3 cajas de cartÃ³n y media llenas de metal rescatado y circuitos de drones y centinelas destruidos.\n-4 bolsas de equipo mÃ©dico\n-2 llaveros, Â¿cada uno con 13 llaves oxidadas? (Esto debe ser un error, JuÃ¡rez dice que lo trajeron junto con el resto del botÃ­n que esos tres tipos trajeron hace 2 dÃ­as, Â¿las estÃ¡n imprimiendo o quÃ©?)\n-6 cajas llenas de municiÃ³n (potencialmente disminuyendo a un ritmo exponencial)\n\nAlgo no cuadra. El tablÃ³n de anuncios que pusimos para rastrear cuÃ¡ntos suministros estÃ¡ tomando cada uno no lo cubre todo. Aunque esto puede ser solo una simple falta de comunicaciÃ³n, la posibilidad de que alguien estÃ© tomando mÃ¡s de lo que necesita aumenta con cada dÃ­a. No tengo pruebas que apunten exactamente a esto, pero es una posibilidad (muy aterradora).\n\n\nSi es solo una persona tomÃ¡ndolo todo, entonces al ritmo que se ha mostrado...\nPodrÃ­a estar mÃ¡s preparada que el resto de nosotros.\n\nFin del registro.\n\n\nAnexo: Â¿QUIÃ‰N. EN EL SANTO NOMBRE DE DIOS. SE LLEVÃ“. MIS. CIGARRILLOS??"",
     }
 }
