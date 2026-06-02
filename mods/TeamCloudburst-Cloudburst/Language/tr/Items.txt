@@ -1,36 +1,36 @@
 {
     strings:
     {
-    "ITEM_BARRIERONCRIT_NAME" : "Bizmut Küpeler",
-    "ITEM_BARRIERONCRIT_DESCRIPTION" : "<style=cIsDamage>%5 kanama sansi</style> kazan. Kanama uyguladiginda <style=cIsHealing>geçici bariyer</style> kazan, <style=cIsHealing>15 saglik</style> <style=cStack>(yigin basina +10)</style>.",
+    "ITEM_BARRIERONCRIT_NAME" : "Bizmut KÃ¼peler",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "<style=cIsDamage>%5 kanama sansi</style> kazan. Kanama uyguladiginda <style=cIsHealing>geÃ§ici bariyer</style> kazan, <style=cIsHealing>15 saglik</style> <style=cStack>(yigin basina +10)</style>.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
     "ITEM_BARRIERONCRIT_PICKUP" : "Kanama uygularken bariyer kazan",
-    "ITEM_BARRIERONCRIT_LORE" : "Küpeler Bizmut falanmis, ne bileyim.",
+    "ITEM_BARRIERONCRIT_LORE" : "KÃ¼peler Bizmut falanmis, ne bileyim.",
     "ITEM_ENIGMATICKEYCARD_NAME" : "Esrarengiz Anahtar Kart",
-    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Vurusta düsmanlari takip edip hasar veren bir küre çikarma sansi.",
-    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "Vurusta %4 sansla <style=cIsDamage>takipçi küre</style> çikar, yakindaki düsmanlara çarpma aninda <style=cIsDamage>%140 temel hasar <style=cStack>(yigin basina +%140)</style></style> verir.",
+    "ITEM_ENIGMATICKEYCARD_PICKUP" : "Vurusta dÃ¼smanlari takip edip hasar veren bir kÃ¼re Ã§ikarma sansi.",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "Vurusta %4 sansla <style=cIsDamage>takipÃ§i kÃ¼re</style> Ã§ikar, yakindaki dÃ¼smanlara Ã§arpma aninda <style=cIsDamage>%140 temel hasar <style=cStack>(yigin basina +%140)</style></style> verir.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_ENIGMATICKEYCARD_LORE" : "Hiçbir anahtar kart Enigma'nin lanet beynini açamaz",
-    "ITEM_BLEEDCRIPPLE_NAME" : "Fabinhoru'nun Hançeri",
-    "ITEM_BLEEDCRIPPLE_PICKUP" : "Kanayan düsmanlara vurmak zirhlarini azaltir.",
-    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Vurusta düsmanda <style=cIsDamage>kanama</style> baslatmak için <style=cIsDamage>%5</style> sans kazan. <style=cIsDamage>Kanayan</style> düsmanlara <style=cIsDamage>vurmak</style> <style=cIsDamage>zirhlarini</style> <style=cIsDamage>30</style> azaltir <style=cStack>(yigin basina +15)</style>.",
+    "ITEM_ENIGMATICKEYCARD_LORE" : "HiÃ§bir anahtar kart Enigma'nin lanet beynini aÃ§amaz",
+    "ITEM_BLEEDCRIPPLE_NAME" : "Fabinhoru'nun HanÃ§eri",
+    "ITEM_BLEEDCRIPPLE_PICKUP" : "Kanayan dÃ¼smanlara vurmak zirhlarini azaltir.",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "Vurusta dÃ¼smanda <style=cIsDamage>kanama</style> baslatmak iÃ§in <style=cIsDamage>%5</style> sans kazan. <style=cIsDamage>Kanayan</style> dÃ¼smanlara <style=cIsDamage>vurmak</style> <style=cIsDamage>zirhlarini</style> <style=cIsDamage>30</style> azaltir <style=cStack>(yigin basina +15)</style>.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_BLEEDCRIPPLE_LORE" : "hançerimi fabinliyor ta ki ben horu olana kadar",
-    "ITEM_GLASSHARVESTER_NAME" : "Cam Biçerdöver",
-    "ITEM_GLASSHARVESTER_PICKUP" : "'Kritik Vuruslarin' ek %40 hasar verir. Düsük saglikta kirilir, deneyim kazandirir.",
+    "ITEM_BLEEDCRIPPLE_LORE" : "hanÃ§erimi fabinliyor ta ki ben horu olana kadar",
+    "ITEM_GLASSHARVESTER_NAME" : "Cam BiÃ§erdÃ¶ver",
+    "ITEM_GLASSHARVESTER_PICKUP" : "'Kritik Vuruslarin' ek %40 hasar verir. DÃ¼sÃ¼k saglikta kirilir, deneyim kazandirir.",
     "ITEM_GLASSHARVESTER_DESC" : "<style=cIsDamage>%5 kritik vurus sansi</style> kazan. <style=cIsDamage>Kritik Vuruslar</style> ek <style=cIsDamage>%40 hasar</style><style=cStack>(yigin basina +%30)</style> verir. <style=cIsHealth>%25 sagligin altina</style> hasar almak bu esyayi <style=cIsUtility>kirar</style> ve mevcut seviyenin %15'i kadar <style=cIsUtility>deneyim</style> kazandirir.",
-    "ITEM_GLASSHARVESTER_LORE" : "Cam mi biçiyor yoksa camla mi biçiyor?\nBilmiyorum ve umrumda degil, evimden çik",
-    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Cam Biçerdöver (Kirik)",
-    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Hasat Biçildi. Deneyime degdi mi?",
-    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Kalan gücü olmayan tükenmis bir esya.",
+    "ITEM_GLASSHARVESTER_LORE" : "Cam mi biÃ§iyor yoksa camla mi biÃ§iyor?\nBilmiyorum ve umrumda degil, evimden Ã§ik",
+    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "Cam BiÃ§erdÃ¶ver (Kirik)",
+    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "Hasat BiÃ§ildi. Deneyime degdi mi?",
+    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "Kalan gÃ¼cÃ¼ olmayan tÃ¼kenmis bir esya.",
     "ITEM_PICKUPBUFF_NAME" : "Jape'in Pelerini",
-    "ITEM_PICKUPBUFF_PICKUP" : "Esya alindiginda zirh ve iyilestirme saglayan bir güçlendirme kazan.",
-    "ITEM_PICKUPBUFF_DESCRIPTION" : "Bir esya aldiginda sana <style=cIsUtility>+5 zirh</style> ve <style=cIsHealing>%30 iyilestirme</style> saglayan bir güçlendirme kazan. Maksimum 3 güçlendirme <style=cStack>(yigin basina +2)</style>.",
+    "ITEM_PICKUPBUFF_PICKUP" : "Esya alindiginda zirh ve iyilestirme saglayan bir gÃ¼Ã§lendirme kazan.",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "Bir esya aldiginda sana <style=cIsUtility>+5 zirh</style> ve <style=cIsHealing>%30 iyilestirme</style> saglayan bir gÃ¼Ã§lendirme kazan. Maksimum 3 gÃ¼Ã§lendirme <style=cStack>(yigin basina +2)</style>.",
 
 Translated by: Jaosnake. Original mod by TeamCloudburst.
-    "ITEM_PICKUPBUFF_LORE" : ""Ikmal Subayinin günlügü. Kazadan 17 gün sonra.\n\nBu katil gezegenin atmosferiyle gönülsüz tanismamiz sirasinda neredeyse kendimizi yanan siyah macuna dönüstürmemizin üzerinden yarim aydan fazla zaman geçti. Varis seklimiz, yani warp yolculugundan kopan çöken bir kargo gemisinden kaçis, zaten tehlikeli derecede düsük olan temel ihtiyaç stokumuzun daha da azalmasina neden oldu. Sahip oldugumuz az miktarda yiyecek ve suyu karneye baglamak zorunda kaldik. Bunu kontrol altinda tutmak için karakolumuzun Ikmal Subayi seçildim.\nStoklarimiz söyle:\n\n-Yaklasik 1,5 haftalik yiyecek ve su.\n-Yok edilmis dronlardan ve taretlerden kurtarilmis metal ve devrelerle dolu 3,5 karton kutu.\n-4 torba tibbi ekipman\n-2 anahtarlik, her birinde 13 pasli anahtar mi var? (Bu bir hata olmali, Juarez 2 gün önce o üç herifin getirdigi ganimetin geri kalaniyla birlikte getirildigini söylüyor, bunlari basiyorlar mi ne?)\n-6 kutu mühimmat (üssel bir hizla azaliyor olabilir)\n\nBir seyler uyusmuyor. Herkesin ne kadar stok aldigini takip etmek için astigimiz ilan panosu hepsini kapsamiyor. Bu sadece basit bir iletisim eksikligi olsa da, birinin ihtiyacindan fazlasini alma olasiligi her geçen gün artiyor. Tam olarak bunu gösteren bir kanitim yok, ama bu (çok ürkütücü) bir olasilik.\n\n\nEger hepsini alan tek bir kisiyse, gösterilen oranlarda...\nDigerlerimizden daha hazirlikli olabilir.\n\nGünlük sonu.\n\n\nEk: KIM. TANRI ASKINA. SIGARALARIMI. ALDI??"",
+    "ITEM_PICKUPBUFF_LORE" : ""Ikmal Subayinin gÃ¼nlÃ¼gÃ¼. Kazadan 17 gÃ¼n sonra.\n\nBu katil gezegenin atmosferiyle gÃ¶nÃ¼lsÃ¼z tanismamiz sirasinda neredeyse kendimizi yanan siyah macuna dÃ¶nÃ¼stÃ¼rmemizin Ã¼zerinden yarim aydan fazla zaman geÃ§ti. Varis seklimiz, yani warp yolculugundan kopan Ã§Ã¶ken bir kargo gemisinden kaÃ§is, zaten tehlikeli derecede dÃ¼sÃ¼k olan temel ihtiyaÃ§ stokumuzun daha da azalmasina neden oldu. Sahip oldugumuz az miktarda yiyecek ve suyu karneye baglamak zorunda kaldik. Bunu kontrol altinda tutmak iÃ§in karakolumuzun Ikmal Subayi seÃ§ildim.\nStoklarimiz sÃ¶yle:\n\n-Yaklasik 1,5 haftalik yiyecek ve su.\n-Yok edilmis dronlardan ve taretlerden kurtarilmis metal ve devrelerle dolu 3,5 karton kutu.\n-4 torba tibbi ekipman\n-2 anahtarlik, her birinde 13 pasli anahtar mi var? (Bu bir hata olmali, Juarez 2 gÃ¼n Ã¶nce o Ã¼Ã§ herifin getirdigi ganimetin geri kalaniyla birlikte getirildigini sÃ¶ylÃ¼yor, bunlari basiyorlar mi ne?)\n-6 kutu mÃ¼himmat (Ã¼ssel bir hizla azaliyor olabilir)\n\nBir seyler uyusmuyor. Herkesin ne kadar stok aldigini takip etmek iÃ§in astigimiz ilan panosu hepsini kapsamiyor. Bu sadece basit bir iletisim eksikligi olsa da, birinin ihtiyacindan fazlasini alma olasiligi her geÃ§en gÃ¼n artiyor. Tam olarak bunu gÃ¶steren bir kanitim yok, ama bu (Ã§ok Ã¼rkÃ¼tÃ¼cÃ¼) bir olasilik.\n\n\nEger hepsini alan tek bir kisiyse, gÃ¶sterilen oranlarda...\nDigerlerimizden daha hazirlikli olabilir.\n\nGÃ¼nlÃ¼k sonu.\n\n\nEk: KIM. TANRI ASKINA. SIGARALARIMI. ALDI??"",
     }
 }
