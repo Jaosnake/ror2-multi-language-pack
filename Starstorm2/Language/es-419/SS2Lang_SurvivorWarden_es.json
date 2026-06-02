@@ -1,22 +1,22 @@
 {
-    "strings": {
-        "SS2_WARDEN_BODY_NAME": "Warden",
-        "SS2_WARDEN_BODY_SUBTITLE": "Crime has a new enemy",
-        "SS2_WARDEN_DESCRIPTION": "El futuro de la aplicación de la ley. Warden es un ",
-        "SS2_WARDEN_OUTRO_FLAVOR": "..and so he left, battered to the core of hope.",
-        "SS2_WARDEN_OUTRO_FAILURE": "..and so he vanished, shield shattered and hope snuffed out.",
-        "SS2_WARDEN_BODY_LORE": "why are there WARDENs in space",
-        "SS2_WARDEN_PASSIVE_NAME": "Invigorate",
-        "SS2_WARDEN_PASSIVE_DESC": "A buff ward surronds you that grants allies in its radius IDK YET IT ISNT WORKING",
-        "SS2_WARDEN_PRIMARY_SWORD_NAME": "Aeonium Blade",
-        "SS2_WARDEN_PRIMARY_SWORD_DESC": "Swing your sword for X% damage with the 3rd hit stabbing forward for X% damage",
-        "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Block",
-        "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Raise your shield to block gaining X% armor, and Y% movement speed decrease. Blocking an attack within the first 0.5s of activation parries the attack and empowers your next skill. Your primary becomes a shield bash and jumping while holding your shield rolls you instead.",
-        "SS2_WARDEN_SHIELD_BASH_NAME": "Bash",
-        "SS2_WARDEN_SHIELD_BASH_DESC": "Shield Bash in front of you for <style=cIsDamage>240% damage</style> and <style=cIsUtility>stun</style> enemies hit.",
-        "SS2_WARDEN_UTILITY_LEAP_NAME": "Striking Rush",
-        "SS2_WARDEN_UTILITY_LEAP_DESC": "Spin forward and slice in front repeatedly, dealing <style=cIsDamage>240% damage</style> with each slice.",
-        "SS2_WARDEN_SPECIAL_BANNER_NAME": "Rally",
-        "SS2_WARDEN_SPECIAL_BANNER_DESC": "Leap and slam a banner that slows down enemies, projectiles, grants <style=cIsUtility>X% movement speed</style>, <style=cIsDamage>Y% attack speed</style>, for yourself and your allies."
-    }
+  "strings": {
+    "SS2_WARDEN_BODY_NAME": "Guardián",
+    "SS2_WARDEN_BODY_SUBTITLE": "El crimen tiene un nuevo enemigo",
+    "SS2_WARDEN_DESCRIPTION": "El futuro de la aplicación de la ley. Warden es un ",
+    "SS2_WARDEN_OUTRO_FLAVOR": "..y así se fue, destrozado hasta el centro de la esperanza.",
+    "SS2_WARDEN_OUTRO_FAILURE": "...y así desapareció, con el escudo destrozado y la esperanza apagada.",
+    "SS2_WARDEN_BODY_LORE": "¿Por qué hay GUARDIANES en el espacio?",
+    "SS2_WARDEN_PASSIVE_NAME": "Vigorizar",
+    "SS2_WARDEN_PASSIVE_DESC": "Te rodea un protector de beneficio que otorga aliados en su radio IDK YET IT ISNT WORKING",
+    "SS2_WARDEN_PRIMARY_SWORD_NAME": "Hoja de eonio",
+    "SS2_WARDEN_PRIMARY_SWORD_DESC": "Balancea tu espada para causar un X% de daño y el tercer golpe apuñala hacia adelante para causar un X% de daño.",
+    "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Bloquear",
+    "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Levanta tu escudo para bloquear, ganando X% de armadura y Y% de disminución de velocidad de movimiento. Bloquear un ataque dentro de los primeros 0,5 segundos de activación detiene el ataque y potencia tu siguiente habilidad. Tu principal se convierte en un golpe de escudo y saltar mientras sostienes tu escudo te hace rodar.",
+    "SS2_WARDEN_SHIELD_BASH_NAME": "Intento",
+    "SS2_WARDEN_SHIELD_BASH_DESC": "Golpea con escudo frente a ti para causar <style=cIsDamage>240% de daño. Los enemigos </style> y <style=cIsUtility>stun</style> golpean.",
+    "SS2_WARDEN_UTILITY_LEAP_NAME": "Acometidas sorprendentes",
+    "SS2_WARDEN_UTILITY_LEAP_DESC": "Gira hacia adelante y corta hacia adelante repetidamente, causando <style=cIsDamage>240% de daño</style> con cada corte.",
+    "SS2_WARDEN_SPECIAL_BANNER_NAME": "Reunión",
+    "SS2_WARDEN_SPECIAL_BANNER_DESC": "Salta y golpea un estandarte que ralentiza a los enemigos, proyectiles, otorga <style=cIsUtility>X% de velocidad de movimiento</style>, <style=cIsDamage>Y% de velocidad de ataque</style>, para ti y tus aliados."
+  }
 }

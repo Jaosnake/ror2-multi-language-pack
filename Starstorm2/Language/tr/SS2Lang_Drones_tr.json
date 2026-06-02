@@ -1,23 +1,23 @@
 {
-    "strings": {
-        "SS2_DRONE_SHOCK_NAME": "Şok Dronu",
-        "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Kırık Şok Dronu",
-        "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Şok Dronunu Tamir Et",
-        "SS2_DRONE_SHOCK_PICKUP": "Yakındaki düşmanları <style=cIsUtility>şokla</style>, onları kesintiye uğrat ve sersemlet.",
-        "SS2_DRONE_SHOCK_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance, <style=cIsUtility>shocking</style> enemies, interrupting and stunning them.",
-        "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Fires an electric blast, dealing <style=cIsDamage>100% damage</style> in an area and <style=cIsUtility>shocking</style> enemies for <style=cIsUtility>5 seconds</style>.",
-        "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
-        "SS2_DRONE_CLONE_NAME": "Kopyalayıcı Drone",
-        "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Kırık Kopyalayıcı Drone",
-        "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Kopyalayıcı Dronu Tamir Et",
-        "SS2_DRONE_CLONE_PICKUP": "Ara sıra yakındaki eşyaları <style=cIsUtility>kopyalar</style>.",
-        "SS2_DRONE_CLONE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance. <style=cIsUtility>Duplicates</style> nearby item pickups.",
-        "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Channels on a nearby item. Upon completion, creates a <style=cIsUtility>duplicate</style> of the item.",
-        "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
-        "SS2_DROIDDRONE_NAME": "Security Drone",
-        "SS2_DROIDDRONE_PICKUP": "Yakındaki düşmanlara ateş eder. <style=cIsUtility>Öldürülen elitin cinsini devralır</style>.",
-        "SS2_DROIDDRONE_DESCRIPTION": "A temporary companion created when holding Droid Head and killing elites that will follow the survivor at a close distance, shooting nearby enemies.",
-        "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
-        "SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
-    }
+  "strings": {
+    "SS2_DRONE_SHOCK_NAME": "Şok Dronu",
+    "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Kırık Şok Dronu",
+    "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Şok Dronunu Tamir Et",
+    "SS2_DRONE_SHOCK_PICKUP": "Yakındaki düşmanları <style=cIsUtility>şokla</style>, onları kesintiye uğrat ve sersemlet.",
+    "SS2_DRONE_SHOCK_DESCRIPTION": "Hayatta kalanları yakın mesafeden takip edecek, <style=cIsUtility>şok edici</style> düşmanları rahatsız edecek ve sersemletecek, altınla satın alınan bir arkadaş.",
+    "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Bir elektrik patlaması ateşleyerek bir alanda <style=cIsDamage>%100 hasar verir</style> ve <style=cIsUtility><style=cIsUtility>5 saniye boyunca düşmanları şok eder</style></style>.",
+    "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
+    "SS2_DRONE_CLONE_NAME": "Kopyalayıcı Drone",
+    "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Kırık Kopyalayıcı Drone",
+    "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Kopyalayıcı Dronu Tamir Et",
+    "SS2_DRONE_CLONE_PICKUP": "Ara sıra yakındaki eşyaları <style=cIsUtility>kopyalar</style>.",
+    "SS2_DRONE_CLONE_DESCRIPTION": "Hayatta kalan kişiyi yakın mesafeden takip edecek, altınla satın alınan bir yoldaş. <style=cIsUtility>Çoğaltılır</style> yakındaki öğe alımları.",
+    "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Yakındaki bir öğedeki kanallar. Tamamlandıktan sonra öğenin <style=cIsUtility>duplicate</style> kopyasını oluşturur.",
+    "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
+    "SS2_DROIDDRONE_NAME": "Güvenlik Drone'u",
+    "SS2_DROIDDRONE_PICKUP": "Yakındaki düşmanlara ateş eder. <style=cIsUtility>Öldürülen elitin cinsini devralır</style>.",
+    "SS2_DROIDDRONE_DESCRIPTION": "Droid Head'i tutarken ve hayatta kalan kişiyi yakın mesafeden takip edecek ve yakındaki düşmanları vuracak elitleri öldürürken oluşturulan geçici bir arkadaş.",
+    "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
+    "SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
+  }
 }

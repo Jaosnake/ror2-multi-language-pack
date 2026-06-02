@@ -1,8 +1,8 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_COGNATION_NAME": "Prueba de Cognación",
-        "SS2_ACHIEVEMENT_COGNATION_DESC": "Completa la Prueba de Cognación",
-        "SS2_ACHIEVEMENT_HAVOC_NAME": "Prueba de Estragos",
-        "SS2_ACHIEVEMENT_HAVOC_DESC": "Completa la Prueba de Estragos"
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
+    "SS2_ACHIEVEMENT_COGNATION_DESC": "Complete the Trial of Cognation",
+    "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
+    "SS2_ACHIEVEMENT_HAVOC_DESC": "Complete the Trial of Havoc"
+  }
 }

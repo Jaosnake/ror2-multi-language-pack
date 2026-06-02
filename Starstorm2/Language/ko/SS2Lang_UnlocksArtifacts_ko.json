@@ -1,10 +1,8 @@
 {
-    "strings":
-    {
-        "SS2_ACHIEVEMENT_COGNATION_NAME": "동족의 도전",
-        "SS2_ACHIEVEMENT_COGNATION_DESC": "동족의 도전을 완료하십시오.",
-
-        "SS2_ACHIEVEMENT_HAVOC_NAME": "대혼란의 도전",
-        "SS2_ACHIEVEMENT_HAVOC_DESC": "대혼란의 도전을 완료하십시오."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
+    "SS2_ACHIEVEMENT_COGNATION_DESC": "Complete the Trial of Cognation",
+    "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
+    "SS2_ACHIEVEMENT_HAVOC_DESC": "Complete the Trial of Havoc"
+  }
 }

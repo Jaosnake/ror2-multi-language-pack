@@ -1,19 +1,14 @@
 {
-    "strings":
-    {
-        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Écho solitaire",
-        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Vainquez le Vestige du Commando.",
-
-        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Commando Némésis : Maîtrise",
-        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "En tant que Commando Némésis, terminez le jeu ou oblitèrez-vous en mode Mousson ou plus difficile.",
-
-        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Commando Némésis : Grande maîtrise",
-        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "En tant que Commando Némésis, terminez le jeu ou oblitèrez-vous en mode Typhon ou plus difficile.",
-
-        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Commando Némésis : Némésis du Némésis",
-        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "En tant que Commando Némésis, vainquez le Vestige du Commando.",
-
-        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Commando Némésis : Zandatsu",
-        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "En tant que Commando Némésis, tuez un ennemi avec 10 cumuls d'entaille ou plus."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Lone Echo",
+    "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Defeat Commando's vestige.",
+    "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Nemesis Commando: Mastery",
+    "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "As Nemesis Commando, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Nemesis Commando: Grand Mastery",
+    "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "As Nemesis Commando, beat the game or obliterate on Typhoon or harder.",
+    "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Nemesis Commando: Nemesis Nemesis",
+    "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "As Nemesis Commando, defeat Commando's vestige.",
+    "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Nemesis Commando: Zandatsu",
+    "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "As Nemesis Commando, kill an enemy with 10 stacks of gouge or more."
+  }
 }

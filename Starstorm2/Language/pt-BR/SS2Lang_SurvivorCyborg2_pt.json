@@ -1,54 +1,41 @@
 {
   "strings": {
-    "SS2_CYBORG2_NAME": "Cyborg",
-    "SS2_CYBORG2_BODY_NAME": "Cyborg",
-    "SS2_CYBORG2_SUBTITLE": "[temp]CyborgSubtitle",
+    "SS2_CYBORG2_NAME": "Ciborgue",
+    "SS2_CYBORG2_BODY_NAME": "Ciborgue",
+    "SS2_CYBORG2_SUBTITLE": "[temp]CyborgSubtítulo",
     "SS2_CYBORG2_DESCRIPTION": "O Cyborg é um ",
     "SS2_CYBORG2_OUTRO_FLAVOR": "... e assim ele se foi, ",
     "SS2_CYBORG2_OUTRO_FAILURE": "... e assim ele retornou, ",
     "SS2_CYBORG2_LORE": "[temp]CyborgLore",
-
     "SS2_KEYWORD_CYBORG_PRIME": "<color=#42f5b3><style=cKeywordName>Preparado</style></color><style=cSub>Acertar inimigos <color=#42f5b3>Preparados</color> com um ataque diferente causa <style=cIsDamage>300% de dano</style> adicional em uma área.",
-
     "SS2_CYBORG2_PRIMARY_CANNON_NAME": "Aniquilador",
     "SS2_CYBORG2_PRIMARY_CANNON_DESCRIPTION": "Dispara um laser <style=cIsUtility>lentificante</style> causando <style=cIsDamage>200% de dano</style>",
-
     "SS2_CYBORG2_PRIMARY_LASTPRISM_NAME": "Obliterador",
     "SS2_CYBORG2_PRIMARY_LASTPRISM_DESCRIPTION": "Carregue um laser contínuo que causa <style=cIsDamage>1.000% de dano</style> por segundo, mas tem <style=cIsHealth>velocidade de giro reduzida",
-
     "SS2_CYBORG2_SECONDARY_LASER_NAME": "Estrela Ascendente",
     "SS2_CYBORG2_SECONDARY_LASER_DESCRIPTION": "Dispara rajadas de laser em até <style=cIsDamage>3</style> alvos, causando <style=cIsDamage>3x150% de dano</style> e <color=#42f5b3>Preparando</color> inimigos.",
-
     "SS2_CYBORG2_SECONDARY_MINES_NAME": "Perigo de Choque",
     "SS2_CYBORG2_SECONDARY_MINES_DESCRIPTION": "Plante uma mina que repetidamente <style=cIsDamage>eletrocuta</style> e <color=#42f5b3>Prepara</color> alvos próximos. Pode plantar até 3.",
-
     "SS2_CYBORG2_UTILITY_TELEPORTER_NAME": "Recolher",
     "SS2_CYBORG2_UTILITY_TELEPORTER_DESCRIPTION": "Implante um <style=cIsUtility>ponto de dobra</style>. Reutilize para <style=cIsUtility>trocar</style> de posição com alvos próximos.",
-
     "SS2_CYBORG2_UTILITY_TRAP_NAME": "Reaproveitar",
     "SS2_CYBORG2_UTILITY_TRAP_DESCRIPTION": "Implante um dispositivo que <style=cIsDamage>captura</style> inimigos de vida baixa, concedendo <style=cIsUtility>dinheiro extra</style> e <style=cIsDamage>poderes de elite</style> a aliados próximos.",
-
     "SS2_CYBORG2_UTILITY_TELEPORT_NAME": "Teletransporte",
     "SS2_CYBORG2_UTILITY_TELEPORT_DESCRIPTION": "<style=cIsUtility>Teletransporte</style> até seu <style=cIsUtility>ponto de dobra</style>.",
-
     "SS2_CYBORG2_SPECIAL_MAGNETBALL_NAME": "Compensação Térmica",
     "SS2_CYBORG2_SPECIAL_MAGNETBALL_DESCRIPTION": "Dispara uma massa energética causando <style=cIsDamage>700% de dano</style>. A massa solta estilhaços que explodem causando <style=cIsDamage>6x175% de dano</style> e <color=#42f5b3>Preparam</color> inimigos.",
-
     "SS2_CYBORG2_SPECIAL_DETONATE_NAME": "Detonar",
     "SS2_CYBORG2_SPECIAL_DETONATE_DESCRIPTION": "<style=cIsDamage>Bum.</style>",
-
-    "SS2_CYBORG2_SPECIAL_SCEPTER_MAGNETBALL_NAME": "[temp]CyborgScepterName",
-    "SS2_CYBORG2_SPECIAL_SCEPTER_MAGNETBALL_DESCRIPTION": "[temp]CyborgScepterDescription",
-
+    "SS2_CYBORG2_SPECIAL_SCEPTER_MAGNETBALL_NAME": "[temp]CiborgueCetroNome",
+    "SS2_CYBORG2_SPECIAL_SCEPTER_MAGNETBALL_DESCRIPTION": "[temp]CiborgueCetroDescrição",
     "SS2_SKIN_CYBORG2_DEFAULT": "Padrão",
-    "SS2_SKIN_CYBORG2_MASTERY": "[temp]CyborgMastery",
-    "SS2_SKIN_CYBORG2_GRANDMASTERY": "[temp]CyborgGrandmastery",
-
+    "SS2_SKIN_CYBORG2_MASTERY": "[temp]Maestria Ciborgue",
+    "SS2_SKIN_CYBORG2_GRANDMASTERY": "[temp]CiborgueGrandmastery",
     "SS2_ACHIEVEMENT_CYBORG2_NAME": "[temp]CyborgUnlockName",
     "SS2_ACHIEVEMENT_CYBORG2_DESC": "[temp]CyborgUnlockDescription",
-    "SS2_ACHIEVEMENT_CYBORG2_MASTERY_NAME": "Cyborg: Domínio",
-    "SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC": "Como Cyborg, vença o jogo ou aniquile em Monção ou superior.",
-    "SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME": "Cyborg: Grande Domínio",
-    "SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_DESC": "Como Cyborg, vença o jogo ou aniquile em Tufão."
+    "SS2_ACHIEVEMENT_CYBORG2_MASTERY_NAME": "Cyborg: Mastery",
+    "SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC": "As Cyborg, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
+    "SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_DESC": "As Cyborg, beat the game or obliterate on Typhoon."
   }
 }

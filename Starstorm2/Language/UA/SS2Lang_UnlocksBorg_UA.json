@@ -1,10 +1,10 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_CYBORG_NAME": "Заживлено",
-        "SS2_ACHIEVEMENT_CYBORG_DESC": "Завершіть подію Ефірного Телепортера.",
-        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Кіборг: Майстерність",
-        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "Як Кіборг, пройдіть гру або знищте себе на Мусоні або складніше.",
-        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Кіборг: Велика Майстерність",
-        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "Як Кіборг, пройдіть гру або знищте себе на Тайфуні або складніше."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_CYBORG_NAME": "Powered Up",
+    "SS2_ACHIEVEMENT_CYBORG_DESC": "Complete an Ethereal Teleporter event.",
+    "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Cyborg: Mastery",
+    "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "As Cyborg, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
+    "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "As Cyborg, beat the game or obliterate on Typhoon or harder."
+  }
 }
