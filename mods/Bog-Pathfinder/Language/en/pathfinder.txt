@@ -42,7 +42,6 @@ SPECIAL_CANCEL_DESCRIPTION: Cancels Command Mode.
 
 SQUALL_SPECIAL_GOFORTHROAT_NAME: Go for the Throat!
 SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Order Squall to repeatedly attack the target enemy for <style=cIsDamage>70% damage</style>. Each attack briefly reduces <style=cIsDamage>armor</style> and <style=cIsUtility>regenerates 1%</style> battery, doubled on Critical Hits. This skill can briefly <style=cIsUtility>overcharge</style> the battery.
-
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery

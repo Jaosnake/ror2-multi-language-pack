@@ -38,7 +38,7 @@ POPCORN_LEE_HYPERREAL_BODY_KEYWORD_AMMO: <style=cKeywordName>弹药系统</style
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_SNIPE_STANCE: <style=cKeywordName>狙击姿态</style>\n进入一种固定你的姿势，将你的主要技能改为精准射击，每次射击造成<style=cIsDamage>400%伤害</style>。在没有方向输入时使用实用技能可让你向后闪避，同时发射一颗造成<style=cIsDamage>400%伤害</style>的子弹。以其他方式使用此技能将取消该姿势。
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_POWER_GAUGE: <style=cKeywordName>能量槽</style>\n位于生命值上方的能量槽决定你何时可以进入<style=cIsUtility>[Hypermatrix]</style>，以及退出前还剩多少时间。按住主要技能进入<style=cIsUtility>[Hypermatrix]</style>。
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_PARRY: <style=cKeywordName>招架</style>\n成功招架时，如果造成伤害的敌人可以被击晕则将其击晕。任何被招架的射弹将按你瞄准的方向弹回。成功招架会重置<style=cIsUtility>[武器弹幕]</style>，从用于招架的招式重新开始。
-POPCORN_LEE_HYPERREAL_BODY_KEYWORD_DOMAIN: <style=cKeywordName>Hypermatrix 系统</styles>\n在你的生命值上方是<style=cIsUtility>[Hypermatrix 系统槽]</style>。当能量槽满时，在<style=cIsUtility>[武器弹幕]</style>中随时按住主要技能将把你传送到<style=cIsUtility>[Hypermatrix]</style>。在此状态下，<style=cIsUtility>红色</style>和<style=cIsUtility>黄色</style>宝珠完全改变，你的特殊技能变为<style=cIsUtility>[崩坏领域]</style>。如果能量槽在此状态下耗尽，<style=cIsUtility>[崩坏领域]</style>将自动激活，退出<style=cIsUtility>[Hypermatrix]</style>。
+POPCORN_LEE_HYPERREAL_BODY_KEYWORD_DOMAIN: <style=cKeywordName>Hypermatrix 系统</style>\n在你的生命值上方是<style=cIsUtility>[Hypermatrix 系统槽]</style>。当能量槽满时，在<style=cIsUtility>[武器弹幕]</style>中随时按住主要技能将把你传送到<style=cIsUtility>[Hypermatrix]</style>。在此状态下，<style=cIsUtility>红色</style>和<style=cIsUtility>黄色</style>宝珠完全改变，你的特殊技能变为<style=cIsUtility>[崩坏领域]</style>。如果能量槽在此状态下耗尽，<style=cIsUtility>[崩坏领域]</style>将自动激活，退出<style=cIsUtility>[Hypermatrix]</style>。
 POPCORN_LEE_HYPERREAL_BODY_KEYWORD_DOMAIN_ULT: <style=cKeywordName>崩坏领域</style>\n坍缩<style=cIsUtility>[Hypermatrix]</style>，短时间内变为无敌并在你的路径上造成<style=cIsDamage>1,500%伤害</style>。每次在 hypermatrix 中使用<style=cIsUtility>[3-ping]</style>时，增加3次<style=cIsDamage>200%伤害</style>的攻击。最多4次，共12次额外攻击。
 LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ENTRY: 你怎么来到这里的？
 LEE_HYPERREAL_BODY_BROTHER_RESPONSE_ON_DEATH_1: 在你自己的维度里祈祷吧。
@@ -68,24 +68,38 @@ POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ALIEN_HEAD_DESC: Lee: Hyperreal 的宝珠
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_PURITY_DESC: Lee: Hyperreal 的宝珠充能速度减少2（每叠加+1）秒。
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ATTACK_SPEED_DESC: Lee: Hyperreal 的主要攻击获得更多攻击次数而非攻击速度。例如：250%攻击速度 = 2次攻击加一次半伤攻击。
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_LUMINOUS_SHOT_DESC: Lee: Hyperreal 的狙击姿态射击每次射击获得1层叠加，而非使用次要攻击。
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Lee: Hyperreal：精通
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下通关游戏或自我湮灭。
-POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal：精通
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME: Lee: Hyperreal：真实
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下使用超越通关，或从中级及以上宝箱中获得5%概率。
-POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME: Lee: Hyperreal：真实
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME: Lee: Hyperreal：猩红
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下不使用时钟物品和流血通关，或从传说宝箱中获得5%概率。
-POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME: Lee: Hyperreal：猩红
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：黄色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下携带5+个首领物品通关，或从任何宝箱中获得2%概率。
-POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：黄色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：绿色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在季风难度下携带15+个治疗物品通关，或从任何宝箱中获得2%概率。
-POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：绿色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：粉色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在最大力量下使用时间尽头击杀传送门首领，或从任何宝箱中获得2%概率。
-POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：粉色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal：紫色VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: 作为 Lee: Hyperreal，在日食8难度下通关游戏，或从传说宝箱中获得1%概率。
-POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal：紫色VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Lee: Hyperreal: Mastery
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game or obliterate yourself on Monsoon.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal: Mastery
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME: Lee: Hyperreal: Real
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with Transcendence, or roll 5% chance from a Medium or higher chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME: Lee: Hyperreal: Real
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME: Lee: Hyperreal: Scarlet
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon without clock items and bleed, or roll 5% chance from a Legendary chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME: Lee: Hyperreal: Scarlet
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Yellow VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with 5+ Boss items, or roll 2% chance from any chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Yellow VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Green VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with 15+ healing items, or roll 2% chance from any chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Green VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Pink VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, kill the Teleporter boss with End of Times at max power, or roll 2% chance from any chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Pink VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Violet VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Eclipse 8, or roll 1% chance from a Legendary chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Violet VFX

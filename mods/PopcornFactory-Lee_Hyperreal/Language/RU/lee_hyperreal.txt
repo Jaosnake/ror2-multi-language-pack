@@ -68,24 +68,38 @@ POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ALIEN_HEAD_DESC: Орбы Lee: Hyperreal 
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_PURITY_DESC: Скорость перезарядки орбов Lee: Hyperreal уменьшается на 2 (+1 за стак) секунды.
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_ATTACK_SPEED_DESC: Основная атака Lee: Hyperreal получает больше ударов вместо скорости атаки. Пример: 250% скорости атаки = 2 удара и удар половинного урона.
 POPCORN_LEE_HYPERREAL_BODY_ITEM_EFFECT_LUMINOUS_SHOT_DESC: Выстрелы Позиции Снайпера Lee: Hyperreal дают 1 Стак за выстрел вместо использования Вторичной атаки.
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Lee: Hyperreal: Мастерство
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, пройдите игру или уничтожьте себя в Monsoon.
-POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal: Мастерство
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Lee: Hyperreal: Mastery
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game or obliterate yourself on Monsoon.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal: Mastery
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME: Lee: Hyperreal: Real
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, пройдите игру в Monsoon с Transcendence, или получите 5% шанс со среднего сундука или выше.
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with Transcendence, or roll 5% chance from a Medium or higher chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
 POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME: Lee: Hyperreal: Real
 ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME: Lee: Hyperreal: Scarlet
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, пройдите игру в Monsoon без предметов часов и кровотечения, или получите 5% шанс с Легендарного сундука.
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon without clock items and bleed, or roll 5% chance from a Legendary chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
 POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME: Lee: Hyperreal: Scarlet
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Желтый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, пройдите игру в Monsoon с 5+ предметами Босса, или получите 2% шанс с любого сундука.
-POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Желтый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Зеленый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, пройдите игру в Monsoon с 15+ предметами лечения, или получите 2% шанс с любого сундука.
-POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Зеленый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Розовый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, убейте босса Телепорта с помощью Конец Времен на максимальной мощности, или получите 2% шанс с любого сундука.
-POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Розовый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Фиолетовый VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: Будучи Lee: Hyperreal, пройдите игру в Eclipse 8, или получите 1% шанс с Легендарного сундука.
-POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Фиолетовый VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Yellow VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with 5+ Boss items, or roll 2% chance from any chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Yellow VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Green VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with 15+ healing items, or roll 2% chance from any chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Green VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Pink VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, kill the Teleporter boss with End of Times at max power, or roll 2% chance from any chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Pink VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Violet VFX
+ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Eclipse 8, or roll 1% chance from a Legendary chest.
+
+<i>Backported from pt-BR. Original mod by PopcornFactory. Translated by: Jaosnake</i>
+POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Violet VFX

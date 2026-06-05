@@ -42,7 +42,6 @@ SPECIAL_CANCEL_DESCRIPTION: Annule le Mode Commande.
 
 SQUALL_SPECIAL_GOFORTHROAT_NAME: À la Gorge !
 SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Ordonnez à Squall d'attaquer à répétition l'ennemi ciblé pour <style=cIsDamage>70% de dégâts</style>. Chaque attaque réduit brièvement l'<style=cIsDamage>armure</style> et <style=cIsUtility>régénère 1%</style> de batterie, doublé sur les Coups Critiques. Cette compétence peut brièvement <style=cIsUtility>surcharger</style> la batterie.
-
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery
