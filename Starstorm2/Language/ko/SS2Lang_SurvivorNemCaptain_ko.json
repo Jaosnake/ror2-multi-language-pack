@@ -31,14 +31,14 @@
     "SS2_NEMCAPTAIN_ORDERSTRIKESHOCK_NAME": "명령: KOPPA 공격",
     "SS2_NEMCAPTAIN_ORDERSTRIKESHOCK_DESCRIPTION": "<style=cIsUtility>감전</style>. 마이크로봇을 조준하여 레이저를 발사해 <style=cIsDamage>900%의 피해</style>를 주는 <style=cIsDamage>폭발</style>을 일으킵니다.",
     "SS2_NEMCAPTAIN_ORDERREGEN_NAME": "명령: 진정제 투여",
-    "SS2_NEMCAPTAIN_ORDERREGEN_DESCRIPTION": "<style:cIsUtility>15초</style> 동안 스트레스 감소율을 일시적으로 증가시킵니다.",
+    "SS2_NEMCAPTAIN_ORDERREGEN_DESCRIPTION": "<style=cIsUtility>15초</style> 동안 스트레스 감소율을 일시적으로 증가시킵니다.",
     "SS2_NEMCAPTAIN_ORDERREDUCE_NAME": "명령: 각성제 투여",
-    "SS2_NEMCAPTAIN_ORDERREDUCE_DESCRIPTION": "<style:cIsUtility>10초</style> 동안 모든 원천으로부터 받는 스트레스 증가량을 일시적으로 <style:cIsUtility>50%</style> 감소시킵니다.",
+    "SS2_NEMCAPTAIN_ORDERREDUCE_DESCRIPTION": "<style=cIsUtility>10초</style> 동안 모든 원천으로부터 받는 스트레스 증가량을 일시적으로 <style=cIsUtility>50%</style> 감소시킵니다.",
     "SS2_NEMCAPTAIN_ORDERRECOVER_NAME": "명령: 완전 초기화",
-    "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "현재 스트레스 수치를 대폭 감소시키며, <style:cIsUtility>다른 모든 명령을 취소</style>합니다. 취소된 명령 하나당 제거되는 스트레스량이 증가합니다.",
+    "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "현재 스트레스 수치를 대폭 감소시키며, <style=cIsUtility>다른 모든 명령을 취소</style>합니다. 취소된 명령 하나당 제거되는 스트레스량이 증가합니다.",
     "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "명령: 활력의 장",
-    "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style:cIsHealing>치유</style>. 초마다 주변 아군의 <style:cIsHealth>최대 체력</style>의 </style>6%</style>를 치유하고, <style:cIsUtility>12초</style> 동안 <style:cIsUtility>50의 방어력</style>과 <style:cIsDamage>공격 속도 +20%</style>를 부여합니다.",
+    "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>치유</style>. 초마다 주변 아군의 <style=cIsHealth>최대 체력</style>의 <style=cIsHealing>6%</style>를 치유하고, <style=cIsUtility>12초</style> 동안 <style=cIsUtility>50의 방어력</style>과 <style=cIsDamage>공격 속도 +20%</style>를 부여합니다.",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "명령: 중력 우물",
-    "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style:cIsUtility>8초</style> 동안 주변 적을 <style:cIsUtility>끌어당깁니다</style>."
+    "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility>8초</style> 동안 주변 적을 <style=cIsUtility>끌어당깁니다</style>."
   }
 }

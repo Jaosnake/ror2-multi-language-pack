@@ -54,7 +54,7 @@
    "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "Diminui massivamente seu Estresse atual, enquanto também <style=cIsUtility>descarta todas as outras Ordens</style>. O Estresse removido é aumentado por Ordem perdida.",
 
    "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "ORDEM: Campo Revigorante",
-   "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Cura</style> aliados próximos em <style=cIsHealing>6%</style> de sua <style=cIsHealth>vida máxima</style> a cada segundo, e também concede <style=cIsUtility>50 de armadura</style> e <style=cIsDamage>+20% de velocidade de ataque</style> por <style=cIsUtility>12 segundos</style.",
+   "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Cura</style> aliados próximos em <style=cIsHealing>6%</style> de sua <style=cIsHealth>vida máxima</style> a cada segundo, e também concede <style=cIsUtility>50 de armadura</style> e <style=cIsDamage>+20% de velocidade de ataque</style> por <style=cIsUtility>12 segundos</style>.",
 
    "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "ORDEM: Poço Gravitacional",
    "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility>Atrai</style> inimigos próximos por <style=cIsUtility>8 segundos</style>."

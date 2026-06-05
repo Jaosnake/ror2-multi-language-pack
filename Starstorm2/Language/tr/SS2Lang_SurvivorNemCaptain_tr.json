@@ -37,7 +37,7 @@
     "SS2_NEMCAPTAIN_ORDERRECOVER_NAME": "ORDER: Toplam Sıfırlama",
     "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "<style=cIsUtility>diğer tüm Siparişleri atarken</style> mevcut stres miktarınızı büyük ölçüde azaltın. Kaldırılan stres, kaybedilen Sipariş başına artar.",
     "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "ORDER: Canlandırma Alanı",
-    "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Heal</style> yakındaki müttefiklere her saniye <style=cIsHealth>maksimum sağlıklarının</style>6%</style>'sini</style> verir ve ayrıca <style=cIsUtility>12 saniye boyunca <style=cIsUtility>50 zırh</style> ve <style=cIsDamage>+%20 saldırı hızı</style> verir.",
+		"SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>İyileştirir</style>: yakındaki müttefikleri her saniye <style=cIsHealing>6%</style> <style=cIsHealth>maksimum sağlık</style> kadar iyileştirir ve <style=cIsUtility>12 saniye</style> boyunca <style=cIsUtility>50 zırh</style> ile <style=cIsDamage>+20% saldırı hızı</style> verir.",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "ORDER: Yerçekimi Kuyusu",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility></syle> yakındaki düşmanları <style=cIsUtility>8 saniye boyunca çekin</style>."
   }

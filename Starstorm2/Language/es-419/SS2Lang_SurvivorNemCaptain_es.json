@@ -37,7 +37,7 @@
     "SS2_NEMCAPTAIN_ORDERRECOVER_NAME": "ORDER: reinicio total",
     "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "Disminuya enormemente su cantidad actual de estrés y, al mismo tiempo, <style=cIsUtility> descarte todas las demás Órdenes </style>. El estrés eliminado aumenta por Orden perdida.",
     "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "ORDER: Campo de vigorización",
-    "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing> Cura a los aliados cercanos </style> por </style>6%</style> de su salud máxima <style=cIsHealth></style> cada segundo, y también otorga armadura <style=cIsUtility>50, </style> y <style=cIsDamage>+20% de velocidad de ataque</style> durante <style=cIsUtility>12 segundos</style.",
+    "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing> Cura a los aliados cercanos </style> por <style=cIsHealing>6%</style> de su salud máxima <style=cIsHealth></style> cada segundo, y también otorga armadura <style=cIsUtility>50, </style> y <style=cIsDamage>+20% de velocidad de ataque</style> durante <style=cIsUtility>12 segundos</style>.",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "ORDER: Pozo de gravedad",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility>Pull</syle> enemigos cercanos durante <style=cIsUtility>8 segundos</style>."
   }

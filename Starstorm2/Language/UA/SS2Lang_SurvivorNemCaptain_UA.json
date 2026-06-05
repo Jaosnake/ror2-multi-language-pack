@@ -37,7 +37,7 @@
         "SS2_NEMCAPTAIN_ORDERRECOVER_NAME": "НАКАЗ: Повне Скидання",
         "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "Значно зменшіть поточну кількість Стресу, а також <style=cIsUtility>скиньте всі інші Накази</style>. Знятий Стрес збільшується за кожен втрачений Наказ.",
         "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "НАКАЗ: Поле Підбадьорення",
-        "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Лікуйте</style> союзників поряд на </style>6%</style> від їхнього <style=cIsHealth>максимального здоров'я</style> щосекунди, а також надайте <style=cIsUtility>50 броні</style> та <style=cIsDamage>+20% швидкості атаки</style> на <style=cIsUtility>12 секунд</style.",
+        "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Лікуйте</style> союзників поряд на <style=cIsHealing>6%</style> від їхнього <style=cIsHealth>максимального здоров'я</style> щосекунди, а також надайте <style=cIsUtility>50 броні</style> та <style=cIsDamage>+20% швидкості атаки</style> на <style=cIsUtility>12 секунд</style>.",
         "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "НАКАЗ: Гравітаційна Яма",
         "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility>Притягніть</syle> ворогів поряд на <style=cIsUtility>8 секунд</style>."
     }

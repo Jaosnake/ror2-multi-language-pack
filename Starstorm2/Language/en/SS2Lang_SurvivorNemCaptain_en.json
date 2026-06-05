@@ -53,7 +53,7 @@
         "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "Massively decrease your current amount of stress, while also <style=cIsUtility>discarding all other Orders</style>. Stress removed is increased per Order lost.",
 
         "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "ORDER: Invigoration Field",
-        "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Heal</style> nearby allies for </style>6%</style> of their <style=cIsHealth>maximum health</style> every second, and also grant <style=cIsUtility>50 armor</style> and <style=cIsDamage>+20% attack speed</style> for <style=cIsUtility>12 seconds</style.",
+        "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Heal</style> nearby allies for <style=cIsHealing>6%</style> of their <style=cIsHealth>maximum health</style> every second, and also grant <style=cIsUtility>50 armor</style> and <style=cIsDamage>+20% attack speed</style> for <style=cIsUtility>12 seconds</style>.",
 
         "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "ORDER: Gravity Well",
         "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility>Pull</syle> nearby enemies for <style=cIsUtility>8 seconds</style>."
