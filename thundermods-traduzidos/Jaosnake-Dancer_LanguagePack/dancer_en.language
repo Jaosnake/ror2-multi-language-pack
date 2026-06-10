@@ -1,5 +1,5 @@
 NDP_DANCER_BODY_PASSIVE_NAME: Restrictive Tape
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Enemies with tape bleed for 50% damage per second and cannot act. <i>Backported from pt-BR. Original mod by nayDPz. Translated by: Jaosnake</i>
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Enemies with tape bleed for 50% damage per second and cannot act.
 PRIMARY_SLASH_NAME: Slash
 PRIMARY_SLASH_DESCRIPTION: Melee attack with effects based on your aim. (Hover for details)
 PRIMARY_SLASH2_NAME: Cut

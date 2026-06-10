@@ -1,18 +1,18 @@
 BASTIAN_NAME: Bastian
 BASTIAN_SUBTITLE: Robot Traducteur ReconditionnÃ©
-BASTIAN_DESCRIPTION: Un robot local, construit pour aider Ã  nÃ©gocier des accords avec des corps planÃ©taires Ã©trangers. Son but original Ã©tait de fonctionner comme intermÃ©diaire, conÃ§u pour survivre sur des planÃ¨tes avec un air et des tempÃ©ratures qu'un humain normal ne pourrait pas supporter. Il a Ã©tÃ© embarquÃ© Ã  bord de l'UES Contact Light dans le cadre d'un plan de contingence. Cependant, il a fini par Ãªtre reprogrammÃ© pour le combat, malgrÃ© le fait qu'il s'agissait d'une simple mission d'aller-retour. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
+BASTIAN_DESCRIPTION: Un robot local, construit pour aider Ã  nÃ©gocier des accords avec des corps planÃ©taires Ã©trangers. Son but original Ã©tait de fonctionner comme intermÃ©diaire, conÃ§u pour survivre sur des planÃ¨tes avec un air et des tempÃ©ratures qu'un humain normal ne pourrait pas supporter. Il a Ã©tÃ© embarquÃ© Ã  bord de l'UES Contact Light dans le cadre d'un plan de contingence. Cependant, il a fini par Ãªtre reprogrammÃ© pour le combat, malgrÃ© le fait qu'il s'agissait d'une simple mission d'aller-retour.
 BASTIAN_NAME_EPIC: Bastian le Traducteur, ModÃ¨le 4.I.N.K.
-BASTIAN_ROO_DESCRIPTION: Bastian le Traducteur, ModÃ¨le 4.I.N.K. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
+BASTIAN_ROO_DESCRIPTION: Bastian le Traducteur, ModÃ¨le 4.I.N.K.
 BASTIAN_OUTRO: ..et ainsi il partit, sa fonction enfin accomplie.
 BASTIAN_FAIL: ..et ainsi il fut dÃ©sactivÃ©, sa mÃ©moire effacÃ©e Ã  jamais.
 BASTIAN_M1: Ion Swing
-BASTIAN_M1_DESCRIPTION: <style=cIsDamage>MÃªlÃ©e</style>. <style=cIsUtility>Agile</style>. Frappez les ennemis devant pour <style=cIsDamage>250% de dÃ©gÃ¢ts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. Les dÃ©gÃ¢ts sont rÃ©duits de moitiÃ© en mode Ã‰vasif. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
+BASTIAN_M1_DESCRIPTION: <style=cIsDamage>MÃªlÃ©e</style>. <style=cIsUtility>Agile</style>. Frappez les ennemis devant pour <style=cIsDamage>250% de dÃ©gÃ¢ts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. Les dÃ©gÃ¢ts sont rÃ©duits de moitiÃ© en mode Ã‰vasif.
 BASTIAN_M2: Micro-Balle
-BASTIAN_M2_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez jusqu'Ã  5 balles d'Ã©nergie, chacune infligeant <style=cIsDamage>250% de dÃ©gÃ¢ts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. N'applique pas d'Ã©tourdissement en mode Ã‰vasif. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
+BASTIAN_M2_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez jusqu'Ã  5 balles d'Ã©nergie, chacune infligeant <style=cIsDamage>250% de dÃ©gÃ¢ts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. N'applique pas d'Ã©tourdissement en mode Ã‰vasif.
 BASTIAN_UTIL: Nano-Ressort
-BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>ExÃ©cutez</style> une dash rapide dans n'importe quelle direction. Accumule des <style=cIsUtility>Charges Ioniques</style>. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
+BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>ExÃ©cutez</style> une dash rapide dans n'importe quelle direction. Accumule des <style=cIsUtility>Charges Ioniques</style>.
 BASTIAN_SPEC: Explosion de l'Architecte
-BASTIAN_SPEC_DESCRIPTION: DÃ©pensez <style=cIsHealth>33% de vie actuelle</style> et <style=cIsUtility>toutes les Charges Ioniques</style> pour une explosion massive de <style=cIsDamage>500%-3.000% de dÃ©gÃ¢ts</style>. AprÃ¨s utilisation, devenez <color=#E9AFEA>Ã‰vasif</color> pendant 10 secondes. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
+BASTIAN_SPEC_DESCRIPTION: DÃ©pensez <style=cIsHealth>33% de vie actuelle</style> et <style=cIsUtility>toutes les Charges Ioniques</style> pour une explosion massive de <style=cIsDamage>500%-3.000% de dÃ©gÃ¢ts</style>. AprÃ¨s utilisation, devenez <color=#E9AFEA>Ã‰vasif</color> pendant 10 secondes.
 BASTIAN_SPEC_KEYWORD: SpÃ©cial
 BASTIANBODY_DEFAULT_SKIN_NAME: Par dÃ©faut
 BASTIANBODY_MASTERY_SKIN_NAME: MaÃ®trise

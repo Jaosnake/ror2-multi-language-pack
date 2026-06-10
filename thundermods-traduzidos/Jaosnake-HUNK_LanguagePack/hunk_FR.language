@@ -17,41 +17,41 @@ ROB_HUNK_BODY_JACKET_SKIN_NAME: Veste
 ROB_HUNK_BODY_TOFU_SKIN_NAME: Tofu
 ROB_HUNK_BODY_SUPER_SKIN_NAME: Super
 SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec le M19 pour <style=cIsDamage>500% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec le M19 pour <style=cIsDamage>500% de dÃ©gÃ¢ts</style>.
 SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec le Broom HC pour <style=cIsDamage>180% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec le Broom HC pour <style=cIsDamage>180% de dÃ©gÃ¢ts</style>.
 SHOOT_REVOLVER_NAME: Revolver
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un revolver pour <style=cIsDamage>1.200% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un revolver pour <style=cIsDamage>1.200% de dÃ©gÃ¢ts</style>.
 SHOOT_MAGNUM_NAME: Magnum
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un magnum pour <style=cIsDamage>1.500% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un magnum pour <style=cIsDamage>1.500% de dÃ©gÃ¢ts</style>.
 SHOOT_SHOTGUN_NAME: Fusil Ã  Pompe
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un fusil Ã  pompe pour <style=cIsDamage>14x150% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un fusil Ã  pompe pour <style=cIsDamage>14x150% de dÃ©gÃ¢ts</style>.
 SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec la SSG pour <style=cIsDamage>16x200% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec la SSG pour <style=cIsDamage>16x200% de dÃ©gÃ¢ts</style>.
 SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec le Slugger pour <style=cIsDamage>3.000% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec le Slugger pour <style=cIsDamage>3.000% de dÃ©gÃ¢ts</style>.
 SHOOT_AR_NAME: Fusil d'Assaut
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un fusil pour <style=cIsDamage>385% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un fusil pour <style=cIsDamage>385% de dÃ©gÃ¢ts</style>.
 SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un Spark Shot pour <style=cIsDamage>1.000% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec un Spark Shot pour <style=cIsDamage>1.000% de dÃ©gÃ¢ts</style>.
 SHOOT_GOLDGUN_NAME: Arme DorÃ©e
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec une arme dorÃ©e pour <style=cIsDamage>99.999% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez avec une arme dorÃ©e pour <style=cIsDamage>99.999% de dÃ©gÃ¢ts</style>.
 SHOOT_ATM_NAME: Lanceur ATM
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez un roquette pour <style=cIsDamage>8.000% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez un roquette pour <style=cIsDamage>8.000% de dÃ©gÃ¢ts</style>.
 SHOOT_GRENADELAUNCHER_NAME: Lance-grenades
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez une grenade pour <style=cIsDamage>3.200% de dÃ©gÃ¢ts</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>. Tirez une grenade pour <style=cIsDamage>3.200% de dÃ©gÃ¢ts</style>.
 PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Tirez.</style> <style=cIsDamage>Frappez</style> les combattants au corps Ã  corps pour <style=cIsDamage>200% et 250% de dÃ©gÃ¢ts</style>, infligeant <style=cIsHealth>MutilÃ©</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Tirez.</style> <style=cIsDamage>Frappez</style> les combattants au corps Ã  corps pour <style=cIsDamage>200% et 250% de dÃ©gÃ¢ts</style>, infligeant <style=cIsHealth>MutilÃ©</style>.
 SECONDARY_AIM_NAME: Viser Ferme
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Visez</style> pour amÃ©liorer la prÃ©cision de votre arme actuelle. <i>Translated by: Jaosnake. Original mod by rob</i>
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Visez</style> pour amÃ©liorer la prÃ©cision de votre arme actuelle.
 UTILITY_PARRY_NAME: Parade
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Parez</style> pour dÃ©vier les attaques. Si utilisÃ© de maniÃ¨re prÃ©ventive pour <style=cIsUtility>Ã©viter une attaque</style>, effectuez une <style=cIsDamage>Esquive Parfaite</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Parez</style> pour dÃ©vier les attaques. Si utilisÃ© de maniÃ¨re prÃ©ventive pour <style=cIsUtility>Ã©viter une attaque</style>, effectuez une <style=cIsDamage>Esquive Parfaite</style>.
 UTILITY_DODGE_NAME: Glissade
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Glissez</style> une courte distance. Si utilisÃ© de maniÃ¨re prÃ©ventive pour <style=cIsUtility>Ã©viter une attaque</style>, effectuez une <style=cIsDamage>Esquive Parfaite</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Glissez</style> une courte distance. Si utilisÃ© de maniÃ¨re prÃ©ventive pour <style=cIsUtility>Ã©viter une attaque</style>, effectuez une <style=cIsDamage>Esquive Parfaite</style>.
 UTILITY_BASH_NAME: DÃ©flexion
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>DÃ©flectez</style> les ennemis proches, <style=cIsUtility>les Ã©tourdissant</style> pour <style=cIsDamage>400% de dÃ©gÃ¢ts</style>. Si utilisÃ© de maniÃ¨re prÃ©ventive pour <style=cIsUtility>annuler une attaque</style>, effectuez une <style=cIsDamage>DÃ©flexion Parfaite</style>. <i>Translated by: Jaosnake. Original mod by rob</i>
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>DÃ©flectez</style> les ennemis proches, <style=cIsUtility>les Ã©tourdissant</style> pour <style=cIsDamage>400% de dÃ©gÃ¢ts</style>. Si utilisÃ© de maniÃ¨re prÃ©ventive pour <style=cIsUtility>annuler une attaque</style>, effectuez une <style=cIsDamage>DÃ©flexion Parfaite</style>.
 SPECIAL_SWAP_NAME: LÃ©gion
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Ã‰changez</style> votre arme actuelle. <i>Translated by: Jaosnake. Original mod by rob</i>
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Ã‰changez</style> votre arme actuelle.
 ROB_HUNK_KEYWORD_MANGLED: MutilÃ©
 ROB_HUNK_KEYWORD_COUNTERATTACK: Contre-attaque
 ROB_HUNK_KEYWORD_PERFECTDODGE: Esquive Parfaite
@@ -95,7 +95,7 @@ ROB_NEMESIS_BODY_NAME: Nemesis
 ROB_NEMESIS_BODY_SUBTITLE: Le Poursuiveur
 ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Par dÃ©faut
 ROB_NEMESIS_BODY_PASSIVE_NAME: Poursuite Implacable
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Infligez <style=cIsDamage>{0}% de dÃ©gÃ¢ts bonus</style> aux ennemis marquÃ©s. <i>Translated by: Jaosnake. Original mod by rob</i>
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Infligez <style=cIsDamage>{0}% de dÃ©gÃ¢ts bonus</style> aux ennemis marquÃ©s.
 ROB_NEMESIS_BODY_GRAB_NAME: Attraper
 ROB_ARTIFACT_STRIKETEAM_NAME: Artefact de l'Escouade
 ROB_ARTIFACT_PURSUER_NAME: Artefact du Poursuiveur

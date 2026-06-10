@@ -6,16 +6,16 @@
   "ROB_HENRY_OUTRO_FAILURE": "..e così svanì, per sempre una tabula rasa.",
   "ROB_HENRY_MASTERY_SKIN_NAME": "Alternativo",
   "ROB_HENRY_PASSIVE_NAME": "Passiva di Henry",
-  "ROB_HENRY_PASSIVE_DESCRIPTION": "Testo di esempio.\n\nMod originale: rob (mantenuto da TheTimesweeper). Tradotto da: Jaosnake",
+  "ROB_HENRY_PASSIVE_DESCRIPTION": "Testo di esempio.",
   "ROB_HENRY_PRIMARY_SLASH_NAME": "Spada",
-  "ROB_HENRY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Agile.</style> Colpisci in avanti per <style=cIsDamage>280% di danno</style>.\n\nMod originale: rob (mantenuto da TheTimesweeper). Tradotto da: Jaosnake",
+  "ROB_HENRY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Agile.</style> Colpisci in avanti per <style=cIsDamage>280% di danno</style>.",
   "ROB_HENRY_SECONDARY_GUN_NAME": "Pistola",
-  "ROB_HENRY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Agile.</style> Spara con una pistola per <style=cIsDamage>420% di danno</style>.\n\nMod originale: rob (mantenuto da TheTimesweeper). Tradotto da: Jaosnake",
+  "ROB_HENRY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Agile.</style> Spara con una pistola per <style=cIsDamage>420% di danno</style>.",
   "ROB_HENRY_UTILITY_ROLL_NAME": "Rotolata",
-  "ROB_HENRY_UTILITY_ROLL_DESCRIPTION": "Rotola per una breve distanza, ottenendo <style=cIsUtility>300 armatura</style>. <style=cIsUtility>Non puoi essere colpito durante la rotolata.</style>\n\nMod originale: rob (mantenuto da TheTimesweeper). Tradotto da: Jaosnake",
+  "ROB_HENRY_UTILITY_ROLL_DESCRIPTION": "Rotola per una breve distanza, ottenendo <style=cIsUtility>300 armatura</style>. <style=cIsUtility>Non puoi essere colpito durante la rotolata.</style>",
   "ROB_HENRY_SPECIAL_BOMB_NAME": "Bomba",
-  "ROB_HENRY_SPECIAL_BOMB_DESCRIPTION": "Lancia una bomba per <style=cIsDamage>1600% di danno</style>.\n\nMod originale: rob (mantenuto da TheTimesweeper). Tradotto da: Jaosnake",
+  "ROB_HENRY_SPECIAL_BOMB_DESCRIPTION": "Lancia una bomba per <style=cIsDamage>1600% di danno</style>.",
   "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Maestria",
   "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Come Henry, completa il gioco o obliterati a Monsone.",
-  "ROB_HENRY_DESCRIPTION": "Henry è un abile combattente che usa un vasto arsenale di armi per abbattere i suoi nemici.<color=#CCD3E0>\n\n< ! > La Spada è un buon tuttofare mentre i Guantoni da Boxe sono migliori per massacrare i nemici più potenti.\n\n< ! > La Pistola è una potente arma anti-aerea, con il suo basso tempo di recupero e l'alto danno.\n\n< ! > La Rotolata ha un buff di armatura persistente che aiuta a usarla in modo aggressivo.\n\n< ! > La Bomba può essere usata per spazzare via le masse con facilità.</color>\n\nMod originale: rob (mantenuto da TheTimesweeper). Tradotto da: Jaosnake"
+  "ROB_HENRY_DESCRIPTION": "Henry è un abile combattente che usa un vasto arsenale di armi per abbattere i suoi nemici.<color=#CCD3E0>"
 }}
