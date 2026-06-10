@@ -1,11 +1,11 @@
-{
-    "author": "Jaosnake",
-    "name": "Paladin_LanguagePack",
-    "description": "Multi-language translation pack for Paladin by Paladin_Alliance.",
-    "dependencies": [
-        "Paladin_Alliance-PaladinMod-2.1.0",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+﻿{
+    "author":  "Jaosnake",
+    "name":  "Paladin_LanguagePack",
+    "description":  "Multi-language translation pack for Paladin by Paladin_Alliance. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "dependencies":  [
+                         "Paladin_Alliance-PaladinMod-2.1.0",
+                         "RiskofThunder-R2API_Language-1.1.0"
+                     ],
+    "version_number":  "1.0.0",
+    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

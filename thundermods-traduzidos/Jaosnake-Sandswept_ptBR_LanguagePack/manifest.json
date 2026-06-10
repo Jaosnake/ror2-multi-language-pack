@@ -1,11 +1,11 @@
-{
-    "name": "Sandswept_ptBR_LanguagePack",
-    "author": "Jaosnake",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description": "Tradução do pacote do mod Sandswept feito por SandsweptTeam. Realizado conversão direta da versão EN pois não havia suporte a língua pt-br, então traduzi 100% à mão todo conteúdo. Precisa do RiskofThunder-R2API_Language pra poder rodar.",
-    "dependencies": [
-        "SandsweptTeam-Sandswept-1.4.4",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ]
+﻿{
+    "name":  "Sandswept_ptBR_LanguagePack",
+    "author":  "Jaosnake",
+    "version_number":  "1.0.0",
+    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack",
+    "description":  "Traducao pt-BR 100% manual do mod Sandswept (SandsweptTeam). Requer R2API_Language. Problemas: https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "dependencies":  [
+                         "SandsweptTeam-Sandswept-1.4.4",
+                         "RiskofThunder-R2API_Language-1.1.0"
+                     ]
 }
