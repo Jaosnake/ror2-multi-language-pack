@@ -416,14 +416,18 @@ rob-Belmont
 rob-Dante
 rob-HEL_P
 rob-HUNK
+SaucySquash-Spearman
 TeamCloudburst-Cloudburst
 TeamSillyGuy-Bastian
 The_Bozos-RobomandoMod
+TheTimesweeper-HenryMod
 TheTimesweeper-Red_Alert
 toastyTeam-Rifter
 tsuyoikenko-Banshee
 tsuyoikenko-Cadet
 tsuyoikenko-Interrogator
+tsuyoikenko-Seamstress
+tsuyoikenko-Wanderer
 ```
 
 ## 🛠️ For GitHub Users
@@ -499,7 +503,7 @@ Translations and packaging: **Jaosnake**
 
 PT-BR note: for **Starstorm 2** and **Sandswept**, Jaosnake reviewed every line and manually edited the PT-BR translation. Original credits are kept where applicable.
 
-Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Frosthex, HasteReapr, JavAngle, nayDPz, Paladin_Alliance, PopcornFactory, public_ParticleSystem, Risky_Lives, rob, TeamCloudburst, TeamSillyGuy, The_Bozos, TheTimesweeper, toastyTeam, and tsuyoikenko.
+Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Frosthex, HasteReapr, JavAngle, nayDPz, Paladin_Alliance, PopcornFactory, public_ParticleSystem, Risky_Lives, rob, SaucySquash, TeamCloudburst, TeamSillyGuy, The_Bozos, TheTimesweeper, toastyTeam, and tsuyoikenko.
 
 Community translation credits preserved from the original files include Kauzok, Donitodorito, StyleMyk, Meteorite1014, Lecarde/lecarde, punch, Bagre, WockyTheWolf/JunJun_w, FyreBW/Fyrebw, Damglador, CaffeinePain, Juhnter, Lonerdev, JunJun_W, Hexxedude, tymmey, Dice, Nikto0o, Rody/FallenTroop,锅巴, and PlNK.
 
