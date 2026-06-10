@@ -26,4 +26,4 @@ Translations by Jaosnake.
 
 
 ## Problemas / Feedback
-Para problemas ou sugestoes de traducao, abra um ticket em https://github.com/Jaosnake/ror2-multi-language-pack/issues
+Para problemas ou sugestões de tradução, abra um ticket em https://github.com/Jaosnake/ror2-multi-language-pack/issues
