@@ -1,11 +1,11 @@
-{
-    "author": "Jaosnake",
-    "name": "Deputy_LanguagePack",
-    "description": "Multi-language translation pack for Deputy by Bog.",
-    "dependencies": [
-        "Bog-Deputy-0.3.5",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+﻿{
+    "author":  "Jaosnake",
+    "name":  "Deputy_LanguagePack",
+    "description":  "Multi-language translation pack for Deputy by Bog. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "dependencies":  [
+                         "Bog-Deputy-0.3.5",
+                         "RiskofThunder-R2API_Language-1.1.0"
+                     ],
+    "version_number":  "1.0.0",
+    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

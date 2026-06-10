@@ -1,11 +1,11 @@
-{
-    "author": "Jaosnake",
-    "name": "Belmont_LanguagePack",
-    "description": "Multi-language translation pack for Belmont by rob.",
-    "dependencies": [
-        "rob-Belmont-1.0.8",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+﻿{
+    "author":  "Jaosnake",
+    "name":  "Belmont_LanguagePack",
+    "description":  "Multi-language translation pack for Belmont by rob. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "dependencies":  [
+                         "rob-Belmont-1.0.8",
+                         "RiskofThunder-R2API_Language-1.1.0"
+                     ],
+    "version_number":  "1.0.0",
+    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

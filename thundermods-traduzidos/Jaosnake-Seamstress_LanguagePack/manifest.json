@@ -1,11 +1,11 @@
-{
-    "author": "Jaosnake",
-    "name": "Seamstress_LanguagePack",
-    "description": "Multi-language translation pack for Seamstress by tsuyoikenko.",
-    "dependencies": [
-        "tsuyoikenko-Seamstress-1.6.10",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+﻿{
+    "author":  "Jaosnake",
+    "name":  "Seamstress_LanguagePack",
+    "description":  "Multi-language translation pack for Seamstress by tsuyoikenko. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "dependencies":  [
+                         "tsuyoikenko-Seamstress-1.6.10",
+                         "RiskofThunder-R2API_Language-1.1.0"
+                     ],
+    "version_number":  "1.0.0",
+    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }
