@@ -1,4 +1,4 @@
-﻿{
+{
     "author":  "Jaosnake",
     "name":  "Rocket_LanguagePack",
     "description":  "Multi-language translation pack for Rocket by EnforcerGang.",
@@ -6,6 +6,6 @@
                          "EnforcerGang-Rocket-1.1.3",
                          "RiskofThunder-R2API_Language-1.1.0"
                      ],
-    "version_number":  "1.0.0",
+    "version_number": "1.0.1",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

@@ -1,7 +1,7 @@
-﻿{
+{
     "name":  "Starstorm2_ptBR_LanguagePack",
     "author":  "Jaosnake",
-    "version_number":  "1.0.0",
+    "version_number": "1.0.1",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack",
     "description":  "Tradução pt-BR do Starstorm 2 (TeamMoonstorm). Tradução inicial: Kauzok e Balorfist. Revisado linha a linha. Requer R2API_Language.",
     "dependencies":  [

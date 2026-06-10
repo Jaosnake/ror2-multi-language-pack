@@ -1,4 +1,4 @@
-﻿{
+{
     "author":  "Jaosnake",
     "name":  "Cadet_LanguagePack",
     "description":  "Multi-language translation pack for Cadet by tsuyoikenko.",
@@ -6,6 +6,6 @@
                          "tsuyoikenko-Cadet-1.1.10",
                          "RiskofThunder-R2API_Language-1.1.0"
                      ],
-    "version_number":  "1.0.0",
+    "version_number": "1.0.1",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

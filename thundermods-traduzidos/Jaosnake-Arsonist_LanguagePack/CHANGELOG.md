@@ -1,5 +1,2 @@
-## v1.0.1
-- Updated package icon
-
-## v1.0.0
-- Initial release
+## 1.0.1
+- Fixed credits that were polluting the interface due to an error during file upload.
