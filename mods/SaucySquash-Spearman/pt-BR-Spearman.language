@@ -1,0 +1,32 @@
+{
+    "pt-BR": {
+        "SPEARMAN_NAME": "Lanceiro",
+        "SPEARMAN_DESCRIPTION": "O Lanceiro é um guerreiro equilibrado que usa sua lança para causar dano devastador de perto e de longe. Empunhando apenas sua lança de confiança, ele busca poder absoluto.",
+        "SPEARMAN_SUBTITLE": "Deus de Petrichor",
+        "SPEARMAN_LORE": "\"Sou um assassino. Não sou um 'Protetor'. Nem um 'Baluarte'. Passei minha vida inteira treinando para lutar desde que ficamos presos aqui, e amei cada segundo disso. Sou um sobrevivente. Um guerreiro. Não sei nada dessa vida que você teve, nem me importo. O que eu sei é que ela está prestes a acabar.\"\n\n\"Seu.. monstro...\"\n\n\"Nada que eu já não tenha sido chamado antes.\"\n\nEle deu as costas à figura divina.\n\n\"Posso ser um monstro, mas você não passa de um falso deus. Nada mais que outro entalhe no cabo da minha lança. Um troféu do qual pretendo sorrir ao me lembrar de matar.\"\n\n\"Como...?\"\n\nEm silêncio, o guerreiro se virou novamente para o deus e entrou em sua postura final. Sua lança crepitou em vida, energia faiscando de sua ponta.\n\n\"Desapareça.\"\n\nEle desfere o golpe final, sacudindo o casco desgastado da velha nave.\n\nEstá quieto.\n\nA nave ganha vida. Ele pode ver um velho aliado na ponte, atrapalhando-se com os controles.\n\n\"Não...\" ele rosnou. \"Ainda não..\"\n\nEle salta da nave, e observa enquanto ela parte.\n\n\"Agora eu sou deus. Vamos ver quanto tempo este planeta dura.\"\n\nenquanto seus olhos vagueiam em direção aos vermes mortos.",
+        "SPEARMAN_OUTRO": "..e assim ele partiu, deus de um planeta agonizante.",
+        "SPEARMAN_FAIL": "..e assim ele desapareceu, sua lança silenciada para sempre.",
+        "SPEARMANBODY_DEFAULT_SKIN_NAME": "Padrão",
+        "SPEARMANBODY_MASTERY_SKIN_NAME": "Maestria",
+        "SPEARMAN_PASSIVE_NAME": "Cicatrizes de Batalha",
+        "SPEARMAN_PASSIVE_DESCRIPTION": "Atingir inimigos com habilidades <style=cIsDamage>inflige</style> o debuff de Cicatrizes de Batalha, que reduz a velocidade e concede um buff de <style=cIsDamage>5% de dano</style> por acúmulo ao Lanceiro. Ele também tem instintos de guerreiro, recebendo menos dano quando os inimigos estão muito próximos.",
+        "SPEARMAN_M1": "Postura de Batalha",
+        "SPEARMAN_M1_DESCRIPTION": "Ataque à distância contra inimigos fora de alcance e corpo a corpo contra inimigos próximos. À distância: Arremessa a lança para <style=cIsDamage>175% de dano</style>. Corpo a corpo: Estoca a lança para frente causando <style=cIsDamage>300% de dano</style>.",
+        "SPEARMAN_M2": "Lança do Guerreiro",
+        "SPEARMAN_M2_DESCRIPTION": "Carrega uma lança <style=cIsDamage>perfurante</style> fortalecida, aumentando dano e distância, causando <style=cIsDamage>300-1.000% de dano</style> e aplicando um debuff cíclico (<style=cIsUtility>Congelar</style>, <style=cIsHealth>Fogo</style>, <style=cShrine>Elétrico</style>, <style=cDeath>Sangramento</style> ou <style=cIsHealing>Veneno</style>).",
+        "SPEARMAN_UTIL": "Chute de Impulso",
+        "SPEARMAN_UTIL_DESCRIPTION": "Desliza pelo chão, <style=cIsUtility>lançando</style> inimigos ao ar. Se um inimigo for atingido, reative para chutar para cima no ar causando <style=cIsDamage>200% de dano</style>.",
+        "SPEARMAN_SPEC": "Aniquilação",
+        "SPEARMAN_SPEC_DESCRIPTION": "Salte alto no ar e selecione um terreno alvo abaixo para golpear causando <style=cIsDamage>1.000% de dano</style>, liberando uma onda de choque de energia no impacto.",
+        "SPEARMAN_ALTM2": "Força Divina",
+        "SPEARMAN_ALTM2_DESCRIPTION": "Carrega uma lança mortal, aumentando dano e distância, causando <style=cIsDamage>400-1.500% de dano</style> e <style=cDeath>executando</style> inimigos com pouca vida.",
+        "SPEARMAN_INTERACTABLE_NAME": "Lança do Lanceiro",
+        "SPEARMAN_INTERACTABLE_CONTEXT": "Erradicar",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "Um Planeta de Agonia",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Recupere a arma cravada no crânio.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Lanceiro: Maestria",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Como Lanceiro, vença o jogo ou oblitere na Monção.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Lanceiro: Conhecer a Força",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Como Lanceiro, mate 10 inimigos em um único uso da Lança do Guerreiro."
+    }
+}

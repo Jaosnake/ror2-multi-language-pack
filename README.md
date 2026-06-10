@@ -471,6 +471,7 @@ R2API.Language automatically loads `.language` files anywhere under `BepInEx/plu
 ror2-multi-language-pack/
 ├─ README.md
 ├─ LICENSE.txt
+├─ .gitignore
 ├─ Starstorm2/
 │  ├─ manifest.json
 │  ├─ README.md
@@ -481,8 +482,19 @@ ror2-multi-language-pack/
 │  ├─ README.md
 │  ├─ icon.png
 │  └─ Translations/
-└─ mods/
-   └─ <one folder per translated mod>
+├─ mods/
+│  └─ <one folder per translated mod, copy into BepInEx/plugins>
+├─ thundermods-traduzidos/
+│  └─ Jaosnake-<Mod>_LanguagePack/
+│     ├─ manifest.json
+│     ├─ README.md
+│     ├─ icon.png
+│     └─ *.language
+├─ uploaded/
+│  └─ *.zip (Thunderstore-ready packages)
+├─ audit.py
+├─ generate_readme.py
+└─ list_locales.py
 ```
 
 ## 🤝 Contributing
@@ -495,7 +507,7 @@ Rules for translation changes:
 - Keep style tags like `<style=...>`, `<color=...>`, `{0}`, `{1}`, and `\n`.
 - Keep achievements/unlocks in English.
 - Use the same language folder/key style already used by that mod.
-- Do not remove the original mod credits.
+- Preserve original mod author names and credits in manifest descriptions and package READMEs.
 
 ## 🙏 Credits
 

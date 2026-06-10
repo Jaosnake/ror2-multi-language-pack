@@ -1,7 +1,6 @@
 {
     "ru": {
         "JAVANGLE_HOUSE_BODY_NAME": "Хаус",
-        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Хаус — безумный игрок, который полагается на свою удачу, чтобы преодолевать трудные ситуации, используя два таинственных артефакта судьбы: 6-зарядный револьвер под названием <style=cIsUtility>\"Рулетка\"</style> и, по-видимому, проклятую колоду карт. <i>Translated by: Jaosnake. Original mod by JavAngle</i>",
         "JAVANGLE_HOUSE_BODY_SUBTITLE": "Безумный Игрок",
         "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Обычный",
         "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Мастерство",
