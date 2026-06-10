@@ -27,4 +27,8 @@
   "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "창병으로 몬순에서 게임을 클리어하거나 말살하십시오.",
   "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "창병: 힘을 알기 위하여",
   "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "창병으로 전사의 창 한 번 시전으로 적 10마리를 처치하십시오."
-}}
+}
+        "SPEARMAN_ALTM1": "Warrior Stance",
+        "SPEARMAN_ALTM1_DESCRIPTION": "Thrust the spear forward dealing <style=cIsDamage>400% damage</style> and throwing out a wind blade for <style=cIsDamage>200% damage</style>."
+    }
+}

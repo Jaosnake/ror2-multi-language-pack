@@ -29,4 +29,8 @@
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "スピアマン: 力の探求",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "スピアマンで、戦士の槍の1回の使用で敵を10体倒す。"
     }
+
+        "SPEARMAN_ALTM1": "Warrior Stance",
+        "SPEARMAN_ALTM1_DESCRIPTION": "Thrust the spear forward dealing <style=cIsDamage>400% damage</style> and throwing out a wind blade for <style=cIsDamage>200% damage</style>."
+    }
 }

@@ -29,4 +29,8 @@
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Lanceiro: Conhecer a Força",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Como Lanceiro, mate 10 inimigos em um único uso da Lança do Guerreiro."
     }
+
+        "SPEARMAN_ALTM1": "Warrior Stance",
+        "SPEARMAN_ALTM1_DESCRIPTION": "Thrust the spear forward dealing <style=cIsDamage>400% damage</style> and throwing out a wind blade for <style=cIsDamage>200% damage</style>."
+    }
 }

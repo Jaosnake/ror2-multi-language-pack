@@ -27,4 +27,8 @@
   "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: Conoscere la Forza",
   "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Come Spearman, uccidi 10 nemici con un singolo lancio di Lancia del Guerriero.",
   "SPEARMAN_DESCRIPTION": "Lo Spearman è un guerriero equilibrato che usa la sua lancia per infliggere danni devastanti da vicino e da lontano. Armato solo della sua fidata lancia, cerca il potere assoluto."
-}}
+}
+        "SPEARMAN_ALTM1": "Warrior Stance",
+        "SPEARMAN_ALTM1_DESCRIPTION": "Thrust the spear forward dealing <style=cIsDamage>400% damage</style> and throwing out a wind blade for <style=cIsDamage>200% damage</style>."
+    }
+}
