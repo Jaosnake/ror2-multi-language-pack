@@ -1,0 +1,32 @@
+{
+    "es-419": {
+        "SPEARMAN_NAME": "Lancero",
+        "SPEARMAN_DESCRIPTION": "El Lancero es un guerrero equilibrado que usa su lanza para causar daño devastador de cerca y de lejos. Empuñando solo su lanza de confianza, busca el poder absoluto.",
+        "SPEARMAN_SUBTITLE": "Dios de Petrichor",
+        "SPEARMAN_LORE": "\"Soy un asesino. No soy un 'Protector'. Ni un 'Baluarte'. Pasé toda mi vida entrenando para luchar desde que quedamos varados aquí, y he amado cada segundo. Soy un sobreviviente. Un guerrero. No sé nada de esta vida que has tenido, ni me importa. Lo que sí sé es que está a punto de terminar.\"\n\n\"Eres.. un monstruo...\"\n\n\"Nada que no me hayan llamado antes.\"\n\nLe dio la espalda a la figura divina.\n\n\"Puedo ser un monstruo, pero tú no eres más que un falso dios. Nada más que otra muesca en el asta de mi lanza. Un trofeo del que pretendo sonreír al recordar haber matado.\"\n\n\"Cómo...?\"\n\nEn silencio, el guerrero se giró de nuevo hacia el dios y entró en su postura final. Su lanza crepitó de vida, energía chispeando de su punta.\n\n\"Desaparece.\"\n\nAsesta el golpe final, sacudiendo el casco desgastado de la vieja nave.\n\nEstá en silencio.\n\nLa nave cobra vida. Puede ver a un viejo aliado en el puente, forcejeando con los controles.\n\n\"No...\" gruñó. \"Aún no..\"\n\nSalta de la nave, y observa mientras se va.\n\n\"Ahora yo soy dios. Veamos cuánto dura este planeta.\"\n\nmientras sus ojos vagan hacia los gusanos muertos.",
+        "SPEARMAN_OUTRO": "..y así se fue, dios de un planeta agonizante.",
+        "SPEARMAN_FAIL": "..y así desapareció, su lanza silenciada para siempre.",
+        "SPEARMANBODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "SPEARMANBODY_MASTERY_SKIN_NAME": "Maestría",
+        "SPEARMAN_PASSIVE_NAME": "Cicatrices de Batalla",
+        "SPEARMAN_PASSIVE_DESCRIPTION": "Golpear enemigos con habilidades <style=cIsDamage>inflige</style> el debuff de Cicatrices de Batalla, que ralentiza y otorga un buff de <style=cIsDamage>5% de daño</style> por acumulación al Lancero. También tiene instintos de guerrero, recibiendo menos daño cuando los enemigos están demasiado cerca.",
+        "SPEARMAN_M1": "Postura de Batalla",
+        "SPEARMAN_M1_DESCRIPTION": "Ataque a distancia contra enemigos fuera de alcance y cuerpo a cuerpo contra enemigos cercanos. A distancia: Lanza la lanza para <style=cIsDamage>175% de daño</style>. Cuerpo a cuerpo: Estoca la lanza hacia adelante causando <style=cIsDamage>300% de daño</style>.",
+        "SPEARMAN_M2": "Lanza del Guerrero",
+        "SPEARMAN_M2_DESCRIPTION": "Carga una lanza <style=cIsDamage>perforante</style> fortalecida, aumentando daño y distancia, causando <style=cIsDamage>300-1.000% de daño</style> y aplicando un debuff cíclico (<style=cIsUtility>Congelar</style>, <style=cIsHealth>Fuego</style>, <style=cShrine>Eléctrico</style>, <style=cDeath>Sangrado</style> o <style=cIsHealing>Veneno</style>).",
+        "SPEARMAN_UTIL": "Patada de Impulso",
+        "SPEARMAN_UTIL_DESCRIPTION": "Deslízate por el suelo, <style=cIsUtility>lanzando</style> enemigos al aire. Si un enemigo es golpeado, reactiva para patear hacia arriba en el aire causando <style=cIsDamage>200% de daño</style>.",
+        "SPEARMAN_SPEC": "Aniquilación",
+        "SPEARMAN_SPEC_DESCRIPTION": "Salta alto en el aire y selecciona un terreno objetivo abajo para golpear causando <style=cIsDamage>1.000% de daño</style>, liberando una onda de choque de energía al impactar.",
+        "SPEARMAN_ALTM2": "Fuerza Divina",
+        "SPEARMAN_ALTM2_DESCRIPTION": "Carga una lanza mortal, aumentando daño y distancia, causando <style=cIsDamage>400-1.500% de daño</style> y <style=cDeath>ejecutando</style> enemigos con poca vida.",
+        "SPEARMAN_INTERACTABLE_NAME": "Lanza del Lancero",
+        "SPEARMAN_INTERACTABLE_CONTEXT": "Erradicar",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "Un Planeta de Agonía",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Recupera el arma incrustada en el cráneo.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Lancero: Maestría",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Como Lancero, vence el juego u oblitera en Monzón.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Lancero: Conocer la Fuerza",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Como Lancero, mata 10 enemigos en un solo uso de Lanza del Guerrero."
+    }
+}

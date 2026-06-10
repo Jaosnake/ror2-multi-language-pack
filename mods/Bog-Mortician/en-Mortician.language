@@ -1,7 +1,6 @@
 {
     "en": {
         "BOG_MORRIS_BODY_NAME": "Mortician",
-        "BOG_MORRIS_BODY_DESCRIPTION": "The Mortician is a slow but sturdy melee necromancer who excels at controlling territory with his army of the undead. <i>Backported from pt-BR. Original mod by Bog. Translated by: Jaosnake</i>",
         "BOG_MORRIS_BODY_SUBTITLE": "Undead",
         "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..and so he left, his grim duty still unfulfilled.",
         "BOG_MORRIS_BODY_OUTRO_FAILURE": "..and so he vanished, finally granted the peace he so desired.",
