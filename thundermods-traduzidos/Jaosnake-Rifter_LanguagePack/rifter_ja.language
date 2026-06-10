@@ -1,0 +1,25 @@
+BLAKE_RIFTER_NAME: ãƒªãƒ•ã‚¿ãƒ¼
+BLAKE_RIFTER_SUBTITLE: ãƒªãƒ•ãƒˆæ“è€…
+PRIMARY_GAUNTLET_RANGED: æŠ•å°„ãƒªãƒ•ãƒˆ
+PRIMARY_GAUNTLET_RANGED_DESCRIPTION: é•·è·é›¢ãƒªãƒ•ãƒˆã‚’ç™ºå°„ã—ã€500%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
+SECONDARY_FRACTURE: ç ´ç •
+SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>ç ´ç •</style>ã€‚é•·è·é›¢ãƒªãƒ•ãƒˆã‚’ç™ºå°„ã—ã€75%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€æœ€å¤§5å›žã®ç ´ç‰‡ã‚’ç™ºç”Ÿã•ã›ã‚‹ã€‚
+SECONDARY_FAULT_LINE: æ–­å±¤ç·š
+SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>ç ´ç •</style>ã€‚æ–­å±¤ç·šã‚’ä½œæˆã—ã€ãã‚ŒãŒç ´å£Šã•ã‚Œã¦700%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
+UTILITY_SLIPSTREAM: æ¬¡å…ƒã‚¹ãƒªãƒƒãƒ—ã‚¹ãƒˆãƒªãƒ¼ãƒ 
+UTILITY_SLIPSTREAM_DESCRIPTION: çŸ­è·é›¢ãƒ†ãƒ¬ãƒãƒ¼ãƒˆã€‚ã‚»ã‚«ãƒ³ãƒ€ãƒªãƒ¼ã‚¹ã‚­ãƒ«ã®ã‚¹ãƒˆãƒƒã‚¯ã‚’å›žå¾©ã™ã‚‹ã€‚
+UTILITY_CHAINED_WORLDS: ç¹‹ãŒã‚ŒãŸä¸–ç•Œ
+UTILITY_CHAINED_WORLDS_DESCRIPTION: ç©ºé–“å†…ã®2ç‚¹ã‚’æŽ¥ç¶šã—ã€æŠ•å°„ç‰©ã‚’è»¢é€ã™ã‚‹ãƒãƒ¼ã‚¿ãƒ«ã‚’ä½œæˆã™ã‚‹ã€‚
+UTILITY_QUANTUM_RIFT: é‡å­ãƒªãƒ•ãƒˆ
+UTILITY_QUANTUM_RIFT_DESCRIPTION: å‘¨å›²ã®ç©ºé–“ã‚’æ­ªã‚ã‚‹é‡å­ãƒªãƒ•ãƒˆã‚’é–‹ãã€‚
+SPECIAL_TIMELOCK: ã‚¿ã‚¤ãƒ ãƒ­ãƒƒã‚¯
+SPECIAL_TIMELOCK_DESCRIPTION: ã‚¨ãƒªã‚¢å†…ã®æ•µã®æ™‚é–“ã‚’ãƒ­ãƒƒã‚¯ã—ã€æ•°ç§’é–“å‡çµã™ã‚‹ã€‚
+SPECIAL_RECURSION: å†å¸°
+SPECIAL_RECURSION_DESCRIPTION: ãƒªãƒ•ãƒˆã‚’è¤‡è£½ã—ã€çŸ­æ™‚é–“å¾Œã«å†ã³åéŸ¿ã•ã›ã‚‹ã€‚
+PASSIVE_RIFT_BOOST: ãƒªãƒ•ãƒˆãƒ–ãƒ¼ã‚¹ãƒˆ
+PASSIVE_RIFT_BOOST_DESCRIPTION: ãƒªãƒ•ãƒˆã‚’é€šéŽã™ã‚‹ã¨ç§»å‹•é€Ÿåº¦ãŒä¸Šæ˜‡ã™ã‚‹ã€‚
+PASSIVE_RIFT_FRACTURE: ãƒªãƒ•ãƒˆç ´ç •
+PASSIVE_RIFT_FRACTURE_DESCRIPTION: ãƒªãƒ•ãƒˆã«å½“ãŸã£ãŸæ•µã¯ç ´ç‰‡ã‚’è“„ç©ã—ã€è¢«ãƒ€ãƒ¡ãƒ¼ã‚¸ãŒå¢—åŠ ã™ã‚‹ã€‚
+MASTERY_SKIN_NAME: ãƒªãƒ•ã‚¿ãƒ¼ï¼šãƒžã‚¹ã‚¿ãƒªãƒ¼
+BLAKE_NEM_RIFTER_NAME: ãƒãƒ¡ã‚·ã‚¹ãƒªãƒ•ã‚¿ãƒ¼
+BLAKE_NEM_RIFTER_SUBTITLE: è…æ•—ã—ãŸãƒªãƒ•ãƒˆ

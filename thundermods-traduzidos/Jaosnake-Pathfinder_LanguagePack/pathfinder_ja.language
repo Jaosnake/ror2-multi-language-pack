@@ -1,0 +1,47 @@
+BOG_PATHFINDER_BODY_NAME: ãƒ‘ã‚¹ãƒ•ã‚¡ã‚¤ãƒ³ãƒ€ãƒ¼
+BOG_PATHFINDER_BODY_SUBTITLE: æƒ‘æ˜Ÿé–“ãƒãƒ³ã‚¿ãƒ¼
+BOG_PATHFINDER_BODY_DESCRIPTION: ãƒ‘ã‚¹ãƒ•ã‚¡ã‚¤ãƒ³ãƒ€ãƒ¼ã¯ç‹¡çŒ¾ã§å›žé¿åŠ›ã«å„ªã‚ŒãŸéŠæ’ƒæˆ¦å£«ã§ã‚ã‚Šã€ãƒ­ãƒœãƒƒãƒˆãƒãƒ¤ãƒ–ã‚µã®ã‚¹ã‚³ãƒ¼ãƒ«ã¨å…±ã«æˆ¦ã†ã€‚ <i>Translated by: Jaosnake. Original mod by Bog</i>
+
+BOG_PATHFINDER_BODY_PASSIVE_NAME: é·¹åŒ 
+BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: ãƒ­ãƒœãƒƒãƒˆãƒãƒ¤ãƒ–ã‚µã®ã‚¹ã‚³ãƒ¼ãƒ«ãŒåŒè¡Œã™ã‚‹ã€‚ã‚¹ã‚³ãƒ¼ãƒ«ã¯<style=cIsDamage>ã»ã¨ã‚“ã©ã®</style>ã‚¢ã‚¤ãƒ†ãƒ ã‚’ç¶™æ‰¿ã—ã€ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’å—ã‘ãªã„ãŒã€<style=cIsUtility>ãƒãƒƒãƒ†ãƒªãƒ¼</style>ã§å‹•ä½œã™ã‚‹ã€‚
+
+BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
+BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: ãƒ˜ãƒƒãƒ‰ãƒãƒ³ã‚¿ãƒ¼
+BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..ãã—ã¦å½¼ã‚‰ã¯åŽ»ã£ã¦ã„ã£ãŸã€é£Ÿç‰©é€£éŽ–ã®æ–°ãŸãªçŽ‹è€…ã¨ã—ã¦ã€‚
+BOG_PATHFINDER_BODY_OUTRO_FAILURE: ..ãã—ã¦å½¼ã‚‰ã¯æ¶ˆãˆåŽ»ã£ãŸã€ç„¡é–¢å¿ƒãªè’é‡Žã«æ°¸é ã« lost ã—ã¦ã€‚
+BOG_SQUALL_BODY_NAME: ã‚¹ã‚³ãƒ¼ãƒ«
+BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
+BOG_SQUALL_BODY_MASTERY_SKIN_NAME: ãƒžã‚¹ã‚¿ãƒªãƒ¼
+PRIMARY_THRUST_NAME: çªã
+PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>è²«é€š</style>ã€‚æ§ã‚’å‰æ–¹ã«çªãå‡ºã—ã€<style=cIsDamage>250%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
+
+SECONDARY_DASH_NAME: è»½è¶³
+SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>ã‚¹ãƒ©ã‚¤ãƒ‰</style>ã§çŸ­è·é›¢ç§»å‹•ã™ã‚‹ã€‚æ¬¡ã«ãƒ—ãƒ©ã‚¤ãƒžãƒªã‚¹ã‚­ãƒ«ã‚’ä½¿ç”¨ã™ã‚‹ã¨ã€<style=cIsDamage>çˆ†ç™ºæ§</style>ã‚’æŠ•ã’ã¦<style=cIsDamage>800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã€<style=cIsUtility>800%ã®ãƒãƒƒãƒ†ãƒªãƒ¼</style>ã‚’å›žå¾©ã™ã‚‹ã€‚ã‚¯ãƒªãƒ†ã‚£ã‚«ãƒ«ãƒ’ãƒƒãƒˆã§åŠ¹æžœ2å€ã€‚
+
+SECONDARY_JAVELIN_NAME: æ§æŠ•ã’
+SECONDARY_JAVELIN_DESCRIPTION: <style=cIsDamage>çˆ†ç™ºæ§</style>ã‚’æŠ•ã’ã¦<style=cIsDamage>800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
+
+UTILITY_SPIN_NAME: è£‚å‚·ã®çˆª
+UTILITY_SPIN_DESCRIPTION: ç©ºä¸­ã«èˆžã„ä¸ŠãŒã‚Šã€ç´ æ—©ãå›žè»¢ã—ã¦<style=cIsDamage>300%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚ç€åœ°æ™‚ã«æ°´å¹³æ‰•ã„ã‚’å®Ÿè¡Œã—ã€<style=cIsDamage>800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
+
+UTILITY_BOLAS_NAME: ã‚·ãƒ§ãƒƒã‚¯ãƒ»ãƒœãƒ¼ãƒ©
+UTILITY_BOLAS_DESCRIPTION: å¸¯é›»ã—ãŸãƒœãƒ¼ãƒ©ã‚’æŠ•ã’ã€è¿‘ãã®æ•µã‚’<style=cIsUtility>ã‚·ãƒ§ãƒƒã‚¯</style>çŠ¶æ…‹ã«ã—ã€<style=cIsUtility>æ„Ÿé›»</style>ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’<style=cIsUtility>10ç§’é–“</style>æ®‹ã™ã€‚
+
+SPECIAL_COMMAND_NAME: å‘½ä»¤ã‚’ä¸‹ã™
+SPECIAL_COMMAND_DESCRIPTION: ã‚¹ã‚³ãƒ¼ãƒ«ã¸ã®å‘½ä»¤ã‚’æº–å‚™ã™ã‚‹ã€‚ãƒ—ãƒ©ã‚¤ãƒžãƒªã€ã‚»ã‚«ãƒ³ãƒ€ãƒªã€ã‚¹ãƒšã‚·ãƒ£ãƒ«ã‚¹ã‚­ãƒ«ã‚­ãƒ¼ã‚’æŠ¼ã™ã“ã¨ã§ã€ãã‚Œãžã‚Œ<color=#FF0000>æ”»æ’ƒ</color>ã€<color=#00FF00>è¿½å¾“</color>ã€<color=#efeb1c>ç‰¹æ®Š</color>ã®å‘½ä»¤ã‚’å‡ºã›ã‚‹ã€‚
+
+SPECIAL_COMMAND2_NAME: å‘½ä»¤ã‚’ä¸‹ã™ - ãƒ¦ãƒ¼ãƒ†ã‚£ãƒªãƒ†ã‚£ä¸Šæ›¸ã
+SPECIAL_ATTACK_NAME: æ”»æ’ƒ
+SPECIAL_ATTACK_DESCRIPTION: ã‚¹ã‚³ãƒ¼ãƒ«ã®æ³¨æ„ã‚’ç›®æ¨™ã®æ•µã«å‘ã‘ã€<color=#FF0000>æ”»æ’ƒãƒ¢ãƒ¼ãƒ‰</color>ã‚’èµ·å‹•ã™ã‚‹ã€‚æ©ŸéŠƒï¼ˆ<style=cIsDamage>2x30%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ï¼‰ã¨ãƒŸã‚µã‚¤ãƒ«ãƒ©ãƒ³ãƒãƒ£ãƒ¼ï¼ˆ<style=cIsDamage>150%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ï¼‰ã‚’ä½¿ç”¨å¯èƒ½ã«ã™ã‚‹ã€‚
+
+SPECIAL_FOLLOW_NAME: è¿½å¾“
+SPECIAL_FOLLOW_DESCRIPTION: ã‚¹ã‚³ãƒ¼ãƒ«ã‚’è‡ªåˆ†ã®è¿‘ãã«å‘¼ã³æˆ»ã—ã€<color=#00FF00>è¿½å¾“ãƒ¢ãƒ¼ãƒ‰</color>ã‚’èµ·å‹•ã™ã‚‹ã€‚ã‚¹ã‚³ãƒ¼ãƒ«ã¯ã‚ãªãŸã®è¿‘ãã«ç•™ã¾ã‚‹ã€‚
+
+SPECIAL_CANCEL_NAME: ã‚³ãƒžãƒ³ãƒ‰ãƒ¢ãƒ¼ãƒ‰è§£é™¤
+SPECIAL_CANCEL_DESCRIPTION: ã‚³ãƒžãƒ³ãƒ‰ãƒ¢ãƒ¼ãƒ‰ã‚’è§£é™¤ã™ã‚‹ã€‚
+
+SQUALL_SPECIAL_GOFORTHROAT_NAME: å–‰å…ƒã¸ï¼
+SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: ã‚¹ã‚³ãƒ¼ãƒ«ã«ç›®æ¨™ã®æ•µã‚’ç¹°ã‚Šè¿”ã—æ”»æ’ƒã™ã‚‹ã‚ˆã†å‘½ä»¤ã—ã€<style=cIsDamage>70%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚å„æ”»æ’ƒã¯ä¸€æ™‚çš„ã«<style=cIsDamage>è£…ç”²</style>ã‚’æ¸›å°‘ã•ã›ã€<style=cIsUtility>ãƒãƒƒãƒ†ãƒªãƒ¼ã‚’1%å›žå¾©</style>ã™ã‚‹ã€‚ã‚¯ãƒªãƒ†ã‚£ã‚«ãƒ«ãƒ’ãƒƒãƒˆã§åŠ¹æžœ2å€ã€‚ã“ã®ã‚¹ã‚­ãƒ«ã¯ä¸€æ™‚çš„ã«ãƒãƒƒãƒ†ãƒªãƒ¼ã‚’<style=cIsUtility>éŽå……é›»</style>ã§ãã‚‹ã€‚
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery

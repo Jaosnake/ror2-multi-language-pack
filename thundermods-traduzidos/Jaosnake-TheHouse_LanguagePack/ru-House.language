@@ -1,0 +1,23 @@
+{
+    "ru": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Хаус",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Хаус — безумный игрок, который полагается на свою удачу, чтобы преодолевать трудные ситуации, используя два таинственных артефакта судьбы: 6-зарядный револьвер под названием <style=cIsUtility>\"Рулетка\"</style> и, по-видимому, проклятую колоду карт. <i>Translated by: Jaosnake. Original mod by JavAngle</i>",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Безумный Игрок",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Мастерство",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..и так он ушёл, снова играя с судьбой в кошки-мышки.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..и так он исчез, его удача наконец иссякла.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Стандартный Выстрел",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Сделайте случайный выстрел из своего револьвера.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Фулл Хаус",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Сделайте несколько выстрелов из револьвера за раз.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Гадание",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Предскажите следующую карту из колоды, чтобы получить преимущество.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Перетасовать",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Перетасуйте свою колоду и сбросьте свои варианты.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Стандартная Перезарядка",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Перезарядите револьвер всеми 6 пулями.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "Перезарядка All-In",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Перезарядите и удвойте ставку."
+    }
+}

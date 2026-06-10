@@ -1,0 +1,32 @@
+{
+    "en": {
+        "SPEARMAN_NAME": "Spearman",
+        "SPEARMAN_DESCRIPTION": "The Spearman is a balanced warrior who uses his spear to deal devastating damage up close and from afar. Wielding only his trusty spear, he seeks absolute power.",
+        "SPEARMAN_SUBTITLE": "God of Petrichor",
+        "SPEARMAN_LORE": "\"I am a killer. I am no 'Protector'. No 'Bulwark'. I've spent my entire life training to fight since we got stranded here, and I've loved every second of it. I am a survivor. A warrior. I know nothing of this life you've had, nor do I care. What I do know is that it's about to end.\"\n\n\"You.. monster...\"\n\n\"Nothing I haven't been called before.\"\n\nHe turned his back to the godly figure.\n\n\"I may be a monster, but you're nothing more than a false god. Nothing more than another notch on my spear's shaft. A trophy I intend to smile at the memory of killing.\"\n\n\"How...?\"\n\nIn silence, the warrior turned back to the god and entered his final stance. His spear crackled to life, energy sparking from its tip.\n\n\"Begone.\"\n\nHe lands the final blow, shaking the old ship's battered hull.\n\nIt's quiet.\n\nThe ship whirrs to life. He can see an old ally at the bridge, fumbling with the controls.\n\n\"No...\" he growled. \"Not yet..\"\n\nHe jumps off the ship, and watches as it leaves.\n\n\"Now I am god. Let's see how long this planet lasts.\"\n\nas his eyes wander toward the dead worms.",
+        "SPEARMAN_OUTRO": "..and so he left, god of an agonizing planet.",
+        "SPEARMAN_FAIL": "..and so he vanished, his spear silenced forever.",
+        "SPEARMANBODY_DEFAULT_SKIN_NAME": "Default",
+        "SPEARMANBODY_MASTERY_SKIN_NAME": "Mastery",
+        "SPEARMAN_PASSIVE_NAME": "Battle Scars",
+        "SPEARMAN_PASSIVE_DESCRIPTION": "Hitting enemies with abilities <style=cIsDamage>inflicts</style> them with the Battle Scars debuff, which slows and grants a <style=cIsDamage>5% damage</style> buff per stack to Spearman. He also has warrior instincts, taking less damage when enemies are too close.",
+        "SPEARMAN_M1": "Battle Stance",
+        "SPEARMAN_M1_DESCRIPTION": "Ranged attack against out of range enemies and melee against enemies nearby. Ranged: Throw the spear for <style=cIsDamage>175% damage</style>. Melee: Thrust the spear forward dealing <style=cIsDamage>300% damage</style>.",
+        "SPEARMAN_M2": "Warriors Spear",
+        "SPEARMAN_M2_DESCRIPTION": "Charge up an empowered <style=cIsDamage>piercing</style> spear, increasing damage and distance, dealing <style=cIsDamage>300-1000% damage</style> and applies cycling debuff (<style=cIsUtility>Freeze</style>, <style=cIsHealth>Fire</style>, <style=cShrine>Electric</style>, <style=cDeath>Bleed</style> or <style=cIsHealing>Poison</style>).",
+        "SPEARMAN_UTIL": "Vaulting Kick",
+        "SPEARMAN_UTIL_DESCRIPTION": "Slide on the ground, <style=cIsUtility>knocking</style> enemies airborne. If an enemy is hit, recast to kick upward into the air for <style=cIsDamage>200% damage</style>.",
+        "SPEARMAN_SPEC": "Annihilation",
+        "SPEARMAN_SPEC_DESCRIPTION": "Jump high into the air and select a target terrain below to slam onto for <style=cIsDamage>1000% damage</style>, releasing a shockwave of energy on impact.",
+        "SPEARMAN_ALTM2": "Godly Strength",
+        "SPEARMAN_ALTM2_DESCRIPTION": "Charge up a deadly spear, increasing damage and distance, Dealing <style=cIsDamage>400-1500% damage</style> and <style=cDeath>executing</style> low health enemies.",
+        "SPEARMAN_INTERACTABLE_NAME": "Spearman's Spear",
+        "SPEARMAN_INTERACTABLE_CONTEXT": "Eradicate",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear."
+    }
+}

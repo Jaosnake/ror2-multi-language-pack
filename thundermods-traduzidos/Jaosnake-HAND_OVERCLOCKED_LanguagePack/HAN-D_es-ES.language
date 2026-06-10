@@ -1,0 +1,55 @@
+{ "es-ES":
+	{
+	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
+	"MOFFEIN_HAND_BODY_SUBTITLE" : "Conserje sin sueldo",
+	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D es un robot conserje tanquista cuyos poderosos ataques cuerpo a cuerpo te dejarÃ¡n hecho un desastre! <style=cSub>\r\n\r\n< ! > DOLOR aumenta el golpe contra enemigos aÃ©reos. Utiliza REENSAMBLAJE_FORZADO para lanzar a los enemigos por los aires y, a continuaciÃ³n, hazles DOLOR para que salgan volando!\r\n\r\n< ! > OVERCLOCK dura mas mientras puedas seguir golpeando enemigos.\r\n\r\n< ! > Si cancelas OVERCLOCK, podrÃ¡s impulsarte hacia arriba y alcanzar a los enemigos voladores.\r\n\r\n< ! > Utiliza DRONES para curarte y permanecer en el combate.\r\n\r\n",
+	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--AUTO-TRANSCRIPTION FROM BASED DEPARTMENT OF UES [REDACTED]--//</style>\r\n\r\n<i>*hits <color=#327FFF>Spinel Tonic</color>*</i>\n\nIs playing without the <color=#6955A6>Command</color> artifact the ultimate form of cuckoldry?\n\nI cannot think or comprehend of anything more cucked than playing without <color=#6955A6>Command</color>. Honestly, think about it rationally. You are shooting, running, jumping for like 60 minutes solely so you can get a fucking <color=#77FF16>Squid Polyp</color>. All that hard work you put into your run - dodging <style=cIsHealth>Stone Golem</style> lasers, getting annoyed by six thousand <style=cIsHealth>Lesser Wisps</color> spawning above your head, activating <color=#E5C962>Shrines of the Mountain</color> all for one simple result: your inventory is filled up with <color=#FFFFFF>Warbanners</color> and <color=#FFFFFF>Monster Tooth</color> necklaces which cost money.\n\nOn a god run? Great. A bunch of shitty items which add nothing to your run end up coming out of the <color=#E5C962>Chests</color> you buy. They get the benefit of your hard earned dosh that came from killing <style=cIsHealth>Lemurians</style>.\n\nAs a man who plays this game you are <style=cIsHealth>LITERALLY</style> dedicating two hours of your life to opening boxes and praying it's not another <color=#77FF16>Chronobauble</color>. It's the ultimate and final cuck. Think about it logically.\r\n<style=cMono>\r\nTranscriptions complete.\r\n</style>\r\n \r\n\r\n",
+	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "... se marchÃ³, servos pulsando con nueva vida.",
+	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "... y asÃ­ desapareciÃ³, sin ver recompensados todos sus esfuerzos.",
+	
+	"MOFFEIN_HAND_BODY_PASSIVE_NAME" : "ARMADURA_DE_GUERRA",
+	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "<style=cIsDamage>Reduce el daÃ±o recibido</style> por <style=cIsDamage>0.3%</style> de tu vida maxima por cada <style=cIsUtility>dron</style> en tu equipo.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_NAME" : "DOLOR",
+	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "Aplica fuerza a todos los combatientes para <style=cIsDamage>390% de daÃ±o</style>. <style=cIsDamage>Aturde</style> mientras <style=cIsDamage>OVERCLOCK</style> este activo.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME" : "SMASH",
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "<style=cIsHealth>Ralentiza</style> y aplasta a todos los combatientes para <style=cIsDamage>600% de daÃ±o</style>. <style=cIsDamage>Aturde</style> mientras <style=cIsDamage>OVERCLOCK</style> este activo.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "REENSAMBLAJE_FORZADO",
+	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>Aturde</style>. Carga y aplica gran fuerza a todos los combatientes para <style=cIsDamage>600%-1500% de daÃ±o</style>.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "REENSAMBLAJE_NO_Ã‰TICO",
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Aturdiendo</style>. Carga y aplica <style=cIsHealth>OVERWHELMING</style> la fuerza a todos los combatientes para <style=cIsDamage>900%-2250% de daÃ±o</style>.",
+	
+	"KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Boost</style><style=cSub>La habilidad puede cancelarse pronto para impulsarse hacia arriba.</style>",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME" : "CANCEL",
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Impulsate hacia arriba</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "OVERCLOCK",
+	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>Boost</style>. Increase <style=cIsUtility>movement speed</style> and <style=cIsDamage>attack speed</style> by <style=cIsDamage>40%</style>. Hit enemies to <style=cIsUtility>increase duration</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME" : "FOCUS",
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Boost</style>. Gana <style=cIsDamage>+50% de daÃ±o</style> y <style=cIsUtility>50 de armadura</style>. Golpea enemigos para que <style=cIsUtility>aumente la duracion</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "DRON - CURACIÃ“N",
+	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "Lanza un dron que hace <style=cIsDamage>270% de daÃ±o</style> y <style=cIsHealing>cura el 40% del daÃ±o causado</style>. Muertes e impactos cuerpo a cuerpo <style=cIsUtility>reducen su enfriamiento</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "DRON - VELOCIDAD",
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "Lanza un dron que hace un <style=cIsDamage>270% de daÃ±o</style> y que <style=cIsDamage>aumenta la velocidad de ataque temporalmente</style>. Bajas y golpes cuerpo a cuerpo <style=cIsUtility>reducen el tiempo de reutilizaciÃ³n</style>.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Handyman",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Beatdown",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Keep OVERCLOCK active for over 45 seconds.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Flatten the final boss.",
+	
+	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Mastery",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "As HAN-D, beat the game or obliterate on Monsoon.",
+	}
+}

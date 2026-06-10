@@ -1,0 +1,102 @@
+ROB_HUNK_BODY_NAME: HUNK
+ROB_HUNK_BODY_SUBTITLE: æ”¶å‰²è€…
+ROB_HUNK_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+ROB_HUNK_BODY_CLASSIC_SKIN_NAME: ç»å…¸
+ROB_HUNK_BODY_ROOKIE_SKIN_NAME: æ–°å…µ
+ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
+ROB_HUNK_BODY_LEON_SKIN_NAME: é‡Œæ˜‚
+ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
+ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: è½»é‡
+ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: æ¸¸å‡»å…µ
+ROB_HUNK_BODY_WESKER_SKIN_NAME: å¨æ–¯å…‹
+ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
+ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
+ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: é‡Œæ˜‚çš„è¡¬è¡«
+ROB_HUNK_BODY_COMMANDO_SKIN_NAME: çªå‡»å…µ
+ROB_HUNK_BODY_JACKET_SKIN_NAME: å¤¹å…‹
+ROB_HUNK_BODY_TOFU_SKIN_NAME: è±†è…
+ROB_HUNK_BODY_SUPER_SKIN_NAME: è¶…çº§
+SHOOT_M19_NAME: M19
+SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨M19å°„å‡»é€ æˆ<style=cIsDamage>500%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_BROOMHC_NAME: Broom HC
+SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨Broom HCå°„å‡»é€ æˆ<style=cIsDamage>180%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_REVOLVER_NAME: å·¦è½®æ‰‹æžª
+SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨å·¦è½®æ‰‹æžªå°„å‡»é€ æˆ<style=cIsDamage>1.200%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_MAGNUM_NAME: é©¬æ ¼å—
+SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨é©¬æ ¼å—å°„å‡»é€ æˆ<style=cIsDamage>1.500%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SHOTGUN_NAME: éœ°å¼¹æžª
+SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨éœ°å¼¹æžªå°„å‡»é€ æˆ<style=cIsDamage>14x150%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SSG_NAME: SSG
+SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨SSGå°„å‡»é€ æˆ<style=cIsDamage>16x200%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SLUGGER_NAME: Slugger
+SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨Sluggerå°„å‡»é€ æˆ<style=cIsDamage>3.000%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_AR_NAME: çªå‡»æ­¥æžª
+SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨æ­¥æžªå°„å‡»é€ æˆ<style=cIsDamage>385%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_SPARKSHOT_NAME: Spark Shot
+SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨Spark Shotå°„å‡»é€ æˆ<style=cIsDamage>1.000%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_GOLDGUN_NAME: é»„é‡‘æžª
+SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ç”¨é»„é‡‘æžªå°„å‡»é€ æˆ<style=cIsDamage>99.999%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_ATM_NAME: ATMå‘å°„å™¨
+SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚å‘å°„ç«ç®­é€ æˆ<style=cIsDamage>8.000%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SHOOT_GRENADELAUNCHER_NAME: æ¦´å¼¹å‘å°„å™¨
+SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚å‘å°„æ¦´å¼¹é€ æˆ<style=cIsDamage>3.200%ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+PRIMARY_CQC_NAME: CQC
+PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>æ‹”å‡ºã€‚</style><style=cIsDamage>æ‰“å‡»</style>è¿‘æˆ˜æˆ˜æ–—å‘˜é€ æˆ<style=cIsDamage>200%å’Œ250%ä¼¤å®³</style>ï¼Œæ–½åŠ <style=cIsHealth>æ®‹åºŸ</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SECONDARY_AIM_NAME: ç¨³å®šçž„å‡†
+SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>çž„å‡†</style>ä»¥æé«˜å½“å‰æ­¦å™¨çš„ç²¾åº¦ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+UTILITY_PARRY_NAME: æ ¼æŒ¡
+UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>æ ¼æŒ¡</style>ä»¥åè½¬æ”»å‡»ã€‚å¦‚æžœé¢„é˜²æ€§åœ°ç”¨äºŽ<style=cIsUtility>èº²é¿æ”»å‡»</style>ï¼Œæ‰§è¡Œ<style=cIsDamage>å®Œç¾Žé—ªé¿</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+UTILITY_DODGE_NAME: æ»‘æ­¥
+UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>æ»‘è¡Œ</style>ä¸€å°æ®µè·ç¦»ã€‚å¦‚æžœé¢„é˜²æ€§åœ°ç”¨äºŽ<style=cIsUtility>èº²é¿æ”»å‡»</style>ï¼Œæ‰§è¡Œ<style=cIsDamage>å®Œç¾Žé—ªé¿</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+UTILITY_BASH_NAME: åè½¬
+UTILITY_BASH_DESCRIPTION: <style=cIsUtility>åè½¬</style>é™„è¿‘æ•Œäººï¼Œ<style=cIsUtility>çœ©æ™•ä»–ä»¬</style>é€ æˆ<style=cIsDamage>400%ä¼¤å®³</style>ã€‚å¦‚æžœé¢„é˜²æ€§åœ°ç”¨äºŽ<style=cIsUtility>å–æ¶ˆæ”»å‡»</style>ï¼Œæ‰§è¡Œ<style=cIsDamage>å®Œç¾Žåè½¬</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+SPECIAL_SWAP_NAME: å†›å›¢
+SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>åˆ‡æ¢</style>å½“å‰æ­¦å™¨ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+ROB_HUNK_KEYWORD_MANGLED: æ®‹åºŸ
+ROB_HUNK_KEYWORD_COUNTERATTACK: åå‡»
+ROB_HUNK_KEYWORD_PERFECTDODGE: å®Œç¾Žé—ªé¿
+ROB_HUNK_KEYWORD_PERFECTBASH: å®Œç¾Žåè½¬
+ROB_HUNK_KEYWORD_CVIRUS: C-ç—…æ¯’
+ROB_HUNK_KEYWORD_LOOTING: æœåˆ®
+ROB_HUNK_TRANSCEIVER_NAME: æ”¶å‘å™¨
+ROB_HUNK_TRANSCEIVER_DESC: ç©ºæŠ•è¡¥ç»™ã€‚
+ROB_HUNK_TYPEWRITER_NAME: æ‰“å­—æœº
+ROB_HUNK_TYPEWRITER_DESC: ä¿å­˜è¿›åº¦ã€‚
+ROB_HUNK_JETPACK_NAME: å–·æ°”èƒŒåŒ…
+ROB_HUNK_JETPACK_DESC: æä¾›ç©ºä¸­æœºåŠ¨èƒ½åŠ›ã€‚
+ROB_HUNK_C4_NAME: C4
+ROB_HUNK_GRENADE_NAME: æ‰‹æ¦´å¼¹
+ROB_HUNK_SUPPLYPACK_NAME: è¡¥ç»™å“
+ROB_HUNK_AMMO_NAME: å¼¹è¯
+ROB_HUNK_AMMOITEM_NAME: å¼¹è¯
+ROB_HUNK_CHEST_NAME: ç®±å­
+ROB_HUNK_TERMINAL_NAME: ç»ˆç«¯
+ROB_HUNK_STARSBADGE_NAME: S.T.A.R.S.å¾½ç« 
+ROB_HUNK_STARSBADGE2_NAME: S.T.A.R.S.å¾½ç« 2
+ROB_HUNK_STARSBADGE_DESC: æ¥è‡ªS.T.A.R.S.æˆå‘˜çš„å¾½ç« ã€‚
+ROB_HUNK_HEARTCHEST_NAME: å¿ƒä¹‹ç®±
+ROB_HUNK_T_VIRUS_NAME: T-ç—…æ¯’
+ROB_HUNK_T_VIRUS_DESC: ä¸€ä¸ªT-ç—…æ¯’æ ·æœ¬ã€‚
+ROB_HUNK_G_VIRUS_NAME: G-ç—…æ¯’
+ROB_HUNK_G_VIRUS_DESC: ä¸€ä¸ªG-ç—…æ¯’æ ·æœ¬ã€‚
+ROB_HUNK_G_VIRUS2_NAME: G-ç—…æ¯’2
+ROB_HUNK_C_VIRUS_NAME: C-ç—…æ¯’
+ROB_HUNK_C_VIRUS_DESC: ä¸€ä¸ªC-ç—…æ¯’æ ·æœ¬ã€‚
+ROB_HUNK_G_VIRUSFINAL_NAME: æœ€ç»ˆG-ç—…æ¯’
+ROB_HUNK_PLAGAS_NAME: Plagas
+ROB_HUNK_PLAGAS_DESC: ä¸€ä¸ªPlagasæ ·æœ¬ã€‚
+ROB_HUNK_URO_SAMPLE_NAME: Uroborosæ ·æœ¬
+ROB_HUNK_URO_SAMPLE_DESC: ä¸€ä¸ªUroborosæ ·æœ¬ã€‚
+ROB_HUNK_INFROCKET_NAME: æ— é™ç«ç®­
+ROB_HUNK_INFROCKET_DESC: æ— é™ç«ç®­å¼¹è¯ã€‚
+ROB_HUNK_NEMICASE_NAME: Nemiç®±å­
+ROB_HUNK_NEMICASE_DESC: ä¸€ä¸ªç¥žç§˜çš„ç®±å­ã€‚
+ROB_NEMESIS_BODY_NAME: Nemesis
+ROB_NEMESIS_BODY_SUBTITLE: è¿½è¸ªè€…
+ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+ROB_NEMESIS_BODY_PASSIVE_NAME: æ— æƒ…è¿½çŒŽ
+ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: å¯¹æ ‡è®°çš„æ•Œäººé€ æˆ<style=cIsDamage>{0}%é¢å¤–ä¼¤å®³</style>ã€‚ <i>Translated by: Jaosnake. Original mod by rob</i>
+ROB_NEMESIS_BODY_GRAB_NAME: æŠ“å–
+ROB_ARTIFACT_STRIKETEAM_NAME: çªå‡»é˜Ÿç¥žå™¨
+ROB_ARTIFACT_PURSUER_NAME: è¿½è¸ªè€…ç¥žå™¨
+ROB_ARTIFACT_CONTAMINATION_NAME: æ±¡æŸ“ç¥žå™¨

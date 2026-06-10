@@ -1,0 +1,47 @@
+BOG_PATHFINDER_BODY_NAME: æŽ¢è·¯è€…
+BOG_PATHFINDER_BODY_SUBTITLE: æ˜Ÿé™…çŒŽäºº
+BOG_PATHFINDER_BODY_DESCRIPTION: æŽ¢è·¯è€…æ˜¯ä¸€åç‹¡çŒ¾è€Œéš¾ä»¥æ‰æ‘¸çš„æ¸¸å‡»æˆ˜å£«ï¼Œä¸Žä»–çš„æœºå™¨çŒŽé¹°æ–¯è€ƒå°”å¹¶è‚©ä½œæˆ˜ã€‚ <i>Translated by: Jaosnake. Original mod by Bog</i>
+
+BOG_PATHFINDER_BODY_PASSIVE_NAME: é©¯é¹°è€…
+BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: ä½ çš„æœºå™¨çŒŽé¹°æ–¯è€ƒå°”ä¼´éšç€ä½ ã€‚æ–¯è€ƒå°”ç»§æ‰¿<style=cIsDamage>å¤§éƒ¨åˆ†</style>ä½ çš„ç‰©å“ï¼Œå…ç–«ä¼¤å®³ï¼Œä½†ä¾é <style=cIsUtility>ç”µæ± </style>è¿ä½œã€‚
+
+BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: çŒŽå¤´è€…
+BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..äºŽæ˜¯ä»–ä»¬ç¦»å¼€äº†ï¼Œä½œä¸ºé£Ÿç‰©é“¾çš„æ–°ç»Ÿæ²»è€…ã€‚
+BOG_PATHFINDER_BODY_OUTRO_FAILURE: ..äºŽæ˜¯ä»–ä»¬æ¶ˆå¤±äº†ï¼Œæ°¸è¿œè¿·å¤±åœ¨å†·æ¼ çš„è’é‡Žä¹‹ä¸­ã€‚
+BOG_SQUALL_BODY_NAME: æ–¯è€ƒå°”
+BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+BOG_SQUALL_BODY_MASTERY_SKIN_NAME: ç²¾é€š
+PRIMARY_THRUST_NAME: çªåˆº
+PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>ç©¿é€</style>ã€‚å°†ä½ çš„é•¿çŸ›å‘å‰åˆºå‡ºï¼Œé€ æˆ<style=cIsDamage>250%ä¼¤å®³</style>ã€‚
+
+SECONDARY_DASH_NAME: è½»çµ
+SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>æ»‘è¡Œ</style>ä¸€æ®µçŸ­è·ç¦»ã€‚ä¸‹æ¬¡ä½¿ç”¨ä¸»è¦æŠ€èƒ½æ—¶ï¼ŒæŠ•æŽ·ä¸€æŸ„<style=cIsDamage>çˆ†ç‚¸é•¿çŸ›</style>é€ æˆ<style=cIsDamage>800%ä¼¤å®³</style>å¹¶æ¢å¤<style=cIsUtility>800%ç”µæ± </style>ï¼Œæš´å‡»æ—¶æ•ˆæžœç¿»å€ã€‚
+
+SECONDARY_JAVELIN_NAME: æŠ•æŽ·é•¿çŸ›
+SECONDARY_JAVELIN_DESCRIPTION: æŠ•æŽ·ä¸€æŸ„<style=cIsDamage>çˆ†ç‚¸é•¿çŸ›</style>é€ æˆ<style=cIsDamage>800%ä¼¤å®³</style>ã€‚
+
+UTILITY_SPIN_NAME: æ’•è£‚ä¹‹çˆª
+UTILITY_SPIN_DESCRIPTION: å‡å…¥ç©ºä¸­ï¼Œå¿«é€Ÿæ—‹è½¬é€ æˆ<style=cIsDamage>300%ä¼¤å®³</style>ã€‚è½åœ°æ—¶ï¼Œæ‰§è¡Œä¸€æ¬¡æ¨ªæ‰«é€ æˆ<style=cIsDamage>800%ä¼¤å®³</style>ã€‚
+
+UTILITY_BOLAS_NAME: ç”µå‡»æµæ˜Ÿç´¢
+UTILITY_BOLAS_DESCRIPTION: æŠ•æŽ·å¸¦ç”µçš„æµæ˜Ÿç´¢ï¼Œ<style=cIsUtility>ç”µå‡»</style>é™„è¿‘æ•Œäººå¹¶ç•™ä¸‹ä¸€ä¸ª<style=cIsUtility>æ„Ÿç”µ</style>åŒºåŸŸï¼ŒæŒç»­<style=cIsUtility>10ç§’</style>ã€‚
+
+SPECIAL_COMMAND_NAME: å‘å‡ºæŒ‡ä»¤
+SPECIAL_COMMAND_DESCRIPTION: ä¸ºæ–¯è€ƒå°”å‡†å¤‡ä¸€ä¸ªæŒ‡ä»¤ã€‚ä½ å¯ä»¥é€šè¿‡æŒ‰ä¸‹ä¸»è¦ã€æ¬¡è¦æˆ–ç‰¹æ®ŠæŠ€èƒ½é”®åˆ†åˆ«å‘å‡º<color=#FF0000>æ”»å‡»</color>ã€<color=#00FF00>è·Ÿéš</color>æˆ–<color=#efeb1c>ç‰¹æ®Š</color>æŒ‡ä»¤ã€‚
+
+SPECIAL_COMMAND2_NAME: å‘å‡ºæŒ‡ä»¤ - è¾…åŠ©è¦†ç›–
+SPECIAL_ATTACK_NAME: æ”»å‡»
+SPECIAL_ATTACK_DESCRIPTION: å°†æ–¯è€ƒå°”çš„æ³¨æ„åŠ›å¼•å‘ç›®æ ‡æ•Œäººå¹¶æ¿€æ´»<color=#FF0000>æ”»å‡»æ¨¡å¼</color>ï¼ŒèŽ·å¾—é€ æˆ<style=cIsDamage>2x30%ä¼¤å®³</style>çš„æœºæžªå’Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>çš„å¯¼å¼¹å‘å°„å™¨ã€‚
+
+SPECIAL_FOLLOW_NAME: è·Ÿéš
+SPECIAL_FOLLOW_DESCRIPTION: å°†æ–¯è€ƒå°”å¬å›žèº«è¾¹å¹¶æ¿€æ´»<color=#00FF00>è·Ÿéšæ¨¡å¼</color>ï¼Œä½¿ä»–ä¿æŒåœ¨ä½ é™„è¿‘ã€‚
+
+SPECIAL_CANCEL_NAME: å–æ¶ˆæŒ‡ä»¤æ¨¡å¼
+SPECIAL_CANCEL_DESCRIPTION: å–æ¶ˆæŒ‡ä»¤æ¨¡å¼ã€‚
+
+SQUALL_SPECIAL_GOFORTHROAT_NAME: ç›´å–å’½å–‰ï¼
+SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: å‘½ä»¤æ–¯è€ƒå°”åå¤æ”»å‡»ç›®æ ‡æ•Œäººï¼Œæ¯æ¬¡é€ æˆ<style=cIsDamage>70%ä¼¤å®³</style>ã€‚æ¯æ¬¡æ”»å‡»çŸ­æš‚é™ä½Ž<style=cIsDamage>æŠ¤ç”²</style>å¹¶<style=cIsUtility>æ¢å¤1%</style>ç”µæ± ï¼Œæš´å‡»æ—¶æ•ˆæžœç¿»å€ã€‚æ­¤æŠ€èƒ½å¯ä»¥çŸ­æš‚<style=cIsUtility>è¿‡è½½</style>ç”µæ± ã€‚
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
+BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery

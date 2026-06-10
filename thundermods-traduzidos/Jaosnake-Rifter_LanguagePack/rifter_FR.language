@@ -1,0 +1,25 @@
+BLAKE_RIFTER_NAME: Rifter
+BLAKE_RIFTER_SUBTITLE: Manipulateur de Failles
+PRIMARY_GAUNTLET_RANGED: Faille Projectile
+PRIMARY_GAUNTLET_RANGED_DESCRIPTION: Tire une faille Ã  longue portÃ©e pour 500% de dÃ©gÃ¢ts.
+SECONDARY_FRACTURE: Fracture
+SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Fracture</style>. Tire une faille Ã  longue portÃ©e pour 75% de dÃ©gÃ¢ts, causant jusqu'Ã  5 Ã©clatements.
+SECONDARY_FAULT_LINE: Ligne de Faille
+SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Fracture</style>. CrÃ©e une ligne de faille qui se brise, infligeant 700% de dÃ©gÃ¢ts.
+UTILITY_SLIPSTREAM: Courant Dimensionnel
+UTILITY_SLIPSTREAM_DESCRIPTION: TÃ©lÃ©portez-vous sur une courte distance. Recharge la rÃ©serve de la compÃ©tence secondaire.
+UTILITY_CHAINED_WORLDS: Mondes EnchaÃ®nÃ©s
+UTILITY_CHAINED_WORLDS_DESCRIPTION: Connectez deux points dans l'espace, crÃ©ant un portail qui transporte les projectiles.
+UTILITY_QUANTUM_RIFT: Faille Quantique
+UTILITY_QUANTUM_RIFT_DESCRIPTION: Ouvrez une faille quantique qui dÃ©forme l'espace environnant.
+SPECIAL_TIMELOCK: Verrouillage Temporel
+SPECIAL_TIMELOCK_DESCRIPTION: Verrouille le temps des ennemis dans une zone, les gelant pendant quelques secondes.
+SPECIAL_RECURSION: RÃ©cursion
+SPECIAL_RECURSION_DESCRIPTION: RÃ©plique une faille, la faisant rÃ©sonner Ã  nouveau aprÃ¨s une courte pÃ©riode.
+PASSIVE_RIFT_BOOST: Boost de Faille
+PASSIVE_RIFT_BOOST_DESCRIPTION: Vos failles accordent un bonus de vitesse de dÃ©placement en les traversant.
+PASSIVE_RIFT_FRACTURE: Fracture de Faille
+PASSIVE_RIFT_FRACTURE_DESCRIPTION: Les ennemis touchÃ©s par les failles accumulent de l'Ã©clatement, augmentant les dÃ©gÃ¢ts reÃ§us.
+MASTERY_SKIN_NAME: Rifter: MaÃ®trise
+BLAKE_NEM_RIFTER_NAME: NÃ©mÃ©sis Rifter
+BLAKE_NEM_RIFTER_SUBTITLE: Faille Corrompue

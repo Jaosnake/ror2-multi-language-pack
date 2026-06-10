@@ -1,0 +1,23 @@
+{
+    "es-419": {
+        "KENKO_INTERROGATOR_NAME": "Interrogador",
+        "KENKO_INTERROGATOR_DESCRIPTION": "El Interrogador se deleita en el dolor ajeno. No te diviertas demasiado lastimando a tus aliados... o hazlo.\n\n< ! > S\u00e9 golpeado por enemigos, aliados e incluso t\u00fa mismo para ganar atributos adicionales. Nadie est\u00e1 a salvo.\n\n< ! > Si tienes \u00edtems que se activan al ser golpeado, usa Refriega para causarte Hemorragia. Sin dolor, sin ganancia.\n\n< ! > Falsificar es una excelente manera de forzar a los enemigos a ser marcados como Culpables. \u00bfAntit\u00e9tico? \u00bfQu\u00e9 quieres decir?\n\n< ! > Condena a un objetivo Culpable para asegurarte de que sea castigado por sus actos. Culpable hasta que se demuestre inocente, despu\u00e9s de todo. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Especialista en Tormento",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..y as\u00ed parti\u00f3, ansioso por aplicar m\u00e1s \"justicia\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..y as\u00ed desapareci\u00f3, castigado por sus cr\u00edmenes.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Predeterminado",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogador: Especialista",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "El Interrogador puede golpear y ser golpeado por aliados y enemigos. Los atacantes que golpean al Interrogador son marcados permanentemente como Culpables. Causa 5% m\u00e1s de da\u00f1o por enemigo Culpable. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Golpe Brutal",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Balancea tu bast\u00f3n al frente, causando <style=cIsDamage>320% de da\u00f1o</style>. Errar el ataque hace que sufras <style=cIsDamage>da\u00f1o</style> en su lugar. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Refriega",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lanza un cuchillo que causa <style=cIsDamage>450% de da\u00f1o</style>. <style=cIsDamage>Asesino.</style> Si el cuchillo mata al objetivo, aplica Hemorragia y Presi\u00f3n a todos en el \u00e1rea. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificar",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Avanza r\u00e1pidamente causando <style=cIsDamage>390% de da\u00f1o</style> y aplicando Culpable a los objetivos golpeados. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duelo con un enemigo Culpable por 10 segundos. Tu primario ya no te golpea y concede una acumulaci\u00f3n de Culpable al acertar. Durante el duelo, el da\u00f1o externo a ti es negado, pero el da\u00f1o a otros enemigos adem\u00e1s del objetivo tambi\u00e9n es negado. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Castigar",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duelo con un enemigo Culpable por 10 segundos. Tu primario ya no te golpea y concede una acumulaci\u00f3n de Culpable al acertar. Durante el duelo, el da\u00f1o externo a ti es negado, pero el da\u00f1o a otros enemigos se reduce en 75%. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>"
+    }
+}

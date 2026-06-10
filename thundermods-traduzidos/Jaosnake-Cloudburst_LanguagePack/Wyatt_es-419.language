@@ -1,0 +1,26 @@
+{ "es-419":
+    {
+    "CLOUDBURST_WYATT_NAME" : "çœ‹é—¨äºº",
+    "CLOUDBURST_WYATT_SUBTITLE" : "ç²¾å¹²çš„ï¼Œåå•¬çš„ï¼Œæ¸…æ´æœºå™¨ã€‚",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...äºŽæ˜¯ä»–ä»¬ç¦»å¼€äº†ï¼Œå¹²å¾—å¥½ã€‚",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...äºŽæ˜¯ä»–ä»¬æ¶ˆå¤±äº†ï¼Œç•™ä¸‹äº†ä¸€æ‘Šæ¯”ä»–ä»¬æ¥æ—¶è¿˜å¤§çš„çƒ‚æ‘Šå­ã€‚",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "çœ‹é—¨äººæ˜¯ä¸€ä½ä¿æ´å¤§å¸ˆï¼Œå¯ä»¥é€šè¿‡æ“çºµæ•Œäººçš„é‡åŠ›ä¸ºè‡ªå·±åˆ›é€ ä¼˜åŠ¿ã€‚<color=#CCD3E0>\n\n< ! >é‡åŠ›æ‰«æŠŠçš„è¿žå‡»å¯ä»¥æŠŠæ•Œäººæ‰“çš„è¶Šæ¥è¶Šé«˜ã€‚\n\n< ! >å°†é‚£äº›è¢«é‡åŠ›æ‰«æŠŠå’Œå¥³ä»†æœºå™¨äººæ‰“é£žçš„æ•Œäººä»¥æŠ€èƒ½â€œæ¸…ç†åžƒåœ¾â€åˆºä¸‹æ¥ä»¥é€ æˆæµ·é‡ä¼¤å®³ï¼\n\n< ! >ä½¿ç”¨å¥”æµçš„è¿žè·³æ•ˆæžœä»¥è¿žå‡»ç©ºä¸­çš„æ•Œäººï¼Œæˆ–è€…ä»¥é¢å¤–æŠ¤ç”²æ‘†è„±æ£˜æ‰‹çš„æƒ…å½¢ã€‚\n\n< ! >ä½¿ç”¨å¥³ä»†æœºå™¨äººæŠŠæ•Œäººæå‡åˆ°ç©ºä¸­ï¼Œå¹¶é‡æ–°å®šä½è‡ªå·±ä»¥è¿›è¡Œè¿›ä¸€æ­¥è¿žå‡»ã€‚\n\n",
+    "CLOUDBURST_WYATT_LORE" : "æ— æ³•åœä¸‹ï¼Œæ— æ³•åœä¸‹ã€‚æˆ‘èµ°çš„æ¯ä¸€æ­¥éƒ½æ²¡æœ‰å›žå¤´è·¯ã€‚æ— è®ºé‡åˆ°ä»€ä¹ˆå›°éš¾ï¼Œæˆ‘éƒ½è¦æ‰¾åˆ°å®ƒã€‚\n\nä¸€åˆ‡éƒ½æ˜¯èŠ‚å¥ï¼Œåªæ˜¯èŠ‚å¥ã€‚æ¯æ¬¡æˆ‘è¶Šè½¨ï¼Œéƒ½æ˜¯ä¸€ç§æƒ©ç½šã€‚æˆ‘è¦æœä»ŽäºŽéŸµå¾‹ã€‚æ²¡æœ‰ä»€ä¹ˆèƒ½é˜»æ­¢æˆ‘äº†ã€‚\n\næ¯é“ä¼¤ç—•éƒ½å€¼å¾—ã€‚æˆ‘èƒ½æ„Ÿè§‰åˆ°ï¼Œæˆ‘ç¦»å®ƒè¶Šæ¥è¶Šè¿‘äº†ã€‚æˆ‘ä¼šæ‹¥æœ‰å®ƒï¼Œå®ƒå°†å±žäºŽæˆ‘ã€‚\n\næ— è®ºä»˜å‡ºå¤šå°‘è¡€æ±—ï¼Œéƒ½æ˜¯å€¼å¾—çš„ã€‚æˆ‘ä¼šæ‰¾åˆ°æˆ‘æƒ³è¦çš„ï¼Œç„¶åŽå›žå®¶ã€‚\n\næ— è®ºæˆ‘å± æ€å¤šå°‘äººï¼Œå®ƒéƒ½å°†å±žäºŽæˆ‘... å®ƒæ— æ³•æ°¸è¿œèº²ç€æˆ‘ã€‚\n\nå®ƒå°±åœ¨è¿™é‡Œï¼Œæˆ‘èƒ½æ„Ÿè§‰åˆ°ã€‚è¿™ä¸ªä¿é™©ç®±é‡Œå°±æœ‰å®ƒã€‚æˆ‘æ‰“å¼€å®ƒï¼Œæ‰¾åˆ°äº†å®ƒã€‚\n\nå®ƒ...ç»ˆäºŽæ˜¯æˆ‘çš„äº†ã€‚æˆ‘æŠŠå®ƒæ¡åœ¨æˆ‘å—ä¼¤çš„æ‰‹ä¸­ã€‚çœŸçš„å·²ç»è¿‡åŽ»äº†è¿™ä¹ˆå¤šå¹´å—ï¼Ÿ \n\nå¥¹ä¼šå–œæ¬¢è¿™ä¸ªï¼Œæˆ‘çŸ¥é“ã€‚\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>å¤±é‡</style><style=cSub><style=cIsUtility>ç§»é™¤ç›®æ ‡çš„é‡åŠ›</style>å¹¶<style=cIsUtility>é™ä½Žç§»é€Ÿä¸Žæ”»é€Ÿ</style>ã€‚</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>åˆºç©¿</style><style=cSub>è¿«ä½¿æ•Œäººä¸‹å ï¼Œç›®æ ‡æ’žå‡»åœ°å½¢æ—¶é€ æˆ<style=cIsDamage>éœ‡è¡æ³¢</style>ï¼Œé€ æˆ<style=cIsDamage>200%ä¼¤å®³</style>ï¼Œæ¯ç±³å è½é«˜åº¦é¢å¤–å¢žåŠ <style=cIsDamage>30%ä¼¤å®³</style>ã€‚</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>å¥”æµ</style><style=cSub>èŽ·å¾—<style=cIsDamage>30æŠ¤ç”²</style>ï¼Œæ¯å±‚<style=cIsUtility>å¾‹åŠ¨</style>é¢å¤–èŽ·å¾—<style=cIsDamage>5æŠ¤ç”²</style>ã€‚\nèŽ·å¾—ä¸€æ¬¡<style=cIsUtility>é¢å¤–è·³è·ƒ</style>ã€‚\nèŽ·å¾—<style=cIsUtility>+30%å†·å´å‡å…</style>ã€‚</style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "éšèº«å¬",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "å‘½ä¸­æ—¶ï¼ŒèŽ·å¾—ä¸€å±‚<style=cIsUtility>å¾‹åŠ¨</style>ï¼Œæ¯å±‚æå‡<style=cIsUtility>20%ç§»é€Ÿ</style>ã€‚è„±æˆ˜æ—¶å¼€å§‹è¡°å‡ã€‚\n<color=#8888>(è¯‘è€…æ³¨ï¼šæœ€å¤§åŒæ—¶å †å 10å±‚)</color>",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22é‡åŠ›æ‰«æŠŠ",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚ä½¿ç”¨æ‰«æŠŠæŒ¥å‡»ï¼Œé€ æˆ<style=cIsDamage>100%ä¼¤å®³</style>ã€‚ç¬¬3æ¬¡å‘½ä¸­æ”¹ä¸ºé€ æˆ<style=cIsDamage>200%ä¼¤å®³</style>å¹¶é€ æˆ<style=cIsUtility>å¤±é‡</style>ã€‚",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "æ¸…ç†åžƒåœ¾",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>éƒ¨ç½²ä¸€ä¸ªç»žç›˜</s>é£žå‘æ•Œäººï¼Œå‘½ä¸­é€ æˆ<style=cIsDamage>300%</style>ä¼¤å®³å¹¶<style=cIsDamage>åˆºç©¿</style>ä»–ä»¬ã€‚",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "å¥”æµ",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "æ¿€æ´»<style=cIsDamage>å¥”æµ</style>æ•ˆæžœï¼ŒæŒç»­<style=cIsUtility>4ç§’</style>ã€‚æ¯å±‚<style=cIsUtility>å¾‹åŠ¨</style>é¢å¤–å¢žåŠ <style=cIsUtility>0.4ç§’</style>æŒç»­æ—¶é—´ã€‚\næœŸé—´èŽ·å¾—<style=cIsDamage>é¢å¤–æŠ¤ç”²ã€ä¸€æ¬¡é¢å¤–è·³è·ƒï¼Œä»¥åŠå†·å´ç¼©å‡æ•ˆæžœ</style>ã€‚<style=cIsDamage>å¥”æµ</style>æ•ˆæžœæŒç»­æœŸé—´ï¼Œä½ å°†æ— æ³•èŽ·å¾—æˆ–å¤±åŽ»<style=cIsUtility>å¾‹åŠ¨</style>å±‚æ•°ã€‚<style=cIsDamage>å¥”æµ</style>æ•ˆæžœç»“æŸåŽï¼Œå¤±åŽ»æ‰€æœ‰<style=cIsUtility>å¾‹åŠ¨</style>ã€‚",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88å¥³ä»†æœºå™¨äºº",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "éƒ¨ç½²ä½ çš„<style=cIsUtility>å¥³ä»†æœºå™¨äºº</style>å¿«é€Ÿç©¿è¿‡æ•Œäººï¼Œé€ æˆ<style=cIsDamage>300%ä¼¤å®³</style>ï¼ŒéšåŽçŸ­æš‚åœæ­¢å¹¶è¿”å›žä½ èº«è¾¹ã€‚å†æ¬¡æ¿€æ´»æŠ€èƒ½ä»¥å°†è‡ªèº«å·å‘<style=cIsUtility>å¥³ä»†æœºå™¨äºº</style>å¹¶ä½¿å…¶çˆ†ç‚¸ï¼Œé€ æˆ<style=cIsDamage>500%ä¼¤å®³</style>ï¼Œå¹¶é€ æˆ<style=cIsUtility>å¤±é‡</style>ã€‚",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "ç»å…¸",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Custodian: Mastery",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "As Custodian, beat the game or obliterate on Monsoon.",
+    }
+}

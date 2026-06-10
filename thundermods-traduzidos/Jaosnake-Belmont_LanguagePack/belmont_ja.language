@@ -1,0 +1,153 @@
+{ "ja": {
+ 	 "ROB_BELMONT_BODY_NAME": "<color=#3060FF>Belmont</color>",
+ 	 "ROB_BELMONT_BODY_NAME_ALT": "Hunter",
+ 	 "ROB_BELMONT_BODY_DESCRIPTION": "The <color=#3060FF>Belmont</color> is an elite monster hunter with the right tools for any situation, no matter how dire.<color=#CCD3E0>\n\n< ! > Whip deals safe damage from a distance but sword swings deal much more damage overall.\n\n< ! > Rush is the perfect tool for getting up close to shred with your sword.\n\n< ! > Use Abscond to swing off flying monsters to cover great distances.\n\n< ! > Ancient Flame can be used to clear a crowd with ease.",
+ 	 "ROB_BELMONT_BODY_SUBTITLE": "Monster Hunter",
+ 	 "ROB_BELMONT_BODY_LORE": "I do not belong here.\n\nThis world reeks of <color=#7F364F>corruption</color>. Not the kind that festers in menâ€™s hearts, nor the taint of a vampireâ€™s domain, but something deeper- more ancient. It clings to the air, saturates the soil, and twists the beasts that roam this forsaken land. The moon above watches, distant yet suffocating. It is wrong, like something stolen from its rightful place.\n\nAnd yet, I was brought here.\n\nFate? No, Iâ€™ve never trusted such notions. A cruel joke, perhaps, played by some unseen hand. One moment, the wind howled through the halls of my hunt, the scent of blood and old stone in my lungs- the next, I was falling. The sky was a storm of fire, the ground rising fast beneath me. <style=cIsHealth>I should have died.</style>\n\nInstead, I stand.\n\nAgain.\n\n<color=#FF0033>Always.</color>",
+ 	 "ROB_BELMONT_BODY_OUTRO_FLAVOR": "..and so he left, his virtuous journey completed.",
+ 	 "ROB_BELMONT_BODY_OUTRO_FAILURE": "..and so he vanished, noble bloodline coming to an end.",
+
+ 	 "ROB_BELMONT_BODY_DEFAULT_SKIN_NAME": "<color=#3060FF>Default</color>",
+ 	 "ROB_BELMONT_BODY_MONSOON_SKIN_NAME": "<color=#3060FF>Exile</color>",
+     "ROB_BELMONT_BODY_MONSOON_ALTERNATE_SKIN_NAME": "<color=#3060FF>Exile EX</color>",
+ 	 "ROB_BELMONT_BODY_LEON_SKIN_NAME": "<color=#3060FF>Progenitor</color>",
+	 "ROB_BELMONT_BODY_SOMA_SKIN_NAME": "<color=#3060FF>Reincarnation</color>",
+	 "ROB_BELMONT_BODY_MORRIS_SKIN_NAME": "<color=#3060FF>Explorer</color>",
+ 	 "ROB_BELMONT_BODY_JULIUS_SKIN_NAME": "<color=#3060FF>Pioneer</color>",
+ 	 "ROB_BELMONT_BODY_ISAAC_SKIN_NAME": "<color=#3060FF>Forgemaster</color>",
+ 	 "ROB_BELMONT_BODY_MINECRAFT_SKIN_NAME": "<color=#3060FF>Minecraft</color>",
+
+     "ROB_BELMONT_BODY_PASSIVE_NAME": "Divine Bloodline",
+     "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "Each stage, a <color=#7F364F>Shrine of the Night</color> spawns, granting <color=#FFFF00>Key Fragments</color> once completed. These are used to acquire <style=cIsDamage>powerful gear</style> for the <color=#3060FF>Belmont.",
+     "ROB_BELMONT_BODY_CONFIRM_NAME": "Confirm",
+ 	 "ROB_BELMONT_BODY_CONFIRM_DESCRIPTION": "Proceed with the current skill.",
+ 	 "ROB_BELMONT_BODY_CANCEL_NAME": "Cancel",
+ 	 "ROB_BELMONT_BODY_CANCEL_DESCRIPTION": "Cancel the current skill.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY_NAME": "Purify",
+ 	 "ROB_BELMONT_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>Agile.</style> Slash for <style=cIsDamage>260% damage</style>. If target is far away, then crack your <style=cIsUtility>whip</style> instead for <style=cIsDamage>700% damage</style> on them.",
+
+ 	 "ROB_BELMONT_BODY_PRIMARY2_NAME": "Purge",
+ 	 "ROB_BELMONT_BODY_PRIMARY2_DESCRIPTION": "<style=cIsUtility>Agile.</style> Crack your <style=cIsUtility>whip</style> for <style=cIsDamage>500% damage</style> to all enemies in front.",
+	 
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_NAME": "Rush",
+ 	 "ROB_BELMONT_BODY_SLIDEKICK_DESCRIPTION": "<style=cIsUtility>Stunning.</style> Slide forward for <style=cIsDamage>350% damage</style>, launching yourself off the first foe hit.",
+
+	 "ROB_BELMONT_BODY_UTILITY_NAME": "Abscond",
+	 "ROB_BELMONT_BODY_UTILITY_DESCRIPTION": "Dash in a direction. <style=cIsUtility>Hold</style> to then swing off <style=cIsDamage>targeted enemy</style> with your <style=cIsUtility>whip</style>.",
+
+	 "ROB_BELMONT_BODY_UTILITY2_NAME": "Adjudicate",
+	 "ROB_BELMONT_BODY_UTILITY2_DESCRIPTION": "Perform a devastating uppercut for <style=cIsDamage>1200% damage</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_NAME": "Ancient Flame",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_DESCRIPTION": "Throw a jar of <style=cIsUtility>wisp fragments</style>, exploding and unleashing <style=cIsUtility>pillars of flame</style> for <style=cIsDamage>800% damage</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_NAME": "Hellfire",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYWATER_SCEPTER_DESCRIPTION": "Throw a jar of <style=cIsUtility>wisp fragments</style>, exploding and unleashing <style=cIsUtility>pillars of flame</style> for <style=cIsDamage>800 damage</style>.\n<color=#d299ff>SCEPTER: Flames are larger, deal 1200% damage and leave a trail of fire on the ground.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_NAME": "Battle Cross",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_DESCRIPTION": "Throw a <style=cIsUtility>piercing cross</style> that hits multiple times for <style=cIsDamage>250% damage</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_NAME": "Triple Cross",
+	 "ROB_BELMONT_BODY_SPECIAL_CROSS_SCEPTER_DESCRIPTION": "Throw a <style=cIsUtility>piercing cross</style> that hits multiple times for <style=cIsDamage>250% damage</style>.\n<color=#d299ff>SCEPTER: Throw three at once.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_NAME": "Silver Bullet",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_DESCRIPTION": "Shoot a <style=cIsUtility>silver bullet</style> for <style=cIsDamage>800% damage</style>. <style=cIsUtility>Headshots</style> deal <style=cIsDamage>2x damage</style>. Kills <style=cIsUtility>reset all your cooldowns</style>.",
+
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Golden Gun",
+	 "ROB_BELMONT_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Shoot a <style=cIsUtility>silver bullet</style> for <style=cIsDamage>800% damage</style>. <style=cIsUtility>Headshots</style> deal <style=cIsDamage>2x damage</style>. Kills <style=cIsUtility>reset all your cooldowns</style>.\n<color=#d299ff>SCEPTER: Deals 99999% damage.</color>",
+
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_NAME": "Sacred Flame",
+	 "ROB_BELMONT_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoke the power of <color=#FF0033>Providence</color>, unleashing a <style=cIsUtility>massive flame</style> for <style=cIsDamage>300% damage per tick</style>. Ends with a <style=cIsDamage>4000% damage</style> supernova.",
+
+   
+
+	 "ROB_BELMONT_BODY_UNLOCKABLE_UNLOCKABLE_NAME": "Divine Bloodlines",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_NAME": "Divine Bloodlines",
+	 "ROB_BELMONT_BODY_UNLOCKABLE_ACHIEVEMENT_DESC": "Discover a sacred relic on the moon.",
+	 
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Mastery",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Mastery",
+	 "ROB_BELMONT_BODY_MONSOON_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, beat the game or obliterate on Monsoon.",
+	 
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Grand Mastery",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Grand Mastery",
+     "ROB_BELMONT_BODY_TYPHOON_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>Counts any difficulty Typhoon or higher</color>",
+	 
+	 "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Aria of Sorrow",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Aria of Sorrow",
+     "ROB_BELMONT_BODY_SOMA_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, enter A Moment, Whole.",
+     
+	 "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Portrait of Ruin",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Portrait of Ruin",
+     "ROB_BELMONT_BODY_MORRIS_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, obtain a sacred relic.",
+	 
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Dawn of Sorrow",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Dawn of Sorrow",
+	 "ROB_BELMONT_BODY_JULIUS_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, wield all the sacred relics at once.",
+	 
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Curse of Darkness",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Curse of Darkness",
+	 "ROB_BELMONT_BODY_ISAAC_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, complete a Shrine of the Night.",
+	 
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Seeker",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Seeker",
+	 "ROB_BELMONT_BODY_CROSS_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, find the stolen weapon on the moon.",
+	 
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_UNLOCKABLE_NAME": "<color=#3060FF>Belmont</color>: Premonition",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_NAME": "<color=#3060FF>Belmont</color>: Premonition",
+	 "ROB_BELMONT_BODY_PISTOL_UNLOCKABLE_ACHIEVEMENT_DESC": "As <color=#3060FF>Belmont</color>, find the secret weapon in the Void.",
+
+	 "ROB_BELMONT_BODY_LOADOUT_SKILL_MISC": "Passive",
+	 
+	 "ROB_BELMONT_DEVILSHRINE_NAME": "Shrine of the Night",
+	 "ROB_BELMONT_DEVILSHRINE_DESC": "I am not paid enough to write these.",
+	 "ROB_BELMONT_DEVILSHRINE_CONTEXT": "Pray to Shrine of the Night",
+	 
+	 "ROB_BELMONT_TREASURECHEST_NAME": "Treasure Chest",
+	 "ROB_BELMONT_TREASURECHEST_DESC": "HEEEEEEEEEELLLLLLLPPPPP MEEEEEEEEEE",
+	 "ROB_BELMONT_TREASURECHEST_CONTEXT": "Use key and open",
+	 "ROB_BELMONTKEYCOST": "Skeleton Key",
+	 
+	 "ROB_BELMONT_KEYFRAGMENT_NAME": "Key Fragment",
+	 "ROB_BELMONT_KEYFRAGMENT_DESC": "Fractured piece of a key. Collect 3 to form a whole key.",
+	 "ROB_BELMONT_KEYFRAGMENT_PICKUP": "Fractured piece of a key. Collect 3 to form a whole key.",
+	 "ROB_BELMONT_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_BELMONT_KEY_NAME": "Skeleton Key",
+	 "ROB_BELMONT_KEY_DESC": "Used to open a <color=#FFFF00>Treasure Chest</color>. These chests contain a <color=#FF0033>sacred relic</color> and spawn every <style=cIsUtility>fourth</style> stage in a <style=cIsDamage>fixed location</style>.",
+	 "ROB_BELMONT_KEY_PICKUP": "Used to open a Treasure Chest. Glows when nearby.",
+	 "ROB_BELMONT_KEY_LORE": "",
+	 
+	 "ROB_BELMONT_MORNINGSTAR_NAME": "Morning Star",
+	 "ROB_BELMONT_MORNINGSTAR_DESC": "Each whip hit sets off a <style=cIsUtility>followup explosion</style> for <style=cIsDamage>600% damage</style>.",
+	 "ROB_BELMONT_MORNINGSTAR_PICKUP": "The whip that will destroy all who are related to the kindred of the night.",
+	 "ROB_BELMONT_MORNINGSTAR_LORE": "",
+	 
+	 "ROB_BELMONT_CRISSAEGRIM_NAME": "Crissaegrim",
+	 "ROB_BELMONT_CRISSAEGRIM_DESC": "Each sword swing strikes <style=cIsUtility>3 additional times</style> for <style=cIsDamage>300% damage</style> each.",
+	 "ROB_BELMONT_CRISSAEGRIM_PICKUP": "Countless blades dice the enemy.",
+	 "ROB_BELMONT_CRISSAEGRIM_LORE": "",
+	 
+	 "ROB_BELMONT_WINGEDBOOTS_NAME": "Pegasus Boots",
+	 "ROB_BELMONT_WINGEDBOOTS_DESC": "After <style=cIsUtility>1</style> second of sprinting while <style=cIsUtility>grounded</style>, gain <style=cIsDamage>12 movement speed</style>. Hitting an enemy with <style=cIsDamage>Rush</style> causes you to kick them <style=cIsUtility>into the air</style> and then away, for <style=cIsDamage>4x200%</style> and <style=cIsDamage>300%</style> damage.",
+	 "ROB_BELMONT_WINGEDBOOTS_PICKUP": "Boots that upgrade your secondary skill and enable you to run like the wind.",
+	 "ROB_BELMONT_WINGEDBOOTS_LORE": "",
+	 
+	 "ROB_BELMONT_HOLYCROSS_NAME": "Savior's Scarf",
+	 "ROB_BELMONT_HOLYCROSS_DESC": "Every <style=cIsUtility>3</style> minutes, replace your <style=cIsDamage>special skill</style> with <color=#FF0033>Sacred Flame</color>.",
+	 "ROB_BELMONT_HOLYCROSS_PICKUP": "Gain access to a powerful ultimate attack.",
+	 "ROB_BELMONT_HOLYCROSS_LORE": "",
+	 
+	 "ROB_BELMONT_BROTHERSOUL_NAME": "Soul of the King",
+	 "ROB_BELMONT_BROTHERSOUL_DESC": "Every <style=cIsUtility>whip crack</style> spawns a <style=cIsDamage>lunar flame pillar</style>, every <style=cIsUtility>sword swing</style> spawns a <style=cIsDamage>lunar shard</style>, every <style=cIsUtility>whip slam</style> unleashes <style=cIsDamage>ground shockwaves</style> and every <style=cIsUtility>dash</style> generates <style=cIsHealing>20% barrier</style>.",
+	 "ROB_BELMONT_BROTHERSOUL_PICKUP": "Wield the King of Nothing's power as your own.",
+	 "ROB_BELMONT_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_GARGOYLE_NAME": "Gargoyle",
+	 
+	 "ROB_GREAT_GARGOYLE_NAME": "Blue Fangs",
+	 
+	 "KEYWORD_WHIP_SLAM": "<style=cKeywordName>Whip Slam</style><style=cSub>Double tap while locked onto an <style=cIsUtility>airborne</style> enemy to <style=cIsDamage>slam</style> them down for <style=cIsDamage>1800% damage</style>."
+	 }
+}

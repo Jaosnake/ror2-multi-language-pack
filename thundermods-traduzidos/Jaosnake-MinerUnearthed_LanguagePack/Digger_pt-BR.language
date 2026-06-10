@@ -1,0 +1,43 @@
+{ "pt-BR":
+	{
+	"MINER_NAME" : "Minerador",
+	"MINER_DESCRIPTION" : "O Minerador Ã© um personagem agil e incrivelmente mÃ³vel, priorizando longas sequÃªncias de golpes para aproveitar sua habilidade passiva<color=#CCD3E0>\n\n< ! > Uma vez que vocÃª adquirir um grande acÃºmulo de Adrenalina, Esmagar e Quebrar serÃ£o suas melhores fontes de dano.\n\n< ! > Segurar a Broca Carregada afetarÃ¡ a quantidade de dano. Mire no chÃ£o ou nos inimigos para causar dano concentrado.\n\n< ! > Tiro Traseiro pode fazer vocÃª viajar uma distÃ¢ncia curta. Segurar farÃ¡ vocÃª ir mais longe.\n\n< ! > Para as Estrelas pode causar muito dano a inimigos maiores.",
+	"MINER_SUBTITLE" : "Viciado Destrutivo",
+	"MINER_LORE" : "\nEntre o gÃ©lido aÃ§o das ruÃ­nas do cargueiro e o ar frio da noite, a turvÃ¡ luz azul de um diÃ¡rio de Ã¡udio pega sua atenÃ§Ã£o. O diÃ¡rio encontra-se arruinado no meio dos restos das cargas, mas ainda persiste, funcional. Os botÃµes no revestimento do dispositivo vibra lentamente, convidando-o a ouvir seu conteÃºdo estranho, de coerÃªncia decadenteâ€¦\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''Primeira entrada, uhhâ€¦ Zero-cinco, zero-um, vinte-cinquenta-5. A chefia decidiu nos tirar do nosso trabalho de mineraÃ§Ã£o. Depois de meses escavando, sangrando, sua<color=#8990A7>-///////-</color>ilhÃµes gastos, estamos cessando a operaÃ§Ã£o? Filho da p<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''<color=#8990A7>-////////-</color>ntro do asterÃ³ide. Nunca vi nada como isso. Era com<color=#8990A7>-////////-</color>endo fractalâ€¦ Seu interior era como um caleidoscÃ³pio. Deve valer uma cara<color=#8990A7>-/////-</color>chefia quer que paremos. Bem, eles podem beijar meu c<color=#8990A7>-////-</color>. Eu vou voltar lÃ¡, sozinho, pra cavar o resto do asterÃ³ideâ€¦ Se conseguir vender umas partes, os prÃ³ximos quinhentos cheques de salÃ¡rio nÃ£o valeriam nada. EstavÃ¡ esperando uma oportunidade como essa.''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n'' Acho que eles sabem de tudo. EstÃ£o interrogando os outros. Eu escondi o artefato numa ventoinha em<color=#8990A7>-//////-</color>, deveria ser seguro. Cargueiro com o nome de UE<color=#8990A7>-////-</color>ara ancorando em daqui a uns meses. SÃ³ tenho que entrar dentro dele de fininho.''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n'' EstÃ£o me procurando. VÃ£o me achar, e rapido. Estou me escondendo nas paredes como a po<color=#8990A7>-//////-</color>dum rato. O cargueiro estÃ¡ fora do horÃ¡rio. Eu deixei tudo pra trÃ¡s por isso.''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n'' Estou escondido no casco. NinguÃ©m vem aqui. Nem pra fazer manutenÃ§Ã£o. Devo estar seguro atÃ© o cargueiro chegar.''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n'' Ainda nÃ£o chegou. NÃ£o tenho ideia de quando chegara.'' <color=#8990A7><Suspiro>.</color> ''Isso Ã© ago<color=#8990A7>-//-</color>nizante.''\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>le chegou. Finalmente. Finalmente. Tenho que esconder o artefato lÃ¡ dentro. SeguranÃ§a pra todo lado, atÃ© mercenariosâ€¦'' <color=#8990A7><Vozes distantes tendo uma conversa indiscernivel.></color> ''Okay. Cala boca. Cala a boca e vai. Eu vou. Vou. Denoite.''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>guma coisa aconteceu com o cargueiro. Carga voando. Perdi o artefato. Perdi tudoâ€¦ perdi tu<color=#8990A7>-//-</color>.''\n\nA tela do diÃ¡rio de audio pifa, deixando-lhe na escuridÃ£o, junto com o silencio causado pelas ultimas palavras do mineiro.",
+	"MINER_OUTRO_FLAVOR" : "... ntÃ£o ele se foi, adrenalina correndo por suas veias.",
+	
+	"MINER_PASSIVE_NAME" : "Corrida do Ouro",
+	"MINER_PASSIVE_DESCRIPTION" : "Ganhe <style=cIsHealth>ADRENALINA</style> ao receber ouro, aumentando sua <style=cIsDamage>velocidade de ataque</style>, <style=cIsUtility>velocidade de movimento</style>, e <style=cIsHealing>regeneraÃ§Ã£o de saÃºde</style>.",
+	"KEYWORD_CLEAVING" : "<style=cKeywordName>Lascando</style><style=cSub>Aplica uma penalidade acumulativa, reduzindo a <style=cIsDamage>armadura</style> em <style=cIsHealth>3 por acÃºmulo</style>.</style>",
+	
+	"MINER_PRIMARY_GOUGE_NAME" : "Quebrar",
+	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>Ãgil.</style> Golpeie selvagemente inimigos prÃ³ximos, causando <style=cIsDamage>270% de dano</style>, <style=cIsHealth>lascando</style> suas armaduras.",
+	
+	"MINER_PRIMARY_CRUSH_NAME" : "Esmagar",
+	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>Ãgil.</style> Esmague inimigos prÃ³ximos, causando <style=cIsDamage>360% de dano</style>. <style=cIsUtility>Alcance aumenta com a velocidade de ataque</style>.",
+	
+	"MINER_SECONDARY_CHARGE_NAME" : "Broca Carregada",
+	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "Corra atravÃ©s dos inimigos, causando <style=cIsDamage>6x180% de dano</style>. <style=cIsUtility>Ataques nÃ£o acertarÃ£o vocÃª pela durante a habilidade.</style>",
+	
+	"MINER_SECONDARY_BREAK_NAME" : "Martelo Quebrador",
+	"MINER_SECONDARY_BREAK_DESCRIPTION" : "Realize uma investida, explodindo ao entrar em contato com um inimigo e causando <style=cIsDamage>2x240% de dano</style>. <style=cIsUtility>Ataques nÃ£o acertarÃ£o vocÃª pela durante a habilidade.</style>",
+	
+	"MINER_UTILITY_BACKBLAST_NAME" : "Tiro Traseiro",
+	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>Atordoante.</style> Atire-se para trÃ¡s, causando <style=cIsDamage>600% de dano</style> a inimigos prÃ³ximos. Segure para ir mais longe. <style=cIsUtility>Ataques nÃ£o acertarÃ£o vocÃª pela durante a habilidade.</style>",
+	
+	"MINER_UTILITY_CAVEIN_NAME" : "Desabamento",
+	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>Atordoante.</style> Atire-se para trÃ¡s, <style=cIsUtility>deslocando-se</style> em todos os inimigos em uma grande Ã¡rea. <style=cIsUtility>Ataques nÃ£o acertarÃ£o vocÃª pela durante a habilidade.</style>",
+	
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "Para as Estrelas",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "Salte no ar e acerte os inimigos abaixo, causando <style=cIsDamage>6x300% de dano</style>.",
+	
+	"MINER_SPECIAL_TOTHESTARS_NAME" : "ChuvÃ¡ de Meteoros",
+	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "Salte no ar e e dispare uma rajada de estilhaÃ§os, causando <style=cIsDamage>15x160% de dano</style>.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "Cometa em Queda",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "Salte no ar e e dispare uma rajada de estilhaÃ§os, causando <style=cIsDamage>15x160% de dano</style>, e entÃ£o caia abaixo e crie uma grande expposÃ£o no impacto, causando <style=cIsDamage>1500% de dano</style> e <style=cIsDamage>incendiando</style> inimigos atingidos.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "Salto Estelar",
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Salte no ar e acerte os inimigos abaixo, causando <style=cIsDamage>10x300% de dano</style> total."
+	}
+}

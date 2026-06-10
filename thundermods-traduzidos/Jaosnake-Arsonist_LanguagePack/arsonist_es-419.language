@@ -1,0 +1,30 @@
+POPCORN_ARSONIST_BODY_NAME: Arsonista
+POPCORN_ARSONIST_BODY_SUBTITLE: PirÃ³mano ManÃ­aco
+POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME: Medidor Normal
+POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: Causa <style=cIsDamage>100%</style> de daÃ±o en la porciÃ³n blanca. El Medidor Base es resistente al Sobrecalentamiento.
+POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: Medidor CrÃ­tico
+POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: Causa <style=cIsDamage>70%</style> de daÃ±o en la porciÃ³n blanca y <style=cIsDamage>250%</style> de daÃ±o en la porciÃ³n azul. El calor mÃ¡ximo es fijo.
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME: Dragon's Breath
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: Dispara un rayo de fuego que causa <style=cIsDamage>90% de daÃ±o</style>. Probabilidad de igniciÃ³n aumentada cuanto mÃ¡s cerca del objetivo.
+POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME: Fireball
+POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION: <style=cIsUtility>Calor. </style>Dispara una bola de fuego que causa <style=cIsDamage>225% de daÃ±o e incendia</style> a los enemigos al impactar.
+POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME: Zero Point Blast
+POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>Ãgil. Calor. </style>ImpÃºlsate hacia adelante, explotando enemigos detrÃ¡s de ti por <style=cIsDamage>200% de daÃ±o</style>. Colisionar justo despuÃ©s del lanzamiento con el primer enemigo causa <style=cIsDamage>200% de daÃ±o</style> en una explosiÃ³n circundante.
+POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME: Bengala
+POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: Dispara una bengala que causa <style=cIsDamage>400% de daÃ±o</style> durante 5 segundos, luego explota causando <style=cIsDamage>400% de daÃ±o</style>, lanzando 5 bengalas que causan <style=cIsDamage>200% de daÃ±o</style> cada una.
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME: Masochism
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>Ãgil. Calor. </style>El daÃ±o de ser <style=cIsDamage>incendiado</style> se transforma en <style=cIsHealing>curaciÃ³n</style> por 6.5 segundos. Aumenta la Velocidad de Ataque en <style=cIsDamage>125%</style>.
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME: Masoquismo
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: Al alcanzar el lÃ­mite de <style=cKeywordName>AnticipaciÃ³n</style>, periÃ³dicamente te causas daÃ±o a cambio de <style=cIsHealing>Robo de Vida</style> en Ã¡rea y quemadura. DespuÃ©s de 10 segundos como mÃ¡ximo, <style=cIsDamage>Detona</style>, luego <style=cIsUtility>Sobrecarga</style>.
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME: Despecho
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: Al alcanzar el lÃ­mite de <style=cKeywordName>AnticipaciÃ³n</style>, te mueves mÃ¡s rÃ¡pido y obtienes <style=cKeywordName>Doble Disparo</style> y <style=cIsHealing>Robo de Vida</style>. DespuÃ©s de 10 segundos como mÃ¡ximo, <style=cIsDamage>Detona</style>, luego <style=cIsUtility>Sobrecarga</style>.
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME: Dante's Rebuke
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: Dispara un rayo intenso que causa <style=cIsDamage>140% de daÃ±o</style>. Probabilidad de igniciÃ³n aumentada cuanto mÃ¡s cerca del objetivo. Si se mantiene por 2 segundos o mÃ¡s, dispara un rayo final al soltar para <style=cIsDamage>150% de daÃ±o</style>.
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>AnticipaciÃ³n</style>Por cada 100 de calor perdido y/o ganado, Arsonista gana 1 carga de AnticipaciÃ³n; DespuÃ©s de ganar 5 cargas, puede activar Masoquismo; Las cargas adicionales aumentan el daÃ±o y la duraciÃ³n; Todas las cargas se consumen al final.
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>Detonar</style>Arsonista explota, causando <style=cIsDamage>150% de daÃ±o</style> por la cantidad de Cargas de AnticipaciÃ³n acumuladas.
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL: <style=cKeywordName>Robo de Vida</style>Arsonista cura <style=cIsHealing>18%</style> del daÃ±o causado mientras Masoquismo estÃ© activo.
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL: <style=cKeywordName>Robo de Vida</style>Arsonista cura <style=cIsHealing>5%</style> del daÃ±o causado mientras Despecho estÃ© activo.
+POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>Sobrecalentamiento: Masoquismo</style>Si Arsonista sale de Masoquismo debido a acumulaciÃ³n excesiva de calor, se aplica Sobrecalentamiento EX, reduciendo su Velocidad de Movimiento y DaÃ±o al 70%. Cancelar o dejar que la habilidad siga su curso aplica Sobrecalentamiento, reduciendo su Velocidad de Ataque al 50%.
+POPCORN_ARSONIST_BODY_OVERHEAT_TEXT: Â¡SOBRECALENTAMIENTO!
+POPCORN_ARSONIST_BODY_COOLING_TEXT: Â¡ENFRIANDO...!
+POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT: Â¡SOBRECALENTAMIENTO:EX!

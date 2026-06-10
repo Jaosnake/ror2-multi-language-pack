@@ -1,0 +1,26 @@
+{
+    "ru": {
+        "BOG_MORRIS_BODY_NAME": "Мортициан",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Мортициан — это медленный, но крепкий некромант ближнего боя, который превосходно контролирует территорию с помощью своей армии нежити. <i>Translated by: Jaosnake. Original mod by Bog</i>",
+        "BOG_MORRIS_BODY_SUBTITLE": "Нежить",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..и так он ушёл, его мрачный долг всё ещё не выполнен.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..и так он исчез, наконец обретя покой, которого так желал.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Мастерство",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Подношение Душ",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Гули <style=cIsUtility>активируют свои эффекты при убийстве</style>, когда их убивают.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Удар Лопатой",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Размахнитесь лопатой для <style=cIsDamage>800% урона</style>. Попадание по гулям и надгробиям лопатой вызывает <style=cIsUtility>подбрасывание</style> с <style=cIsDamage>350% урона</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Поднять Мёртвых",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Духовная Связь</style>. Создаёт гуля на земле перед вами. Гули кусают, нанося <style=cIsDamage>150% урона</style>, и плюются <style=cIsDamage>Чумной</style> желчью, нанося <style=cIsDamage>100% урона</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Жертвоприношение",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Подорвите</style> целевого гуля, нанося <style=cIsDamage>700% урона</style>, и <style=cIsHealing>восстановите 15% вашего максимального здоровья</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Надгробие",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Воздвигните Надгробие, которое порождает гуля каждые <style=cIsUtility>10 секунд</style>. Когда гуля убивают, надгробие создаёт <style=cIsDamage>мстительную душу</style> <style=cIsUtility>взрывного</style> типа, которая стреляет в ближайшего врага, нанося <style=cIsDamage>350% урона</style>.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery",
+        "BOG_GHOUL_BODY_NAME": "Гуль",
+        "BOG_TOMBSTONE_BODY_NAME": "Надгробие"
+    }
+}

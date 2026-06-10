@@ -1,0 +1,23 @@
+{
+"tr": {
+"ROB_HENRY_NAME": "Henry",
+"ROB_HENRY_DESCRIPTION": "Henry, düşmanlarını alt etmek için geniş bir silah cephaneliği kullanan yetenekli bir savaşçıdır.<color=#CCD3E0>\n\n< ! > Kılıç iyi bir çok yönlü saldırı aracıyken, Boks Eldivenleri daha güçlü düşmanlara karşı dayak atmak için daha iyidir.\n\n< ! > Tabanca, düşük bekleme süresi ve yüksek hasarıyla güçlü bir hava savardır.\n\n< ! > Takla, agresif kullanımına yardımcı olan kalıcı bir zırh güçlendirmesine sahiptir.\n\n< ! > Bomba, kalabalıkları kolayca temizlemek için kullanılabilir.</color>\n\nOrijinal mod: rob (TheTimesweeper tarafından sürdürülüyor). Çeviri: Jaosnake",
+"ROB_HENRY_SUBTITLE": "Seçilmiş Kişi",
+"ROB_HENRY_LORE": "örnek hikaye",
+"ROB_HENRY_OUTRO_FLAVOR": "..ve böylece ayrıldı, yeni bir kimlik arayışıyla.",
+"ROB_HENRY_OUTRO_FAILURE": "..ve böylece yok oldu, sonsuza dek boş bir sayfa.",
+"ROB_HENRY_MASTERY_SKIN_NAME": "Alternatif",
+"ROB_HENRY_PASSIVE_NAME": "Henry pasifi",
+"ROB_HENRY_PASSIVE_DESCRIPTION": "Örnek metin.\n\nOrijinal mod: rob (TheTimesweeper tarafından sürdürülüyor). Çeviri: Jaosnake",
+"ROB_HENRY_PRIMARY_SLASH_NAME": "Kılıç",
+"ROB_HENRY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Çevik.</style> İleri doğru savurarak <style=cIsDamage>%280 hasar</style> verir.\n\nOrijinal mod: rob (TheTimesweeper tarafından sürdürülüyor). Çeviri: Jaosnake",
+"ROB_HENRY_SECONDARY_GUN_NAME": "Tabanca",
+"ROB_HENRY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Çevik.</style> Bir tabanca ateşleyerek <style=cIsDamage>%420 hasar</style> verir.\n\nOrijinal mod: rob (TheTimesweeper tarafından sürdürülüyor). Çeviri: Jaosnake",
+"ROB_HENRY_UTILITY_ROLL_NAME": "Takla",
+"ROB_HENRY_UTILITY_ROLL_DESCRIPTION": "Kısa bir mesafe yuvarlan, <style=cIsUtility>300 zırh</style> kazan. <style=cIsUtility>Takla sırasında vurulamazsın.</style>\n\nOrijinal mod: rob (TheTimesweeper tarafından sürdürülüyor). Çeviri: Jaosnake",
+"ROB_HENRY_SPECIAL_BOMB_NAME": "Bomba",
+"ROB_HENRY_SPECIAL_BOMB_DESCRIPTION": "Bir bomba fırlatarak <style=cIsDamage>%1600 hasar</style> verir.\n\nOrijinal mod: rob (TheTimesweeper tarafından sürdürülüyor). Çeviri: Jaosnake",
+"ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Ustalık",
+"ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Henry olarak oyunu bitir veya Monsoon zorluğunda obliterate ol."
+}
+}

@@ -1,0 +1,26 @@
+{
+    "ru": {
+        "BOG_DEPUTY_BODY_NAME": "Делегатка",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Делегатка — это гиперагрессивный демон скорости, который вершит правосудие с помощью своих парных револьверов и смертоносных ударов ногами. <i>Translated by: Jaosnake. Original mod by Bog</i>",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Молниеносное Правосудие",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..и так она ушла под звуки громовых аплодисментов.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..и так она исчезла, её представление наконец подошло к концу.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Мастерство",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Неустанное Преследование",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Делегатка может бежать в любом направлении. Попадание по врагам её навыками даёт накапливаемый эффект <style=cIsUtility>скорости передвижения</style>.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Верный Выстрел",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Стреляйте из револьверов средней дальности, нанося <style=cIsDamage>150% урона</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Праща",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Бросьте два револьвера. Каждый револьвер выстрелит в ближайшего врага, нанося <style=cIsDamage>6x100% урона</style>, затем взорвётся, нанося <style=cIsDamage>300% урона</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Падающая Звезда",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Оглушающий</style>. Прыгните вперёд и выстрелите во врага под вами, нанося <style=cIsDamage>4x150% урона</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Сокрушитель Черепов",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Тяжёлый</style>. <style=cIsUtility>Рывок</style> и рикошет от врага, нанося <style=cIsDamage>800% урона</style>. <style=cIsUtility>Убийства сбрасывают перезарядку вашего утилитарного навыка</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Пулевой Рай",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Подпрыгните высоко в воздух и яростно стреляйте пулями вниз, каждая нанося <style=cIsDamage>150% урона</style>. Количество выстрелов масштабируется со скоростью атаки.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+    }
+}

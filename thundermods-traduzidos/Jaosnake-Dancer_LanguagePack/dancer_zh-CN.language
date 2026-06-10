@@ -1,0 +1,17 @@
+NDP_DANCER_BODY_PASSIVE_NAME: é™åˆ¶èƒ¶å¸¦
+NDP_DANCER_BODY_PASSIVE_DESCRIPTION: å¸¦æœ‰èƒ¶å¸¦çš„æ•Œäººæ¯ç§’æµè¡€50%ä¼¤å®³ï¼Œä¸”æ— æ³•è¡ŒåŠ¨ã€‚ <i>Translated by: Jaosnake. Original mod by nayDPz</i>
+PRIMARY_SLASH_NAME: æ–©å‡»
+PRIMARY_SLASH_DESCRIPTION: åŸºäºŽä½ çš„çž„å‡†äº§ç”Ÿä¸åŒæ•ˆæžœçš„è¿‘æˆ˜æ”»å‡»ã€‚ï¼ˆæ‚¬åœæŸ¥çœ‹è¯¦æƒ…ï¼‰
+PRIMARY_SLASH2_NAME: åˆ‡å‰²
+PRIMARY_SLASH2_DESCRIPTION: åŸºäºŽä½ çš„çž„å‡†äº§ç”Ÿä¸åŒæ•ˆæžœçš„è¿‘æˆ˜æ”»å‡»ã€‚ï¼ˆæ‚¬åœæŸ¥çœ‹è¯¦æƒ…ï¼‰
+UTILITY_PULL_NAME: ç‰µå¼•
+UTILITY_PULL_DESCRIPTION: å°†æ•Œäººæ‹‰å‘ä½ ã€‚
+SPECIAL_RIBBON_LOCK_NAME: æŸç¼šèƒ¶å¸¦
+SPECIAL_RIBBON_LOCK_DESCRIPTION: å¯¹æ•Œäººæ–½åŠ èƒ¶å¸¦ï¼Œé˜»æ­¢å…¶è¡ŒåŠ¨å¹¶é€ æˆæµè¡€ã€‚
+KEYWORD_DANCER_JAB: <style=cKeywordName>åˆºæ‹³</style><style=cSub>åœ°é¢è¾“å…¥ï¼Œçž„å‡†å‰æ–¹ã€‚å‘å‰çªè¿›å¹¶é€ æˆ<style=cIsDamage>180%ä¼¤å®³</style>ã€‚
+KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>ä¸‹çŒ›å‡»</style><style=cSub>åœ°é¢è¾“å…¥ï¼Œçž„å‡†ä¸‹æ–¹ã€‚å°†æ•Œäººå‡»é£žå¹¶é€ æˆ<style=cIsDamage>200%ä¼¤å®³</style>ã€‚
+KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>å‰ç©ºå‡»</style><style=cSub>ç©ºä¸­è¾“å…¥ï¼Œçž„å‡†å‰æ–¹ã€‚é‡å‡»é€ æˆ<style=cIsDamage>180%ä¼¤å®³</style>å¹¶å°†æ•Œäººé’‰åœ¨åœ°ä¸Šï¼Œå‡»æ™•å¹¶é€ æˆæœ€å¤š<style=cIsDamage>300%ä¼¤å®³</style>ã€‚
+KEYWORD_DANCER_RIBBON: <style=cKeywordName>èƒ¶å¸¦</style><style=cSub>å¸¦æœ‰èƒ¶å¸¦çš„æ•Œäººæ¯ç§’æµè¡€<style=cIsDamage>50%ä¼¤å®³</style>ä¸”æ— æ³•è¡ŒåŠ¨ã€‚
+NDP_DANCER_BODY_SUBTITLE: è‡´å‘½ä¹‹èˆž
+NDP_DANCER_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+NDP_DANCER_GOLD_SKIN_NAME: é‡‘è‰²

@@ -1,0 +1,11 @@
+{
+    "author": "Jaosnake",
+    "name": "Banshee_LanguagePack",
+    "description": "Multi-language translation pack for Banshee by tsuyoikenko.",
+    "dependencies": [
+        "tsuyoikenko-Banshee-0.9.0",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+}

@@ -1,0 +1,22 @@
+BOG_DEPUTY_BODY_NAME: La Delegada
+BOG_DEPUTY_BODY_SUBTITLE: Justicia RelÃ¡mpago
+BOG_DEPUTY_BODY_DESCRIPTION: La Delegada es un demonio de velocidad hiperagresivo que imparte justicia con sus revÃ³lveres gemelos y sus letales patadas. <i>Translated by: Jaosnake. Original mod by Bog</i>
+
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: Predeterminado
+BOG_DEPUTY_BODY_PASSIVE_NAME: PersecuciÃ³n Incansable
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: La Delegada puede correr en cualquier direcciÃ³n. Golpear enemigos con sus habilidades concede una mejora de <style=cIsUtility>velocidad de movimiento</style> acumulable.
+
+PRIMARY_SHOOT_NAME: Tiro Certero
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispara con revÃ³lveres de alcance medio para <style=cIsDamage>150% de daÃ±o</style>.
+
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Arroja dos revÃ³lveres. <style=cIsDamage>Aturdidor</style>. Salta y dispara a un enemigo debajo de ti para <style=cIsDamage>6x100% de daÃ±o</style>.
+
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispara un tiro preciso que puede angularde ligeramente hacia arriba. Causa <style=cIsDamage>150% de daÃ±o</style>.
+
+SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800% de daÃ±o</style>. <style=cIsUtility>Las muertes reinician el enfriamiento de tu habilidad de utilidad</style>.
+
+SPECIAL_BULLETHEAVEN_DESCRIPTION: Salta alto en el aire y dispara balas furiosamente hacia abajo para <style=cIsDamage>150% de daÃ±o</style>.
+
+MASTERY_SKIN_NAME: Delegada: MaestrÃ­a
+BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..y asÃ­ se fue, al son de un estruendoso aplauso.
+BOG_DEPUTY_BODY_OUTRO_FAILURE: ..y asÃ­ desapareciÃ³, su actuaciÃ³n finalmente llegÃ³ a su fin.

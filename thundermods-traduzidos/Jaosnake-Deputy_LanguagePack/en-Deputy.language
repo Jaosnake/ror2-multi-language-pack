@@ -1,0 +1,26 @@
+{
+    "en": {
+        "BOG_DEPUTY_BODY_NAME": "The Deputy",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "The Deputy is a hyperaggressive speed demon who dispenses justice with her twin revolvers and lethal kicks. <i>Backported from pt-BR. Original mod by Bog. Translated by: Jaosnake</i>",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Lightning Justice",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..and so she left, to the sound of thunderous applause.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..and so she vanished, her performance finally at an end.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Default",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Mastery",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Relentless Pursuit",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "The Deputy can sprint in any direction. Hitting enemies with her skills grants a stackable <style=cIsUtility>movement speed</style> buff.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Sure Shot",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Shoot with medium-range revolvers for <style=cIsDamage>150% damage</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Sling",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Toss two revolvers. Each revolver will shoot a nearby enemy for <style=cIsDamage>6x100% damage</style>, then explode for <style=cIsDamage>300% damage</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Shooting Star",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Leap forward and shoot an enemy below you for <style=cIsDamage>4x150% damage</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Skullbreaker",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Heavy</style>. <style=cIsUtility>Lunge</style> and ricochet off an enemy, dealing <style=cIsDamage>800% damage</style>. <style=cIsUtility>Kills reset your utility skill cooldown</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Bullet Heaven",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Leap high into the air and furiously fire bullets downward, each dealing <style=cIsDamage>150% damage</style>. The number of shots scales with attack speed.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "FR": {
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_DESCRIPTION": "Le Cadet est un artilleur polyvalent qui peut naviguer le combat avec des armes \u00e0 courte port\u00e9e et une mobilit\u00e9 rapide.<color=#CCD3E0>\n\n< ! > Assurez-vous de tirer de pr\u00e8s pour utiliser efficacement votre munition limit\u00e9e sans r\u00e9duire les d\u00e9g\u00e2ts.\n\n< ! > Le Plan C augmente les d\u00e9g\u00e2ts et le rayon avec votre munition actuelle, alors utilisez-le quand votre chargeur est plein.\n\n< ! > Utilisez la Roulade de Rechargement pour \u00e9viter rapidement les d\u00e9g\u00e2ts explosifs et recharger compl\u00e8tement votre chargeur.\n\n< ! > Essayez d'utiliser les Drones \u00c9cho autant que possible, car ils aident \u00e0 \u00e9liminer les ennemis que vous auriez pu manquer en vous d\u00e9pla\u00e7ant. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SUBTITLE": "Tireur d'\u00c9lite Polyvalent",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Par d\u00e9faut",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet : Sp\u00e9cialiste",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Temp\u00eate de Balles",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez un laser pour <style=cIsDamage>60% de d\u00e9g\u00e2ts</style>. N\u00e9cessite <style=cIsUtility>recharge</style> apr\u00e8s 20 balles. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Mar\u00e9es D\u00e9vastatrices",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez une rafale pour <style=cIsDamage>3x100% de d\u00e9g\u00e2ts</style>. N\u00e9cessite <style=cIsUtility>recharge</style> apr\u00e8s 10 projectiles. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Tirez avec votre lance-grenades l\u00e9ger pour <style=cIsDamage>400% de d\u00e9g\u00e2ts</style>. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lancez votre arme infligeant <style=cIsDamage>250% \u00e0 750% de d\u00e9g\u00e2ts</style> selon la munition actuelle. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Recharge Gliss\u00e9e",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Glissez dans une direction, <style=cIsUtility>rechargeant</style> votre arme instantan\u00e9ment. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Roulade de Rechargement",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Roulez dans une direction, <style=cIsUtility>rechargeant</style> votre arme instantan\u00e9ment. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez une rafale lourde de chevrotine pour <style=cIsDamage>32x150% de d\u00e9g\u00e2ts</style>. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones \u00c9cho",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabriquez <style=cIsDamage>deux drones</style> qui cherchent les ennemis proches infligeant <style=cIsDamage>2x370% de d\u00e9g\u00e2ts</style>. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>"
+    }
+}

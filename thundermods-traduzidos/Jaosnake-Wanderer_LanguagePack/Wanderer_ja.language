@@ -1,0 +1,25 @@
+{
+    "ja": {
+        "KENKO_UNFORGIVEN_NAME": "ワンダラー",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "ワンダラーは操作難易度が低く上限が高いサバイバーで、アニメーションキャンセルを使って高いDPSを維持できます。<color=#CCD3E0>\n\n< ! > Swift Strikesの合間にSteel Tempestを使い、ダメージを最大化しましょう。\n\n< ! > Steel Tempestのスタック数を把握しておきましょう。竜巻は敵を一掃する壊滅的なスキルです。\n\n< ! > Sweeping Blade中にSteel Tempestを使うと周囲を斬りつけ、より多くの範囲ダメージを与えます。\n\n< ! > Sweeping Blades + Steel Tempest中にLast Breathを使うと、範囲ダメージをLast Breathの対象にも転送できます。</color>\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "KENKO_UNFORGIVEN_SUBTITLE": "許されざる者",
+        "KENKO_UNFORGIVEN_LORE": "もしヤスオに殺されたなら、それは完全にアウトプレイされたということだ。彼が君のクールダウンと自分のクールダウン、両方のジャングラーの位置、ミニオンの波、そしてレーンの「感覚」をすべて計算に入れて戦いを正確に遂行したということだ。そう、ヤスオに倒されるということは、プレイヤーとしても人間としても自分より優れた存在に出会ったということだ。君の度胸は通用しなかったが、ヤスオ使いは鋼の如く硬く、冷たく、信頼できる存在だ。彼がファーストブラッドを確保し、君が降伏投票を待ち焦がれる間も、彼の頭脳はフル稼働で無限に近い可能性に備えた戦略を練り続けている。さて、俺のLPをいただくとするか。次はちゃんとバンを間違えるなよ。",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..そして彼は去った。10/0で。",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..そして彼は消えた。0/10で。",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "オルタネイト",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "風の道",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "移動中にパッシブな<style=cIsHealing>シールド</style>を蓄積する。最大スタック時に被弾すると<style=cIsHealing>シールド</style>が破壊され、<style=cIsHealing>バリア</style>を獲得する。<style=cIsDamage>クリティカル発生率</style>が<style=cIsDamage>1.5倍</style>に増加する。\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "スウィフトストライク",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "前方を斬りつけ、<style=cIsDamage>240%のダメージ</style>。\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "鋼の嵐",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>スウィフト。</style> 前方を突き、<style=cIsDamage>260%のダメージ</style>。命中時、<color=#FFBF66>嵐の収束</color>のスタックを得る。2スタック時、次の<color=#FFBF66>鋼の嵐</color>は竜巻を放ち、<style=cIsDamage>400%のダメージ</style>。\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "薙ぎ払い",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "敵に向かってダッシュし、<style=cIsDamage>150%のダメージ</style>。各ダッシュ後、次のダッシュに追加で<style=cIsDamage>50%のダメージ</style>が加算される（最大<style=cIsDamage>200%ボーナスダメージ</style>）。\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "ラストブレス",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "対象または近くの<style=cIsUtility>空中</style>の敵にブリンクし、<style=cIsDamage>2x250% + 800%のダメージ</style>の連続攻撃を行う。6秒間<style=cIsDamage>アーマー貫通</style>ボーナスを得る。\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "ファーストブレス",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "対象または近くの<style=cIsUtility>空中</style>の敵にブリンクし、<style=cIsDamage>2x250% + 800%のダメージ</style>の連続攻撃を行う。6秒間<style=cIsDamage>アーマー貫通</style>ボーナスを得る。\n<color=#d299ff>セプター: <style=cIsUtility>セカンダリのクールダウンをリセットする</style>。<color=#FFBF66>ファーストブレス</color>の命中した敵は再び<color=#FFBF66>薙ぎ払い</color>の対象にできる。</color>\n\n元のMod: tsuyoikenko。翻訳: Jaosnake",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "ワンダラー: マスタリー",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "ワンダラーで、モンスーンでゲームクリアまたはオブリタレイトする。"
+    }
+}

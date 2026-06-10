@@ -1,0 +1,12 @@
+KENKO_INTERROGATOR_NAME: Interrogator
+KENKO_INTERROGATOR_SUBTITLE: Torment Specialist
+KENKO_INTERROGATOR_PASSIVE_NAME: Torment
+KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: The Interrogator can hit and be hit by allies and enemies. Attackers who hit the Interrogator are permanently marked as Guilty. Deal 50 more base damage per Guilty enemy.
+KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Swing your baton in front, dealing 320% damage. Missing the attack causes you to suffer 90% damage instead.
+KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Throw a cleaver that deals 450% damage. If the cleaver kills the target, applies Hemorrhage and Pressure on all in the area.
+KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Dash forward dealing 390% damage and applying Guilty on hit targets.
+KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Convict
+KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Mark a Guilty enemy and duel them for 10s. During this period, all external damage is negated, including your own. Your primary attack can no longer hit you, but continuously builds the Guilty damage bonus.
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Convict (Scepter)
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Mark a Guilty enemy and duel them for 14s. During this period, all external damage is negated. Your primary attack can no longer hit you, but builds the Guilty damage bonus at double efficiency.
+MASTERY_SKIN_NAME: Interrogator: Specialist

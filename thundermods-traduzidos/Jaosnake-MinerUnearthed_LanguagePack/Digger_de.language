@@ -1,0 +1,43 @@
+{ "de":
+	{
+	"MINER_NAME" : "Bergarbeiter",
+	"MINER_DESCRIPTION" : "Der Bergarbeiter ist ein agiler und sehr mobiler Ãœberlebender, welcher lange Kill Combos priorisiert, um so Stapel seiner passiven FÃ¤higkeit zu generieren.<color=#CCD3E0>\n\n< ! > Erlangst du eine hohe Anzahl an Adrenalinstapeln, dann sind Hacken und Zermalmen deine beste Option fÃ¼r Schaden.\n\n< ! > Das Aufladen von Bohrer beeinflusst lediglich den Schaden. Ziele auf den Boden oder auf Gegner um konzentrierten Schaden anzurichten.\n\n< ! > Du kannst RÃ¼ckstoÃŸ kurz anklicken um dich Ã¼ber eine kurze Distanz zu bewegen, halte gedrÃ¼ckt um dich weiter zu bewegen..\n\n< ! > Zu den Sternen richtet hÃ¶heren Schaden an groÃŸen Gegnern an",
+	"MINER_SUBTITLE" : "ZerstÃ¶rerischer Adrenalin Junkie",
+	"MINER_LORE" : "\nUnter dem kalten Stahl der Ruinen des Frachters in der friernden KÃ¤lte der Nacht, fÃ¤llt dir ein unschinbares blaues Leuchten eines Logbuchs auf. Das Logbuch im Schutt der Ãœberreste der Fracht und dennoch scheint es funktionsfÃ¤hig zu sein. Die KÃ¶pfe des GerÃ¤tes leuchten auf, als wÃ¼rde es jemanden einladen, den verzehrten EintrÃ¤gen zu lauschen, die immer weiter an Zusammenhang verlieren...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''Erster Eintrag. Datum, Ã¤hhh... Null-FÃ¼nf, Null-Eins, Zwanzig-FÃ¼nfundfÃ¼nzig. Brass entschied sich, uns aus der Mine zu holen. Nach all den ganzen Monaten, nach all dem Blut, Schwe<color=#8990A7>-///////-</color>nd Millionen, die investiert wurden, hÃ¶ren wir einfach so auf? Ku<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''<color=#8990A7>-////////-</color>en es Asteroiden. Ich habe sowas noch nie gesehen. Es war als wÃ¤<color=#8990A7>-////////-</color>es Fraktal... Als wÃ¤re im inneren ein Kaleidoskop. Es muss es wert sein<color=#8990A7>-/////-</color>nd Brass will uns alle umgehend beseitigen. Tja, er kann mich mal am Ar<color=#8990A7>-////-</color>. Und ich werde diese Nach dorthin gehen und den Rest ausgraben... Wenn ich das stemme, denn sind mir die nÃ¤chsten GehÃ¤lter gesichert. Auf so eine MÃ¶glichkeit habe ich gewartet.''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''Ich bin mir sicher, dass sie von allem bescheid wissen. Sie haben angefangen, die Leute zu befragen. Ich habe das Artefakt im Schacht de<color=#8990A7>-//////-</color>, dort sollte es sicher sein. Der Frachter hat die UE<color=#8990A7>-////-</color>e dockt in ein paar Monaten an. Ich muss nur solange durch halten und mich dort verstecken.''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''Sie suchen mich. Es ist nicht mehr lange, bis sie mich finden werden. Versteck mich in der Wand wie eine d<color=#8990A7>-//////-</color>Ratte. Der Frachter ist nicht im Zeitplan. Ich habe alles hierfÃ¼r geopfert. <i>Alles</i>, nur hierfÃ¼r.''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''Irgendwo in der SchiffshÃ¼lle. Niemand kommt hierher. Nicht einmal die Techniker. Bis das Schiff ankommt, sollte ich sicher sein.''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''Schiff lÃ¤sst immer noch auf sich warten. Keine Ahnung wie lange noch.'' <color=#8990A7><Gruntz>.</color> ''Es is qu<color=#8990A7>-//-</color>voll.''\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>ist da, Endlich. Endlich... Muss das Artefakt auf das Schiff bringen. Jedoch sind Ã¼berall SicherheitskrÃ¤ft. SÃ¶ldner...'' <color=#8990A7><UnverstÃ¤ndliche Konversation in der Ferne.></color> ''Ok. Sei Ruhig, Sei ruhig und geh. Heute nacht werde ich gehen.''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>ndwas passiert mid dem Schiff. Frachter fliegt davon. Artefakt ist verloren. Alles ist verloren. . . . Alles verl<color=#8990A7>-//-</color>.''\n\nDer Bildschirm des Logbuchs zerspringt und hinterlÃ¤sst dich in kompletter Dunkelheit, begleitet von betÃ¤ubender Stille, ausgelÃ¶st von den letzten dÃ¼steren Worten des Bergarbeiters",
+	"MINER_OUTRO_FLAVOR" : "..und so ging er fort, adrenaline still rushing through his veins.",
+	
+	"MINER_PASSIVE_NAME" : "Goldrausch",
+	"MINER_PASSIVE_DESCRIPTION" : "Erlange <style=cIsHealth>ADRENALIN</style> beim Aufsammeln von Gold, was die <style=cIsDamage>Angriffsgeschwindigkeit</style>, <style=cIsUtility>Bewegungsgeschwindigkeit</style>, und <style=cIsHealing>Gesundheitsregeneration</style> erhÃ¶ht.",
+	"KEYWORD_CLEAVING" : "<style=cKeywordName>Zerspalten</style><style=cSub>wirkt einen Debuff, welcher die <style=cIsDamage>RÃ¼stung</style> um <style=cIsHealth>3 pro Stapel</style>.</style>",
+	
+	"MINER_PRIMARY_GOUGE_NAME" : "Hacken",
+	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>Flink.</style> Schwinge mit deinen Hacken wild auf Gegner in der NÃ¤he, fÃ¼ge ihnen <style=cIsDamage>270% Schaden</style> zu und <style=cIsHealth>zerspalte</style> ihre RÃ¼stung.",
+	
+	"MINER_PRIMARY_CRUSH_NAME" : "Zermalmen",
+	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>Flink.</style> Zerschmettere Gegner in der NÃ¤he und fÃ¼ge ihnen <style=cIsDamage>360% Schaden</style> zu. <style=cIsUtility>Reichweite erhÃ¶ht sich mit deiner Angriffsgeschwindigkeit</style>.",
+	
+	"MINER_SECONDARY_CHARGE_NAME" : "Bohrer",
+	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "Lade den Bohrer auf und ramme Gegner um bei ihnen <style=cIsDamage>6x180% Schaden</style> anzurichten. <style=cIsUtility>Du kannst wÃ¤hrenddessen nicht getroffen werden.</style>",
+	
+	"MINER_SECONDARY_BREAK_NAME" : "Spalthammer",
+	"MINER_SECONDARY_BREAK_DESCRIPTION" : "StÃ¼rme vorwÃ¤rts und explodiere um <style=cIsDamage>2x240% Schaden</style> bei Kontakt mit Gegnern anzurichten <style=cIsUtility>Du kannst wÃ¤hrenddessen nicht getroffen werden.</style>",
+	
+	"MINER_UTILITY_BACKBLAST_NAME" : "RÃ¼ckstoÃŸ",
+	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>BetÃ¤ubend.</style> Lass dich von einer Explosion nach hinten stoÃŸen und richte bei nahen Gegnern <style=cIsDamage>600% Schaden</style> an. Halte gedrÃ¼ckte um weiter nach hinten gestoÃŸen zu werden. <style=cIsUtility>Du kannst wÃ¤hrenddessen nicht getroffen werden.</style>",
+	
+	"MINER_UTILITY_CAVEIN_NAME" : "Einsturz",
+	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>BetÃ¤ubend.</style> StoÃŸ dich nach hinten, was gegner in einem groÃŸen Radius <style=cIsUtility>zusammenzieht</style>. <style=cIsUtility>Du kannst wÃ¤hrenddessen nicht getroffen werden.</style>",
+	
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "Zu den Sternen",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "StoÃŸ dich in die Luft und fÃ¼ge Gegnern unter dir <style=cIsDamage>6x300% Schaden</style> zu.",
+	
+	"MINER_SPECIAL_TOTHESTARS_NAME" : "Meteorschauer",
+	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "StoÃŸ dich in die Luft und schieÃŸe eine Ladung an Schrappnellen unter dich, welche <style=cIsDamage>15x160% Schaden</style> anrichten.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "Fallender Komet",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "StoÃŸ dich in die Luft und schieÃŸe eine Ladung an Schrappnellen unter dich, welche <style=cIsDamage>15x160% Schaden</style> anrichten. Falle anschliÃŸend herunter und schlage wie ein Komet mit <style=cIsDamage>1500% Schaden</style>ein. <style=cIsDamage>Verbrennt</style>",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "Den Sternen hingezogen",
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>BetÃ¤ubend</style>. StoÃŸ dich in die Luft und fÃ¼ge Gegnern unter dir <style=cIsDamage>10x300% Schaden</style> zu."
+	}
+}

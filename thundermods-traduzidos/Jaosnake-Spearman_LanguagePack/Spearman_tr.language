@@ -1,0 +1,32 @@
+{
+"tr": {
+"SPEARMAN_NAME": "Spearman",
+"SPEARMAN_DESCRIPTION": "Spearman, mızrağını kullanarak yakın mesafede ve uzaktan yıkıcı hasar veren dengeli bir savaşçıdır. Sadece sadık mızrağını kullanarak mutlak gücü arar.\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_SUBTITLE": "Petrichor'un Tanrısı",
+"SPEARMAN_LORE": "Bir zamanlar, Petrichor'un kavrulmuş topraklarında, silinmez bir öfkeyle yanan bir savaşçı vardı. Tanrıların zulmüne tanık olmuş, güçsüzlere zulmeden ilahi varlıkların sonsuz döngüsünü görmüştü. Tek başına, bir tanrıyı öldürmek için yola çıktı; eti delip ruhu parçalayan bir mızrak dövdü. Çatışma dünyaları sarstı ama sonunda ilahi olanın kanı toprağa döküldü. O günden sonra, varlığın kendisine işkence eden bir gezegenin tanrısı olarak bilindi.",
+"SPEARMAN_OUTRO": "..ve böylece ayrıldı, ızdırap dolu bir gezegenin tanrısı.",
+"SPEARMAN_FAIL": "..ve böylece yok oldu, mızrağı sonsuza dek sustu.",
+"SPEARMANBODY_DEFAULT_SKIN_NAME": "Varsayılan",
+"SPEARMANBODY_MASTERY_SKIN_NAME": "Ustalık",
+"SPEARMAN_PASSIVE_NAME": "Savaş Yarası",
+"SPEARMAN_PASSIVE_DESCRIPTION": "Yeteneklerle düşmanlara vurmak onlara Savaş Yaraları zayıflatmasını <style=cIsDamage>bulaştırır</style>, bu onları yavaşlatır ve Spearman'a yük başına <style=cIsDamage>%5 hasar</style> güçlendirmesi sağlar. Ayrıca savaşçı içgüdülerine sahiptir, düşmanlar çok yakın olduğunda daha az hasar alır.\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_M1": "Savaş Duruşu",
+"SPEARMAN_M1_DESCRIPTION": "Menzil dışındaki düşmanlara menzilli saldırı, yakındaki düşmanlara yakın dövüş. Menzilli: Mızrağı fırlatarak <style=cIsDamage>%175 hasar</style> ver. Yakın Dövüş: Mızrağı ileri saplayarak <style=cIsDamage>%300 hasar</style> ver.\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_M2": "Savaşçının Mızrağı",
+"SPEARMAN_M2_DESCRIPTION": "Güçlendirilmiş <style=cIsDamage>delici</style> bir mızrak şarj et, hasar ve mesafeyi artırarak <style=cIsDamage>%300-%1000 hasar</style> ver ve döngüsel zayıflatma uygula (<style=cIsUtility>Donma</style>, <style=cIsHealth>Ateş</style>, <style=cShrine>Elektrik</style>, <style=cDeath>Kanama</style> veya <style=cIsHealing>Zehir</style>).\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_UTIL": "Sıçrama Tekmesi",
+"SPEARMAN_UTIL_DESCRIPTION": "Yerde kay, düşmanları <style=cIsUtility>havaya savur</style>. Bir düşmana vurulursa, havaya tekme atmak için yeniden kullan, <style=cIsDamage>%200 hasar</style> ver.\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_SPEC": "İmha",
+"SPEARMAN_SPEC_DESCRIPTION": "Havaya yükseğe zıpla ve aşağıdaki bir hedef araziyi seç, <style=cIsDamage>%1000 hasar</style> vermek için üzerine çakıl, çarpma anında bir enerji şok dalgası yay.\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_ALTM2": "İlahi Güç",
+"SPEARMAN_ALTM2_DESCRIPTION": "Ölümcül bir mızrak şarj et, hasar ve mesafeyi artırarak <style=cIsDamage>%400-%1500 hasar</style> ver ve düşük canlı düşmanları <style=cDeath>infaz et</style>.\n\nOrijinal mod: SaucySquash. Çeviri: Jaosnake",
+"SPEARMAN_INTERACTABLE_NAME": "Spearman'ın Mızrağı",
+"SPEARMAN_INTERACTABLE_CONTEXT": "Yok et",
+"ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "Izdırap Gezegeni",
+"ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Kafatasına saplanmış silahı al.",
+"ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Ustalık",
+"ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Spearman olarak oyunu bitir veya Monsoon zorluğunda obliterate ol.",
+"ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: Gücü Bilmek",
+"ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Spearman olarak tek bir Warriors Spear kullanımında 10 düşman öldür."
+}
+}

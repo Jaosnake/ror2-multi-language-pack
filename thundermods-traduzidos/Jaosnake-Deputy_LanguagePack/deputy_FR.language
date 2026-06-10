@@ -1,0 +1,22 @@
+BOG_DEPUTY_BODY_NAME: La DÃ©putÃ©e
+BOG_DEPUTY_BODY_SUBTITLE: Justice Ã‰clair
+BOG_DEPUTY_BODY_DESCRIPTION: La DÃ©putÃ©e est un dÃ©mon de vitesse hyperagressif qui rend la justice avec ses revolvers jumeaux et ses coups de pied mortels. <i>Translated by: Jaosnake. Original mod by Bog</i>
+
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: Par dÃ©faut
+BOG_DEPUTY_BODY_PASSIVE_NAME: Poursuite Implacable
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: La DÃ©putÃ©e peut courir dans n'importe quelle direction. Toucher des ennemis avec ses compÃ©tences accorde un bonus de <style=cIsUtility>vitesse de dÃ©placement</style> cumulable.
+
+PRIMARY_SHOOT_NAME: Tir SÃ»r
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez avec des revolvers Ã  portÃ©e moyenne pour <style=cIsDamage>150% de dÃ©gÃ¢ts</style>.
+
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>Agile</style>. Lancez deux revolvers. <style=cIsDamage>Ã‰tourdissant</style>. Sautez et tirez sur un ennemi en dessous de vous pour <style=cIsDamage>6x100% de dÃ©gÃ¢ts</style>.
+
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez un tir prÃ©cis pouvant Ãªtre lÃ©gÃ¨rement inclinÃ© vers le haut. Inflige <style=cIsDamage>150% de dÃ©gÃ¢ts</style>.
+
+SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800% de dÃ©gÃ¢ts</style>. <style=cIsUtility>Les Ã©liminations rÃ©initialisent le temps de recharge de votre compÃ©tence utilitaire</style>.
+
+SPECIAL_BULLETHEAVEN_DESCRIPTION: Sautez haut dans les airs et tirez furieusement des balles vers le bas pour <style=cIsDamage>150% de dÃ©gÃ¢ts</style>.
+
+MASTERY_SKIN_NAME: DÃ©putÃ©e : MaÃ®trise
+BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..et ainsi elle partit, sous un tonnerre d'applaudissements.
+BOG_DEPUTY_BODY_OUTRO_FAILURE: ..et ainsi elle disparut, sa performance enfin terminÃ©e.

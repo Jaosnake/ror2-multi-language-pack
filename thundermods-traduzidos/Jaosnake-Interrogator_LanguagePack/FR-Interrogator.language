@@ -1,0 +1,23 @@
+{
+    "FR": {
+        "KENKO_INTERROGATOR_NAME": "Interrogateur",
+        "KENKO_INTERROGATOR_DESCRIPTION": "L'Interrogateur se d\u00e9lecte de la souffrance des autres. Ne vous amusez pas trop \u00e0 blesser vos alli\u00e9s... ou si.\n\n< ! > Soyez touch\u00e9 par des ennemis, des alli\u00e9s et m\u00eame vous-m\u00eame pour gagner des attributs bonus. Personne n'est en s\u00e9curit\u00e9.\n\n< ! > Si vous avez des objets qui se d\u00e9clenchent en \u00e9tant touch\u00e9, utilisez M\u00eal\u00e9e pour vous infliger une H\u00e9morragie. Pas de douleur, pas de gain.\n\n< ! > Falsifier est un excellent moyen de forcer les ennemis \u00e0 \u00eatre marqu\u00e9s comme Coupables. Antith\u00e9tique? Qu'entendez-vous par l\u00e0?\n\n< ! > Condamnez une cible Coupable pour vous assurer qu'elle soit punie pour ses actes. Coupable jusqu'\u00e0 preuve d'innocence, apr\u00e8s tout. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Sp\u00e9cialiste du Tourment",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..et ainsi il partit, impatient d'appliquer plus de \"justice\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..et ainsi il disparut, puni pour ses crimes.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Par d\u00e9faut",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogateur : Sp\u00e9cialiste",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tourment",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "L'Interrogateur peut toucher et \u00eatre touch\u00e9 par ses alli\u00e9s et ennemis. Les attaquants qui touchent l'Interrogateur sont marqu\u00e9s en permanence comme Coupables. Infligez 5% de d\u00e9g\u00e2ts suppl\u00e9mentaires par ennemi Coupable. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Coup Brutal",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Balancez votre matraque devant vous, infligeant <style=cIsDamage>320% de d\u00e9g\u00e2ts</style>. Rater l'attaque vous fait subir <style=cIsDamage>des d\u00e9g\u00e2ts</style> \u00e0 la place. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "M\u00eal\u00e9e",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lancez un couperet qui inflige <style=cIsDamage>450% de d\u00e9g\u00e2ts</style>. <style=cIsDamage>Assassin.</style> Si le couperet tue la cible, applique H\u00e9morragie et Pression sur tous dans la zone. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsifier",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Avancez rapidement infligeant <style=cIsDamage>390% de d\u00e9g\u00e2ts</style> et appliquant Coupable aux cibles touch\u00e9es. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condamner",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duel avec un ennemi Coupable pendant 10 secondes. Votre primaire ne vous touche plus et accorde un cumul de Coupable en touchant. Pendant le duel, les d\u00e9g\u00e2ts externes vous sont annul\u00e9s, mais les d\u00e9g\u00e2ts aux autres ennemis que la cible sont \u00e9galement annul\u00e9s. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duel avec un ennemi Coupable pendant 10 secondes. Votre primaire ne vous touche plus et accorde un cumul de Coupable en touchant. Pendant le duel, les d\u00e9g\u00e2ts externes vous sont annul\u00e9s, mais les d\u00e9g\u00e2ts aux autres ennemis sont r\u00e9duits de 75%. <i>Translated by: Jaosnake. Original mod by tsuyoikenko</i>"
+    }
+}

@@ -1,0 +1,23 @@
+{"ru": {
+  "KENKO_UNFORGIVEN_NAME": "Странник",
+  "KENKO_UNFORGIVEN_DESCRIPTION": "Странник — выживший с низким порогом входа и высоким пределом мастерства, способный использовать отмену анимаций для поддержания высокого ДПС.<color=#CCD3E0>\n\n< ! > Используйте Стальную Бурю между Стремительными Ударами, чтобы максимизировать урон.\n\n< ! > Следите за зарядами Стальной Бури — её смерч может стать разрушительным умением для зачистки врагов.\n\n< ! > Использование Стальной Бури во время Разящего Клинка наносит удары по кругу, увеличивая АОЕ-урон.\n\n< ! > Использование Последнего Вздоха во время Разящего Клинка + Стальной Бури позволяет перенести АОЕ-урон на цели Последнего Вздоха.</color>\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake",
+  "KENKO_UNFORGIVEN_SUBTITLE": "Непрощённый",
+  "KENKO_UNFORGIVEN_LORE": "Если ты умер от Ясуо, тебя переиграли. Это значит, что он должен был просчитать и исполнить бой в точности по своим условиям, учитывая твои кулдауны и свои, позиции обоих лесников, волны крипов и общее ощущение линии (способность, оттачиваемая годами, возможно десятилетиями того, что вы называете просто игрой). Воистину, быть побеждённым Ясуо — значит осознать, что ты встретил превосходящего тебя и как игрока, и как человека. Твой дух подвёл тебя, но игрок на Ясуо — твёрдая сталь — жёсткая, холодная, надёжная — и пока он получает первую кровь, а ты тревожно ждёшь голосования о капитуляции, его разум всё ещё работает на полную мощность, готовя стратегии для почти бесконечного числа возможностей. Я забираю свои LP, позаботься о правильных банах в следующий раз.",
+  "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..и он ушёл, 10/0.",
+  "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..и он исчез, 0/10.",
+  "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Альтернативный",
+  "KENKO_UNFORGIVEN_PASSIVE_NAME": "Путь Ветра",
+  "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Накапливает пассивный <style=cIsHealing>щит</style> во время движения. При попадании на максимальных зарядах <style=cIsHealing>щит</style> ломается и даёт <style=cIsHealing>барьер</style>. <style=cIsDamage>Шанс критического удара</style> увеличен в <style=cIsDamage>1.5 раза</style>.\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake.",
+  "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Стремительные Удары",
+  "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Рубящий удар перед собой, наносящий <style=cIsDamage>240% урона</style>.\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake.",
+  "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Стальная Буря",
+  "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Быстрое.</style> Выпад вперёд, наносящий <style=cIsDamage>260% урона</style>. При попадании даёт заряд <color=#FFBF66>Собирающейся Бури</color>. При 2 зарядах следующая <color=#FFBF66>Стальная Буря</color> выпускает смерч, наносящий <style=cIsDamage>400% урона</style>.\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake.",
+  "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Разящий Клинок",
+  "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Рывок к врагу, наносящий <style=cIsDamage>150% урона</style>. После каждого рывка следующий наносит дополнительные <style=cIsDamage>50% урона</style>, вплоть до максимума в <style=cIsDamage>200% бонусного урона</style>.\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake.",
+  "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "Последний Вздох",
+  "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Мгновенное перемещение к выбранному или ближайшему <style=cIsUtility>воздушному</style> врагу с серией быстрых атак на <style=cIsDamage>2x250% + 800% урона</style>. Даёт бонусное <style=cIsDamage>пробивание брони</style> на 6 секунд.\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake.",
+  "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Первый Вздох",
+  "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Мгновенное перемещение к выбранному или ближайшему <style=cIsUtility>воздушному</style> врагу с серией быстрых атак на <style=cIsDamage>2x250% + 800% урона</style>. Даёт бонусное <style=cIsDamage>пробивание брони</style> на 6 секунд.\n<color=#d299ff>СКИПЕТР: <style=cIsUtility>Сбрасывает кулдаун вторичного умения</style>. Враги, поражённые <color=#FFBF66>Первым Вздохом</color>, могут быть снова выбраны целью для <color=#FFBF66>Разящего Клинка</color>.</color>\n\nОригинальный мод: tsuyoikenko. Перевод: Jaosnake.",
+  "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Странник: Мастерство",
+  "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "За Странника пройдите игру или уничтожьтесь на Муссоне."
+}}

@@ -1,0 +1,25 @@
+{
+    "es-419": {
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "El Wanderer es un sobreviviente de bajo piso de habilidad y alto techo que puede usar cancelaciones de animación para mantener su daño alto.<color=#CCD3E0>\n\n< ! > Usa Tempestad de Acero entre Golpes Veloces para maximizar tu daño.\n\n< ! > Lleva un registro de tus acumulaciones de Tempestad de Acero, ya que su tornado puede ser una habilidad devastadora para eliminar enemigos.\n\n< ! > Usar Tempestad de Acero durante Hoja Barredora corta en círculo, permitiendo más daño en área.\n\n< ! > Usar Último Aliento durante Hoja Barredora + Tempestad de Acero permite transferir el daño en área a los objetivos del Último Aliento.</color>\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "KENKO_UNFORGIVEN_SUBTITLE": "El Imperdonable",
+        "KENKO_UNFORGIVEN_LORE": "si mueres contra yasuo, fuiste superado. significa que él tuvo que calcular (y ejecutar) la pelea exactamente según sus especificaciones, teniendo en cuenta tus tiempos de recarga y los suyos, la posición de ambos junglas, las oleadas de súbditos y la sensación general del carril (una habilidad que debe perfeccionarse durante años, tal vez décadas de lo que llamas meramente \"jugar\"). De hecho, ser derrotado por yasuo es darte cuenta de que has encontrado a tu superior, tanto como jugador como hombre. Tu temple falló, pero el jugador de yasuo es acero sólido -duro, frío, confiable- y mientras él asegura la primera sangre y tú esperas ansiosamente la votación de rendición, su mente aún opera a plena capacidad preparando estrategias para un número casi infinito de posibilidades. Me llevaré mis PL ahora, asegúrate de hacer tus baneos correctamente la próxima vez.",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..y así se fue, 10/0.",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..y así desapareció, 0/10.",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Alternativo",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "Camino del Viento",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Acumula un <style=cIsHealing>escudo</style> pasivo mientras te mueves. Al ser golpeado con acumulaciones máximas, el <style=cIsHealing>escudo</style> se rompe y otorga una <style=cIsHealing>barrera</style>. La <style=cIsDamage>Probabilidad de Golpe Crítico</style> aumenta en <style=cIsDamage>1,5x</style>.\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Golpes Veloces",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Corta al frente causando <style=cIsDamage>240% de daño</style>.\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Tempestad de Acero",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Veloz</style>. Apuñala al frente causando <style=cIsDamage>260% de daño</style>. Al acertar, gana una acumulación de <color=#FFBF66>Tormenta Acumulada</color>. Con 2 acumulaciones, tu próxima <color=#FFBF66>Tempestad de Acero</color> lanzará un tornado causando <style=cIsDamage>400% de daño</style>.\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Hoja Barredora",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Avanza hacia un enemigo causando <style=cIsDamage>150% de daño</style>. Después de cada avance, tu próximo avance causará <style=cIsDamage>50% de daño</style> adicional hasta un límite de <style=cIsDamage>200% de daño adicional</style>.\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "Último Aliento",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Teletranspórtate a un enemigo <style=cIsUtility>aéreo</style> cercano o marcado y ataca rápidamente causando <style=cIsDamage>2x250% + 800% de daño</style>. Gana <style=cIsDamage>penetración de armadura</style> adicional por 6 segundos.\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Primer Aliento",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teletranspórtate a un enemigo <style=cIsUtility>aéreo</style> cercano o marcado y ataca rápidamente causando <style=cIsDamage>2x250% + 800% de daño</style>. Gana <style=cIsDamage>penetración de armadura</style> adicional por 6 segundos.\n<color=#d299ff>CETRO: <style=cIsUtility>Restablece el tiempo de recarga de tu habilidad secundaria</style>. Los enemigos golpeados por <color=#FFBF66>Primer Aliento</color> pueden ser objetivos de <color=#FFBF66>Hoja Barredora</color> nuevamente.</color>\n\nMod original por tsuyoikenko. Traducido por: Jaosnake",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Maestría",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Wanderer, vence el juego u oblitera en Monzón."
+    }
+}

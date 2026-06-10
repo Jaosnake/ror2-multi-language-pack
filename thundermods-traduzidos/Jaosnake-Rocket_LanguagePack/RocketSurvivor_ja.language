@@ -1,0 +1,53 @@
+{ "ja":
+	{
+	"MOFFEIN_ROCKET_BODY_NAME" : "ç«ç®­æ‰‹",
+	"MOFFEIN_ROCKET_BODY_SUBTITLE" : "éœ‡æ’¼ä¸Žæ•¬ç•",
+	"MOFFEIN_ROCKET_BODY_LORE" : "ç®€ä»‹ï¼šç«ç®­æ‰‹ç”Ÿæ¥ä¾¿æœ‰ä¸€ç§ç‰¹æ®Šçš„åŠ›é‡...",
+	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "ç«ç®­æ‰‹æ˜¯ä¸€ä½é«˜æœºåŠ¨çš„çˆ†ç ´ä¸“å®¶ï¼Œå¯ä»¥é€ æˆæ¯ç­æ€§çš„åŒºåŸŸæ‰“å‡»ã€‚<style=cSub>\r\n\r\n< ! >çˆ†ç‚¸è·³ç»å¸¸ç”¨äºŽå¿«é€Ÿçš„æ¨ªè·¨åœ°å›¾æˆ–é€ƒç¦»å±é™©ï¼\r\n\r\n< ! >ä½ çš„ç«ç®­å‘å°„å™¨å¯¹æ•Œäººæœ‰å¾ˆå¼ºçš„å†²å‡»åŠ›ï¼Œç”¨è¿™ä¸ªæŠŠä»–ä»¬ä»Žå²©æž¶ä¸Šæ•²ä¸‹æ¥ã€‚\r\n\r\n< ! >é¥æŽ§å¼•çˆ†å™¨å¯¹æ‰“å‡»é£žè¡Œä¸­çš„æ•Œäººå¾ˆæœ‰ç”¨ï¼Œä¹Ÿå¯ä»¥ç”¨æ¥è¾…åŠ©æœºåŠ¨ã€‚\r\n\r\n< ! >ç¡åŸºç‚¸è¯åœ¨èŒƒå›´ä¼¤å®³ä¸Žè¾…åŠ©æœºåŠ¨æ–¹é¢å‡è¡¨çŽ°ä¸ä¿—ã€‚\r\n\r\n< ! >å¿«é€Ÿé‡è£…å¯ç”¨äºŽè·³è¿‡ä½ é‚£ç«ç®­å‘å°„å™¨æ¼«é•¿çš„è£…å¼¹æ—¶é—´ã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "...äºŽæ˜¯ä»–ç¦»å¼€äº†ï¼Œå†æ¬¡å¼¹å°„èµ·é£žã€‚",
+	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "...äºŽæ˜¯ä»–æ¶ˆå¤±äº†ï¼Œä¸å†è§¦ç¢°åœ°é¢ã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_PASSIVE_NAME" : "å‘å°„ï¼<color=#8888>(èµ°ä½ ï¼)</color>",
+	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "ä½ çš„çˆ†ç‚¸ç‰©å¯ä»¥ç”¨äºŽ<style=cIsUtility>çˆ†ç‚¸è·³</style>ã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "HG4ç«ç®­å‘å°„å™¨",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>. å‘å°„ä¸€æžšç«ç®­å¼¹ï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚æœ€å¤šå¯æŒæœ‰4æžšã€‚",
+	
+	
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "HG4åœ°ç©ºå¯¼å¼¹å‘å°„å™¨",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚å‘å°„ä¸€æžš<style=cIsUtility>çƒ­è¿½è¸ª</style>å¯¼å¼¹ï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>çš„<style=cIsHealth>è¾ƒå°èŒƒå›´çˆ†ç‚¸</style>ã€‚æœ€å¤šå¯æŒæœ‰4æžšã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_SECONDARY_NAME" : "é¥æŽ§å¼•çˆ†å™¨",
+	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "å¼•çˆ†<style=cIsDamage>æ‰€æœ‰çˆ†ç‚¸ç‰©</style>ã€‚è¢«å¼•çˆ†çš„<style=cIsDamage>é£žå¼¹</style>èŽ·å¾—é¢å¤–<style=cIsDamage>50%</style>çš„<style=cIsDamage>ä¼¤å®³</style>ä¸Ž<style=cIsDamage>çˆ†ç‚¸åŠå¾„</style>æå‡ã€‚\n<color=#8888>(è¯‘è€…æ³¨ï¼šç­‰æ•ˆäºŽ1.5x)</color>",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_NAME" : "ç¡åŸºç‚¸è¯",
+	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>çœ©æ™•</style>ã€‚æ‰”å‡ºä¸€ä¸ªç‚¸è¯åŒ…ã€‚ä½¿ç”¨<style=cIsDamage>é¥æŽ§å¼•çˆ†å™¨</style>è¿›è¡Œå¼•çˆ†å¹¶é€ æˆ<style=cIsDamage>1200%ä¼¤å®³</style>ã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME" : "è½°ç‚¸è¡ŒåŠ¨<color=#8888>(èˆžé“²é˜¶çº§)</color>",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>é‡åž‹</style>ã€‚<style=cIsDamage>çœ©æ™•</style>ã€‚å°†çˆ†ç ´é“²æŒ¥å‘ä¸€åæ•Œäººï¼Œé€ æˆ<style=cIsDamage>1200%ä¼¤å®³</style>ã€‚è‹¥è§¦å‘<style=cIsUtility>çˆ†ç‚¸è·³</style>åˆ™é€ æˆ<style=cIsDamage>æš´å‡»</style>ã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME" : "è½°ç‚¸è¡ŒåŠ¨<color=#8888>(å¤§æ»¡è´¯)</color>",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION" : "<style=cIsUtility>é‡åž‹</style>ã€‚<style=cIsDamage>çœ©æ™•</style>ã€‚å°†çˆ†ç ´é“²æŒ¥å‘ä¸€åæ•Œäººï¼Œé€ æˆ<style=cIsDamage>1800%ä¼¤å®³</style>ã€‚è‹¥è§¦å‘<style=cIsUtility>çˆ†ç‚¸è·³</style>åˆ™é€ æˆ<style=cIsDamage>æš´å‡»</style>ã€‚",
+	
+	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "å¿«é€Ÿé‡è£…",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "ç«‹å³<style=cIsDamage>å‘å°„4æžšç«ç®­å¼¹</style>, éšåŽ<style=cIsUtility>é‡è£…å¡«ä½ çš„æ­¦å™¨</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "ç«ç®­é£Žæš´",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "ç«‹å³<style=cIsDamage>å‘å°„10æžšç«ç®­å¼¹</style>, éšåŽ<style=cIsUtility>é‡è£…å¡«ä½ çš„æ­¦å™¨</style>.",
+	
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Rocket: Speed is Life",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+	
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Rocket: Pogo",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "As Rocket, blast jump 10 times in a row without touching the ground.",
+
+	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "åºžå·´è¿ª",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Rocket: Mastery",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Monsoon.",
+	
+	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "æ¸¸éª‘å…µ",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Rocket: Grand Mastery",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
+	}
+}

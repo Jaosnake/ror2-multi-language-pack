@@ -1,0 +1,25 @@
+{
+    "fr": {
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "Le Wanderer est un survivant facile à prendre en main mais difficile à maîtriser qui peut utiliser des annulations d'animation pour maintenir ses DPS élevés.<color=#CCD3E0>\n\n< ! > Utilisez Tempête d'Acier entre Frappes Rapides pour maximiser vos dégâts.\n\n< ! > Gardez une trace de vos cumuls de Tempête d'Acier car sa tornade peut être une compétence dévastatrice pour éliminer les ennemis.\n\n< ! > Utiliser Tempête d'Acier pendant Lame Balayante tranche en cercle permettant plus de dégâts de zone.\n\n< ! > Utiliser Dernier Souffle pendant Lame Balayante + Tempête d'Acier vous permet de transférer les dégâts de zone aux cibles de Dernier Souffle.</color>\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "KENKO_UNFORGIVEN_SUBTITLE": "L'Impitoyable",
+        "KENKO_UNFORGIVEN_LORE": "Si tu meurs contre Yasuo, tu t'es fait surclasser. Cela signifie qu'il a dû calculer (et exécuter) le combat exactement selon ses spécifications, en tenant compte de tes temps de recharge et des siens, de la position des deux junglers, des vagues de sbires et du 'ressenti' général de la voie (une compétence qui doit être aiguisée au fil d'années, voire de décennies de ce que tu appelles simplement 'gaming'). En effet, être vaincu par Yasuo, c'est réaliser que tu as trouvé ton maître, à la fois en tant que joueur et en tant qu'homme. Ton courage t'a fait défaut, mais le joueur de Yasuo est d'acier massif -dur, froid, fiable- et alors qu'il s'assure le premier sang et que tu attends anxieusement le vote de reddition, son esprit fonctionne encore à pleine capacité, préparant des stratégies pour un nombre quasi infini de possibilités. Je vais prendre mes LP maintenant, assure-toi de bien faire tes bans la prochaine fois.",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..et ainsi il partit, 10/0.",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..et ainsi il disparut, 0/10.",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Alternatif",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "Voie du Vent",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Accumule un <style=cIsHealing>bouclier</style> passif en vous déplaçant. Lorsque touché au maximum de cumuls, le <style=cIsHealing>bouclier</style> se brise et confère une <style=cIsHealing>barrière</style>. Les <style=cIsDamage>Chances de Coup Critique</style> sont augmentées de <style=cIsDamage>1,5x</style>.\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Frappes Rapides",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Tranche devant pour <style=cIsDamage>240% de dégâts</style>.\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Tempête d'Acier",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Rapide.</style> Frappe en avant pour <style=cIsDamage>260% de dégâts</style>. En touchant, gagnez un cumul de <color=#FFBF66>Tempête Imminente</color>. À 2 cumuls, votre prochaine <color=#FFBF66>Tempête d'Acier</color> tirera une tornade infligeant <style=cIsDamage>400% de dégâts</style>.\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Lame Balayante",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Foncez vers un ennemi infligeant <style=cIsDamage>150% de dégâts</style>. Après chaque ruée, votre prochaine ruée infligera <style=cIsDamage>50% de dégâts</style> supplémentaires jusqu'à un maximum de <style=cIsDamage>200% de dégâts bonus</style>.\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "Dernier Souffle",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Téléportez-vous vers un ennemi <style=cIsUtility>aérien</style> ciblé ou proche et attaquez rapidement pour <style=cIsDamage>2x250% + 800% de dégâts</style>. Gagnez un bonus de <style=cIsDamage>pénétration d'armure</style> pendant 6 secondes.\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Premier Souffle",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Téléportez-vous vers un ennemi <style=cIsUtility>aérien</style> ciblé ou proche et attaquez rapidement pour <style=cIsDamage>2x250% + 800% de dégâts</style>. Gagnez un bonus de <style=cIsDamage>pénétration d'armure</style> pendant 6 secondes.\n<color=#d299ff>SCEPTER : <style=cIsUtility>Réinitialise le temps de recharge de votre compétence secondaire</style>. Les ennemis touchés par <color=#FFBF66>Premier Souffle</color> peuvent être ciblés par <color=#FFBF66>Lame Balayante</color> à nouveau.</color>\n\nMod original par tsuyoikenko. Traduit par: Jaosnake",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer : Maîtrise",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que Wanderer, terminez le jeu ou obliterez en Mousson."
+    }
+}

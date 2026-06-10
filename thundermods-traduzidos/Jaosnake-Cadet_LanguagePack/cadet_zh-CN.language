@@ -1,0 +1,19 @@
+KENKO_CADET_NAME: å†›æ ¡ç”Ÿ
+KENKO_CADET_SUBTITLE:  versatile å°„æ‰‹
+KENKO_CADET_MASTERY_SKIN_NAME: å†›æ ¡ç”Ÿï¼šä¸“å®¶
+PRIMARY_SMG_NAME: å†²é”‹æžª
+PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>æ•æ·</style>ã€‚ç”¨å†²é”‹æžªå¿«é€Ÿå°„å‡»ï¼Œæ¯æžªé€ æˆ<style=cIsDamage>60%ä¼¤å®³</style>ã€‚
+PRIMARY_SHOTGUN_NAME: éœ°å¼¹æžª
+PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>æ•æ·</style>ã€‚ç”¨éœ°å¼¹æžªå°„å‡»é€ æˆ<style=cIsDamage>100%ä¼¤å®³</style>ã€‚
+SECONDARY_GRENADE_NAME: æ‰‹æ¦´å¼¹
+SECONDARY_GRENADE_DESCRIPTION: æŠ•æŽ·ä¸€é¢—æ‰‹æ¦´å¼¹ï¼Œé€ æˆ<style=cIsDamage>400%ä¼¤å®³</style>ã€‚
+SECONDARY_THROWGUN_NAME: æŠ•æŽ·æ­¦å™¨
+SECONDARY_THROWGUN_DESCRIPTION: æŠ•æŽ·å½“å‰æ­¦å™¨é€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚
+UTILITY_SLIDE_NAME: æ»‘é“²
+UTILITY_SLIDE_DESCRIPTION: æœä¸€ä¸ªæ–¹å‘æ»‘é“²ï¼Œ<style=cIsUtility>ç«‹å³è£…å¡«</style>æ­¦å™¨ã€‚
+UTILITY_ROLLOAD_NAME: æˆ˜æœ¯ç¿»æ»š
+UTILITY_ROLLOAD_DESCRIPTION: æœä¸€ä¸ªæ–¹å‘ç¿»æ»šï¼Œè£…å¡«æ­¦å™¨ã€‚
+SPECIAL_ECHO_NAME: å›žéŸ³
+SPECIAL_ECHO_DESCRIPTION: å‘å°„å£°æ³¢æ— äººæœºï¼Œåœ¨æ•Œäººä¹‹é—´å¼¹è·³ï¼Œé€ æˆ<style=cIsDamage>350%ä¼¤å®³</style>å¹¶å‡é€Ÿã€‚
+SPECIAL_ULTRA_NAME: ç©¶æž
+SPECIAL_ULTRA_DESCRIPTION: å‘å°„å¼ºå¤§çš„èƒ½é‡å†²å‡»æ³¢ï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚

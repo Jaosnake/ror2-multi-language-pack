@@ -1,0 +1,47 @@
+{ "zh-CN":
+	{
+	"MINERBODY_DEFAULT_SKIN_NAME" : "é»˜è®¤",
+	"MINERBODY_MOLTEN_SKIN_NAME" : "ç†”èž",
+	"MINERBODY_TYPHOON_SKIN_NAME" : "å¾æœè€…",
+	"MINERBODY_PUPLE_SKIN_NAME" : "ç´«æ™¶",
+	"MINERBODY_TUNDRA_SKIN_NAME" : "å†»åŽŸ",
+	"MINERBODY_BLACKSMITH_SKIN_NAME" : "é“åŒ ",
+	"MINERBODY_IRON_SKIN_NAME" : "é“",
+	"MINERBODY_GOLD_SKIN_NAME" : "é‡‘",
+	"MINERBODY_DIAMOND_SKIN_NAME" : "é’»çŸ³",
+	"MINERBODY_STEVE_SKIN_NAME" : "æˆ‘çš„ä¸–ç•Œ",
+	"MINERBODY_DRIP_SKIN_NAME" : "æº¢æ»¡",
+	
+	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Grand Mastery",
+	"MINER_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Grand Mastery",
+	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
+	
+	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Mastery",
+	"MINER_MONSOONUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Mastery",
+	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, beat the game or obliterate on Monsoon.",
+	
+	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Pillaged Gold",
+	"MINER_CRUSHUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Pillaged Gold",
+	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, apply 12 stacks of cleave to the unique guardian of Gilded Coast.",
+	
+	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Junkie",
+	"MINER_CRACKUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Junkie",
+	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, gain 50 stacks of Adrenaline.",
+	
+	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Compacted",
+	"MINER_CAVEINUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Compacted",
+	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, hit 20 enemies with one Backblast.",
+	
+	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: The Five Keys",
+	"MINER_PUPLEUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: The Five Keys",
+	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, Discover G-N-O-M-E's debugging secret.",
+	
+	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Frozen",
+	"MINER_TUNDRAUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Frozen",
+	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, reach Rallypoint Delta in under 8 minutes.",
+	
+	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_NAME" : "Miner: Tempered",
+	"MINER_BLACKSMITHUNLOCKABLE_UNLOCKABLE_NAME" : "Miner: Tempered",
+	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_DESC" : "As Miner, find a smithing tool on the planet."
+	}
+}
