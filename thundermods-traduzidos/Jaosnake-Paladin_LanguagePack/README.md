@@ -42,3 +42,5 @@ Multi-language translation pack for **PaladinMod** by **Paladin_Alliance**.
 
 ## Issues / Feedback
 For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues
+
+> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.

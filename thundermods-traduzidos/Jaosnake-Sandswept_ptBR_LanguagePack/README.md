@@ -27,3 +27,5 @@ Translations by Jaosnake.
 
 ## Problemas / Feedback
 Para problemas ou sugestões de tradução, abra um ticket em https://github.com/Jaosnake/ror2-multi-language-pack/issues
+
+> **Nota**: O tempo de carregamento do jogo pode aumentar ligeiramente devido ao processamento adicional dos pacotes de idioma durante a inicializacao.

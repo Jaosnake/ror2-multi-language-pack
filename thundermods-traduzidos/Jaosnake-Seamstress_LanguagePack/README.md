@@ -43,3 +43,5 @@ Multi-language translation pack for **Seamstress** by **tsuyoikenko**.
 
 ## Issues / Feedback
 For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues
+
+> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.
