@@ -1,7 +1,7 @@
 ﻿{
     "author":  "Jaosnake",
     "name":  "TheHouse_LanguagePack",
-    "description":  "Multi-language translation pack for TheHouse by JavAngle. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "description":  "Multi-language translation pack for TheHouse by JavAngle.",
     "dependencies":  [
                          "JavAngle-TheHouse-2.3.2",
                          "RiskofThunder-R2API_Language-1.1.0"

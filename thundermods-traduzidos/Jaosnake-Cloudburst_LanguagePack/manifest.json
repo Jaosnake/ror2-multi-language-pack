@@ -1,7 +1,7 @@
 ﻿{
     "author":  "Jaosnake",
     "name":  "Cloudburst_LanguagePack",
-    "description":  "Multi-language translation pack for Cloudburst by TeamCloudburst. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "description":  "Multi-language translation pack for Cloudburst by TeamCloudburst.",
     "dependencies":  [
                          "TeamCloudburst-Cloudburst-0.4.5",
                          "RiskofThunder-R2API_Language-1.1.0"

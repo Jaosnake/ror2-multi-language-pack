@@ -1,7 +1,7 @@
 ﻿{
     "author":  "Jaosnake",
     "name":  "Interrogator_LanguagePack",
-    "description":  "Multi-language translation pack for Interrogator by tsuyoikenko. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "description":  "Multi-language translation pack for Interrogator by tsuyoikenko.",
     "dependencies":  [
                          "tsuyoikenko-Interrogator-0.8.1",
                          "RiskofThunder-R2API_Language-1.1.0"
