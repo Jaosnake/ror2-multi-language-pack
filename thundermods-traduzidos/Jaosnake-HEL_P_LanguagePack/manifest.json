@@ -1,7 +1,7 @@
 ﻿{
     "author":  "Jaosnake",
     "name":  "HEL_P_LanguagePack",
-    "description":  "Multi-language translation pack for HEL_P by rob. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "description":  "Multi-language translation pack for HEL_P by rob.",
     "dependencies":  [
                          "rob-HEL_P-2.2.1",
                          "RiskofThunder-R2API_Language-1.1.0"

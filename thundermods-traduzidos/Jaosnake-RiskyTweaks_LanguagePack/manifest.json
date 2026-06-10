@@ -1,7 +1,7 @@
 ﻿{
     "author":  "Jaosnake",
     "name":  "RiskyTweaks_LanguagePack",
-    "description":  "Multi-language translation pack for RiskyTweaks by Risky_Lives. For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "description":  "Multi-language translation pack for RiskyTweaks by Risky_Lives.",
     "dependencies":  [
                          "Risky_Lives-RiskyTweaks-1.10.2",
                          "RiskofThunder-R2API_Language-1.1.0"

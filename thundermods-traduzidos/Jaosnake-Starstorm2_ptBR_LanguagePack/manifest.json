@@ -3,7 +3,7 @@
     "author":  "Jaosnake",
     "version_number":  "1.0.0",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description":  "Traducao pt-BR do Starstorm 2 (TeamMoonstorm). Traducao inicial: Kauzok e Balorfist. Revisado linha a linha. Requer R2API_Language. Problemas: https://github.com/Jaosnake/ror2-multi-language-pack/issues",
+    "description":  "Traducao pt-BR do Starstorm 2 (TeamMoonstorm). Traducao inicial: Kauzok e Balorfist. Revisado linha a linha. Requer R2API_Language.",
     "dependencies":  [
                          "TeamMoonstorm-Starstorm2-0.6.38",
                          "RiskofThunder-R2API_Language-1.1.0"

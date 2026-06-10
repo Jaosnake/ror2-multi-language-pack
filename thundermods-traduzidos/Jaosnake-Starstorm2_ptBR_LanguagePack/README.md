@@ -23,3 +23,7 @@ Translations by Jaosnake.
 
 ## Support
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+
+
+## Problemas / Feedback
+Para problemas ou sugestoes de traducao, abra um ticket em https://github.com/Jaosnake/ror2-multi-language-pack/issues

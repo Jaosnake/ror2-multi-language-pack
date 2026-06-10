@@ -36,3 +36,7 @@ Multi-language translation pack for **Rifter** by **toastyTeam**.
 
 ## ☕ Support
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+
+
+## Issues / Feedback
+For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues
