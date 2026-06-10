@@ -1,0 +1,9 @@
+{ "zh-CN":
+	{
+		"SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>æˆ˜æ–—ç¥žé¾›æŽ‰è½äº†</style>{0}",
+		
+		"MOON_PILLAR_COMPLETE_RISKYMOD" : "<color=#c6d5ff>{0}æŽ‰è½äº†</color>{1}",
+		
+		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>æ·±ç©ºä¿¡å·æŽ‰è½äº†</style>{0}"
+	}
+}

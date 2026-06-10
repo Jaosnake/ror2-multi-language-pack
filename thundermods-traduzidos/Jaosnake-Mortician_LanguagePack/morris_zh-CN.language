@@ -1,0 +1,27 @@
+BOG_MORRIS_BODY_NAME: æ®¡ä»ªå¸ˆ
+BOG_MORRIS_BODY_SUBTITLE: äº¡è€…
+BOG_MORRIS_BODY_DESCRIPTION: æ®¡ä»ªå¸ˆæ˜¯ä¸€åç¼“æ…¢ä½†åšéŸ§çš„è¿‘æˆ˜æ­»çµæ³•å¸ˆï¼Œæ“…é•¿ç”¨ä»–çš„äº¡çµå¤§å†›æŽ§åˆ¶é¢†åœŸã€‚ <i>Translated by: Jaosnake. Original mod by Bog</i>
+
+BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+BOG_MORRIS_BODY_OUTRO_FLAVOR: ..äºŽæ˜¯ä»–ç¦»å¼€äº†ï¼Œä»–é˜´éƒçš„èŒè´£ä»æœªå®Œæˆã€‚
+BOG_MORRIS_BODY_OUTRO_FAILURE: ..äºŽæ˜¯ä»–æ¶ˆå¤±äº†ï¼Œç»ˆäºŽå¾—åˆ°äº†ä»–æ‰€æ¸´æœ›çš„å®‰å®ã€‚
+BOG_MORRIS_BODY_PASSIVE_NAME: çµé­‚ç¥­å“
+BOG_MORRIS_BODY_PASSIVE_DESCRIPTION: é£Ÿå°¸é¬¼è¢«æ€æ­»æ—¶ä¼š<style=cIsUtility>è§¦å‘å…¶å‡»æ€æ•ˆæžœ</style>ã€‚
+
+PRIMARY_SHOVEL_NAME: é“é”¹çŒ›å‡»
+PRIMARY_SHOVEL_DESCRIPTION: æŒ¥åŠ¨ä½ çš„é“é”¹é€ æˆ<style=cIsDamage>800%ä¼¤å®³</style>ã€‚ç”¨é“é”¹å‡»ä¸­é£Ÿå°¸é¬¼å’Œå¢“ç¢‘ä¼šé€ æˆ<style=cIsUtility>å‡»é£ž</style>ï¼Œé€ æˆ<style=cIsDamage>350%ä¼¤å®³</style>ã€‚
+
+SECONDARY_GHOUL_NAME: å”¤èµ·æ­»è€…
+SECONDARY_GHOUL_DESCRIPTION: <style=cIsUtility>çµé­‚é“¾æŽ¥</style>ã€‚åœ¨ä½ é¢å‰çš„åœ°é¢ä¸Šå¬å”¤ä¸€ä¸ªé£Ÿå°¸é¬¼ã€‚é£Ÿå°¸é¬¼æ’•å’¬é€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ï¼Œåå‡º<style=cIsDamage>ç˜Ÿç–«</style>èƒ†æ±é€ æˆ<style=cIsDamage>100%ä¼¤å®³</style>ã€‚
+
+UTILITY_LANTERN_NAME: çŒ®ç¥­
+UTILITY_LANTERN_DESCRIPTION: <style=cIsHealth>å¼•çˆ†</style>ç›®æ ‡é£Ÿå°¸é¬¼é€ æˆ<style=cIsDamage>700%ä¼¤å®³</style>å¹¶<style=cIsHealing>æ¢å¤æœ€å¤§ç”Ÿå‘½å€¼çš„15%</style>ã€‚
+
+SPECIAL_TOMBSTONE_NAME: å¢“ç¢‘
+SPECIAL_TOMBSTONE_DESCRIPTION: ç«–ç«‹ä¸€å—å¢“ç¢‘ï¼Œæ¯<style=cIsUtility>10ç§’</style>ç”Ÿæˆä¸€ä¸ªé£Ÿå°¸é¬¼ã€‚æ¯å½“é£Ÿå°¸é¬¼è¢«å‡»æ€ï¼Œå¢“ç¢‘ä¼šäº§ç”Ÿä¸€ä¸ª<style=cIsDamage>å¤ä»‡ä¹‹é­‚</style><style=cIsUtility>çˆ†ç‚¸</style>ï¼Œå°„å‘é™„è¿‘æ•Œäººé€ æˆ<style=cIsDamage>350%ä¼¤å®³</style>ã€‚
+
+BOG_GHOUL_BODY_NAME: é£Ÿå°¸é¬¼
+BOG_TOMBSTONE_BODY_NAME: å¢“ç¢‘
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Mortician: Mastery
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Mortician, beat the game or obliterate on Monsoon.
+BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Mortician: Mastery

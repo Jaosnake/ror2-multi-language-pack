@@ -1,0 +1,39 @@
+ROB_DRIVER_BODY_NAME: Driver
+ROB_DRIVER_BODY_SUBTITLE: Conductor de Arsenal <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_PISTOL_NAME: Pistola
+PRIMARY_PISTOL_DESCRIPTION: Un prototipo defectuoso que solo puede disparar unos cuantos tiros. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_MACHINEGUN_NAME: Ametralladora
+PRIMARY_MACHINEGUN_DESCRIPTION: Dispare rÃ¡pidamente para 120% de daÃ±o por disparo. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_RIOT_SHOTGUN_DESCRIPTION: Dispare una rÃ¡faga de escopeta que causa 8x140% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BADASS_SHOTGUN_DESCRIPTION: Dispare una rÃ¡faga devastadora de escopeta para 24x140% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BAZOOKA_DESCRIPTION: Dispare un cohete explosivo para 600%-1,200% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_ARMCANNON_DESCRIPTION: Dispare un tiro de caÃ±Ã³n para 1,000% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_PLASMACANNON_DESCRIPTION: Dispare un tiro de plasma para 1,200% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_GOLEMGUN_DESCRIPTION: Dispare un tiro pesado para 800% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_NEMMANDO_SWORD_DESCRIPTION: Corte enemigos al frente con una espada para 160% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_ARTI_GAUNTLET_NAME: Guantelete de la ArtÃ­fice
+PRIMARY_ARTI_GAUNTLET_DESCRIPTION: Dispare un proyectil de magma para 350% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_PISTOL_DESCRIPTION: Dispare una pistola secundaria para 500% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>Aturdidor</style>. Aturda y empuje enemigos cercanos para 250% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_ROCKETLAUNCHER_ALT_NAME: Lanzacohetes
+SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>Aturdidor</style>. Dispare una rÃ¡faga rÃ¡pida de cohetes para 250% de daÃ±o cada uno. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_HEAVY_MACHINEGUN_NAME: Ametralladora Pesada
+SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>Aturdidor</style>. Lance una granada que aturde enemigos para 800% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_PLASMACANNON_NAME: CaÃ±Ã³n de Plasma
+SECONDARY_PLASMACANNON_DESCRIPTION: Dispare un tiro de plasma cargado para 1,000% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BANDITREVOLVER_DESCRIPTION: Dispare un revÃ³lver de alto calibre para 1,500% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispare una salva de fragmentos lunares, causando 180% de daÃ±o cada uno. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_NEMMANDO_DESCRIPTION: Dispare proyectiles oscuros para 240% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_ARTI_GAUNTLET_DESCRIPTION: Dispare una rÃ¡faga de magia de hielo para 600%-2,000% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+UTILITY_DASH_NAME: Impulso
+UTILITY_DASH_DESCRIPTION: Avance una corta distancia. Puede tener hasta 2 cargas. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SPECIAL_SUPPLY_DROP_NAME: Suministro AÃ©reo
+SPECIAL_SUPPLY_DROP_DESCRIPTION: Solicite un suministro aÃ©reo de armas. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SPECIAL_GRENADE_NAME: Granada
+SPECIAL_KNIFE_NAME: Cuchillo
+SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>Cortante</style>. <style=cIsUtility>Ãgil</style>. Corte enemigos al frente para 470% de daÃ±o. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SPECIAL_DRIVERCOIN_NAME: Moneda del Driver
+SPECIAL_DRIVERCOIN_DESCRIPTION: Active un efecto especial a costa de monedas. <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: EstÃ¡ndar
+ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>Foco</style><style=cSub>El Foco aumenta enormemente su producciÃ³n de daÃ±o, pero tenga cuidado de no ser flanqueado mientras apunta.
+ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>Arsenal</style><style=cSub>Cambie entre armas usando sus habilidades primaria y secundaria.

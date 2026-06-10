@@ -1,0 +1,43 @@
+{ "FR":
+	{
+	"MINER_NAME" : "Mineur",
+	"MINER_DESCRIPTION" : "Le Mineur est un survivant au corps Ã  corps rapide et trÃ¨s mobile, privilÃ©giant l'obtention de combos de meurtres prolongÃ©s pour accumuler des empilements de sa compÃ©tence passive.<color=#CCD3E0>\n\n< ! > Une fois que vous avez un bon nombre de piles d'AdrÃ©naline, Creuser et Ã‰craser seront votre meilleure source de dÃ©gÃ¢ts.\n\n< ! > La charge de Perforer n'affecte que les dÃ©gÃ¢ts infligÃ©s. Visez le sol ou les ennemis pour infliger des dÃ©gÃ¢ts concentrÃ©s.\n\n< ! > Vous pouvez appuyer sur Contrecoup pour vous dÃ©placer sur une courte distance. Maintenez-le pour aller plus loin.\n\n< ! > Vers les Ã‰toiles peut infliger des dÃ©gÃ¢ts Ã©levÃ©s aux gros ennemis.",
+	"MINER_SUBTITLE" : "Toxicomanie Destructrice",
+	"MINER_LORE" : "\nParmi l'acier froid des ruines du cargo et l'air de la nuit glaciale, la faible lumiÃ¨re bleue d'un journal audio attire votre regard. Le journal gÃ®t en Ã©tat de totale dÃ©crÃ©pitude parmi les restes de la cargaison, et pourtant, il persiste, restant fonctionnel. Les boutons analogiques sur l'enveloppe de l'appareil palpitent lentement, comme s'ils invitaient quiconque Ã  Ã©couter leurs entrÃ©es dÃ©formÃ©es, se dÃ©composant toujours en cohÃ©rence...\n\n<color=#8990A7><CLIC></color>\n\n<color=#8990A7>/ / - - J O U R N A L 1 - - / /</color>\n''Premier journal. Date, euh... Oh-cinq, oh-un, vingt-cinquante-cinq. Brass a dÃ©cidÃ© de nous retirer du travail de minage. AprÃ¨s des mois de creusage, aprÃ¨s des mois de sang, de sueur<color=#8990A7>-///////-</color>t des millions dÃ©pensÃ©s dans cette opÃ©ration, on laisse tout tomber ? Bull<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - J O U R N A L 5 - - / /</color>\n''<color=#8990A7>-////////-</color>Å“ur de l'astÃ©roÃ¯de. Je n'ai jamais rien vu de tel. C'Ã©tait comme un dr<color=#8990A7>-////////-</color>nd fractal... L'intÃ©rieur est presque comme un kalÃ©idoscope. Ã‡a doit valoi<color=#8990A7>-/////-</color>t Brass veut qu'on dÃ©gage, au plus vite. Eh bien, ils peuvent m'embrasser l<color=#8990A7>-////-</color>. . Et je sors ce soir pour creuser le reste... Si je peux revendre Ã§a, les mille prochains chÃ¨ques de paie ne tiendront pas la chandelle. J'attendais une opportunitÃ© comme celle-ci.''\n\n<color=#8990A7>/ / - - J O U R N A L 7 - - / /</color>\n''Je suis presque sÃ»r qu'ils savent tout. Ils interrogent les gens maintenant. J'ai cachÃ© l'artefact dans une bouche d'aÃ©ration Ã <color=#8990A7>-//////-</color>, Ã§a devrait Ãªtre en sÃ©curitÃ©. Le cargo appelÃ© l'UE<color=#8990A7>-////-</color>t doit arriver dans quelques mois. Il me suffit de tenir bon et de m'infiltrer.''\n\n<color=#8990A7>/ / - - J O U R N A L 15 - - / /</color>\n'''Ils me cherchent. Ã‡a ne va pas tarder avant qu'ils me trouvent. CachÃ© dans les murs du vaisseau comme un f<color=#8990A7>-//////-</color>rat. Le cargo est hors programme. J'ai tout donnÃ© pour Ã§a. J'ai <i>tout</i> donnÃ© pour Ã§a.''\n\n<color=#8990A7>/ / - - J O U R N A L 16 - - / /</color>\n''Quelque part dans la coque. Personne ne vient par ici. MÃªme pas l'entretien. Je devrais Ãªtre en sÃ©curitÃ© jusqu'Ã  l'arrivÃ©e du vaisseau.''\n\n<color=#8990A7>/ / - -  J O U R N A L 18  - - / /</color>\n''Le vaisseau est toujours en attente. Je n'ai pas d'idÃ©e de quand il ne le sera pas.'' <color=#8990A7><GÃ©missement>.</color> ''C'Ã©tait avant<color=#8990A7>-//-</color>zing.''\n\n <color=#8990A7>/ / - - J O U R N A L 29 - - / /</color>\n''<color=#8990A7>-//////////-</color>'est lÃ . Enfin. Enfin. Je dois mettre l'artefact Ã  bord. SÃ©curitÃ© partout, cependant. Des mercenaires...'' <color=#8990A7><Des voix lointaines ont une conversation indiscernable.></color> ''D'accord. Taisez-vous. Taisez-vous et partez. J'y vais. J'y vais. Ce soir.''\n\n <color=#8990A7>/ / - - J O U R N A L 31 - - / /</color>\n''<color=#8990A7>-//////-</color>uelque chose se passe sur le vaisseau. La cargaison s'envole. J'ai perdu l'artefact. J'ai tout perdu. . . . J'ai tout perdu<color=#8990A7>-//-</color>.''\n\nL'Ã©cran du journal audio crÃ©pite et Ã©clate, vous laissant dans l'obscuritÃ© totale, complÃ©tÃ©e par le silence assourdissant causÃ© par les derniÃ¨res paroles inquiÃ©tantes du mineur.",
+	"MINER_OUTRO_FLAVOR" : "..et ainsi, il partit, l'adrÃ©naline continuant de circuler dans ses veines.",
+	
+	"MINER_PASSIVE_NAME" : "RuÃ©e vers l'or",
+	"MINER_PASSIVE_DESCRIPTION" : "Obtenez de l'<style=cIsHealth>ADRENALINE</style> en recevant de l'or, augmentant la <style=cIsDamage>vitesse d'attaque</style>, la <style=cIsUtility>vitesse de dÃ©placement</style>, et la <style=cIsHealing>rÃ©gÃ©nÃ©ration de santÃ©</style>.",
+	"KEYWORD_CLEAVING" : "<style=cKeywordName>Fendu</style><style=cSub>Applique un affaiblissement empilable qui rÃ©duit l'<style=cIsDamage>armure</style> de <style=cIsHealth>3 par cumul</style>.</style>",
+	
+	"MINER_PRIMARY_GOUGE_NAME" : "Creuser",
+	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>Agile.</style> Frappez sauvagement les ennemis proches pour <style=cIsDamage>270% de dÃ©gÃ¢ts</style>, <style=cIsHealth>fendant</style> leur armure.",
+	
+	"MINER_PRIMARY_CRUSH_NAME" : "Ã‰craser",
+	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>Agile.</style> Ã‰crasez les ennemis proches pour <style=cIsDamage>360% de dÃ©gÃ¢ts</style>. <style=cIsUtility>La portÃ©e augmente avec la vitesse d'attaque</style>.",
+	
+	"MINER_SECONDARY_CHARGE_NAME" : "Charge PerÃ§ante",
+	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "Chargez et foncez sur les ennemis pour infliger jusqu'Ã  <style=cIsDamage>6x180% de dÃ©gÃ¢ts</style>. <style=cIsUtility>Vous ne pouvez pas Ãªtre touchÃ© pendant la durÃ©e.</style>",
+	
+	"MINER_SECONDARY_BREAK_NAME" : "Marteau FissurÃ©",
+	"MINER_SECONDARY_BREAK_DESCRIPTION" : "Ruez-vous en avant, explosant pour <style=cIsDamage>2x240% de dÃ©gÃ¢ts</style> au contact d'un ennemi. <style=cIsUtility>Vous ne pouvez pas Ãªtre touchÃ© pendant la durÃ©e.</style>",
+	
+	"MINER_UTILITY_BACKBLAST_NAME" : "Propulsion ArriÃ¨re",
+	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>Ã‰tourdissant.</style> Provquez une explosion qui vous propulse en arriÃ¨re, touchant les ennemis proches pour <style=cIsDamage>600% de dÃ©gÃ¢ts</style>. Maintenez pour voyager plus loin. <style=cIsUtility>Vous ne pouvez pas Ãªtre touchÃ© pendant la durÃ©e.</style>",
+	
+	"MINER_UTILITY_CAVEIN_NAME" : "Effondrement",
+	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>Ã‰tourdissant.</style> Provquez une explosion qui vous propulse en arriÃ¨re, <style=cIsUtility>attirant</style> tous les ennemis dans un grand rayon. <style=cIsUtility>Vous ne pouvez pas Ãªtre touchÃ© pendant la durÃ©e.</style>",
+	
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "Vers les Ã‰toiles",
+	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "Sauter dans les airs, frappant les ennemis directement en dessous pour <style=cIsDamage>6x300% de dÃ©gÃ¢ts</style>.",
+	
+	"MINER_SPECIAL_TOTHESTARS_NAME" : "Averse de MÃ©tÃ©ores",
+	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "Sauter dans les airs, tirant des Ã©clats de shrapnel vers le bas pour <style=cIsDamage>15x160% de dÃ©gÃ¢ts</style>.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "ComÃ¨te Tombante",
+	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "Sauter dans les airs, tirant des Ã©clats de shrapnel vers le bas pour <style=cIsDamage>15x160% de dÃ©gÃ¢ts</style>, puis tomber en crÃ©ant une Ã©norme explosion Ã  l'impact infligeant <style=cIsDamage>1500% de dÃ©gÃ¢ts</style> et <style=cIsDamage>enflammant</style> les ennemis touchÃ©s.",
+	
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "Ã‰toiles Filantes",
+	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>Ã‰tourdissant</style>. Sautez dans les airs, frappant les ennemis directement en dessous pour un total de <style=cIsDamage>10x300% de dÃ©gÃ¢ts</style>."
+	}
+}

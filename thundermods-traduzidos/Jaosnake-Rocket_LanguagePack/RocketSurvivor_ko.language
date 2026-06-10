@@ -1,0 +1,54 @@
+{ "ko":
+	{
+	"MOFFEIN_ROCKET_BODY_NAME" : "ë¡œì¼“",
+	"MOFFEIN_ROCKET_BODY_SUBTITLE" : "ì¶©ê²©ê³¼ ê³µí¬",
+	"MOFFEIN_ROCKET_BODY_LORE" : "ì •ë³´: ë¡œì¼“ì€ íŠ¹ë³„í•œ íž˜ì„ ê°€ì§€ê³  íƒœì–´ë‚¬ìŠµë‹ˆë‹¤",
+	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "ë¡œì¼“ì€ íŒŒê´´ì ì¸ ë²”ìœ„ í”¼í•´ë¥¼ ìž…ížˆëŠ” ë†’ì€ ê¸°ë™ì„±ì„ ì§€ë‹Œ í­ë°œë¬¼ ì „ë¬¸ê°€ ìž…ë‹ˆë‹¤.<style=cSub>\r\n\r\n< ! > ë¸”ë¼ìŠ¤íŠ¸ ì í”„ë¥¼ ìžì£¼ í•˜ë©´ í–‰ì„±ë¥¼ ë¹ ë¥´ê²Œ ëŒì•„ë‹¤ë‹ˆê³  ìœ„í—˜ì—ì„œ ë²—ì–´ë‚  ìˆ˜ ìžˆìŠµë‹ˆë‹¤!\r\n\r\n< ! > ë¡œì¼“ëŸ°ì²˜ëŠ” ì ì„ í¬ê²Œ ë°€ì¹©ë‹ˆë‹¤. ì´ë¥¼ ì‚¬ìš©í•˜ì—¬ ì ì„ ì ˆë²½ìœ¼ë¡œ ë°€ì–´ë²„ë¦´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ì›ê²© ê¸°í­ ìž¥ì¹˜ëŠ” ê³µì¤‘ ì ì„ ê³µê²©í•˜ëŠ” ë° ìœ ìš©í•˜ë©° ê¸°ë™ì„±ì—ë„ ë„ì›€ì„ ì¤ë‹ˆë‹¤.\r\n\r\n< ! > ë‹ˆíŠ¸ë¡œ ì°¨ì§€ëŠ” ê³µê²©ê³¼ ê¸°ë™ì„± ë‘˜ë‹¤ ì±™ê¸¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ì‹ ì† ë¬´ìž¥ì„ ì‚¬ìš©í•˜ì—¬ ë¡œì¼“ëŸ°ì²˜ì˜ ê¸´ ì¿¨íƒ€ìž„ì„ ì´ˆê¸°í™” ì‹œí‚¬ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ë– ë‚¬ë‹¤. ë‹¤ì‹œ í­ë°œí•˜ë©´ì„œ.",
+	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ë“¤ì€ ì‚¬ë¼ì¡Œë‹¤, ë‹¤ì‹œëŠ” ë•…ì— ë‹¿ì§€ ì•Šìœ¼ë©°.",
+	"MOFFEIN_ROCKET_BODY_OUTRO_FAILURE" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ë“¤ì€ ì‚¬ë¼ì¡Œë‹¤, ë‹¤ì‹œëŠ” ë•…ì— ë‹¿ì§€ ì•Šìœ¼ë©°.",
+	
+	"MOFFEIN_ROCKET_BODY_PASSIVE_NAME" : "í­ë°œ",
+	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "ë‹¹ì‹ ì˜ í­ë°œì´ <style=cIsUtility>ë¸”ë¼ìŠ¤íŠ¸ ì í”„</style>ë¥¼ í•  ìˆ˜ ìžˆê²Œ í•´ì¤ë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "HG4 ë¡œì¼“ëŸ°ì²˜",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ë¡œì¼“ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>600% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 4ë°œê¹Œì§€ ëˆ„ì ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤.",
+	
+	
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "HG4 SAM ëŸ°ì²˜",
+	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ì ë“¤ì„ <style=cIsUtility>ì¶”ì </style>í•˜ê³  <style=cIsHealth>ë”ìž‘ì€ í­ë°œë°˜ê²½</style>ì„ ê°€ì§„ ë¯¸ì‚¬ì¼ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>600% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 4ë°œê¹Œì§€ ëˆ„ì ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_SECONDARY_NAME" : "ì›ê²© ê¸°í­ ìž¥ì¹˜",
+	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "<style=cIsDamage>ëª¨ë“  í­ë°œë¬¼</style>ì„ í„°ëœ¨ë¦½ë‹ˆë‹¤. í­ë°œí•œ <style=cIsDamage>ë¡œì¼“</style>ì€ <style=cIsDamage>50%</style>ì˜ <style=cIsDamage>ì¶”ê°€ í”¼í•´</style>ì™€ <style=cIsDamage>í­ë°œ ë°˜ê²½</style>ì„ ì–»ìŠµë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_NAME" : "ë‹ˆíŠ¸ë¡œ ì°¨ì§€",
+	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>ê¸°ì ˆ</style>. ì¶©ì „ëœ í­ë°œë¬¼ì„ ì„¤ì¹˜í•©ë‹ˆë‹¤. <style=cIsDamage>ì›ê²© ê¸°í­ ìž¥ì¹˜</style>ë¥¼ ì‚¬ìš©í•˜ì—¬ <style=cIsDamage>1200% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME" : "í­ê²© ì§ˆì£¼",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>ë¬µì§</style>. <style=cIsDamage>ê¸°ì ˆ</style>. ì ì—ê²Œ í­íƒ„ë´‰ì„ íœ˜ë‘˜ëŸ¬ <style=cIsDamage>1200% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsDamage>ëª…ì¤‘ì‹œ</style> <style=cIsUtility>ë¸”ë¼ìŠ¤íŠ¸ ì í”„ ì¤‘ íƒ€ê²©ì‹œ</style> ì¹˜ëª…íƒ€ë¥¼ ì¼ìœ¼í‚µë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME" : "ê·¸ëžœë“œìŠ¬ëž¨",
+	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION" : "<style=cIsUtility>ë¬µì§</style>. <style=cIsDamage>ê¸°ì ˆ</style>. ì ì—ê²Œ í­íƒ„ë´‰ì„ íœ˜ë‘˜ëŸ¬ <style=cIsDamage>1800% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsDamage>ëª…ì¤‘ì‹œ</style> <style=cIsUtility>ë¸”ë¼ìŠ¤íŠ¸ ì í”„ ì¤‘ íƒ€ê²©ì‹œ</style> ì¹˜ëª…íƒ€ë¥¼ ì¼ìœ¼í‚µë‹ˆë‹¤.",
+	
+	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "ì‹ ì† ë¬´ìž¥",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "<style=cIsDamage>ë¡œì¼“ 4ë°œì„ ë¹ ë¥´ê²Œ ë°œì‚¬</style>í•˜ê³  <style=cIsUtility>ë¬´ê¸°ë¥¼ ìž¬ìž¥ì „ì‹œí‚µë‹ˆë‹¤</style>.",
+	
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "ë¡œì¼“ìŠ¤í†°",
+	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "ë¡œì¼“ 10ë°œì„ ë¹ ë¥´ê²Œ ë°œì‚¬</style>í•˜ê³  <style=cIsUtility>ë¬´ê¸°ë¥¼ ìž¬ìž¥ì „ì‹œí‚µë‹ˆë‹¤</style>.",
+	
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Rocket: Speed is Life",
+	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+	
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Rocket: Pogo",
+	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "As Rocket, blast jump 10 times in a row without touching the ground.",
+
+	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "í­ê²©ìˆ˜",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Rocket: Mastery",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Monsoon.",
+	
+	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "ë ˆì¸ì €",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Rocket: Grand Mastery",
+	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
+	}
+}

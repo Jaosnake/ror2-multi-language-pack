@@ -1,0 +1,39 @@
+ROB_DRIVER_BODY_NAME: Driver
+ROB_DRIVER_BODY_SUBTITLE: ã‚¢ãƒ¼ã‚»ãƒŠãƒ«ãƒ‰ãƒ©ã‚¤ãƒãƒ¼ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_PISTOL_NAME: ãƒ”ã‚¹ãƒˆãƒ«
+PRIMARY_PISTOL_DESCRIPTION: æ¬ é™¥ã®ã‚ã‚‹è©¦ä½œå“ã§ã€æ•°ç™ºã—ã‹æ’ƒã¦ãªã„ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_MACHINEGUN_NAME: ãƒžã‚·ãƒ³ã‚¬ãƒ³
+PRIMARY_MACHINEGUN_DESCRIPTION: ç´ æ—©ãç™ºå°„ã—ã€1ç™ºã‚ãŸã‚Š120%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_RIOT_SHOTGUN_DESCRIPTION: ã‚·ãƒ§ãƒƒãƒˆã‚¬ãƒ³ã‚’ç™ºå°„ã—ã€8x140%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BADASS_SHOTGUN_DESCRIPTION: å£Šæ»…çš„ãªã‚·ãƒ§ãƒƒãƒˆã‚¬ãƒ³ã‚’ç™ºå°„ã—ã€24x140%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_BAZOOKA_DESCRIPTION: çˆ†ç™ºã™ã‚‹ãƒ­ã‚±ãƒƒãƒˆã‚’ç™ºå°„ã—ã€600%-1,200%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_ARMCANNON_DESCRIPTION: ã‚­ãƒ£ãƒŽãƒ³å¼¾ã‚’ç™ºå°„ã—ã€1,000%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_PLASMACANNON_DESCRIPTION: ãƒ—ãƒ©ã‚ºãƒžå¼¾ã‚’ç™ºå°„ã—ã€1,200%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_GOLEMGUN_DESCRIPTION: ãƒ˜ãƒ“ãƒ¼ã‚·ãƒ§ãƒƒãƒˆã‚’ç™ºå°„ã—ã€800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_NEMMANDO_SWORD_DESCRIPTION: å‰æ–¹ã®æ•µã‚’å‰£ã§æ–¬ã‚Šã€160%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+PRIMARY_ARTI_GAUNTLET_NAME: ã‚¢ãƒ¼ãƒ†ã‚£ãƒ•ã‚£ã‚µãƒ¼ã®ã‚¬ãƒ³ãƒˆãƒ¬ãƒƒãƒˆ
+PRIMARY_ARTI_GAUNTLET_DESCRIPTION: ãƒžã‚°ãƒžå¼¾ã‚’ç™ºå°„ã—ã€350%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_PISTOL_DESCRIPTION: ã‚»ã‚«ãƒ³ãƒ€ãƒªãƒ¼ãƒ”ã‚¹ãƒˆãƒ«ã‚’ç™ºå°„ã—ã€500%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚è¿‘ãã®æ•µã‚’ã‚¹ã‚¿ãƒ³ã•ã›æŠ¼ã—å‡ºã—ã€250%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_ROCKETLAUNCHER_ALT_NAME: ãƒ­ã‚±ãƒƒãƒˆãƒ©ãƒ³ãƒãƒ£ãƒ¼
+SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚ç´ æ—©ã„ãƒ­ã‚±ãƒƒãƒˆå¼¾å¹•ã‚’ç™ºå°„ã—ã€1ç™ºã‚ãŸã‚Š250%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_HEAVY_MACHINEGUN_NAME: ãƒ˜ãƒ“ãƒ¼ãƒžã‚·ãƒ³ã‚¬ãƒ³
+SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚æ•µã‚’ã‚¹ã‚¿ãƒ³ã•ã›ã‚‹ã‚°ãƒ¬ãƒãƒ¼ãƒ‰ã‚’æŠ•ã’ã€800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_PLASMACANNON_NAME: ãƒ—ãƒ©ã‚ºãƒžã‚­ãƒ£ãƒŽãƒ³
+SECONDARY_PLASMACANNON_DESCRIPTION: ãƒãƒ£ãƒ¼ã‚¸ã—ãŸãƒ—ãƒ©ã‚ºãƒžå¼¾ã‚’ç™ºå°„ã—ã€1,000%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_BANDITREVOLVER_DESCRIPTION: å¤§å£å¾„ãƒªãƒœãƒ«ãƒãƒ¼ã‚’ç™ºå°„ã—ã€1,500%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>ã‚¢ã‚¸ãƒ£ã‚¤ãƒ«</style>ã€‚æœˆã®ç ´ç‰‡ã®æ–‰å°„ã‚’æ”¾ã¡ã€1ç™ºã‚ãŸã‚Š180%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_NEMMANDO_DESCRIPTION: æš—é»’ã®å¼¾ã‚’ç™ºå°„ã—ã€240%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SECONDARY_ARTI_GAUNTLET_DESCRIPTION: æ°·ã®é­”æ³•ã® burst ã‚’æ”¾ã¡ã€600%-2,000%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+UTILITY_DASH_NAME: ãƒ€ãƒƒã‚·ãƒ¥
+UTILITY_DASH_DESCRIPTION: çŸ­è·é›¢ã‚’ãƒ€ãƒƒã‚·ãƒ¥ã™ã‚‹ã€‚æœ€å¤§2ãƒãƒ£ãƒ¼ã‚¸ã¾ã§å¯èƒ½ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SPECIAL_SUPPLY_DROP_NAME: ç©ºä¸­è£œçµ¦
+SPECIAL_SUPPLY_DROP_DESCRIPTION: æ­¦å™¨ã®ç©ºä¸­è£œçµ¦ã‚’è¦è«‹ã™ã‚‹ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SPECIAL_GRENADE_NAME: ã‚°ãƒ¬ãƒãƒ¼ãƒ‰
+SPECIAL_KNIFE_NAME: ãƒŠã‚¤ãƒ•
+SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>æ–¬æ’ƒ</style>ã€‚<style=cIsUtility>ã‚¢ã‚¸ãƒ£ã‚¤ãƒ«</style>ã€‚å‰æ–¹ã®æ•µã‚’æ–¬ã‚Šã€470%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+SPECIAL_DRIVERCOIN_NAME: ãƒ‰ãƒ©ã‚¤ãƒãƒ¼ã‚³ã‚¤ãƒ³
+SPECIAL_DRIVERCOIN_DESCRIPTION: ã‚³ã‚¤ãƒ³ã‚’æ¶ˆè²»ã—ã¦ç‰¹æ®ŠåŠ¹æžœã‚’ç™ºå‹•ã™ã‚‹ã€‚ <i>Translated by: Jaosnake. Original mod by public_ParticleSystem</i>
+ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
+ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>ãƒ•ã‚©ãƒ¼ã‚«ã‚¹</style><style=cSub>ãƒ•ã‚©ãƒ¼ã‚«ã‚¹ã¯ãƒ€ãƒ¡ãƒ¼ã‚¸å‡ºåŠ›ã‚’å¤§å¹…ã«å¢—åŠ ã•ã›ã‚‹ãŒã€ç…§æº–ä¸­ã«å´é¢ã‚’çªã‹ã‚Œãªã„ã‚ˆã†ã«æ³¨æ„ã€‚
+ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>ã‚¢ãƒ¼ã‚»ãƒŠãƒ«</style><style=cSub>ãƒ—ãƒ©ã‚¤ãƒžãƒªã¨ã‚»ã‚«ãƒ³ãƒ€ãƒªã‚¢ãƒ“ãƒªãƒ†ã‚£ã‚’ä½¿ç”¨ã—ã¦æ­¦å™¨ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ã€‚

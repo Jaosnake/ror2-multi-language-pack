@@ -1,0 +1,26 @@
+{
+    "ja": {
+        "BOG_DEPUTY_BODY_NAME": "ザ・デピュティ",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "デピュティは超攻撃的なスピードデーモンであり、双銃のリボルバーと致命的な蹴りで正義を執行する。 <i>Translated by: Jaosnake. Original mod by Bog</i>",
+        "BOG_DEPUTY_BODY_SUBTITLE": "電撃の正義",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..そして彼女は去っていった、轟音の拍手の中を。",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..そして彼女は消え去った、彼女のパフォーマンスはついに幕を閉じた。",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "マスタリー",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "執拗な追跡",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "デピュティは任意の方向にダッシュできる。スキルで敵に命中すると、積み重ね可能な<style=cIsUtility>移動速度</style>バフを得る。",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "確実な射撃",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>機敏</style>。中距離のリボルバーで射撃し、<style=cIsDamage>150%のダメージ</style>を与える。",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "スリング",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>機敏</style>。2挺のリボルバーを投げる。各リボルバーは近くの敵に<style=cIsDamage>6x100%のダメージ</style>を与えて射撃した後、爆発して<style=cIsDamage>300%のダメージ</style>を与える。",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "シューティングスター",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>スタン</style>。前方に跳躍し、下方の敵に射撃して<style=cIsDamage>4x150%のダメージ</style>を与える。",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "スカルブレイカー",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>ヘビー</style>。<style=cIsUtility>ランジ</style>して敵で跳ね返り、<style=cIsDamage>800%のダメージ</style>を与える。<style=cIsUtility>キルでユーティリティスキルのクールダウンがリセットされる</style>。",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "バレットヘブン",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "高く跳躍し、下方に向けて弾丸を乱射する。1発あたり<style=cIsDamage>150%のダメージ</style>。発射数は攻撃速度に応じて増加する。",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+    }
+}

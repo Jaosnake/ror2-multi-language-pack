@@ -1,0 +1,26 @@
+{
+    "ja": {
+        "BOG_MORRIS_BODY_NAME": "モーティシャン",
+        "BOG_MORRIS_BODY_DESCRIPTION": "モーティシャンは遅いながらも頑丈な近接ネクロマンサーであり、アンデッドの軍団で領域を制圧することに長けている。 <i>Translated by: Jaosnake. Original mod by Bog</i>",
+        "BOG_MORRIS_BODY_SUBTITLE": "アンデッド",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..そして彼は去っていった、その陰鬱な義務はまだ果たされずに。",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..そして彼は消え去った、ついに望んでいた平和が訪れた。",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "マスタリー",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "魂の捧げ物",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "グールが倒されると<style=cIsUtility>キル時効果を発動</style>する。",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "シャベルストライク",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "シャベルを振り回して<style=cIsDamage>800%のダメージ</style>を与える。シャベルでグールや墓石に命中すると<style=cIsUtility>打ち上げ</style>が発生し、<style=cIsDamage>350%のダメージ</style>を与える。",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "死者を蘇らせよ",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>霊的絆</style>。前方の地面にグールを召喚する。グールは噛みつきで<style=cIsDamage>150%のダメージ</style>、<style=cIsDamage>ペスト</style>の胆汁を吐き出して<style=cIsDamage>100%のダメージ</style>を与える。",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "生贄",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>標的のグールを爆発</style>させ、<style=cIsDamage>700%のダメージ</style>を与え、<style=cIsHealing>最大HPの15%を回復</style>する。",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "墓石",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "墓石を建立し、<style=cIsUtility>10秒</style>ごとにグールを生み出す。グールが倒されると、墓石は<style=cIsDamage>復讐の魂</style><style=cIsUtility>爆発</style>を発生させ、近くの敵に<style=cIsDamage>350%のダメージ</style>を与える。",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery",
+        "BOG_GHOUL_BODY_NAME": "グール",
+        "BOG_TOMBSTONE_BODY_NAME": "墓石"
+    }
+}

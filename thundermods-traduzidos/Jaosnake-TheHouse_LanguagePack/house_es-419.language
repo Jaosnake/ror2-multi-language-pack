@@ -1,0 +1,14 @@
+JAVANGLE_HOUSE_BODY_NAME: The House
+JAVANGLE_HOUSE_BODY_SUBTITLE: El Jugador Loco
+JAVANGLE_HOUSE_BODY_DESCRIPTION: The House es un jugador insano que depende de su suerte para superar situaciones difÃ­ciles, usando dos misteriosos artefactos del destino: un revÃ³lver de 6 tiros llamado <style=cIsUtility>"Ruleta"</style> y un mazo de cartas aparentemente maldito. <i>Translated by: Jaosnake. Original mod by JavAngle</i>
+
+JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: Predeterminado
+JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: MaestrÃ­a
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: BulletArts: VacÃ­o
+JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispara un tiro cargado aleatorio. Cuando no quedan tiros: no hace nada.
+
+DEFAULT_SKIN_NAME: Predeterminado
+MASTERY_SKIN_NAME: The House: MaestrÃ­a
+
+BODY_OUTRO_FLAVOR: ..y asÃ­ se fue, jugÃ¡ndole bromas al destino una vez mÃ¡s.
+BODY_OUTRO_FAILURE: ..y asÃ­ desapareciÃ³, su suerte finalmente se habÃ­a acabado.

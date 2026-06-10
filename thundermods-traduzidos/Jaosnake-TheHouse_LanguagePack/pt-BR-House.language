@@ -1,0 +1,19 @@
+{
+    "pt-BR": {
+        "JAVANGLE_HOUSE_BODY_NAME": "The House",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "O Jogador Insano",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House é um jogador insano que depende de sua sorte para superar situações difíceis, usando dois misteriosos artefatos do destino: um revólver de 6 tiros chamado <style=cIsUtility>Roleta</style> e um baralho de cartas aparentemente amaldiçoado.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Maestria",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..e assim ele se foi, pregando peças no destino mais uma vez.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..e assim ele desapareceu, sua sorte finalmente tendo acabado.",
+
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "Tiro Aleatório",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um tiro aleatório carregado. Quando sem tiros: não faz nada.",
+
+        "BODY_OUTRO_FLAVOR": "..e assim ele se foi, pregando peças no destino mais uma vez.",
+        "BODY_OUTRO_FAILURE": "..e assim ele desapareceu, sua sorte finalmente tendo acabado.",
+        "DEFAULT_SKIN_NAME": "Padrão",
+        "MASTERY_SKIN_NAME": "The House: Maestria"
+    }
+}

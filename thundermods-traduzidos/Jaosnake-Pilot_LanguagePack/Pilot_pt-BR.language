@@ -1,0 +1,46 @@
+{ "pt-BR":
+	{
+	"MOFFEIN_PILOT_BODY_NAME" : "Piloto",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "Ãs dos CÃ©us",
+	"MOFFEIN_PILOT_BODY_LORE" : "United Enterprise Shipping convida pilotos de todos os cantos do universo para se inscrevem em nosso programa de ComissÃµes Aprimoradas para Pilotos Preferenciais! Os benefÃ­cios incluem o acesso a aumentos cibernÃ©ticos de impacto para pousos mais simples, programas de certificaÃ§Ã£o em Armas e SeguranÃ§a, e oportunidades de fÃ©rias luxuosas! (Os candidatos devem se inscrever com 5 anos de antecedÃªncia em relaÃ§Ãµes Ã s operaÃ§Ãµes de voo. CibernÃ©ticas nÃ£o sÃ£o garantidas para todos os participantes do programa. Certificados de Armas e SeguranÃ§a vÃ¡lidos apenas durante a contrataÃ§Ã£o da UES. Todas as oportunidades sÃ£o listadas como estÃ£o e nÃ£o se deve supor quaisquer gratificaÃ§Ãµes, oportunidades ou benefÃ­cios adicionais, independentemente de atualizaÃ§Ãµes nas leis espaciais marÃ­timas nos planetas participantes.",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "O Piloto Ã© um lutador aÃ©reo que se destaca em causar destruiÃ§Ã£o enquanto voa.<style=cSub>\r\n\r\n< ! > Piloto pode prevenir danos ao manter-se no ar. O uso sÃ¡bio de suas habilidades permitem maximiar seu tempo no ar.\r\n\r\n< ! > Alvo Identificado pode ser utilizado para amortecer sua queda.\r\n\r\n< ! > ImplementaÃ§Ã£o RÃ¡pida lanÃ§a-o para cima quando utilizada no chÃ£o, e para frente quando utilizada no ar.\r\n\r\n< ! > Lance inimigos aos cÃ©us com Ataque AÃ©reo, entÃ£o combine com Alvo Identificado para mantÃª-los no ar.",
+	
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, com seus sonhos do cÃ©u lÃ¡ embaixo.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "... e assim ele desapareceu, os cÃ©us para sempre fora do alcance.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, os cÃ©us para sempre fora do alcance.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "Tiro Aglomerado",
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "Dispare a arma, causando <style=cIsDamage>160% de dano</style>. Cada terceiro acerto <style=cIsDamage>explode</style> e causa <style=cIsDamage>320% de dano</style>.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "Dispare a arma, causando <style=cIsDamage>160% de dano</style>. Cada terceiro acerto Ã© <style=cIsDamage>perfurante</style> e causa <style=cIsDamage>320% de dano</style>.",
+
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "Tiro RÃ¡pido",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Ãgil</style>. Dispare a arma rapidamente, causando <style=cIsDamage>140% de dano</style>.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "Tiro de SupressÃ£o",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>Assassino</style>. Dispare com sua pistola silenciada, causando <style=cIsDamage>100% de dano</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "Alvo Identificado!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "Transforme sua arma em uma <style=cIsDamage>arma de perfuraÃ§Ã£o inteligente</style>, causando <style=cIsDamage>3x160% de dano</style>. Causa <style=cIsDamage>50%</style> a mais de dano a alvos <style=cIsUtility>no ar</style>. MÃ¡ximo de 2.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "AÃ­ vÃ£o bombas!",
+    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "Transforme sua arma em um <style=cIsDamage>lanÃ§ador de granadas de energia</style>, causando <style=cIsDamage>480% de dano</style>. Enquanto estiver <style=cIsUtility>no ar</style>, cause <style=cIsDamage>3x220% de dano</style>. MÃ¡ximo de 2.", 
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "ImplementaÃ§Ã£o RÃ¡pida",
+    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>Atordoante</style>. Lance-se para o alto e <style=cIsUtility>ative seu paraquedas</style>. Se utilizado no ar. <style=cIsHealth>reduz a elevaÃ§Ã£o</style> em troca de um maior impulso frontal</style>.",
+
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "Acrobacia AÃ©rea",
+    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Corra para a frente</style> e <style=cIsUtility>agarre paredes</style>, ganhando <style=cIsDamage>30% de velocidade de ataque</style>. Impulsiona-se para trÃ¡s quando <style=cIsUtility>pula em contato com uma parede</style>.",
+
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "Ataque AÃ©reo",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "Realize uma <style=cIsUtility>investida</style>, soltando uma bomba <style=cIsDamage>no local</style> que <style=cIsDamage>lanÃ§a inimigos no ar</style> e causa <style=cIsDamage>600% de dano</style>. Pode ser ativada <style=cIsDamage>3</style> vezes. MÃ¡ximo de 2.",
+
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "IncursÃ£o AÃ©rea",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "Realize uma <style=cIsUtility>investida</style>, soltando uma bomba <style=cIsDamage>no local</style> que <style=cIsDamage>lanÃ§a inimigos no ar</style> e causa <style=cIsDamage>800% de dano</style>. Pode ser ativada <style=cIsDamage>6</style> vezes. MÃ¡ximo de 2.",
+
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "Apoio AÃ©reo",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "Bombardeie uma Ã¡rea, causando <style=cIsDamage>4x400% de dano</style>, <style=cIsDamage>lanÃ§ando inimigos no ar</style> no Ãºltimo acero.",
+
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "Barragem AÃ©rea",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "Bombardeie uma Ã¡rea, causando <style=cIsDamage>8x400% de dano</style>, <style=cIsDamage>lanÃ§ando inimigos no ar</style> no Ãºltimo acero.",
+	}
+}

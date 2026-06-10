@@ -1,0 +1,23 @@
+{
+    "es-419": {
+        "ROB_HENRY_NAME": "Henry",
+        "ROB_HENRY_DESCRIPTION": "Henry es un luchador habilidoso que usa un vasto arsenal de armas para derribar a sus enemigos.<color=#CCD3E0>\n\n< ! > Espada es versátil para cualquier situación, mientras que Guantes de Boxeo son mejores para enfrentar enemigos más poderosos.\n\n< ! > Pistola es un poderoso anti-aéreo, con bajo tiempo de recarga y alto daño.\n\n< ! > Rodar tiene un buff de armadura duradero que ayuda a usarlo agresivamente.\n\n< ! > Bomba puede usarse para eliminar multitudes con facilidad.</color>\n\nMod original por rob (mantenido por TheTimesweeper). Traducido por: Jaosnake",
+        "ROB_HENRY_SUBTITLE": "El Elegido",
+        "ROB_HENRY_LORE": "historia de ejemplo",
+        "ROB_HENRY_OUTRO_FLAVOR": "..y así se fue, en busca de una nueva identidad.",
+        "ROB_HENRY_OUTRO_FAILURE": "..y así desapareció, para siempre un lienzo en blanco.",
+        "ROB_HENRY_MASTERY_SKIN_NAME": "Alternativo",
+        "ROB_HENRY_PASSIVE_NAME": "Pasiva de Henry",
+        "ROB_HENRY_PASSIVE_DESCRIPTION": "Texto de ejemplo.\n\nMod original por rob (mantenido por TheTimesweeper). Traducido por: Jaosnake",
+        "ROB_HENRY_PRIMARY_SLASH_NAME": "Espada",
+        "ROB_HENRY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Ágil.</style> Golpea hacia adelante causando <style=cIsDamage>280% de daño</style>.\n\nMod original por rob (mantenido por TheTimesweeper). Traducido por: Jaosnake",
+        "ROB_HENRY_SECONDARY_GUN_NAME": "Pistola",
+        "ROB_HENRY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Ágil.</style> Dispara una pistola causando <style=cIsDamage>420% de daño</style>.\n\nMod original por rob (mantenido por TheTimesweeper). Traducido por: Jaosnake",
+        "ROB_HENRY_UTILITY_ROLL_NAME": "Rodar",
+        "ROB_HENRY_UTILITY_ROLL_DESCRIPTION": "Rueda una corta distancia, ganando <style=cIsUtility>300 de armadura</style>. <style=cIsUtility>No puedes ser golpeado durante el rodaje.</style>\n\nMod original por rob (mantenido por TheTimesweeper). Traducido por: Jaosnake",
+        "ROB_HENRY_SPECIAL_BOMB_NAME": "Bomba",
+        "ROB_HENRY_SPECIAL_BOMB_DESCRIPTION": "Lanza una bomba causando <style=cIsDamage>1.600% de daño</style>.\n\nMod original por rob (mantenido por TheTimesweeper). Traducido por: Jaosnake",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Maestría",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Como Henry, vence el juego u oblitera en Monzón."
+    }
+}

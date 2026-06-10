@@ -1,0 +1,11 @@
+{
+    "author": "Jaosnake",
+    "name": "Lee_Hyperreal_LanguagePack",
+    "description": "Multi-language translation pack for Lee_Hyperreal by PopcornFactory.",
+    "dependencies": [
+        "PopcornFactory-Lee_Hyperreal-2.2.0",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+}

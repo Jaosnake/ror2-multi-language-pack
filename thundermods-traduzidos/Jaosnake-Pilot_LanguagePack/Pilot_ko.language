@@ -1,0 +1,46 @@
+{ "ko":
+	{
+	"MOFFEIN_PILOT_BODY_NAME" : "íŒŒì¼ëŸ¿",
+	"MOFFEIN_PILOT_BODY_SUBTITLE" : "ê³µìˆ˜ ì—ì´ìŠ¤",
+	"MOFFEIN_PILOT_BODY_LORE" : "ìœ ë‚˜ì´í‹°ë“œ ì—”í„°í”„ë¼ì´ì¦ˆ ìš´ì†¡ì‚¬ëŠ” ìš°ì£¼ ì „ì—­ì˜ íŒŒì¼ëŸ¿ì„ ë‹¹ì‚¬ì˜ ì§€ì • íŒŒì¼ëŸ¿ ì¦ê°• ìž„ê´€ í”„ë¡œê·¸ëž¨ì— ì´ˆëŒ€í•˜ê³  ìžˆìŒ. ì°©ë¥™ì„ ì†ì‰½ê²Œ ë§Œë“¤ì–´ ì£¼ëŠ” ì‚¬ì´ë²„ë„¤í‹± ì¦ê°• ì‹œìˆ , ë³‘ê¸° ë° ë³´ì•ˆ ì¸ì¦ í”„ë¡œê·¸ëž¨, í˜¸í™” íœ´ê°€ ë“± ë‹¤ì–‘í•œ í˜œíƒì„ ì œê³µí•¨. (5ë…„ ì´ìƒì˜ ë¹„í–‰ ê²½í—˜ì´ ìžˆëŠ” ì¸ì›ë§Œ ì§€ì› ê°€ëŠ¥. ì‚¬ì´ë²„ë„¤í‹± ì‹œìˆ ì˜ ê²½ìš° ëª¨ë“  í”„ë¡œê·¸ëž¨ ì°¸ì—¬ìžì—ê²Œ ë°˜ë“œì‹œ ì œê³µë˜ëŠ” ê²ƒì€ ì•„ë‹˜. ë³‘ê¸° ë° ë³´ì•ˆ ì¸ì¦ì„œëŠ” UES ì§ì›ìœ¼ë¡œ ìž¬ì§í•˜ëŠ” ë™ì•ˆì—ë§Œ ìœ íš¨í•¨. ëª¨ë“  ê¸°íšŒëŠ” ë³¸ë¬¸ì— ëª…ì‹œëœ ê·¸ëŒ€ë¡œì´ë©° ì°¸ì—¬ í–‰ì„±ì˜ ìš°ì£¼ í•´ì‚¬ë²• ë³€ë™ì— ìƒê´€ì—†ì´ ë¶€ê°€ì ì¸ í‡´ì§ê¸ˆì´ë‚˜ ê¸°íšŒ, í˜œíƒì´ ì œê³µë˜ì§„ ì•ŠìŒ.)",
+	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "íŒŒì¼ëŸ¿ì€ ê³µì¤‘ì—ì„œ ê³µê²©ì„ í¼ë¶“ëŠ” ëŠ¥ë ¥ì´ ë›°ì–´ë‚œ í•˜ëŠ˜ì˜ ì „ì‚¬ìž…ë‹ˆë‹¤.<style=cSub>\r\n\r\n< ! > íŒŒì¼ëŸ¿ì€ ì²´ê³µì„ ìœ ì§€í•˜ì—¬ ìœ„í—˜ì„ íšŒí”¼í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¤í‚¬ì„ ì˜ë¦¬í•˜ê²Œ í™œìš©í•˜ë©´ ì²´ê³µ ì‹œê°„ì„ ê·¹ëŒ€í™”í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > í‘œì  í™•ë³´!ëŠ” ë‚™í•˜ë¥¼ ë©ˆì¶”ëŠ” ë° ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ì‹ ì† ë°°ì¹˜ëŠ” ì§€ìƒì—ì„œ ì‚¬ìš©í•˜ë©´ ìœ„ë¡œ ìƒìŠ¹í•˜ê³ , ì²´ê³µ ì¤‘ì— ì‚¬ìš©í•˜ë©´ ì „ë°©ìœ¼ë¡œ ì´ë™í•©ë‹ˆë‹¤.\r\n\r\n< ! > í­ê²©ìœ¼ë¡œ ì ì„ ê³µì¤‘ìœ¼ë¡œ ë„ìš´ ë’¤ í‘œì  í™•ë³´!ì™€ ì—°ê³„í•˜ë©´ ê³µì¤‘ì—ì„œ ê³„ì† íƒ€ê²©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "...ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ë– ë‚¬ë‹¤, ì € í•˜ëŠ˜ ì•„ëž˜ë¥¼ í–¥í•œ ê¿ˆì„ í’ˆì€ ì±„.",
+	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "...ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ì‚¬ë¼ì¡Œë‹¤, ë” ì´ìƒ í•˜ëŠ˜ì— ë‹¿ì§€ ëª»í•˜ê²Œ ëœ ì±„.",
+	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "...ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ì‚¬ë¼ì¡Œë‹¤, ë” ì´ìƒ í•˜ëŠ˜ì— ë‹¿ì§€ ëª»í•˜ê²Œ ëœ ì±„.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "ì§‘ì† ë°œì‚¬",
+	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "ë¬´ê¸°ë¥¼ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§¤ 3ë²ˆì§¸ ê³µê²©ì€ <style=cIsDamage>í­ë°œ</style>í•˜ì—¬ <style=cIsDamage>320%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
+	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "ë¬´ê¸°ë¥¼ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§¤ 3ë²ˆì§¸ ê³µê²©ì€ ëŒ€ìƒì„ <style=cIsDamage>ê´€í†µ</style>í•˜ê³  <style=cIsDamage>320%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "ì†ì‚¬",
+	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ë¹ ë¥´ê²Œ ë¬´ê¸°ë¥¼ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>140%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "ì€ë°€ ì‚¬ê²©",
+	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>ì‚´í•´ìž</style>. ì†ŒìŒ ê¶Œì´ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>100%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "í‘œì  í™•ë³´!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "ë¬´ê¸°ë¥¼ <style=cIsDamage>ê´€í†µì„± ì¶”ì  í™”ê¸°</style>ë¡œ ì „í™˜í•˜ì—¬ <style=cIsDamage>3x160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsUtility>ê³µì¤‘ì— ìžˆëŠ”</style> ëŒ€ìƒì—ê²ŒëŠ” <style=cIsDamage>50%</style> ë” ë§Žì€ í”¼í•´ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 2íšŒ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "í­íƒ„ íˆ¬í•˜!",
+	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "ë¬´ê¸°ë¥¼ <style=cIsDamage>ì—ë„ˆì§€ ìœ íƒ„ ë°œì‚¬ê¸°</style>ë¡œ ì „í™˜í•˜ì—¬ <style=cIsDamage>480%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsUtility>ì²´ê³µ ì¤‘ì¼ ë•Œ</style>ëŠ” ëŒ€ì‹  <style=cIsDamage>3x220%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 2íšŒ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "ì‹ ì† ë°°ì¹˜",
+	"MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>ê¸°ì ˆ</style>. ê³µì¤‘ìœ¼ë¡œ ë‚ ì•„ì˜¬ë¼ ì ì„ ê¸°ì ˆì‹œí‚¤ê³  <style=cIsUtility>ë‚™í•˜ì‚°ì„ íŽ¼ì¹©ë‹ˆë‹¤</style>. ì²´ê³µ ì¤‘ì¼ ë•ŒëŠ” ëŒ€ì‹  <style=cIsUtility>ì „ë°©ìœ¼ë¡œ ì¶”ì§„</style>í•©ë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "ê³¡ì˜ˆë¹„í–‰",
+	"MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>ì „ë°©ìœ¼ë¡œ ëŒì§„</style>í•˜ì—¬ ìž ì‹œ <style=cIsUtility>ë¬´ì  ìƒíƒœ</style>ê°€ ë©ë‹ˆë‹¤. ë²½ì— ì‚¬ìš©í•  ê²½ìš° ë‹¬ë¼ë¶™ì–´ ë“±ë°˜í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "í­ê²©",
+	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "ë’¤ë¡œ ëŒì§„í•˜ì—¬ ë°œë°‘ì— í­íƒ„ì„ ì„¤ì¹˜í•©ë‹ˆë‹¤. í­íƒ„ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ìš°ê³ </style> <style=cIsDamage>600%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ <style=cIsDamage>3</style>íšŒ ë°œë™í•  ìˆ˜ ìžˆìœ¼ë©°, 2íšŒê¹Œì§€ ë³´ìœ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "ê³µìŠµ",
+	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "ë’¤ë¡œ ëŒì§„í•˜ì—¬ ë°œë°‘ì— í­íƒ„ì„ ì„¤ì¹˜í•©ë‹ˆë‹¤. í­íƒ„ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ìš°ê³ </style> <style=cIsDamage>800%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ <style=cIsDamage>6</style>íšŒ ë°œë™í•  ìˆ˜ ìžˆìœ¼ë©°, 2íšŒê¹Œì§€ ë³´ìœ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "í•­ê³µ ì§€ì›",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "ì§€ì • ì§€ì—­ì— ê³µìŠµì„ í¼ë¶€ì–´ <style=cIsDamage>4x400%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§ˆì§€ë§‰ íƒ€ê²©ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ì›ë‹ˆë‹¤</style>.",
+	
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "í•­ê³µ í¬í™”",
+	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "ì§€ì • ì§€ì—­ì— ê³µìŠµì„ í¼ë¶€ì–´ <style=cIsDamage>8x400%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§ˆì§€ë§‰ íƒ€ê²©ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ì›ë‹ˆë‹¤</style>.",
+	}
+}

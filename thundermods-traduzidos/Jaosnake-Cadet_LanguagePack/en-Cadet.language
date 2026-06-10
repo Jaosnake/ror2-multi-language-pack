@@ -1,0 +1,25 @@
+{
+    "en": {
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_DESCRIPTION": "The Cadet is a versatile gunner who can navigate combat with short-range weaponry and quick mobility.<color=#CCD3E0>\n\n< ! > Make sure to fire up close to effectively use your limited ammo count without reducing damage.\n\n< ! > Plan C increases damage and radius with your current ammo, so use it when your magazine is full.\n\n< ! > Use Reloading Roll to quickly avoid explosive damage and fully replenish your magazine.\n\n< ! > Try to use Echo Drones whenever possible, as they help take out enemies you might have missed while moving around. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_SUBTITLE": "Versatile Marksman",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Default",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: Specialist",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Bullet Storm",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire a laser for <style=cIsDamage>60% damage</style>. Requires <style=cIsUtility>reload</style> after 20 rounds. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Devastating Tides",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire a burst for <style=cIsDamage>3x100% damage</style>. Requires <style=cIsUtility>reload</style> after 10 projectiles. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Fire your light grenade launcher for <style=cIsDamage>400% damage</style>. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Toss your weapon dealing <style=cIsDamage>250% to 750% damage</style> based on current ammo. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Sliding Reload",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Slide in a direction, <style=cIsUtility>reloading</style> your weapon instantly. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Reloading Roll",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Roll in a direction, <style=cIsUtility>reloading</style> your weapon instantly. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire a heavy burst of pellets for <style=cIsDamage>32x150% damage</style>. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Echo Drones",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Deploy <style=cIsDamage>two drones</style> that seek nearby enemies dealing <style=cIsDamage>2x370% damage</style>. <i>Backported from pt-BR. Original mod by tsuyoikenko. Translated by: Jaosnake</i>"
+    }
+}

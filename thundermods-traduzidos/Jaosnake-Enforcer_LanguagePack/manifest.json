@@ -1,0 +1,11 @@
+{
+    "author": "Jaosnake",
+    "name": "Enforcer_LanguagePack",
+    "description": "Multi-language translation pack for Enforcer by EnforcerGang.",
+    "dependencies": [
+        "EnforcerGang-Enforcer-3.11.9",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+}

@@ -1,0 +1,12 @@
+KENKO_INTERROGATOR_NAME: å®¡è®¯è€…
+KENKO_INTERROGATOR_SUBTITLE: æŠ˜ç£¨ä¸“å®¶
+KENKO_INTERROGATOR_PASSIVE_NAME: æŠ˜ç£¨
+KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: å®¡è®¯è€…å¯ä»¥å‡»ä¸­æˆ–è¢«ç›Ÿå‹å’Œæ•Œäººå‡»ä¸­ã€‚æ”»å‡»å®¡è®¯è€…çš„æ”»å‡»è€…ä¼šè¢«æ°¸ä¹…æ ‡è®°ä¸ºæœ‰ç½ªã€‚æ¯ä¸ªæœ‰ç½ªæ•Œäººä½¿åŸºç¡€ä¼¤å®³æé«˜50ç‚¹ã€‚
+KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: æŒ¥åŠ¨ä½ çš„è­¦æ£æ”»å‡»å‰æ–¹ï¼Œé€ æˆ320%ä¼¤å®³ã€‚æœªå‘½ä¸­æ”»å‡»ä¼šä½¿ä½ æ‰¿å—90%çš„ä¼¤å®³ã€‚
+KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: æŠ•æŽ·ä¸€æŠŠåˆ‡è‚‰åˆ€ï¼Œé€ æˆ450%ä¼¤å®³ã€‚å¦‚æžœåˆ‡è‚‰åˆ€å‡»æ€ç›®æ ‡ï¼Œå¯¹åŒºåŸŸå†…æ‰€æœ‰æ•Œäººæ–½åŠ å‡ºè¡€å’ŒåŽ‹åŠ›ã€‚
+KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: å‘å‰å†²åˆºï¼Œé€ æˆ390%ä¼¤å®³å¹¶å¯¹å‡»ä¸­çš„ç›®æ ‡æ–½åŠ æœ‰ç½ªã€‚
+KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: å®šç½ª
+KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: æ ‡è®°ä¸€ä¸ªæœ‰ç½ªçš„æ•Œäººå¹¶ä¸Žä¹‹å†³æ–—10ç§’ã€‚åœ¨æ­¤æœŸé—´ï¼Œæ‰€æœ‰å¤–éƒ¨ä¼¤å®³è¢«æŠµæ¶ˆï¼ŒåŒ…æ‹¬ä½ è‡ªå·±çš„ã€‚ä½ çš„ä¸»è¦æ”»å‡»ä¸å†å‡»ä¸­ä½ ï¼Œä½†æŒç»­ç§¯ç´¯æœ‰ç½ªçš„ä¼¤å®³åŠ æˆã€‚
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: å®šç½ªï¼ˆæƒæ–ï¼‰
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: æ ‡è®°ä¸€ä¸ªæœ‰ç½ªçš„æ•Œäººå¹¶ä¸Žä¹‹å†³æ–—14ç§’ã€‚åœ¨æ­¤æœŸé—´ï¼Œæ‰€æœ‰å¤–éƒ¨ä¼¤å®³è¢«æŠµæ¶ˆã€‚ä½ çš„ä¸»è¦æ”»å‡»ä¸å†å‡»ä¸­ä½ ï¼Œä½†ä»¥åŒå€æ•ˆçŽ‡ç§¯ç´¯æœ‰ç½ªçš„ä¼¤å®³åŠ æˆã€‚
+MASTERY_SKIN_NAME: å®¡è®¯è€…ï¼šä¸“å®¶

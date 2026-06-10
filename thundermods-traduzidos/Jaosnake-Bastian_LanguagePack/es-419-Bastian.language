@@ -1,0 +1,22 @@
+{
+    "es-419": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Robot Traductor Reacondicionado",
+        "BASTIAN_DESCRIPTION": "Un robot local, construido para ayudar a negociar acuerdos con cuerpos planetarios extranjeros. Su prop\u00f3sito original era funcionar como intermediario, dise\u00f1ado para sobrevivir en planetas con aire y temperaturas que un humano normal no podr\u00eda soportar. Fue tra\u00eddo a bordo de la UES Contact Light como parte de un plan de contingencia. Sin embargo, termin\u00f3 siendo reprogramado para el combate, a pesar de ser una simple misi\u00f3n de recoger y llevar. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>",
+        "BASTIAN_NAME_EPIC": "Bastian el Traductor, Modelo 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian el Traductor, Modelo 4.I.N.K. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>",
+        "BASTIAN_OUTRO": "..y as\u00ed parti\u00f3, su funci\u00f3n finalmente cumplida.",
+        "BASTIAN_FAIL": "..y as\u00ed fue desactivado, su memoria borrada para siempre.",
+        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Cuerpo a cuerpo</style>. <style=cIsUtility>\u00c1gil</style>. Golpea enemigos adelante para <style=cIsDamage>250% de da\u00f1o</style>. Acumula <style=cIsUtility>Cargas I\u00f3nicas</style>. El da\u00f1o se reduce a la mitad mientras est\u00e1s Evasivo. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>",
+        "BASTIAN_M2": "Micro-Bala",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara hasta 5 balas de energ\u00eda, cada una causando <style=cIsDamage>250% de da\u00f1o</style>. Acumula <style=cIsUtility>Cargas I\u00f3nicas</style>. No aplica aturdimiento mientras est\u00e1s Evasivo. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>",
+        "BASTIAN_UTIL": "Nano-Resorte",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ejecuta</style> un dash r\u00e1pido en cualquier direcci\u00f3n. Acumula <style=cIsUtility>Cargas I\u00f3nicas</style>. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>",
+        "BASTIAN_SPEC": "Explosi\u00f3n del Arquitecto",
+        "BASTIAN_SPEC_DESCRIPTION": "Gasta <style=cIsHealth>33% de vida actual</style> y <style=cIsUtility>todas las Cargas I\u00f3nicas</style> para una explosi\u00f3n masiva de <style=cIsDamage>500%-3.000% de da\u00f1o</style>. Tras usarlo, te vuelves <color=#E9AFEA>Evasivo</color> por 10 segundos. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>",
+        "BASTIAN_SPEC_KEYWORD": "Especial",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Maestr\u00eda"
+    }
+}

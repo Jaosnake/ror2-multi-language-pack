@@ -1,0 +1,124 @@
+{ "en": {
+ 	 "ROB_DANTE_BODY_NAME": "<color=#B70027>Dante</color>",
+ 	 "ROB_NERO_BODY_NAME": "<color=#2150AF>Nero</color>",
+ 	 "ROB_VERGIL_BODY_NAME": "<color=#32D2FF>Vergil</color>",
+ 	 "ROB_DANTE_BODY_DESCRIPTION": "<color=#B70027>Dante</color> is a legendary devil hunter who fights with a pair of pistols and a sword.<color=#CCD3E0>\n\n< ! > Ebony & Ivory is a reliable, consistent source of damage.\n\n< ! > Each Devil Arm has a unique moveset, experiment with directional inputs to make the most of them.\n\n< ! > Use Trick to cancel actions and dodge incoming blows.\n\n< ! > Devil Trigger does stuff and things.",
+ 	 "ROB_DANTE_BODY_SUBTITLE": "Legendary Devil Hunter",
+ 	 "ROB_DANTE_BODY_LORE": "Y'kno, I really should scout my jobs better before taking them.\n\nGuy walks into my shop talking about monsters needed killing. Real stiff and proper, probably military. Shotgun where his left arm oughta be. Must mean business.\n\nHe throws a bag of money and a ship ticket on the table. This'll have me sitting pretty for months!\n\nBut I gotta stay cool, play hard to get.\n\n'Long term job means long term pay.'\n\n'I believe this will change your mind.'\n\nPhoto lands on the table. Shows a man trapped in... glass? I can't make out his face, but that pendant I'd know from anywhere.\n\nThis guy did his homework. Guess I gotta get on this ship.\n\n'Deal.'\n\nNow I get to hike across the planet cleaning up the trash.\n\nWeeks of searching, killing, surviving.\n\nBut I've gotta find <color=#32D2FF>him</color>.\n\nJob's a job, right?\n\n<color=#B70027>Let's rock.</color>",
+ 	 "ROB_DANTE_BODY_OUTRO_FLAVOR": "..and so he left.",
+ 	 "ROB_DANTE_BODY_OUTRO_FAILURE": "..and so he vanished.",
+
+ 	 "ROB_DANTE_BODY_DEFAULT_SKIN_NAME": "<color=#B70027>Default</color>",
+ 	 "ROB_DANTE_BODY_MASTERY_SKIN_NAME": "<color=#B70027>Classic</color>",
+ 	 "ROB_DANTE_BODY_TYPHOON_SKIN_NAME": "<color=#B70027>idk</color>",
+ 	 "ROB_DANTE_BODY_PRESTIGE_SKIN_NAME": "<color=#B70027>Prestige</color>"
+ 	 "ROB_DANTE_BODY_DMC2_SKIN_NAME": "<color=#B70027>Veteran</color>",
+ 	 "ROB_DANTE_BODY_DMC_SKIN_NAME": "<color=#B70027>El Donte</color>",
+ 	 "ROB_DANTE_BODY_SUPER_SKIN_NAME": "<color=#B70027>Super</color>",
+ 	 "ROB_DANTE_BODY_VERGIL_SKIN_NAME": "<color=#32D2FF>Vergil</color>",
+ 	 "ROB_DANTE_BODY_VERGILEX_SKIN_NAME": "<color=#32D2FF>Vergil EX</color>",
+ 	 "ROB_DANTE_BODY_MINECRAFT_SKIN_NAME": "<color=#B70027>Minecraft</color>",
+
+     "ROB_DANTE_BODY_PASSIVE_NAME": "<color=#B70027>Son of Sparda</color>",
+     "ROB_DANTE_BODY_PASSIVE_DESCRIPTION": "<color=#B70027>Dante</color> has access to several <style=cIsDamage>unique abilities</style>. <style=cIsUtility>Hover for more information.</style>",
+     "ROB_DANTE_BODY_CONFIRM_NAME": "Confirm",
+ 	 "ROB_DANTE_BODY_CONFIRM_DESCRIPTION": "Proceed with the current skill.",
+ 	 "ROB_DANTE_BODY_CANCEL_NAME": "Cancel",
+ 	 "ROB_DANTE_BODY_CANCEL_DESCRIPTION": "Cancel the current skill.",
+
+ 	 "ROB_DANTE_BODY_PRIMARY_NAME": "<color=#B70027>Ebony & Ivory</color>",
+ 	 "ROB_DANTE_BODY_PRIMARY_DESCRIPTION": "Rapidly shoot for <style=cIsDamage>120% damage</style>. Stop firing for <style=cIsUtility>1 second</style> to prepare a <style=cIsDamage>charge shot</style> that deals <style=cIsDamage>350% damage</style>.",
+
+ 	 "ROB_NERO_BODY_PRIMARY_NAME": "<color=#2150AF>Blue Rose</color>",
+ 	 "ROB_NERO_BODY_PRIMARY_DESCRIPTION": "Shoot twice, for <style=cIsDamage>200% damage</style> and <style=cIsDamage>350% damage</style>. Hold for <style=cIsUtility>1 second</style> to prepare a <style=cIsDamage>charge shot</style>.",
+
+ 	 "ROB_VERGIL_BODY_PRIMARY_NAME": "<color=#32D2FF>Summon Swords</color>",
+ 	 "ROB_VERGIL_BODY_PRIMARY_DESCRIPTION": "Fire spectral swords for <style=cIsDamage>200% damage</style>.",
+
+ 	 "ROB_DANTE_BODY_MELEE_NAME": "<color=#B70027>Lock & Load</color>",
+ 	 "ROB_DANTE_BODY_MELEE_DESCRIPTION": "Ready your <style=cIsUtility>held weapon</style>. <style=cIsDamage>Primary</style> becomes <style=cIsDamage>melee attacks</style>, and enemy attacks are <style=cIsUtility>deflected</style> while held.",
+
+	 "ROB_DANTE_BODY_UTILITY_NAME": "<color=#B70027>Trick</color>",
+	 "ROB_DANTE_BODY_UTILITY_DESCRIPTION": "<style=cIsUtility>Dash</style> in a direction, becoming briefly <style=cIsUtility>invulnerable</style>. <style=cIsUtility>Melee hits instantly refresh this skill.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_NAME": "<color=#A556FF>Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_DESCRIPTION": "<color=#B70027>Hellbent.</color> Activate <color=#A556FF>Devil Trigger</color>, draining your gauge to gain temporary <style=cIsUtility>armor</style>, <style=cIsHealing>regeneration</style> and <style=cIsDamage>damage</style>. <style=cIsUtility>Melee hits fill the gauge.</style>",
+
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_NAME": "Perfect Devil Trigger",
+	 "ROB_DANTE_BODY_SPECIAL_DEVILTRIGGER_SCEPTER_DESCRIPTION": "<color=#B70027>Hellbent.</color> Activate <color=#A556FF>Devil Trigger</color>, draining your gauge to gain temporary <style=cIsUtility>armor</style>, <style=cIsHealing>regeneration</style> and <style=cIsDamage>damage</style>. <style=cIsUtility>Melee hits fill the gauge.</style>\n<color=#d299ff>SCEPTER: Ravage your foes with summoned swords while active.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_NAME": "<color=#B70027>Sin Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_DESCRIPTION": "<style=cIsUtility>Hold</style> to funnel gauge into the <color=#B70027>Sin Devil Trigger</color> gauge. <style=cIsUtility>Hold</style> when full to unleash your <style=cIsDamage>true demonic form</style> for a short time.",
+
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_NAME": "<color=#B70027>Perfect Sin Devil Trigger</color>",
+	 "ROB_DANTE_BODY_SPECIAL_SDT_SCEPTER_DESCRIPTION": "<style=cIsUtility>Hold</style> to funnel gauge into the <color=#B70027>Sin Devil Trigger</color> gauge. <style=cIsUtility>Hold</style> when full to unleash your <style=cIsDamage>true demonic form</style> for a short time.\n<color=#d299ff>SCEPTER: Ravage your foes with summoned swords while active.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_NAME": "Silver Bullet",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_DESCRIPTION": "Shoot a <style=cIsUtility>silver bullet</style> for <style=cIsDamage>800% damage</style>. <style=cIsUtility>Headshots</style> deal <style=cIsDamage>2x damage</style>. Kills <style=cIsUtility>reset all your cooldowns</style>.",
+
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Golden Gun",
+	 "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Shoot a <style=cIsUtility>silver bullet</style> for <style=cIsDamage>800% damage</style>. <style=cIsUtility>Headshots</style> deal <style=cIsDamage>2x damage</style>. Kills <style=cIsUtility>reset all your cooldowns</style>.\n<color=#d299ff>SCEPTER: Deals 9000% damage.</color>",
+
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "Sacred Flame",
+	 "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoke the power of <color=#FF0033>Providence</color>, unleashing a <style=cIsUtility>massive flame</style> for <style=cIsDamage>300% damage per tick</style>. Ends with a <style=cIsDamage>4000% damage</style> supernova.",
+
+	 "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "Passive",
+	 
+	 "ROB_DANTE_DEVILSHRINE_NAME": "Shrine of the Night",
+	 "ROB_DANTE_DEVILSHRINE_DESC": "I am not paid enough to write these.",
+	 "ROB_DANTE_DEVILSHRINE_CONTEXT": "Pray to Shrine of the Night",
+	 
+	 "ROB_DANTE_TREASURECHEST_NAME": "Treasure Chest",
+	 "ROB_DANTE_TREASURECHEST_DESC": "HEEEEEEEEEELLLLLLLPPPPP MEEEEEEEEEE",
+	 "ROB_DANTE_TREASURECHEST_CONTEXT": "Use key and open",
+	 "ROB_DANTEKEYCOST": "Skeleton Key",
+	 
+	 "ROB_DANTE_KEYFRAGMENT_NAME": "Key Fragment",
+	 "ROB_DANTE_KEYFRAGMENT_DESC": "Fractured piece of a key. Collect 3 to form a whole key.",
+	 "ROB_DANTE_KEYFRAGMENT_PICKUP": "Fractured piece of a key. Collect 3 to form a whole key.",
+	 "ROB_DANTE_KEYFRAGMENT_LORE": "",
+	 
+	 "ROB_DANTE_KEY_NAME": "Skeleton Key",
+	 "ROB_DANTE_KEY_DESC": "Used to open a <color=#FFFF00>Treasure Chest</color>. These chests contain a <color=#FF0033>sacred relic</color> and spawn every <style=cIsUtility>fourth</style> stage in a <style=cIsDamage>fixed location</style>.",
+	 "ROB_DANTE_KEY_PICKUP": "Used to open a Treasure Chest. Glows when near a chest.",
+	 "ROB_DANTE_KEY_LORE": "",
+	 
+	 "ROB_DANTE_REBELLION_NAME": "Rebellion",
+	 "ROB_DANTE_REBELLION_DESC": "sowrd",
+	 "ROB_DANTE_REBELLION_PICKUP": "sord",
+	 "ROB_DANTE_REBELLION_LORE": "",
+	 
+	 "ROB_DANTE_TITAN_NAME": "Titan",
+	 "ROB_DANTE_TITAN_DESC": "the 1,000,000,000,000,000,000 year old pooooncher",
+	 "ROB_DANTE_TITAN_PICKUP": ".",
+	 "ROB_DANTE_TITAN_LORE": "",
+	 
+	 "ROB_DANTE_QUEEN_NAME": "Queen",
+	 "ROB_DANTE_QUEEN_DESC": "Dual greatshields great for heavy hits and crowd control.",
+	 "ROB_DANTE_QUEEN_PICKUP": "A hefty pair of greatshields.",
+	 "ROB_DANTE_QUEEN_LORE": "",
+	 
+	 "ROB_DANTE_MITHRIX_NAME": "Mithrix",
+	 "ROB_DANTE_MITHRIX_DESC": "The",
+	 "ROB_DANTE_MITHRIX_PICKUP": "",
+	 "ROB_DANTE_MITHRIX_LORE": "",
+	 
+	 "ROB_DANTE_BROTHERSOUL_NAME": "Soul of the King",
+	 "ROB_DANTE_BROTHERSOUL_DESC": "Every <style=cIsUtility>whip crack</style> spawns a <style=cIsDamage>lunar flame pillar</style>, every <style=cIsUtility>sword swing</style> spawns a <style=cIsDamage>lunar shard</style>, every <style=cIsUtility>whip slam</style> unleashes <style=cIsDamage>ground shockwaves</style> and every <style=cIsUtility>dash</style> generates <style=cIsHealing>20% barrier</style>.",
+	 "ROB_DANTE_BROTHERSOUL_PICKUP": "Wield the King of Nothing's power as your own.",
+	 "ROB_DANTE_BROTHERSOUL_LORE": "",
+	 
+	 "ROB_DANTE_ITEM_EFFECT_TITLE": "Bonus Effect",
+	 "ROB_DANTE_ITEM_EFFECT_BACKUPMAG": "Gain the ability to store extra Charge Shots.",
+	 "ROB_DANTE_ITEM_EFFECT_BANDOLIER": "Ammo packs restore gauge.",
+	 "ROB_DANTE_ITEM_EFFECT_ALIENHEAD": "Devil Trigger consumes less gauge.",
+	 "ROB_DANTE_ITEM_EFFECT_BRAINSTALKS": "Devil Trigger consumes no gauge while active.",
+	 "ROB_DANTE_ITEM_EFFECT_PURITY": "Increases gauge gained on hit.",
+	 "ROB_DANTE_ITEM_EFFECT_LYSATECELL": "Increases maximum gauge.",
+	 "ROB_DANTE_ITEM_EFFECT_LUMINOUSSHOT": "Charges up while your weapon is out. Resets when you put it away.",
+
+	 "KEYWORD_HELLBENT": "<style=cKeywordName>Hellbent</style><style=cSub><style=cIsUtility>Once per stage</style>, falling below <style=cIsHealth>25% health</style> fills your gauge and grants a free <color=#A556FF>Devil Trigger</color>.",
+
+	 "KEYWORD_SONOFSPARDA": "<style=cKeywordName>Devil Arms</style><style=cSub>Certain bosses' souls are turned into obtainable weapons upon death. Tap sprint with your weapon out to cycle through them.\n\n<style=cKeywordName>Speed</style><style=cSub>Run with incredible speed. Cannot be activated in battle.\n\n<style=cKeywordName>Air Hike</style><style=cSub>Double jump.\n\n<style=cKeywordName>Enemy Step</style><style=cSub>Double jump off of an enemy."
+	 }
+}

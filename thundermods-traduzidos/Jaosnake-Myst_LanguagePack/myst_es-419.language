@@ -1,0 +1,102 @@
+JAVANGLE_MYST_BODY_NAME: Myst
+JAVANGLE_MYST_BODY_SUBTITLE: El Arcano Misterioso
+JAVANGLE_MYST_BODY_DESCRIPTION: Myst es un superviviente versÃ¡til que usa <style=cIsUtility>Poder MÃ¡gico</style> para utilizar una variedad de habilidades sobrenaturales, y <style=cIsUtility>Limit</style> para liberar supermovimientos poderosos. <i>Translated by: Jaosnake. Original mod by JavAngle</i>
+JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: Predeterminado
+JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: MaestrÃ­a
+JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: Gran MaestrÃ­a
+
+BASEFORM_SLASH_NAME: Corte Vorpal
+BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Corta a los enemigos frente a ti causando <style=cIsDamage>165% de daÃ±o</style>.
+BASEFORM_DASH_NAME: Arremetida
+BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>Ãgil</style>. DeslÃ­zate una corta distancia en cualquier direcciÃ³n horizontal.
+BASEFORM_BLOCK_NAME: ApariciÃ³n
+BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>MantÃ©n</style> para reducir drÃ¡sticamente el daÃ±o frontal recibido, ganando <style=cIsUtility>Limit</style> basado en el daÃ±o bloqueado. Si <style=cIsUtility>cronometrado correctamente</style>: anula el daÃ±o de todas las direcciones, enfrÃ­a la habilidad, restaura <style=cIsUtility>Poder MÃ¡gico</style> basado en el daÃ±o bloqueado, gana el <style=cIsUtility>doble de Limit</style> y refleja hasta <style=cIsDamage>3x el daÃ±o</style> bloqueado a los enemigos cercanos.
+BASEFORM_LIMITMENU_NAME: MenÃº de Limit
+BASEFORM_LIMITMENU_DESCRIPTION: Abre el MenÃº de Limit, permitiendo usar <style=cIsUtility>Limit Breaks</style> equipados.
+
+JAVANGLE_MYST_BODY_UI_MAGICNAME: MenÃº de Magia
+JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: Abre el MenÃº de Magia, permitiendo usar hechizos equipados.
+JAVANGLE_MYST_BODY_UI_LIMITNAME: MenÃº de Limit
+JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: Abre el MenÃº de Limit, permitiendo usar Limit Breaks equipados.
+JAVANGLE_MYST_BODY_UI_SHOPRANDOM: Aleatorio
+JAVANGLE_MYST_BODY_UI_SHOPSPELL: Hechizo
+JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: Soporte
+JAVANGLE_MYST_BODY_UI_SHOPLIMIT: Limit
+JAVANGLE_MYST_BODY_UI_SHOPFINISHER: Finalizador
+JAVANGLE_MYST_BODY_UI_SORT: Ordenar
+JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: Tutorial
+JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: Myst usa dos menÃºs para utilizar sus <style=cIsUtility>Magias</style> equipadas y liberar las habilidades almacenadas en ellas.
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: Inventario de Magia
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: Nombre
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: Nivel
+JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: Desguazar
+JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: Magias Equipadas
+
+JOBCLASS_MYSTIC_NAME: MÃ­stico
+JOBCLASS_MYSTIC_DESCRIPTION: Comienza la partida con un kit versÃ¡til con un poco de todo.
+JOBCLASS_MYSTIC_KEYWORD: MÃ­stico
+JOBCLASS_WARRIOR_NAME: Guerrero
+JOBCLASS_WARRIOR_DESCRIPTION: Comienza la partida con un kit enfocado en usar ataques Finalizadores.
+JOBCLASS_WARRIOR_KEYWORD: Guerrero
+JOBCLASS_SORCERER_NAME: Hechicero
+JOBCLASS_SORCERER_DESCRIPTION: Comienza la partida con un kit enfocado en hechizos.
+JOBCLASS_SORCERER_KEYWORD: Hechicero
+JOBCLASS_BABY_NAME: BebÃ©
+JOBCLASS_BABY_DESCRIPTION: Comienza la partida sin ninguna magia.
+JOBCLASS_BABY_KEYWORD: BebÃ©
+JOBCLASS_CHAD_NAME: Chad
+JOBCLASS_CHAD_DESCRIPTION: Comienza la partida sin ninguna magia.
+JOBCLASS_CHAD_KEYWORD: Chad
+
+MAGICITE_FIREBALL_NAME: Bola de Fuego
+MAGICITE_FIREBALL_DESCRIPTION: Dispara una bola de fuego teledirigida al objetivo que explota al impactar, causando daÃ±o e <style=cIsDamage>incendiando</style> a los enemigos en el Ã¡rea de efecto.
+MAGICITE_CALL_LIGHTNING_NAME: Rayo
+MAGICITE_CALL_LIGHTNING_DESCRIPTION: Invoca un rayo sobre tu objetivo, causando daÃ±o y derribando enemigos aÃ©reos al suelo.
+MAGICITE_CONE_OF_FROST_NAME: Cono de Hielo
+MAGICITE_CONE_OF_FROST_DESCRIPTION: Invoca un cono de viento helado para causar daÃ±o y <style=cIsDamage>congelar</style> a los enemigos frente a ti.
+MAGICITE_FORTIFY_NAME: Fortificar
+MAGICITE_FORTIFY_DESCRIPTION: DespuÃ©s de una breve canalizaciÃ³n: concede un poderoso buff de <style=cIsUtility>armadura</style> para ti y un aliado objetivo.
+MAGICITE_MEND_WOUNDS_NAME: Curar Heridas
+MAGICITE_MEND_WOUNDS_DESCRIPTION: DespuÃ©s de una breve canalizaciÃ³n: te cura a ti y a un aliado objetivo en <style=cIsHealing>50% de la Salud MÃ¡xima</style>.
+MAGICITE_MAGNET_NAME: Magnet
+MAGICITE_MAGNET_DESCRIPTION: Invoca un campo magnÃ©tico para atraer enemigos en un Ã¡rea amplia alrededor del objetivo.
+MAGICITE_HASTE_NAME: Acelerar
+MAGICITE_HASTE_DESCRIPTION: DespuÃ©s de una breve canalizaciÃ³n: concede Velocidad de Movimiento y Ataque para ti y un aliado objetivo.
+MAGICITE_MAGIC_MISSILE_NAME: Misil MÃ¡gico
+MAGICITE_MAGIC_MISSILE_DESCRIPTION: Dispara una andanada de proyectiles mÃ¡gicos teledirigidos que buscan objetivos. MÃ¡s PM resulta en mÃ¡s proyectiles disparados.
+MAGICITE_ECLIPSE_GATE_NAME: Portal Eclipse
+MAGICITE_ECLIPSE_GATE_DESCRIPTION: Invoca un fragmento de poder umbral para causar daÃ±o al objetivo basado en el PM faltante.
+MAGICITE_ULTIMA_NAME: Ultima
+MAGICITE_ULTIMA_DESCRIPTION: DespuÃ©s de una breve canalizaciÃ³n: gasta todo el Poder MÃ¡gico restante para crear un gran vÃ³rtice de energÃ­a que causa daÃ±o increÃ­ble a todos los enemigos en un Ã¡rea amplia despuÃ©s de una larga demora.
+
+MAGICITE_FATED_CIRCLE_NAME: CÃ­rculo del Destino
+MAGICITE_FATED_CIRCLE_DESCRIPTION: Un ataque giratorio que aturde y atrae enemigos, seguido de explosiones de fuego que los repelen, causando daÃ±o pesado.
+MAGICITE_EXPLOSION_NAME: ExplosiÃ³n
+MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>(Los Finalizadores difieren segÃºn si Myst estÃ¡ en el suelo o en el aire)</style>. MantÃ©n tu posiciÃ³n e invoca Orbes de Luz para orbitar a tu alrededor, causando daÃ±o y aturdiento a los enemigos cercanos.
+MAGICITE_CHALLENGING_SHOUT_NAME: Grito Desafiante
+MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: Suelta un grito de mando que debilita y arrastra a los enemigos hacia ti.
+MAGICITE_BLADE_DANCE_NAME: Danza de las Cuchillas
+MAGICITE_BLADE_DANCE_DESCRIPTION: Una serenata artÃ­stica de golpes cortantes que propulsa al usuario y causa daÃ±o rÃ¡pidamente.
+MAGICITE_JUDGEMENT_CUT_NAME: Corte de Juicio
+MAGICITE_JUDGEMENT_CUT_DESCRIPTION: VuÃ©lvete intangible y golpea mÃºltiples veces en un Ã¡rea de efecto, causando mÃ¡s golpes con mayor velocidad de ataque.
+MAGICITE_SHILLELAGH_NAME: Shillelagh
+MAGICITE_SHILLELAGH_DESCRIPTION: Cuando estÃ¡ en <style=cIsUtility>Recarga MÃ¡gica</style>: causa daÃ±o pesado y restaura Poder MÃ¡gico. Pero de lo contrario, es poco impresionante.
+
+MAGICITE_BLASTING_ZONE_NAME: Zona Explosiva
+MAGICITE_BLASTING_ZONE_DESCRIPTION: Invoca un pilar gigante de fuerza para envolver la Espada Vorpal, antes de balancear la hoja para golpear a los enemigos frente a ti, causando daÃ±o increÃ­ble en un Ã¡rea amplia.
+MAGICITE_BERSERK_FORM_NAME: Forma Berserker
+MAGICITE_BERSERK_FORM_DESCRIPTION: Myst se enfurece, ganando Velocidad de Movimiento y Altura de Salto aumentadas, ademÃ¡s de un conjunto de movimientos enfocado en ataques.
+MAGICITE_JUDGEMENT_CUT_END_NAME: Corte de Juicio Final
+MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: Envaina la Espada Vorpal, acumulando energÃ­a antes de liberar una rÃ¡faga de cortes relÃ¡mpago que causan daÃ±o increÃ­ble despuÃ©s de una demora.
+MAGICITE_POWER_WORD_KILL_NAME: Palabra Mortal
+MAGICITE_POWER_WORD_KILL_DESCRIPTION: DespuÃ©s de una breve canalizaciÃ³n: <style=cIsDamage>instantÃ¡neamente</style> elimina al objetivo.
+
+MAGICITE_MP_THRIFT_NAME: MP EconÃ³mico
+MAGICITE_MP_THRIFT_DESCRIPTION: El Hechizo vinculado cuesta menos PM.
+MAGICITE_MP_TURBO_NAME: MP Turbo
+MAGICITE_MP_TURBO_DESCRIPTION: El Hechizo vinculado causa mÃ¡s daÃ±o y cuesta mÃ¡s PM.
+MAGICITE_LIMIT_SYPHON_NAME: SifÃ³n de Limit
+MAGICITE_LIMIT_SYPHON_DESCRIPTION: Concede Limit basado en el Costo de Magia.
+
+JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: NÂº de rayos:
+JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% x nÃºmero de golpes bloqueados

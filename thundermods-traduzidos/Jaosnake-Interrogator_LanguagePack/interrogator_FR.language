@@ -1,0 +1,12 @@
+KENKO_INTERROGATOR_NAME: Interrogateur
+KENKO_INTERROGATOR_SUBTITLE: SpÃ©cialiste du Tourment
+KENKO_INTERROGATOR_PASSIVE_NAME: Tourment
+KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: L'Interrogateur peut toucher et Ãªtre touchÃ© par ses alliÃ©s et ennemis. Les attaquants qui touchent l'Interrogateur sont marquÃ©s en permanence comme Coupables. Infligez 50 dÃ©gÃ¢ts de base supplÃ©mentaires par ennemi Coupable.
+KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Balancez votre matraque devant vous, infligeant 320% de dÃ©gÃ¢ts. Rater l'attaque vous fait subir 90% de dÃ©gÃ¢ts Ã  la place.
+KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Lancez un couperet qui inflige 450% de dÃ©gÃ¢ts. Si le couperet tue la cible, applique HÃ©morragie et Pression sur tous dans la zone.
+KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Avancez rapidement infligeant 390% de dÃ©gÃ¢ts et appliquant Coupable aux cibles touchÃ©es.
+KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Condamner
+KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Marquez un ennemi Coupable et affrontez-le pendant 10s. Pendant cette pÃ©riode, tous les dÃ©gÃ¢ts externes sont annulÃ©s, y compris les vÃ´tres. Votre attaque primaire ne peut plus vous toucher, mais accumule continuellement le bonus de dÃ©gÃ¢ts de Coupable.
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Condamner (Sceptre)
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Marquez un ennemi Coupable et affrontez-le pendant 14s. Pendant cette pÃ©riode, tous les dÃ©gÃ¢ts externes sont annulÃ©s. Votre attaque primaire ne peut plus vous toucher, mais accumule le bonus de dÃ©gÃ¢ts de Coupable avec une double efficacitÃ©.
+MASTERY_SKIN_NAME: Interrogateur : SpÃ©cialiste

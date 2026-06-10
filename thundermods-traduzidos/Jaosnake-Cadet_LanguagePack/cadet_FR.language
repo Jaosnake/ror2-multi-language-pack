@@ -1,0 +1,19 @@
+KENKO_CADET_NAME: Cadet
+KENKO_CADET_SUBTITLE: Tireur d'Ã‰lite Polyvalent
+KENKO_CADET_MASTERY_SKIN_NAME: Cadet : SpÃ©cialiste
+PRIMARY_SMG_NAME: Mitraillette
+PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez rapidement avec votre mitraillette pour <style=cIsDamage>60% de dÃ©gÃ¢ts</style> par balle.
+PRIMARY_SHOTGUN_NAME: Fusil Ã  Pompe
+PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez avec votre fusil Ã  pompe pour <style=cIsDamage>100% de dÃ©gÃ¢ts</style>.
+SECONDARY_GRENADE_NAME: Grenade
+SECONDARY_GRENADE_DESCRIPTION: Lancez une grenade qui inflige <style=cIsDamage>400% de dÃ©gÃ¢ts</style>.
+SECONDARY_THROWGUN_NAME: LancÃ© d'Arme
+SECONDARY_THROWGUN_DESCRIPTION: Lancez votre arme actuelle pour <style=cIsDamage>600% de dÃ©gÃ¢ts</style>.
+UTILITY_SLIDE_NAME: Glissade
+UTILITY_SLIDE_DESCRIPTION: Glissez dans une direction, <style=cIsUtility>rechargeant</style> votre arme instantanÃ©ment.
+UTILITY_ROLLOAD_NAME: Roulade Tactique
+UTILITY_ROLLOAD_DESCRIPTION: Roulez dans une direction, rechargeant votre arme.
+SPECIAL_ECHO_NAME: Ã‰cho
+SPECIAL_ECHO_DESCRIPTION: Tirez des drones soniques qui ricochent entre les ennemis, infligeant <style=cIsDamage>350% de dÃ©gÃ¢ts</style> et appliquant un ralentissement.
+SPECIAL_ULTRA_NAME: Ultra
+SPECIAL_ULTRA_DESCRIPTION: Tirez une puissante rafale d'Ã©nergie qui inflige <style=cIsDamage>600% de dÃ©gÃ¢ts</style>.

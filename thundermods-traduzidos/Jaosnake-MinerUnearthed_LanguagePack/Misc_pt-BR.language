@@ -1,0 +1,12 @@
+{ "pt-BR":
+	{
+	"FATACRID_BODY_NAME" : "Perro Grande",
+	"FATACRID_BODY_SUBTITLE" : "(Forma Gigante)",
+	
+	"DIGGERPLUGIN_DIRESEEKER_BODY_NAME" : "CaÃ§ador Atroz",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE" : "Rastreia e Mata",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_LORE" : " Lendas contam de uma besta monstruosa que percorria o subterrÃ¢neo de Petrichor V.\n\nTemido pelos sobreviventes mais corajosos e pelos monstros mais assustadores, a enorme besta era inigualÃ¡vel. Ela tinha escamas vermelhas como o sangue e banhadas pelo prÃ³prio fogo do inferno. Ela tinha olhos amarelos flamejantes, com um brilho tÃ£o intenso que fazia a maior das criaturas morrer em sua prÃ³pria trilha. Ela tinha um bafo fumegante, quente o suficiente para derreter qualquer metal em um instante.\n\nEla foi parada uma Ãºnica vez por um sobrevivente forte o bastante para matar o prÃ³prio ProvidÃªncia sozinho, acredita-se que a besta finalmente encontrou um oponente Ã  altura.\n\n<style=cIsHealth>AtÃ© dar as caras novamente.</style>",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR" : "... entÃ£o ela partiu, a procura de mais presas.",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME" : "PadrÃ£o"
+	}
+}

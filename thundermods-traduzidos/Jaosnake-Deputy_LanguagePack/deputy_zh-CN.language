@@ -1,0 +1,22 @@
+BOG_DEPUTY_BODY_NAME: å‰¯è­¦é•¿
+BOG_DEPUTY_BODY_SUBTITLE: é—ªç”µæ­£ä¹‰
+BOG_DEPUTY_BODY_DESCRIPTION: å‰¯è­¦é•¿æ˜¯ä¸€åè¶…æ¿€è¿›çš„æžé€Ÿæ¶é­”ï¼Œç”¨å¥¹çš„åŒæŒå·¦è½®æ‰‹æžªå’Œè‡´å‘½è¸¢æŠ€æ¥ä¼¸å¼ æ­£ä¹‰ã€‚ <i>Translated by: Jaosnake. Original mod by Bog</i>
+
+BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
+BOG_DEPUTY_BODY_PASSIVE_NAME: ä¸æ‡ˆè¿½å‡»
+BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: å‰¯è­¦é•¿å¯ä»¥å‘ä»»ä½•æ–¹å‘å†²åˆºã€‚ç”¨æŠ€èƒ½å‡»ä¸­æ•Œäººä¼šèŽ·å¾—å¯å åŠ çš„<style=cIsUtility>ç§»åŠ¨é€Ÿåº¦</style>å¢žç›Šã€‚
+
+PRIMARY_SHOOT_NAME: ç²¾å‡†å°„å‡»
+PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚ç”¨ä¸­è·ç¦»å·¦è½®æ‰‹æžªå°„å‡»ï¼Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
+
+SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚æŠ•æŽ·ä¸¤æŠŠå·¦è½®æ‰‹æžªã€‚<style=cIsDamage>çœ©æ™•</style>ã€‚è·³è·ƒå¹¶å‘èº«ä¸‹çš„æ•Œäººå°„å‡»ï¼Œé€ æˆ<style=cIsDamage>6x100%ä¼¤å®³</style>ã€‚
+
+UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚å°„å‡ºä¸€å‘ç²¾å‡†çš„å­å¼¹ï¼Œå¯ä»¥ç•¥å¾®å‘ä¸Šè°ƒæ•´è§’åº¦ã€‚é€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
+
+SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800%ä¼¤å®³</style>ã€‚<style=cIsUtility>å‡»æ€é‡ç½®ä½ çš„è¾…åŠ©æŠ€èƒ½å†·å´æ—¶é—´</style>ã€‚
+
+SPECIAL_BULLETHEAVEN_DESCRIPTION: é«˜é«˜è·ƒå…¥ç©ºä¸­ï¼Œç–¯ç‹‚å‘ä¸‹å€¾æ³»å­å¼¹ï¼Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
+
+MASTERY_SKIN_NAME: å‰¯è­¦é•¿ï¼šç²¾é€š
+BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..äºŽæ˜¯å¥¹ç¦»åŽ»äº†ï¼Œåœ¨é›·é¸£èˆ¬çš„æŽŒå£°ä¸­ã€‚
+BOG_DEPUTY_BODY_OUTRO_FAILURE: ..äºŽæ˜¯å¥¹æ¶ˆå¤±äº†ï¼Œå¥¹çš„è¡¨æ¼”ç»ˆäºŽè½ä¸‹äº†å¸·å¹•ã€‚

@@ -1,0 +1,30 @@
+POPCORN_ARSONIST_BODY_NAME: çºµç«è€…
+POPCORN_ARSONIST_BODY_SUBTITLE: ç–¯ç‹‚çºµç«ç‹‚
+POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME: æ™®é€šè®¡é‡è¡¨
+POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: å¯¹ç™½è‰²éƒ¨åˆ†é€ æˆ<style=cIsDamage>100%</style>ä¼¤å®³ã€‚åŸºç¡€è®¡é‡è¡¨å¯¹è¿‡çƒ­æœ‰æŠ—æ€§ã€‚
+POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: æš´å‡»è®¡é‡è¡¨
+POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: å¯¹ç™½è‰²éƒ¨åˆ†é€ æˆ<style=cIsDamage>70%</style>ä¼¤å®³ï¼Œå¯¹è“è‰²éƒ¨åˆ†é€ æˆ<style=cIsDamage>250%</style>ä¼¤å®³ã€‚æœ€å¤§çƒ­é‡å›ºå®šã€‚
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME: Dragon's Breath
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: å‘å°„ä¸€é“ç«ç„°å…‰æŸï¼Œé€ æˆ<style=cIsDamage>90%ä¼¤å®³</style>ã€‚ç¦»ç›®æ ‡è¶Šè¿‘ï¼Œç‚¹ç‡ƒå‡ çŽ‡è¶Šé«˜ã€‚
+POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME: Fireball
+POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION: <style=cIsUtility>çƒ­é‡ã€‚</style>å‘å°„ä¸€æžšç«çƒï¼Œå‘½ä¸­æ—¶é€ æˆ<style=cIsDamage>225%ä¼¤å®³å¹¶ç‚¹ç‡ƒ</style>æ•Œäººã€‚
+POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME: Zero Point Blast
+POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>æ•æ·ã€‚çƒ­é‡ã€‚</style>å‘å‰æŽ¨è¿›ï¼Œå¼•çˆ†èº«åŽæ•Œäººé€ æˆ<style=cIsDamage>200%ä¼¤å®³</style>ã€‚å‘å°„åŽç«‹å³æ’žå‡»ç¬¬ä¸€ä¸ªæ•Œäººä¼šåœ¨å‘¨å›´å¼•å‘çˆ†ç‚¸é€ æˆ<style=cIsDamage>200%ä¼¤å®³</style>ã€‚
+POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME: ä¿¡å·æžª
+POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: å‘å°„ä¸€æžšä¿¡å·å¼¹ï¼Œåœ¨5ç§’å†…é€ æˆ<style=cIsDamage>400%ä¼¤å®³</style>ï¼Œç„¶åŽçˆ†ç‚¸é€ æˆ<style=cIsDamage>400%ä¼¤å®³</style>ï¼Œé‡Šæ”¾5æžšä¿¡å·å¼¹å„é€ æˆ<style=cIsDamage>200%ä¼¤å®³</style>ã€‚
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME: Masochism
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>æ•æ·ã€‚çƒ­é‡ã€‚</style>è¢«<style=cIsDamage>ç‚¹ç‡ƒ</style>é€ æˆçš„ä¼¤å®³è½¬åŒ–ä¸º<style=cIsHealing>æ²»ç–—</style>ï¼ŒæŒç»­6.5ç§’ã€‚å¢žåŠ <style=cIsDamage>125%</style>æ”»å‡»é€Ÿåº¦ã€‚
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME: å—è™ç‹‚
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: å½“è¾¾åˆ°<style=cKeywordName>é¢„åˆ¤</style>ä¸Šé™æ—¶ï¼Œå‘¨æœŸæ€§åœ°å¯¹è‡ªå·±é€ æˆä¼¤å®³ï¼Œä»¥æ¢å–èŒƒå›´<style=cIsHealing>ç”Ÿå‘½å·å–</style>å’Œç¼çƒ§ã€‚æœ€å¤š10ç§’åŽï¼Œ<style=cIsDamage>å¼•çˆ†</style>ï¼Œç„¶åŽ<style=cIsUtility>è¿‡çƒ­</style>ã€‚
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME: æ€¨æ¨
+POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: å½“è¾¾åˆ°<style=cKeywordName>é¢„åˆ¤</style>ä¸Šé™æ—¶ï¼Œä½ ç§»åŠ¨æ›´å¿«å¹¶èŽ·å¾—<style=cKeywordName>åŒé‡å°„å‡»</style>å’Œ<style=cIsHealing>ç”Ÿå‘½å·å–</style>ã€‚æœ€å¤š10ç§’åŽï¼Œ<style=cIsDamage>å¼•çˆ†</style>ï¼Œç„¶åŽ<style=cIsUtility>è¿‡çƒ­</style>ã€‚
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME: Dante's Rebuke
+POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: å‘å°„ä¸€é“å¼ºçƒˆå…‰æŸï¼Œé€ æˆ<style=cIsDamage>140%ä¼¤å®³</style>ã€‚ç¦»ç›®æ ‡è¶Šè¿‘ï¼Œç‚¹ç‡ƒå‡ çŽ‡è¶Šé«˜ã€‚æŒ‰ä½2ç§’æˆ–æ›´ä¹…åŽï¼Œæ¾å¼€æ—¶å‘å°„ä¸€é“æœ€ç»ˆå…‰æŸï¼Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>é¢„åˆ¤</style>æ¯å¤±åŽ»å’Œ/æˆ–èŽ·å¾—100çƒ­é‡ï¼Œçºµç«è€…èŽ·å¾—1å±‚é¢„åˆ¤ï¼›èŽ·å¾—5å±‚åŽï¼Œä»–å¯æ¿€æ´»å—è™ç‹‚ï¼›é¢å¤–å±‚æ•°å¢žåŠ ä¼¤å®³å’ŒæŒç»­æ—¶é—´ï¼›æ‰€æœ‰å±‚æ•°åœ¨ç»“æŸæ—¶æ¶ˆè€—ã€‚
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>å¼•çˆ†</style>çºµç«è€…çˆ†ç‚¸ï¼Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ä¹˜ä»¥ç´¯ç§¯çš„é¢„åˆ¤å±‚æ•°ã€‚
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL: <style=cKeywordName>ç”Ÿå‘½å·å–</style>çºµç«è€…åœ¨å—è™ç‹‚æ¿€æ´»æ—¶å›žå¤é€ æˆä¼¤å®³çš„<style=cIsHealing>18%</style>ã€‚
+POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL: <style=cKeywordName>ç”Ÿå‘½å·å–</style>çºµç«è€…åœ¨æ€¨æ¨æ¿€æ´»æ—¶å›žå¤é€ æˆä¼¤å®³çš„<style=cIsHealing>5%</style>ã€‚
+POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>è¿‡çƒ­ï¼šå—è™ç‹‚</style>å¦‚æžœçºµç«è€…å› çƒ­é‡ç§¯ç´¯è¿‡å¤šè€Œé€€å‡ºå—è™ç‹‚ï¼Œåˆ™åº”ç”¨EXè¿‡çƒ­ï¼Œå°†å…¶ç§»åŠ¨é€Ÿåº¦å’Œä¼¤å®³é™ä½Žè‡³70%ã€‚å–æ¶ˆæˆ–è®©æŠ€èƒ½è‡ªç„¶ç»“æŸä¼šåº”ç”¨è¿‡çƒ­ï¼Œå°†å…¶æ”»å‡»é€Ÿåº¦é™ä½Žè‡³50%ã€‚
+POPCORN_ARSONIST_BODY_OVERHEAT_TEXT: è¿‡çƒ­ï¼
+POPCORN_ARSONIST_BODY_COOLING_TEXT: å†·å´ä¸­...ï¼
+POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT: è¿‡çƒ­ï¼šEXï¼

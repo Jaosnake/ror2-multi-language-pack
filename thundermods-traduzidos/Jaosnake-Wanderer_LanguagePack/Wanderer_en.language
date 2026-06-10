@@ -1,0 +1,25 @@
+{
+    "en": {
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "The Wanderer is a low skill floor, high skill ceiling survivor who can use animation cancels to keep his damage high.<color=#CCD3E0>\n\n< ! > Use Steel Tempest between Swift Strikes to maximize your damage.\n\n< ! > Keep track of your Steel Tempest stacks as its tornado can be a devastating tool for finishing off enemies.\n\n< ! > Using Steel Tempest during Sweeping Blade slashes in a circle allowing for more AOE damage.\n\n< ! > Using Last Breath during Sweeping Blade + Steel Tempest allows you to transfer the AOE damage to the targets of Last Breath.</color>",
+        "KENKO_UNFORGIVEN_SUBTITLE": "The Unforgiven",
+        "KENKO_UNFORGIVEN_LORE": "if you die to yasuo, you got outplayed it means he had to calculate (and execute) the fight exactly to his specifications, taking into account your cooldowns and his, the position of both junglers, the creep waves and the general \"feel\" of the lane (an ability that has to be honed through years, maybe decades of what you call merely \"gaming\"). Indeed, to be defeated by yasuo is to realise that you have found your better, both as a player and as a man. Your mettle failed you, but the yasuo player is solid steel -hard, cold, reliable- and as he secures first blood and you anxiously await the surrender vote, his mind is still operating at full capacity preparing strategies for a near infinite number of possibilities. I'll be taking my LP now, make sure you do your bans correctly next time.",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..and so he left, 10/0.",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..and so he vanished, 0/10.",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Alternate",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "Way of the Wind",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Build up a passive <style=cIsHealing>shield</style> while moving. When hit at max stacks, the <style=cIsHealing>shield</style> breaks and grants a <style=cIsHealing>barrier</style>. <style=cIsDamage>Critical Strike Chance</style> is increased by <style=cIsDamage>1.5x</style>.",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Swift Strikes",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Slash in front dealing <style=cIsDamage>240% damage</style>.",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Steel Tempest",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Swift</style>. Stab forward dealing <style=cIsDamage>260% damage</style>. On hit, gain a stack of <color=#FFBF66>Gathering Storm</color>. At 2 stacks your next <color=#FFBF66>Steel Tempest</color> will fire a tornado dealing <style=cIsDamage>400% damage</style>.",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Sweeping Blade",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Dash towards an enemy dealing <style=cIsDamage>150% damage</style>. After each dash, your next dash will deal an additional <style=cIsDamage>50% damage</style> up to a cap of <style=cIsDamage>200% bonus damage</style>.",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "Last Breath",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Blink to a targeted or nearby <style=cIsUtility>airborne</style> enemy and rapidly attack for <style=cIsDamage>2x250% + 800% damage</style>. Gain bonus <style=cIsDamage>armor penetration</style> for 6 seconds.",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "First Breath",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Blink to a targeted or nearby <style=cIsUtility>airborne</style> enemy and rapidly attack for <style=cIsDamage>2x250% + 800% damage</style>. Gain bonus <style=cIsDamage>armor penetration</style> for 6 seconds.\n<color=#d299ff>SCEPTER: <style=cIsUtility>Reset your secondary cooldown</style>. Enemies hit by <color=#FFBF66>First Breath</color> can be targetted by <color=#FFBF66>Sweeping Blade</color> again.</color>",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
+    }
+}

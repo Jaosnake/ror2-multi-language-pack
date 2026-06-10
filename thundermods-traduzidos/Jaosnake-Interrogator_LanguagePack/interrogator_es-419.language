@@ -1,0 +1,12 @@
+KENKO_INTERROGATOR_NAME: Interrogador
+KENKO_INTERROGATOR_SUBTITLE: Especialista en Tormento
+KENKO_INTERROGATOR_PASSIVE_NAME: Tormento
+KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: El Interrogador puede golpear y ser golpeado por aliados y enemigos. Los atacantes que golpean al Interrogador son marcados permanentemente como Culpables. Causa 50 de daÃ±o base adicional por enemigo Culpable.
+KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Balancea tu bastÃ³n al frente, causando 320% de daÃ±o. Fallar el ataque hace que sufras 90% de daÃ±o en su lugar.
+KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Lanza un cuchillo que causa 450% de daÃ±o. Si el cuchillo mata al objetivo, aplica Hemorragia y PresiÃ³n a todos en el Ã¡rea.
+KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Avanza rÃ¡pidamente causando 390% de daÃ±o y aplicando Culpable a los objetivos golpeados.
+KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Condenar
+KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Marca a un enemigo Culpable y lucha contra Ã©l por 10s. Durante este perÃ­odo, todo daÃ±o externo es negado, incluido el tuyo propio. Tu ataque primario ya no puede golpearte, pero acumula continuamente el bono de daÃ±o de Culpable.
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Condenar (Cetro)
+KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Marca a un enemigo Culpable y lucha contra Ã©l por 14s. Durante este perÃ­odo, todo daÃ±o externo es negado. Tu ataque primario ya no puede golpearte, pero acumula el bono de daÃ±o de Culpable con el doble de eficiencia.
+MASTERY_SKIN_NAME: Interrogador: Especialista

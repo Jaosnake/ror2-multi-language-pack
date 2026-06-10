@@ -1,0 +1,32 @@
+{
+"zh-CN": {
+"SPEARMAN_NAME": "Spearman",
+"SPEARMAN_DESCRIPTION": "枪兵是一个平衡的战士，使用他的长矛在近处和远处造成毁灭性伤害。仅凭他信赖的长矛，他追求着绝对的力量。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_SUBTITLE": "佩特里科尔之神",
+"SPEARMAN_LORE": "曾几何时，在佩特里科尔的焦土上，有一位燃烧着无尽怒火的战士。他目睹了众神的残暴，神灵压迫弱者的无尽循环。他独自踏上弑神之路，锻造了一杆穿透血肉、撕裂灵魂的长矛。战斗撼动了世界，但最终，神血洒落大地。自那日起，他被称为一颗痛苦星球之神。",
+"SPEARMAN_OUTRO": "..于是他离开了，一颗痛苦星球的神。",
+"SPEARMAN_FAIL": "..于是他消失了，他的长矛永远沉默了。",
+"SPEARMANBODY_DEFAULT_SKIN_NAME": "默认",
+"SPEARMANBODY_MASTERY_SKIN_NAME": "精通",
+"SPEARMAN_PASSIVE_NAME": "战斗伤痕",
+"SPEARMAN_PASSIVE_DESCRIPTION": "用技能击中敌人会<style=cIsDamage>施加</style>战痕减益，降低敌人移速并为枪兵提供每层<style=cIsDamage>5%伤害</style>加成。他还拥有战士本能，当敌人过近时受到的伤害减少。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_M1": "战斗姿态",
+"SPEARMAN_M1_DESCRIPTION": "对射程外的敌人进行远程攻击，对附近的敌人进行近战攻击。远程：投掷长矛造成<style=cIsDamage>175%伤害</style>。近战：向前刺出长矛造成<style=cIsDamage>300%伤害</style>。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_M2": "战士之矛",
+"SPEARMAN_M2_DESCRIPTION": "蓄力一支强化<style=cIsDamage>穿透</style>长矛，增加伤害和距离，造成<style=cIsDamage>300-1000%伤害</style>并施加循环减益（<style=cIsUtility>冻结</style>、<style=cIsHealth>燃烧</style>、<style=cShrine>电击</style>、<style=cDeath>流血</style>或<style=cIsHealing>中毒</style>）。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_UTIL": "腾空踢",
+"SPEARMAN_UTIL_DESCRIPTION": "在地面滑行，<style=cIsUtility>将</style>敌人踢飞至空中。如果命中敌人，重新释放向上踢击造成<style=cIsDamage>200%伤害</style>。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_SPEC": "湮灭",
+"SPEARMAN_SPEC_DESCRIPTION": "高高跃入空中，选择下方目标地形猛击造成<style=cIsDamage>1000%伤害</style>，撞击时释放能量冲击波。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_ALTM2": "神力",
+"SPEARMAN_ALTM2_DESCRIPTION": "蓄力一支致命长矛，增加伤害和距离，造成<style=cIsDamage>400-1500%伤害</style>并<style=cDeath>处决</style>低血量敌人。\n\n原模组: SaucySquash。翻译: Jaosnake",
+"SPEARMAN_INTERACTABLE_NAME": "枪兵的长矛",
+"SPEARMAN_INTERACTABLE_CONTEXT": "根除",
+"ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "痛苦星球",
+"ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "取回嵌在头骨中的武器。",
+"ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: 精通",
+"ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "使用Spearman通关或在季风难度下抹除自己。",
+"ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: 领悟力量",
+"ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "使用Spearman，在一次Warriors Spear释放中杀死10个敌人。"
+}
+}

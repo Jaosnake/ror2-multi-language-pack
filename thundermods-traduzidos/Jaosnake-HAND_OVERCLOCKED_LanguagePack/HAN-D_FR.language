@@ -1,0 +1,55 @@
+{ "FR":
+	{
+	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
+	"MOFFEIN_HAND_BODY_SUBTITLE" : "Concierge non-payÃ©",
+	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-D est un robot concierge rÃ©sistant dont les puissantes attaques sont sÃ»res de laisser du dÃ©sordre! <style=cSub>\r\n\r\n< ! > BLESSER a du recul augmentÃ© contre les ennemis dans les air. Utilisez REMONTAGE_FORCÃ‰ pour faire sauter les ennemis dans les airs, puis BLESSER pour les envoyer voler.\r\n\r\n< ! > SURFRÃ‰QUENCE dure aussi longtemps que votre capacitÃ© Ã  toucher des ennemis.\r\n\r\n< ! > Annuler SURFRÃ‰QUENCE vous donnera la capacitÃ© de vous pousser vers le haut et atteindre les ennemis volants.\r\n\r\n< ! > Utilisez DRONES pour soigner et rester en combat.\r\n\r\n",
+	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--TRANSCRIPTION AUTOMATIQUE DEPUIS LE DÃ‰PARTEMENT UES [CENSURÃ‰]--//</style>\r\n\r\n<i>*touche <color=#327FFF>Tonique Spinelle</color>*</i>\n\nJoue sans l'artefact de <color=#6955A6>commande</color> la forme ultime d'Ãªtre cocu?\n\nJe ne peux penser ou comprendre Ã  rien d'autre de anything more cucked than jouer sans <color=#6955A6>commande</color>. HonnÃªtement, penses-y rationnellement. Tu tires, coures, sautes pour quelque chose come 60 minutes seul pour obtenir une merde de <color=#77FF16>Polype Calamar</color>. Tout ce dur travail que tu as mis dans ta partie - Ã©vitant les lasers d'un <style=cIsHealth>Golem de pierres</style> , Ãªtre ennuyÃ© par six-cents <style=cIsHealth>Feufollets</color> apparaissant au-dessus de ta tÃªte, activant des <color=#E5C962>Autels la Montagne</color> tout Ã§a pour un simple rÃ©sultat: ton inventaire est rempli avec des <color=#FFFFFF>BanniÃ¨res de guerre</color> et <color=#FFFFFF>Des colliers de dents de monstres</color> qui coÃ»tent de l'argent.\n\nSur une god run? Super. Un tas d'objets merdiques qui rajoutent rien Ã  ta run et qui finissent par venir des <color=#E5C962>Coffres</color> que tu achÃ¨tes. Ils prennent le bÃ©nÃ©fice de votre dosh durement gagnÃ© qui vient du fait de tuer des <style=cIsHealth>Sauriens</style>.\n\nEn temps qu'homme qui joue Ã  ce jeu tu dÃ©dit <style=cIsHealth>LITTÃ‰RALLEMENT</style> deux heures de ta vie Ã  ouvrir des boÃ®tes et prier pour que ce ne soit pas une autre <color=#77FF16>Chronoboule</color>. C'est l'utime et final cocu. Penses-y logiquement.\r\n<style=cMono>\r\nTranscriptions complÃ¨te.\r\n</style>\r\n \r\n\r\n",
+	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "..Et donc il est parti, les servos pulsant avec une nouvelle vie.",
+	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "..Et donc il a disparu, non rÃ©compensÃ© pour tous ses efforts.",
+	
+	"MOFFEIN_HAND_BODY_PASSIVE_NAME" : "ARMURE_ESSAIN",
+	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "<style=cIsDamage>RÃ©duit les dÃ©gÃ¢ts entrants </style> de <style=cIsDamage>0.3%</style> en fonction de votre vie maximum pour chaque <style=cIsUtility>drone</style> dans votre Ã©quipe.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_NAME" : "BLESSER",
+	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "Applique force sur tous les combattants pour <style=cIsDamage>390% dÃ©gÃ¢ts</style>. <style=cIsDamage>Ã‰tourdit</style> quand <style=cIsDamage>SURFRÃ‰QUENCE</style> est active.",
+	
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME" : "FRACASSER",
+	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "<style=cIsHealth>Ralentit</style> et fracasse tous les combattants pour all <style=cIsDamage>600% dÃ©gÃ¢ts</style>. <style=cIsDamage>Ã‰tourdit</style> quand <style=cIsDamage>SURFRÃ‰QUENCE</style> est active.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "REMONTAGE_FORCÃ‰",
+	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>Ã‰tourdissant</style>. Charge et applique grande force sur tous les combattants pour <style=cIsDamage>600%-1500% dÃ©gÃ¢ts</style>.",
+	
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "REMONTAGE_IMMORAL",
+	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Ã‰tourdissant</style>. Charge et applique <style=cIsHealth>Ã‰CRASANTE</style> force sur tous les combattants pour <style=cIsDamage>900%-2250% dÃ©gÃ¢ts</style>.",
+	
+	"KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Renforcer</style><style=cSub>La compÃ©tence peut Ãªtre annulÃ©e plus tÃ´t pour vous pousser vers le haut.</style>",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME" : "ANNULER",
+	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Pousse vers le haut</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "SURFRÃ‰QUENCE",
+	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>Renforce</style>. Augmente <style=cIsUtility>la vitesse de dÃ©placement</style> et <style=cIsDamage>la vitesse d'attaque</style> de <style=cIsDamage>40%</style>. Toucher des ennemis pour <style=cIsUtility>augmenter la durÃ©e</style>.",
+	
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME" : "FOCUS",
+	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Renforce</style>. Gagnez <style=cIsDamage>+50% dÃ©gÃ¢ts</style> et <style=cIsUtility>50 armure</style>. Toucher des ennemis pour <style=cIsUtility>augmenter la durÃ©e</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "DRONE - SOIN",
+	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "Tire un drone qui inflige <style=cIsDamage>270% dÃ©gÃ¢ts</style> et <style=cIsHealing> soigne pour 40% des dÃ©gÃ¢ts engendrÃ©s</style>. Les ennemis tuÃ©s et les dÃ©gÃ¢ts de mÃ©lÃ©e <style=cIsUtility>rÃ©duisent le temps de rechargement</style>.",
+	
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "DRONE - VITESSE",
+	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "Tire un drone qui inflige <style=cIsDamage>270% dÃ©gÃ¢ts</style> et <style=cIsDamage> qui accorde temporairement de la vitesse d'attaque</style>. Les ennemis tuÃ©s et les dÃ©gÃ¢ts de mÃ©lÃ©e <style=cIsUtility>rÃ©duisent le temps de rechargement</style>.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Handyman",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Beatdown",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Keep OVERCLOCK active for over 45 seconds.",
+	
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Flatten the final boss.",
+	
+	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Mastery",
+	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "As HAN-D, beat the game or obliterate on Monsoon.",
+	}
+}
