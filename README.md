@@ -519,6 +519,10 @@ Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Fr
 
 Community translation credits preserved from the original files include Kauzok, Donitodorito, StyleMyk, Meteorite1014, Lecarde/lecarde, punch, Bagre, WockyTheWolf/JunJun_w, FyreBW/Fyrebw, Damglador, CaffeinePain, Juhnter, Lonerdev, JunJun_W, Hexxedude, tymmey, Dice, Nikto0o, Rody/FallenTroop,锅巴, and PlNK.
 
+## ⏳ Note
+
+> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.
+
 ## 📜 License
 
 GPL-3.0. See [LICENSE.txt](LICENSE.txt).
