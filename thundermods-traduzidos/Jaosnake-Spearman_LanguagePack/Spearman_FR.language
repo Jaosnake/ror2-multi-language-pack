@@ -29,4 +29,8 @@
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman : Connaître la Force",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "En tant que Spearman, tuez 10 ennemis en un seul lancer de Lance du Guerrier."
     }
+
+        "SPEARMAN_ALTM1": "Warrior Stance",
+        "SPEARMAN_ALTM1_DESCRIPTION": "Thrust the spear forward dealing <style=cIsDamage>400% damage</style> and throwing out a wind blade for <style=cIsDamage>200% damage</style>."
+    }
 }
