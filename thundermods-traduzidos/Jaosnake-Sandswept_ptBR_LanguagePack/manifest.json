@@ -3,7 +3,7 @@
     "author":  "Jaosnake",
     "version_number":  "1.0.0",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description":  "Traducao pt-BR 100% manual do mod Sandswept (SandsweptTeam). Requer R2API_Language.",
+    "description":  "Tradução pt-BR 100% manual do mod Sandswept (SandsweptTeam). Requer R2API_Language.",
     "dependencies":  [
                          "SandsweptTeam-Sandswept-1.4.4",
                          "RiskofThunder-R2API_Language-1.1.0"
