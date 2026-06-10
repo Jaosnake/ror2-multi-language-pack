@@ -1,7 +1,7 @@
-﻿{
+{
     "name":  "Sandswept_ptBR_LanguagePack",
     "author":  "Jaosnake",
-    "version_number":  "1.0.0",
+    "version_number": "1.0.1",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack",
     "description":  "Tradução pt-BR 100% manual do mod Sandswept (SandsweptTeam). Requer R2API_Language.",
     "dependencies":  [

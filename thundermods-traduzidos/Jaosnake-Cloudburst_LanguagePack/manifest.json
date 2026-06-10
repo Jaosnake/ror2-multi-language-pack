@@ -1,4 +1,4 @@
-﻿{
+{
     "author":  "Jaosnake",
     "name":  "Cloudburst_LanguagePack",
     "description":  "Multi-language translation pack for Cloudburst by TeamCloudburst.",
@@ -6,6 +6,6 @@
                          "TeamCloudburst-Cloudburst-0.4.5",
                          "RiskofThunder-R2API_Language-1.1.0"
                      ],
-    "version_number":  "1.0.0",
+    "version_number": "1.0.1",
     "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }
