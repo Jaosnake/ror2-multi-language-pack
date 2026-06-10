@@ -1,22 +1,22 @@
 {
 "ua": {
 "ROB_HENRY_NAME": "Henry",
-"ROB_HENRY_DESCRIPTION": "Генрі — вправний боєць, який використовує широкий арсенал зброї для знищення ворогів.<color=#CCD3E0>\n\n< ! > Меч — гарний універсал, тоді як Боксерські рукавички кращі для побиття сильніших ворогів.\n\n< ! > Пістолет — потужна протиповітряна зброя з низьким часом перезарядки та високою шкодою.\n\n< ! > Перекат має тривалий баф броні, що допомагає використовувати його агресивно.\n\n< ! > Бомбу можна використовувати для легкого знищення натовпів.</color>\n\nОригінальний мод: rob (підтримується TheTimesweeper). Переклад: Jaosnake",
+"ROB_HENRY_DESCRIPTION": "Генрі — вправний боєць, який використовує широкий арсенал зброї для знищення ворогів.<color=#CCD3E0>",
 "ROB_HENRY_SUBTITLE": "Обраний",
 "ROB_HENRY_LORE": "зразкова історія",
 "ROB_HENRY_OUTRO_FLAVOR": "..і так він пішов, шукаючи нову ідентичність.",
 "ROB_HENRY_OUTRO_FAILURE": "..і так він зник, назавжди чистий аркуш.",
 "ROB_HENRY_MASTERY_SKIN_NAME": "Альтернативний",
 "ROB_HENRY_PASSIVE_NAME": "Пасив Генрі",
-"ROB_HENRY_PASSIVE_DESCRIPTION": "Зразковий текст.\n\nОригінальний мод: rob (підтримується TheTimesweeper). Переклад: Jaosnake",
+"ROB_HENRY_PASSIVE_DESCRIPTION": "Зразковий текст.",
 "ROB_HENRY_PRIMARY_SLASH_NAME": "Меч",
-"ROB_HENRY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Спритний.</style> Змахніть вперед для <style=cIsDamage>280% шкоди</style>.\n\nОригінальний мод: rob (підтримується TheTimesweeper). Переклад: Jaosnake",
+"ROB_HENRY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Спритний.</style> Змахніть вперед для <style=cIsDamage>280% шкоди</style>.",
 "ROB_HENRY_SECONDARY_GUN_NAME": "Пістолет",
-"ROB_HENRY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Спритний.</style> Вистріліть з пістолета для <style=cIsDamage>420% шкоди</style>.\n\nОригінальний мод: rob (підтримується TheTimesweeper). Переклад: Jaosnake",
+"ROB_HENRY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Спритний.</style> Вистріліть з пістолета для <style=cIsDamage>420% шкоди</style>.",
 "ROB_HENRY_UTILITY_ROLL_NAME": "Перекат",
-"ROB_HENRY_UTILITY_ROLL_DESCRIPTION": "Перекотіться на коротку відстань, отримуючи <style=cIsUtility>300 броні</style>. <style=cIsUtility>Під час перекату вас не можуть вдарити.</style>\n\nОригінальний мод: rob (підтримується TheTimesweeper). Переклад: Jaosnake",
+"ROB_HENRY_UTILITY_ROLL_DESCRIPTION": "Перекотіться на коротку відстань, отримуючи <style=cIsUtility>300 броні</style>. <style=cIsUtility>Під час перекату вас не можуть вдарити.</style>",
 "ROB_HENRY_SPECIAL_BOMB_NAME": "Бомба",
-"ROB_HENRY_SPECIAL_BOMB_DESCRIPTION": "Киньте бомбу для <style=cIsDamage>1600% шкоди</style>.\n\nОригінальний мод: rob (підтримується TheTimesweeper). Переклад: Jaosnake",
+"ROB_HENRY_SPECIAL_BOMB_DESCRIPTION": "Киньте бомбу для <style=cIsDamage>1600% шкоди</style>.",
 "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Генрі: Майстерність",
 "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Граючи за Генрі, пройдіть гру або облітеруйте на Monsoon."
 }

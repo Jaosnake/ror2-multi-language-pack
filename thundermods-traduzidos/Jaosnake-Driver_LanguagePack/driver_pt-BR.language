@@ -2,84 +2,38 @@ ROB_DRIVER_BODY_NAME: Driver
 ROB_DRIVER_BODY_SUBTITLE: Condutor de Arsenal
 PRIMARY_PISTOL_NAME: Pistola
 PRIMARY_PISTOL_DESCRIPTION: Um protÃ³tipo defeituoso que sÃ³ pode disparar alguns tiros.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_MACHINEGUN_NAME: Metralhadora
 PRIMARY_MACHINEGUN_DESCRIPTION: Dispare rapidamente para 120% de dano por tiro.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_RIOT_SHOTGUN_DESCRIPTION: Dispare um tiro de escopeta que causa 8x140% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_BADASS_SHOTGUN_DESCRIPTION: Dispare um tiro devastador de escopeta para 24x140% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_BAZOOKA_DESCRIPTION: Dispare um foguete explosivo para 600%-1.200% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_ARMCANNON_DESCRIPTION: Dispare um tiro de canhÃ£o para 1.000% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_PLASMACANNON_DESCRIPTION: Dispare um tiro de plasma para 1.200% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_GOLEMGUN_DESCRIPTION: Dispare um tiro pesado para 800% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_NEMMANDO_SWORD_DESCRIPTION: Corte inimigos Ã  frente com uma espada para 160% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 PRIMARY_ARTI_GAUNTLET_NAME: Manopla da ArtÃ­fice
 PRIMARY_ARTI_GAUNTLET_DESCRIPTION: Dispare um projÃ©til de magma para 350% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_PISTOL_DESCRIPTION: Dispare uma pistola secundÃ¡ria para 500% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>Atordoante</style>. Atordoe e empurre inimigos prÃ³ximos para 250% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_ROCKETLAUNCHER_ALT_NAME: LanÃ§a-Foguetes
 SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>Atordoante</style>. Dispare uma barragem rÃ¡pida de foguetes para 250% de dano cada.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_HEAVY_MACHINEGUN_NAME: Metralhadora Pesada
 SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>Atordoante</style>. Lance uma granada que atordoa inimigos para 800% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_PLASMACANNON_NAME: CanhÃ£o de Plasma
 SECONDARY_PLASMACANNON_DESCRIPTION: Dispare um tiro de plasma carregado para 1.000% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_BANDITREVOLVER_DESCRIPTION: Dispare um revÃ³lver de alto calibre para 1.500% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispare uma salvÃ¡ de fragmentos lunares, causando 180% de dano cada.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_NEMMANDO_DESCRIPTION: Dispare projÃ©teis sombrios para 240% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SECONDARY_ARTI_GAUNTLET_DESCRIPTION: Dispare uma rajada de magia de gelo para 600%-2.000% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 UTILITY_DASH_NAME: Arranque
 UTILITY_DASH_DESCRIPTION: Arranque uma curta distÃ¢ncia. VocÃª pode ter atÃ© 2 cargas.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SPECIAL_SUPPLY_DROP_NAME: Suprimento AÃ©reo
 SPECIAL_SUPPLY_DROP_DESCRIPTION: Solicite um suprimento aÃ©reo de armas.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SPECIAL_GRENADE_NAME: Granada
 SPECIAL_KNIFE_NAME: Faca
 SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>Cortante</style>. <style=cIsUtility>Ãgil</style>. Corte inimigos Ã  frente para 470% de dano.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 SPECIAL_DRIVERCOIN_NAME: Moeda do Driver
 SPECIAL_DRIVERCOIN_DESCRIPTION: Ative um efeito especial ao custo de moedas.
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
-Mod original por public_ParticleSystem. Traduzido por: Jaosnake
 ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
 ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>Foco</style><style=cSub>Foco aumenta muito sua produÃ§Ã£o de dano, mas tome cuidado para nÃ£o ser flanqueado enquanto mira.
 ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>Arsenal</style><style=cSub>Troque entre armas usando suas habilidades primÃ¡ria e secundÃ¡ria.

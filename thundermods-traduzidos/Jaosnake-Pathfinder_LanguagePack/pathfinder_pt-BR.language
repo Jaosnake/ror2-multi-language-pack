@@ -1,12 +1,8 @@
 BOG_PATHFINDER_BODY_NAME: Pathfinder
 BOG_PATHFINDER_BODY_SUBTITLE: CaÃ§ador InterplanetÃ¡rio
 BOG_PATHFINDER_BODY_DESCRIPTION: O Pathfinder Ã© um escaramuÃ§ador astuto e evasivo que luta ao lado de seu falcÃ£o robÃ´, Squall.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 BOG_PATHFINDER_BODY_PASSIVE_NAME: Falcoeiro
 BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: VocÃª Ã© acompanhado pelo seu falcÃ£o robÃ´, Squall. Squall herda <style=cIsDamage>a maioria</style> de seus itens e Ã© imune a dano, mas funciona com uma <style=cIsUtility>bateria</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
 BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: Headhunter
 BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..e assim eles partiram, como os novos reis da cadeia alimentar.
@@ -16,45 +12,25 @@ BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
 BOG_SQUALL_BODY_MASTERY_SKIN_NAME: Maestria
 PRIMARY_THRUST_NAME: Investida
 PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>Perfurante</style>. Empurre sua lanÃ§a para frente para <style=cIsDamage>250% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SECONDARY_DASH_NAME: PÃ¡ Leve
 SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>Deslize</style> uma curta distÃ¢ncia. Na prÃ³xima vez que usar sua habilidade primÃ¡ria, arremesse uma <style=cIsDamage>lanÃ§a explosiva</style> para <style=cIsDamage>800% de dano</style> e recupere <style=cIsUtility>800% da bateria</style>, dobrado em Acertos CrÃ­ticos.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SECONDARY_JAVELIN_NAME: Arremesso de LanÃ§a
 SECONDARY_JAVELIN_DESCRIPTION: Arremesse uma <style=cIsDamage>lanÃ§a explosiva</style> para <style=cIsDamage>800% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 UTILITY_SPIN_NAME: Garras Dilacerantes
 UTILITY_SPIN_DESCRIPTION: Eleve-se no ar, girando rapidamente para <style=cIsDamage>300% de dano</style>. Ao aterrissar, execute um golpe horizontal para <style=cIsDamage>800% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 UTILITY_BOLAS_NAME: Bolas de Choque
 UTILITY_BOLAS_DESCRIPTION: Arremesse boleadeiras eletricamente carregadas, que <style=cIsUtility>chocam</style> inimigos prÃ³ximos e deixam um campo <style=cIsUtility>eletrocutante</style> por <style=cIsUtility>10 segundos</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_COMMAND_NAME: Emitir Comando
 SPECIAL_COMMAND_DESCRIPTION: Prepare um comando para Squall. VocÃª pode emitir um comando de <color=#FF0000>Ataque</color>, <color=#00FF00>Seguir</color> ou <color=#efeb1c>Especial</color> pressionando as teclas de habilidade PrimÃ¡ria, SecundÃ¡ria ou Especial, respectivamente.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_COMMAND2_NAME: Emitir Comando - Sobrescrita de Utilidade
 SPECIAL_ATTACK_NAME: Ataque
 SPECIAL_ATTACK_DESCRIPTION: Direcione a atenÃ§Ã£o de Squall para o inimigo alvo e ative o <color=#FF0000>Modo de Ataque</color>, concedendo acesso a metralhadoras que causam <style=cIsDamage>2x30% de dano</style> e um lanÃ§ador de mÃ­sseis que causa <style=cIsDamage>150% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_FOLLOW_NAME: Seguir
 SPECIAL_FOLLOW_DESCRIPTION: Traga Squall de volta para perto de vocÃª e ative o <color=#00FF00>Modo Seguir</color>, fazendo com que ele fique prÃ³ximo a vocÃª.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_CANCEL_NAME: Cancelar Modo de Comando
 SPECIAL_CANCEL_DESCRIPTION: Cancela o Modo de Comando.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SQUALL_SPECIAL_GOFORTHROAT_NAME: VÃ¡ para a Garganta!
 SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Ordene Squall a atacar repetidamente o inimigo alvo para <style=cIsDamage>70% de dano</style>. Cada ataque reduz brevemente a <style=cIsDamage>armadura</style> e <style=cIsUtility>regenera 1%</style> de bateria, dobrado em Acertos CrÃ­ticos. Esta habilidade pode brevemente <style=cIsUtility>sobrecarregar</style> a bateria.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
 BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery

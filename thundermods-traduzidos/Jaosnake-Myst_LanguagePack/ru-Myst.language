@@ -1,7 +1,7 @@
 {
     "ru": {
         "JAVANGLE_MYST_BODY_NAME": "Мист",
-        "JAVANGLE_MYST_BODY_DESCRIPTION": "Мист — универсальный выживший, использующий <style=cIsUtility>Магическую Силу</style> для применения разнообразных сверхъестественных навыков и <style=cIsUtility>Лимит</style> для высвобождения мощных суперприёмов. <i>Translated by: Jaosnake. Original mod by JavAngle</i>",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "Мист — универсальный выживший, использующий <style=cIsUtility>Магическую Силу</style> для применения разнообразных сверхъестественных навыков и <style=cIsUtility>Лимит</style> для высвобождения мощных суперприёмов.",
         "JAVANGLE_MYST_BODY_SUBTITLE": "Таинственный Арканист",
         "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "Обычный",
         "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "Мастерство",

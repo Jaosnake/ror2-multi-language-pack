@@ -1,7 +1,7 @@
 {
     "en": {
         "JAVANGLE_MYST_BODY_NAME": "Myst",
-        "JAVANGLE_MYST_BODY_DESCRIPTION": "Myst is a versatile survivor who uses <style=cIsUtility>Magic Power</style> to utilize a variety of supernatural skills, and <style=cIsUtility>Limit</style> to unleash powerful super moves. <i>Backported from pt-BR. Original mod by JavAngle. Translated by: Jaosnake</i>",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "Myst is a versatile survivor who uses <style=cIsUtility>Magic Power</style> to utilize a variety of supernatural skills, and <style=cIsUtility>Limit</style> to unleash powerful super moves.",
         "JAVANGLE_MYST_BODY_SUBTITLE": "The Mysterious Arcanist",
         "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "Default",
         "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "Mastery",

@@ -1,29 +1,15 @@
 BOG_DEPUTY_BODY_NAME: A Delegada
 BOG_DEPUTY_BODY_SUBTITLE: JustiÃ§a RelÃ¢mpago
 BOG_DEPUTY_BODY_DESCRIPTION: A Delegada Ã© uma demonstra de velocidade hiperagressivÃ¡ que distribui justiÃ§a com seus revÃ³lveres gÃªmeos e chutes letais.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
 BOG_DEPUTY_BODY_PASSIVE_NAME: PerseguiÃ§Ã£o IncansÃ¡vel
 BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: A Delegada pode correr em qualquer direÃ§Ã£o. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumulÃ¡vel.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 PRIMARY_SHOOT_NAME: Tiro Certo
 PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Atire com revÃ³lveres de mÃ©dio alcance para <style=cIsDamage>150% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Arremesse dois revÃ³lveres. <style=cIsDamage>Atordoante</style>. Salte e atire em um inimigo abaixo de vocÃª para <style=cIsDamage>6x100% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Atire um tiro preciso que pode ser ligeiramente angulado para cima. Cause <style=cIsDamage>150% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Abates resetam o resfriamento de sua habilidade de utilidade</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 SPECIAL_BULLETHEAVEN_DESCRIPTION: Salte bem alto no ar e dispare balas furiosamente para baixo por <style=cIsDamage>150% de dano</style>.
-Mod original por Bog. Traduzido por: Jaosnake
-Mod original por Bog. Traduzido por: Jaosnake
 MASTERY_SKIN_NAME: Delegada: Maestria
 BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..e assim ela partiu, ao som de aplausos estrondosos.
 BOG_DEPUTY_BODY_OUTRO_FAILURE: ..e assim ela desapareceu, sua performance finalmente chegou ao fim.
