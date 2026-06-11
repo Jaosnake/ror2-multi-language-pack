@@ -47,7 +47,7 @@
         "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_NAME": "Golden Gun",
         "ROB_DANTE_BODY_SPECIAL_PISTOL_SCEPTER_DESCRIPTION": "Atire uma <style=cIsUtility>bala de prata</style> causando <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Acertos de cabeça</style> causam <style=cIsDamage>2x dano</style>. Mortes <style=cIsUtility>reiniciam todos os seus tempos de recarga</style>.\n<color=#d299ff>SCEPTER: Causa 9.000% de dano.</color>",
         "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_NAME": "Sacred Flame",
-        "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoque o poder de <color=#FF0033>Providence</color>, liberando uma <style=cIsUtility>chama massiva</style> que causa <style=cIsDamage>300% de dano por tick</style>. Termina com uma supernová de <style=cIsDamage>4.000% de dano</style>.",
+        "ROB_DANTE_BODY_SPECIAL_HOLYCROSS_DESCRIPTION": "Invoque o poder de <color=#FF0033>Providence</color>, liberando uma <style=cIsUtility>chama massiva</style> que causa <style=cIsDamage>300% de dano por tick</style>. Termina com uma supernova de <style=cIsDamage>4.000% de dano</style>.",
         "ROB_DANTE_BODY_LOADOUT_SKILL_MISC": "Passiva",
         "ROB_DANTE_DEVILSHRINE_NAME": "Santuário da Noite",
         "ROB_DANTE_DEVILSHRINE_DESC": "Ofereça uma chave esqueleto para ganhar uma recompensa poderosa.",

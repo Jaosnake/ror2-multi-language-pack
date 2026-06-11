@@ -24,7 +24,7 @@
         "SECONDARY_PLASMACANNON_NAME": "Canhão de Plasma",
         "SECONDARY_PLASMACANNON_DESCRIPTION": "Dispare um tiro de plasma carregado para 1.000% de dano.",
         "SECONDARY_BANDITREVOLVER_DESCRIPTION": "Dispare um revólver de alto calibre para 1.500% de dano.",
-        "SECONDARY_LUNARHAMMER_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma salvá de fragmentos lunares, causando 180% de dano cada.",
+        "SECONDARY_LUNARHAMMER_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma salva de fragmentos lunares, causando 180% de dano cada.",
         "SECONDARY_NEMMANDO_DESCRIPTION": "Dispare projéteis sombrios para 240% de dano.",
         "SECONDARY_ARTI_GAUNTLET_DESCRIPTION": "Dispare uma rajada de magia de gelo para 600%-2.000% de dano.",
         "UTILITY_DASH_NAME": "Arranque",

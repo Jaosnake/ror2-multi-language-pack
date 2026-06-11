@@ -14,7 +14,7 @@
         "BASTIAN_UTIL": "Nano-Mola",
         "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Execute</style> um dash rápido em qualquer direção. Acumula <style=cIsUtility>Cargas Iônicas</style>.",
         "BASTIAN_SPEC": "Explosão do Arquiteto",
-        "BASTIAN_SPEC_DESCRIPTION": "Gaste <style=cIsHealth>33% de vida atual</style> e <style=cIsUtility>todas as Cargas Iônicas</style> para uma explosão massivá de <style=cIsDamage>500%-3.000% de dano</style>. Após o uso, você fica <color=#E9AFEA>Evasivo</color> por 10 segundos.",
+        "BASTIAN_SPEC_DESCRIPTION": "Gaste <style=cIsHealth>33% de vida atual</style> e <style=cIsUtility>todas as Cargas Iônicas</style> para uma explosão massiva de <style=cIsDamage>500%-3.000% de dano</style>. Após o uso, você fica <color=#E9AFEA>Evasivo</color> por 10 segundos.",
         "BASTIAN_SPEC_KEYWORD": "Especial",
         "BASTIANBODY_DEFAULT_SKIN_NAME": "Padrão",
         "BASTIANBODY_MASTERY_SKIN_NAME": "Maestria"
