@@ -448,6 +448,14 @@ zip -r ../Starstorm2_LanguagePack.zip .
 
 The ZIP root must contain `manifest.json`, `README.md`, `icon.png`, and the translation files/folders.
 
+Prebuilt Thunderstore-ready ZIPs are also kept in:
+
+```text
+thundermods-zips/
+```
+
+Each ZIP in that folder is already structured for Thunderstore upload: `manifest.json`, `README.md`, `icon.png`, and the translation files are at the ZIP root, with no extra parent folder.
+
 ## 🧑‍💻 For Manual Install Users
 
 If you do not use r2modman:
@@ -490,7 +498,7 @@ ror2-multi-language-pack/
 │     ├─ README.md
 │     ├─ icon.png
 │     └─ *.language
-├─ uploaded/
+├─ thundermods-zips/
 │  └─ *.zip (Thunderstore-ready packages)
 ├─ audit.py
 ├─ generate_readme.py
