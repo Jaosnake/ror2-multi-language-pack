@@ -1,0 +1,16 @@
+{
+    "ko": {
+        "KENKO_INTERROGATOR_NAME": "질문자",
+        "KENKO_INTERROGATOR_SUBTITLE": "고통 전문가",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "고통",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "심문관은 아군과 적에게 맞을 수도 있고 맞을 수도 있습니다. 심문관을 공격한 공격자는 영구적으로 유죄로 표시됩니다. 유죄인 적 하나당 50의 기본 피해를 더 줍니다.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "지휘봉을 앞쪽으로 휘둘러 320%의 피해를 줍니다. 공격을 놓치면 대신 90%의 피해를 입게 됩니다.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "450%의 피해를 주는 식칼을 던집니다. 식칼이 대상을 죽이면 해당 지역의 모든 사람에게 출혈과 압박을 적용합니다.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "앞으로 돌진하여 390% 피해를 입히고 적중한 대상에게 유죄를 적용합니다.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "죄수",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "유죄인 적을 표시하고 10초 동안 결투를 벌이세요. 이 기간 동안 귀하의 피해를 포함한 모든 외부 피해는 무효화됩니다. 기본 공격은 더 이상 공격할 수 없지만 지속적으로 유죄 피해 보너스를 축적합니다.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "죄수(홀)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "유죄인 적을 표시하고 14초 동안 결투를 벌이세요. 이 기간 동안 모든 외부 손상은 무효화됩니다. 기본 공격은 더 이상 공격할 수 없지만, 두 배의 효율성으로 길티 데미지 보너스를 구축합니다.",
+        "MASTERY_SKIN_NAME": "심문관: 전문가"
+    }
+}

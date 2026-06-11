@@ -1,0 +1,23 @@
+{
+    "ko": {
+        "KENKO_CADET_NAME": "차남",
+        "KENKO_CADET_SUBTITLE": "다재다능한 사수",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "생도: 전문가",
+        "PRIMARY_SMG_NAME": "기관단총",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>기민한</style>. SMG를 빠르게 발사하세요.<style=cIsDamage>60% 데미지</style>샷당.",
+        "PRIMARY_SHOTGUN_NAME": "산탄총",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>기민한</style>. 산탄총을 발사해 보세요<style=cIsDamage>100% 데미지</style>.",
+        "SECONDARY_GRENADE_NAME": "수류탄",
+        "SECONDARY_GRENADE_DESCRIPTION": "거래하는 수류탄을 던져<style=cIsDamage>400% 데미지</style>.",
+        "SECONDARY_THROWGUN_NAME": "무기 투척",
+        "SECONDARY_THROWGUN_DESCRIPTION": "현재 무기를 던져보세요<style=cIsDamage>600% 데미지</style>.",
+        "UTILITY_SLIDE_NAME": "슬라이드",
+        "UTILITY_SLIDE_DESCRIPTION": "방향으로 슬라이드하고,<style=cIsUtility>다시 로드 중</style>즉시 무기를 사용하세요.",
+        "UTILITY_ROLLOAD_NAME": "전술적 굴림",
+        "UTILITY_ROLLOAD_DESCRIPTION": "특정 방향으로 굴러 무기를 재장전합니다.",
+        "SPECIAL_ECHO_NAME": "에코",
+        "SPECIAL_ECHO_DESCRIPTION": "적들 사이를 튕겨내는 음파 드론을 발사해 피해를 입힙니다.<style=cIsDamage>350% 데미지</style>천천히 적용하세요.",
+        "SPECIAL_ULTRA_NAME": "극단론자",
+        "SPECIAL_ULTRA_DESCRIPTION": "강력한 에너지 폭발을 발사해<style=cIsDamage>600% 데미지</style>."
+    }
+}

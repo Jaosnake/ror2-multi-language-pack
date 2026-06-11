@@ -44,10 +44,10 @@
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME": "척추천자",
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION": "<style=cIsDamage>750% 데미지로 적을 찔러보세요. </style><style=cIsUtility>하위 적을 뒤에서 찌르면 </style> <style=cIsHealth>대상을 즉시 처치합니다.</style> 뒤에서 보스를 찌르면 <style=cIsUtility>2%</style> ~ <style=cIsHealth>대상을 즉시 처치합니다.</style> 이것이 실패하면 거래 <style=cIsDamage> 대상 체력의 20%입니다.</style>",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME": "Assassin: Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Monsoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "암살자로 게임을 승리하거나 몬순 이상의 난이도에서 말살하세요.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME": "Assassin: Grand Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Typhoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "암살자로 게임을 승리하거나 Typhoon 이상의 난이도에서 말살하세요.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME": "Assassin: Deathly Concoction",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy."
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "암살자로 단일 적에게 암살자의 독 10중첩을 적용하십시오."
     }
 }

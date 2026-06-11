@@ -1,0 +1,23 @@
+{
+    "IT": {
+        "KENKO_CADET_NAME": "Cadetto",
+        "KENKO_CADET_SUBTITLE": "Tiratore versatile",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadetto: specialista",
+        "PRIMARY_SMG_NAME": "Fucile mitragliatore",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fai fuoco rapido con il tuo SMG<style=cIsDamage>Danno del 60%.</style>per colpo.",
+        "PRIMARY_SHOTGUN_NAME": "Fucile",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara con il tuo fucile<style=cIsDamage>Danno al 100%.</style>.",
+        "SECONDARY_GRENADE_NAME": "Granata",
+        "SECONDARY_GRENADE_DESCRIPTION": "Lancia una granata che fa affari<style=cIsDamage>Danno del 400%.</style>.",
+        "SECONDARY_THROWGUN_NAME": "Lancio dell'arma",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Lancia la tua arma attuale per<style=cIsDamage>Danno del 600%.</style>.",
+        "UTILITY_SLIDE_NAME": "Diapositiva",
+        "UTILITY_SLIDE_DESCRIPTION": "Scivola in una direzione,<style=cIsUtility>ricarica</style>la tua arma all'istante.",
+        "UTILITY_ROLLOAD_NAME": "Rotolo tattico",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Rotola in una direzione, ricaricando la tua arma.",
+        "SPECIAL_ECHO_NAME": "Eco",
+        "SPECIAL_ECHO_DESCRIPTION": "Spara droni sonori che rimbalzano tra i nemici, affrontando<style=cIsDamage>Danno del 350%.</style>e applicare lentamente.",
+        "SPECIAL_ULTRA_NAME": "Ultra",
+        "SPECIAL_ULTRA_DESCRIPTION": "Spara una potente esplosione di energia che infligge<style=cIsDamage>Danno del 600%.</style>."
+    }
+}

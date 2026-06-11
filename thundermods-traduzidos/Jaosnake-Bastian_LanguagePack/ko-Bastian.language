@@ -1,0 +1,22 @@
+{
+    "ko": {
+        "BASTIAN_NAME": "바스티안",
+        "BASTIAN_SUBTITLE": "리퍼브 번역 로봇",
+        "BASTIAN_DESCRIPTION": "외계 행성체와의 거래 협상을 돕기 위해 제작된 로컬 로봇입니다. 그것의 원래 목적은 보통 인간이 견딜 수 없는 공기와 온도가 있는 행성에서 생존하도록 설계된 중개자 역할을 하는 것이었습니다. 비상 계획의 일환으로 UES Contact Light에 탑재되었습니다. 그러나 단순한 가져오기 및 운반 임무임에도 불구하고 전투용으로 다시 프로그래밍되었습니다.",
+        "BASTIAN_NAME_EPIC": "번역가 바스티안, 모델 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "번역가 바스티안, 모델 4.I.N.K.",
+        "BASTIAN_OUTRO": "..그래서 그는 떠났고 마침내 그의 역할이 성취되었습니다.",
+        "BASTIAN_FAIL": "..그래서 그는 비활성화되었고 그의 기억은 영원히 지워졌습니다.",
+        "BASTIAN_M1": "이온 스윙",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>난투</style>. <style=cIsUtility>기민한</style>. 적을 미리 공격하세요.<style=cIsDamage>250% 데미지</style>. 빌드<style=cIsUtility>이온 전하</style>. 회피 중에는 피해가 절반으로 줄어듭니다.",
+        "BASTIAN_M2": "마이크로 총알",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>기민한</style>. 최대 5개의 에너지 총알을 발사합니다.<style=cIsDamage>250% 데미지</style>. 빌드<style=cIsUtility>이온 전하</style>. 회피 중에는 기절 효과가 적용되지 않습니다.",
+        "BASTIAN_UTIL": "나노스프링",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>실행하다</style>어느 방향으로든 빠르게 돌진합니다. 빌드<style=cIsUtility>이온 전하</style>.",
+        "BASTIAN_SPEC": "건축가의 폭발",
+        "BASTIAN_SPEC_DESCRIPTION": "경비<style=cIsHealth>현재 체력 33%</style>그리고<style=cIsUtility>모든 이온 전하</style>대규모 폭발을 위해<style=cIsDamage>500%-3,000% 데미지</style>. 사용 후에는<color=#E9AFEA>둘러대는</color>10초 동안.",
+        "BASTIAN_SPEC_KEYWORD": "특별한",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "기본",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "지배"
+    }
+}

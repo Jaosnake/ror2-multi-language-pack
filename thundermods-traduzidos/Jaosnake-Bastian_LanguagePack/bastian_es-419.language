@@ -1,13 +1,13 @@
 {
     "es-419": {
-        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_NAME": "Bastián",
         "BASTIAN_SUBTITLE": "Robot Traductor Reacondicionado",
         "BASTIAN_DESCRIPTION": "Un robot local, construido para ayudar a negociar acuerdos con cuerpos planetarios extranjeros. Su propósito original era funcionar como intermediario, diseñado para sobrevivir en planetas con aire y temperaturas que un humano normal no podría soportar. Fue traído a bordo de la UES Contact Light como parte de un plan de contingencia. Sin embargo, terminó siendo reprogramado para el combate, a pesar de ser una simple misión de recoger y llevar.",
         "BASTIAN_NAME_EPIC": "Bastian el Traductor, Modelo 4.I.N.K.",
         "BASTIAN_ROO_DESCRIPTION": "Bastian el Traductor, Modelo 4.I.N.K.",
         "BASTIAN_OUTRO": "..y así partió, su función finalmente cumplida.",
         "BASTIAN_FAIL": "..y así fue desactivado, su memoria borrada para siempre.",
-        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1": "Columpio de iones",
         "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Cuerpo a cuerpo</style>. <style=cIsUtility>Ágil</style>. Golpea enemigos adelante para <style=cIsDamage>250% de daño</style>. Acumula <style=cIsUtility>Cargas Iónicas</style>. El daño se reduce a la mitad mientras estás Evasivo.",
         "BASTIAN_M2": "Micro-Bala",
         "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara hasta 5 balas de energía, cada una causando <style=cIsDamage>250% de daño</style>. Acumula <style=cIsUtility>Cargas Iónicas</style>. No aplica aturdimiento mientras estás Evasivo.",

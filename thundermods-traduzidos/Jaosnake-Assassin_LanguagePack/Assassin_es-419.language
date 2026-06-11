@@ -44,10 +44,10 @@
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME": "punción lumbar",
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION": "Apuñala a tus enemigos y inflige un daño <style=cIsDamage>750%. </style><style=cIsUtility>Al apuñalar a un enemigo menor por detrás,</style> <style=cIsHealth>mata instantáneamente a tu objetivo.</style> Al apuñalar a un jefe por detrás, haz un <style=cIsUtility>2%</style> para <style=cIsHealth>mata instantáneamente a tu objetivo.</style> Si esto falla, inflige <style=cIsDamage>20% de los objetivos. salud.</style>",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME": "Assassin: Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Monsoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Asesino, completa el juego o aniquila en Monzón o superior.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME": "Assassin: Grand Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Typhoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Como Asesino, completa el juego o aniquila en Typhoon o superior.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME": "Assassin: Deathly Concoction",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy."
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "Como Assassin, aplica 10 acumulaciones de Assassin's Poison a un solo enemigo."
     }
 }

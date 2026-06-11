@@ -1,14 +1,14 @@
 {
-  "strings": {
-    "SS2_SKIN_COMMANDO_GRANDMASTERY": "Ностальгический",
-    "SS2_SKIN_COMMANDO_ALT1": "Шоковый",
-    "SS2_SKIN_COMMANDO_ALT2": "Скорпион",
-    "SS2_SKIN_COMMANDO_ALT3": "Претор",
-    "SS2_SKIN_COMMANDO_VESTIGE": "Скрытность",
-    "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Скрытный",
-    "SS2_SKIN_TOOLBOT_GRANDMASTERY": "Конструкт",
-    "SS2_SKIN_CROCO_GRANDMASTERY": "Оружие",
-    "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Престиж",
-    "SS2_SKIN_MERCENARY_VESTIGE": "Пята"
-  }
+    "strings": {
+        "SS2_SKIN_COMMANDO_GRANDMASTERY": "Ностальгический",
+        "SS2_SKIN_COMMANDO_ALT1": "Шоковый",
+        "SS2_SKIN_COMMANDO_ALT2": "Скорпион",
+        "SS2_SKIN_COMMANDO_ALT3": "Претор",
+        "SS2_SKIN_COMMANDO_VESTIGE": "Скрытность",
+        "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Скрытный",
+        "SS2_SKIN_TOOLBOT_GRANDMASTERY": "Конструкт",
+        "SS2_SKIN_CROCO_GRANDMASTERY": "Оружие",
+        "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Престиж",
+        "SS2_SKIN_MERCENARY_VESTIGE": "Пята"
+    }
 }

@@ -25,6 +25,6 @@
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "칼라미타스",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "불안정한 블랙홀을 만드는 수류탄 3개를 던진다。</style>。<style=cIsUtility>5</style>초 후 블랙홀이 붕괴하며 <style=cIsDamage>700% 피해</style>。",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Complete a stage without touching the ground more than once."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "두 번 이상 땅에 닿지 않고 스테이지를 완료하세요."
     }
 }

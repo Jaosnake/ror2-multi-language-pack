@@ -44,10 +44,10 @@
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME": "Robinet lombaire",
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION": "Poignardez vos ennemis pour infliger 750 % de dégâts. </style><style=cIsUtility>Lorsque vous poignardez un ennemi mineur par derrière, </style> <style=cIsHealth>tuez instantanément votre cible.</style> Lorsque vous poignardez un boss par derrière, utilisez un <style=cIsUtility>2%</style> pour <style=cIsHealth>tuez instantanément votre cible.</style> Si cela échoue, infligez <style=cIsDamage>20 % des cibles. santé.</style>",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME": "Assassin: Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Monsoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "En tant qu'Assassin, terminez le jeu ou effacez-le lors de la mousson ou d'une version ultérieure.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME": "Assassin: Grand Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Typhoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "En tant qu'Assassin, terminez le jeu ou effacez sur Typhoon ou supérieur.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME": "Assassin: Deathly Concoction",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy."
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "En tant qu'Assassin, appliquez 10 charges de Poison d'Assassin sur un seul ennemi."
     }
 }

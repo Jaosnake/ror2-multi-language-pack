@@ -1,8 +1,8 @@
 {
-  "strings": {
-    "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
-    "SS2_ACHIEVEMENT_COGNATION_DESC": "Complete the Trial of Cognation",
-    "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
-    "SS2_ACHIEVEMENT_HAVOC_DESC": "Complete the Trial of Havoc"
-  }
+    "strings": {
+        "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
+        "SS2_ACHIEVEMENT_COGNATION_DESC": "인지의 시험을 완료하세요",
+        "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
+        "SS2_ACHIEVEMENT_HAVOC_DESC": "혼란의 시험을 완료하세요"
+    }
 }

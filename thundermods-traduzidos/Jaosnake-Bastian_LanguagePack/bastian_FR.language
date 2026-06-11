@@ -1,13 +1,13 @@
 {
     "FR": {
-        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_NAME": "Bastien",
         "BASTIAN_SUBTITLE": "Robot Traducteur Reconditionné",
         "BASTIAN_DESCRIPTION": "Un robot local, construit pour aider à négocier des accords avec des corps planétaires étrangers. Son but original était de fonctionner comme intermédiaire, conçu pour survivre sur des planètes avec un air et des températures qu'un humain normal ne pourrait pas supporter. Il a été embarqué à bord de l'UES Contact Light dans le cadre d'un plan de contingence. Cependant, il a fini par être reprogrammé pour le combat, malgré le fait qu'il s'agissait d'une simple mission d'aller-retour.",
         "BASTIAN_NAME_EPIC": "Bastian le Traducteur, Modèle 4.I.N.K.",
         "BASTIAN_ROO_DESCRIPTION": "Bastian le Traducteur, Modèle 4.I.N.K.",
         "BASTIAN_OUTRO": "..et ainsi il partit, sa fonction enfin accomplie.",
         "BASTIAN_FAIL": "..et ainsi il fut désactivé, sa mémoire effacée à jamais.",
-        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1": "Balançoire ionique",
         "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Mêlée</style>. <style=cIsUtility>Agile</style>. Frappez les ennemis devant pour <style=cIsDamage>250% de dégâts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. Les dégâts sont réduits de moitié en mode Évasif.",
         "BASTIAN_M2": "Micro-Balle",
         "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez jusqu'à 5 balles d'énergie, chacune infligeant <style=cIsDamage>250% de dégâts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. N'applique pas d'étourdissement en mode Évasif.",

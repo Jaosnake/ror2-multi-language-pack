@@ -1,23 +1,23 @@
 {
-  "strings": {
-    "SS2_DROIDDRONE_COMMAND_DESCRIPTION": "",
-    "SS2_DROIDDRONE_DESCRIPTION": "Временный компаньон, создаваемый при наличии Головы Дроида и убийстве элитных врагов. Следует за выжившим на близком расстоянии, стреляя по врагам поблизости.",
-    "SS2_DROIDDRONE_NAME": "Охранный дрон",
-    "SS2_DROIDDRONE_PICKUP": "Стреляет по врагам поблизости. <style=cIsUtility>Наследует тип элиты</style> убитого элитного врага.",
-    "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
-    "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
-    "SS2_DRONE_CLONE_DESCRIPTION": "Компаньон, купленный за золото, который следует за выжившим на близком расстоянии. <style=cIsUtility>Дублирует</style> подбираемые предметы поблизости.",
-    "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Починить Дрон-дубликатор",
-    "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Сломанный Дрон-дубликатор",
-    "SS2_DRONE_CLONE_NAME": "Дрон-дубликатор",
-    "SS2_DRONE_CLONE_PICKUP": "Иногда <style=cIsUtility>дублирует</style> предметы поблизости.",
-    "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Наводится на ближайший предмет. По завершении создаёт <style=cIsUtility>дубликат</style> предмета.",
-    "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
-    "SS2_DRONE_SHOCK_DESCRIPTION": "Компаньон, купленный за золото, который следует за выжившим на близком расстоянии, <style=cIsUtility>поражая</style> врагов током, прерывая и оглушая их.",
-    "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Починить Электро-дрон",
-    "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Сломанный Электро-дрон",
-    "SS2_DRONE_SHOCK_NAME": "Электро-дрон",
-    "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>Бьёт током</style> врагов поблизости, прерывая и оглушая их.",
-    "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Выпускает электрический залп, нанося <style=cIsDamage>100% урона</style> по площади и <style=cIsUtility>оглушая</style> врагов на <style=cIsUtility>5 секунд</style>."
-  }
+    "strings": {
+        "SS2_DRONE_SHOCK_NAME": "Электро-дрон",
+        "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Сломанный Электро-дрон",
+        "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Починить Электро-дрон",
+        "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>Бьёт током</style> врагов поблизости, прерывая и оглушая их.",
+        "SS2_DRONE_SHOCK_DESCRIPTION": "Компаньон, купленный за золото, который следует за выжившим на близком расстоянии, <style=cIsUtility>поражая</style> врагов током, прерывая и оглушая их.",
+        "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Выпускает электрический залп, нанося <style=cIsDamage>100% урона</style> по площади и <style=cIsUtility>оглушая</style> врагов на <style=cIsUtility>5 секунд</style>.",
+        "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
+        "SS2_DRONE_CLONE_NAME": "Дрон-дубликатор",
+        "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Сломанный Дрон-дубликатор",
+        "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Починить Дрон-дубликатор",
+        "SS2_DRONE_CLONE_PICKUP": "Иногда <style=cIsUtility>дублирует</style> предметы поблизости.",
+        "SS2_DRONE_CLONE_DESCRIPTION": "Компаньон, купленный за золото, который следует за выжившим на близком расстоянии. <style=cIsUtility>Дублирует</style> подбираемые предметы поблизости.",
+        "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Наводится на ближайший предмет. По завершении создаёт <style=cIsUtility>дубликат</style> предмета.",
+        "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
+        "SS2_DROIDDRONE_NAME": "Охранный дрон",
+        "SS2_DROIDDRONE_PICKUP": "Стреляет по врагам поблизости. <style=cIsUtility>Наследует тип элиты</style> убитого элитного врага.",
+        "SS2_DROIDDRONE_DESCRIPTION": "Временный компаньон, создаваемый при наличии Головы Дроида и убийстве элитных врагов. Следует за выжившим на близком расстоянии, стреляя по врагам поблизости.",
+        "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
+        "SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
+    }
 }

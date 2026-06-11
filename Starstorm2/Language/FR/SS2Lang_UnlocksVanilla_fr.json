@@ -1,20 +1,20 @@
 {
-  "strings": {
-    "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Commando: Grand Mastery",
-    "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "As Commando, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Commando: Scorpion",
-    "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "As Commando, find the hidden Prismatic Crystal on Titanic Plains.",
-    "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Commando: Lone Echo",
-    "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "As Commando, defeat Commando's Vestige.",
-    "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Grand Mastery",
-    "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "As MUL-T, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Acrid: Grand Mastery",
-    "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "As Acrid, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Captain: Grand Mastery",
-    "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "As Captain, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Huntress: Grand Mastery",
-    "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "As Huntress, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Mercenary: Vengeful Deserter",
-    "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "As Mercenary, defeat Mercenary's Vestige."
-  }
+    "strings": {
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Commando: Grand Mastery",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "En tant que Commando, terminez le jeu ou effacez sur Typhoon ou Harder.",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Commando: Scorpion",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "En tant que Commando, trouvez le cristal prismatique caché dans les plaines du Titanic.",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Commando: Lone Echo",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "En tant que Commando, battez le Vestige du Commando.",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Grand Mastery",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "En tant que MUL-T, terminez le jeu ou effacez sur Typhoon ou Harder.",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Acrid: Grand Mastery",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "En tant qu'Acrid, terminez le jeu ou effacez sur Typhoon ou Harder.",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Captain: Grand Mastery",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "En tant que capitaine, terminez le jeu ou effacez sur Typhoon ou Harder.",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Huntress: Grand Mastery",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "En tant que Chasseresse, terminez le jeu ou effacez sur Typhoon ou Harder.",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Mercenary: Vengeful Deserter",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "En tant que mercenaire, battez le vestige du mercenaire."
+    }
 }

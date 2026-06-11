@@ -1,0 +1,23 @@
+{
+    "tr": {
+        "KENKO_CADET_NAME": "Harbiyeli",
+        "KENKO_CADET_SUBTITLE": "Çok Yönlü Nişancı",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Öğrenci: Uzman",
+        "PRIMARY_SMG_NAME": "Hafif Makineli Tüfek",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Atik</style>. SMG'nizi hızla ateşleyin<style=cIsDamage>%60 hasar</style>atış başına.",
+        "PRIMARY_SHOTGUN_NAME": "Av tüfeği",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Atik</style>. Tüfeğinizi ateşleyin<style=cIsDamage>%100 hasar</style>.",
+        "SECONDARY_GRENADE_NAME": "El bombası",
+        "SECONDARY_GRENADE_DESCRIPTION": "Etkili bir el bombası atın<style=cIsDamage>%400 hasar</style>.",
+        "SECONDARY_THROWGUN_NAME": "Silah Atma",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Mevcut silahınızı atın<style=cIsDamage>%600 hasar</style>.",
+        "UTILITY_SLIDE_NAME": "Slayt",
+        "UTILITY_SLIDE_DESCRIPTION": "Bir yönde kaydırın,<style=cIsUtility>yeniden yükleme</style>anında silahınız.",
+        "UTILITY_ROLLOAD_NAME": "Taktiksel Rulo",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Silahınızı yeniden doldurarak bir yöne doğru yuvarlanın.",
+        "SPECIAL_ECHO_NAME": "Yankı",
+        "SPECIAL_ECHO_DESCRIPTION": "Düşmanlar arasında seken sonik dronları ateşleyin,<style=cIsDamage>%350 hasar</style>ve yavaş uygulayarak.",
+        "SPECIAL_ULTRA_NAME": "Ultra",
+        "SPECIAL_ULTRA_DESCRIPTION": "Etkili bir enerji patlaması ateşleyin<style=cIsDamage>%600 hasar</style>."
+    }
+}

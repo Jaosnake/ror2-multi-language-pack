@@ -44,10 +44,10 @@
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME": "Wirbelsäulenhahn",
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION": "Steche deine Feinde und füge ihnen <style=cIsDamage>750 % Schaden zu. </style><style=cIsUtility>Wenn Sie einen schwächeren Feind von hinten erstechen,</style> <style=cIsHealth>Töten Sie Ihr Ziel sofort.</style> Wenn Sie einen Boss von hinten erstechen, führen Sie einen <style=cIsUtility>2%</style> aus, um Ihr Ziel sofort zu töten.</style> Wenn dies fehlschlägt, vernichten Sie 20 % der Ziele Gesundheit.</style>",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME": "Assassin: Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Monsoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "Schlagen Sie als Assassine das Spiel oder vernichten Sie es auf Monsun oder höher.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME": "Assassin: Grand Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Typhoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Schlagen Sie als Assassine das Spiel oder vernichten Sie es auf Typhoon oder höher.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME": "Assassin: Deathly Concoction",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy."
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "Wende als Assassine 10 Stapel Assassinengift auf einen einzelnen Feind an."
     }
 }

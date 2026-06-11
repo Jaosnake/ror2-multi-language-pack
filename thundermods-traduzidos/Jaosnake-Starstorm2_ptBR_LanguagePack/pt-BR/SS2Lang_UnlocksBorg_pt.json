@@ -1,16 +1,16 @@
 {
-	"strings": {
-		"SS2_ACHIEVEMENT_BORG_NAME": "",
-		"SS2_ACHIEVEMENT_BORG_DESC": "",
-		"SS2_ACHIEVEMENT_CYBORG_NAME": "Powered Up",
-		"SS2_ACHIEVEMENT_CYBORG_DESC": "Complete an Ethereal Teleporter event.",
-		"SS2_ACHIEVEMENT_BORG_MASTERY_NAME": "Cyborg: Mastery",
-		"SS2_ACHIEVEMENT_BORG_MASTERY_DESC": "As Cyborg, beat the game or obliterate on Monsoon or harder.",
-		"SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Cyborg: Mastery",
-		"SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "As Cyborg, beat the game or obliterate on Monsoon or harder.",
-		"SS2_ACHIEVEMENT_BORG_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
-		"SS2_ACHIEVEMENT_BORG_GRANDMASTERY_DESC": "As Cyborg, beat the game or obliterate on Typhoon or harder.",
-		"SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
-		"SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "As Cyborg, beat the game or obliterate on Typhoon or harder."
-	}
+    "strings": {
+        "SS2_ACHIEVEMENT_CYBORG_NAME": "Powered Up",
+        "SS2_ACHIEVEMENT_CYBORG_DESC": "Conclua um evento do Teletransportador Etéreo.",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME": "Cyborg: Mastery",
+        "SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC": "Como Cyborg, vença o jogo ou destrua no Monsoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
+        "SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC": "Como Cyborg, vença o jogo ou destrua no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_BORG_NAME": "",
+        "SS2_ACHIEVEMENT_BORG_DESC": "",
+        "SS2_ACHIEVEMENT_BORG_MASTERY_NAME": "Cyborg: Mastery",
+        "SS2_ACHIEVEMENT_BORG_MASTERY_DESC": "As Cyborg, beat the game or obliterate on Monsoon or harder.",
+        "SS2_ACHIEVEMENT_BORG_GRANDMASTERY_NAME": "Cyborg: Grand Mastery",
+        "SS2_ACHIEVEMENT_BORG_GRANDMASTERY_DESC": "As Cyborg, beat the game or obliterate on Typhoon or harder."
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "de": {
+        "KENKO_CADET_NAME": "Kadett",
+        "KENKO_CADET_SUBTITLE": "Vielseitiger Schütze",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Kadett: Spezialist",
+        "PRIMARY_SMG_NAME": "Maschinenpistole",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agil</style>. Feuern Sie Ihre Maschinenpistole schnell ab<style=cIsDamage>60 % Schaden</style>pro Schuss.",
+        "PRIMARY_SHOTGUN_NAME": "Schrotflinte",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agil</style>. Feuern Sie mit Ihrer Schrotflinte ab<style=cIsDamage>100 % Schaden</style>.",
+        "SECONDARY_GRENADE_NAME": "Granate",
+        "SECONDARY_GRENADE_DESCRIPTION": "Wirf eine Granate, die austeilt<style=cIsDamage>400 % Schaden</style>.",
+        "SECONDARY_THROWGUN_NAME": "Waffenwurf",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Wirf deine aktuelle Waffe für<style=cIsDamage>600 % Schaden</style>.",
+        "UTILITY_SLIDE_NAME": "Gleiten",
+        "UTILITY_SLIDE_DESCRIPTION": "In eine Richtung gleiten,<style=cIsUtility>Neuladen</style>Ihre Waffe sofort.",
+        "UTILITY_ROLLOAD_NAME": "Taktische Rolle",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Rollen Sie in eine Richtung und laden Sie Ihre Waffe nach.",
+        "SPECIAL_ECHO_NAME": "Echo",
+        "SPECIAL_ECHO_DESCRIPTION": "Feuern Sie Schalldrohnen ab, die zwischen Feinden abprallen und Schaden anrichten<style=cIsDamage>350 % Schaden</style>und langsam anwenden.",
+        "SPECIAL_ULTRA_NAME": "Ultra",
+        "SPECIAL_ULTRA_DESCRIPTION": "Feuern Sie einen mächtigen Energiestoß ab, der Schaden anrichtet<style=cIsDamage>600 % Schaden</style>."
+    }
+}

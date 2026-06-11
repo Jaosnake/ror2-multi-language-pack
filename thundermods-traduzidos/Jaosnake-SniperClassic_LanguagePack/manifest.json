@@ -1,0 +1,10 @@
+{
+    "name": "Jaosnake-SniperClassic_LanguagePack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+    "description": "Multi-language R2API.Language translation pack for SniperClassic.",
+    "dependencies": [
+        "EnforcerGang-SniperClassic-2.0.9",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "IT": {
+        "BASTIAN_NAME": "Bastiano",
+        "BASTIAN_SUBTITLE": "Robot di traduzione ricondizionato",
+        "BASTIAN_DESCRIPTION": "Un robot locale, costruito per aiutare a negoziare accordi con corpi planetari stranieri. Il suo scopo originale era quello di funzionare come intermediario, progettato per sopravvivere su pianeti con aria e temperature che un normale essere umano non poteva sopportare. È stato portato a bordo dell'UES Contact Light come parte di un piano di emergenza. Tuttavia, finì per essere riprogrammato per il combattimento, nonostante si trattasse di una semplice missione di recupero e trasporto.",
+        "BASTIAN_NAME_EPIC": "Bastian il Traduttore, Modello 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian il Traduttore, Modello 4.I.N.K.",
+        "BASTIAN_OUTRO": "...e così se ne andò, finalmente adempiuta la sua funzione.",
+        "BASTIAN_FAIL": "..e così venne disattivato, la sua memoria cancellata per sempre.",
+        "BASTIAN_M1": "Oscillazione ionica",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Mischia</style>. <style=cIsUtility>Agile</style>. Colpisci i nemici in anticipo<style=cIsDamage>Danno del 250%.</style>. Costruisce<style=cIsUtility>Cariche ioniche</style>. Il danno è dimezzato mentre è Evasivo.",
+        "BASTIAN_M2": "Micro-proiettile",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara fino a 5 proiettili energetici, ciascuno con effetto<style=cIsDamage>Danno del 250%.</style>. Costruisce<style=cIsUtility>Cariche ioniche</style>. Non applica lo stordimento durante l'Evasione.",
+        "BASTIAN_UTIL": "Nano-primavera",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Eseguire</style>un rapido scatto in qualsiasi direzione. Costruisce<style=cIsUtility>Cariche ioniche</style>.",
+        "BASTIAN_SPEC": "L'esplosione dell'architetto",
+        "BASTIAN_SPEC_DESCRIPTION": "Trascorrere<style=cIsHealth>33% di salute attuale</style>E<style=cIsUtility>tutte le cariche ioniche</style>per una massiccia esplosione di<style=cIsDamage>Danno del 500%-3.000%.</style>. Dopo l'uso, diventa<color=#E9AFEA>Evasivo</color>per 10 secondi.",
+        "BASTIAN_SPEC_KEYWORD": "Speciale",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Padronanza"
+    }
+}

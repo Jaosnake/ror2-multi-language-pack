@@ -25,6 +25,6 @@
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "灾厄",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "投掷3枚产生不稳定黑洞的手雷。</style>。<style=cIsUtility>5</style>秒后,黑洞坍缩,造成<style=cIsDamage>700%伤害</style>。",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Complete a stage without touching the ground more than once."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "在不多次接触地面的情况下完成一个阶段。"
     }
 }

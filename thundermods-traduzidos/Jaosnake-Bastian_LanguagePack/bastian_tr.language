@@ -1,0 +1,22 @@
+{
+    "tr": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Yenilenmiş Çeviri Robotu",
+        "BASTIAN_DESCRIPTION": "Yabancı gezegen organlarıyla anlaşmaların müzakere edilmesine yardımcı olmak için yapılmış yerel bir robot. Orijinal amacı, normal bir insanın dayanamayacağı hava ve sıcaklıklara sahip gezegenlerde hayatta kalmak için tasarlanmış bir aracı olarak işlev görmekti. Bir acil durum planının parçası olarak UES Contact Light'a getirildi. Ancak, basit bir getir ve taşı görevi olmasına rağmen, savaş için yeniden programlandı.",
+        "BASTIAN_NAME_EPIC": "Çevirmen Bastian, Model 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Çevirmen Bastian, Model 4.I.N.K.",
+        "BASTIAN_OUTRO": "..ve böylece ayrıldı, sonunda görevini yerine getirdi.",
+        "BASTIAN_FAIL": "..ve böylece devre dışı bırakıldı, hafızası sonsuza dek silindi.",
+        "BASTIAN_M1": "İyon Salınımı",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Yakın Dövüş</style>. <style=cIsUtility>Atik</style>. Düşmanlara önden saldırın<style=cIsDamage>%250 hasar</style>. Yapılar<style=cIsUtility>İyonik Yükler</style>. Kaçınma sırasında hasar yarıya indirilir.",
+        "BASTIAN_M2": "Mikro Kurşun",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Atik</style>. Her biri etkili olan 5'e kadar enerji mermisi ateşleyin<style=cIsDamage>%250 hasar</style>. Yapılar<style=cIsUtility>İyonik Yükler</style>. Kaçış sırasında sersemletme uygulamaz.",
+        "BASTIAN_UTIL": "Nano-Bahar",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Uygulamak</style>herhangi bir yöne hızlı bir atılım. Yapılar<style=cIsUtility>İyonik Yükler</style>.",
+        "BASTIAN_SPEC": "Mimarın Patlaması",
+        "BASTIAN_SPEC_DESCRIPTION": "Harcamak<style=cIsHealth>%33 mevcut sağlık</style>Ve<style=cIsUtility>tüm İyonik Yükler</style>büyük bir patlama için<style=cIsDamage>%500-%3.000 hasar</style>. Kullanımdan sonra haline<color=#E9AFEA>Kaçamak</color>10 saniye boyunca.",
+        "BASTIAN_SPEC_KEYWORD": "Özel",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Ustalık"
+    }
+}

@@ -44,10 +44,10 @@
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME": "Omurga Musluğu",
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION": "Düşmanlarınızı bıçaklayın<style=cIsDamage>%750 hasar.</style><style=cIsUtility>Daha küçük bir düşmanı arkadan bıçaklarken,</style> <style=cIsHealth>Hedefinizi anında öldürün.</style>Bir patronu arkadan bıçaklarken,<style=cIsUtility>%2</style>ile<style=cIsHealth>Hedefinizi anında öldürün.</style>Bu başarısız olursa, anlaşma<style=cIsDamage>Hedeflerin %20'si sağlığı.</style>",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME": "Assassin: Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Monsoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "Suikastçı olarak oyunu bitirin veya Muson veya daha yüksek bir dönemde yok edin.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME": "Assassin: Grand Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Typhoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Suikastçı olarak oyunu bitirin veya Typhoon veya daha yüksek bir sürümde yok edin.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME": "Assassin: Deathly Concoction",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy."
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "Suikastçı olarak tek bir düşmana 10 adet Suikastçı Zehri yığını uygula."
     }
 }
