@@ -12,7 +12,7 @@
         "SS2_NEMCAPTAIN_KEYWORD_OVERSTRESS": "<style=cKeywordName>Ansioso</style><style=cSub>Sujeito aos efeitos do Estresse máximo, além de -30% de velocidade de movimento, -20 de armadura e -50% de dano até o medidor de Estresse chegar a 0.",
         "SS2_NEMCAPTAIN_PRIMARY_NAME": "Problema Padrão",
         "SS2_NEMCAPTAIN_PRIMARY_DESCRIPTION": "Rapidamente dispara para causar <style=cIsDamage>90% de dano</style> por bala. Máximo de 20 projéteis.",
-        "SS2_NEMCAPTAIN_SECONDARY_NAME": "Reservá Pessoal",
+        "SS2_NEMCAPTAIN_SECONDARY_NAME": "Reserva Pessoal",
         "SS2_NEMCAPTAIN_SECONDARY_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Arme sua pistola de bengala e dispare um tiro para causar <style=cIsDamage>680% de dano</style>.",
         "SS2_NEMCAPTAIN_PUNCH_NAME": "Fujin",
         "SS2_NEMCAPTAIN_PUNCH_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Dê um soco para frente causando <style=cIsDamage>150% de dano</style>.",
