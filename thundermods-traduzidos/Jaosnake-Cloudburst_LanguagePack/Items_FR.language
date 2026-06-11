@@ -1,0 +1,27 @@
+{
+    "FR": {
+        "ITEM_BARRIERONCRIT_NAME": "Boucles d'oreilles bismuth",
+        "ITEM_BARRIERONCRIT_DESCRIPTION": "Gagnez <style=cIsDamage>5 % de chances de saignement</style>. Gagnez une <style=cIsHealing>barrière temporaire</style> en appliquant un saignement pour <style=cIsHealing>15 points de vie</style> <style=cStack>(+10 par pile)</style>.",
+        "ITEM_BARRIERONCRIT_PICKUP": "Gagner une barrière lors de l'application du saignement",
+        "ITEM_BARRIERONCRIT_LORE": "Les boucles d'oreilles sont en bismuth ou quelque chose comme ça, je ne sais pas.",
+        "ITEM_ENIGMATICKEYCARD_NAME": "Carte-clé énigmatique",
+        "ITEM_ENIGMATICKEYCARD_PICKUP": "Chance de générer un orbe en cas de coup qui suit et blesse les ennemis.",
+        "ITEM_ENIGMATICKEYCARD_DESCRIPTION": "4 % de chances en cas d'impact de faire apparaître un orbe à la recherche de <style=cIsDamage></style> qui frappe les ennemis proches pour infliger <style=cIsDamage>140 % de dégâts de base <style=cStack>(+140 % par pile)</style></style> à l'impact.",
+        "ITEM_ENIGMATICKEYCARD_LORE": "Aucune carte d'accès ne pourra jamais ouvrir le putain de cerveau d'Enigma.",
+        "ITEM_BLEEDCRIPPLE_NAME": "Dague de Fabinhoru",
+        "ITEM_BLEEDCRIPPLE_PICKUP": "Frapper des ennemis qui saignent réduit leur armure.",
+        "ITEM_BLEEDCRIPPLE_DESCRIPTION": "Obtenez <style=cIsDamage>5%</style> chances de <style=cIsDamage>saigner</style> un ennemi touché. <style=cIsDamage>Frapper</style> ennemis alors qu'ils sont <style=cIsDamage>saignant</style> réduit leur <style=cIsDamage>armure</style> de</style>0__30</style>1__</style>2__(+15 par pile)</style>3__.",
+        "ITEM_BLEEDCRIPPLE_LORE": "elle fabrique mon poignard jusqu'à ce que je sois heureuse",
+        "ITEM_GLASSHARVESTER_NAME": "Récolteuse de verre",
+        "ITEM_GLASSHARVESTER_PICKUP": "Vos « Coups critiques » infligent 40 % de dégâts supplémentaires. Se brise en cas de santé faible, accordant de l'expérience.",
+        "ITEM_GLASSHARVESTER_DESC": "Gagnez <style=cIsDamage>5 % de chances de coup critique</style>. <style=cIsDamage>Les coups critiques</style> infligent <style=cIsDamage>40 % de dégâts supplémentaires</style><style=cStack>(+30 % par pile)</style>. Subir des dégâts inférieurs à <style=cIsHealth>25 % de santé</style></style>0__brise</style>1__ cet objet et accorde 15 % de l'</style>2__expérience</style>3__ de votre niveau actuel.",
+        "ITEM_GLASSHARVESTER_LORE": "Est-ce qu'il récolte du verre ou est-ce qu'il récolte avec du verre ?\nJe ne sais pas et je m'en fiche, sors de chez moi",
+        "ITEM_GLASSHARVESTERCONSUMED_NAME": "Récolteuse de verre (cassé)",
+        "ITEM_GLASSHARVESTERCONSUMED_PICKUP": "Récolte récoltée. Cela valait-il l'expérience ?",
+        "ITEM_GLASSHARVESTERCONSUMED_DESC": "Un objet dépensé sans pouvoir restant.",
+        "ITEM_PICKUPBUFF_NAME": "Cape de Jape",
+        "ITEM_PICKUPBUFF_PICKUP": "Gagnez un buff qui confère une armure et des soins lors de la récupération d'un objet.",
+        "ITEM_PICKUPBUFF_DESCRIPTION": "Gagnez un buff qui vous accorde <style=cIsUtility>+5 d'armure</style> et <style=cIsHealing>30% de soins</style> lorsque vous ramassez un objet. Plafond maximum de 3 buffs <style=cStack>(+2 par pile)</style>.",
+        "ITEM_PICKUPBUFF_LORE": "\"Journal du quartier-maître. 17 jours après le crash.\n\nCela fait plus d'un demi-mois que nous nous sommes presque réduits en pâte noire et fumante lors de notre introduction involontaire à l'atmosphère de cette planète meurtrière. En raison de la nature de notre arrivée, c'est-à-dire échapper à un cargo effondré qui avait été arraché du voyage en distorsion, notre approvisionnement en produits de première nécessité a diminué par rapport à un nombre de base déjà dangereusement bas. Nous avons été obligés de rationner le peu de nourriture et d'eau dont nous disposons. Pour contrôler cela, j'ai été élu quartier-maître de notre avant-poste. \nNos fournitures sont les suivantes :\n\n-Assez de nourriture et d'eau pour environ 1 semaine et demie.\n-3 boîtes en carton et demie remplies de métal et de circuits récupérés provenant de drones et de sentinelles détruits.\n-4 sacs de matériel médical. \n-2 porte-clés, chacun avec 13 clés rouillées ? (Cela doit être une erreur, Juarez dit qu'il a été apporté avec le reste du transport que ces trois types ont apporté il y a 2 jours, est-ce qu'ils les impriment ou quelque chose du genre ?)\n-6 boîtes pleines de munitions (potentiellement en diminution à un rythme exponentiel)\n\nQuelque chose ne correspond pas au tableau d'affichage que nous avons mis en place pour suivre la quantité de fournitures. Bien que cela puisse être simplement un simple problème de communication de la part de chacun, le risque que quelqu'un prenne plus que ce dont il a besoin augmente régulièrement chaque jour. Je n'ai aucune preuve pour indiquer exactement cela, mais c'est une possibilité (très effrayante) \n\n\nSi c'est juste une personne qui prend tout, alors aux taux qui ont été montrés... \nIls pourraient bien être plus préparés que. le reste d'entre nous.\n\nFin du journal.\n\n\nAddendum : QUI AU SAINT NOM DE DIEU CI-DESSUS A PRIS LES CIGARETTES ? »"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "ja": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "異端者 <style=cIsUtility> はより速く移動</style> し、空中で <style=cIsUtility>翼を 2 回羽ばたく</style> して高度を高めることができます。",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "異端の刻印",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "ステータスが大幅に向上します...<color=#FF7F7F>ただし、健康状態は時間の経過とともに減衰します。</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "<style=cIsHealing>health</style> を <style=cIsHealing>400%</style> 増加させ、<style=cIsDamage>damage</style> を <style=cIsDamage>50%</style> 増加させます。 <style=cIsHealing>ベースのヘルス再生</style>を</style>0__-6hp/s</style>1__に削減します。",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "ブレードのボールをチャージすると、<style=cIsDamage>175% のダメージ</style> を繰り返し与えます。遅延後、すべての敵を爆発させて<style=cIsDamage>root</style>、<style=cIsDamage>700%のダメージ</style>を与えます。",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "ダメージを与えると、<style=cIsDamage>Ruin</style> のスタックが追加されます。スキル <style=cIsDamage> をアクティブにすると、無制限の範囲ですべての Ruin スタック</style> が爆発し、<style=cIsDamage>300% のダメージ</style> に加え、<style=cIsDamage>Ruin</style> のスタックごとに <style=cIsDamage>120% のダメージ</style> を与えます。",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "秘密の生存者として月から脱出しましょう。"
+    }
+}

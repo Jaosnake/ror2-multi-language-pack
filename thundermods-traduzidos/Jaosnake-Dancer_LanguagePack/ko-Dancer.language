@@ -1,0 +1,22 @@
+{
+    "ko": {
+        "NDP_DANCER_BODY_NAME": "춤추는 사람",
+        "NDP_DANCER_BODY_SUBTITLE": "필멸의 춤",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "기본",
+        "NDP_DANCER_GOLD_SKIN_NAME": "골든",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "제한적인 테이프",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "테이프 출혈이 있는 적들은 초당 50%의 피해를 입고 행동할 수 없습니다.</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "삭감",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "목표에 따라 효과가 있는 근접 공격입니다. (자세한 내용을 보려면 마우스를 올리세요)</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "자르다",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "목표에 따라 효과가 있는 근접 공격입니다. (자세한 내용을 보려면 마우스를 올리세요)</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "당기다",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "적을 당신 쪽으로 끌어당깁니다.</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "바인딩 테이프",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "적에게 테이프를 붙여 적의 행동과 출혈을 방지합니다.</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>지상 입력, 앞으로 조준하세요. 앞으로 돌진하여 <style=cIsDamage>180% 피해</style>를 줍니다.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>지면 입력, 아래를 조준하세요. 적을 위쪽으로 발사하고 <style=cIsDamage>200% 피해</style>를 줍니다.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>앞으로 공기</style><style=cSub>공기 입력, 앞으로 조준하세요. 강타는 <style=cIsDamage>180% 데미지</style>를 가하고 적을 땅에 고정시켜 기절시키고 최대 <style=cIsDamage>300% 데미지</style>를 줍니다.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>테이프</style><style=cSub>테이핑된 적들은 초당 <style=cIsDamage>50% 피해</style>의 출혈을 일으키고 행동할 수 없습니다."
+    }
+}

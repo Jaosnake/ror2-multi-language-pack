@@ -1,6 +1,6 @@
 {
     "tr": {
-        "SPEARMAN_NAME": "Spearman",
+        "SPEARMAN_NAME": "Mızrakçı",
         "SPEARMAN_DESCRIPTION": "Spearman, mızrağını kullanarak yakın mesafede ve uzaktan yıkıcı hasar veren dengeli bir savaşçıdır. Sadece sadık mızrağını kullanarak mutlak gücü arar.",
         "SPEARMAN_SUBTITLE": "Petrichor'un Tanrısı",
         "SPEARMAN_LORE": "Bir zamanlar, Petrichor'un kavrulmuş topraklarında, silinmez bir öfkeyle yanan bir savaşçı vardı. Tanrıların zulmüne tanık olmuş, güçsüzlere zulmeden ilahi varlıkların sonsuz döngüsünü görmüştü. Tek başına, bir tanrıyı öldürmek için yola çıktı; eti delip ruhu parçalayan bir mızrak dövdü. Çatışma dünyaları sarstı ama sonunda ilahi olanın kanı toprağa döküldü. O günden sonra, varlığın kendisine işkence eden bir gezegenin tanrısı olarak bilindi.",
@@ -23,11 +23,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "Spearman'ın Mızrağı",
         "SPEARMAN_INTERACTABLE_CONTEXT": "Yok et",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Kafatasına gömülü silahı alın.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Spearman olarak oyunu bitirin ya da Muson'u yok edin.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Mızraklı olarak, Warriors Spear'ın tek kullanımında 10 düşmanı öldür.",
         "SPEARMAN_ALTM1": "Savaşçı Duruşu",
         "SPEARMAN_ALTM1_DESCRIPTION": "Mızrağı ileri saplayarak <style=cIsDamage>%400 hasar</style> ver ve <style=cIsDamage>%200 hasar</style> için bir rüzgar bıçağı fırlat."
     }

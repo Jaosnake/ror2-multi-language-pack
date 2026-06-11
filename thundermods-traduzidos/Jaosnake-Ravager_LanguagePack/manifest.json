@@ -1,11 +1,11 @@
 {
-    "author":  "Jaosnake",
-    "name":  "Ravager_LanguagePack",
-    "description":  "Multi-language translation pack for Ravager by public_ParticleSystem.",
-    "dependencies":  [
-                         "public_ParticleSystem-Ravager-1.6.0",
-                         "RiskofThunder-R2API_Language-1.1.0"
-                     ],
-    "version_number": "1.0.1",
-    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
+    "author": "Jaosnake",
+    "name": "Ravager_LanguagePack",
+    "description": "Multi-language translation pack for Ravager by public_ParticleSystem.",
+    "dependencies": [
+        "public_ParticleSystem-Ravager-1.6.0",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

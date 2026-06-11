@@ -34,13 +34,13 @@
         "SNIPERCLASSIC_BODY_LORE": "Биография: Снайпер был рожден с особыми силами он был сильнее всех свои товарищей на ues свет контакта. он служил в военном боевом промысле ",
         "SNIPERCLASSIC_MASTERY_SKIN_NAME": "Оперативник",
         "SNIPERCLASSIC_GRANDMASTERY_SKIN_NAME": "Экспедиция",
-        "SNIPERCLASSIC_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Снайпер: мастерство",
+        "SNIPERCLASSIC_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sniper: Mastery",
         "SNIPERCLASSIC_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Снайпера, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей».",
         "SNIPERCLASSIC_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Снайпер: мастерство",
-        "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Снайпер: высшее мастерство",
+        "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sniper: Grand Mastery",
         "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Снайпера, пройдите игру или уничтожьтесь на уровне сложности «Тайфун».\n<color=#8888>(Уровень сложности «Тайфун» доступен с модом Starstorm 2)</color>",
         "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Снайпер: высшее мастерство",
-        "SNIPERCLASSIC_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Обнаружен",
+        "SNIPERCLASSIC_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Spotted",
         "SNIPERCLASSIC_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Почините инженерный дрон с помощью Радара-сканера.",
         "SNIPERCLASSIC_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Обнаружен"
     }

@@ -1,0 +1,23 @@
+{
+    "de": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Das Haus",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Das Haus ist ein verrückter Spieler, der sich auf sein Glück verlässt, um schwierige Situationen zu meistern, indem er zwei mysteriöse Schicksalsartefakte einsetzt: einen 6-Schuss-Revolver namens <style=cIsUtility>\"Roulette\"</style> und ein scheinbar verfluchtes Kartenspiel.",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Der verrückte Spieler",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Standard",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Meisterschaft",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..und so ging er und spielte dem Schicksal erneut einen Streich.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..und so verschwand er, da sein Glück endlich zu Ende war.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Standardschuss",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Agile</style>. Feuern Sie einen zufälligen Schuss mit Ihrem Revolver ab.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Volles Haus",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Feuern Sie mehrere Schüsse gleichzeitig mit dem Revolver ab.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Weissagung",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Sagen Sie die nächste Karte aus dem Stapel voraus, um sich einen Vorteil zu verschaffen.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Shuffle",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Mische deinen Stapel und setze deine Optionen zurück.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Standard-Nachladen",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Laden Sie Ihren Revolver mit allen 6 Kugeln nach.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "All-In-Nachladen",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Nachladen und verdoppeln."
+    }
+}

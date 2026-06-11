@@ -1,0 +1,21 @@
+{
+    "tr": {
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Kısıtlayıcı Bant",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Bantlı düşmanlar saniyede %50 hasarla kanar ve harekete geçemez.",
+        "PRIMARY_SLASH_NAME": "Eğik çizgi",
+        "PRIMARY_SLASH_DESCRIPTION": "Amacınıza göre efektlerle yakın dövüş saldırısı. (Ayrıntılar için fareyle üzerine gelin)",
+        "PRIMARY_SLASH2_NAME": "Kesmek",
+        "PRIMARY_SLASH2_DESCRIPTION": "Amacınıza göre efektlerle yakın dövüş saldırısı. (Ayrıntılar için fareyle üzerine gelin)",
+        "UTILITY_PULL_NAME": "Çekmek",
+        "UTILITY_PULL_DESCRIPTION": "Düşmanları kendinize doğru çekin.",
+        "SPECIAL_RIBBON_LOCK_NAME": "Bağlama Bandı",
+        "SPECIAL_RIBBON_LOCK_DESCRIPTION": "Düşmana bant uygulayarak onların harekete geçmesini ve kanamaya neden olmasını önleyin.",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Yer girişi, ileriyi hedefleyin. İleriye atlayın ve <style=cIsDamage>%180 hasar</style> verin.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Aşağı Eğim</style><style=cSub>Yer girişi, aşağı doğru nişan alın. Düşmanları yukarı doğru fırlatın ve <style=cIsDamage>%200 hasar</style> verin.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>İleri Hava</style><style=cSub>Hava girişi, ileriyi hedefleyin. <style=cIsDamage>%180 hasar</style> veren ağır saldırı, düşmanları yere sabitler, sersemletir ve <style=cIsDamage>%300'e kadar hasar</style> verir.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>Bantlanan düşmanlar saniyede <style=cIsDamage>50% hasar için kanarlar</style> ve harekete geçemezler.",
+        "NDP_DANCER_BODY_SUBTITLE": "Ölümlü Dansı",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Altın"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ko": {
+        "KENKO_CADET_NAME": "차남",
+        "KENKO_CADET_DESCRIPTION": "생도는 단거리 무기와 빠른 기동성을 이용해 전투를 진행할 수 있는 다재다능한 포수입니다.<color=#CCD3E0></i>",
+        "KENKO_CADET_SUBTITLE": "다재다능한 사수",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "기본",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "생도: 전문가",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "총알폭풍",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>민첩한</style>. <style=cIsDamage>60% 피해</style>에 대한 레이저를 발사합니다. 20라운드 후에 <style=cIsUtility>reload</style>가 필요합니다.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "파괴적인 파도",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>민첩한</style>. <style=cIsDamage>3x100% 피해</style>에 대한 폭발을 발사합니다. 10개의 발사체 이후에는 <style=cIsUtility>reload</style>이 필요합니다.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "플랜 B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "<style=cIsDamage>400% 피해</style>로 경유탄 발사기를 발사하세요.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "플랜 C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "무기를 던져서 현재 탄약을 기준으로 <style=cIsDamage>250%~750% 피해</style>를 가합니다.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "슬라이딩 재장전",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "특정 방향으로 슬라이드하면 무기가 즉시 <style=cIsUtility>재장전</style>됩니다.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "롤 다시 로드",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "한 방향으로 굴러가면 무기가 즉시 <style=cIsUtility>재장전</style>됩니다.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "플랜 A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>민첩한</style>. <style=cIsDamage>32x150% 피해</style>에 대한 강력한 탄환을 발사합니다.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "에코 드론",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "<style=cIsDamage>2개의 드론</style>을 배치하여 <style=cIsDamage>2x370% 피해</style>를 주는 근처의 적을 찾습니다."
+    }
+}

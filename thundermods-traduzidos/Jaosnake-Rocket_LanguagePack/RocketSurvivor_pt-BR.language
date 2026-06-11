@@ -25,14 +25,14 @@
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME": "Tempestade de Foguetes",
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION": "Rapidamente <style=cIsDamage>atire 10 foguetes</style>, e então <style=cIsUtility>recarregue sua arma</style>.",
         "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
-        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "Como Rocket, alcance e prossiga pelo Portal Celestial em 25 minutos ou menos.",
         "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
-        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "As Rocket, blast jump 10 times in a row without touching the ground.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "Como Rocket, salte 10 vezes seguidas sem tocar o chão.",
         "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "Bombardeiro",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "Como Rocket, vença o jogo ou destrua em Monsoon.",
         "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "Patrulheiro",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>"
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "Como Rocket, vença o jogo ou destrua no Typhoon ou Eclipse.\n<color=#8888>(A dificuldade Typhoon requer Starstorm 2)</color>"
     }
 }

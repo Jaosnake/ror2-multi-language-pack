@@ -1,11 +1,11 @@
 {
-    "author":  "Jaosnake",
-    "name":  "HUNK_LanguagePack",
-    "description":  "Multi-language translation pack for HUNK by rob.",
-    "dependencies":  [
-                         "rob-HUNK-1.5.1",
-                         "RiskofThunder-R2API_Language-1.1.0"
-                     ],
-    "version_number": "1.0.1",
-    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
+    "author": "Jaosnake",
+    "name": "HUNK_LanguagePack",
+    "description": "Multi-language translation pack for HUNK by rob.",
+    "dependencies": [
+        "rob-HUNK-1.5.1",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

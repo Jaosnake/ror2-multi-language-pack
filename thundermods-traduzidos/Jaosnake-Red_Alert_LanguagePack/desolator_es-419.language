@@ -11,7 +11,7 @@
         "HABIBI_DESOLATOR_BODY_MC_SKIN_NAME": "Minecraft",
         "HABIBI_DESOLATOR_BODY_PASSIVE_NAME": "Radiación",
         "HABIBI_DESOLATOR_BODY_PASSIVE_DESCRIPTION": "Los ataques de Desolador infligen más daño a <style=cIsHealing>objetivos irradiados</style>: <style=cIsDamage>+0.04x</style> por acumulacion de <style=cIsHealing>Radiacion</style>.",
-        "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_NAME": "Rad-Cannon",
+        "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_NAME": "Cañón rad",
         "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_DESCRIPTION": "<style=cIsHealing>Irradiando</style>. Dispara a un enemigo con un rayo de radiación que causa <style=cIsDamage>100% de daño</style>.",
         "KEYWORD_RADIATION_PRIMARY": "<style=cKeywordName>Irradiando</style><style=cSub>Inflige 3 acumulaciones de <style=cIsHealing>Radiación</style>, cada una infligiendo <style=cIsDamage>8.4% daño por segundo</style> por <style=cIsUtility>8 segundos</style>.</style>",
         "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_NAME": "Tierra Quemada",
@@ -41,7 +41,11 @@
         "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Desolador, supera el juego o destruyete en Tifón o Eclipse.\n<color=#8888>(Cuenta cualquier dificultad Tifón o superior)</color>",
         "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Desolador: Gran Maestría",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3.",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Irradiadores"
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Encuentra y activa los 3 irradiadores en la etapa 3.",
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Irradiadores",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Desolator, completa el juego o destruye Monsoon.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Desolator, completa el juego o arrasa en Typhoon o Eclipse.\n<color=#8888>(Cuenta cualquier dificultad Typhoon o superior)</color>"
     }
 }

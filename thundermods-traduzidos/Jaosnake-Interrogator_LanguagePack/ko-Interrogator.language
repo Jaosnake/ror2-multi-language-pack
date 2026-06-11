@@ -1,0 +1,23 @@
+{
+    "ko": {
+        "KENKO_INTERROGATOR_NAME": "질문자",
+        "KENKO_INTERROGATOR_DESCRIPTION": "심문관은 다른 사람의 고통을 즐깁니다. 동맹국에게 상처를 입히는 것을 너무 즐기지 마십시오... 아니면 그렇게 하십시오.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "고통 전문가",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..그리고 그는 더 많은 \"정의\"를 적용하기 위해 떠났습니다.",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..그래서 그는 사라졌고, 그의 범죄에 대한 처벌을 받았습니다.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "기본",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "심문관: 전문가",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "고통",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "심문관은 아군과 적에게 맞을 수도 있고 맞을 수도 있습니다. 심문관을 공격한 공격자는 영구적으로 유죄로 표시됩니다. 유죄인 적 하나당 5% 더 많은 피해를 줍니다.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "잔인한 일격",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "지휘봉을 앞쪽으로 휘둘러 <style=cIsDamage>320%의 피해를 입히세요</style>. 공격을 놓치면 대신 <style=cIsDamage>damage</style>를 입게 됩니다.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "싸움",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>450% 피해</style>를 주는 식칼을 던집니다. <style=cIsDamage>암살자.</style> 식칼이 대상을 죽이면 해당 지역의 모든 사람에게 출혈과 압박을 적용합니다.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "위조하다",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "앞으로 돌진하여 <style=cIsDamage>390% 피해</style>를 입히고 적중된 대상에게 유죄를 적용합니다.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "죄수",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 대상 이외의 적에게 주는 피해도 무효화됩니다.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "벌하다",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 다른 적에게 주는 피해는 75% 감소합니다."
+    }
+}

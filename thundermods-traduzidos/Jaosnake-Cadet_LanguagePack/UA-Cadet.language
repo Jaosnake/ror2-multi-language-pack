@@ -1,0 +1,25 @@
+{
+    "UA": {
+        "KENKO_CADET_NAME": "курсант",
+        "KENKO_CADET_DESCRIPTION": "Кадет — це універсальний стрілець, який може орієнтуватися в бою зі зброєю малої дальності та швидкою мобільністю.<color=#CCD3E0></i>",
+        "KENKO_CADET_SUBTITLE": "Універсальний стрілець",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Курсант: Спеціаліст",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Bullet Storm",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Стріляйте лазером, завдаючи <style=cIsDamage>60% шкоди</style>. Потрібне <style=cIsUtility>перезавантаження</style> після 20 раундів.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Руйнівні припливи",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Стріляйте серією, завдаючи <style=cIsDamage>3x100% шкоди</style>. Потрібне <style=cIsUtility>перезавантаження</style> після 10 снарядів.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "План Б",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Стріляйте з легкого гранатомета, завдаючи <style=cIsDamage>400% шкоди</style>.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "План С",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Киньте свою зброю, завдаючи <style=cIsDamage>250% до 750% шкоди</style> залежно від наявних боєприпасів.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Ковзне перезавантаження",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Ковзайте в потрібному напрямку, <style=cIsUtility>перезаряджаючи</style> свою зброю миттєво.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Перезавантажувальний рулон",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Покотіться в напрямку, <style=cIsUtility>перезарядивши</style> свою зброю миттєво.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "План А",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agile</style>. Вистріляйте потужною серією куль, завдаючи <style=cIsDamage>32x150% шкоди</style>.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Ехо-дрони",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Розгорніть <style=cIsDamage>два дрони</style>, які шукають ворогів поблизу, завдаючи <style=cIsDamage>2x370% шкоди</style>."
+    }
+}

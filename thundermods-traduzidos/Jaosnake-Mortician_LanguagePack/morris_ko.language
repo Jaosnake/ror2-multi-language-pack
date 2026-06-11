@@ -1,0 +1,25 @@
+{
+    "ko": {
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_NAME": "장의사",
+        "BOG_MORRIS_BODY_SUBTITLE": "언데드",
+        "BOG_MORRIS_BODY_DESCRIPTION": "모르티션은 느리지만 튼튼한 근접 네크로맨서로 언데드 군대로 영토를 장악하는 데 탁월합니다.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "기본",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..그래서 그는 떠났고, 그의 암울한 의무는 아직 이행되지 않았습니다.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..그래서 그는 사라졌고 마침내 그가 그토록 바라던 평화를 얻었습니다.",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "영혼 공물",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "구울은 죽으면 <style=cIsUtility>사살 효과</style>를 발동합니다.",
+        "PRIMARY_SHOVEL_NAME": "삽질",
+        "PRIMARY_SHOVEL_DESCRIPTION": "삽을 휘두르면 <style=cIsDamage>800% 피해</style>가 발생합니다. 삽으로 구울과 묘비를 치면 <style=cIsUtility>발사</style>이 발생하여 <style=cIsDamage>350%의 피해</style>가 발생합니다.",
+        "SECONDARY_GHOUL_NAME": "데드 레이즈",
+        "SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>영혼의 유대</style>. 당신 앞의 땅에 구울을 소환합니다. 구울은 <style=cIsDamage>150% 피해</style>를 물고 <style=cIsDamage>악성</style> 담즙을 뱉어 <style=cIsDamage>100% 피해</style>를 뱉습니다.",
+        "UTILITY_LANTERN_NAME": "희생",
+        "UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>폭발</style> 대상 구울에게 <style=cIsDamage>700% 피해를 입히고</style> 및 <style=cIsHealing>최대 체력의 15%를 치유</style>합니다.",
+        "SPECIAL_TOMBSTONE_NAME": "묘비",
+        "SPECIAL_TOMBSTONE_DESCRIPTION": "<style=cIsUtility>10초</style>마다 구울을 생성하는 묘비를 세우세요. 구울이 죽을 때마다 무덤은 근처 적에게 <style=cIsDamage>350% 데미지</style>를 발사하는 <style=cIsDamage>복수심에 불타는 영혼</style> <style=cIsUtility>폭발물</style>을 생성합니다.",
+        "BOG_GHOUL_BODY_NAME": "악귀",
+        "BOG_TOMBSTONE_BODY_NAME": "묘비",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Mortician으로 게임을 승리하거나 Monsoon에서 말살하세요.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "장의사: 숙달"
+    }
+}

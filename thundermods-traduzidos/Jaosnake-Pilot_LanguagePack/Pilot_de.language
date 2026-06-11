@@ -9,7 +9,7 @@
         "MOFFEIN_PILOT_BODY_OUTRO_FAILURE": "..und so verschwand er, der Himmel war für immer außer Reichweite.",
         "MOFFEIN_PILOT_BODY_PRIMARY_NAME": "Clusterfeuer",
         "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION": "Feuern Sie Ihre Waffe ab<style=cIsDamage>160 % Schaden</style>. Jeder dritte Treffer<style=cIsDamage>explodiert</style>und Angebote<style=cIsDamage>320 % Schaden</style>.",
-        "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION": "Feuern Sie Ihre Waffe ab<style=cIsDamage>160 % Schaden</style>. Jeder dritte Hit-Deal<style=cIsDamage>320 % Schaden</style>Und<style=cIsDamage>durchbohrt</style>.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION": "Feuern Sie Ihre Waffe ab und verursachen Sie <style=cIsDamage>160 % Schaden</style>. Jeder dritte Treffer verursacht <style=cIsDamage>320 % Schaden</style> und <style=cIsDamage>durchsticht</style>.",
         "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME": "Schnellfeuer",
         "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Agil</style>. Feuern Sie Ihre Waffe schnell ab<style=cIsDamage>140 % Schaden</style>.",
         "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME": "Unterdrücktes Feuer",

@@ -376,7 +376,7 @@ Important:
 - `UA` / `ua` is Ukrainian. Risk of Rain 2 does not expose Ukrainian in the vanilla language selector.
 - `pl` is Polish. It is loaded by R2API when present, but may also need a locale/menu enabler depending on the setup.
 - Vanilla Risk of Rain 2 item/equipment tokens must not be renamed by these packs. If a token already exists in the base game, keep the original localized value.
-- Achievements and unlock text are intentionally kept in English.
+- Achievement names are intentionally kept in English. Unlock requirements, skill descriptions, skin unlock methods, and non-achievement descriptions are localized when they are exposed through R2API.Language tokens.
 
 More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
@@ -387,6 +387,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` | Standalone Thunderstore-ready package |
 | Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` | Standalone Thunderstore-ready package |
 | Additional mod translations | Multiple mods | `mods/` | One folder per mod |
+| Heretic Language Pack | Moffein-Heretic | `thundermods-traduzidos/Jaosnake-Heretic_LanguagePack/` | R2API.Language token pack |
 
 ## 🧩 Mods In `mods/`
 

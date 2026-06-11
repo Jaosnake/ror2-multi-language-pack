@@ -12,7 +12,7 @@
         "CLOUDBURST_WYATT_PASSIVE_NAME": "walkman",
         "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "Al golpear, obtienes una acumulación de <style=cIsUtility>Groove</style>, lo que otorga a <style=cIsUtility> un 20 % de velocidad de movimiento</style> por acumulación. Disminuye fuera de combate.",
         "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "Escoba gravitacional G22",
-        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Balancea tu escoba para <style=cIsDamage>100% de daño</style>. Cada tercer golpe causa <style=cIsDamage>200% de daño</style> y aplica <style=cIsUtility>weightless</style>.",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Balancea tu escoba para <style=cIsDamage>100% de daño</style>. Cada tercer golpe causa <style=cIsDamage>200% de daño</style> y aplica <style=cIsUtility>sin peso</style>.",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "basura",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Utiliza un cabrestante</s> Vuela mágicamente hacia un enemigo, golpéalo para causarle daño <style=cIsDamage>300%</style> y <style=cIsDamage>spike</style>.",
         "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Fluir",
@@ -21,6 +21,6 @@
         "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Envía tu unidad <style=cIsUtility>MAID</style> atravesando enemigos para causar <style=cIsDamage>300% de daño</style> antes de detenerse brevemente y regresar a ti. Actívalo nuevamente para girar hacia <style=cIsUtility>MAID</style> y explotar para causar <style=cIsDamage>500% de daño</style>, aplicando <style=cIsUtility>Weightless</style>.",
         "CLOUDBURST_WYATT_CLASSIC_SKIN": "Clásico",
         "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
-        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "As Custodian, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Como custodio, completa el juego o aniquila Monzón."
     }
 }

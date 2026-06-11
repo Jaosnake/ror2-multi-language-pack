@@ -1,0 +1,15 @@
+{
+    "ko": {
+        "JAVANGLE_HOUSE_BODY_NAME": "더 하우스",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "미친 도박꾼",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House는 두 가지 신비한 운명의 유물, 즉 <style=cIsUtility>\"Roulette\"</style>이라는 6발 리볼버와 저주받은 것처럼 보이는 카드 덱을 사용하여 어려운 상황을 극복하기 위해 자신의 운에 의존하는 미친 도박꾼입니다.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "기본",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "지배",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: 공허",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>민첩한</style>. 무작위로 장전된 사격을 가합니다. 남은 샷이 없을 때: 아무것도 하지 않습니다.",
+        "DEFAULT_SKIN_NAME": "기본",
+        "MASTERY_SKIN_NAME": "더 하우스: 마스터리",
+        "BODY_OUTRO_FLAVOR": "..그래서 그는 떠났고, 다시 한 번 운명을 속였습니다.",
+        "BODY_OUTRO_FAILURE": "..그래서 그는 사라졌고, 마침내 그의 행운도 다 떨어졌습니다."
+    }
+}

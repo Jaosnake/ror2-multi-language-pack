@@ -1,0 +1,26 @@
+{
+    "es-ES": {
+        "CLOUDBURST_WYATT_NAME": "Custodio",
+        "CLOUDBURST_WYATT_SUBTITLE": "Máquinas de limpieza eficientes y eficientes",
+        "CLOUDBURST_WYATT_OUTRO_FLAVOR": "...y así se fueron, un trabajo bien hecho.",
+        "CLOUDBURST_WYATT_OUTRO_FAILURE": "...y así desaparecieron, dejando un desastre mayor que cuando empezaron.",
+        "CLOUDBURST_WYATT_DESCRIPTION": "El Custodio es un maestro de la guerra de limpieza que manipula la gravedad de sus enemigos para su ventaja<color=#CCD3E0>\n\n< ! > Combinaciones en cadena de Grav-Broom para elevar a los enemigos cada vez más alto.\n\n< ! > Pica a los enemigos con Trash Out después de haberlos elevado en el aire con Grav-Broom y MAID para mayor daño!\n\n< ! > Usa el doble salto de Flow para combinar enemigos en el aire, o usa la armadura para salir de una situación difícil.\n\n< ! > Usa MAID para elevar a los enemigos en el aire y para reposicionarte para combinar aún más enemigos.\n\n",
+        "CLOUDBURST_WYATT_LORE": "No puedo parar ahora. No puedo parar ahora. Cada paso que doy es un paso que no puedo dar atrás. Contra viento y marea, lo encontraré.\n\nEs todo un ritmo, sólo un ritmo. Cada vez que me paso de la raya es un castigo. Obedeceré el ritmo. Nada puede detenerme ahora.\n\nCada cicatriz vale la pena. Puedo sentirlo, me estoy acercando a ello. Lo tendré y será mío.\n\nNo importa la sangre, vale la pena. Encontraré lo que quiero y volveré a casa.\n\nNo importa cuántos mate, será mío... No puede esconderse de mí para siempre.\n\nEstá aquí, puedo sentirlo. Este cofre de seguridad lo tiene. Lo abro y lo encuentro.\n\nEs... finalmente mío. Lo sostengo en mis manos magulladas. ¿Realmente han pasado años? \n\nLe encantará esto, lo sé.\n\n",
+        "KEYWORD_WEIGHTLESS": "<style=cKeywordName>Sin peso</style><style=cSub><style=cIsUtility>Elimina la gravedad</style> del objetivo y <style=cIsUtility>Ralentiza el movimiento y la velocidad de ataque</style>.</style>",
+        "KEYWORD_SPIKED": "<style=cKeywordName>Spiking</style><style=cSub>Fuerza a un enemigo a caer hacia abajo, causando una <style=cIsDamage>onda de choque</style> si impacta el terreno, causando <style=cIsDamage>200% de daño</style> + <style=cIsDamage>30% de daño</style> por metro caído.</style>",
+        "KEYWORD_FLOW": "<style=cKeywordName>Flow</style><style=cSub>Gana <style=cIsDamage>30 armadura</style> + <style=cIsDamage>5 armadura</style> por cada pila de <style=cIsUtility>Groove</style>.\nGana un <style=cIsUtility>Double Salto</style>0__.\nGanancia</style>1__+30% de reducción de enfriamiento.</style>2__</style>3__",
+        "CLOUDBURST_WYATT_PASSIVE_NAME": "walkman",
+        "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "Al golpear, obtienes una acumulación de <style=cIsUtility>Groove</style>, lo que otorga <style=cIsUtility>20% de velocidad de movimiento</style> por acumulación. Disminuye fuera de combate.",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "Escoba gravitacional G22",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Balancea tu escoba para <style=cIsDamage>100% de daño</style>. Cada tercer golpe causa <style=cIsDamage>200% de daño</style> y aplica <style=cIsUtility>sin peso</style>.",
+        "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "basura",
+        "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Despliega un cabrestante</s> Vuela mágicamente hacia un enemigo, golpéalo para causarle <style=cIsDamage>300%</style> de daño y <style=cIsDamage>pico</style>.",
+        "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Fluir",
+        "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION": "Activa <style=cIsDamage>Flow</style> durante <style=cIsUtility>4 segundos</style> + <style=cIsUtility>0.4 segundos</style> por cada acumulación de <style=cIsUtility>Groove</style>, ganando <style=cIsDamage>armadura, un doble salto y tiempo de reutilización. reducción</style>. Durante</style>0__Flow</style>1__, no puedes perder ni ganar</style>2__Groove</style>3__. Después de que finalice</style>4__Flow</style>5__, perderá todas las pilas de</style>6__Groove</style>7__.",
+        "CLOUDBURST_WYATT_SPECIAL_MAID_NAME": "M88 CRIADA",
+        "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Envía tu unidad <style=cIsUtility>MAID</style> atravesando a los enemigos para causar un <style=cIsDamage>300% de daño</style> antes de detenerse brevemente y regresar contigo. Actívalo nuevamente para girar hacia <style=cIsUtility>MAID</style> y explotar para causar <style=cIsDamage>500% de daño</style>, aplicando <style=cIsUtility>Weightless</style>.",
+        "CLOUDBURST_WYATT_CLASSIC_SKIN": "Clásico",
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Como custodio, completa el juego o aniquila Monzón."
+    }
+}

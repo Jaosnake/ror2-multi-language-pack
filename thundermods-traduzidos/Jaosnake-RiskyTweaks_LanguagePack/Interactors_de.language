@@ -1,0 +1,7 @@
+{
+    "de": {
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Shrine of Combat wurde gelöscht </style>{0}",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} hat </color>{1} gelöscht",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Deep Void Signal ist gefallen </style>{0}"
+    }
+}

@@ -3,7 +3,7 @@
         "NEMFORCER_NAME": "Executor Nêmesis",
         "NEMFORCER_DESCRIPTION": "Executor Nêmesis é a encarnação de violência e força, uma força sobrenatural que não deve ser subestimada.<color=#CCD3E0>\n\n< ! > Martelo Dourado pode atingir vários inimigos de uma vez.\n\n< ! > Use Dominância de bem alto para realizar um impacto devastador.\n\n< ! > Movimentar-se de forma inteligente com sua Metralhadora Dourada é a chave para aniquilar poderosos chefes.\n\n< ! > Escudos são para otários.\n\n",
         "NEMFORCER_SUBTITLE": "Sombra Incorruptível",
-        "NEMFORCER_LORE": "\nheavy tf2\n\n",
+        "NEMFORCER_LORE": "\ntf2\n\n pesado",
         "NEMFORCER_OUTRO_FLAVOR": "... e assim ele se foi, com uma força recém-descoberta para honrar.",
         "NEMFORCER_OUTRO_FAILURE": "... e assim ele retornou, bastião infalível verdadeiramente imortalizado.",
         "NEMFORCER_BOSS_NAME": "Ultra Executor Nêmesis",
@@ -41,14 +41,18 @@
         "NEMFORCERBODY_DRIP_SKIN_NAME": "ExecuStyle",
         "NEMFORCERBODY_DEDEDE_SKIN_NAME": "Rei Dedede",
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
-        "NEMFORCERBODY_FEM_SKIN_NAME": "Spiked",
+        "NEMFORCERBODY_FEM_SKIN_NAME": "Cravado",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Executor, na monção ou superior, estabilize os Campos do Vazio e derrote o Vestígio do Executor.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Nemesis Enforcer, termine o jogo ou destrua em Monsoon.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Nemesis Enforcer, vença o jogo ou destrua no Typhoon ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Typhoon ou superior)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Nemesis Enforcer, destrua 5 projéteis de uma vez com Dominância.",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer regenera <style=cIsHealing>2%</style> de sua <style=cIsHealing>vida máxima</style> ao longo de 3s ao atingir inimigos com <style=cIsDamage>ataques corpo a corpo</style>.",
+        "NEMFORCER_PROC_UPPERCUT": "Uppercut",
+        "NEMFORCER_PROC_SLAM": "Bater",
+        "NEMFORCER_PROC_JAM": "Geléia"
     }
 }

@@ -33,10 +33,10 @@
         "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN": "<style=cIsHealing>Bestrahlen</style>. Werfen<style=cIsUtility>bis zu 2</style>Leuchtstäbe, die eine große Fläche mit Strahlung abdecken<style=cIsUtility>11 Sekunden</style>, Umgang<style=cIsDamage>15 % Schaden pro Sekunde</style>.\n<color=#d299ff>ZEPTER: Explodiert bei Ablauf<style=cIsDamage>1600 % Schaden</style>.</color>",
         "KEYWORD_RADIATION_SPECIAL": "<style=cKeywordName>Bestrahlen</style><style=cSub>Jeder Tick verursacht<style=cIsDamage>78 % Schaden</style>über<style=cIsUtility>8 Sekunden</style>.</style>",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Schlagen Sie als Desolator das Spiel oder vernichten Sie Monsun.",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Schlage als Desolator das Spiel oder vernichte Taifun oder Eclipse.\n<color=#8888>(Zählt jeden Schwierigkeitsgrad Typhoon oder höher)</color>",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3."
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Finden und aktivieren Sie die 3 Bestrahlungsgeräte in Stufe 3."
     }
 }

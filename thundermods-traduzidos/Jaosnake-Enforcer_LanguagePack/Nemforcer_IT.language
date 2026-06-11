@@ -24,7 +24,7 @@
         "NEMFORCER_SECONDARY_BASH_NAME": "Dominanza",
         "NEMFORCER_SECONDARY_BASH_DESCRIPTION": "<style=cIsUtility>Carica</style>, poi lanciati in avanti e sferra un <style=cIsDamage>montante in aumento</style> per <style=cIsDamage>450%-2500% di danni</style>. Usalo mentre <style=cIsUtility> cadi e guardi in basso </style> per eseguire invece uno <style=cIsUtility> Schianto verso il basso </style>.",
         "NEMFORCER_SECONDARY_SLAM_NAME": "Dominanza (minigun)",
-        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION": "<style=cIsDamage>Stunning.</style> Mentre sei in posizione minigun, <style=cIsHealth> colpisci violentemente </style> con il martello, infliggendo <style=cIsDamage>600% di danni</style> e <style=cIsDamage>respingendo indietro</style> i nemici colpiti. <style=cIsUtility>Esplode proiettili.</style>",
+        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION": "<style=cIsDamage>Splendido.</style> Mentre sei in posizione minigun, <style=cIsHealth>sbatti violentemente</style> il tuo martello, infliggendo <style=cIsDamage>600% di danno</style> e <style=cIsDamage>respingendo</style> i nemici colpiti. <style=cIsUtility>Esplode proiettili.</style>",
         "NEMFORCER_UTILITY_GAS_NAME": "Granata XM47",
         "NEMFORCER_UTILITY_GAS_DESCRIPTION": "Lancia una granata che esplode in una nuvola di <style=cIsUtility>gas corrosivo</style> che <style=cIsUtility>rallenta</style> e infligge <style=cIsDamage>200% di danni al secondo</style> e dura <style=cIsDamage>16 secondi</style>.",
         "NEMFORCER_UTILITY_JUMP_NAME": "Salto Super Dedede",
@@ -43,12 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
         "NEMFORCERBODY_FEM_SKIN_NAME": "Spike",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nei panni di Enforcer, durante il monsone o superiore, stabilizza i Campi del Vuoto e sconfiggi Vestige dell'Enforcer.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nei panni di Nemesis Enforcer, finisci il gioco o distruggi durante Monsoon.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nei panni di Nemesis Enforcer, finisci il gioco o distruggi su Typhoon o Eclipse.\n<color=#8888>(Conta qualsiasi difficoltà Typhoon o superiore)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nei panni di Nemesis Enforcer, distruggi 5 proiettili contemporaneamente con Dominanza.",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer rigenera il <style=cIsHealing>2%</style> della sua <style=cIsHealing>salute massima</style> in 3 secondi quando colpisce i nemici con <style=cIsDamage>attacchi in mischia</style>.",
+        "NEMFORCER_PROC_UPPERCUT": "Montante",
+        "NEMFORCER_PROC_SLAM": "Sbattere",
+        "NEMFORCER_PROC_JAM": "Marmellata"
     }
 }

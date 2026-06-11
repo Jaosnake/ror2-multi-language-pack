@@ -1,0 +1,15 @@
+{
+    "de": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Das Haus",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Der verrückte Spieler",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Das Haus ist ein verrückter Spieler, der sich auf sein Glück verlässt, um schwierige Situationen zu meistern, indem er zwei mysteriöse Schicksalsartefakte einsetzt: einen 6-Schuss-Revolver namens <style=cIsUtility>\"Roulette\"</style> und ein scheinbar verfluchtes Kartenspiel.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Standard",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Meisterschaft",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: Nichtig",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Feuern Sie einen zufällig geladenen Schuss ab. Wenn keine Schüsse übrig sind: Tut nichts.",
+        "DEFAULT_SKIN_NAME": "Standard",
+        "MASTERY_SKIN_NAME": "Das Haus: Meisterschaft",
+        "BODY_OUTRO_FLAVOR": "..und so ging er und spielte dem Schicksal erneut einen Streich.",
+        "BODY_OUTRO_FAILURE": "..und so verschwand er, da sein Glück endlich zu Ende war."
+    }
+}

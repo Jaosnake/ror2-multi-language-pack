@@ -33,7 +33,7 @@
         "SPECIAL_SUPPLY_DROP_DESCRIPTION": "Richiedi un lancio di armi.",
         "SPECIAL_GRENADE_NAME": "Granata",
         "SPECIAL_KNIFE_NAME": "Coltello",
-        "SPECIAL_KNIFE_DESCRIPTION": "<style=cIsUtility>Tagliante</style>. <style=cIsUtility>Agile</style>. Colpisci i nemici in avanti per il 470% di danni.",
+        "SPECIAL_KNIFE_DESCRIPTION": "<style=cIsUtility>Taglio</style>. <style=cIsUtility>Agile</style>. Colpisci i nemici in avanti per il 470% di danni.",
         "SPECIAL_DRIVERCOIN_NAME": "Moneta dell'autista",
         "SPECIAL_DRIVERCOIN_DESCRIPTION": "Attiva un effetto speciale al costo di monete.",
         "ROB_DRIVER_BODY_DEFAULT_SKIN_NAME": "Predefinito",

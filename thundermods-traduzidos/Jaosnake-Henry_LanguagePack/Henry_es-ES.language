@@ -1,0 +1,23 @@
+{
+    "es-ES": {
+        "ROB_HENRY_BODY_NAME": "Enrique",
+        "ROB_HENRY_BODY_DESCRIPTION": "Henry es un luchador habilidoso que utiliza un amplio arsenal de armas para derrotar a sus enemigos.<color=#CCD3E0>\n\n< ! > La espada es un buen todoterreno, mientras que los guantes de boxeo son mejores para asestar una paliza a enemigos más poderosos.\n\n< ! > La pistola es un potente antiaéreo, con su bajo tiempo de reutilización y su alto daño.\n\n< ! > Roll tiene una mejora de armadura persistente que ayuda a usarlo agresivamente.\n\n< ! > La bomba se puede usar para acabar con multitudes con facilidad.\n\n",
+        "ROB_HENRY_BODY_SUBTITLE": "El Elegido",
+        "ROB_HENRY_BODY_LORE": "muestra de historia",
+        "ROB_HENRY_BODY_OUTRO_FLAVOR": "..y así se fue, en busca de una nueva identidad.",
+        "ROB_HENRY_BODY_OUTRO_FAILURE": "..y así desapareció, para siempre como una pizarra en blanco.",
+        "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternar",
+        "ROB_HENRY_BODY_PASSIVE_NAME": "Henry pasivo",
+        "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "Texto de muestra.",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "Espada",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Ágil.</style> Gira hacia adelante para <style=cIsDamage>280% de daño</style>.",
+        "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "Pistola",
+        "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Ágil.</style> Dispara una pistola para <style=cIsDamage>420% de daño</style>.",
+        "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "Rollo",
+        "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Rueda una distancia corta y gana <style=cIsUtility>300 de armadura</style>. <style=cIsUtility>No puedes ser golpeado durante la tirada.</style>",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bomba",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Lanza una bomba que causa <style=cIsDamage>1600% de daño</style>.",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Como Henry, completa el juego o destruye Monsoon."
+    }
+}

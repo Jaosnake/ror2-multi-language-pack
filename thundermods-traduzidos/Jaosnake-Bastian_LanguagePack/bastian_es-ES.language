@@ -1,0 +1,22 @@
+{
+    "es-ES": {
+        "BASTIAN_NAME": "Bastián",
+        "BASTIAN_SUBTITLE": "Robot de traducción reacondicionado",
+        "BASTIAN_DESCRIPTION": "Un robot local, construido para ayudar a negociar acuerdos con cuerpos planetarios extranjeros. Su propósito original era funcionar como intermediario, diseñado para sobrevivir en planetas con aire y temperaturas que un humano normal no podría soportar. Fue llevado a bordo del UES Contact Light como parte de un plan de contingencia. Sin embargo, terminó siendo reprogramado para el combate, a pesar de que se trataba de una simple misión de buscar y transportar.",
+        "BASTIAN_NAME_EPIC": "Bastian el Traductor, Modelo 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian el Traductor, Modelo 4.I.N.K.",
+        "BASTIAN_OUTRO": "..y así partió, cumplida finalmente su función.",
+        "BASTIAN_FAIL": "..y así fue desactivado, su memoria borrada para siempre.",
+        "BASTIAN_M1": "Columpio de iones",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Cuerpo a cuerpo</style>. <style=cIsUtility>Ágil</style>. Golpea a los enemigos que se encuentran por delante y causa <style=cIsDamage>250% de daño</style>. Genera <style=cIsUtility>Cargas iónicas</style>. El daño se reduce a la mitad mientras eres evasivo.",
+        "BASTIAN_M2": "Microbala",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara hasta 5 balas de energía, cada una de las cuales inflige <style=cIsDamage>250% de daño</style>. Genera <style=cIsUtility>Cargas iónicas</style>. No aplica aturdimiento mientras es evasivo.",
+        "BASTIAN_UTIL": "Nano-primavera",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ejecutar</style> un guión rápido en cualquier dirección. Genera <style=cIsUtility>Cargas iónicas</style>.",
+        "BASTIAN_SPEC": "La explosión del arquitecto",
+        "BASTIAN_SPEC_DESCRIPTION": "Gasta <style=cIsHealth>33% de la salud actual</style> y <style=cIsUtility>todas las cargas iónicas</style> para una explosión masiva de <style=cIsDamage>500%-3000% de daño</style>. Después de su uso, conviértete en <color=#E9AFEA>Evasive</color> durante 10 segundos.",
+        "BASTIAN_SPEC_KEYWORD": "Especial",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Por defecto",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Maestría"
+    }
+}

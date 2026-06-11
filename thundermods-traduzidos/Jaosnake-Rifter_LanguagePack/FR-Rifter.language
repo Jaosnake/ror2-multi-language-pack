@@ -1,7 +1,7 @@
 {
     "FR": {
-        "BLAKE_RIFTER_NAME": "Rifter",
-        "BLAKE_RIFTER_DESCRIPTION": "Le Rifter utilise un positionnement stratégique pour créer des failles dévastatrices dans la réalité.<color=#CCD3E0>Original mod by toastyTeam</i>",
+        "BLAKE_RIFTER_NAME": "Rifteur",
+        "BLAKE_RIFTER_DESCRIPTION": "Le Rifter utilise un positionnement stratégique pour créer des failles dévastatrices dans la réalité.<color=#CCD3E0></i>",
         "BLAKE_RIFTER_SUBTITLE": "Manipulateur de Failles",
         "BLAKE_RIFTER_OUTRO_FLAVOR": "..et ainsi il laissa un monde fracturé derrière lui.",
         "BLAKE_RIFTER_OUTRO_FAILURE": "..et ainsi il disparut de tous les royaumes.",
@@ -10,7 +10,7 @@
         "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Vos failles accordent un bonus de vitesse de déplacement en les traversant.",
         "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Fracture de Faille",
         "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Les ennemis touchés par les failles accumulent de l'éclatement, augmentant les dégâts reçus.",
-        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Faille Projectile",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Faille de projectile",
         "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Tire une faille à longue portée pour 500% de dégâts.",
         "BLAKE_RIFTER_SECONDARY_FRACTURE": "Fracture",
         "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Fracture</style>. Tire une faille à longue portée pour 75% de dégâts, causant jusqu'à 5 éclatements.",

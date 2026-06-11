@@ -1,0 +1,26 @@
+{
+    "tr": {
+        "BOG_DEPUTY_BODY_NAME": "Yardımcısı",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Vekil, ikiz tabancaları ve ölümcül tekmeleriyle adaleti dağıtan aşırı agresif bir hız iblisidir.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Yıldırım Adaleti",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..ve böylece şiddetli alkışlar arasında oradan ayrıldı.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, performansı sonunda sona erdi.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Ustalık",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Amansız Takip",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Vekil herhangi bir yöne koşabilir. Becerileriyle düşmanlara vurmak, istiflenebilir bir <style=cIsUtility>hareket hızı</style> takviyesi kazandırır.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Kesinlikle Atış",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Çevik</style>. <style=cIsDamage>%150 hasar</style> için orta menzilli tabancalarla ateş edin.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "askı",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Çevik</style>. İki tabancayı fırlat. Her tabanca yakındaki bir düşmanı <style=cIsDamage>6x100% hasar</style> için vuracak, ardından <style=cIsDamage>300% hasar</style> için patlayacak.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Kayan yıldız",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Çarpıcı</style>. İleriye atlayın ve <style=cIsDamage>4x%150 hasar</style> için altınızdaki bir düşmanı vurun.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Kafatasıkıran",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Ağır</style>. <style=cIsUtility>Aksiyon</style> ve düşmana sekerek <style=cIsDamage>%800 hasar</style> verir. <style=cIsUtility>Öldürmeler, işlevsel beceri bekleme sürenizi sıfırlar</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Kurşun Cenneti",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Havaya yükseğe sıçrayın ve her biri <style=cIsDamage>%150 hasar</style> veren mermileri öfkeyle aşağı doğru ateşleyin. Atış sayısı saldırı hızına göre artar.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Vekil olarak oyunu bitirin veya Muson'u yok edin.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Yardımcısı: Ustalık"
+    }
+}

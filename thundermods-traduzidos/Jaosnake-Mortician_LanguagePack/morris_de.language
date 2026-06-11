@@ -1,0 +1,25 @@
+{
+    "de": {
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_NAME": "Leichenbestatter",
+        "BOG_MORRIS_BODY_SUBTITLE": "Untote",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Der Leichenbestatter ist ein langsamer, aber robuster Nahkampf-Nekromant, der mit seiner Armee aus Untoten das Territorium kontrolliert.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Standard",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..und so ging er, seine grimmige Pflicht immer noch unerfüllt.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..und so verschwand er und gewährte ihm endlich den Frieden, den er sich so sehr gewünscht hatte.",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Seelenopfer",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghule <style=cIsUtility>lösen ihre On-Tötungseffekte</style> aus, wenn sie getötet werden.",
+        "PRIMARY_SHOVEL_NAME": "Schaufelschlag",
+        "PRIMARY_SHOVEL_DESCRIPTION": "Schwinge deine Schaufel und erziele <style=cIsDamage>800 % Schaden</style>. Das Schlagen von Ghulen und Grabsteinen mit der Schaufel verursacht <style=cIsUtility>Launching</style> und verursacht <style=cIsDamage>350 % Schaden</style>.",
+        "SECONDARY_GHOUL_NAME": "Tote auferwecken",
+        "SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Spirit Bond</style>. Beschwöre einen Ghul auf dem Boden vor dir. Ghule beißen für <style=cIsDamage>150 % Schaden</style> und spucken <style=cIsDamage>Pestilent</style> Galle für <style=cIsDamage>100 % Schaden</style>.",
+        "UTILITY_LANTERN_NAME": "Opfern",
+        "UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Detoniere</style> den Ziel-Ghul für <style=cIsDamage>700 % Schaden</style> und <style=cIsHealing>heile 15 % deiner maximalen Gesundheit</style>.",
+        "SPECIAL_TOMBSTONE_NAME": "Grabstein",
+        "SPECIAL_TOMBSTONE_DESCRIPTION": "Errichte einen Grabstein, der alle <style=cIsUtility>10 Sekunden</style> einen Ghul hervorbringt. Immer wenn ein Ghul getötet wird, bringt das Grab eine <style=cIsDamage>rachsüchtige Seele</style> <style=cIsUtility>explosiv</style> hervor, die auf einen nahen Feind feuert und <style=cIsDamage>350 % Schaden</style> verursacht.",
+        "BOG_GHOUL_BODY_NAME": "Ghul",
+        "BOG_TOMBSTONE_BODY_NAME": "Grabstein",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Schlagen Sie als Leichenbestatter das Spiel oder vernichten Sie Monsun.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Bestatter: Meisterschaft"
+    }
+}

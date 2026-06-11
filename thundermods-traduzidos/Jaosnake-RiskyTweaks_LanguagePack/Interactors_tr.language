@@ -1,0 +1,7 @@
+{
+    "tr": {
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Shrine of Combat düştü </style>{0}",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} düştü </color>{1}",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Derin Void Sinyali düştü </style>{0}"
+    }
+}

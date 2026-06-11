@@ -1,0 +1,21 @@
+{
+    "ko": {
+        "ROB_ULTRON_BODY_NAME": "돕다",
+        "ROB_ULTRON_BODY_SUBTITLE": "커피필터?!",
+        "ROB_ULTRON_BODY_LORE": "'그래, 그런데 왜 단순 힐링 드론이냐?'\n\n작업대에는 알록달록한 조직과 함께 고물더미가 흩어져 있다. 기름칠한 작업복을 입은 두 남자가 도구를 들고 그것을 감독합니다.\n\n'작고 민첩하며 마더보드에 새 부품을 연결하는 데 필요한 모든 포트가 이미 있습니다.'\n\n'그건 오래된 기술입니다. 아무리 업그레이드해도 똥이 닦이는군요.'\n\n'끝날 때까지 기다리세요. 보고 배우십시오.'\n\n'이것이 작동할 방법은 없습니다...'\n\n더 많은 모듈과 구성 요소가 드론 시스템에 조잡하게 연결됨에 따라 볼트와 와이어가 날아갑니다.\n\n'짜잔! 이제 전원을 켜고 어떻게 작동하는지 살펴보겠습니다!'\n\n드론의 헤드라이트가 깜박이다가 꺼지고, 기술자는 빠르게 손뒤꿈치로 두드립니다. 살아나 테이블 위 공중에 맴돌고 있습니다.\n\n'HEL-P 세상에 오신 것을 환영합니다! 당신은 생명을 구하고 승무원을 보호하기 위해 여기에 있습니다.'\n\n드론이 확인 신호음을 울립니다.\n\n'무기 테스트를 실행합니다.'\n\n드론이 신호음을 울리고 드론의 ​​후면 패널에서 관절식 팔이 나옵니다. 세 개의 발톱 모양 부속물이 에너지를 축적하면서 펼쳐지고 떨립니다. 갑자기 팔에서 레이저가 터져 기술자 두 명 뒤에 있는 화이트보드에 구멍이 났습니다.\n\n'워! 이 힘이 그 작은 것에 안전하다고 확신하시나요?'\n\n'잠깐만 기다리세요. 점점 나아질 것입니다. HEL-P, 명령 무시 명령: 패치!'\n\n드론이 신호음을 울리고 두 기술자에게 팔을 겨누며 두 개의 작은 드론을 보냅니다. 드론은 양 어깨에 부드럽게 착지하며 작은 녹색 기운을 뿜어냅니다.\n\n'젠장, 그 모듈을 어떻게 탑재한 거죠?'\n\n'충분한 예비 부품, RAM 업그레이드, 약간의 노하우만 있으면 이런 오래된 것들을 많은 일로 만들 수 있습니다. 하지만 그건 그렇지 않아...'",
+        "DYNAMIC FLIGHT": "다이나믹 비행",
+        "HEL-P IS ABLE TO <style=cIsUtility>FLY FREELY</style>, BUT IS <style=cIsHealth>EXTREMELY FRAGILE</style>.": "HEL-P는 <style=cIsUtility>FLY FREELY</style>을 수행할 수 있지만 <style=cIsHealth>매우 취약한</style>입니다.",
+        "ENCEPHALO-RAY": "뇌선",
+        "UNLEASH A BURNING ENERGY BEAM THAT DEALS <style=cIsDamage>350% DAMAGE</style>, ENDING IN AN <style=cIsUtility>EXPLOSION</style> DEALING <style=cIsDamage>500% DAMAGE</style>.": "<style=cIsDamage>350% DAMAGE</style>을 처리하고 <style=cIsUtility>EXPLOSION</style>을 처리하여 <style=cIsDamage>500% DAMAGE</style>을 처리하는 불타는 에너지 빔을 방출합니다.",
+        "REPULSOR BLAST": "리펄서 블래스트",
+        "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>220%</style>.": "<style=cIsHealth>적대적인 전투원</style>을 해치고 <style=cIsDamage>220%</style>에 대해 <style=cIsHealing>우호적인 전투원을 치료</style>하는 나노 펄스 대포를 발사하세요.",
+        "IMPERATIVE: PATCH": "필수: 패치",
+        "TARGET AN <style=cIsUtility>ENTITY</style> TO DEPLOY A <style=cIsUtility>DRONE</style> TO THEM. ENEMIES SUFFER A CHAINING <style=cIsDamage>ELECTRIC SHOCK FOR <style=cIsDamage>100% DAMAGE</style>, WHILE ALLIES <style=cIsHealing>HEAL 25% MAX HEALTH</style>.": "<style=cIsUtility>ENTITY</style>을 대상으로 <style=cIsUtility>DRONE</style>을 배포합니다. 적은 <style=cIsDamage>100% DAMAGE</style>에 대한 연쇄 <style=cIsDamage>ELECTRIC SHOCK</style>을 겪고, 아군은 25% 최대 체력</style>을 <style=cIsHealing>치유합니다.",
+        "IMPERATIVE: NEUTRALIZE": "명령: 무력화",
+        "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 2 CHARGES.</style>": "적대적인 전투원을 <style=cIsUtility>SHOCK</style>에게 공격하여 <style=cIsDamage>30%</style> 피해를 입힙니다. <style=cIsUtility>최대 2회 충전을 보류합니다.</style>",
+        "IMPERATIVE: FLEE": "명령: 도망가세요",
+        "DASH, GAINING <style=cIsHealing>25% BARRIER</style>, AND THEN ENTER AN <style=cIsUtility>ACCELERATED</style> STATE FOR THE NEXT <style=cIsDamage>7 SECONDS</style>.": "대시하여 <style=cIsHealing>25% BARRIER</style>을 얻은 후 다음 <style=cIsDamage>7 SECONDS</style> 동안 <style=cIsUtility>ACCELERATED</style> 상태로 들어갑니다.",
+        "IMPERATIVE: EXTERMINATE": "명령: 근절",
+        "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "<style=cIsDamage>5x800%</style>에 대해 <style=cIsHealth>적대적인 전투원에게 해를 끼치고</style> 및 <style=cIsHealing>친절한 전투원을 치료</style>하는 에너지 공세를 발사합니다. <style=cIsUtility>최대 3회 충전을 보류합니다.</style>"
+    }
+}

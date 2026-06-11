@@ -1,0 +1,23 @@
+{
+    "UA": {
+        "KENKO_INTERROGATOR_NAME": "Допитувач",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Допитувач упивається болем інших. Не надто веселіться, завдаючи шкоди своїм союзникам... або зробіть це.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Спеціаліст з мук",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..і тому він пішов, бажаючи застосувати більше «справедливості».",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..і тому він зник, покараний за свої злочини.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Допитувач: спеціаліст",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Мучити",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Допитувач може вдарити і бути враженим союзниками та ворогами. Зловмисники, які вдарили по Допитувачу, назавжди позначаються як Винні. Завдайте на 5% більше шкоди кожному Винному ворогу.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Брутальний удар",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Змахніть палицею попереду, завдаючи <style=cIsDamage>320% шкоди</style>. Якщо пропустити атаку, ви отримаєте <style=cIsDamage>шкоди</style>.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Сварка",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Киньте тесак, який завдає <style=cIsDamage>450% шкоди</style>. <style=cIsDamage>Assassin.</style> Якщо тесання вбиває ціль, застосовує крововилив і тиск на всіх у цій області.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Фальсифікувати",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Киньте вперед, завдаючи <style=cIsDamage>390% шкоди</style> і застосовуючи Guilty до вражених цілей.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Засуджений",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Дуель з винним ворогом протягом 10 секунд. Ваш основний більше не б'є вас і надає стек Guilty за удар. Під час дуелі зовнішня шкода для вас скасовується, але шкода для інших ворогів, окрім цілі, також скасовується.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Карати",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Дуель з винним ворогом протягом 10 секунд. Ваш основний більше не б'є вас і надає стек Guilty за удар. Під час дуелі зовнішня шкода, завдана вам, зникає, але шкода іншим ворогам зменшується на 75%."
+    }
+}

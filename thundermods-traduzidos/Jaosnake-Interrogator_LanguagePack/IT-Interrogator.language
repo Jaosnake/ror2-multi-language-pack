@@ -1,0 +1,23 @@
+{
+    "IT": {
+        "KENKO_INTERROGATOR_NAME": "Interrogatore",
+        "KENKO_INTERROGATOR_DESCRIPTION": "L'interrogatore si diverte nel dolore degli altri. Non divertirti troppo a ferire i tuoi alleati... o fallo.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Specialista del tormento",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "...e così se ne andò, desideroso di applicare più \"giustizia\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..e così svanì, punito per i suoi crimini.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Predefinito",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogatore: specialista",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "L'interrogatore può colpire ed essere colpito da alleati e nemici. Gli aggressori che colpiscono l'interrogatore vengono permanentemente contrassegnati come colpevoli. Infliggi il 5% di danni in più per ogni nemico colpevole.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Colpo Brutale",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Oscilla il bastone davanti a te, causando <style=cIsDamage>320% di danni</style>. Mancare l'attacco ti farà subire invece <style=cIsDamage>danni</style>.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Rissa",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lancia una mannaia che infligge <style=cIsDamage>450% di danni</style>. <style=cIsDamage>Assassino.</style> Se la mannaia uccide il bersaglio, applica Emorragia e Pressione a tutti nell'area.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificare",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Scatta in avanti infliggendo <style=cIsDamage>390% di danni</style> e applicando Colpevolezza ai bersagli colpiti.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condannato",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duella con un nemico colpevole per 10 secondi. Il tuo primario non ti colpisce più e fornisce una pila di Colpevole quando viene colpito. Durante il duello, il danno esterno a te viene negato, ma viene negato anche il danno ad altri nemici oltre al bersaglio.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punire",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duella con un nemico colpevole per 10 secondi. Il tuo primario non ti colpisce più e fornisce una pila di Colpevole quando viene colpito. Durante il duello, i danni esterni subiti da te vengono annullati, ma i danni agli altri nemici vengono ridotti del 75%."
+    }
+}

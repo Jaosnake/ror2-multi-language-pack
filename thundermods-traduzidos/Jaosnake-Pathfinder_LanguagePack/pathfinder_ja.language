@@ -34,7 +34,7 @@
         "SQUALL_SPECIAL_GOFORTHROAT_NAME": "喉元へ!",
         "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "スコールに目標の敵を繰り返し攻撃するよう命令し、<style=cIsDamage>70%のダメージ</style>を与える。各攻撃は一時的に<style=cIsDamage>装甲</style>を減少させ、<style=cIsUtility>バッテリーを1%回復</style>する。クリティカルヒットで効果2倍。このスキルは一時的にバッテリーを<style=cIsUtility>過充電</style>できる。",
         "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "パスファインダーとして、ゲームに勝つか、モンスーンを全滅させてください。",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "パスファインダー: マスタリー"
     }
 }

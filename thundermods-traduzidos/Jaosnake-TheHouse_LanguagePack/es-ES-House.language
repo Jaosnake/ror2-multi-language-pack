@@ -1,0 +1,23 @@
+{
+    "es-ES": {
+        "JAVANGLE_HOUSE_BODY_NAME": "la casa",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "La Casa es un jugador loco que confía en su suerte para superar situaciones difíciles, utilizando dos misteriosos artefactos del destino: un revólver de 6 disparos llamado <style=cIsUtility>\"Ruleta\"</style> y una baraja de cartas aparentemente maldita.",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "El jugador loco",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Por defecto",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Maestría",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..y así se fue, jugando una mala pasada al destino una vez más.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..y así desapareció, finalmente se le acabó la suerte.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Tiro estándar",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara un tiro aleatorio con tu revólver.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Casa llena",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Dispara varios tiros con el revólver a la vez.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Divinidad",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Predice la siguiente carta del mazo para obtener una ventaja.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Barajar",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Baraja tu mazo y restablece tus opciones.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Recarga estándar",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Recarga tu revólver con las 6 balas.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "Recarga total",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Recarga y dobla la apuesta."
+    }
+}

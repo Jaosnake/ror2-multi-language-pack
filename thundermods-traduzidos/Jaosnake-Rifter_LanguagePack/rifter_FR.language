@@ -1,8 +1,8 @@
 {
     "FR": {
-        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_NAME": "Rifteur",
         "BLAKE_RIFTER_SUBTITLE": "Manipulateur de Failles",
-        "PRIMARY_GAUNTLET_RANGED": "Faille Projectile",
+        "PRIMARY_GAUNTLET_RANGED": "Faille de projectile",
         "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Tire une faille à longue portée pour 500% de dégâts.",
         "SECONDARY_FRACTURE": "Fracture",
         "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Fracture</style>. Tire une faille à longue portée pour 75% de dégâts, causant jusqu'à 5 éclatements.",

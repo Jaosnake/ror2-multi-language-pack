@@ -1,0 +1,12 @@
+{
+    "FR": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "L'Hérétique <style=cIsUtility>se déplace plus rapidement</style> et peut <style=cIsUtility>battre ses ailes deux fois</style> pour plus de hauteur en vol.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marque d'hérésie",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Obtenez une augmentation massive de vos statistiques... <color=#FF7F7F>MAIS votre santé se dégrade avec le temps.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Augmentez <style=cIsHealing>health</style> de <style=cIsHealing>400%</style> et <style=cIsDamage>damage</style> de <style=cIsDamage>50%</style>. Réduisez la régénération de santé de base <style=cIsHealing></style> à</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Chargez une boule de lames qui inflige à plusieurs reprises <style=cIsDamage>175 % de dégâts</style>. Après un délai, explosez et <style=cIsDamage>root</style> tous les ennemis infligeant <style=cIsDamage>700 % de dégâts</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Infliger des dégâts ajoute une pile de <style=cIsDamage>Ruin</style>. L'activation de la compétence <style=cIsDamage>fait exploser toutes les piles de ruines</style> à portée illimitée, infligeant <style=cIsDamage>300 % de dégâts</style> plus <style=cIsDamage>120 % de dégâts</style> par pile de <style=cIsDamage>Ruine</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Échappez à la lune en tant que survivant secret."
+    }
+}

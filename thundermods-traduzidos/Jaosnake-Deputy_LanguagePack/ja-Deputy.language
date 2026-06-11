@@ -20,7 +20,7 @@
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "バレットヘブン",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "高く跳躍し、下方に向けて弾丸を乱射する。1発あたり<style=cIsDamage>150%のダメージ</style>。発射数は攻撃速度に応じて増加する。",
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "副官として、ゲームに勝つか、モンスーンを全滅させてください。",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "副官: マスタリー"
     }
 }

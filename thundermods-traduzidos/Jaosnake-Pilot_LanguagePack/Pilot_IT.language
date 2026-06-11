@@ -11,7 +11,7 @@
         "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION": "Spara con la tua arma<style=cIsDamage>Danno del 160%.</style>. Ogni terzo colpo<style=cIsDamage>esplode</style>e affari<style=cIsDamage>Danno del 320%.</style>.",
         "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION": "Spara con la tua arma<style=cIsDamage>Danno del 160%.</style>. Ogni terzo successo si occupa di affari<style=cIsDamage>Danno del 320%.</style>E<style=cIsDamage>trafigge</style>.",
         "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME": "Fuoco rapido",
-        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara rapidamente con la tua arma<style=cIsDamage>Danno del 140%.</style>.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara rapidamente con la tua arma per <style=cIsDamage>140% di danni</style>.",
         "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME": "Fuoco soppresso",
         "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION": "<style=cIsDamage>Uccisore</style>. Spara con la tua pistola silenziata<style=cIsDamage>Danno al 100%.</style>.",
         "MOFFEIN_PILOT_BODY_SECONDARY_NAME": "Obiettivo acquisito!",

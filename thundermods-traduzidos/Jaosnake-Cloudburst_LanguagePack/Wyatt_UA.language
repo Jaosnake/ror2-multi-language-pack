@@ -12,7 +12,7 @@
         "CLOUDBURST_WYATT_PASSIVE_NAME": "Walkman",
         "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "Після удару отримайте стек <style=cIsUtility>Groove</style>, надаючи <style=cIsUtility>20% швидкості пересування</style> на стек. Зменшується поза боєм.",
         "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "G22 Грав-Мітла",
-        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Змахніть мітлою, щоб отримати <style=cIsDamage>100% шкоди</style>. Кожен третій удар завдає <style=cIsDamage>200% шкоди</style> і застосовує <style=cIsUtility>weightless</style>.",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Змахніть мітлою, щоб отримати <style=cIsDamage>100% шкоди</style>. Кожен третій удар завдає <style=cIsDamage>200% шкоди</style> та застосовує <style=cIsUtility>weightless</style>.",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "Викинути сміття",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Розгорніть лебідку</s> Магічно летіть до ворога, вдаряйте по ньому <style=cIsDamage>300%</style> шкоди та <style=cIsDamage>spike</style>.",
         "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Потік",
@@ -21,6 +21,6 @@
         "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Надішліть свій підрозділ <style=cIsUtility>MAID</style>, пробиваючись крізь ворогів, завдаючи <style=cIsDamage>300% шкоди</style>, перш ніж зупинитися на короткий час і повернутися до вас. Активуйте знову, щоб намотатися на <style=cIsUtility>MAID</style> і вибухнути, завдаючи <style=cIsDamage>500% шкоди</style>, застосовуючи <style=cIsUtility>Weightless</style>.",
         "CLOUDBURST_WYATT_CLASSIC_SKIN": "класичний",
         "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
-        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "As Custodian, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Як Хранитель, пройдіть гру або знищіть на Monsoon."
     }
 }

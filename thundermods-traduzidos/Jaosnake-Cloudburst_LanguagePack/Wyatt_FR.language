@@ -1,0 +1,26 @@
+{
+    "FR": {
+        "CLOUDBURST_WYATT_NAME": "Gardien",
+        "CLOUDBURST_WYATT_SUBTITLE": "Lean, Mean, Machines de nettoyage",
+        "CLOUDBURST_WYATT_OUTRO_FLAVOR": "...et ils sont donc partis, un travail bien fait",
+        "CLOUDBURST_WYATT_OUTRO_FAILURE": "...et donc ils ont disparu, laissant un plus grand désordre qu'au début",
+        "CLOUDBURST_WYATT_DESCRIPTION": "Le gardien est un maître de la guerre de conciergerie qui manipule la gravité de ses ennemis à son avantage. dégâts !\n\n< ! > Utilisez le double saut de Flow pour combiner des ennemis dans les airs, ou utilisez l'armure pour sortir d'une situation délicate.\n\n< ! > Utilisez MAID pour soulever les ennemis dans les airs et pour vous repositionner pour combiner davantage les ennemis.\n\n",
+        "CLOUDBURST_WYATT_LORE": "Je ne peux pas m'arrêter maintenant. Je ne peux pas m'arrêter maintenant. Chaque pas que je fais est un pas que je ne peux pas revenir en arrière. Contre vents et marées, je le trouverai.\n\nC'est tout un rythme, juste un rythme. Chaque fois que je dépasse les bornes, c'est une punition. J'obéirai au groove. Rien ne peut m'arrêter maintenant.\n\nChaque cicatrice en vaut la peine. Je le sens, je m'en rapproche. Je l'aurai, et ce sera à moi.\n\nPeu importe le sang, ça vaut le coup. Je trouverai ce que je veux et je reviendrai à la maison.\n\nPeu importe combien j'en massacrerai, ce sera à moi... Il ne peut pas me cacher pour toujours.\n\nC'est ici, je peux le sentir. Ce coffre de sécurité, il l'a. Je l'ouvre et je le trouve.\n\nC'est... enfin le mien. Je le tiens dans mes mains meurtries. Est-ce que ça fait vraiment des années ? \n\nElle va adorer ça, je sais.\n\n",
+        "KEYWORD_WEIGHTLESS": "<style=cKeywordName>Apesanteur</style><style=cSub><style=cIsUtility>Supprime la gravité</style> de la cible et <style=cIsUtility>Ralentit la vitesse de déplacement et d'attaque</style>.</style>",
+        "KEYWORD_SPIKED": "<style=cKeywordName>Spiking</style><style=cSub>Force un ennemi à tomber vers le bas, provoquant une <style=cIsDamage>onde de choc</style> s'il touche le terrain, infligeant <style=cIsDamage>200 % de dégâts</style> + <style=cIsDamage>30 % de dégâts</style> par mètre tombé.</style>",
+        "KEYWORD_FLOW": "<style=cKeywordName>Flow</style><style=cSub>Gagnez <style=cIsDamage>30 d'armure</style> + <style=cIsDamage>5 d'armure</style> pour chaque pile de <style=cIsUtility>Groove</style>.\nGagnez un <style=cIsUtility>Double Saut</style>0__.\nGain</style>1__+30% de réduction du temps de recharge.</style>2__</style>3__",
+        "CLOUDBURST_WYATT_PASSIVE_NAME": "Baladeur",
+        "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "En cas de coup, gagnez une pile de <style=cIsUtility>Groove</style>, accordant <style=cIsUtility>20 % de vitesse de déplacement</style> par pile. Diminue hors combat.",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "Balai gravitationnel G22",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Faites pivoter votre balai pour <style=cIsDamage>100 % de dégâts</style>. Un coup sur trois inflige <style=cIsDamage>200 % de dégâts</style> et applique <style=cIsUtility>weightless</style>.",
+        "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "Déchets",
+        "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Déployez un treuil</s> Volez comme par magie vers un ennemi, frappez-le pour lui infliger <style=cIsDamage>300%</style> dégâts et <style=cIsDamage>spike</style>.",
+        "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Couler",
+        "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION": "Activez <style=cIsDamage>Flow</style> pendant <style=cIsUtility>4 secondes</style> + <style=cIsUtility>0,4 secondes</style> pour chaque pile de <style=cIsUtility>Groove</style>, gagnant <style=cIsDamage>armure, un double saut et une réduction du temps de recharge</style>. Pendant</style>0__Flow</style>1__, vous ne pouvez ni perdre ni gagner</style>2__Groove</style>3__. Après la fin de</style>4__Flow</style>5__, perdez toutes les piles de</style>6__Groove</style>7__.",
+        "CLOUDBURST_WYATT_SPECIAL_MAID_NAME": "M88 FEMME",
+        "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Envoyez votre unité <style=cIsUtility>MAID</style> foncer à travers les ennemis pour infliger <style=cIsDamage>300 % de dégâts</style> avant de vous arrêter brièvement et de revenir vers vous. Activez à nouveau pour rouler vers le <style=cIsUtility>MAID</style> et exploser pour <style=cIsDamage>500 % de dégâts</style>, en appliquant <style=cIsUtility>Weightless</style>.",
+        "CLOUDBURST_WYATT_CLASSIC_SKIN": "Classique",
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "En tant que gardien, terminez le jeu ou effacez la mousson."
+    }
+}

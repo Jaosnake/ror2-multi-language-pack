@@ -18,6 +18,6 @@
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bomba",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Bir bomba fırlatarak <style=cIsDamage>%1600 hasar</style> verir.",
         "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Henry olarak oyunu kazan ya da Muson'da yok ol."
     }
 }

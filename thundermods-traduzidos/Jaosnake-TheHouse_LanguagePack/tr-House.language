@@ -1,0 +1,23 @@
+{
+    "tr": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Ev",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House, kaderin iki gizemli eserini kullanarak zor durumların üstesinden gelmek için şansına güvenen çılgın bir kumarbazdır: <style=cIsUtility>\"Rulet\"</style> adlı 6 atışlık bir tabanca ve görünüşte lanetli bir kart destesi.",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Çılgın Kumarbaz",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Ustalık",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..ve böylece bir kez daha kadere oyun oynayarak gitti.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, sonunda şansı yaver gitmişti.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Standart Atış",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Tabancanızla rastgele bir atış yapın.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Dolu ev",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Tabancadan aynı anda birden fazla atış yapın.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Kehanet",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Bir avantaj elde etmek için destedeki bir sonraki kartı tahmin edin.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Karıştır",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Destenizi karıştırın ve seçeneklerinizi sıfırlayın.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Standart Yeniden Yükleme",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Tabancanızı 6 merminin tamamıyla yeniden doldurun.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "Hepsi Bir Arada Yeniden Yükleme",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Yeniden yükleyin ve ikiye katlayın."
+    }
+}

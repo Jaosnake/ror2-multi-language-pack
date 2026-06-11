@@ -4,9 +4,9 @@
         "CLOUDBURST_WYATT_SUBTITLE": "無駄のない、平均的な、掃除機",
         "CLOUDBURST_WYATT_OUTRO_FLAVOR": "...そして彼らは去った、よくやった",
         "CLOUDBURST_WYATT_OUTRO_FAILURE": "...そして彼らは消滅し、当初よりも大きな混乱を残しました",
-        "CLOUDBURST_WYATT_DESCRIPTION": "The Custodian is a master of janitorial warfare who manipulates his foes' gravity to his advantage<color=#CCD3E0>\n\n< ! > Chain combos of Grav-Broom to lift enemies higher and higher.\n\n< ! > Spike enemies with Trash Out after they've been lifted in the air with Grav-Broom and MAID for major damage!\n\n< ! > Use the double jump from Flow to combo enemies in the air, or use the armor to get out of a sticky situation.\n\n< ! > Use MAID to lift enemies into the air, and to reposition yourself to combo enemies further.\n\n",
+        "CLOUDBURST_WYATT_DESCRIPTION": "カストディアンは、敵の重力を有利に操作する用務戦の達人です<color=#CCD3E0>\n\n< ! > Grav-Broom のコンボを連鎖させて、敵をどんどん高く持ち上げます。\n\n< ! > Grav-Broom と MAID で空中に持ち上げた敵を Trash Out でスパイクします。ダメージ!\n\n< ! > フローからのダブル ジャンプを使用して空中の敵にコンボを付けるか、アーマーを使用して厄介な状況から抜け出します。\n\n< ! > MAID を使用して敵を空中に持ち上げ、位置を変更して敵をさらにコンボにします。\n\n",
         "CLOUDBURST_WYATT_LORE": "もうやめられない。もうやめられない。私の一歩はすべて、後戻りできない一歩です。地獄に来ても、高波に来ても、私はそれを見つけます。\n\nそれはすべてリズムです、ただのリズムです。ラインから外れるたびに罰が与えられます。グルーヴに従います。今、私を止めることはできません。\n\nどんな傷にも価値があります。私はそれを感じます、私はそれに近づいています。私はそれを手に入れます、そしてそれは私のものになります。\n\n血が何であろうと、それには価値があります。欲しいものを見つけて家に帰ります。\n\nどれだけ殺しても、それは私のものです...それは永遠に私から隠れることはできません。\n\nここにあります、私はそれを感じます。このセキュリティチェスト、それがあります。割って開けると、\n\nそれは...ついに私のものになりました。傷だらけの手でそれを握ります。本当に何年も経ちましたか? \n\n彼女はこれを気に入るでしょう、私は知っています。\n\n",
-        "KEYWORD_WEIGHTLESS": "<style=cKeywordName>Weightless</style><style=cSub><style=cIsUtility>Removes gravity</style> from target and <style=cIsUtility>Slows movement and attack speed</style>.</style>",
+        "KEYWORD_WEIGHTLESS": "<style=cKeywordName>無重力</style><style=cSub><style=cIsUtility>ターゲットから重力</style>を取り除き、<style=cIsUtility>移動速度と攻撃速度を遅くします</style>.</style>",
         "KEYWORD_SPIKED": "<style=cKeywordName>スパイク</style><style=cSub>敵を強制的に下に落下させ、地形に衝撃を与えると<style=cIsDamage>衝撃波</style>を引き起こし、落下1メートルにつき<style=cIsDamage>200%のダメージ</style> + <style=cIsDamage>30%のダメージ</style>を与える。</style>",
         "KEYWORD_FLOW": "<style=cKeywordName>Flow</style><style=cSub><style=cIsDamage>30 アーマーを獲得</style> + <style=cIsDamage>5 アーマーを獲得 <style=cIsUtility>Groove のスタックごとに </style></style>.\n<style=cIsUtility>ダブルジャンプを獲得</style>.\nゲイン<style=cIsUtility>+30% クールダウン短縮。</style></style>",
         "CLOUDBURST_WYATT_PASSIVE_NAME": "ウォークマン",
@@ -21,6 +21,6 @@
         "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "<style=cIsUtility>MAID</style> ユニットを敵に突き飛ばして <style=cIsDamage>300% のダメージを与えてください</style> その後、少し停止して戻ってきます。再度アクティブにして、<style=cIsUtility>MAID</style> に向かってリールし、爆発して <style=cIsDamage>500% ダメージ </style> を与え、<style=cIsUtility>Weightless</style> を適用します。",
         "CLOUDBURST_WYATT_CLASSIC_SKIN": "クラシック",
         "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
-        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "As Custodian, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "カストディアンとして、ゲームに勝つか、モンスーンで全滅させてください。"
     }
 }

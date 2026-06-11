@@ -35,7 +35,7 @@
         "NEMFORCER_SPECIAL_MINIGUNUP_NAME": "Posture de Suppression",
         "NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION": "Adoptez une posture offensive, <style=cIsDamage>préparez votre mitrailleuse</style>. <style=cIsHealth>Empêche la course</style>.",
         "NEMFORCERBODY_DEFAULT_SKIN_NAME": "Némésis",
-        "NEMFORCERBODY_ENFORCER_SKIN_NAME": "Enforcer",
+        "NEMFORCERBODY_ENFORCER_SKIN_NAME": "Exécuteur",
         "NEMFORCERBODY_CLASSIC_SKIN_NAME": "Classique",
         "NEMFORCERBODY_TYPHOON_SKIN_NAME": "Champion",
         "NEMFORCERBODY_DRIP_SKIN_NAME": "Force anti-goutte",
@@ -43,15 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
         "NEMFORCERBODY_FEM_SKIN_NAME": "Épineux",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "En tant qu'Enforcer, pendant la mousson ou plus, stabilisez les Champs du Vide et battez le Vestige d'Enforcer.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "En tant que Nemesis Enforcer, terminez le jeu ou effacez Monsoon.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "En tant que Nemesis Enforcer, terminez le jeu ou effacez Typhoon ou Eclipse.\n<color=#8888> (Compte toute difficulté Typhoon ou supérieure)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance.",
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "En tant que Nemesis Enforcer, détruisez 5 projectiles à la fois avec Dominance.",
         "NEMFORCER_PROC_UPPERCUT": "Uppercut",
         "NEMFORCER_PROC_SLAM": "Chelem",
-        "NEMFORCER_PROC_JAM": "Chelem"
+        "NEMFORCER_PROC_JAM": "Chelem",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer régénère <style=cIsHealing>2%</style> de sa <style=cIsHealing>santé maximale</style> en 3 secondes lorsqu'il frappe des ennemis avec <style=cIsDamage>attaques de mêlée</style>."
     }
 }

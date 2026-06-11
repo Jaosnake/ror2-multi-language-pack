@@ -1,0 +1,25 @@
+{
+    "es-ES": {
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "KENKO_UNFORGIVEN_NAME": "Vagabundo",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "El Errante es un superviviente con un nivel de habilidad bajo y un techo de habilidad alto que puede usar cancelaciones de animación para mantener su daño alto.<color=#CCD3E0>\n\n< ! > Usa Steel Tempest entre Swift Strikes para maximizar tu daño.\n\n< ! > Mantén un registro de tus acumulaciones de Steel Tempest, ya que su tornado puede ser una herramienta devastadora para rematar enemigos.\n\n< ! > Usar Steel Tempest durante Sweeping Blade corta en un círculo lo que permite más daño AOE.\n\n< ! > Usar Last Breath durante Sweeping Blade + Steel Tempest te permite transferir el daño AOE a los objetivos de Last Breath.</color>",
+        "KENKO_UNFORGIVEN_SUBTITLE": "El imperdonable",
+        "KENKO_UNFORGIVEN_LORE": "Si mueres ante Yasuo, te superaron, significa que tuvo que calcular (y ejecutar) la pelea exactamente según sus especificaciones, teniendo en cuenta tus tiempos de reutilización y los suyos, la posición de ambos junglas, las ondas de creep y la \"sensación\" general del carril (una habilidad que debe perfeccionarse a través de años, tal vez décadas de lo que llamas simplemente \"juegos\"). De hecho, ser derrotado por Yasuo es darte cuenta de que has encontrado lo mejor, tanto como jugador como como hombre. Tu temple te falló, pero el jugador yasuo es de acero sólido -duro, frío, confiable- y mientras él asegura la primera sangre y tú esperas ansiosamente el voto de rendición, su mente sigue operando a plena capacidad preparando estrategias para un número casi infinito de posibilidades. Tomaré mi LP ahora, asegúrate de hacer tus baneos correctamente la próxima vez.",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..y así se fue, 10/0.",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..y así desapareció, 0/10.",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Alternar",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "Camino del viento",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Construye un <style=cIsHealing>shield</style> pasivo mientras te mueves. Cuando se alcanza el máximo de acumulaciones, el <style=cIsHealing>shield</style> se rompe y otorga una <style=cIsHealing>barrera</style>. <style=cIsDamage>Probabilidad de golpe crítico</style> aumenta en <style=cIsDamage>1.5x</style>.",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Golpes veloces",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Corte al frente que inflige <style=cIsDamage>240% de daño</style>.",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Tempestad de acero",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Swift</style>. Apuñala hacia adelante causando <style=cIsDamage>260% de daño</style>. Al golpear, obtienes una acumulación de <color=#FFBF66>Gathering Storm</color>. Con 2 acumulaciones, tu siguiente <color=#FFBF66>Steel Tempest</color> disparará un tornado que infligirá <style=cIsDamage>400% de daño</style>.",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Hoja de barrido",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Corre hacia un enemigo que inflige <style=cIsDamage>150% de daño</style>. Después de cada carrera, tu próxima carrera causará un <style=cIsDamage>50% de daño adicional</style> hasta un límite de <style=cIsDamage>200% de daño adicional</style>.",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "último aliento",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Parpadea hacia un enemigo <style=cIsUtility>airborne</style> objetivo o cercano y ataca rápidamente para causar <style=cIsDamage>2x250% + 800% de daño</style>. Obtienes una bonificación de <style=cIsDamage>penetración de armadura</style> durante 6 segundos.",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "primer aliento",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Parpadea hacia un enemigo <style=cIsUtility>airborne</style> objetivo o cercano y ataca rápidamente para causar <style=cIsDamage>2x250% + 800% de daño</style>. Obtienes una bonificación de <style=cIsDamage>penetración de armadura</style> durante 6 segundos.\n<color=#d299ff>CETRO: <style=cIsUtility>Restablece tu tiempo de reutilización secundario</style>. Los enemigos golpeados por <color=#FFBF66>First Breath</style>0__ pueden ser atacados por</style>1__Sweeping Blade</style>2__ nuevamente.</style>3__",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Wanderer, completa el juego o destruye Monsoon."
+    }
+}

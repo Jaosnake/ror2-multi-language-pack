@@ -1,0 +1,25 @@
+{
+    "tr": {
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_NAME": "Cenazeci",
+        "BOG_MORRIS_BODY_SUBTITLE": "ölümsüz",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Mortician, ölümsüz ordusuyla bölgeleri kontrol etmekte ustalaşan, yavaş ama sağlam bir yakın dövüş büyücüsüdür.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..ve böylece gitti, acımasız görevi hâlâ yerine getirilmemişti.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, sonunda çok arzuladığı huzura kavuştu.",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Ruh Teklifi",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghoul'lar <style=cIsUtility>öldürüldüklerinde öldürme etkilerini tetikler</style> öldürüldüklerinde.",
+        "PRIMARY_SHOVEL_NAME": "Kürek Saldırısı",
+        "PRIMARY_SHOVEL_DESCRIPTION": "<style=cIsDamage>%800 hasar</style> için küreğinizi sallayın. Kürekle gulyabanilere ve mezar taşlarına vurmak <style=cIsUtility>fırlatma</style> ile <style=cIsDamage>%350 hasar</style> oluşmasına neden olur.",
+        "SECONDARY_GHOUL_NAME": "Ölüleri Kaldır",
+        "SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Ruh Bağı</style>. Önünüzde yere bir gulyabani çağırın. Gulyabaniler <style=cIsDamage>%150 hasar</style> için ısırırlar ve <style=cIsDamage>%100 hasar</style> için <style=cIsDamage>Pestilent</style> safra tükürürler.",
+        "UTILITY_LANTERN_NAME": "Kurban etmek",
+        "UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Patlatma</style> hedef gulyabaniyi <style=cIsDamage>700% hasara uğratır</style> ve <style=cIsHealing>maksimum sağlığınızın %15'ini iyileştirir</style>.",
+        "SPECIAL_TOMBSTONE_NAME": "Mezar taşı",
+        "SPECIAL_TOMBSTONE_DESCRIPTION": "Her <style=cIsUtility>10 saniyede bir </style> hortlak çıkaran bir Mezar Taşı dikin. Ne zaman bir gulyabani öldürülse, mezar yakındaki bir düşmana <style=cIsDamage>350% hasar</style> için ateş eden bir <style=cIsDamage>intikamcı ruh</style> <style=cIsUtility>patlayıcı</style> ortaya çıkarır.",
+        "BOG_GHOUL_BODY_NAME": "Gulyabani",
+        "BOG_TOMBSTONE_BODY_NAME": "Mezar taşı",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Mortician olarak oyunu bitirin veya Muson'da yok edin.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Cenazeci: Ustalık"
+    }
+}

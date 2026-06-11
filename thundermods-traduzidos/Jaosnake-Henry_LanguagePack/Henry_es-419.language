@@ -1,6 +1,6 @@
 {
     "es-419": {
-        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_NAME": "Enrique",
         "ROB_HENRY_BODY_DESCRIPTION": "Henry es un luchador habilidoso que usa un vasto arsenal de armas para derribar a sus enemigos.<color=#CCD3E0>",
         "ROB_HENRY_BODY_SUBTITLE": "El Elegido",
         "ROB_HENRY_BODY_LORE": "historia de ejemplo",
@@ -18,6 +18,6 @@
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bomba",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Lanza una bomba causando <style=cIsDamage>1.600% de daño</style>.",
         "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Como Henry, completa el juego o destruye Monsoon."
     }
 }

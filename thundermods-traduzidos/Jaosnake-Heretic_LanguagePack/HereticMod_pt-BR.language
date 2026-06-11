@@ -1,0 +1,12 @@
+{
+    "pt-BR": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "O Herege <style=cIsUtility>se move mais rápido</style> e pode <style=cIsUtility>bater suas asas duas vezes</style> para obter altura extra enquanto estiver no ar.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marca da Heresia",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Ganhe um grande aumento de estatísticas... <color=#FF7F7F>MAS sua saúde diminui com o tempo.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumente <style=cIsHealing>health</style> em <style=cIsHealing>400%</style> e <style=cIsDamage>damage</style> em <style=cIsDamage>50%</style>. Reduza <style=cIsHealing>regeneração de saúde básica</style> para</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Carregue uma bola de lâminas que causa repetidamente <style=cIsDamage>175% de dano</style>. Após um atraso, exploda e <style=cIsDamage>root</style> todos os inimigos causando <style=cIsDamage>700% de dano</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Causar dano adiciona uma pilha de <style=cIsDamage>Ruin</style>. Ativar a habilidade <style=cIsDamage>detona todas as pilhas de Ruína</style> em alcance ilimitado, causando <style=cIsDamage>300% de dano</style> mais <style=cIsDamage>120% de dano</style> por pilha de <style=cIsDamage>Ruína</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Fuja da lua como o sobrevivente secreto."
+    }
+}

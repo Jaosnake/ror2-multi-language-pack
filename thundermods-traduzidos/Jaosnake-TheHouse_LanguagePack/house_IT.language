@@ -1,0 +1,15 @@
+{
+    "IT": {
+        "JAVANGLE_HOUSE_BODY_NAME": "La Casa",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Il giocatore pazzo",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House è un giocatore d'azzardo folle che fa affidamento sulla fortuna per superare situazioni difficili, utilizzando due misteriosi artefatti del destino: un revolver a 6 colpi chiamato <style=cIsUtility>\"Roulette\"</style> e un mazzo di carte apparentemente maledetto.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Padronanza",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: Vuoto",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara un colpo caricato a caso. Quando non rimangono colpi: non fa nulla.",
+        "DEFAULT_SKIN_NAME": "Predefinito",
+        "MASTERY_SKIN_NAME": "La Casa: Maestria",
+        "BODY_OUTRO_FLAVOR": "..e così se ne andò, giocando ancora una volta brutti scherzi al destino.",
+        "BODY_OUTRO_FAILURE": "...e così svanì, la sua fortuna finalmente esaurita."
+    }
+}

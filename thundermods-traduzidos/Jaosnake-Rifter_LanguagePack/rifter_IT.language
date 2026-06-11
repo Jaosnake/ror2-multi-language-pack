@@ -1,0 +1,29 @@
+{
+    "IT": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_SUBTITLE": "Manipolatore della spaccatura",
+        "PRIMARY_GAUNTLET_RANGED": "Spaccatura del proiettile",
+        "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Spara una spaccatura a lungo raggio per il 500% di danni.",
+        "SECONDARY_FRACTURE": "Frattura",
+        "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Frattura</style>. Spara una spaccatura a lungo raggio per il 75% dei danni, provocando fino a 5 frantumi.",
+        "SECONDARY_FAULT_LINE": "Linea di faglia",
+        "SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Frattura</style>. Crea una linea di faglia che si frantuma, infliggendo il 700% di danni.",
+        "UTILITY_SLIPSTREAM": "Scivola dimensionale",
+        "UTILITY_SLIPSTREAM_DESCRIPTION": "Teletrasportarsi a breve distanza. Aggiorna lo stock di abilità secondarie.",
+        "UTILITY_CHAINED_WORLDS": "Mondi incatenati",
+        "UTILITY_CHAINED_WORLDS_DESCRIPTION": "Collega due punti nello spazio, creando un portale che trasporta proiettili.",
+        "UTILITY_QUANTUM_RIFT": "Spaccatura quantistica",
+        "UTILITY_QUANTUM_RIFT_DESCRIPTION": "Apri una spaccatura quantica che distorce lo spazio circostante.",
+        "SPECIAL_TIMELOCK": "Blocco orario",
+        "SPECIAL_TIMELOCK_DESCRIPTION": "Blocca il tempo dei nemici in un'area, congelandoli per alcuni secondi.",
+        "SPECIAL_RECURSION": "Ricorsione",
+        "SPECIAL_RECURSION_DESCRIPTION": "Replica una spaccatura, facendola riecheggiare dopo un breve periodo.",
+        "PASSIVE_RIFT_BOOST": "Potenziamento della frattura",
+        "PASSIVE_RIFT_BOOST_DESCRIPTION": "Le tue spaccature garantiscono un aumento della velocità di movimento quando le attraversi.",
+        "PASSIVE_RIFT_FRACTURE": "Frattura della spaccatura",
+        "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "I nemici colpiti dalle fratture accumulano frantumi, aumentando i danni subiti.",
+        "MASTERY_SKIN_NAME": "Rifter: Maestria",
+        "BLAKE_NEM_RIFTER_NAME": "Nemesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Spaccatura Corrotta"
+    }
+}

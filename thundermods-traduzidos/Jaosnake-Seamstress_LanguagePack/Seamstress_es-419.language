@@ -31,8 +31,8 @@
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Devastación",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% de Vida</style>. Dispara una tijera <color=#9B3737>Simbiótica</color> causando <style=cIsDamage>400% de daño</style>. Recoge las tijeras <color=#9B3737>Simbióticas</color> para cortar causando <style=cIsDamage>200% de daño</style>.\n<color=#d299ff>CETRO: Tu arma <color=#9B3737>Simbiótica</color> solo tiene <style=cIsUtility>1,5 segundos de tiempo de recogida</style>.</color>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Como costurera, completa el juego o aniquila Monzón.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Eclipse or higher."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Como costurera, completa el juego o aniquila en Eclipse o superior."
     }
 }

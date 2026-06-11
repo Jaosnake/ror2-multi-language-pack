@@ -28,17 +28,17 @@
         "MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME": "DROHNE - GESCHWINDIGKEIT",
         "MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC": "Feuern Sie eine Drohne ab, die <style=cIsDamage>270 % Schaden verursacht</style> und <style=cIsDamage> gewährt vorübergehend Angriffsgeschwindigkeit</style>. Kills und Nahkampftreffer <style=cIsUtility>Reduzieren Sie die Abklingzeit</style>.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME": "Handyman",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Reparieren Sie den Roboter-Hausmeister am Rallypoint Delta mit der Treibstoffanordnung einer Rettungskapsel.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME": "HAN-D: Beatdown",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "Keep OVERCLOCK active for over 45 seconds.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "Halten Sie OVERCLOCK länger als 45 Sekunden aktiv.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME": "HAN-D: Bonk!",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Flatten the final boss.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Machen Sie den Endgegner platt.",
         "MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME": "HOLZ",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME": "HAN-D: Mastery",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "Schlagen Sie als HAN-D das Spiel oder vernichten Sie Monsun.",
         "MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME": "RE-TRN",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME": "HAN-D: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION": "Schlage als HAN-D das Spiel oder vernichte Taifun oder Eclipse.\n<color=#8888>(Zählt jeden Schwierigkeitsgrad Typhoon oder höher)</color>",
         "MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME": "HO-POO"
     }
 }

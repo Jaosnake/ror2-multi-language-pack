@@ -1,0 +1,23 @@
+{
+    "es-ES": {
+        "KENKO_INTERROGATOR_NAME": "Interrogador",
+        "KENKO_INTERROGATOR_DESCRIPTION": "El interrogador se deleita con el dolor de los demás. No te diviertas mucho lastimando a tus aliados... o hazlo.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Especialista en tormento",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..y así se fue, deseoso de aplicar más \"justicia\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..y así desapareció, castigado por sus crímenes.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Por defecto",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogador: Especialista",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "El Interrogador puede golpear y ser golpeado por aliados y enemigos. Los atacantes que golpean al interrogador quedan marcados permanentemente como culpables. Inflige un 5% más de daño por enemigo culpable.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Golpe brutal",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Mueve tu bastón al frente, causando <style=cIsDamage>320% de daño</style>. Fallar el ataque hace que sufras <style=cIsDamage>daño</style>.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Refriega",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lanza una cuchilla que causa <style=cIsDamage>450% de daño</style>. <style=cIsDamage>Assassin.</style> Si el cuchillo mata al objetivo, aplica Hemorragia y Presión a todos en el área.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificar",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Corre hacia adelante, causando <style=cIsDamage>390% de daño</style> y aplicando Culpable a los objetivos golpeados.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Lucha contra un enemigo culpable durante 10 segundos. Tu principal ya no te golpea y otorga una acumulación de Culpable al golpear. Durante el duelo, se niega el daño externo hacia ti, pero también se niega el daño a otros enemigos además del objetivo.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Castigar",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Lucha contra un enemigo culpable durante 10 segundos. Tu principal ya no te golpea y otorga una acumulación de Culpable al golpear. Durante el duelo, el daño externo a ti se niega, pero el daño a otros enemigos se reduce en un 75%."
+    }
+}

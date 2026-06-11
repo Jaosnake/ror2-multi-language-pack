@@ -1,0 +1,30 @@
+{
+    "tr": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_DESCRIPTION": "Rifter, gerçeklikte yıkıcı yarıklar yaratmak için stratejik konumlandırmayı kullanıyor.<color=#CCD3E0></i>",
+        "BLAKE_RIFTER_SUBTITLE": "Yarık Manipülatörü",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..ve böylece arkasında parçalanmış bir dünya bıraktı.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..ve böylece tüm alemlerden kayboldu.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Ustalık",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Yarık Desteği",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Yarıklarınız, içinden geçerken hareket hızı artışı sağlar.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Yarık Kırığı",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Yarıkların çarptığı düşmanlar paramparça olur ve alınan hasar artar.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Mermi Yarığı",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "%500 hasar için uzun menzilli bir yarık ateşleyin.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Kırık",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Kırılma</style>. %75 hasar verecek şekilde uzun menzilli bir yarık ateşleyin ve en fazla 5 parçalanmaya neden olun.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Fay Hattı",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Kırılma</style>. Parçalanan ve %700 hasar veren bir fay hattı oluşturun.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Boyutsal Akım Akışı",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Kısa bir mesafeye ışınlan. İkincil beceri stoğunu yeniler.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Kuantum Yarığı",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "Çevredeki alanı bozan bir kuantum yarığını açın.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Zincirlenmiş Dünyalar",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "Mermileri taşıyan bir portal oluşturarak uzaydaki iki noktayı birleştirin.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Zaman Kilidi",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Bir bölgedeki düşmanların zamanını kilitleyerek onları birkaç saniyeliğine dondurun.",
+        "BLAKE_NEM_RIFTER_NAME": "Nemesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Bozuk Yarık"
+    }
+}

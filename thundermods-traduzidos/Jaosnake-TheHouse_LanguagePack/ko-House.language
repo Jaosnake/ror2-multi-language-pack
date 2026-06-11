@@ -1,0 +1,23 @@
+{
+    "ko": {
+        "JAVANGLE_HOUSE_BODY_NAME": "더 하우스",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House는 두 가지 신비한 운명의 유물, 즉 <style=cIsUtility>\"Roulette\"</style>이라는 6발 리볼버와 저주받은 것처럼 보이는 카드 덱을 사용하여 어려운 상황을 극복하기 위해 자신의 운에 의존하는 미친 도박꾼입니다.",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "미친 도박꾼",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "기본",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "지배",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..그래서 그는 떠났고, 다시 한 번 운명을 속였습니다.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..그래서 그는 사라졌고, 마침내 그의 행운도 다 떨어졌습니다.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "표준 샷",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>민첩한</style>. 리볼버에서 무작위로 사격하십시오.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "풀하우스",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "리볼버에서 한 번에 여러 발을 발사합니다.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "점",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "이점을 얻으려면 덱에서 다음 카드를 예측하세요.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "혼합",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "덱을 섞고 옵션을 재설정하세요.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "표준 재장전",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "총알 6개를 모두 리볼버에 장전하세요.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "올인 리로드",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "다시 로드하고 더블다운하세요."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "UA": {
+        "NDP_DANCER_BODY_NAME": "Танцівниця",
+        "NDP_DANCER_BODY_SUBTITLE": "Смертельний танець",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Золотий",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Обмежувальна стрічка",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Вороги зі стрічкою кровоточать, завдаючи 50% шкоди за секунду, і не можуть діяти.</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Слеш",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Атака ближнього бою з ефектами залежно від вашої мети. (Наведіть курсор, щоб дізнатися більше)</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Вирізати",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Атака ближнього бою з ефектами залежно від вашої мети. (Наведіть курсор, щоб дізнатися більше)</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Потягнути",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Тягніть ворогів до себе.</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Обв'язуюча стрічка",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Приклейте скотч до ворога, не даючи йому діяти та викликати кровотечу.</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Наземний вхід, цілься вперед. Робіть випад вперед і завдайте <style=cIsDamage>180% шкоди</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Нахил вниз</style><style=cSub>Наземний вхід, націлитися вниз. Запускайте ворогів угору та завдавайте <style=cIsDamage>200% шкоди</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Air вхід, націлитися вперед. Сильний удар завдає <style=cIsDamage>180% шкоди</style> і притискає ворогів до землі, приголомшуючи та завдаючи до <style=cIsDamage>300% шкоди</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>Записані вороги стікають кров’ю, завдаючи <style=cIsDamage>50% шкоди за секунду</style> і не можуть діяти."
+    }
+}

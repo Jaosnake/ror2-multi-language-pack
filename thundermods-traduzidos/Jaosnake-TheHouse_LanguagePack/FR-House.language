@@ -1,6 +1,6 @@
 {
     "FR": {
-        "JAVANGLE_HOUSE_BODY_NAME": "The House",
+        "JAVANGLE_HOUSE_BODY_NAME": "La maison",
         "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House est un joueur fou qui compte sur sa chance pour surmonter les situations difficiles, utilisant deux mystérieux artefacts du destin : un revolver à 6 coups appelé <style=cIsUtility>\"Roulette\"</style> et un jeu de cartes apparemment maudit.",
         "JAVANGLE_HOUSE_BODY_SUBTITLE": "Le Joueur Fou",
         "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Par défaut",
@@ -8,11 +8,11 @@
         "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..et ainsi il s'en alla, jouant des tours au destin une fois de plus.",
         "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..et ainsi il disparut, sa chance ayant finalement tourné.",
         "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Tir Standard",
-        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez un coup aléatoire de votre revolver.",
-        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Full House",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez un coup aléatoire avec votre revolver.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Full house",
         "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Tirez plusieurs coups du revolver à la fois.",
         "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Divination",
-        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Prédisez la prochaine carte du deck pour obtenir un avantage.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Prédisez la prochaine carte du jeu pour obtenir un avantage.",
         "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Mélanger",
         "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Mélangez votre deck et réinitialisez vos options.",
         "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Rechargement Standard",

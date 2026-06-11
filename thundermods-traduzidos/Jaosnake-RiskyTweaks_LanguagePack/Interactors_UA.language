@@ -1,0 +1,7 @@
+{
+    "UA": {
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Shrine of Combat випав </style>{0}",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} видалено </color>{1}",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Сигнал глибокої порожнечі впав </style>{0}"
+    }
+}
