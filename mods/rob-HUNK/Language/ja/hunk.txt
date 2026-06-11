@@ -1,102 +1,306 @@
-ROB_HUNK_BODY_NAME: HUNK
-ROB_HUNK_BODY_SUBTITLE: 死神
-ROB_HUNK_BODY_DEFAULT_SKIN_NAME: デフォルト
-ROB_HUNK_BODY_CLASSIC_SKIN_NAME: クラシック
-ROB_HUNK_BODY_ROOKIE_SKIN_NAME: 新人
-ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
-ROB_HUNK_BODY_LEON_SKIN_NAME: レオン
-ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
-ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: 軽量
-ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: ゲリラ
-ROB_HUNK_BODY_WESKER_SKIN_NAME: ウェスカー
-ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
-ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
-ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: レオンのシャツ
-ROB_HUNK_BODY_COMMANDO_SKIN_NAME: コマンドー
-ROB_HUNK_BODY_JACKET_SKIN_NAME: ジャケット
-ROB_HUNK_BODY_TOFU_SKIN_NAME: 豆腐
-ROB_HUNK_BODY_SUPER_SKIN_NAME: スーパー
-SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>。M19を発射して<style=cIsDamage>500%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>。Broom HCを発射して<style=cIsDamage>180%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_REVOLVER_NAME: リボルバー
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>。リボルバーを発射して<style=cIsDamage>1.200%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_MAGNUM_NAME: マグナム
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>。マグナムを発射して<style=cIsDamage>1.500%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_SHOTGUN_NAME: ショットガン
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。ショットガンを発射して<style=cIsDamage>14x150%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>。SSGを発射して<style=cIsDamage>16x200%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>。Sluggerを発射して<style=cIsDamage>3.000%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_AR_NAME: アサルトライフル
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>。ライフルを発射して<style=cIsDamage>385%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>。Spark Shotを発射して<style=cIsDamage>1.000%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_GOLDGUN_NAME: 黄金の銃
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>。黄金の銃を発射して<style=cIsDamage>99.999%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_ATM_NAME: ATMランチャー
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>。ロケットを発射して<style=cIsDamage>8.000%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SHOOT_GRENADELAUNCHER_NAME: グレネードランチャー
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>。グレネードを発射して<style=cIsDamage>3.200%ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>抜く。</style><style=cIsDamage>打撃</style>近接戦闘員に<style=cIsDamage>200%と250%ダメージ</style>、<style=cIsHealth>四肢切断</style>を付与。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SECONDARY_AIM_NAME: しっかり狙う
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>狙う</style>と現在の武器の精度が向上。 <i>Translated by: Jaosnake. Original mod by rob</i>
-UTILITY_PARRY_NAME: パリィ
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>パリィ</style>で攻撃を逸らす。予防的に<style=cIsUtility>攻撃を回避</style>するために使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。 <i>Translated by: Jaosnake. Original mod by rob</i>
-UTILITY_DODGE_NAME: スライド
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>スライド</style>短距離。予防的に<style=cIsUtility>攻撃を回避</style>するために使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。 <i>Translated by: Jaosnake. Original mod by rob</i>
-UTILITY_BASH_NAME: ディフレクション
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>弾く</style>近くの敵を、<style=cIsUtility>スタン</style>で<style=cIsDamage>400%ダメージ</style>。予防的に<style=cIsUtility>攻撃をキャンセル</style>するために使用すると、<style=cIsDamage>パーフェクトディフレクション</style>を実行。 <i>Translated by: Jaosnake. Original mod by rob</i>
-SPECIAL_SWAP_NAME: レギオン
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>切り替え</style>現在の武器。 <i>Translated by: Jaosnake. Original mod by rob</i>
-ROB_HUNK_KEYWORD_MANGLED: 四肢切断
-ROB_HUNK_KEYWORD_COUNTERATTACK: カウンターアタック
-ROB_HUNK_KEYWORD_PERFECTDODGE: パーフェクトドッジ
-ROB_HUNK_KEYWORD_PERFECTBASH: パーフェクトディフレクション
-ROB_HUNK_KEYWORD_CVIRUS: C-ウイルス
-ROB_HUNK_KEYWORD_LOOTING: 漁り
-ROB_HUNK_TRANSCEIVER_NAME: トランシーバー
-ROB_HUNK_TRANSCEIVER_DESC: 補給物資ドロップ。
-ROB_HUNK_TYPEWRITER_NAME: タイプライター
-ROB_HUNK_TYPEWRITER_DESC: 進行状況を保存。
-ROB_HUNK_JETPACK_NAME: ジェットパック
-ROB_HUNK_JETPACK_DESC: 空中機動性を付与。
-ROB_HUNK_C4_NAME: C4
-ROB_HUNK_GRENADE_NAME: グレネード
-ROB_HUNK_SUPPLYPACK_NAME: 補給品
-ROB_HUNK_AMMO_NAME: 弾薬
-ROB_HUNK_AMMOITEM_NAME: 弾薬
-ROB_HUNK_CHEST_NAME: チェスト
-ROB_HUNK_TERMINAL_NAME: 端末
-ROB_HUNK_STARSBADGE_NAME: S.T.A.R.S.バッジ
-ROB_HUNK_STARSBADGE2_NAME: S.T.A.R.S.バッジ2
-ROB_HUNK_STARSBADGE_DESC: S.T.A.R.S.メンバーのバッジ。
-ROB_HUNK_HEARTCHEST_NAME: ハートチェスト
-ROB_HUNK_T_VIRUS_NAME: T-ウイルス
-ROB_HUNK_T_VIRUS_DESC: T-ウイルスのサンプル。
-ROB_HUNK_G_VIRUS_NAME: G-ウイルス
-ROB_HUNK_G_VIRUS_DESC: G-ウイルスのサンプル。
-ROB_HUNK_G_VIRUS2_NAME: G-ウイルス2
-ROB_HUNK_C_VIRUS_NAME: C-ウイルス
-ROB_HUNK_C_VIRUS_DESC: C-ウイルスのサンプル。
-ROB_HUNK_G_VIRUSFINAL_NAME: 最終G-ウイルス
-ROB_HUNK_PLAGAS_NAME: プラーガ
-ROB_HUNK_PLAGAS_DESC: プラーガのサンプル。
-ROB_HUNK_URO_SAMPLE_NAME: Uroborosサンプル
-ROB_HUNK_URO_SAMPLE_DESC: Uroborosのサンプル。
-ROB_HUNK_INFROCKET_NAME: 無限ロケット
-ROB_HUNK_INFROCKET_DESC: 無限ロケット弾薬。
-ROB_HUNK_NEMICASE_NAME: ネミケース
-ROB_HUNK_NEMICASE_DESC: 謎のケース。
-ROB_NEMESIS_BODY_NAME: Nemesis
-ROB_NEMESIS_BODY_SUBTITLE: 追跡者
-ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: デフォルト
-ROB_NEMESIS_BODY_PASSIVE_NAME: 執拗な追跡
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: マークされた敵に<style=cIsDamage>{0}%追加ダメージ</style>。 <i>Translated by: Jaosnake. Original mod by rob</i>
-ROB_NEMESIS_BODY_GRAB_NAME: 掴む
-ROB_ARTIFACT_STRIKETEAM_NAME: 攻撃部隊の神器
-ROB_ARTIFACT_PURSUER_NAME: 追跡者の神器
-ROB_ARTIFACT_CONTAMINATION_NAME: 汚染の神器
+{
+    "strings": {
+        "ROB_HUNK_BODY_NAME": "HUNK",
+        "ROB_HUNK_BODY_DESCRIPTION": "HUNKはOSP(オンサイト調達)で入手した大量の武器を携行するエリート潜入者です。<color=#CCD3E0>Original mod by rob</i>",
+        "ROB_HUNK_BODY_SUBTITLE": "死神",
+        "ROB_HUNK_BODY_OUTRO_FLAVOR": "..そして彼は去り、全てうまくいった。",
+        "ROB_HUNK_BODY_OUTRO_FAILURE": "..そして彼は消え、人間ユニットは無力化された。",
+        "ROB_HUNK_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "ROB_HUNK_BODY_CLASSIC_SKIN_NAME": "RE2make",
+        "ROB_HUNK_BODY_TOFU_SKIN_NAME": "豆腐",
+        "ROB_HUNK_BODY_SUPER_SKIN_NAME": "<color=#FFFF00>Early Supporter</color>",
+        "ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME": "軽量",
+        "ROB_HUNK_BODY_GUERRILLA_SKIN_NAME": "兵士",
+        "ROB_HUNK_BODY_ROOKIE_SKIN_NAME": "新人",
+        "ROB_HUNK_BODY_SWAT_SKIN_NAME": "平和維持者",
+        "ROB_HUNK_BODY_LEON_SKIN_NAME": "Specialist",
+        "ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME": "Specialist EX",
+        "ROB_HUNK_BODY_ENFORCER_SKIN_NAME": "Bulldozer",
+        "ROB_HUNK_BODY_WESKER_SKIN_NAME": "Mastermind",
+        "ROB_HUNK_BODY_DOOM_SKIN_NAME": "Slayer",
+        "ROB_HUNK_BODY_COMMANDO_SKIN_NAME": "Commando",
+        "ROB_HUNK_BODY_JACKET_SKIN_NAME": "ジャケット",
+        "ROB_HUNK_BODY_PPASSIVE_NAME": "OSP(オンサイト調達)",
+        "ROB_HUNK_BODY_PPASSIVE_DESCRIPTION": "HUNKは<color=#FFFF00>U.C.キーカード</color>を収集して<style=cIsDamage>武器ケース</style>を開け、武器庫を拡張できます。",
+        "ROB_HUNK_BODY_PPASSIVE2_NAME": "忘れられた兵士",
+        "ROB_HUNK_BODY_PPASSIVE2_DESCRIPTION": "各ステージで最初に倒した<style=cIsHealth>ボス</style>が武器かアクセサリーを含む<style=cIsDamage>補給パック</style>をドロップします。",
+        "ROB_HUNK_BODY_PASSIVE_NAME": "影の戦い",
+        "ROB_HUNK_BODY_PASSIVE_DESCRIPTION": "<style=cIsDamage>LE 5</style>と<style=cIsDamage>セカンダリー武器</style>で開始します。<style=cIsDamage>漁る</style><style=cIsUtility>チェスト</style>で弾薬を見つけられます。",
+        "ROB_HUNK_BODY_PASSIVE2_NAME": "差し迫る恐怖",
+        "ROB_HUNK_BODY_PASSIVE2_DESCRIPTION": "<style=cIsDamage>完全な武器庫</style>で開始しますが、<style=cIsHealth>追加の弾薬を入手できなくなります</style>。",
+        "ROB_HUNK_BODY_RANDOMPASSIVE_NAME": "New Game+",
+        "ROB_HUNK_BODY_RANDOMPASSIVE_DESCRIPTION": "<style=cIsDamage>LE 5</style>と<style=cIsDamage>セカンダリー武器</style>で開始します。<style=cIsDamage>漁る</style><style=cIsUtility>チェスト</style>で弾薬を見つけられます。<style=cIsHealth>全ての武器ケースの中身はランダムです。</style>",
+        "ROB_HUNK_BODY_SHOTGUNPASSIVE_NAME": "最高権威",
+        "ROB_HUNK_BODY_SHOTGUNPASSIVE_DESCRIPTION": "<style=cIsDamage>W-870</style>と<style=cIsDamage>セカンダリー武器</style>で開始します。<style=cIsDamage>漁る</style><style=cIsUtility>チェスト</style>で弾薬を見つけられます。",
+        "ROB_HUNK_BODY_SMGPASSIVE_NAME": "至高の傭兵",
+        "ROB_HUNK_BODY_SMGPASSIVE_DESCRIPTION": "<style=cIsHealth>完全にアップグレードされたLE 5</style><style=cIsHealth>のみ</style>で開始します。<style=cIsDamage>漁る</style><style=cIsUtility>チェスト</style>で弾薬を見つけられます。<style=cIsDamage>スペシャル</style>が<color=#C80202>カオスモード</color>に置き換えられます。",
+        "ROB_HUNK_BODY_WPASSIVE_NAME": "完全な地球飽和",
+        "ROB_HUNK_BODY_WPASSIVE_DESCRIPTION": "<style=cIsHealth>セカンダリー武器</style><style=cIsHealth>のみ</style>で開始します。<style=cIsDamage>漁る</style><style=cIsUtility>チェスト</style>で弾薬を見つけられます。<style=cIsDamage>ユーティリティ</style>が<color=#C80202>Uroboros</color>に置き換えられます。",
+        "ROB_HUNK_BODY_FLAMERPASSIVE_NAME": "放火癖",
+        "ROB_HUNK_BODY_FLAMERPASSIVE_DESCRIPTION": "<style=cIsHealth>化学火炎放射器</style><style=cIsHealth>のみ</style>で開始します。<style=cIsDamage>漁る</style><style=cIsUtility>チェスト</style>で弾薬を見つけられます。<style=cIsHealth>ステージごとに武器ケースは1つだけ出現します。</style>",
+        "ROB_HUNK_BODY_PRIMARY_KNIFE_NAME": "コンバットナイフ",
+        "ROB_HUNK_BODY_PRIMARY_KNIFE_DESCRIPTION": "<style=cIsUtility>抜く。</style><style=cIsDamage>斬る</style>近くの戦闘員に<style=cIsDamage>200%ダメージ</style>、<style=cIsHealth>四肢切断</style>を付与。",
+        "ROB_HUNK_BODY_PRIMARY_CQC_NAME": "CQC(近接戦闘)",
+        "ROB_HUNK_BODY_PRIMARY_CQC_DESCRIPTION": "<style=cIsUtility>抜く。</style><style=cIsDamage>2回蹴る</style>で<style=cIsDamage>200%と250%ダメージ</style>。<style=cIsUtility>2回目の蹴り</style>が当たった場合、<style=cIsDamage>カウンターアタック</style>に繋げます。",
+        "ROB_HUNK_BODY_PRIMARY_RELOAD_NAME": "リロード",
+        "ROB_HUNK_BODY_RELOAD_DESCRIPTION": "現在の武器をリロードします。",
+        "ROB_HUNK_BODY_SECONDARY_AIM_NAME": "しっかり狙う",
+        "ROB_HUNK_BODY_SECONDARY_AIM_DESCRIPTION": "狙うことで、<style=cIsUtility>敵の弱点を露出</style>。<style=cIsDamage>狙っている間にプライマリーを使うと装備中の武器を発射します。</style>",
+        "ROB_HUNK_BODY_UTILITY_DODGE_NAME": "Quickstep",
+        "ROB_HUNK_BODY_UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>前進</style>短距離。攻撃を<style=cIsUtility>回避する</style>ために予防的に使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。",
+        "ROB_HUNK_BODY_UTILITY_DODGE_SCEPTER_NAME": "Uroboros",
+        "ROB_HUNK_BODY_UTILITY_DODGE_SCEPTER_DESCRIPTION": "<style=cIsUtility>前進</style>短距離。攻撃を<style=cIsUtility>回避する</style>ために予防的に使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。Uroborosの力があなたを流れる。",
+        "ROB_HUNK_BODY_UTILITY_PARRY_NAME": "パリィ",
+        "ROB_HUNK_BODY_UTILITY_PARRY_DESCRIPTION": "攻撃を<style=cIsUtility>ブロック</style>し、ダメージを<style=cIsDamage>無効化</style>して<style=cIsUtility>クールダウンを返還</style>。予防的に使用すると、<style=cIsDamage>パーフェクトパリィ</style>を実行。",
+        "ROB_HUNK_BODY_UTILITY_BASH_NAME": "ショルダーバッシュ",
+        "ROB_HUNK_BODY_UTILITY_BASH_DESCRIPTION": "肩で<style=cIsUtility>打撃</style>、<style=cIsUtility>スタン</style>で<style=cIsDamage>400%ダメージ</style>。攻撃を<style=cIsUtility>キャンセル</style>するために予防的に使用すると、<style=cIsDamage>パーフェクトディフレクション</style>を実行。",
+        "ROB_HUNK_BODY_SPECIAL_SWAP_NAME": "レギオン",
+        "ROB_HUNK_BODY_SPECIAL_SWAP_DESCRIPTION": "<style=cIsDamage>別の武器</style>に<style=cIsUtility>切り替え</style>。タップで<style=cIsUtility>最後に使用した武器</style>に切り替え。",
+        "ROB_HUNK_BODY_SPECIAL_MAYHEM_NAME": "カオスモード",
+        "ROB_HUNK_BODY_SPECIAL_MAYHEM_DESCRIPTION": "<style=cIsDamage>カオスモード</style>に入り、武器の性能を劇的に向上させる。",
+        "ROB_HUNK_BODY_CONFIRM_NAME": "確認",
+        "ROB_HUNK_BODY_CONFIRM_DESCRIPTION": "現在のアビリティを進める。",
+        "ROB_HUNK_BODY_CANCEL_NAME": "キャンセル",
+        "ROB_HUNK_BODY_CANCEL_DESCRIPTION": "現在のアビリティをキャンセル。",
+        "ROB_HUNK_BODY_KNIFE_DEFAULT_NAME": "コンバットナイフ",
+        "ROB_HUNK_BODY_KNIFE_DEFAULT_DESCRIPTION": "標準的な軍用ナイフ。窮地で確かに役立つ。",
+        "ROB_HUNK_BODY_KNIFE_INFINITE_NAME": "コンバットナイフ EX",
+        "ROB_HUNK_BODY_KNIFE_INFINITE_DESCRIPTION": "信じられないほど硬化された特別処理の軍用ナイフ。本当に長持ちするように作られていると言われている。",
+        "ROB_HUNK_BODY_KNIFE_HIDDEN_NAME": "隠し刃",
+        "ROB_HUNK_BODY_KNIFE_HIDDEN_DESCRIPTION": "袖に隠した目立たない格納式ブレード。ステルス作戦に最適。",
+        "ROB_HUNK_BODY_KNIFE_WESKER_NAME": "カスタムナイフ",
+        "ROB_HUNK_BODY_KNIFE_WESKER_DESCRIPTION": "敵を引き裂くための鋸歯状の刃を持つ残忍な刃。",
+        "ROB_HUNK_BODY_KNIFE_MACHETE_NAME": "マチェーテ",
+        "ROB_HUNK_BODY_KNIFE_MACHETE_DESCRIPTION": "主にゲリラ戦術を目的とした巨大な刃。",
+        "ROB_HUNK_BODY_KNIFE_RE4_NAME": "プライマリーナイフ",
+        "ROB_HUNK_BODY_KNIFE_RE4_DESCRIPTION": "無限の可能性を秘めて鍛造されたナイフ。",
+        "ROB_HUNK_BODY_KNIFE_BLOODY_NAME": "血まみれの刃",
+        "ROB_HUNK_BODY_KNIFE_BLOODY_DESCRIPTION": "すでに多くの敵を引き裂いた鋸歯状の刃を持つ血に染まった刃。",
+        "ROB_HUNK_BODY_KNIFE_HOTDOGGER_NAME": "HOT DOGGER",
+        "ROB_HUNK_BODY_KNIFE_HOTDOGGER_DESCRIPTION": "名前が示すように、Umbrellaによって開発されたこの対バイオ武器用ナイフは、目立ちたがり屋によって使用される。",
+        "ROB_HUNK_BODY_KNIFE_STUNROD_NAME": "スタンロッド",
+        "ROB_HUNK_BODY_KNIFE_STUNROD_DESCRIPTION": "警告:実際にはスタンしません。",
+        "ROB_HUNK_BODY_KNIFE_KITCHEN_NAME": "包丁",
+        "ROB_HUNK_BODY_KNIFE_KITCHEN_DESCRIPTION": "調理用に作られたナイフ。刃が欠けやすい。",
+        "ROB_HUNK_BODY_SHOOT_SMG_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_SMG_DESCRIPTION": "発射して<style=cIsDamage>110%ダメージ</style>。<style=cIsUtility>25%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_M19_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_M19_DESCRIPTION": "発射して<style=cIsDamage>500%ダメージ</style>。<style=cIsUtility>100%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_SG09_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_SG09_DESCRIPTION": "発射して<style=cIsDamage>500%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_BROOMHC_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_BROOMHC_DESCRIPTION": "発射して<style=cIsDamage>180%ダメージ</style>。<style=cIsUtility>25%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_MAGNUM_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_MAGNUM_DESCRIPTION": "発射して<style=cIsDamage>1,200%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_GOLDGUN_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_GOLDGUN_DESCRIPTION": "発射して<style=cIsDamage>99,999%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_MUP_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_MUP_DESCRIPTION": "発射して<style=cIsDamage>320%ダメージ</style>。<style=cIsUtility>25%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_REVOLVER_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_REVOLVER_DESCRIPTION": "発射して<style=cIsDamage>1,200%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_COLT_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_COLT_DESCRIPTION": "発射して<style=cIsDamage>2,000%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_SPARKSHOT_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_SPARKSHOT_DESCRIPTION": "帯電した針を発射し<style=cIsDamage>1,000%ダメージ</style>。<style=cIsUtility>最大3体の敵に<style=cIsDamage>2,000%ダメージ</style>で跳ね返る。</style>",
+        "ROB_HUNK_BODY_SHOOT_BLUEROSE_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_BLUEROSE_DESCRIPTION": "発射して<style=cIsDamage>2x3,800%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_SHOTGUN_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_SHOTGUN_DESCRIPTION": "発射して<style=cIsDamage>14x150%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_M3_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_M3_DESCRIPTION": "発射して<style=cIsDamage>10x130%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_SSG_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_SSG_DESCRIPTION": "発射して<style=cIsDamage>16x200%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_STREETSWEEPER_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_STREETSWEEPER_DESCRIPTION": "発射して<style=cIsDamage>14x24%ダメージ</style>。<style=cIsUtility>25%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_SLUGGER_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_SLUGGER_DESCRIPTION": "発射して<style=cIsDamage>3,000%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_AR_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_AR_DESCRIPTION": "発射して<style=cIsDamage>385%ダメージ</style>。<style=cIsUtility>50%ヘッドショットボーナス。</style>",
+        "ROB_HUNK_BODY_SHOOT_MINIGUN_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_MINIGUN_DESCRIPTION": "発射して<style=cIsDamage>2x250%ダメージ</style>。<style=cIsUtility>ダメージは攻撃速度に応じて上昇。</style>",
+        "ROB_HUNK_BODY_SHOOT_ATM_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_ATM_DESCRIPTION": "発射して<style=cIsDamage>8,000%ダメージ</style>。<style=cIsUtility>直撃時に追加ダメージ。</style>",
+        "ROB_HUNK_BODY_SHOOT_ATM2_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_ATM2_DESCRIPTION": "発射して<style=cIsDamage>8,000%ダメージ</style>。<style=cIsUtility>直撃時に追加ダメージ。</style>",
+        "ROB_HUNK_BODY_SHOOT_RPG_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_RPG_DESCRIPTION": "発射して<style=cIsDamage>8,000%ダメージ</style>。<style=cIsUtility>直撃時に追加ダメージ。</style>",
+        "ROB_HUNK_BODY_SHOOT_ROCKETLAUNCHER_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_ROCKETLAUNCHER_DESCRIPTION": "発射して<style=cIsDamage>12,000%ダメージ</style>。<style=cIsDamage>焼夷弾。</style>",
+        "ROB_HUNK_BODY_SHOOT_GRENADELAUNCHER_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_GRENADELAUNCHER_DESCRIPTION": "発射して<style=cIsDamage>3,200%ダメージ</style>。<style=cIsDamage>焼夷弾。</style>",
+        "ROB_HUNK_BODY_SHOOT_MGL_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_MGL_DESCRIPTION": "発射して<style=cIsDamage>2,400%ダメージ</style>。",
+        "ROB_HUNK_BODY_SHOOT_RAILGUN_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_RAILGUN_DESCRIPTION": "発射して<style=cIsDamage>20,000%ダメージ</style>。",
+        "ROB_HUNK_BODY_SHOOT_FLAMETHROWER_NAME": "発射",
+        "ROB_HUNK_BODY_SHOOT_FLAMETHROWER_DESCRIPTION": "火炎のジェットを発射し<style=cIsDamage>大量ダメージ</style>。<style=cIsUtility>着火。</style>",
+        "ROB_HUNK_BODY_SHOOT_SCANNER_NAME": "スキャン",
+        "ROB_HUNK_BODY_SHOOT_SCANNER_DESCRIPTION": "<style=cIsUtility>未開封の武器ケース</style>をスキャン。",
+        "ROB_HUNK_BODY_SHOOT_HOOKSHOT_NAME": "フックショット",
+        "ROB_HUNK_BODY_SHOOT_HOOKSHOT_DESCRIPTION": "<style=cIsUtility>遠くの地点</style>にフックを発射し、<style=cIsUtility>そこに引き寄せられる</style>。<style=cIsDamage>着地後に反撃可能。</style>",
+        "ROB_HUNK_KEYWORD_MANGLED": "四肢切断",
+        "ROB_HUNK_KEYWORD_COUNTER": "カウンターアタック",
+        "ROB_HUNK_KEYWORD_PERFECTDODGE": "パーフェクトドッジ",
+        "ROB_HUNK_KEYWORD_PERFECTBASH": "パーフェクトディフレクション",
+        "ROB_HUNK_KEYWORD_PERFECTPARRY": "パーフェクトパリィ",
+        "ROB_HUNK_KEYWORD_CVIRUS": "C-ウイルス",
+        "ROB_HUNK_KEYWORD_GVIRUS": "G-ウイルス",
+        "ROB_HUNK_KEYWORD_TVIRUS": "T-ウイルス",
+        "ROB_HUNK_KEYWORD_VIRUS": "ウイルス",
+        "ROB_HUNK_KEYWORD_LOOTING": "漁り",
+        "ROB_HUNK_JETPACK_NAME": "実験的ジャンプパック",
+        "ROB_HUNK_JETPACK_DESC": "空中でジャンプを押すことで任意の方向に推進できるUmbrella製のツール。",
+        "ROB_HUNK_SURVIVALKIT_NAME": "緊急サバイバルキット",
+        "ROB_HUNK_SURVIVALKIT_DESC": "弾薬を漁る能力とナイフの効果の両方を高めるサバイバルキット。",
+        "ROB_HUNK_TRANSCEIVER_NAME": "摩耗したトランシーバー",
+        "ROB_HUNK_TRANSCEIVER_DESC": "作戦を補助するための分隊員を呼び出す。",
+        "ROB_HUNK_INFROCKET_NAME": "ATM-4",
+        "ROB_HUNK_INFROCKET_DESC": "<style=cIsHealing>無限弾薬</style>のロケットランチャー。<color=#FFFF00>Early Supporter</color>実績の報酬。",
+        "ROB_HUNK_TYPEWRITER_NAME": "タイプライター",
+        "ROB_HUNK_TYPEWRITER_DESC": "ステージごとに<style=cIsUtility>2</style>つの追加<color=#C80202>アンブレラ武器ケース</color>を付与。",
+        "ROB_HUNK_CRYSTALSKULL_NAME": "クリスタルスカル",
+        "ROB_HUNK_CRYSTALSKULL_DESC": "珍しい宝物。任意の<style=cIsUtility>大釜</style>でアイテムと交換可能。",
+        "ROB_HUNK_WRISTBAND_NAME": "識別リストバンド",
+        "ROB_HUNK_WRISTBAND_DESC": "<color=#C80202>Umbrella Corporation</color>施設で使用する電子キー。<style=cIsUtility>特別な武器ケース</style>を開けるために使用。",
+        "ROB_HUNK_SPADE_KEYCARD_NAME": "U.C.キーカード(スペード)",
+        "ROB_HUNK_CLUB_KEYCARD_NAME": "U.C.キーカード(クラブ)",
+        "ROB_HUNK_HEART_KEYCARD_NAME": "U.C.キーカード(ハート)",
+        "ROB_HUNK_DIAMOND_KEYCARD_NAME": "U.C.キーカード(ダイヤ)",
+        "ROB_HUNK_GOLD_KEYCARD_NAME": "U.C.キーカード(スター)",
+        "ROB_HUNK_MASTER_KEYCARD_NAME": "U.C.キーカード(マスター)",
+        "ROB_HUNK_KEYCARD_DESC": "<style=cIsUtility>Umbrella Corporation</style>の<color=#C80202>武器ケース</color>を開けるために使用。",
+        "ROB_HUNK_KEYCARD_MASTER_DESC": "<style=cIsUtility>Umbrella Corporation</style>の<color=#C80202>武器ケース</color>を開けるために使用。<style=cIsHealing>全てのケース</style>を開け、他のキーカードを<style=cIsUtility>スクラップ</style>に変える。",
+        "ROB_HUNK_STARSBADGE_NAME": "S.T.A.R.S.バッジ",
+        "ROB_HUNK_STARSBADGE_DESC": "R.P.D.の特殊部隊<color=#F20443>S.T.A.R.S.</color>の特別なバッジ。<style=cIsHealth>これを拾うのは悪いアイデアだったかも?</style>",
+        "ROB_HUNK_STARSBADGE_DESCFULL": "各ステージで、このバッジでのみ開けられる特別な<color=#F20443>S.T.A.R.S.</color>ケースが出現。ただし、<style=cIsHealth>Nemesis T-Type</style>が容赦なく追跡する。",
+        "ROB_HUNK_STARSBADGE2_NAME": "USBドングルキー",
+        "ROB_HUNK_STARSBADGE2_DESC": "各ステージの<style=cIsUtility>特別なチェスト</style>にアクセスするために使用。",
+        "ROB_HUNK_STARSBADGE2_DESCFULL": "各ステージで、このバッジでのみ開けられる特別な<color=#F20443>S.T.A.R.S.</color>ケースが出現。ただし、<style=cIsHealth>Nemesis T-Type</style>が容赦なく追跡する。",
+        "ROB_HUNK_HEARTCHEST_NAME": "ハートチェスト",
+        "ROB_HUNK_NEMICASE_NAME": "ネミケース",
+        "ROB_HUNK_NEMICASE_DESC": "謎のケース。",
+        "ROB_HUNK_AMMO_NAME": "弾薬",
+        "ROB_HUNK_AMMOITEM_NAME": "弾薬",
+        "ROB_HUNK_CHEST_NAME": "チェスト",
+        "ROB_HUNK_TERMINAL_NAME": "端末",
+        "ROB_HUNK_GRENADE_NAME": "グレネード",
+        "ROB_HUNK_C4_NAME": "C4",
+        "ROB_HUNK_SUPPLYPACK_NAME": "補給品",
+        "ROB_HUNK_T_VIRUS_NAME": "T-ウイルス",
+        "ROB_HUNK_T_VIRUS_DESC": "T-ウイルスのサンプル。",
+        "ROB_HUNK_G_VIRUS_NAME": "G-ウイルス",
+        "ROB_HUNK_G_VIRUS_DESC": "G-ウイルスのサンプル。",
+        "ROB_HUNK_G_VIRUS2_NAME": "G-ウイルス 2",
+        "ROB_HUNK_C_VIRUS_NAME": "C-ウイルス",
+        "ROB_HUNK_C_VIRUS_DESC": "C-ウイルスのサンプル。",
+        "ROB_HUNK_G_VIRUSFINAL_NAME": "最終G-ウイルス",
+        "ROB_HUNK_PLAGAS_NAME": "プラーガ",
+        "ROB_HUNK_PLAGAS_DESC": "プラーガのサンプル。",
+        "ROB_HUNK_URO_SAMPLE_NAME": "Uroborosサンプル",
+        "ROB_HUNK_URO_SAMPLE_DESC": "Uroborosのサンプル。",
+        "ROB_HUNK_G_VIRUS_SAMPLE_NAME": "G-ウイルスサンプル",
+        "ROB_HUNK_G_VIRUS_SAMPLE_DESC": "G-ウイルスのサンプル。",
+        "ROB_HUNK_T_VIRUS_SAMPLE_NAME": "T-ウイルスサンプル",
+        "ROB_HUNK_T_VIRUS_SAMPLE_DESC": "T-ウイルスのサンプル。",
+        "ROB_HUNK_C_VIRUS_SAMPLE_NAME": "C-ウイルスサンプル",
+        "ROB_HUNK_C_VIRUS_SAMPLE_DESC": "C-ウイルスのサンプル。",
+        "ROB_HUNK_PLAGAS_SAMPLE_NAME": "プラーガサンプル",
+        "ROB_HUNK_PLAGAS_SAMPLE_DESC": "プラーガのサンプル。",
+        "ROB_HUNK_ITEM_EFFECT_TITLE": "ボーナス効果",
+        "ROB_HUNK_ITEM_EFFECT_BACKUPMAG": "リロード成功後に<color=#00FF66>擬似弾薬</color>を獲得。",
+        "ROB_HUNK_ITEM_EFFECT_BANDOLIER": "弾薬パックが<color=#00FF66>擬似弾薬</color>でマガジンをリロード。",
+        "ROB_HUNK_ITEM_EFFECT_ALIENHEAD": "弾薬を拾う際に<style=cIsUtility>より多くの弾薬</style>を獲得。",
+        "ROB_HUNK_ITEM_EFFECT_BRAINSTALKS": "効果中、武器の発射が<style=cIsUtility>弾薬を消費しない</style>。",
+        "ROB_HUNK_ITEM_EFFECT_LYSATECELL": "武器を装備する際に<color=#00FF66>擬似弾薬</color>を獲得。",
+        "ROB_HUNK_ITEM_EFFECT_PURITY": "<style=cIsUtility>マガジン容量</style>が2倍になる。弾薬消費は変わらない。",
+        "ROB_HUNK_ITEM_EFFECT_LUMINOUSSHOT": "<style=cIsUtility>1秒</style>間狙うとスタックを獲得。<style=cIsHealth>発射または狙いを止めると全てのスタックを失う。</style>",
+        "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Reaper",
+        "ACHIEVEMENT_ROB_HUNK_COMPLETION_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, beat the game or obliterate.",
+        "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Mastery",
+        "ACHIEVEMENT_ROB_HUNK_MONSOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Grand Mastery",
+        "ACHIEVEMENT_ROB_HUNK_TYPHOON_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any Typhoon difficulty or higher)</color>",
+        "ACHIEVEMENT_ROB_HUNK_SUPPORTER_ACHIEVEMENT_ID_NAME": "HUNK: Early Supporter",
+        "ACHIEVEMENT_ROB_HUNK_SUPPORTER_ACHIEVEMENT_ID_DESCRIPTION": "Play as HUNK before the official release.",
+        "ACHIEVEMENT_ROB_HUNK_LIGHTWEIGHT_ACHIEVEMENT_ID_NAME": "HUNK: Minimalist",
+        "ACHIEVEMENT_ROB_HUNK_LIGHTWEIGHT_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, complete Stage 1 without items.\n<color=#8888>(Weapons and tools do not count against you)</color>",
+        "ACHIEVEMENT_ROB_HUNK_GUERRILLA_ACHIEVEMENT_ID_NAME": "HUNK: Locked and Loaded",
+        "ACHIEVEMENT_ROB_HUNK_GUERRILLA_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, obtain a full arsenal.",
+        "ACHIEVEMENT_ROB_HUNK_ROOKIE_ACHIEVEMENT_ID_NAME": "HUNK: First Day on the Job",
+        "ACHIEVEMENT_ROB_HUNK_ROOKIE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, obtain a new weapon.",
+        "ACHIEVEMENT_ROB_HUNK_SWAT_ACHIEVEMENT_ID_NAME": "HUNK: Peacekeeper",
+        "ACHIEVEMENT_ROB_HUNK_SWAT_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, fully upgrade the MUP.",
+        "ACHIEVEMENT_ROB_HUNK_CQC_ACHIEVEMENT_ID_NAME": "HUNK: CQC (Close Quarters Combat)",
+        "ACHIEVEMENT_ROB_HUNK_CQC_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, perform 10 successful counterattacks in one Stage.",
+        "ACHIEVEMENT_ROB_HUNK_INFINITEKNIFE_ACHIEVEMENT_ID_NAME": "HUNK: Ace of Spades",
+        "ACHIEVEMENT_ROB_HUNK_INFINITEKNIFE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, carry two Spades Keycards at the same time.",
+        "ACHIEVEMENT_ROB_HUNK_WESKERKNIFE_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Firearm Enthusiast",
+        "ACHIEVEMENT_ROB_HUNK_WESKERKNIFE_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, upgrade a weapon with a new accessory.",
+        "ACHIEVEMENT_ROB_HUNK_MACHETE_UNLOCKABLE_ACHIEVEMENT_ID_NAME": "HUNK: Don't Need No Gun",
+        "ACHIEVEMENT_ROB_HUNK_MACHETE_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, complete a Stage without firing any weapon.",
+        "ACHIEVEMENT_ROB_HUNK_RE4KNIFE_ACHIEVEMENT_ID_NAME": "HUNK: The Road Ahead",
+        "ACHIEVEMENT_ROB_HUNK_RE4KNIFE_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, reach Stage 6.",
+        "ACHIEVEMENT_ROB_HUNK_HOTDOGGER_ACHIEVEMENT_ID_NAME": "HUNK: Basic Chemistry",
+        "ACHIEVEMENT_ROB_HUNK_HOTDOGGER_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, obtain the Chemical Flamethrower.",
+        "ACHIEVEMENT_ROB_HUNK_STUNROD_ACHIEVEMENT_ID_NAME": "HUNK: Three-for-One Offer",
+        "ACHIEVEMENT_ROB_HUNK_STUNROD_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, obtain the Spark Shot.",
+        "ACHIEVEMENT_ROB_HUNK_SSG_ACHIEVEMENT_ID_NAME": "HUNK: Dominator",
+        "ACHIEVEMENT_ROB_HUNK_SSG_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, obtain the SSG.",
+        "ACHIEVEMENT_ROB_HUNK_FLAMER_ACHIEVEMENT_ID_NAME": "HUNK: Pyromaniac",
+        "ACHIEVEMENT_ROB_HUNK_FLAMER_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, fully upgrade the Chemical Flamethrower.",
+        "ACHIEVEMENT_ROB_HUNK_SURVIVALKIT_ACHIEVEMENT_ID_NAME": "HUNK: No Luck At All",
+        "ACHIEVEMENT_ROB_HUNK_SURVIVALKIT_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, run out of ammo on Commencement.",
+        "ACHIEVEMENT_ROB_HUNK_JUMPPACK_ACHIEVEMENT_ID_NAME": "HUNK: Nowhere to Go But Up",
+        "ACHIEVEMENT_ROB_HUNK_JUMPPACK_ACHIEVEMENT_ID_DESCRIPTION": "As HUNK, become a victim of a parachuting accident.",
+        "ROB_NEMESIS_BODY_NAME": "Nemesis T-Type",
+        "ROB_NEMESIS_BODY_DESCRIPTION": "Nemesis T-Typeは、いかなる攻撃にも耐え、標的を容易に無力化するために作られた停止不可能な生物兵器です。<color=#CCD3E0>Original mod by rob</i>",
+        "ROB_NEMESIS_BODY_SUBTITLE": "停止不可能な生物兵器",
+        "ROB_NEMESIS_BODY_OUTRO_FLAVOR": "..そして彼は去り、全てうまくいった。",
+        "ROB_NEMESIS_BODY_OUTRO_FAILURE": "..そして彼は消え、人間ユニットは無力化された。",
+        "ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "ROB_NEMESIS_BODY_CLASSIC_SKIN_NAME": "クラシック",
+        "ROB_NEMESIS_BODY_VENOM_SKIN_NAME": "シンビオート",
+        "ROB_NEMESIS_BODY_SUPER_SKIN_NAME": "<color=#FFFF00>Early Supporter</color>",
+        "ROB_NEMESIS_BODY_MAHORAGA_SKIN_NAME": "Big Raga The Opp Stoppa",
+        "ROB_NEMESIS_BODY_MINOS_SKIN_NAME": "King of Men",
+        "ROB_NEMESIS_BODY_PASSIVE_NAME": "至高の生命体",
+        "ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION": "<style=cIsDamage>ダメージを与える</style>と<style=cIsHealth>バイオマス</style>が貯まり、満タン時に<style=cIsDamage>ダメージ</style>が増加。ジャンプを<style=cIsDamage>チャージ</style>して<style=cIsUtility>強力な跳躍</style>が可能。",
+        "ROB_NEMESIS_BODY_PASSIVE2_NAME": "生物兵器",
+        "ROB_NEMESIS_BODY_PASSIVE2_DESCRIPTION": "Nemesis T-Typeは<style=cIsDamage>関心人物</style>を消費することで<style=cIsHealth>突然変異</style>し、<style=cIsDamage>新しく強化されたアビリティ</style>を獲得できる。",
+        "ROB_NEMESIS_BODY_PASSIVE22_NAME": "筋肉量増加",
+        "ROB_NEMESIS_BODY_PASSIVE22_DESCRIPTION": "<style=cIsUtility>近接攻撃</style>が<style=cIsDamage>20%</style>追加ダメージを与えるが、<style=isHealth>味方もダメージを受ける可能性がある</style>。",
+        "ROB_NEMESIS_BODY_MELEE_NAME": "残忍な攻撃",
+        "ROB_NEMESIS_BODY_MELEE_DESCRIPTION": "パンチで<style=cIsDamage>350%ダメージ</style>。<style=cIsUtility>停止中</style>に使用で踏みつけ<style=cIsDamage>800%ダメージ</style>。<style=cIsUtility>走行中</style>に使用でショルダーバッシュ<style=cIsDamage>600%ダメージ</style>。",
+        "ROB_NEMESIS_BODY_GRAB_NAME": "致命的なリーチ",
+        "ROB_NEMESIS_BODY_GRAB_DESCRIPTION": "敵を掴む。プライマリーで消費し最大HPの10%を回復、またはセカンダリーで最大2,400%ダメージの投げをチャージ。",
+        "ROB_NEMESIS_BODY_DASH_NAME": "バイオハザードダッシュ",
+        "ROB_NEMESIS_BODY_DASH_DESCRIPTION": "<style=cIsUtility>空中</style>で使用すると<style=cIsDamage>1回</style>空中ダッシュ。",
+        "ROB_NEMESIS_BODY_ULTIMATE_NAME": "クリティカルマス",
+        "ROB_NEMESIS_BODY_ULTIMATE_DESCRIPTION": "長押しで<style=cIsHealth>バイオマス</style>をゆっくり消費し、最大<style=cIsHealing>100%のHP</style>を回復。",
+        "ROB_NEMESIS_ITEM_EFFECT_TITLE": "ボーナス効果",
+        "ROB_NEMESIS_ITEM_EFFECT_BANDOLIER": "弾薬パックが<style=cIsHealth>10%のバイオマス</style>を回復。",
+        "ROB_NEMESIS_ITEM_EFFECT_ALIENHEAD": "<style=cIsDamage>消費</style>した敵から得る<style=cIsHealth>バイオマス</style>が増加。",
+        "ROB_NEMESIS_ITEM_EFFECT_BRAINSTALKS": "効果中、<style=cIsHealth>バイオマス</style>が<style=cIsUtility>無限</style>になる。",
+        "ROB_NEMESIS_ITEM_EFFECT_PURITY": "<style=cIsDamage>命中時</style>に得る<style=cIsHealth>バイオマス</style>が増加。",
+        "ROB_ARTIFACT_PURSUER_NAME": "追跡者の神器",
+        "ROB_ARTIFACT_PURSUER_DESC": "プレイヤーはS.T.A.R.S.バッジを持ってランを開始する。",
+        "ROB_ARTIFACT_CONTAMINATION_NAME": "汚染の神器",
+        "ROB_ARTIFACT_CONTAMINATION_DESC": "各プレイヤーはステージごとにランダムなウイルスイベントを受ける。",
+        "ROB_ARTIFACT_STRIKETEAM_NAME": "攻撃部隊の神器",
+        "ROB_ARTIFACT_STRIKETEAM_DESC": "プレイヤーは時折、排除のために送られる攻撃部隊に遭遇する。",
+        "ROB_HUNK_GHOST_UNLOCKABLE_NAME": "",
+        "ROB_HUNK_GHOST_ACHIEVEMENT_NAME": "HUNK: The Forgotten Soldier",
+        "ROB_HUNK_GHOST_ACHIEVEMENT_DESC": "",
+        "ROB_HUNK_CONTAMINATION_UNLOCKABLE_NAME": "Zero Zone",
+        "ROB_HUNK_CONTAMINATION_ACHIEVEMENT_NAME": "Zero Zone",
+        "ROB_HUNK_CONTAMINATION_ACHIEVEMENT_DESC": "Deliver a virus sample to the Umbrella Corporation.",
+        "ROB_HUNK_PURSUER_UNLOCKABLE_NAME": "Nemesis Felled",
+        "ROB_HUNK_PURSUER_ACHIEVEMENT_NAME": "Nemesis Felled",
+        "ROB_HUNK_PURSUER_ACHIEVEMENT_DESC": "Defeat the Nemesis T-Type.",
+        "ROB_HUNK_NEMESIS_UNLOCKABLE_NAME": "A Dream of Armageddon",
+        "ROB_HUNK_NEMESIS_ACHIEVEMENT_NAME": "A Dream of Armageddon",
+        "ROB_HUNK_NEMESIS_ACHIEVEMENT_DESC": "Kill the Nemesis T-Type.",
+        "ROB_HUNK_PARASITE_BODY_NAME": "G-ヤング",
+        "ROB_HUNK_HELICOPTER_BODY_NAME": "攻撃ヘリコプター"
+    }
+}

@@ -1,19 +1,23 @@
-KENKO_CADET_NAME: Cadet
-KENKO_CADET_SUBTITLE: Versatile Marksman
-KENKO_CADET_MASTERY_SKIN_NAME: Cadet: Specialist
-PRIMARY_SMG_NAME: Submachine Gun
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Agile</style>. Rapid-fire your SMG for <style=cIsDamage>60% damage</style> per shot.
-PRIMARY_SHOTGUN_NAME: Shotgun
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Agile</style>. Fire your shotgun for <style=cIsDamage>100% damage</style>.
-SECONDARY_GRENADE_NAME: Grenade
-SECONDARY_GRENADE_DESCRIPTION: Throw a grenade that deals <style=cIsDamage>400% damage</style>.
-SECONDARY_THROWGUN_NAME: Weapon Throw
-SECONDARY_THROWGUN_DESCRIPTION: Throw your current weapon for <style=cIsDamage>600% damage</style>.
-UTILITY_SLIDE_NAME: Slide
-UTILITY_SLIDE_DESCRIPTION: Slide in a direction, <style=cIsUtility>reloading</style> your weapon instantly.
-UTILITY_ROLLOAD_NAME: Tactical Roll
-UTILITY_ROLLOAD_DESCRIPTION: Roll in a direction, reloading your weapon.
-SPECIAL_ECHO_NAME: Echo
-SPECIAL_ECHO_DESCRIPTION: Fire sonic drones that ricochet between enemies, dealing <style=cIsDamage>350% damage</style> and applying slow.
-SPECIAL_ULTRA_NAME: Ultra
-SPECIAL_ULTRA_DESCRIPTION: Fire a powerful energy blast that deals <style=cIsDamage>600% damage</style>.
+{
+    "en": {
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_SUBTITLE": "Versatile Marksman",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: Specialist",
+        "PRIMARY_SMG_NAME": "Submachine Gun",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Rapid-fire your SMG for <style=cIsDamage>60% damage</style> per shot.",
+        "PRIMARY_SHOTGUN_NAME": "Shotgun",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire your shotgun for <style=cIsDamage>100% damage</style>.",
+        "SECONDARY_GRENADE_NAME": "Grenade",
+        "SECONDARY_GRENADE_DESCRIPTION": "Throw a grenade that deals <style=cIsDamage>400% damage</style>.",
+        "SECONDARY_THROWGUN_NAME": "Weapon Throw",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Throw your current weapon for <style=cIsDamage>600% damage</style>.",
+        "UTILITY_SLIDE_NAME": "Slide",
+        "UTILITY_SLIDE_DESCRIPTION": "Slide in a direction, <style=cIsUtility>reloading</style> your weapon instantly.",
+        "UTILITY_ROLLOAD_NAME": "Tactical Roll",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Roll in a direction, reloading your weapon.",
+        "SPECIAL_ECHO_NAME": "Echo",
+        "SPECIAL_ECHO_DESCRIPTION": "Fire sonic drones that ricochet between enemies, dealing <style=cIsDamage>350% damage</style> and applying slow.",
+        "SPECIAL_ULTRA_NAME": "Ultra",
+        "SPECIAL_ULTRA_DESCRIPTION": "Fire a powerful energy blast that deals <style=cIsDamage>600% damage</style>."
+    }
+}

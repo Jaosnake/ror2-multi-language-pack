@@ -19,7 +19,7 @@
     "SS2_CYBORG2_UTILITY_TELEPORTER_NAME": "Recordar",
     "SS2_CYBORG2_UTILITY_TELEPORTER_DESCRIPTION": "Implemente un punto de deformación <style=cIsUtility></style>. Reutilizar en posiciones <style=cIsUtility>swap</style> con objetivos cercanos.",
     "SS2_CYBORG2_UTILITY_TRAP_NAME": "Reutilizar",
-    "SS2_CYBORG2_UTILITY_TRAP_DESCRIPTION": "Implementa un dispositivo que <style=cIsDamage> captura a los enemigos con poca salud </style>, otorgando a los aliados cercanos <style=cIsUtility> dinero extra </style> y ZXQ4QX poderes zelitas </style>.",
+    "SS2_CYBORG2_UTILITY_TRAP_DESCRIPTION": "Despliega un dispositivo que <style=cIsDamage>captura</style> enemigos con poca salud, otorgando <style=cIsUtility>dinero extra</style> y <style=cIsDamage>poderes de elite</style> a los aliados cercanos.",
     "SS2_CYBORG2_UTILITY_TELEPORT_NAME": "Teletransportarse",
     "SS2_CYBORG2_UTILITY_TELEPORT_DESCRIPTION": "<style=cIsUtility>Teletransporte</style> a su punto de deformación <style=cIsUtility></style>.",
     "SS2_CYBORG2_SPECIAL_MAGNETBALL_NAME": "Reparación de sobrecalentamiento",

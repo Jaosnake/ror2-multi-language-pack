@@ -1,18 +1,22 @@
-BASTIAN_NAME: Bastian
-BASTIAN_SUBTITLE: Robot Traductor Reacondicionado
-BASTIAN_DESCRIPTION: Un robot local, construido para ayudar a negociar acuerdos con cuerpos planetarios extranjeros. Su propÃ³sito original era funcionar como intermediario, diseÃ±ado para sobrevivir en planetas con aire y temperaturas que un humano normal no podrÃ­a soportar. Fue traÃ­do a bordo de la UES Contact Light como parte de un plan de contingencia. Sin embargo, terminÃ³ siendo reprogramado para el combate, a pesar de ser una simple misiÃ³n de recoger y llevar.
-BASTIAN_NAME_EPIC: Bastian el Traductor, Modelo 4.I.N.K.
-BASTIAN_ROO_DESCRIPTION: Bastian el Traductor, Modelo 4.I.N.K.
-BASTIAN_OUTRO: ..y asÃ­ partiÃ³, su funciÃ³n finalmente cumplida.
-BASTIAN_FAIL: ..y asÃ­ fue desactivado, su memoria borrada para siempre.
-BASTIAN_M1: Ion Swing
-BASTIAN_M1_DESCRIPTION: <style=cIsDamage>Cuerpo a cuerpo</style>. <style=cIsUtility>Ãgil</style>. Golpea enemigos adelante para <style=cIsDamage>250% de daÃ±o</style>. Acumula <style=cIsUtility>Cargas IÃ³nicas</style>. El daÃ±o se reduce a la mitad mientras estÃ¡s Evasivo.
-BASTIAN_M2: Micro-Bala
-BASTIAN_M2_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispara hasta 5 balas de energÃ­a, cada una causando <style=cIsDamage>250% de daÃ±o</style>. Acumula <style=cIsUtility>Cargas IÃ³nicas</style>. No aplica aturdimiento mientras estÃ¡s Evasivo.
-BASTIAN_UTIL: Nano-Resorte
-BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>Ejecuta</style> un dash rÃ¡pido en cualquier direcciÃ³n. Acumula <style=cIsUtility>Cargas IÃ³nicas</style>.
-BASTIAN_SPEC: ExplosiÃ³n del Arquitecto
-BASTIAN_SPEC_DESCRIPTION: Gasta <style=cIsHealth>33% de vida actual</style> y <style=cIsUtility>todas las Cargas IÃ³nicas</style> para una explosiÃ³n masiva de <style=cIsDamage>500%-3.000% de daÃ±o</style>. Tras usarlo, te vuelves <color=#E9AFEA>Evasivo</color> por 10 segundos.
-BASTIAN_SPEC_KEYWORD: Especial
-BASTIANBODY_DEFAULT_SKIN_NAME: Predeterminado
-BASTIANBODY_MASTERY_SKIN_NAME: MaestrÃ­a
+{
+    "es-419": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Robot Traductor Reacondicionado",
+        "BASTIAN_DESCRIPTION": "Un robot local, construido para ayudar a negociar acuerdos con cuerpos planetarios extranjeros. Su propósito original era funcionar como intermediario, diseñado para sobrevivir en planetas con aire y temperaturas que un humano normal no podría soportar. Fue traído a bordo de la UES Contact Light como parte de un plan de contingencia. Sin embargo, terminó siendo reprogramado para el combate, a pesar de ser una simple misión de recoger y llevar.",
+        "BASTIAN_NAME_EPIC": "Bastian el Traductor, Modelo 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian el Traductor, Modelo 4.I.N.K.",
+        "BASTIAN_OUTRO": "..y así partió, su función finalmente cumplida.",
+        "BASTIAN_FAIL": "..y así fue desactivado, su memoria borrada para siempre.",
+        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Cuerpo a cuerpo</style>. <style=cIsUtility>Ágil</style>. Golpea enemigos adelante para <style=cIsDamage>250% de daño</style>. Acumula <style=cIsUtility>Cargas Iónicas</style>. El daño se reduce a la mitad mientras estás Evasivo.",
+        "BASTIAN_M2": "Micro-Bala",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara hasta 5 balas de energía, cada una causando <style=cIsDamage>250% de daño</style>. Acumula <style=cIsUtility>Cargas Iónicas</style>. No aplica aturdimiento mientras estás Evasivo.",
+        "BASTIAN_UTIL": "Nano-Resorte",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ejecuta</style> un dash rápido en cualquier dirección. Acumula <style=cIsUtility>Cargas Iónicas</style>.",
+        "BASTIAN_SPEC": "Explosión del Arquitecto",
+        "BASTIAN_SPEC_DESCRIPTION": "Gasta <style=cIsHealth>33% de vida actual</style> y <style=cIsUtility>todas las Cargas Iónicas</style> para una explosión masiva de <style=cIsDamage>500%-3.000% de daño</style>. Tras usarlo, te vuelves <color=#E9AFEA>Evasivo</color> por 10 segundos.",
+        "BASTIAN_SPEC_KEYWORD": "Especial",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Maestría"
+    }
+}

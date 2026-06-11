@@ -1,6 +1,6 @@
-{ "zh-CN":
-    {
-    "EXPANSION_CLOUDBURST_NAME" : "äº‘çˆ†",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "æ·»åŠ æ¨¡ç»„â€œäº‘çˆ†â€ä¸­çš„å†…å®¹è‡³æ¸¸æˆä¸­ã€‚",
+{
+    "zh-CN": {
+        "EXPANSION_CLOUDBURST_NAME": "云爆",
+        "EXPANSION_CLOUDBURST_DESCRIPTION": "添加模组\"云爆\"中的内容至游戏中。"
     }
 }

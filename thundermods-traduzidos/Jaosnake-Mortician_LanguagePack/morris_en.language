@@ -1,27 +1,25 @@
-BOG_MORRIS_BODY_NAME: Mortician
-BOG_MORRIS_BODY_SUBTITLE: Undead
-BOG_MORRIS_BODY_DESCRIPTION: The Mortician is a slow but sturdy melee necromancer who excels at controlling territory with his army of the undead.
-
-BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: Default
-BOG_MORRIS_BODY_OUTRO_FLAVOR: ..and so he left, his grim duty still unfulfilled.
-BOG_MORRIS_BODY_OUTRO_FAILURE: ..and so he vanished, finally granted the peace he so desired.
-BOG_MORRIS_BODY_PASSIVE_NAME: Soul Offering
-BOG_MORRIS_BODY_PASSIVE_DESCRIPTION: Ghouls <style=cIsUtility>trigger their on-kill effects</style> when they are killed.
-
-PRIMARY_SHOVEL_NAME: Shovel Strike
-PRIMARY_SHOVEL_DESCRIPTION: Swing your shovel for <style=cIsDamage>800% damage</style>. Hitting ghouls and tombstones with your shovel causes <style=cIsUtility>launching</style> for <style=cIsDamage>350% damage</style>.
-
-SECONDARY_GHOUL_NAME: Raise Dead
-SECONDARY_GHOUL_DESCRIPTION: <style=cIsUtility>Spirit Bond</style>. Summon a ghoul on the ground in front of you. Ghouls bite for <style=cIsDamage>150% damage</style> and spit <style=cIsDamage>Pestilent</style> bile for <style=cIsDamage>100% damage</style>.
-
-UTILITY_LANTERN_NAME: Sacrifice
-UTILITY_LANTERN_DESCRIPTION: <style=cIsHealth>Detonate</style> the target ghoul for <style=cIsDamage>700% damage</style> and <style=cIsHealing>heal 15% of your maximum health</style>.
-
-SPECIAL_TOMBSTONE_NAME: Tombstone
-SPECIAL_TOMBSTONE_DESCRIPTION: Erect a Tombstone that spawns a ghoul every <style=cIsUtility>10 seconds</style>. Whenever a ghoul is slain, the tomb spawns a <style=cIsDamage>vengeful soul</style> <style=cIsUtility>explosive</style> that fires at a nearby enemy for <style=cIsDamage>350% damage</style>.
-
-BOG_GHOUL_BODY_NAME: Ghoul
-BOG_TOMBSTONE_BODY_NAME: Tombstone
-BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Mortician: Mastery
-BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Mortician, beat the game or obliterate on Monsoon.
-BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Mortician: Mastery
+{
+    "en": {
+        "BOG_MORRIS_BODY_NAME": "Mortician",
+        "BOG_MORRIS_BODY_SUBTITLE": "Undead",
+        "BOG_MORRIS_BODY_DESCRIPTION": "The Mortician is a slow but sturdy melee necromancer who excels at controlling territory with his army of the undead.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Default",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..and so he left, his grim duty still unfulfilled.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..and so he vanished, finally granted the peace he so desired.",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Soul Offering",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghouls <style=cIsUtility>trigger their on-kill effects</style> when they are killed.",
+        "PRIMARY_SHOVEL_NAME": "Shovel Strike",
+        "PRIMARY_SHOVEL_DESCRIPTION": "Swing your shovel for <style=cIsDamage>800% damage</style>. Hitting ghouls and tombstones with your shovel causes <style=cIsUtility>launching</style> for <style=cIsDamage>350% damage</style>.",
+        "SECONDARY_GHOUL_NAME": "Raise Dead",
+        "SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Spirit Bond</style>. Summon a ghoul on the ground in front of you. Ghouls bite for <style=cIsDamage>150% damage</style> and spit <style=cIsDamage>Pestilent</style> bile for <style=cIsDamage>100% damage</style>.",
+        "UTILITY_LANTERN_NAME": "Sacrifice",
+        "UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Detonate</style> the target ghoul for <style=cIsDamage>700% damage</style> and <style=cIsHealing>heal 15% of your maximum health</style>.",
+        "SPECIAL_TOMBSTONE_NAME": "Tombstone",
+        "SPECIAL_TOMBSTONE_DESCRIPTION": "Erect a Tombstone that spawns a ghoul every <style=cIsUtility>10 seconds</style>. Whenever a ghoul is slain, the tomb spawns a <style=cIsDamage>vengeful soul</style> <style=cIsUtility>explosive</style> that fires at a nearby enemy for <style=cIsDamage>350% damage</style>.",
+        "BOG_GHOUL_BODY_NAME": "Ghoul",
+        "BOG_TOMBSTONE_BODY_NAME": "Tombstone",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery"
+    }
+}

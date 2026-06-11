@@ -1,17 +1,21 @@
-NDP_DANCER_BODY_PASSIVE_NAME: Ð¡Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÑŽÑ‰Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Ð’Ñ€Ð°Ð³Ð¸ Ñ Ð»ÐµÐ½Ñ‚Ð¾Ð¹ Ð¸ÑÑ‚ÐµÐºÐ°ÑŽÑ‚ ÐºÑ€Ð¾Ð²ÑŒÑŽ Ð½Ð° 50% ÑƒÑ€Ð¾Ð½Ð° Ð² ÑÐµÐºÑƒÐ½Ð´Ñƒ Ð¸ Ð½Ðµ Ð¼Ð¾Ð³ÑƒÑ‚ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ.
-PRIMARY_SLASH_NAME: Ð£Ð´Ð°Ñ€
-PRIMARY_SLASH_DESCRIPTION: ÐÑ‚Ð°ÐºÐ° Ð±Ð»Ð¸Ð¶Ð½ÐµÐ³Ð¾ Ð±Ð¾Ñ Ñ ÑÑ„Ñ„ÐµÐºÑ‚Ð°Ð¼Ð¸, Ð·Ð°Ð²Ð¸ÑÑÑ‰Ð¸Ð¼Ð¸ Ð¾Ñ‚ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð¿Ñ€Ð¸Ñ†ÐµÐ»Ð°. (ÐÐ°Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚ÐµÐ¹)
-PRIMARY_SLASH2_NAME: Ð Ð°Ð·Ñ€ÐµÐ·
-PRIMARY_SLASH2_DESCRIPTION: ÐÑ‚Ð°ÐºÐ° Ð±Ð»Ð¸Ð¶Ð½ÐµÐ³Ð¾ Ð±Ð¾Ñ Ñ ÑÑ„Ñ„ÐµÐºÑ‚Ð°Ð¼Ð¸, Ð·Ð°Ð²Ð¸ÑÑÑ‰Ð¸Ð¼Ð¸ Ð¾Ñ‚ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð¿Ñ€Ð¸Ñ†ÐµÐ»Ð°. (ÐÐ°Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚ÐµÐ¹)
-UTILITY_PULL_NAME: ÐŸÑ€Ð¸Ñ‚ÑÐ¶ÐµÐ½Ð¸Ðµ
-UTILITY_PULL_DESCRIPTION: ÐŸÑ€Ð¸Ñ‚ÑÐ½Ð¸Ñ‚Ðµ Ð²Ñ€Ð°Ð³Ð¾Ð² Ðº ÑÐµÐ±Ðµ.
-SPECIAL_RIBBON_LOCK_NAME: Ð¡Ð²ÑÐ·Ñ‹Ð²Ð°ÑŽÑ‰Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°
-SPECIAL_RIBBON_LOCK_DESCRIPTION: ÐÐ°Ð»Ð¾Ð¶Ð¸Ñ‚Ðµ Ð»ÐµÐ½Ñ‚Ñƒ Ð½Ð° Ð²Ñ€Ð°Ð³Ð°, Ð½Ðµ Ð´Ð°Ð²Ð°Ñ ÐµÐ¼Ñƒ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ Ð¸ Ð²Ñ‹Ð·Ñ‹Ð²Ð°Ñ ÐºÑ€Ð¾Ð²Ð¾Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ.
-KEYWORD_DANCER_JAB: <style=cKeywordName>Ð¢Ñ‹Ñ‡Ð¾Ðº</style><style=cSub>ÐÐ° Ð·ÐµÐ¼Ð»Ðµ, Ñ†ÐµÐ»ÑŒÑ‚ÐµÑÑŒ Ð²Ð¿ÐµÑ€ÐµÐ´. Ð Ñ‹Ð²Ð¾Ðº Ð²Ð¿ÐµÑ€ÐµÐ´ Ð¸ <style=cIsDamage>180% ÑƒÑ€Ð¾Ð½Ð°</style>.
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>ÐÐ° Ð·ÐµÐ¼Ð»Ðµ, Ñ†ÐµÐ»ÑŒÑ‚ÐµÑÑŒ Ð²Ð½Ð¸Ð·. ÐŸÐ¾Ð´Ð±Ñ€Ð¾ÑÑŒÑ‚Ðµ Ð²Ñ€Ð°Ð³Ð¾Ð² Ð²Ð²ÐµÑ€Ñ…, Ð½Ð°Ð½Ð¾ÑÑ <style=cIsDamage>200% ÑƒÑ€Ð¾Ð½Ð°</style>.
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>Ð’ Ð²Ð¾Ð·Ð´ÑƒÑ…Ðµ, Ñ†ÐµÐ»ÑŒÑ‚ÐµÑÑŒ Ð²Ð¿ÐµÑ€ÐµÐ´. Ð¢ÑÐ¶ÐµÐ»Ñ‹Ð¹ ÑƒÐ´Ð°Ñ€, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¹ <style=cIsDamage>180% ÑƒÑ€Ð¾Ð½Ð°</style>, Ð¿Ñ€Ð¸Ð³Ð²Ð¾Ð¶Ð´Ð°ÑŽÑ‰Ð¸Ð¹ Ð²Ñ€Ð°Ð³Ð¾Ð² Ðº Ð·ÐµÐ¼Ð»Ðµ, Ð¾Ð³Ð»ÑƒÑˆÐ°Ñ Ð¸ Ð½Ð°Ð½Ð¾ÑÑ Ð´Ð¾ <style=cIsDamage>300% ÑƒÑ€Ð¾Ð½Ð°</style>.
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>Ð›ÐµÐ½Ñ‚Ð°</style><style=cSub>Ð’Ñ€Ð°Ð³Ð¸ Ñ Ð»ÐµÐ½Ñ‚Ð¾Ð¹ Ð¸ÑÑ‚ÐµÐºÐ°ÑŽÑ‚ ÐºÑ€Ð¾Ð²ÑŒÑŽ Ð½Ð° <style=cIsDamage>50% ÑƒÑ€Ð¾Ð½Ð° Ð² ÑÐµÐºÑƒÐ½Ð´Ñƒ</style> Ð¸ Ð½Ðµ Ð¼Ð¾Ð³ÑƒÑ‚ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ.
-NDP_DANCER_BODY_SUBTITLE: Ð¡Ð¼ÐµÑ€Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ñ‚Ð°Ð½ÐµÑ†
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹
-NDP_DANCER_GOLD_SKIN_NAME: Ð—Ð¾Ð»Ð¾Ñ‚Ð¾Ð¹
+{
+    "RU": {
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Сдерживающая лента",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Враги с лентой истекают кровью на 50% урона в секунду и не могут действовать.",
+        "PRIMARY_SLASH_NAME": "Удар",
+        "PRIMARY_SLASH_DESCRIPTION": "Атака ближнего боя с эффектами, зависящими от вашего прицела. (Наведите для подробностей)",
+        "PRIMARY_SLASH2_NAME": "Разрез",
+        "PRIMARY_SLASH2_DESCRIPTION": "Атака ближнего боя с эффектами, зависящими от вашего прицела. (Наведите для подробностей)",
+        "UTILITY_PULL_NAME": "Притяжение",
+        "UTILITY_PULL_DESCRIPTION": "Притяните врагов к себе.",
+        "SPECIAL_RIBBON_LOCK_NAME": "Связывающая лента",
+        "SPECIAL_RIBBON_LOCK_DESCRIPTION": "Наложите ленту на врага, не давая ему действовать и вызывая кровотечение.",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Тычок</style><style=cSub>На земле, цельтесь вперед. Рывок вперед и <style=cIsDamage>180% урона</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>На земле, цельтесь вниз. Подбросьте врагов вверх, нанося <style=cIsDamage>200% урона</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>В воздухе, цельтесь вперед. Тяжелый удар, наносящий <style=cIsDamage>180% урона</style>, пригвождающий врагов к земле, оглушая и нанося до <style=cIsDamage>300% урона</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Лента</style><style=cSub>Враги с лентой истекают кровью на <style=cIsDamage>50% урона в секунду</style> и не могут действовать.",
+        "NDP_DANCER_BODY_SUBTITLE": "Смертельный танец",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Золотой"
+    }
+}

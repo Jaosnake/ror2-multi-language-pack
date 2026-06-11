@@ -2,9 +2,9 @@
     "FR": {
         "BLAKE_RIFTER_NAME": "Rifter",
         "BLAKE_RIFTER_SUBTITLE": "Manipulateur de Failles",
-        "BLAKE_RIFTER_OUTRO_FLAVOR": "..et ainsi il laissa un monde fractur\u00e9 derri\u00e8re lui.",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..et ainsi il laissa un monde fracturé derrière lui.",
         "BLAKE_RIFTER_OUTRO_FAILURE": "..et ainsi il disparut de tous les royaumes.",
-        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Ma\u00eetrise",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Maîtrise",
         "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Boost de Faille",
         "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Fracture de Faille",
         "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Faille Projectile",
@@ -12,9 +12,9 @@
         "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Ligne de Faille",
         "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Courant Dimensionnel",
         "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Faille Quantique",
-        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Mondes Encha\u00een\u00e9s",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Mondes Enchaînés",
         "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Verrouillage Temporel",
-        "BLAKE_NEM_RIFTER_NAME": "N\u00e9m\u00e9sis Rifter",
+        "BLAKE_NEM_RIFTER_NAME": "Némésis Rifter",
         "BLAKE_NEM_RIFTER_SUBTITLE": "Faille Corrompue"
     }
 }

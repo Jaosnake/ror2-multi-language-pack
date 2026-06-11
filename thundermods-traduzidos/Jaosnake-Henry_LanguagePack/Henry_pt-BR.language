@@ -17,7 +17,7 @@
         "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Rola uma curta distância, ganhando <style=cIsUtility>300 de armadura</style>. <style=cIsUtility>Você não pode ser atingido durante o rolamento.</style>",
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bomba",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Lança uma bomba causando <style=cIsDamage>1.600% de dano</style>.",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Maestria",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Como Henry, vença o jogo ou oblitere na Monção."
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
     }
 }

@@ -1,46 +1,34 @@
-{ "ko":
-	{
-	"MOFFEIN_PILOT_BODY_NAME" : "íŒŒì¼ëŸ¿",
-	"MOFFEIN_PILOT_BODY_SUBTITLE" : "ê³µìˆ˜ ì—ì´ìŠ¤",
-	"MOFFEIN_PILOT_BODY_LORE" : "ìœ ë‚˜ì´í‹°ë“œ ì—”í„°í”„ë¼ì´ì¦ˆ ìš´ì†¡ì‚¬ëŠ” ìš°ì£¼ ì „ì—­ì˜ íŒŒì¼ëŸ¿ì„ ë‹¹ì‚¬ì˜ ì§€ì • íŒŒì¼ëŸ¿ ì¦ê°• ìž„ê´€ í”„ë¡œê·¸ëž¨ì— ì´ˆëŒ€í•˜ê³  ìžˆìŒ. ì°©ë¥™ì„ ì†ì‰½ê²Œ ë§Œë“¤ì–´ ì£¼ëŠ” ì‚¬ì´ë²„ë„¤í‹± ì¦ê°• ì‹œìˆ , ë³‘ê¸° ë° ë³´ì•ˆ ì¸ì¦ í”„ë¡œê·¸ëž¨, í˜¸í™” íœ´ê°€ ë“± ë‹¤ì–‘í•œ í˜œíƒì„ ì œê³µí•¨. (5ë…„ ì´ìƒì˜ ë¹„í–‰ ê²½í—˜ì´ ìžˆëŠ” ì¸ì›ë§Œ ì§€ì› ê°€ëŠ¥. ì‚¬ì´ë²„ë„¤í‹± ì‹œìˆ ì˜ ê²½ìš° ëª¨ë“  í”„ë¡œê·¸ëž¨ ì°¸ì—¬ìžì—ê²Œ ë°˜ë“œì‹œ ì œê³µë˜ëŠ” ê²ƒì€ ì•„ë‹˜. ë³‘ê¸° ë° ë³´ì•ˆ ì¸ì¦ì„œëŠ” UES ì§ì›ìœ¼ë¡œ ìž¬ì§í•˜ëŠ” ë™ì•ˆì—ë§Œ ìœ íš¨í•¨. ëª¨ë“  ê¸°íšŒëŠ” ë³¸ë¬¸ì— ëª…ì‹œëœ ê·¸ëŒ€ë¡œì´ë©° ì°¸ì—¬ í–‰ì„±ì˜ ìš°ì£¼ í•´ì‚¬ë²• ë³€ë™ì— ìƒê´€ì—†ì´ ë¶€ê°€ì ì¸ í‡´ì§ê¸ˆì´ë‚˜ ê¸°íšŒ, í˜œíƒì´ ì œê³µë˜ì§„ ì•ŠìŒ.)",
-	"MOFFEIN_PILOT_BODY_DESCRIPTION" : "íŒŒì¼ëŸ¿ì€ ê³µì¤‘ì—ì„œ ê³µê²©ì„ í¼ë¶“ëŠ” ëŠ¥ë ¥ì´ ë›°ì–´ë‚œ í•˜ëŠ˜ì˜ ì „ì‚¬ìž…ë‹ˆë‹¤.<style=cSub>\r\n\r\n< ! > íŒŒì¼ëŸ¿ì€ ì²´ê³µì„ ìœ ì§€í•˜ì—¬ ìœ„í—˜ì„ íšŒí”¼í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¤í‚¬ì„ ì˜ë¦¬í•˜ê²Œ í™œìš©í•˜ë©´ ì²´ê³µ ì‹œê°„ì„ ê·¹ëŒ€í™”í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > í‘œì  í™•ë³´!ëŠ” ë‚™í•˜ë¥¼ ë©ˆì¶”ëŠ” ë° ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ì‹ ì† ë°°ì¹˜ëŠ” ì§€ìƒì—ì„œ ì‚¬ìš©í•˜ë©´ ìœ„ë¡œ ìƒìŠ¹í•˜ê³ , ì²´ê³µ ì¤‘ì— ì‚¬ìš©í•˜ë©´ ì „ë°©ìœ¼ë¡œ ì´ë™í•©ë‹ˆë‹¤.\r\n\r\n< ! > í­ê²©ìœ¼ë¡œ ì ì„ ê³µì¤‘ìœ¼ë¡œ ë„ìš´ ë’¤ í‘œì  í™•ë³´!ì™€ ì—°ê³„í•˜ë©´ ê³µì¤‘ì—ì„œ ê³„ì† íƒ€ê²©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "...ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ë– ë‚¬ë‹¤, ì € í•˜ëŠ˜ ì•„ëž˜ë¥¼ í–¥í•œ ê¿ˆì„ í’ˆì€ ì±„.",
-	"MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "...ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ì‚¬ë¼ì¡Œë‹¤, ë” ì´ìƒ í•˜ëŠ˜ì— ë‹¿ì§€ ëª»í•˜ê²Œ ëœ ì±„.",
-	"MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "...ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ì‚¬ë¼ì¡Œë‹¤, ë” ì´ìƒ í•˜ëŠ˜ì— ë‹¿ì§€ ëª»í•˜ê²Œ ëœ ì±„.",
-	
-	"MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "ì§‘ì† ë°œì‚¬",
-	"MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "ë¬´ê¸°ë¥¼ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§¤ 3ë²ˆì§¸ ê³µê²©ì€ <style=cIsDamage>í­ë°œ</style>í•˜ì—¬ <style=cIsDamage>320%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	"MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "ë¬´ê¸°ë¥¼ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§¤ 3ë²ˆì§¸ ê³µê²©ì€ ëŒ€ìƒì„ <style=cIsDamage>ê´€í†µ</style>í•˜ê³  <style=cIsDamage>320%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "ì†ì‚¬",
-	"MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ë¹ ë¥´ê²Œ ë¬´ê¸°ë¥¼ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>140%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "ì€ë°€ ì‚¬ê²©",
-	"MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>ì‚´í•´ìž</style>. ì†ŒìŒ ê¶Œì´ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>100%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "í‘œì  í™•ë³´!",
-	"MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "ë¬´ê¸°ë¥¼ <style=cIsDamage>ê´€í†µì„± ì¶”ì  í™”ê¸°</style>ë¡œ ì „í™˜í•˜ì—¬ <style=cIsDamage>3x160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsUtility>ê³µì¤‘ì— ìžˆëŠ”</style> ëŒ€ìƒì—ê²ŒëŠ” <style=cIsDamage>50%</style> ë” ë§Žì€ í”¼í•´ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 2íšŒ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "í­íƒ„ íˆ¬í•˜!",
-	"MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "ë¬´ê¸°ë¥¼ <style=cIsDamage>ì—ë„ˆì§€ ìœ íƒ„ ë°œì‚¬ê¸°</style>ë¡œ ì „í™˜í•˜ì—¬ <style=cIsDamage>480%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsUtility>ì²´ê³µ ì¤‘ì¼ ë•Œ</style>ëŠ” ëŒ€ì‹  <style=cIsDamage>3x220%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 2íšŒ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_UTILITY_NAME" : "ì‹ ì† ë°°ì¹˜",
-	"MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>ê¸°ì ˆ</style>. ê³µì¤‘ìœ¼ë¡œ ë‚ ì•„ì˜¬ë¼ ì ì„ ê¸°ì ˆì‹œí‚¤ê³  <style=cIsUtility>ë‚™í•˜ì‚°ì„ íŽ¼ì¹©ë‹ˆë‹¤</style>. ì²´ê³µ ì¤‘ì¼ ë•ŒëŠ” ëŒ€ì‹  <style=cIsUtility>ì „ë°©ìœ¼ë¡œ ì¶”ì§„</style>í•©ë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "ê³¡ì˜ˆë¹„í–‰",
-	"MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>ì „ë°©ìœ¼ë¡œ ëŒì§„</style>í•˜ì—¬ ìž ì‹œ <style=cIsUtility>ë¬´ì  ìƒíƒœ</style>ê°€ ë©ë‹ˆë‹¤. ë²½ì— ì‚¬ìš©í•  ê²½ìš° ë‹¬ë¼ë¶™ì–´ ë“±ë°˜í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "í­ê²©",
-	"MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "ë’¤ë¡œ ëŒì§„í•˜ì—¬ ë°œë°‘ì— í­íƒ„ì„ ì„¤ì¹˜í•©ë‹ˆë‹¤. í­íƒ„ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ìš°ê³ </style> <style=cIsDamage>600%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ <style=cIsDamage>3</style>íšŒ ë°œë™í•  ìˆ˜ ìžˆìœ¼ë©°, 2íšŒê¹Œì§€ ë³´ìœ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "ê³µìŠµ",
-	"MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "ë’¤ë¡œ ëŒì§„í•˜ì—¬ ë°œë°‘ì— í­íƒ„ì„ ì„¤ì¹˜í•©ë‹ˆë‹¤. í­íƒ„ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ìš°ê³ </style> <style=cIsDamage>800%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ <style=cIsDamage>6</style>íšŒ ë°œë™í•  ìˆ˜ ìžˆìœ¼ë©°, 2íšŒê¹Œì§€ ë³´ìœ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-	
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "í•­ê³µ ì§€ì›",
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "ì§€ì • ì§€ì—­ì— ê³µìŠµì„ í¼ë¶€ì–´ <style=cIsDamage>4x400%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§ˆì§€ë§‰ íƒ€ê²©ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ì›ë‹ˆë‹¤</style>.",
-	
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "í•­ê³µ í¬í™”",
-	"MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "ì§€ì • ì§€ì—­ì— ê³µìŠµì„ í¼ë¶€ì–´ <style=cIsDamage>8x400%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ë§ˆì§€ë§‰ íƒ€ê²©ì€ ì ì„ <style=cIsDamage>ê³µì¤‘ìœ¼ë¡œ ë„ì›ë‹ˆë‹¤</style>.",
-	}
+{
+    "ko": {
+        "MOFFEIN_PILOT_BODY_NAME": "파일럿",
+        "MOFFEIN_PILOT_BODY_SUBTITLE": "공수 에이스",
+        "MOFFEIN_PILOT_BODY_LORE": "유나이티드 엔터프라이즈 운송사는 우주 전역의 파일럿을 당사의 지정 파일럿 증강 임관 프로그램에 초대하고 있음. 착륙을 손쉽게 만들어 주는 사이버네틱 증강 시술, 병기 및 보안 인증 프로그램, 호화 휴가 등 다양한 혜택을 제공함. (5년 이상의 비행 경험이 있는 인원만 지원 가능. 사이버네틱 시술의 경우 모든 프로그램 참여자에게 반드시 제공되는 것은 아님. 병기 및 보안 인증서는 UES 직원으로 재직하는 동안에만 유효함. 모든 기회는 본문에 명시된 그대로이며 참여 행성의 우주 해사법 변동에 상관없이 부가적인 퇴직금이나 기회, 혜택이 제공되진 않음.)",
+        "MOFFEIN_PILOT_BODY_DESCRIPTION": "파일럿은 공중에서 공격을 퍼붓는 능력이 뛰어난 하늘의 전사입니다.<style=cSub>\r\n\r\n< ! > 파일럿은 체공을 유지하여 위험을 회피할 수 있습니다. 스킬을 영리하게 활용하면 체공 시간을 극대화할 수 있습니다.\r\n\r\n< ! > 표적 확보!는 낙하를 멈추는 데 사용할 수 있습니다.\r\n\r\n< ! > 신속 배치는 지상에서 사용하면 위로 상승하고, 체공 중에 사용하면 전방으로 이동합니다.\r\n\r\n< ! > 폭격으로 적을 공중으로 띄운 뒤 표적 확보!와 연계하면 공중에서 계속 타격할 수 있습니다.",
+        "MOFFEIN_PILOT_BODY_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 저 하늘 아래를 향한 꿈을 품은 채.",
+        "MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "...그리하여 그는 사라졌다, 더 이상 하늘에 닿지 못하게 된 채.",
+        "MOFFEIN_PILOT_BODY_OUTRO_FAILURE": "...그리하여 그는 사라졌다, 더 이상 하늘에 닿지 못하게 된 채.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_NAME": "집속 발사",
+        "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION": "무기를 발사하여 <style=cIsDamage>160%의 피해</style>를 입힙니다. 매 3번째 공격은 <style=cIsDamage>폭발</style>하여 <style=cIsDamage>320%의 피해</style>를 입힙니다.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION": "무기를 발사하여 <style=cIsDamage>160%의 피해</style>를 입힙니다. 매 3번째 공격은 대상을 <style=cIsDamage>관통</style>하고 <style=cIsDamage>320%의 피해</style>를 입힙니다.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME": "속사",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>민첩</style>. 빠르게 무기를 발사하여 <style=cIsDamage>140%의 피해</style>를 입힙니다.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME": "은밀 사격",
+        "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION": "<style=cIsDamage>살해자</style>. 소음 권총을 발사하여 <style=cIsDamage>100%의 피해</style>를 입힙니다.",
+        "MOFFEIN_PILOT_BODY_SECONDARY_NAME": "표적 확보!",
+        "MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION": "무기를 <style=cIsDamage>관통성 추적 화기</style>로 전환하여 <style=cIsDamage>3x160%의 피해</style>를 입힙니다. <style=cIsUtility>공중에 있는</style> 대상에게는 <style=cIsDamage>50%</style> 더 많은 피해를 입힙니다. 최대 2회 사용 가능합니다.",
+        "MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME": "폭탄 투하!",
+        "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION": "무기를 <style=cIsDamage>에너지 유탄 발사기</style>로 전환하여 <style=cIsDamage>480%의 피해</style>를 입힙니다. <style=cIsUtility>체공 중일 때</style>는 대신 <style=cIsDamage>3x220%의 피해</style>를 입힙니다. 최대 2회 사용 가능합니다.",
+        "MOFFEIN_PILOT_BODY_UTILITY_NAME": "신속 배치",
+        "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION": "<style=cIsDamage>기절</style>. 공중으로 날아올라 적을 기절시키고 <style=cIsUtility>낙하산을 펼칩니다</style>. 체공 중일 때는 대신 <style=cIsUtility>전방으로 추진</style>합니다.",
+        "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME": "곡예비행",
+        "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>전방으로 돌진</style>하여 잠시 <style=cIsUtility>무적 상태</style>가 됩니다. 벽에 사용할 경우 달라붙어 등반할 수 있습니다.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_NAME": "폭격",
+        "MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION": "뒤로 돌진하여 발밑에 폭탄을 설치합니다. 폭탄은 적을 <style=cIsDamage>공중으로 띄우고</style> <style=cIsDamage>600%의 피해</style>를 입힙니다. 최대 <style=cIsDamage>3</style>회 발동할 수 있으며, 2회까지 보유할 수 있습니다.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME": "공습",
+        "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION": "뒤로 돌진하여 발밑에 폭탄을 설치합니다. 폭탄은 적을 <style=cIsDamage>공중으로 띄우고</style> <style=cIsDamage>800%의 피해</style>를 입힙니다. 최대 <style=cIsDamage>6</style>회 발동할 수 있으며, 2회까지 보유할 수 있습니다.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME": "항공 지원",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION": "지정 지역에 공습을 퍼부어 <style=cIsDamage>4x400%의 피해</style>를 입힙니다. 마지막 타격은 적을 <style=cIsDamage>공중으로 띄웁니다</style>.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME": "항공 포화",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION": "지정 지역에 공습을 퍼부어 <style=cIsDamage>8x400%의 피해</style>를 입힙니다. 마지막 타격은 적을 <style=cIsDamage>공중으로 띄웁니다</style>."
+    }
 }

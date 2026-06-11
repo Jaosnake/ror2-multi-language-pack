@@ -1,10 +1,10 @@
 {
-    "name": "Starstorm2_LanguagePack",
-    "author": "Jaosnake",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description": "Multi-language translation pack for TeamMoonstorm-Starstorm2: pt-BR, UA, ko, FR, RU, zh-CN, es-419, tr. Achievements stay in English. Translation by Jaosnake. [AI Generated, Human Reviewed]",
-    "dependencies": [
-        "TeamMoonstorm-Starstorm2-0.6.38"
-    ]
+  "name": "Starstorm2_LanguagePack",
+  "author": "Jaosnake",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for TeamMoonstorm-Starstorm2: pt-BR, UA, ko, FR, RU, zh-CN, es-419, tr. Achievements stay in English. Translation by Jaosnake. [AI Generated, Human Reviewed]",
+  "dependencies": [
+    "TeamMoonstorm-Starstorm2-0.6.38"
+  ]
 }

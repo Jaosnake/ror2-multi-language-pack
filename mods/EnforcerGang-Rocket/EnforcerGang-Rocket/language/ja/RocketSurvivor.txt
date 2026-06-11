@@ -1,54 +1,38 @@
 {
-	strings:
-	{
-	"MOFFEIN_ROCKET_BODY_NAME" : "火箭手",
-	"MOFFEIN_ROCKET_BODY_SUBTITLE" : "震撼与敬畏",
-	"MOFFEIN_ROCKET_BODY_LORE" : "简介：火箭手生来便有一种特殊的力量...",
-	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "火箭手是一位高机动的爆破专家，可以造成毁灭性的区域打击。<style=cSub>\r\n\r\n< ! >爆炸跳经常用于快速的横跨地图或逃离危险！\r\n\r\n< ! >你的火箭发射器对敌人有很强的冲击力，用这个把他们从岩架上敲下来。\r\n\r\n< ! >遥控引爆器对打击飞行中的敌人很有用，也可以用来辅助机动。\r\n\r\n< ! >硝基炸药在范围伤害与辅助机动方面均表现不俗。\r\n\r\n< ! >快速重装可用于跳过你那火箭发射器漫长的装弹时间。",
-	
-	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "...于是他离开了，再次弹射起飞。",
-	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "...于是他消失了，不再触碰地面。",
-	
-	"MOFFEIN_ROCKET_BODY_PASSIVE_NAME" : "发射！<color=#8888>(走你！)</color>",
-	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "你的爆炸物可以用于<style=cIsUtility>爆炸跳</style>。",
-	
-	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "HG4火箭发射器",
-	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>灵巧</style>. 发射一枚火箭弹，造成<style=cIsDamage>600%伤害</style>。最多可持有4枚。",
-	
-	
-	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "HG4地空导弹发射器",
-	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>灵巧</style>。发射一枚<style=cIsUtility>热追踪</style>导弹，造成<style=cIsDamage>600%伤害</style>的<style=cIsHealth>较小范围爆炸</style>。最多可持有4枚。",
-	
-	"MOFFEIN_ROCKET_BODY_SECONDARY_NAME" : "遥控引爆器",
-	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "引爆<style=cIsDamage>所有爆炸物</style>。被引爆的<style=cIsDamage>飞弹</style>获得额外<style=cIsDamage>50%</style>的<style=cIsDamage>伤害</style>与<style=cIsDamage>爆炸半径</style>提升。\n<color=#8888>(译者注：等效于1.5x)</color>",
-	
-	"MOFFEIN_ROCKET_BODY_UTILITY_NAME" : "硝基炸药",
-	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>眩晕</style>。扔出一个炸药包。使用<style=cIsDamage>遥控引爆器</style>进行引爆并造成<style=cIsDamage>1200%伤害</style>。",
-	
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME" : "轰炸行动<color=#8888>(舞铲阶级)</color>",
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>重型</style>。<style=cIsDamage>眩晕</style>。将爆破铲挥向一名敌人，造成<style=cIsDamage>1200%伤害</style>。若触发<style=cIsUtility>爆炸跳</style>则造成<style=cIsDamage>暴击</style>。",
-	
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME" : "轰炸行动<color=#8888>(大满贯)</color>",
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION" : "<style=cIsUtility>重型</style>。<style=cIsDamage>眩晕</style>。将爆破铲挥向一名敌人，造成<style=cIsDamage>1800%伤害</style>。若触发<style=cIsUtility>爆炸跳</style>则造成<style=cIsDamage>暴击</style>。",
-	
-	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "快速重装",
-	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "立即<style=cIsDamage>发射4枚火箭弹</style>, 随后<style=cIsUtility>重装填你的武器</style>.",
-	
-	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "火箭风暴",
-	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "立即<style=cIsDamage>发射10枚火箭弹</style>, 随后<style=cIsUtility>重装填你的武器</style>.",
-	
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Rocket: Speed is Life",
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
-	
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Rocket: Pogo",
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "As Rocket, blast jump 10 times in a row without touching the ground.",
-
-	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "庞巴迪",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Rocket: Mastery",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Monsoon.",
-	
-	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "游骑兵",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Rocket: Grand Mastery",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
-	}
+    "strings": {
+        "MOFFEIN_ROCKET_BODY_NAME": "ロケット",
+        "MOFFEIN_ROCKET_BODY_SUBTITLE": "衝撃と畏怖",
+        "MOFFEIN_ROCKET_BODY_LORE": "ログ - 432 日目\n\nロケットランチャーより優れたものがあるか知っていますか?何もありません。\n\n私はもう 1 年以上、この見捨てられた惑星にエイリアン、岩石、その他神のみぞ知るを爆破してきました。言っておきますが、タイミングよく爆発させれば解決できない問題はありません。虫の群れが近づいてきていますか?ブーム。ギャップを越える必要がありますか?バム。いや、私も何度か夕食を爆破したこともあります。焦げた肉はカリカリにすると美味しいですよね?\n\n彼らは私の「無謀な行動」のために私をここに送りました。結果が出たら本当に無謀なのでしょうか?確かに、偶然にいくつかの拠点を平準化した可能性があります。そうでない人はいないでしょうか? 60ポンドの爆発的な楽しみを抱えているときは、人は人差し指を落ち着かせようとします。\n\n今、私はトカゲや宇宙の虫との戦いに困っています。でも、知っていますか? (文字通り)とても楽しいです。空を飛ぶロケットの甘い音を聞くたびに、今日は良い一日になりそうだと感じます。そしてそれがヒットしたときは?まあ、詳しくは知りませんが、眺めはいつも素晴らしいです。\n\n確かに、いつか自爆するかもしれません。でもそれまでは、このランチャーを持ってブームに乗って家まで帰ります。\n\nEnd Log。そうそう、レコーダーも爆破してしまいました。おっと。",
+        "MOFFEIN_ROCKET_BODY_DESCRIPTION": "ロケットは、広範囲に壊滅的なダメージを与える機動性の高い爆発物の専門家です。<style=cSub>\r\n\r\n< ! > 頻繁にブラストジャンプしてマップを素早く移動し、危険から逃れましょう!\r\n\r\n< ! > ロケットランチャーは敵に対して高いノックバックを持っています。これを使って棚から叩き落とします。\r\n\r\n< ! > リモート デトネーターは、飛行する敵を攻撃するのに便利で、移動にも使用できます。\r\n\r\n< ! > ニトロチャージは範囲ダメージと機動力の両方に優れています。\r\n\r\n< ! > ラピッド リアームを使用すると、ロケットランチャーの長いリロード時間をスキップできます。",
+        "MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR": "...そして彼は再び飛び立ちました。",
+        "MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "...そして彼は姿を消し、二度と地面に触れる事はなかった。",
+        "MOFFEIN_ROCKET_BODY_PASSIVE_NAME": "ブラストオフ",
+        "MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION": "爆発物は <style=cIsUtility>ブラストジャンプ </style> に使用できます。",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_NAME": "HG4 ロケットランチャー",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>アジャイル</style>。ロケットを発射して<style=cIsDamage>600%のダメージ</style>。 4個まで収納可能。",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME": "HG4 SAMランチャー",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>アジャイル</style>。 <style=cIsUtility>熱を求める</style>ミサイルを、爆発半径の小さい<style=cIsHealth></style>で発射し、<style=cIsDamage>600%のダメージ</style>を与える。 4個まで収納可能。",
+        "MOFFEIN_ROCKET_BODY_SECONDARY_NAME": "リモートデトネーター",
+        "MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION": "<style=cIsDamage>すべての爆発物</style>を爆発させます。爆発した<style=cIsDamage>ロケット</style>は<style=cIsDamage>50%</style>追加の<style=cIsDamage>ダメージ</style>と<style=cIsDamage>爆発半径</style>を獲得します。",
+        "MOFFEIN_ROCKET_BODY_UTILITY_NAME": "ニトロチャージ",
+        "MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION": "<style=cIsDamage>素晴らしい</style>。爆発物を装填します。 <style=cIsDamage>リモート デトネーター</style>を使用して爆発させ、<style=cIsDamage>1200%のダメージ</style>を与えます。",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME": "ボンビングラン",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>重い</style>。 <style=cIsDamage>素晴らしい</style>。爆発性のシャベルを敵に振りかざし、<style=cIsDamage>1200% のダメージを与えます</style>。 <style=cIsDamage>クリティカルストライク</style>、<style=cIsUtility>ブラストジャンプ</style>を与える。",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME": "グランドスラム",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION": "<style=cIsUtility>重い</style>。 <style=cIsDamage>素晴らしい</style>。爆発性のシャベルを敵に向けて振り、<style=cIsDamage>1800% のダメージを与えます</style>。 <style=cIsDamage>クリティカルストライク</style>、<style=cIsUtility>ブラストジャンプ</style>を与える。",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_NAME": "急速な再武装",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION": "急速に<style=cIsDamage>ロケット弾を4発発射</style>し、その後<style=cIsUtility>武器をリロード</style>します。",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME": "ロケットストーム",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION": "急速に<style=cIsDamage>ロケット弾を10発発射</style>し、その後<style=cIsUtility>武器をリロード</style>します。",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "As Rocket, blast jump 10 times in a row without touching the ground.",
+        "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "ボンバルディア",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Monsoon.",
+        "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "レンジャー",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>"
+    }
 }

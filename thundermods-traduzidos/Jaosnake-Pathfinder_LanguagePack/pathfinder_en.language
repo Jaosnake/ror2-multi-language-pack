@@ -1,47 +1,40 @@
-BOG_PATHFINDER_BODY_NAME: Pathfinder
-BOG_PATHFINDER_BODY_SUBTITLE: Interplanetary Hunter
-BOG_PATHFINDER_BODY_DESCRIPTION: The Pathfinder is a cunning and evasive skirmisher who fights alongside his robotic falcon, Squall.
-
-BOG_PATHFINDER_BODY_PASSIVE_NAME: Falconer
-BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: You are accompanied by your robotic falcon, Squall. Squall inherits <style=cIsDamage>most</style> of your items and is immune to damage, but runs on a <style=cIsUtility>battery</style>.
-
-BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: Default
-BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: Headhunter
-BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..and so they left, as the new kings of the food chain.
-BOG_PATHFINDER_BODY_OUTRO_FAILURE: ..and so they vanished, lost forever to the indifferent wilds.
-BOG_SQUALL_BODY_NAME: Squall
-BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: Default
-BOG_SQUALL_BODY_MASTERY_SKIN_NAME: Mastery
-PRIMARY_THRUST_NAME: Thrust
-PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>Piercing</style>. Push your spear forward for <style=cIsDamage>250% damage</style>.
-
-SECONDARY_DASH_NAME: Lightfoot
-SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>Slide</style> a short distance. The next time you use your primary skill, throw an <style=cIsDamage>explosive spear</style> for <style=cIsDamage>800% damage</style> and recover <style=cIsUtility>800% battery</style>, doubled on Critical Hits.
-
-SECONDARY_JAVELIN_NAME: Spear Throw
-SECONDARY_JAVELIN_DESCRIPTION: Throw an <style=cIsDamage>explosive spear</style> for <style=cIsDamage>800% damage</style>.
-
-UTILITY_SPIN_NAME: Rending Talons
-UTILITY_SPIN_DESCRIPTION: Rise into the air, spinning rapidly for <style=cIsDamage>300% damage</style>. Upon landing, perform a horizontal sweep for <style=cIsDamage>800% damage</style>.
-
-UTILITY_BOLAS_NAME: Shock Bolas
-UTILITY_BOLAS_DESCRIPTION: Throw electrically charged bolas that <style=cIsUtility>shock</style> nearby enemies and leave an <style=cIsUtility>electrocuting</style> field for <style=cIsUtility>10 seconds</style>.
-
-SPECIAL_COMMAND_NAME: Issue Command
-SPECIAL_COMMAND_DESCRIPTION: Prepare a command for Squall. You can issue an <color=#FF0000>Attack</color>, <color=#00FF00>Follow</color>, or <color=#efeb1c>Special</color> command by pressing Primary, Secondary, or Special skill keys respectively.
-
-SPECIAL_COMMAND2_NAME: Issue Command - Utility Override
-SPECIAL_ATTACK_NAME: Attack
-SPECIAL_ATTACK_DESCRIPTION: Direct Squall's attention to the target enemy and activate <color=#FF0000>Attack Mode</color>, granting access to machine guns dealing <style=cIsDamage>2x30% damage</style> and a missile launcher dealing <style=cIsDamage>150% damage</style>.
-
-SPECIAL_FOLLOW_NAME: Follow
-SPECIAL_FOLLOW_DESCRIPTION: Bring Squall back close to you and activate <color=#00FF00>Follow Mode</color>, causing him to stay near you.
-
-SPECIAL_CANCEL_NAME: Cancel Command Mode
-SPECIAL_CANCEL_DESCRIPTION: Cancels Command Mode.
-
-SQUALL_SPECIAL_GOFORTHROAT_NAME: Go for the Throat!
-SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Order Squall to repeatedly attack the target enemy for <style=cIsDamage>70% damage</style>. Each attack briefly reduces <style=cIsDamage>armor</style> and <style=cIsUtility>regenerates 1%</style> battery, doubled on Critical Hits. This skill can briefly <style=cIsUtility>overcharge</style> the battery.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery
+{
+    "en": {
+        "BOG_PATHFINDER_BODY_NAME": "Pathfinder",
+        "BOG_PATHFINDER_BODY_SUBTITLE": "Interplanetary Hunter",
+        "BOG_PATHFINDER_BODY_DESCRIPTION": "The Pathfinder is a cunning and evasive skirmisher who fights alongside his robotic falcon, Squall.",
+        "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Falconer",
+        "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "You are accompanied by your robotic falcon, Squall. Squall inherits <style=cIsDamage>most</style> of your items and is immune to damage, but runs on a <style=cIsUtility>battery</style>.",
+        "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Default",
+        "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Headhunter",
+        "BOG_PATHFINDER_BODY_OUTRO_FLAVOR": "..and so they left, as the new kings of the food chain.",
+        "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..and so they vanished, lost forever to the indifferent wilds.",
+        "BOG_SQUALL_BODY_NAME": "Squall",
+        "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Default",
+        "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Mastery",
+        "PRIMARY_THRUST_NAME": "Thrust",
+        "PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Piercing</style>. Push your spear forward for <style=cIsDamage>250% damage</style>.",
+        "SECONDARY_DASH_NAME": "Lightfoot",
+        "SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Slide</style> a short distance. The next time you use your primary skill, throw an <style=cIsDamage>explosive spear</style> for <style=cIsDamage>800% damage</style> and recover <style=cIsUtility>800% battery</style>, doubled on Critical Hits.",
+        "SECONDARY_JAVELIN_NAME": "Spear Throw",
+        "SECONDARY_JAVELIN_DESCRIPTION": "Throw an <style=cIsDamage>explosive spear</style> for <style=cIsDamage>800% damage</style>.",
+        "UTILITY_SPIN_NAME": "Rending Talons",
+        "UTILITY_SPIN_DESCRIPTION": "Rise into the air, spinning rapidly for <style=cIsDamage>300% damage</style>. Upon landing, perform a horizontal sweep for <style=cIsDamage>800% damage</style>.",
+        "UTILITY_BOLAS_NAME": "Shock Bolas",
+        "UTILITY_BOLAS_DESCRIPTION": "Throw electrically charged bolas that <style=cIsUtility>shock</style> nearby enemies and leave an <style=cIsUtility>electrocuting</style> field for <style=cIsUtility>10 seconds</style>.",
+        "SPECIAL_COMMAND_NAME": "Issue Command",
+        "SPECIAL_COMMAND_DESCRIPTION": "Prepare a command for Squall. You can issue an <color=#FF0000>Attack</color>, <color=#00FF00>Follow</color>, or <color=#efeb1c>Special</color> command by pressing Primary, Secondary, or Special skill keys respectively.",
+        "SPECIAL_COMMAND2_NAME": "Issue Command - Utility Override",
+        "SPECIAL_ATTACK_NAME": "Attack",
+        "SPECIAL_ATTACK_DESCRIPTION": "Direct Squall's attention to the target enemy and activate <color=#FF0000>Attack Mode</color>, granting access to machine guns dealing <style=cIsDamage>2x30% damage</style> and a missile launcher dealing <style=cIsDamage>150% damage</style>.",
+        "SPECIAL_FOLLOW_NAME": "Follow",
+        "SPECIAL_FOLLOW_DESCRIPTION": "Bring Squall back close to you and activate <color=#00FF00>Follow Mode</color>, causing him to stay near you.",
+        "SPECIAL_CANCEL_NAME": "Cancel Command Mode",
+        "SPECIAL_CANCEL_DESCRIPTION": "Cancels Command Mode.",
+        "SQUALL_SPECIAL_GOFORTHROAT_NAME": "Go for the Throat!",
+        "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Order Squall to repeatedly attack the target enemy for <style=cIsDamage>70% damage</style>. Each attack briefly reduces <style=cIsDamage>armor</style> and <style=cIsUtility>regenerates 1%</style> battery, doubled on Critical Hits. This skill can briefly <style=cIsUtility>overcharge</style> the battery.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+    }
+}

@@ -22,15 +22,13 @@
         "SPEARMAN_ALTM2_DESCRIPTION": "Carrega uma lança mortal, aumentando dano e distância, causando <style=cIsDamage>400-1.500% de dano</style> e <style=cDeath>executando</style> inimigos com pouca vida.",
         "SPEARMAN_INTERACTABLE_NAME": "Lança do Lanceiro",
         "SPEARMAN_INTERACTABLE_CONTEXT": "Erradicar",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "Um Planeta de Agonia",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Recupere a arma cravada no crânio.",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Lanceiro: Maestria",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Como Lanceiro, vença o jogo ou oblitere na Monção.",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Lanceiro: Conhecer a Força",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Como Lanceiro, mate 10 inimigos em um único uso da Lança do Guerreiro."
-    }
-
-        "SPEARMAN_ALTM1": "Warrior Stance",
-        "SPEARMAN_ALTM1_DESCRIPTION": "Thrust the spear forward dealing <style=cIsDamage>400% damage</style> and throwing out a wind blade for <style=cIsDamage>200% damage</style>."
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
+        "SPEARMAN_ALTM1": "Postura do Guerreiro",
+        "SPEARMAN_ALTM1_DESCRIPTION": "Estoca a lança para frente causando <style=cIsDamage>400% de dano</style> e lança uma lâmina de vento para <style=cIsDamage>200% de dano</style>."
     }
 }

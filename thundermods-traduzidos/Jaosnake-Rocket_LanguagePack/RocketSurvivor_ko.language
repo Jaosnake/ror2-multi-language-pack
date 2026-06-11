@@ -1,54 +1,39 @@
-{ "ko":
-	{
-	"MOFFEIN_ROCKET_BODY_NAME" : "ë¡œì¼“",
-	"MOFFEIN_ROCKET_BODY_SUBTITLE" : "ì¶©ê²©ê³¼ ê³µí¬",
-	"MOFFEIN_ROCKET_BODY_LORE" : "ì •ë³´: ë¡œì¼“ì€ íŠ¹ë³„í•œ íž˜ì„ ê°€ì§€ê³  íƒœì–´ë‚¬ìŠµë‹ˆë‹¤",
-	"MOFFEIN_ROCKET_BODY_DESCRIPTION" : "ë¡œì¼“ì€ íŒŒê´´ì ì¸ ë²”ìœ„ í”¼í•´ë¥¼ ìž…ížˆëŠ” ë†’ì€ ê¸°ë™ì„±ì„ ì§€ë‹Œ í­ë°œë¬¼ ì „ë¬¸ê°€ ìž…ë‹ˆë‹¤.<style=cSub>\r\n\r\n< ! > ë¸”ë¼ìŠ¤íŠ¸ ì í”„ë¥¼ ìžì£¼ í•˜ë©´ í–‰ì„±ë¥¼ ë¹ ë¥´ê²Œ ëŒì•„ë‹¤ë‹ˆê³  ìœ„í—˜ì—ì„œ ë²—ì–´ë‚  ìˆ˜ ìžˆìŠµë‹ˆë‹¤!\r\n\r\n< ! > ë¡œì¼“ëŸ°ì²˜ëŠ” ì ì„ í¬ê²Œ ë°€ì¹©ë‹ˆë‹¤. ì´ë¥¼ ì‚¬ìš©í•˜ì—¬ ì ì„ ì ˆë²½ìœ¼ë¡œ ë°€ì–´ë²„ë¦´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ì›ê²© ê¸°í­ ìž¥ì¹˜ëŠ” ê³µì¤‘ ì ì„ ê³µê²©í•˜ëŠ” ë° ìœ ìš©í•˜ë©° ê¸°ë™ì„±ì—ë„ ë„ì›€ì„ ì¤ë‹ˆë‹¤.\r\n\r\n< ! > ë‹ˆíŠ¸ë¡œ ì°¨ì§€ëŠ” ê³µê²©ê³¼ ê¸°ë™ì„± ë‘˜ë‹¤ ì±™ê¸¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ì‹ ì† ë¬´ìž¥ì„ ì‚¬ìš©í•˜ì—¬ ë¡œì¼“ëŸ°ì²˜ì˜ ê¸´ ì¿¨íƒ€ìž„ì„ ì´ˆê¸°í™” ì‹œí‚¬ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ë– ë‚¬ë‹¤. ë‹¤ì‹œ í­ë°œí•˜ë©´ì„œ.",
-	"MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ë“¤ì€ ì‚¬ë¼ì¡Œë‹¤, ë‹¤ì‹œëŠ” ë•…ì— ë‹¿ì§€ ì•Šìœ¼ë©°.",
-	"MOFFEIN_ROCKET_BODY_OUTRO_FAILURE" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ë“¤ì€ ì‚¬ë¼ì¡Œë‹¤, ë‹¤ì‹œëŠ” ë•…ì— ë‹¿ì§€ ì•Šìœ¼ë©°.",
-	
-	"MOFFEIN_ROCKET_BODY_PASSIVE_NAME" : "í­ë°œ",
-	"MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION" : "ë‹¹ì‹ ì˜ í­ë°œì´ <style=cIsUtility>ë¸”ë¼ìŠ¤íŠ¸ ì í”„</style>ë¥¼ í•  ìˆ˜ ìžˆê²Œ í•´ì¤ë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_PRIMARY_NAME" : "HG4 ë¡œì¼“ëŸ°ì²˜",
-	"MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ë¡œì¼“ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>600% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 4ë°œê¹Œì§€ ëˆ„ì ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤.",
-	
-	
-	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME" : "HG4 SAM ëŸ°ì²˜",
-	"MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ì ë“¤ì„ <style=cIsUtility>ì¶”ì </style>í•˜ê³  <style=cIsHealth>ë”ìž‘ì€ í­ë°œë°˜ê²½</style>ì„ ê°€ì§„ ë¯¸ì‚¬ì¼ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>600% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ìµœëŒ€ 4ë°œê¹Œì§€ ëˆ„ì ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_SECONDARY_NAME" : "ì›ê²© ê¸°í­ ìž¥ì¹˜",
-	"MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION" : "<style=cIsDamage>ëª¨ë“  í­ë°œë¬¼</style>ì„ í„°ëœ¨ë¦½ë‹ˆë‹¤. í­ë°œí•œ <style=cIsDamage>ë¡œì¼“</style>ì€ <style=cIsDamage>50%</style>ì˜ <style=cIsDamage>ì¶”ê°€ í”¼í•´</style>ì™€ <style=cIsDamage>í­ë°œ ë°˜ê²½</style>ì„ ì–»ìŠµë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_UTILITY_NAME" : "ë‹ˆíŠ¸ë¡œ ì°¨ì§€",
-	"MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>ê¸°ì ˆ</style>. ì¶©ì „ëœ í­ë°œë¬¼ì„ ì„¤ì¹˜í•©ë‹ˆë‹¤. <style=cIsDamage>ì›ê²© ê¸°í­ ìž¥ì¹˜</style>ë¥¼ ì‚¬ìš©í•˜ì—¬ <style=cIsDamage>1200% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME" : "í­ê²© ì§ˆì£¼",
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>ë¬µì§</style>. <style=cIsDamage>ê¸°ì ˆ</style>. ì ì—ê²Œ í­íƒ„ë´‰ì„ íœ˜ë‘˜ëŸ¬ <style=cIsDamage>1200% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsDamage>ëª…ì¤‘ì‹œ</style> <style=cIsUtility>ë¸”ë¼ìŠ¤íŠ¸ ì í”„ ì¤‘ íƒ€ê²©ì‹œ</style> ì¹˜ëª…íƒ€ë¥¼ ì¼ìœ¼í‚µë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME" : "ê·¸ëžœë“œìŠ¬ëž¨",
-	"MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION" : "<style=cIsUtility>ë¬µì§</style>. <style=cIsDamage>ê¸°ì ˆ</style>. ì ì—ê²Œ í­íƒ„ë´‰ì„ íœ˜ë‘˜ëŸ¬ <style=cIsDamage>1800% í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsDamage>ëª…ì¤‘ì‹œ</style> <style=cIsUtility>ë¸”ë¼ìŠ¤íŠ¸ ì í”„ ì¤‘ íƒ€ê²©ì‹œ</style> ì¹˜ëª…íƒ€ë¥¼ ì¼ìœ¼í‚µë‹ˆë‹¤.",
-	
-	"MOFFEIN_ROCKET_BODY_SPECIAL_NAME" : "ì‹ ì† ë¬´ìž¥",
-	"MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION" : "<style=cIsDamage>ë¡œì¼“ 4ë°œì„ ë¹ ë¥´ê²Œ ë°œì‚¬</style>í•˜ê³  <style=cIsUtility>ë¬´ê¸°ë¥¼ ìž¬ìž¥ì „ì‹œí‚µë‹ˆë‹¤</style>.",
-	
-	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME" : "ë¡œì¼“ìŠ¤í†°",
-	"MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "ë¡œì¼“ 10ë°œì„ ë¹ ë¥´ê²Œ ë°œì‚¬</style>í•˜ê³  <style=cIsUtility>ë¬´ê¸°ë¥¼ ìž¬ìž¥ì „ì‹œí‚µë‹ˆë‹¤</style>.",
-	
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME" : "Rocket: Speed is Life",
-	"ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION" : "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
-	
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME" : "Rocket: Pogo",
-	"ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION" : "As Rocket, blast jump 10 times in a row without touching the ground.",
-
-	"MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME" : "í­ê²©ìˆ˜",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME" : "Rocket: Mastery",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Monsoon.",
-	
-	"MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME" : "ë ˆì¸ì €",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME" : "Rocket: Grand Mastery",
-	"ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION" : "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
-	}
+{
+    "ko": {
+        "MOFFEIN_ROCKET_BODY_NAME": "로켓",
+        "MOFFEIN_ROCKET_BODY_SUBTITLE": "충격과 공포",
+        "MOFFEIN_ROCKET_BODY_LORE": "정보: 로켓은 특별한 힘을 가지고 태어났습니다",
+        "MOFFEIN_ROCKET_BODY_DESCRIPTION": "로켓은 파괴적인 범위 피해를 입히는 높은 기동성을 지닌 폭발물 전문가 입니다.<style=cSub>\r\n\r\n< ! > 블라스트 점프를 자주 하면 행성를 빠르게 돌아다니고 위험에서 벗어날 수 있습니다!\r\n\r\n< ! > 로켓런처는 적을 크게 밀칩니다. 이를 사용하여 적을 절벽으로 밀어버릴 수 있습니다.\r\n\r\n< ! > 원격 기폭 장치는 공중 적을 공격하는 데 유용하며 기동성에도 도움을 줍니다.\r\n\r\n< ! > 니트로 차지는 공격과 기동성 둘다 챙길 수 있습니다.\r\n\r\n< ! > 신속 무장을 사용하여 로켓런처의 긴 쿨타임을 초기화 시킬 수 있습니다.",
+        "MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR": "..그리하여 그는 떠났다. 다시 폭발하면서.",
+        "MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..그리하여 그들은 사라졌다, 다시는 땅에 닿지 않으며.",
+        "MOFFEIN_ROCKET_BODY_OUTRO_FAILURE": "..그리하여 그들은 사라졌다, 다시는 땅에 닿지 않으며.",
+        "MOFFEIN_ROCKET_BODY_PASSIVE_NAME": "폭발",
+        "MOFFEIN_ROCKET_BODY_PASSIVE_DESCRIPTION": "당신의 폭발이 <style=cIsUtility>블라스트 점프</style>를 할 수 있게 해줍니다.",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_NAME": "HG4 로켓런처",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>민첩</style>. 로켓을 발사하여 <style=cIsDamage>600% 피해</style>를 입힙니다. 최대 4발까지 누적이 가능합니다.",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME": "HG4 SAM 런처",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>민첩</style>. 적들을 <style=cIsUtility>추적</style>하고 <style=cIsHealth>더작은 폭발반경</style>을 가진 미사일을 발사하여 <style=cIsDamage>600% 피해</style>를 입힙니다. 최대 4발까지 누적이 가능합니다.",
+        "MOFFEIN_ROCKET_BODY_SECONDARY_NAME": "원격 기폭 장치",
+        "MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION": "<style=cIsDamage>모든 폭발물</style>을 터뜨립니다. 폭발한 <style=cIsDamage>로켓</style>은 <style=cIsDamage>50%</style>의 <style=cIsDamage>추가 피해</style>와 <style=cIsDamage>폭발 반경</style>을 얻습니다.",
+        "MOFFEIN_ROCKET_BODY_UTILITY_NAME": "니트로 차지",
+        "MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION": "<style=cIsDamage>기절</style>. 충전된 폭발물을 설치합니다. <style=cIsDamage>원격 기폭 장치</style>를 사용하여 <style=cIsDamage>1200% 피해</style>를 입힙니다.",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME": "폭격 질주",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>묵직</style>. <style=cIsDamage>기절</style>. 적에게 폭탄봉을 휘둘러 <style=cIsDamage>1200% 피해</style>를 입힙니다. <style=cIsDamage>명중시</style> <style=cIsUtility>블라스트 점프 중 타격시</style> 치명타를 일으킵니다.",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_NAME": "그랜드슬램",
+        "MOFFEIN_ROCKET_BODY_UTILITY_ALT_SCEPTER_DESCRIPTION": "<style=cIsUtility>묵직</style>. <style=cIsDamage>기절</style>. 적에게 폭탄봉을 휘둘러 <style=cIsDamage>1800% 피해</style>를 입힙니다. <style=cIsDamage>명중시</style> <style=cIsUtility>블라스트 점프 중 타격시</style> 치명타를 일으킵니다.",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_NAME": "신속 무장",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_DESCRIPTION": "<style=cIsDamage>로켓 4발을 빠르게 발사</style>하고 <style=cIsUtility>무기를 재장전시킵니다</style>.",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME": "로켓스톰",
+        "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION": "로켓 10발을 빠르게 발사</style>하고 <style=cIsUtility>무기를 재장전시킵니다</style>.",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "As Rocket, blast jump 10 times in a row without touching the ground.",
+        "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "폭격수",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Monsoon.",
+        "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "레인저",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>"
+    }
 }

@@ -1,61 +1,44 @@
-{ "ko":
-	{
-	"MOFFEIN_HAND_BODY_NAME" : "HAN-D",
-	"MOFFEIN_HAND_BODY_SUBTITLE" : "ë¬´ê¸‰ ê²½ë¹„ì›",
-	"MOFFEIN_HAND_BODY_DESCRIPTION" : "HAN-DëŠ” ê°•ë ¥í•œ ê·¼ê±°ë¦¬ ê³µê²©ìœ¼ë¡œ ì ë“¤ì„ í˜¼ëž€ì‹œí‚¤ëŠ” íƒ±í¬ ê°™ì€ ë¡œë´‡ ê²½ë¹„ì›ìž…ë‹ˆë‹¤! <style=cSub>\r\n\r\n< ! > ê³µì¤‘ì— ë–  ìžˆëŠ” ì ì— ëŒ€í•œ ìƒí•´ì˜ ë„‰ë°±ì´ ì¦ê°€í–ˆìŠµë‹ˆë‹¤. ê°•ì œ_ìž¬ì¡°ë¦½ì„ ì´ìš©í•´ ì ë“¤ì„ ê³µì¤‘ìœ¼ë¡œ ë„ìš´ ë‹¤ìŒ, ìƒí•´ë¥¼ ì‚¬ìš©í•´ ê·¸ë“¤ì„ ë‚ ë ¤ë³´ë‚´ì„¸ìš”!\r\n\r\n< ! > ì ì„ ê³„ì†í•´ì„œ ì¹  ìˆ˜ ìžˆëŠ” í•œ ì˜¤ë²„í´ëŸ­ì€ ê³„ì† ìœ ì§€ë©ë‹ˆë‹¤.\r\n\r\n< ! > ì˜¤ë²„í´ëŸ­ì„ ì¤‘ë‹¨í•˜ë©´ ìœ„ë¡œ ì‚¬ì¶œë˜ì–´ ê³µì¤‘ì˜ ì ì—ê²Œ ë„ë‹¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\r\n\r\n< ! > ë“œë¡ ì„ ì‚¬ìš©í•˜ì—¬ íšŒë³µí•˜ê³  ì „íˆ¬ë¥¼ ì§€ì†í•˜ì„¸ìš”.\r\n\r\n",
-	"MOFFEIN_HAND_BODY_LORE" :  "<style=cMono>\r\n//--UESì˜ ê¸°ë°˜ ë¶€ì„œë¡œë¶€í„° ìžë™-ì „ì‚¬ë¨ [ì‚­ì œë¨]--//</style>\r\n\r\n<i>*<color=#327FFF>ì²¨ì •ì„ í† ë‹‰</color> ë§žëŠ” ì†Œë¦¬*</i>\n\n<color=#6955A6>ì§€íœ˜</color>ì˜ ìœ ë¬¼ ì—†ì´ í”Œë ˆì´í•˜ëŠ” ê²ƒì´ ë»˜ì§“ì˜ ê¶ê·¹ì ì¸ í˜•íƒœì•¼?\n\në‚˜ëŠ” <color=#6955A6>ì§€íœ˜</color>ì˜ ìœ ë¬¼ ì—†ëŠ” í”Œë ˆì´ë³´ë‹¤ ë” ë°”ë³´ê°™ì€ ì¼ì„ ìƒê°í•´ë‚´ê±°ë‚˜ ì´í•´í•  ìˆ˜ ì—†ì–´. ì†”ì§ížˆ, ì´ì„±ì ìœ¼ë¡œ ìƒê°í•´ ë´. ë„ˆëŠ” 60ë¶„ë™ì•ˆ ë‹¨ì§€ ê±°ì§€ê°™ì€ <color=#77FF16>ì˜¤ì§•ì–´ í´ë¦½</color>ì„ ì–»ê¸° ìœ„í•´ ì˜ê³ , ë‹¬ë¦¬ê³ , ì í”„í•˜ëŠ” ê±°ì•¼. ë‹ˆê°€ ëŸ° ì¤‘ì— í–ˆë˜ ëª¨ë“  íž˜ë“  ì¼ë“¤ - <style=cIsHealth>ëŒ ê±°ì¸</style>ì˜ ë ˆì´ì € í”¼í•˜ê¸°, ë„¤ ë¨¸ë¦¬ ìœ„ì—ì„œ ìŠ¤í°ë˜ëŠ” <style=cIsHealth>ì†Œí˜• ìœ„ìŠµ</color> ë•Œë¬¸ì— ìŠ¤íŠ¸ë ˆìŠ¤ ë°›ê¸°, <color=#E5C962>ì‚°ì˜ ì„±ì†Œ</color> í™œì„±í™”í•˜ê¸° ë“± ëª¨ë“  ê²ƒë“¤ì€ í•˜ë‚˜ì˜ ë‹¨ìˆœí•œ ê²°ê³¼ë¥¼ ìœ„í•œ ê±°ì•¼: ë„¤ ì¸ë²¤í† ë¦¬ëŠ” ëˆì´ ë“œëŠ” <color=#FFFFFF>ì „ìŸê¹ƒë°œ</color>ê³¼ <color=#FFFFFF>ëª¬ìŠ¤í„° ì´ë¹¨</color> ëª©ê±¸ì´ë¡œ ê°€ë“ ì°¼ì–´.\n\nìž˜ í’€ë¦¬ëŠ” ëŸ°ì—ì„œ? ì¢‹ì•„. ë„¤ ëŸ°ì— ì•„ë¬´ ê²ƒë„ ë„ì›€ì´ ë˜ì§€ ì•ŠëŠ” ë˜¥ê°™ì€ ì•„ì´í…œ ë‹¤ë°œì´ ê²°êµ­ ë„¤ê°€ ì‚¬ëŠ” <color=#E5C962>ìƒìž</color>ì—ì„œ ë‚˜ì™€. ê·¸ê²ƒë“¤ì€ ë„¤ê°€ <style=cIsHealth>ë ˆë¬´ë¦¬ì•ˆ</style>ë“¤ì„ ì£½ì´ëŠ” ê²ƒìœ¼ë¡œë¶€í„° íž˜ë“¤ê²Œ ì–»ì–´ë‚¸ ë„¤ ë…¸ë ¥ìœ¼ë¡œë¶€í„° ì´ìµì„ ì·¨í•´.\n\nì´ ê²Œìž„ì„ í•˜ëŠ” ì‚¬ëžŒìœ¼ë¡œì„œ ë„ˆëŠ” <style=cIsHealth><b>ë§ ê·¸ëŒ€ë¡œ</b></style> ë„¤ ì¸ìƒì˜ ë‘ ì‹œê°„ì„ ìƒìžë¥¼ ì—´ê³  ë˜ ë‹¤ë¥¸ <color=#77FF16>ì‹œê°„ì˜ ë°©ìš¸</color>ì´ ë‚˜ì˜¤ì§€ ì•Šë„ë¡ ê¸°ë„í•˜ëŠ” ë°ì— í—Œë‚©í•˜ê³  ìžˆì–´. ì´ê±´ ì •ë§ ê¶ê·¹ì ì´ê³  ìµœì¢…ì ì¸ ë°”ë³´ì§“ì´ì•¼. ë…¼ë¦¬ì ìœ¼ë¡œ ìƒê°í•´ ë³´ê¸¸ ë°”ëž˜.\r\n<style=cMono>\r\nì „ì‚¬ ì™„ë£Œë¨.\r\n</style>\r\n \r\n\r\n",
-	"MOFFEIN_HAND_BODY_OUTRO_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ê²ƒì€ ë– ë‚¬ë‹¤, ìƒˆë¡œìš´ ì‚¶ì— ëŒ€í•œ ê¸°ì¨ìœ¼ë¡œ ë¶€í’ˆì„ ë–¨ë©´ì„œ.",
-	"MOFFEIN_HAND_BODY_OUTRO_FAILURE" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ê²ƒì€ ì‚¬ë¼ì¡Œë‹¤, ê·¸ê²ƒì˜ ë…¸ë ¥ ëª¨ë‘ë¥¼ ë³´ìƒë°›ì§€ ëª»í•œ ì±„ë¡œ.",
-	
-	"MOFFEIN_HAND_BODY_PASSIVE_NAME" : "êµ°ì¤‘_ê²¬ê°‘",
-	"MOFFEIN_HAND_BODY_PASSIVE_DESC" : "ëª¨ë“  ì•„êµ° <style=cIsUtility>ë“œë¡ </style>ì— ëŒ€í•´ <style=cIsDamage>ë“¤ì–´ì˜¤ëŠ” í”¼í•´</style>ë¥¼ ìžì‹ ì˜ ìµœëŒ€ ì²´ë ¥ì˜ <style=cIsDamage>0.3%</style>ë§Œí¼ <style=cIsDamage>ì¤„ìž…ë‹ˆë‹¤.</style>",
-	
-	"MOFFEIN_HAND_BODY_PRIMARY_NAME" : "ìƒí•´",
-	"MOFFEIN_HAND_BODY_PRIMARY_DESC" : "ëª¨ë“  ì „íˆ¬ì›ì—ê²Œ <style=cIsDamage>390%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsDamage>ì˜¤ë²„í´ëŸ­</style>ì´ í™œì„±í™”ë˜ì–´ ìžˆëŠ” ë™ì•ˆì—” ì ë“¤ì„ <style=cIsDamage>ê¸°ì ˆ</style>ì‹œí‚µë‹ˆë‹¤.",
-	
-	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME" : "ì¶©ëŒ",
-	"MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC" : "ìž ì‹œ <style=cIsHealth>ëŠë ¤ì§„ í›„</style> ëª¨ë“  ì „íˆ¬ì›ì—ê²Œ ë§ì¹˜ë¥¼ íœ˜ë‘˜ëŸ¬ <style=cIsDamage>600%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsDamage>ì˜¤ë²„í´ëŸ­</style>ì´ í™œì„±í™”ë˜ì–´ ìžˆëŠ” ë™ì•ˆì—” ì ë“¤ì„ <style=cIsDamage>ê¸°ì ˆ</style>ì‹œí‚µë‹ˆë‹¤.",
-	
-	"MOFFEIN_HAND_BODY_SECONDARY_NAME" : "ê°•ì œ_ìž¬ì¡°ë¦½",
-	"MOFFEIN_HAND_BODY_SECONDARY_DESC" : "<style=cIsDamage>ê¸°ì ˆ</style>. ì¶©ì „í•œ í›„ ëª¨ë“  ì „íˆ¬ì›ì—ê²Œ í° ì¶©ê²©ì„ ê°€í•´ <style=cIsDamage>600%-1500%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME" : "ë¹„ìœ¤ë¦¬ì _ìž¬ì¡°ë¦½",
-	"MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC" : "<style=cIsDamage>ê¸°ì ˆ</style>. ì¶©ì „í•œ í›„ ëª¨ë“  ì „íˆ¬ì›ì—ê²Œ <style=cIsHealth>ì••ë„ì ì¸</style> ì¶©ê²©ì„ ê°€í•´ <style=cIsDamage>900%-2250%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>ì‚¬ì¶œ</style><style=cSub>ì´ ìŠ¤í‚¬ì„ ë„ì¤‘ì— ì·¨ì†Œí•˜ì—¬ ìœ„ë¡œ ë›°ì–´ì˜¤ë¥¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.</style>",
-	
-	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME" : "ì¤‘ë‹¨",
-	"MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>ìœ„ë¡œ ë›°ì–´ì˜¤ë¦…ë‹ˆë‹¤</style>.",
-	
-	"MOFFEIN_HAND_BODY_UTILITY_NAME" : "ì˜¤ë²„í´ëŸ­",
-	"MOFFEIN_HAND_BODY_UTILITY_DESC" : "<style=cIsUtility>ì‚¬ì¶œ</style>. <style=cIsUtility>ì´ë™ ì†ë„</style>ì™€ <style=cIsDamage>ê³µê²© ì†ë„</style>ë¥¼ <style=cIsDamage>40%</style>ë§Œí¼ ì¦ê°€ì‹œí‚µë‹ˆë‹¤. ì ì„ íƒ€ê²©í•˜ë©´ <style=cIsUtility>ì§€ì†ì‹œê°„ì´ ì—°ìž¥ë©ë‹ˆë‹¤</style>.",
-	
-	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME" : "ì´ˆì ",
-	"MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>ì‚¬ì¶œ</style>. <style=cIsDamage>ê³µê²©ë ¥ì˜ 50%</style>ë¥¼ ì¶”ê°€ë¡œ ì–»ê³  <style=cIsUtility>50ì˜ ë°©ì–´ë ¥</style>ì„ ì–»ì§€ë§Œ. ì ì„ íƒ€ê²©í•˜ë©´ <style=cIsUtility>ì§€ì†ì‹œê°„ì´ ì—°ìž¥ë©ë‹ˆë‹¤</style>.",
-	
-	"MOFFEIN_HAND_BODY_SPECIAL_NAME" : "ë“œë¡  - ì¹˜ìœ ",
-	"MOFFEIN_HAND_BODY_SPECIAL_DESC" : "ë“œë¡ ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>270%ì˜ í”¼í•´</style>ë¥¼ ìž…ížˆê³  <style=cIsHealing>ê°€í•œ í”¼í•´ì˜ 40%ë¥¼ íšŒë³µí•©ë‹ˆë‹¤</style>. ì ì„ ì£½ì´ê±°ë‚˜ ì£¼ ê³µê²©ì„ ì ì¤‘ì‹œì¼œ <style=cIsUtility>ìž¬ì‚¬ìš© ëŒ€ê¸°ì‹œê°„ì„ ì¤„ìž…ë‹ˆë‹¤</style>.",
-	
-	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME" : "ë“œë¡  - ì†ë„",
-	"MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC" : "ë“œë¡ ì„ ë°œì‚¬í•˜ì—¬ <style=cIsDamage>270%ì˜ í”¼í•´</style>ë¥¼ ìž…ížˆê³  <style=cIsDamage>ì¼ì‹œì ìœ¼ë¡œ ê³µê²© ì†ë„ë¥¼ ì¦ê°€ì‹œí‚µë‹ˆë‹¤</style>. ì ì„ ì£½ì´ê±°ë‚˜ ì£¼ ê³µê²©ì„ ì ì¤‘ì‹œì¼œ <style=cIsUtility>ìž¬ì‚¬ìš© ëŒ€ê¸°ì‹œê°„ì„ ì¤„ìž…ë‹ˆë‹¤</style>.",
-	
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME" : "Handyman",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION" : "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
-	
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME" : "HAN-D: Beatdown",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION" : "Keep OVERCLOCK active for over 45 seconds.",
-	
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME" : "HAN-D: Bonk!",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION" : "Flatten the final boss.",
-	
-	"MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME" : "WOO-D",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME" : "HAN-D: Mastery",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "As HAN-D, beat the game or obliterate on Monsoon.",
-
-	"MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME" : "RE-TRN",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME" : "HAN-D: Grand Mastery",
-	"ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION" : "As HAN-D, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
-	
-	"MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME" : "HO-POO",
-	}
+{
+    "ko": {
+        "MOFFEIN_HAND_BODY_NAME": "HAN-D",
+        "MOFFEIN_HAND_BODY_SUBTITLE": "무급 경비원",
+        "MOFFEIN_HAND_BODY_DESCRIPTION": "HAN-D는 강력한 근거리 공격으로 적들을 혼란시키는 탱크 같은 로봇 경비원입니다! <style=cSub>\r\n\r\n< ! > 공중에 떠 있는 적에 대한 상해의 넉백이 증가했습니다. 강제_재조립을 이용해 적들을 공중으로 띄운 다음, 상해를 사용해 그들을 날려보내세요!\r\n\r\n< ! > 적을 계속해서 칠 수 있는 한 오버클럭은 계속 유지됩니다.\r\n\r\n< ! > 오버클럭을 중단하면 위로 사출되어 공중의 적에게 도달할 수 있습니다.\r\n\r\n< ! > 드론을 사용하여 회복하고 전투를 지속하세요.\r\n\r\n",
+        "MOFFEIN_HAND_BODY_LORE": "<style=cMono>\r\n//--UES의 기반 부서로부터 자동-전사됨 [삭제됨]--//</style>\r\n\r\n<i>*<color=#327FFF>첨정석 토닉</color> 맞는 소리*</i>\n\n<color=#6955A6>지휘</color>의 유물 없이 플레이하는 것이 뻘짓의 궁극적인 형태야?\n\n나는 <color=#6955A6>지휘</color>의 유물 없는 플레이보다 더 바보같은 일을 생각해내거나 이해할 수 없어. 솔직히, 이성적으로 생각해 봐. 너는 60분동안 단지 거지같은 <color=#77FF16>오징어 폴립</color>을 얻기 위해 쏘고, 달리고, 점프하는 거야. 니가 런 중에 했던 모든 힘든 일들 - <style=cIsHealth>돌 거인</style>의 레이저 피하기, 네 머리 위에서 스폰되는 <style=cIsHealth>소형 위습</color> 때문에 스트레스 받기, <color=#E5C962>산의 성소</color> 활성화하기 등 모든 것들은 하나의 단순한 결과를 위한 거야: 네 인벤토리는 돈이 드는 <color=#FFFFFF>전쟁깃발</color>과 <color=#FFFFFF>몬스터 이빨</color> 목걸이로 가득 찼어.\n\n잘 풀리는 런에서? 좋아. 네 런에 아무 것도 도움이 되지 않는 똥같은 아이템 다발이 결국 네가 사는 <color=#E5C962>상자</color>에서 나와. 그것들은 네가 <style=cIsHealth>레무리안</style>들을 죽이는 것으로부터 힘들게 얻어낸 네 노력으로부터 이익을 취해.\n\n이 게임을 하는 사람으로서 너는 <style=cIsHealth><b>말 그대로</b></style> 네 인생의 두 시간을 상자를 열고 또 다른 <color=#77FF16>시간의 방울</color>이 나오지 않도록 기도하는 데에 헌납하고 있어. 이건 정말 궁극적이고 최종적인 바보짓이야. 논리적으로 생각해 보길 바래.\r\n<style=cMono>\r\n전사 완료됨.\r\n</style>\r\n \r\n\r\n",
+        "MOFFEIN_HAND_BODY_OUTRO_FLAVOR": "..그리하여 그것은 떠났다, 새로운 삶에 대한 기쁨으로 부품을 떨면서.",
+        "MOFFEIN_HAND_BODY_OUTRO_FAILURE": "..그리하여 그것은 사라졌다, 그것의 노력 모두를 보상받지 못한 채로.",
+        "MOFFEIN_HAND_BODY_PASSIVE_NAME": "군중_견갑",
+        "MOFFEIN_HAND_BODY_PASSIVE_DESC": "모든 아군 <style=cIsUtility>드론</style>에 대해 <style=cIsDamage>들어오는 피해</style>를 자신의 최대 체력의 <style=cIsDamage>0.3%</style>만큼 <style=cIsDamage>줄입니다.</style>",
+        "MOFFEIN_HAND_BODY_PRIMARY_NAME": "상해",
+        "MOFFEIN_HAND_BODY_PRIMARY_DESC": "모든 전투원에게 <style=cIsDamage>390%의 피해</style>를 입힙니다. <style=cIsDamage>오버클럭</style>이 활성화되어 있는 동안엔 적들을 <style=cIsDamage>기절</style>시킵니다.",
+        "MOFFEIN_HAND_BODY_PRIMARY_HAMMER_NAME": "충돌",
+        "MOFFEIN_HAND_BODY_PRIMARY_HAMMER_DESC": "잠시 <style=cIsHealth>느려진 후</style> 모든 전투원에게 망치를 휘둘러 <style=cIsDamage>600%의 피해</style>를 입힙니다. <style=cIsDamage>오버클럭</style>이 활성화되어 있는 동안엔 적들을 <style=cIsDamage>기절</style>시킵니다.",
+        "MOFFEIN_HAND_BODY_SECONDARY_NAME": "강제_재조립",
+        "MOFFEIN_HAND_BODY_SECONDARY_DESC": "<style=cIsDamage>기절</style>. 충전한 후 모든 전투원에게 큰 충격을 가해 <style=cIsDamage>600%-1500%의 피해</style>를 입힙니다.",
+        "MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_NAME": "비윤리적_재조립",
+        "MOFFEIN_HAND_BODY_SECONDARY_SCEPTER_DESC": "<style=cIsDamage>기절</style>. 충전한 후 모든 전투원에게 <style=cIsHealth>압도적인</style> 충격을 가해 <style=cIsDamage>900%-2250%의 피해</style>를 입힙니다.",
+        "KEYWORD_MOFFEINHANDOVERCLOCKED_BOOST": "<style=cKeywordName>사출</style><style=cSub>이 스킬을 도중에 취소하여 위로 뛰어오를 수 있습니다.</style>",
+        "MOFFEIN_HAND_BODY_UTILITY_CANCEL_NAME": "중단",
+        "MOFFEIN_HAND_BODY_UTILITY_CANCEL_DESC": "<style=cIsUtility>위로 뛰어오릅니다</style>.",
+        "MOFFEIN_HAND_BODY_UTILITY_NAME": "오버클럭",
+        "MOFFEIN_HAND_BODY_UTILITY_DESC": "<style=cIsUtility>사출</style>. <style=cIsUtility>이동 속도</style>와 <style=cIsDamage>공격 속도</style>를 <style=cIsDamage>40%</style>만큼 증가시킵니다. 적을 타격하면 <style=cIsUtility>지속시간이 연장됩니다</style>.",
+        "MOFFEIN_HAND_BODY_UTILITY_NEMESIS_NAME": "초점",
+        "MOFFEIN_HAND_BODY_UTILITY_NEMESIS_DESC": "<style=cIsUtility>사출</style>. <style=cIsDamage>공격력의 50%</style>를 추가로 얻고 <style=cIsUtility>50의 방어력</style>을 얻지만. 적을 타격하면 <style=cIsUtility>지속시간이 연장됩니다</style>.",
+        "MOFFEIN_HAND_BODY_SPECIAL_NAME": "드론 - 치유",
+        "MOFFEIN_HAND_BODY_SPECIAL_DESC": "드론을 발사하여 <style=cIsDamage>270%의 피해</style>를 입히고 <style=cIsHealing>가한 피해의 40%를 회복합니다</style>. 적을 죽이거나 주 공격을 적중시켜 <style=cIsUtility>재사용 대기시간을 줄입니다</style>.",
+        "MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME": "드론 - 속도",
+        "MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC": "드론을 발사하여 <style=cIsDamage>270%의 피해</style>를 입히고 <style=cIsDamage>일시적으로 공격 속도를 증가시킵니다</style>. 적을 죽이거나 주 공격을 적중시켜 <style=cIsUtility>재사용 대기시간을 줄입니다</style>.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME": "Handyman",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME": "HAN-D: Beatdown",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "Keep OVERCLOCK active for over 45 seconds.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME": "HAN-D: Bonk!",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Flatten the final boss.",
+        "MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME": "WOO-D",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME": "HAN-D: Mastery",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Monsoon.",
+        "MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME": "RE-TRN",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME": "HAN-D: Grand Mastery",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME": "HO-POO"
+    }
 }

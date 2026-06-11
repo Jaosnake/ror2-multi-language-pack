@@ -15,13 +15,13 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "マゾヒズム",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "遺恨",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Dante's Rebuke",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>予測</style>100の熱量を失うか得るごとに、アーソニストは予測チャージを1获得；5チャージ獲得後、マゾヒズムを発動可能；追加チャージはダメージと持続時間を増加；終了時に全チャージを消費。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>予測</style>100の熱量を失うか得るごとに、アーソニストは予測チャージを1获得;5チャージ獲得後、マゾヒズムを発動可能;追加チャージはダメージと持続時間を増加;終了時に全チャージを消費。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>爆発</style>アーソニストが爆発し、蓄積された予測チャージ数×<style=cIsDamage>150%ダメージ</style>。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>ライフスティール</style>アーソニストはマゾヒズム発動中、与ダメージの<style=cIsHealing>18%</style>を回復。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>ライフスティール</style>アーソニストは遺恨発動中、与ダメージの<style=cIsHealing>5%</style>を回復。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>過熱：マゾヒズム</style>アーソニストが過剰な熱量蓄積によりマゾヒズムを離脱した場合、EX過熱が適用され、移動速度とダメージが70%に低下。キャンセルまたはスキルを完了させると過熱が適用され、攻撃速度が50%に低下。",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "過熱！",
-        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...！",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱：EX！"
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>過熱:マゾヒズム</style>アーソニストが過剰な熱量蓄積によりマゾヒズムを離脱した場合、EX過熱が適用され、移動速度とダメージが70%に低下。キャンセルまたはスキルを完了させると過熱が適用され、攻撃速度が50%に低下。",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "過熱!",
+        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱:EX!"
     }
 }

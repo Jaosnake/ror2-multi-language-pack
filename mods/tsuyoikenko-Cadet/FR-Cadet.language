@@ -1,16 +1,16 @@
 {
     "FR": {
         "KENKO_CADET_NAME": "Cadet",
-        "KENKO_CADET_SUBTITLE": "Tireur d'\u00c9lite Polyvalent",
-        "KENKO_CADET_DEFAULT_SKIN_NAME": "Par d\u00e9faut",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet : Sp\u00e9cialiste",
-        "KENKO_CADET_PRIMARY_SMG_NAME": "Temp\u00eate de Balles",
-        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Mar\u00e9es D\u00e9vastatrices",
+        "KENKO_CADET_SUBTITLE": "Tireur d'Élite Polyvalent",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Par défaut",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet : Spécialiste",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Tempête de Balles",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marées Dévastatrices",
         "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
         "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
-        "KENKO_CADET_UTILITY_SLIDE_NAME": "Recharge Gliss\u00e9e",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Recharge Glissée",
         "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Roulade de Rechargement",
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
-        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones \u00c9cho",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Écho"
     }
 }

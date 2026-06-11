@@ -1,14 +1,15 @@
-JAVANGLE_HOUSE_BODY_NAME: Ð¥Ð°ÑƒÑ
-JAVANGLE_HOUSE_BODY_SUBTITLE: Ð‘ÐµÐ·ÑƒÐ¼Ð½Ñ‹Ð¹ Ð˜Ð³Ñ€Ð¾Ðº
-JAVANGLE_HOUSE_BODY_DESCRIPTION: Ð¥Ð°ÑƒÑ â€” Ð±ÐµÐ·ÑƒÐ¼Ð½Ñ‹Ð¹ Ð¸Ð³Ñ€Ð¾Ðº, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð»Ð°Ð³Ð°ÐµÑ‚ÑÑ Ð½Ð° ÑÐ²Ð¾ÑŽ ÑƒÐ´Ð°Ñ‡Ñƒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€ÐµÐ¾Ð´Ð¾Ð»ÐµÐ²Ð°Ñ‚ÑŒ Ñ‚Ñ€ÑƒÐ´Ð½Ñ‹Ðµ ÑÐ¸Ñ‚ÑƒÐ°Ñ†Ð¸Ð¸, Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑ Ð´Ð²Ð° Ñ‚Ð°Ð¸Ð½ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ñ… Ð°Ñ€Ñ‚ÐµÑ„Ð°ÐºÑ‚Ð° ÑÑƒÐ´ÑŒÐ±Ñ‹: 6-Ð·Ð°Ñ€ÑÐ´Ð½Ñ‹Ð¹ Ñ€ÐµÐ²Ð¾Ð»ÑŒÐ²ÐµÑ€ Ð¿Ð¾Ð´ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸ÐµÐ¼ <style=cIsUtility>"Ð ÑƒÐ»ÐµÑ‚ÐºÐ°"</style> Ð¸, Ð¿Ð¾-Ð²Ð¸Ð´Ð¸Ð¼Ð¾Ð¼Ñƒ, Ð¿Ñ€Ð¾ÐºÐ»ÑÑ‚ÑƒÑŽ ÐºÐ¾Ð»Ð¾Ð´Ñƒ ÐºÐ°Ñ€Ñ‚.
-
-JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹
-JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME: ÐœÐ°ÑÑ‚ÐµÑ€ÑÑ‚Ð²Ð¾
-JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME: BulletArts: ÐŸÑƒÑÑ‚Ð¾Ñ‚Ð°
-JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION: <style=cIsUtility>ÐŸÑ€Ð¾Ð²Ð¾Ñ€Ð½Ñ‹Ð¹</style>. Ð¡Ð´ÐµÐ»Ð°Ð¹Ñ‚Ðµ ÑÐ»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ð¹ Ð·Ð°Ñ€ÑÐ¶ÐµÐ½Ð½Ñ‹Ð¹ Ð²Ñ‹ÑÑ‚Ñ€ÐµÐ». ÐšÐ¾Ð³Ð´Ð° Ð¿Ð°Ñ‚Ñ€Ð¾Ð½Ð¾Ð² Ð½Ðµ Ð¾ÑÑ‚Ð°Ð»Ð¾ÑÑŒ: Ð½Ð¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð´ÐµÐ»Ð°ÐµÑ‚.
-
-DEFAULT_SKIN_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹
-MASTERY_SKIN_NAME: Ð¥Ð°ÑƒÑ: ÐœÐ°ÑÑ‚ÐµÑ€ÑÑ‚Ð²Ð¾
-
-BODY_OUTRO_FLAVOR: ..Ð¸ Ñ‚Ð°Ðº Ð¾Ð½ ÑƒÑˆÑ‘Ð», ÑÐ½Ð¾Ð²Ð° Ð¸Ð³Ñ€Ð°Ñ Ñ ÑÑƒÐ´ÑŒÐ±Ð¾Ð¹ Ð² ÐºÐ¾ÑˆÐºÐ¸-Ð¼Ñ‹ÑˆÐºÐ¸.
-BODY_OUTRO_FAILURE: ..Ð¸ Ñ‚Ð°Ðº Ð¾Ð½ Ð¸ÑÑ‡ÐµÐ·, ÐµÐ³Ð¾ ÑƒÐ´Ð°Ñ‡Ð° Ð½Ð°ÐºÐ¾Ð½ÐµÑ† Ð¸ÑÑÑÐºÐ»Ð°.
+{
+    "RU": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Хаус",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Безумный Игрок",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Хаус — безумный игрок, который полагается на свою удачу, чтобы преодолевать трудные ситуации, используя два таинственных артефакта судьбы: 6-зарядный револьвер под названием <style=cIsUtility>\"Рулетка\"</style> и, по-видимому, проклятую колоду карт.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Мастерство",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: Пустота",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Сделайте случайный заряженный выстрел. Когда патронов не осталось: ничего не делает.",
+        "DEFAULT_SKIN_NAME": "Обычный",
+        "MASTERY_SKIN_NAME": "Хаус: Мастерство",
+        "BODY_OUTRO_FLAVOR": "..и так он ушёл, снова играя с судьбой в кошки-мышки.",
+        "BODY_OUTRO_FAILURE": "..и так он исчез, его удача наконец иссякла."
+    }
+}

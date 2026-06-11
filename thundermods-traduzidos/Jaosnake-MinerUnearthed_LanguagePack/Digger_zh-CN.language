@@ -1,44 +1,33 @@
-{ "zh-CN":
-	{
-	"MINER_NAME" : "çŸ¿å·¥",
-	"MINER_DESCRIPTION" : "çŸ¿å·¥æ˜¯ä¸€ä¸ªå¿«èŠ‚å¥ä¸”é«˜æœºåŠ¨çš„è¿‘æˆ˜å¹¸å­˜è€…ï¼Œè¦ä¼˜å…ˆè€ƒè™‘å‡»æ€æ•ŒäººèŽ·å¾—è¢«åŠ¨å †å ã€‚<color=#CCD3E0>\n\n< ! >ä¸€æ—¦ä½ èŽ·å¾—äº†å¤§é‡çš„è‚¾ä¸Šè…ºç´ ï¼Œå‡¿å‡»å’Œå¾æœå°†æ˜¯ä½ æœ€å¥½çš„ä¼¤å®³æ¥æºã€‚\n\n< ! >é’»å¤´å†²é”‹å……èƒ½åªå½±å“é€ æˆçš„ä¼¤å®³ã€‚çž„å‡†åœ°é¢æˆ–æ•Œäººé€ æˆé›†ä¸­ä¼¤å®³ã€‚\n\n< ! >å¯ä»¥ä½¿ç”¨åŽæ’¤æ­¥ä»¥ç§»åŠ¨ä¸€å°æ®µè·ç¦»ã€‚æŒ‰ä½å¯ä»¥ç§»åŠ¨å¾—æ›´è¿œã€‚\n\n< ! >æ˜Ÿä¹‹é—ªçƒå¯ä»¥å¯¹å¤§åž‹æ•Œäººé€ æˆé«˜é¢ä¼¤å®³ã€‚",
-	"MINER_SUBTITLE" : "ç ´åæ€§æŒ–æŽ˜è€…",
-	"MINER_LORE" : "\nåœ¨è´§è½®åºŸå¢Ÿçš„å†°å†·é’¢é“å’Œå¯’å†·çš„å¤œæ™šçš„ç©ºæ°”ä¸­ï¼Œæœ‰å£°æ‚å¿—çš„å¾®å¼±è“å…‰æ˜ å…¥çœ¼å¸˜ã€‚æ—¥è®°æœ¬åœ¨è´§ç‰©çš„æ®‹éª¸ä¸­å®Œå…¨å¤±ä¿®ï¼Œä½†å®ƒä»ç„¶å­˜åœ¨ï¼Œä¿æŒåŠŸèƒ½ã€‚è®¾å¤‡å¤–å£³ä¸Šçš„æ¨¡æ‹ŸæŒ‰é’®ç¼“æ…¢è·³åŠ¨ï¼Œä»¿ä½›åœ¨é‚€è¯·ä»»ä½•äººè†å¬ä»–ä»¬æ‰­æ›²çš„æ¡ç›®ï¼Œè¿žè´¯æ€§ä¸æ–­è¡°å‡...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''ç¬¬ä¸€ä¸ªæ—¥å¿—ã€‚æ—¥æœŸï¼Œå‘ƒâ€¦â€¦å“¦ï¼Œ5ï¼Œå“¦ï¼Œ1ï¼Œ20-50-5ã€‚å¸ƒæ‹‰æ–¯å†³å®šæŠŠæˆ‘ä»¬ä»Žé‡‡çŸ¿å·¥ä½œä¸­æ‹‰å‡ºæ¥ã€‚ç»è¿‡å‡ ä¸ªæœˆçš„æŒ–æŽ˜ï¼Œç»è¿‡å‡ ä¸ªæœˆçš„é²œè¡€ï¼Œåœ¨è¿™é¡¹è¡ŒåŠ¨ä¸ŠèŠ±è´¹äº†æ•°ç™¾ä¸‡ç¾Žå…ƒï¼Œæˆ‘ä»¬åªæ˜¯æ”¾å¼ƒäº†å—ï¼Ÿ''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''æˆ‘ä»Žæ¥æ²¡æœ‰è§è¿‡è¿™æ ·çš„ä¸œè¥¿ã€‚å†…éƒ¨å‡ ä¹Žå°±åƒä¸€ä¸ªä¸‡èŠ±ç­’ã€‚é»„é“œå¸Œæœ›æˆ‘ä»¬å°½å¿«ç¦»å¼€ã€‚ä»Šæ™šæˆ‘è¦å‡ºåŽ»æŠŠå‰©ä¸‹çš„æŒ–å‡ºæ¥â€¦â€¦å¦‚æžœæˆ‘èƒ½åšåˆ°è¿™ä¸€ç‚¹ï¼ŒæŽ¥ä¸‹æ¥çš„ä¸€åƒè–ªæ°´å°±ä¼šæ‹¿åˆ°ã€‚æˆ‘ä¸€ç›´åœ¨ç­‰å¾…è¿™æ ·çš„æœºä¼šã€‚''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''å¾ˆç¡®å®šä»–ä»¬ä»€ä¹ˆéƒ½çŸ¥é“ã€‚ä»–ä»¬çŽ°åœ¨åœ¨è´¨ç–‘äººä»¬ã€‚æˆ‘æŠŠç¥žå™¨è—åœ¨é€šé£Žå£ï¼Œåº”è¯¥æ˜¯å®‰å…¨çš„ã€‚è´§æœºå«UESï¼Œå‡ ä¸ªæœˆåŽå¯¹æŽ¥ã€‚æˆ‘åªéœ€è¦åšæŒå·å·æ‘¸æ‘¸ã€‚''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''ä»–ä»¬åœ¨æ‰¾æˆ‘ï¼Œä¸ä¹…ä»–ä»¬å°±æ‰¾åˆ°äº†æˆ‘ï¼Œåƒä¸€ä¸ªèº²åœ¨èˆ¹å£ä¸Šçš„è‚¥è€é¼ ã€‚è´§æœºåœè¿ï¼Œæˆ‘ä¸ºæ­¤ä»˜å‡ºäº†ä¸€åˆ‡ã€‚æˆ‘ä¸ºæ­¤ä»˜å‡ºäº†<i>ä¸€åˆ‡</i>ã€‚''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''èˆ¹ä½“æŸå¤„ã€‚æ²¡æœ‰äººå›žåˆ°è¿™é‡Œï¼Œç”šè‡³æ²¡æœ‰ç»´æŠ¤ã€‚åœ¨èˆ¹åˆ°è¾¾ä¹‹å‰æˆ‘åº”è¯¥æ˜¯å®‰å…¨çš„ã€‚''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''èˆ¹ä»ç„¶æç½®ã€‚ä¸çŸ¥é“ä»€ä¹ˆæ—¶å€™å‡ºå‘ã€‚'' <color=#8990A7><å‘»åŸ></color>\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>åœ¨è¿™ï¼Œæœ€åŽï¼Œæœ€åŽã€‚å¿…é¡»æŠŠç¥žå™¨æ‹¿åˆ°èˆ¹ä¸Šã€‚ä¸è¿‡ï¼Œåˆ°å¤„éƒ½æ˜¯å®‰ä¿ã€‚ä½£å…µå›¢...'' <color=#8990A7><è¿œå¤„çš„å£°éŸ³æœ‰å¬ä¸æ¸…çš„å¯¹è¯></color> ''å¥½çš„ã€‚ä½å£ã€‚é—­å˜´èµ°å§ã€‚æˆ‘è¦åŽ»ã€‚åŽ»ã€‚ä»Šæ™šã€‚''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>èˆ¹å‡ºäº‹äº†ã€‚è´§ç‰©é£žå‡ºã€‚é—å¤±ç¥žå™¨ã€‚å¤±åŽ»äº†ä¸€åˆ‡. . . . å¤±åŽ»äº†<color=#8990A7>-//-</color>.''\n\néŸ³é¢‘æ—¥å¿—çš„å±å¹•å‘å‡ºç«èŠ±å’Œçˆ†è£‚å£°ï¼Œå¤„äºŽå®Œå…¨çš„é»‘æš—ä¸­ï¼Œä¼´éšç€çŸ¿å·¥ä¸ç¥¥çš„é—è¨€å¸¦æ¥çš„éœ‡è€³æ¬²è‹çš„æ²‰é»˜ã€‚",
-	"MINER_OUTRO" : "..æ‰€ä»¥ä»–ç¦»å¼€äº†ï¼Œè‚¾ä¸Šè…ºç´ è¿˜åœ¨ä»–çš„è¡€ç®¡é‡Œå¥”è…¾ã€‚",
-	"MINER_OUTRO_FLAVOR" : "..æ‰€ä»¥ä»–ç¦»å¼€äº†ï¼Œè‚¾ä¸Šè…ºç´ è¿˜åœ¨ä»–çš„è¡€ç®¡é‡Œå¥”è…¾ã€‚",
-	
-	"MINER_PASSIVE_NAME" : "æ·˜é‡‘çƒ­",
-	"MINER_PASSIVE_DESCRIPTION" : "æ”¶åˆ°é‡‘é’±æ—¶ï¼ŒèŽ·å¾—<style=cIsHealth>è‚¾ä¸Šè…ºç´ </style>ï¼Œæå‡<style=cIsDamage>æ”»å‡»é€Ÿåº¦</style>ï¼Œ<style=cIsUtility>ç§»åŠ¨é€Ÿåº¦</style>ï¼Œå’Œ<style=cIsHealing>ç”Ÿå‘½æ¢å¤</style>ã€‚",
-	"KEYWORD_CLEAVING" : "<style=cKeywordName>è£‚åŠˆ</style><style=cSub>æ–½åŠ ä¸€ä¸ªå åŠ å‡ç›Šï¼Œ<style=cIsHealth>æ¯å±‚é™ä½Ž3ç‚¹</style><style=cIsDamage>æŠ¤ç”²</style>ã€‚</style>",
-	
-	"MINER_PRIMARY_GOUGE_NAME" : "å‡¿å‡»",
-	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚å‘é™„è¿‘çš„æ•Œäººç–¯ç‹‚æŒ¥åŠ¨å‡¿å­ï¼Œé€ æˆ<style=cIsDamage>270%ä¼¤å®³</style>ï¼Œ<style=cIsHealth>è£‚åŠˆ</style>æŠ¤ç”²ã€‚",
-	
-	"MINER_PRIMARY_CRUSH_NAME" : "å¾æœ",
-	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚ç²‰ç¢Žé™„è¿‘çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>360%ä¼¤å®³</style>ã€‚<style=cIsUtility>èŒƒå›´éšæ”»å‡»é€Ÿåº¦å¢žåŠ </style>ã€‚",
-	
-	"MINER_SECONDARY_CHARGE_NAME" : "é’»å¤´å†²é”‹",
-	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "å……èƒ½å¹¶å†²å‘æ•Œäººï¼Œæœ€å¤šé€ æˆ<style=cIsDamage>6x180%ä¼¤å®³</style>ã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_SECONDARY_BREAK_NAME" : "ç ´åé”¤",
-	"MINER_SECONDARY_BREAK_DESCRIPTION" : "å‘å‰å†²åˆºï¼Œåœ¨ä¸Žæ•ŒäººæŽ¥è§¦æ—¶ï¼Œçˆ†ç‚¸é€ æˆ<style=cIsDamage>2x240%ä¼¤å®³</style>ã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_UTILITY_BACKBLAST_NAME" : "åŽæ’¤æ­¥",
-	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>çœ©æ™•</style>ã€‚å‘åŽçˆ†ç‚¸ï¼Œå‡»ä¸­é™„è¿‘çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚æŒ‰ä½åŽè·ç¦»æ›´è¿œã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_UTILITY_CAVEIN_NAME" : "å¡Œé™·",
-	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>çœ©æ™•</style>ã€‚å‘åŽçˆ†ç‚¸ï¼Œ<style=cIsUtility>æ‹‰åŠ¨</style>å¤§èŒƒå›´å†…çš„æ‰€æœ‰æ•Œäººã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "æ˜Ÿä¹‹é—ªçƒ",
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "è·³åˆ°ç©ºä¸­ï¼Œç›´æŽ¥å‡»ä¸­ä¸‹æ–¹çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>6x300%ä¼¤å®³</style>ã€‚",
-	
-	"MINER_SPECIAL_TOTHESTARS_NAME" : "é™¨çŸ³é™è½",
-	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "è·³åˆ°ç©ºä¸­ï¼Œå‘ä¸‹å°„å‡ºä¸€å›¢å¼¹ç‰‡ï¼Œé€ æˆ<style=cIsDamage>15x160%ä¼¤å®³</style>ã€‚",
-	
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "å è½çš„å½—æ˜Ÿ",
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "è·³åˆ°ç©ºä¸­ï¼Œå‘ä¸‹å°„å‡ºä¸€å›¢å¼¹ç‰‡ï¼Œé€ æˆ<style=cIsDamage>15x160%ä¼¤å®³</style>ï¼Œç„¶åŽå‘ä¸‹å è½å¹¶äº§ç”Ÿå·¨å¤§çš„å†²å‡»åŠ›ï¼Œé€ æˆ<style=cIsDamage>1500%ä¼¤å®³</style>å¹¶<style=cIsDamage>ç‚¹ç‡ƒ</style>å‡»ä¸­çš„æ•Œäººã€‚",
-	
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "æ˜Ÿç•Œ",
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>çœ©æ™•ã€‚</style>è·³åˆ°ç©ºä¸­ï¼Œç›´æŽ¥å‡»ä¸­ä¸‹æ–¹çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>10x300%æ€»ä¼¤å®³</style>ã€‚"
-	}
+{
+    "zh-CN": {
+        "MINER_NAME": "矿工",
+        "MINER_DESCRIPTION": "矿工是一个快节奏且高机动的近战幸存者,要优先考虑击杀敌人获得被动堆叠。<color=#CCD3E0>\n\n< ! >一旦你获得了大量的肾上腺素,凿击和征服将是你最好的伤害来源。\n\n< ! >钻头冲锋充能只影响造成的伤害。瞄准地面或敌人造成集中伤害。\n\n< ! >可以使用后撤步以移动一小段距离。按住可以移动得更远。\n\n< ! >星之闪烁可以对大型敌人造成高额伤害。",
+        "MINER_SUBTITLE": "破坏性挖掘者",
+        "MINER_LORE": "\n在货轮废墟的冰冷钢铁和寒冷的夜晚的空气中,有声杂志的微弱蓝光映入眼帘。日记本在货物的残骸中完全失修,但它仍然存在,保持功能。设备外壳上的模拟按钮缓慢跳动,仿佛在邀请任何人聆听他们扭曲的条目,连贯性不断衰减...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''第一个日志。日期,呃……哦,5,哦,1,20-50-5。布拉斯决定把我们从采矿工作中拉出来。经过几个月的挖掘,经过几个月的鲜血,在这项行动上花费了数百万美元,我们只是放弃了吗?''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''我从来没有见过这样的东西。内部几乎就像一个万花筒。黄铜希望我们尽快离开。今晚我要出去把剩下的挖出来……如果我能做到这一点,接下来的一千薪水就会拿到。我一直在等待这样的机会。''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''很确定他们什么都知道。他们现在在质疑人们。我把神器藏在通风口,应该是安全的。货机叫UES,几个月后对接。我只需要坚持偷偷摸摸。''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''他们在找我,不久他们就找到了我,像一个躲在船壁上的肥老鼠。货机停运,我为此付出了一切。我为此付出了<i>一切</i>。''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''船体某处。没有人回到这里,甚至没有维护。在船到达之前我应该是安全的。''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''船仍然搁置。不知道什么时候出发。'' <color=#8990A7><呻吟></color>\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>在这,最后,最后。必须把神器拿到船上。不过,到处都是安保。佣兵团...'' <color=#8990A7><远处的声音有听不清的对话></color> ''好的。住口。闭嘴走吧。我要去。去。今晚。''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>船出事了。货物飞出。遗失神器。失去了一切. . . . 失去了<color=#8990A7>-//-</color>.''\n\n音频日志的屏幕发出火花和爆裂声,处于完全的黑暗中,伴随着矿工不祥的遗言带来的震耳欲聋的沉默。",
+        "MINER_OUTRO": "..所以他离开了,肾上腺素还在他的血管里奔腾。",
+        "MINER_OUTRO_FLAVOR": "..所以他离开了,肾上腺素还在他的血管里奔腾。",
+        "MINER_PASSIVE_NAME": "淘金热",
+        "MINER_PASSIVE_DESCRIPTION": "收到金钱时,获得<style=cIsHealth>肾上腺素</style>,提升<style=cIsDamage>攻击速度</style>,<style=cIsUtility>移动速度</style>,和<style=cIsHealing>生命恢复</style>。",
+        "KEYWORD_CLEAVING": "<style=cKeywordName>裂劈</style><style=cSub>施加一个叠加减益,<style=cIsHealth>每层降低3点</style><style=cIsDamage>护甲</style>。</style>",
+        "MINER_PRIMARY_GOUGE_NAME": "凿击",
+        "MINER_PRIMARY_GOUGE_DESCRIPTION": "<style=cIsUtility>灵巧</style>。向附近的敌人疯狂挥动凿子,造成<style=cIsDamage>270%伤害</style>,<style=cIsHealth>裂劈</style>护甲。",
+        "MINER_PRIMARY_CRUSH_NAME": "征服",
+        "MINER_PRIMARY_CRUSH_DESCRIPTION": "<style=cIsUtility>灵巧</style>。粉碎附近的敌人,造成<style=cIsDamage>360%伤害</style>。<style=cIsUtility>范围随攻击速度增加</style>。",
+        "MINER_SECONDARY_CHARGE_NAME": "钻头冲锋",
+        "MINER_SECONDARY_CHARGE_DESCRIPTION": "充能并冲向敌人,最多造成<style=cIsDamage>6x180%伤害</style>。<style=cIsUtility>在此期间不能被击中。</style>",
+        "MINER_SECONDARY_BREAK_NAME": "破坏锤",
+        "MINER_SECONDARY_BREAK_DESCRIPTION": "向前冲刺,在与敌人接触时,爆炸造成<style=cIsDamage>2x240%伤害</style>。<style=cIsUtility>在此期间不能被击中。</style>",
+        "MINER_UTILITY_BACKBLAST_NAME": "后撤步",
+        "MINER_UTILITY_BACKBLAST_DESCRIPTION": "<style=cIsDamage>眩晕</style>。向后爆炸,击中附近的敌人,造成<style=cIsDamage>600%伤害</style>。按住后距离更远。<style=cIsUtility>在此期间不能被击中。</style>",
+        "MINER_UTILITY_CAVEIN_NAME": "塌陷",
+        "MINER_UTILITY_CAVEIN_DESCRIPTION": "<style=cIsUtility>眩晕</style>。向后爆炸,<style=cIsUtility>拉动</style>大范围内的所有敌人。<style=cIsUtility>在此期间不能被击中。</style>",
+        "MINER_SPECIAL_TOTHESTARSCLASSIC_NAME": "星之闪烁",
+        "MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION": "跳到空中,直接击中下方的敌人,造成<style=cIsDamage>6x300%伤害</style>。",
+        "MINER_SPECIAL_TOTHESTARS_NAME": "陨石降落",
+        "MINER_SPECIAL_TOTHESTARS_DESCRIPTION": "跳到空中,向下射出一团弹片,造成<style=cIsDamage>15x160%伤害</style>。",
+        "MINER_SPECIAL_SCEPTERTOTHESTARS_NAME": "坠落的彗星",
+        "MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION": "跳到空中,向下射出一团弹片,造成<style=cIsDamage>15x160%伤害</style>,然后向下坠落并产生巨大的冲击力,造成<style=cIsDamage>1500%伤害</style>并<style=cIsDamage>点燃</style>击中的敌人。",
+        "MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME": "星界",
+        "MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION": "<style=cIsDamage>眩晕。</style>跳到空中,直接击中下方的敌人,造成<style=cIsDamage>10x300%总伤害</style>。"
+    }
 }

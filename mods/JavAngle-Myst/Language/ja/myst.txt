@@ -1,102 +1,98 @@
-JAVANGLE_MYST_BODY_NAME: ミスト
-JAVANGLE_MYST_BODY_SUBTITLE: 神秘の魔術師
-JAVANGLE_MYST_BODY_DESCRIPTION: ミストは多用途な生存者であり、<style=cIsUtility>魔力</style>を使って様々な超自然的なスキルを駆使し、<style=cIsUtility>リミット</style>を使って強力なスーパームーブを解放する。 <i>Translated by: Jaosnake. Original mod by JavAngle</i>
-JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: デフォルト
-JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: マスタリー
-JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: グランドマスタリー
-
-BASEFORM_SLASH_NAME: ヴォーパルスラッシュ
-BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>機敏</style>。前方の敵を斬りつけ、<style=cIsDamage>165%のダメージ</style>を与える。
-BASEFORM_DASH_NAME: 突進
-BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>機敏</style>。任意の水平方向に短距離スライドする。
-BASEFORM_BLOCK_NAME: 幻影
-BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>長押し</style>で正面からの被ダメージを大幅に軽減し、防いだダメージに応じて<style=cIsUtility>リミット</style>を得る。<style=cIsUtility>タイミングが完璧</style>なら：全方向からのダメージを無効化し、スキルをクールダウンし、防いだダメージに応じて<style=cIsUtility>魔力</style>を回復し、<style=cIsUtility>2倍のリミット</style>を得て、防いだダメージの<style=cIsDamage>最大3倍</style>を近くの敵に反射する。
-BASEFORM_LIMITMENU_NAME: リミットメニュー
-BASEFORM_LIMITMENU_DESCRIPTION: リミットメニューを開き、装備した<style=cIsUtility>リミットブレイク</style>を使用できるようにする。
-
-JAVANGLE_MYST_BODY_UI_MAGICNAME: 魔法メニュー
-JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: 魔法メニューを開き、装備した呪文を使用できるようにする。
-JAVANGLE_MYST_BODY_UI_LIMITNAME: リミットメニュー
-JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: リミットメニューを開き、装備したリミットブレイクを使用できるようにする。
-JAVANGLE_MYST_BODY_UI_SHOPRANDOM: ランダム
-JAVANGLE_MYST_BODY_UI_SHOPSPELL: 呪文
-JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: サポート
-JAVANGLE_MYST_BODY_UI_SHOPLIMIT: リミット
-JAVANGLE_MYST_BODY_UI_SHOPFINISHER: フィニッシャー
-JAVANGLE_MYST_BODY_UI_SORT: 並び替え
-JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: チュートリアル
-JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: ミストは2つのメニューを使って装備した<style=cIsUtility>魔法</style>を活用し、そこに収められたスキルを解放する。
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: マジックインベントリ
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: 名前
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: レベル
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: 解体
-JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: 装備中の魔晶石
-
-JOBCLASS_MYSTIC_NAME: ミスティック
-JOBCLASS_MYSTIC_DESCRIPTION: 万能なキットでランを開始する。何でも少しずつ揃っている。
-JOBCLASS_MYSTIC_KEYWORD: ミスティック
-JOBCLASS_WARRIOR_NAME: 戦士
-JOBCLASS_WARRIOR_DESCRIPTION: フィニッシャー攻撃に特化したキットでランを開始する。
-JOBCLASS_WARRIOR_KEYWORD: 戦士
-JOBCLASS_SORCERER_NAME: ソーサラー
-JOBCLASS_SORCERER_DESCRIPTION: 呪文に特化したキットでランを開始する。
-JOBCLASS_SORCERER_KEYWORD: ソーサラー
-JOBCLASS_BABY_NAME: ベビー
-JOBCLASS_BABY_DESCRIPTION: 魔法なしでランを開始する。
-JOBCLASS_BABY_KEYWORD: ベビー
-JOBCLASS_CHAD_NAME: チャド
-JOBCLASS_CHAD_DESCRIPTION: 魔法なしでランを開始する。
-JOBCLASS_CHAD_KEYWORD: チャド
-
-MAGICITE_FIREBALL_NAME: ファイアボール
-MAGICITE_FIREBALL_DESCRIPTION: 目標に向かって誘導火球を発射し、衝突時に爆発してダメージを与え、効果範囲内の敵を<style=cIsDamage>発火</style>させる。
-MAGICITE_CALL_LIGHTNING_NAME: 召雷
-MAGICITE_CALL_LIGHTNING_DESCRIPTION: 目標の上に雷を召喚し、ダメージを与え、空中の敵を地面に叩き落とす。
-MAGICITE_CONE_OF_FROST_NAME: 氷結の息
-MAGICITE_CONE_OF_FROST_DESCRIPTION: 氷の風の円錐を召喚してダメージを与え、前方の敵を<style=cIsDamage>凍結</style>させる。
-MAGICITE_FORTIFY_NAME: 強化
-MAGICITE_FORTIFY_DESCRIPTION: 短いチャネリング後：自身と対象の味方に強力な<style=cIsUtility>装甲</style>バフを付与する。
-MAGICITE_MEND_WOUNDS_NAME: 傷の治癒
-MAGICITE_MEND_WOUNDS_DESCRIPTION: 短いチャネリング後：自身と対象の味方を<style=cIsHealing>最大HPの50%</style>回復する。
-MAGICITE_MAGNET_NAME: マグネット
-MAGICITE_MAGNET_DESCRIPTION: 磁場を召喚し、標的の周囲の広範囲の敵を引き寄せる。
-MAGICITE_HASTE_NAME: ヘイスト
-MAGICITE_HASTE_DESCRIPTION: 短いチャネリング後：自身と対象の味方に移動速度と攻撃速度を付与する。
-MAGICITE_MAGIC_MISSILE_NAME: マジックミサイル
-MAGICITE_MAGIC_MISSILE_DESCRIPTION: 目標を追尾する誘導魔法弾の斉射を放つ。MPが多いほど、より多くの弾が発射される。
-MAGICITE_ECLIPSE_GATE_NAME: エクリプスゲート
-MAGICITE_ECLIPSE_GATE_DESCRIPTION: 暗黒の力の欠片を召喚し、不足しているMPに応じて目標にダメージを与える。
-MAGICITE_ULTIMA_NAME: アルテマ
-MAGICITE_ULTIMA_DESCRIPTION: 短いチャネリング後：残り魔力を全て消費して巨大なエネルギーの渦を作り出し、長い遅延の後、広範囲の全敵に凄まじいダメージを与える。
-
-MAGICITE_FATED_CIRCLE_NAME: 運命の輪
-MAGICITE_FATED_CIRCLE_DESCRIPTION: 回転攻撃で敵をスタンさせて引き寄せ、続く火炎爆発で敵を吹き飛ばし、大ダメージを与える。
-MAGICITE_EXPLOSION_NAME: 爆発
-MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>（フィニッシャーはミストが地上か空中かで異なる）</style>。その場に留まり、光のオーブを召喚して周囲を旋回させ、近くの敵にダメージとスタンを与える。
-MAGICITE_CHALLENGING_SHOUT_NAME: 挑発の叫び
-MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: 命令の叫びを放ち、敵を弱体化させて引き寄せる。
-MAGICITE_BLADE_DANCE_NAME: ブレードダンス
-MAGICITE_BLADE_DANCE_DESCRIPTION: 芸術的な斬撃の連続技で使用者を推進させ、素早くダメージを与える。
-MAGICITE_JUDGEMENT_CUT_NAME: ジャッジメントカット
-MAGICITE_JUDGEMENT_CUT_DESCRIPTION: 実体を持たなくなり、効果範囲内で複数回攻撃する。攻撃速度が高いほど多くのヒットを与える。
-MAGICITE_SHILLELAGH_NAME: シレイラ
-MAGICITE_SHILLELAGH_DESCRIPTION: <style=cIsUtility>魔法チャージ</style>中：大ダメージを与え、魔力を回復する。それ以外の場合は、大したことはない。
-
-MAGICITE_BLASTING_ZONE_NAME: ブラスティングゾーン
-MAGICITE_BLASTING_ZONE_DESCRIPTION: 巨大な力の柱を召喚してヴォーパルソードを包み込み、刃を振るって前方の敵に叩きつけ、広範囲に凄まじいダメージを与える。
-MAGICITE_BERSERK_FORM_NAME: バーサーカーフォーム
-MAGICITE_BERSERK_FORM_DESCRIPTION: ミストが怒りに震え、移動速度とジャンプ高度が上昇し、攻撃に特化した動作セットを得る。
-MAGICITE_JUDGEMENT_CUT_END_NAME: 最終ジャッジメントカット
-MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: ヴォーパルソードを鞘に収め、エネルギーを蓄積した後、遅延の後に電光石火の斬撃の嵐を解放して凄まじいダメージを与える。
-MAGICITE_POWER_WORD_KILL_NAME: パワーワード・キル
-MAGICITE_POWER_WORD_KILL_DESCRIPTION: 短いチャネリング後：<style=cIsDamage>即座に</style>目標を排除する。
-
-MAGICITE_MP_THRIFT_NAME: MP節約
-MAGICITE_MP_THRIFT_DESCRIPTION: リンクされた呪文のMP消費が減少する。
-MAGICITE_MP_TURBO_NAME: MPターボ
-MAGICITE_MP_TURBO_DESCRIPTION: リンクされた呪文のダメージが増加し、MP消費も増加する。
-MAGICITE_LIMIT_SYPHON_NAME: リミットサイフォン
-MAGICITE_LIMIT_SYPHON_DESCRIPTION: 呪文コストに基づいてリミットを得る。
-
-JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: 雷の数：
-JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% × ブロックしたヒット数
+{
+    "strings": {
+        "JAVANGLE_MYST_BODY_NAME": "ミスト",
+        "JAVANGLE_MYST_BODY_SUBTITLE": "神秘の魔術師",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "ミストは多用途な生存者であり、<style=cIsUtility>魔力</style>を使って様々な超自然的なスキルを駆使し、<style=cIsUtility>リミット</style>を使って強力なスーパームーブを解放する。",
+        "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "マスタリー",
+        "JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME": "グランドマスタリー",
+        "BASEFORM_SLASH_NAME": "ヴォーパルスラッシュ",
+        "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>機敏</style>。前方の敵を斬りつけ、<style=cIsDamage>165%のダメージ</style>を与える。",
+        "BASEFORM_DASH_NAME": "突進",
+        "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>機敏</style>。任意の水平方向に短距離スライドする。",
+        "BASEFORM_BLOCK_NAME": "幻影",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>長押し</style>で正面からの被ダメージを大幅に軽減し、防いだダメージに応じて<style=cIsUtility>リミット</style>を得る。<style=cIsUtility>タイミングが完璧</style>なら:全方向からのダメージを無効化し、スキルをクールダウンし、防いだダメージに応じて<style=cIsUtility>魔力</style>を回復し、<style=cIsUtility>2倍のリミット</style>を得て、防いだダメージの<style=cIsDamage>最大3倍</style>を近くの敵に反射する。",
+        "BASEFORM_LIMITMENU_NAME": "リミットメニュー",
+        "BASEFORM_LIMITMENU_DESCRIPTION": "リミットメニューを開き、装備した<style=cIsUtility>リミットブレイク</style>を使用できるようにする。",
+        "JAVANGLE_MYST_BODY_UI_MAGICNAME": "魔法メニュー",
+        "JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION": "魔法メニューを開き、装備した呪文を使用できるようにする。",
+        "JAVANGLE_MYST_BODY_UI_LIMITNAME": "リミットメニュー",
+        "JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION": "リミットメニューを開き、装備したリミットブレイクを使用できるようにする。",
+        "JAVANGLE_MYST_BODY_UI_SHOPRANDOM": "ランダãƒ",
+        "JAVANGLE_MYST_BODY_UI_SHOPSPELL": "呪文",
+        "JAVANGLE_MYST_BODY_UI_SHOPSUPPORT": "サポート",
+        "JAVANGLE_MYST_BODY_UI_SHOPLIMIT": "リミット",
+        "JAVANGLE_MYST_BODY_UI_SHOPFINISHER": "フィニッシャー",
+        "JAVANGLE_MYST_BODY_UI_SORT": "並び替え",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALTITLE": "チュートリアル",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION": "ミストは2つのメニューを使って装備した<style=cIsUtility>魔法</style>を活用し、そこに収められたスキルを解放する。",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY": "マジックインベントリ",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME": "名前",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL": "レベル",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP": "解体",
+        "JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES": "装備中の魔晶石",
+        "JOBCLASS_MYSTIC_NAME": "ミスティック",
+        "JOBCLASS_MYSTIC_DESCRIPTION": "万能なキットでランを開始する。何でも少しずつ揃っている。",
+        "JOBCLASS_MYSTIC_KEYWORD": "ミスティック",
+        "JOBCLASS_WARRIOR_NAME": "戦士",
+        "JOBCLASS_WARRIOR_DESCRIPTION": "フィニッシャー攻撃に特化したキットでランを開始する。",
+        "JOBCLASS_WARRIOR_KEYWORD": "戦士",
+        "JOBCLASS_SORCERER_NAME": "ソーサラー",
+        "JOBCLASS_SORCERER_DESCRIPTION": "呪文に特化したキットでランを開始する。",
+        "JOBCLASS_SORCERER_KEYWORD": "ソーサラー",
+        "JOBCLASS_BABY_NAME": "ベビー",
+        "JOBCLASS_BABY_DESCRIPTION": "魔法なしでランを開始する。",
+        "JOBCLASS_BABY_KEYWORD": "ベビー",
+        "JOBCLASS_CHAD_NAME": "チャド",
+        "JOBCLASS_CHAD_DESCRIPTION": "魔法なしでランを開始する。",
+        "JOBCLASS_CHAD_KEYWORD": "チャド",
+        "MAGICITE_FIREBALL_NAME": "ファイアボール",
+        "MAGICITE_FIREBALL_DESCRIPTION": "目標に向かって誘導火球を発射し、衝突時に爆発してダメージを与え、効果範囲内の敵を<style=cIsDamage>発火</style>させる。",
+        "MAGICITE_CALL_LIGHTNING_NAME": "召雷",
+        "MAGICITE_CALL_LIGHTNING_DESCRIPTION": "目標の上に雷を召喚し、ダメージを与え、空中の敵を地面に叩き落とす。",
+        "MAGICITE_CONE_OF_FROST_NAME": "氷結の息",
+        "MAGICITE_CONE_OF_FROST_DESCRIPTION": "氷の風の円錐を召喚してダメージを与え、前方の敵を<style=cIsDamage>凍結</style>させる。",
+        "MAGICITE_FORTIFY_NAME": "強化",
+        "MAGICITE_FORTIFY_DESCRIPTION": "短いチャネリング後:自身と対象の味方に強力な<style=cIsUtility>装甲</style>バフを付与する。",
+        "MAGICITE_MEND_WOUNDS_NAME": "傷の治癒",
+        "MAGICITE_MEND_WOUNDS_DESCRIPTION": "短いチャネリング後:自身と対象の味方を<style=cIsHealing>最大HPの50%</style>回復する。",
+        "MAGICITE_MAGNET_NAME": "マグネット",
+        "MAGICITE_MAGNET_DESCRIPTION": "磁場を召喚し、標的の周囲の広範囲の敵を引き寄せる。",
+        "MAGICITE_HASTE_NAME": "ヘイスト",
+        "MAGICITE_HASTE_DESCRIPTION": "短いチャネリング後:自身と対象の味方に移動速度と攻撃速度を付与する。",
+        "MAGICITE_MAGIC_MISSILE_NAME": "マジックミサイル",
+        "MAGICITE_MAGIC_MISSILE_DESCRIPTION": "目標を追尾する誘導魔法弾の斉射を放つ。MPが多いほど、より多くの弾が発射される。",
+        "MAGICITE_ECLIPSE_GATE_NAME": "エクリプスゲート",
+        "MAGICITE_ECLIPSE_GATE_DESCRIPTION": "暗黒の力の欠片を召喚し、不足しているMPに応じて目標にダメージを与える。",
+        "MAGICITE_ULTIMA_NAME": "アルテマ",
+        "MAGICITE_ULTIMA_DESCRIPTION": "短いチャネリング後:残り魔力を全て消費して巨大なエネルギーの渦を作り出し、長い遅延の後、広範囲の全敵に凄まじいダメージを与える。",
+        "MAGICITE_FATED_CIRCLE_NAME": "運命の輪",
+        "MAGICITE_FATED_CIRCLE_DESCRIPTION": "回転攻撃で敵をスタンさせて引き寄せ、続く火炎爆発で敵を吹き飛ばし、大ダメージを与える。",
+        "MAGICITE_EXPLOSION_NAME": "爆発",
+        "MAGICITE_EXPLOSION_DESCRIPTION": "<style=cIsUtility>(フィニッシャーはミストが地上か空中かで異なる)</style>。その場に留まり、光のオーブを召喚して周囲を旋回させ、近くの敵にダメージとスタンを与える。",
+        "MAGICITE_CHALLENGING_SHOUT_NAME": "挑発の叫び",
+        "MAGICITE_CHALLENGING_SHOUT_DESCRIPTION": "命令の叫びを放ち、敵を弱体化させて引き寄せる。",
+        "MAGICITE_BLADE_DANCE_NAME": "ブレードダンス",
+        "MAGICITE_BLADE_DANCE_DESCRIPTION": "芸術的な斬撃の連続技で使用者を推進させ、素早くダメージを与える。",
+        "MAGICITE_JUDGEMENT_CUT_NAME": "ジャッジメントカット",
+        "MAGICITE_JUDGEMENT_CUT_DESCRIPTION": "実体を持たなくなり、効果範囲内で複数回攻撃する。攻撃速度が高いほど多くのヒットを与える。",
+        "MAGICITE_SHILLELAGH_NAME": "シレイラ",
+        "MAGICITE_SHILLELAGH_DESCRIPTION": "<style=cIsUtility>魔法チャージ</style>中:大ダメージを与え、魔力を回復する。それ以外の場合は、大したことはない。",
+        "MAGICITE_BLASTING_ZONE_NAME": "ブラスティングゾーン",
+        "MAGICITE_BLASTING_ZONE_DESCRIPTION": "巨大な力の柱を召喚してヴォーパルソードを包み込み、刃を振るって前方の敵に叩きつけ、広範囲に凄まじいダメージを与える。",
+        "MAGICITE_BERSERK_FORM_NAME": "バーサーカーフォーãƒ",
+        "MAGICITE_BERSERK_FORM_DESCRIPTION": "ミストが怒りに震え、移動速度とジャンプ高度が上昇し、攻撃に特化した動作セットを得る。",
+        "MAGICITE_JUDGEMENT_CUT_END_NAME": "最終ジャッジメントカット",
+        "MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION": "ヴォーパルソードを鞘に収め、エネルギーを蓄積した後、遅延の後に電光石火の斬撃の嵐を解放して凄まじいダメージを与える。",
+        "MAGICITE_POWER_WORD_KILL_NAME": "パワーワード・キル",
+        "MAGICITE_POWER_WORD_KILL_DESCRIPTION": "短いチャネリング後:<style=cIsDamage>即座に</style>目標を排除する。",
+        "MAGICITE_MP_THRIFT_NAME": "MP節約",
+        "MAGICITE_MP_THRIFT_DESCRIPTION": "リンクされた呪文のMP消費が減少する。",
+        "MAGICITE_MP_TURBO_NAME": "MPターボ",
+        "MAGICITE_MP_TURBO_DESCRIPTION": "リンクされた呪文のダメージが増加し、MP消費も増加する。",
+        "MAGICITE_LIMIT_SYPHON_NAME": "リミットサイフォン",
+        "MAGICITE_LIMIT_SYPHON_DESCRIPTION": "呪文コストに基づいてリミットを得る。",
+        "JAVANGLE_MYST_BODY_UI_NUMOFBOLTS": "雷の数:",
+        "JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED": "{0}% × ブロックしたヒット数"
+    }
+}

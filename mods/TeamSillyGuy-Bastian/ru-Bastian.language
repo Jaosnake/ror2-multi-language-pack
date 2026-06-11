@@ -1,16 +1,16 @@
 {
     "ru": {
-        "BASTIAN_NAME": "\u0411\u0430\u0441\u0442\u0438\u0430\u043d",
-        "BASTIAN_SUBTITLE": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0420\u043e\u0431\u043e\u0442-\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a",
-        "BASTIAN_NAME_EPIC": "\u0411\u0430\u0441\u0442\u0438\u0430\u043d \u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a, \u041c\u043e\u0434\u0435\u043b\u044c 4.I.N.K.",
-        "BASTIAN_OUTRO": "..\u0438 \u0442\u0430\u043a \u043e\u043d \u0443\u0448\u0451\u043b, \u0435\u0433\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u043d\u0430\u043a\u043e\u043d\u0435\u0446 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430.",
-        "BASTIAN_FAIL": "..\u0438 \u0442\u0430\u043a \u043e\u043d \u0431\u044b\u043b \u0434\u0435\u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d, \u0435\u0433\u043e \u043f\u0430\u043c\u044f\u0442\u044c \u0441\u0442\u0451\u0440\u0442\u0430 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430.",
-        "BASTIAN_M1": "\u0418\u043e\u043d\u043d\u044b\u0439 \u0412\u0437\u043c\u0430\u0445",
-        "BASTIAN_M2": "\u041c\u0438\u043a\u0440\u043e-\u041f\u0443\u043b\u044f",
-        "BASTIAN_UTIL": "\u041d\u0430\u043d\u043e-\u041f\u0440\u0443\u0436\u0438\u043d\u0430",
-        "BASTIAN_SPEC": "\u0412\u0437\u0440\u044b\u0432 \u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440\u0430",
-        "BASTIAN_SPEC_KEYWORD": "\u041e\u0441\u043e\u0431\u043e\u0435",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "\u041e\u0431\u044b\u0447\u043d\u044b\u0439",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e"
+        "BASTIAN_NAME": "Бастиан",
+        "BASTIAN_SUBTITLE": "Восстановленный Робот-Переводчик",
+        "BASTIAN_NAME_EPIC": "Бастиан Переводчик, Модель 4.I.N.K.",
+        "BASTIAN_OUTRO": "..и так он ушёл, его функция наконец выполнена.",
+        "BASTIAN_FAIL": "..и так он был деактивирован, его память стёрта навсегда.",
+        "BASTIAN_M1": "Ионный Взмах",
+        "BASTIAN_M2": "Микро-Пуля",
+        "BASTIAN_UTIL": "Нано-Пружина",
+        "BASTIAN_SPEC": "Взрыв Архитектора",
+        "BASTIAN_SPEC_KEYWORD": "Особое",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Обычный",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Мастерство"
     }
 }

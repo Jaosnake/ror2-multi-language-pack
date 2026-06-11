@@ -1,55 +1,45 @@
-{ "FR":
-	{
-	"MINERBODY_DEFAULT_SKIN_NAME" : "Par dÃ©faut",
-	"MINERBODY_MOLTEN_SKIN_NAME" : "Fondu",
-	"MINERBODY_TYPHOON_SKIN_NAME" : "ConquÃ©rant",
-	"MINERBODY_PUPLE_SKIN_NAME" : "Puple",
-	"MINERBODY_TUNDRA_SKIN_NAME" : "Toundra",
-	"MINERBODY_BLACKSMITH_SKIN_NAME" : "Forgeron",
-	"MINERBODY_IRON_SKIN_NAME" : "Fer",
-	"MINERBODY_GOLD_SKIN_NAME" : "Or",
-	"MINERBODY_DIAMOND_SKIN_NAME" : "Diamant",
-	"MINERBODY_STEVE_SKIN_NAME" : "Minecraft",
-	"MINERBODY_DRIP_SKIN_NAME" : "Goutte",
-	
-	"MINER_UNLOCKABLE_ACHIEVEMENT_NAME" : "PoussÃ©e d'AdrÃ©naline",
-	"MINER_UNLOCKABLE_UNLOCKABLE_NAME" : "PoussÃ©e d'AdrÃ©naline",
-	"MINER_UNLOCKABLE_ACHIEVEMENT_DESC" : "Ouvrir un Coffre LÃ©gendaire.",
-	
-	"MINER_ALTUNLOCKABLE_ACHIEVEMENT_NAME" : "Forge dans les Flammes",
-	"MINER_ALTUNLOCKABLE_UNLOCKABLE_NAME" : "Forge dans les Flammes",
-	"MINER_ALTUNLOCKABLE_ACHIEVEMENT_DESC" : "Vaincre le gardien unique des Profondeurs Abyssales.",
-	
-	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Grande MaÃ®trise",
-	"MINER_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Grande MaÃ®trise",
-	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, terminez le jeu ou anÃ©antissez-le en mode Typhon ou Eclipse.\n<color=#8888>(La difficultÃ© Typhon nÃ©cessite Starstorm 2)</color>",
-	
-	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : MaÃ®trise",
-	"MINER_MONSOONUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : MaÃ®trise",
-	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, terminez le jeu ou anÃ©antissez-le en mode Mousson.",
-	
-	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Or PillÃ©",
-	"MINER_CRUSHUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Or PillÃ©",
-	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, appliquez 12 empilements de balayage au gardien unique de la CÃ´te DorÃ©e.",
-	
-	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Accro",
-	"MINER_CRACKUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Accro",
-	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, obtenez 50 empilements d'AdrÃ©naline.",
-	
-	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : CompactÃ©",
-	"MINER_CAVEINUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : CompactÃ©",
-	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, touchez 20 ennemis avec un seul Contrecoup.",
-	
-	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Les Cinq ClÃ©s",
-	"MINER_PUPLEUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Les Cinq ClÃ©s",
-	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, dÃ©couvrez le secret de dÃ©bogage de G-N-O-M-E.",
-	
-	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : GelÃ©",
-	"MINER_TUNDRAUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : GelÃ©",
-	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, atteignez le Point de Rassemblement Delta en moins de 8 minutes.",
-	
-	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : TrempÃ©",
-	"MINER_BLACKSMITHUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : TrempÃ©",
-	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, trouvez un outil de forge sur la planÃ¨te."
-	}
+{
+    "FR": {
+        "MINERBODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "MINERBODY_MOLTEN_SKIN_NAME": "Fondu",
+        "MINERBODY_TYPHOON_SKIN_NAME": "Conquérant",
+        "MINERBODY_PUPLE_SKIN_NAME": "Puple",
+        "MINERBODY_TUNDRA_SKIN_NAME": "Toundra",
+        "MINERBODY_BLACKSMITH_SKIN_NAME": "Forgeron",
+        "MINERBODY_IRON_SKIN_NAME": "Fer",
+        "MINERBODY_GOLD_SKIN_NAME": "Or",
+        "MINERBODY_DIAMOND_SKIN_NAME": "Diamant",
+        "MINERBODY_STEVE_SKIN_NAME": "Minecraft",
+        "MINERBODY_DRIP_SKIN_NAME": "Goutte",
+        "MINER_UNLOCKABLE_ACHIEVEMENT_NAME": "Adrenaline Rush",
+        "MINER_UNLOCKABLE_UNLOCKABLE_NAME": "Adrenaline Rush",
+        "MINER_UNLOCKABLE_ACHIEVEMENT_DESC": "Open a Legendary Chest.",
+        "MINER_ALTUNLOCKABLE_ACHIEVEMENT_NAME": "Forged in Flames",
+        "MINER_ALTUNLOCKABLE_UNLOCKABLE_NAME": "Forged in Flames",
+        "MINER_ALTUNLOCKABLE_ACHIEVEMENT_DESC": "Defeat the unique guardian of Abyssal Depths.",
+        "MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Grand Mastery",
+        "MINER_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Grand Mastery",
+        "MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>",
+        "MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Mastery",
+        "MINER_MONSOONUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Mastery",
+        "MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, beat the game or obliterate on Monsoon.",
+        "MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Pillaged Gold",
+        "MINER_CRUSHUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Pillaged Gold",
+        "MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, apply 12 stacks of cleave to the unique guardian of Gilded Coast.",
+        "MINER_CRACKUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Junkie",
+        "MINER_CRACKUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Junkie",
+        "MINER_CRACKUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, gain 50 stacks of Adrenaline.",
+        "MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Compacted",
+        "MINER_CAVEINUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Compacted",
+        "MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, hit 20 enemies with one Backblast.",
+        "MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: The Five Keys",
+        "MINER_PUPLEUNLOCKABLE_UNLOCKABLE_NAME": "Miner: The Five Keys",
+        "MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, Discover G-N-O-M-E's debugging secret.",
+        "MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Frozen",
+        "MINER_TUNDRAUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Frozen",
+        "MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, reach Rallypoint Delta in under 8 minutes.",
+        "MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_NAME": "Miner: Tempered",
+        "MINER_BLACKSMITHUNLOCKABLE_UNLOCKABLE_NAME": "Miner: Tempered",
+        "MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_DESC": "As Miner, find a smithing tool on the planet."
+    }
 }

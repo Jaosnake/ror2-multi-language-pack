@@ -1,7 +1,7 @@
 {
     "ja": {
         "ROB_HENRY_BODY_NAME": "ヘンリー",
-        "ROB_HENRY_BODY_DESCRIPTION": "ヘンリーは多彩な武器を駆使して敵を倒す熟練の戦士です。<color=#CCD3E0>",
+        "ROB_HENRY_BODY_DESCRIPTION": "ヘンリーは多彩な武器を駆使して敵を倒す熟練の戦士です。<color=#CCD3E0></color>",
         "ROB_HENRY_BODY_SUBTITLE": "選ばれし者",
         "ROB_HENRY_BODY_LORE": "サンプルの伝承",
         "ROB_HENRY_BODY_OUTRO_FLAVOR": "..そして彼は去った。新たな自分を探し求めて。",
@@ -17,7 +17,7 @@
         "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "短距離を転がり、<style=cIsUtility>300アーマー</style>を得る。<style=cIsUtility>ローリング中は被弾しない。</style>",
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "爆弾",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "爆弾を投げ、<style=cIsDamage>1600%のダメージ</style>。",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "ヘンリー: マスタリー",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "ヘンリーで、モンスーンでゲームクリアまたはオブリタレイトする。"
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
     }
 }

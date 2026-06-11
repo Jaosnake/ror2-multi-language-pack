@@ -30,9 +30,9 @@
         "KENKO_SEAMSTRESS_SPECIAL_FIRE_DESCRIPTION": "<style=cIsHealth>15% PV</style>. Lancez un ciseau <color=#9B3737>Symbiotique</color> infligeant <style=cIsDamage>400% de dégâts</style>. Ramassez les ciseaux <color=#9B3737>Symbiotiques</color> pour trancher à <style=cIsDamage>200% de dégâts</style>.",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Saccage",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% PV</style>. Lancez un ciseau <color=#9B3737>Symbiotique</color> infligeant <style=cIsDamage>400% de dégâts</style>. Ramassez les ciseaux <color=#9B3737>Symbiotiques</color> pour trancher à <style=cIsDamage>200% de dégâts</style>.\n<color=#d299ff>SCEPTER : Votre arme <color=#9B3737>Symbiotique</color> n'a qu'un <style=cIsUtility>temps de ramassage de 1,5 seconde</style>.</color>",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress : Maîtrise",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que Seamstress, terminez le jeu ou obliterez en Mousson.",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Corbeau : Débloqué",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "En tant que Seamstress, terminez le jeu ou obliterez en Éclipse ou plus."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Eclipse or higher."
     }
 }

@@ -1,39 +1,43 @@
-ROB_DRIVER_BODY_NAME: Driver
-ROB_DRIVER_BODY_SUBTITLE: Condutor de Arsenal
-PRIMARY_PISTOL_NAME: Pistola
-PRIMARY_PISTOL_DESCRIPTION: Um protÃ³tipo defeituoso que sÃ³ pode disparar alguns tiros.
-PRIMARY_MACHINEGUN_NAME: Metralhadora
-PRIMARY_MACHINEGUN_DESCRIPTION: Dispare rapidamente para 120% de dano por tiro.
-PRIMARY_RIOT_SHOTGUN_DESCRIPTION: Dispare um tiro de escopeta que causa 8x140% de dano.
-PRIMARY_BADASS_SHOTGUN_DESCRIPTION: Dispare um tiro devastador de escopeta para 24x140% de dano.
-PRIMARY_BAZOOKA_DESCRIPTION: Dispare um foguete explosivo para 600%-1.200% de dano.
-PRIMARY_ARMCANNON_DESCRIPTION: Dispare um tiro de canhÃ£o para 1.000% de dano.
-PRIMARY_PLASMACANNON_DESCRIPTION: Dispare um tiro de plasma para 1.200% de dano.
-PRIMARY_GOLEMGUN_DESCRIPTION: Dispare um tiro pesado para 800% de dano.
-PRIMARY_NEMMANDO_SWORD_DESCRIPTION: Corte inimigos Ã  frente com uma espada para 160% de dano.
-PRIMARY_ARTI_GAUNTLET_NAME: Manopla da ArtÃ­fice
-PRIMARY_ARTI_GAUNTLET_DESCRIPTION: Dispare um projÃ©til de magma para 350% de dano.
-SECONDARY_PISTOL_DESCRIPTION: Dispare uma pistola secundÃ¡ria para 500% de dano.
-SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>Atordoante</style>. Atordoe e empurre inimigos prÃ³ximos para 250% de dano.
-SECONDARY_ROCKETLAUNCHER_ALT_NAME: LanÃ§a-Foguetes
-SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>Atordoante</style>. Dispare uma barragem rÃ¡pida de foguetes para 250% de dano cada.
-SECONDARY_HEAVY_MACHINEGUN_NAME: Metralhadora Pesada
-SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>Atordoante</style>. Lance uma granada que atordoa inimigos para 800% de dano.
-SECONDARY_PLASMACANNON_NAME: CanhÃ£o de Plasma
-SECONDARY_PLASMACANNON_DESCRIPTION: Dispare um tiro de plasma carregado para 1.000% de dano.
-SECONDARY_BANDITREVOLVER_DESCRIPTION: Dispare um revÃ³lver de alto calibre para 1.500% de dano.
-SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispare uma salvÃ¡ de fragmentos lunares, causando 180% de dano cada.
-SECONDARY_NEMMANDO_DESCRIPTION: Dispare projÃ©teis sombrios para 240% de dano.
-SECONDARY_ARTI_GAUNTLET_DESCRIPTION: Dispare uma rajada de magia de gelo para 600%-2.000% de dano.
-UTILITY_DASH_NAME: Arranque
-UTILITY_DASH_DESCRIPTION: Arranque uma curta distÃ¢ncia. VocÃª pode ter atÃ© 2 cargas.
-SPECIAL_SUPPLY_DROP_NAME: Suprimento AÃ©reo
-SPECIAL_SUPPLY_DROP_DESCRIPTION: Solicite um suprimento aÃ©reo de armas.
-SPECIAL_GRENADE_NAME: Granada
-SPECIAL_KNIFE_NAME: Faca
-SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>Cortante</style>. <style=cIsUtility>Ãgil</style>. Corte inimigos Ã  frente para 470% de dano.
-SPECIAL_DRIVERCOIN_NAME: Moeda do Driver
-SPECIAL_DRIVERCOIN_DESCRIPTION: Ative um efeito especial ao custo de moedas.
-ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
-ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>Foco</style><style=cSub>Foco aumenta muito sua produÃ§Ã£o de dano, mas tome cuidado para nÃ£o ser flanqueado enquanto mira.
-ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>Arsenal</style><style=cSub>Troque entre armas usando suas habilidades primÃ¡ria e secundÃ¡ria.
+{
+    "pt-BR": {
+        "ROB_DRIVER_BODY_NAME": "Driver",
+        "ROB_DRIVER_BODY_SUBTITLE": "Condutor de Arsenal",
+        "PRIMARY_PISTOL_NAME": "Pistola",
+        "PRIMARY_PISTOL_DESCRIPTION": "Um protótipo defeituoso que só pode disparar alguns tiros.",
+        "PRIMARY_MACHINEGUN_NAME": "Metralhadora",
+        "PRIMARY_MACHINEGUN_DESCRIPTION": "Dispare rapidamente para 120% de dano por tiro.",
+        "PRIMARY_RIOT_SHOTGUN_DESCRIPTION": "Dispare um tiro de escopeta que causa 8x140% de dano.",
+        "PRIMARY_BADASS_SHOTGUN_DESCRIPTION": "Dispare um tiro devastador de escopeta para 24x140% de dano.",
+        "PRIMARY_BAZOOKA_DESCRIPTION": "Dispare um foguete explosivo para 600%-1.200% de dano.",
+        "PRIMARY_ARMCANNON_DESCRIPTION": "Dispare um tiro de canhão para 1.000% de dano.",
+        "PRIMARY_PLASMACANNON_DESCRIPTION": "Dispare um tiro de plasma para 1.200% de dano.",
+        "PRIMARY_GOLEMGUN_DESCRIPTION": "Dispare um tiro pesado para 800% de dano.",
+        "PRIMARY_NEMMANDO_SWORD_DESCRIPTION": "Corte inimigos à frente com uma espada para 160% de dano.",
+        "PRIMARY_ARTI_GAUNTLET_NAME": "Manopla da Artífice",
+        "PRIMARY_ARTI_GAUNTLET_DESCRIPTION": "Dispare um projétil de magma para 350% de dano.",
+        "SECONDARY_PISTOL_DESCRIPTION": "Dispare uma pistola secundária para 500% de dano.",
+        "SECONDARY_BASH_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Atordoe e empurre inimigos próximos para 250% de dano.",
+        "SECONDARY_ROCKETLAUNCHER_ALT_NAME": "Lança-Foguetes",
+        "SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Dispare uma barragem rápida de foguetes para 250% de dano cada.",
+        "SECONDARY_HEAVY_MACHINEGUN_NAME": "Metralhadora Pesada",
+        "SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Lance uma granada que atordoa inimigos para 800% de dano.",
+        "SECONDARY_PLASMACANNON_NAME": "Canhão de Plasma",
+        "SECONDARY_PLASMACANNON_DESCRIPTION": "Dispare um tiro de plasma carregado para 1.000% de dano.",
+        "SECONDARY_BANDITREVOLVER_DESCRIPTION": "Dispare um revólver de alto calibre para 1.500% de dano.",
+        "SECONDARY_LUNARHAMMER_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma salvá de fragmentos lunares, causando 180% de dano cada.",
+        "SECONDARY_NEMMANDO_DESCRIPTION": "Dispare projéteis sombrios para 240% de dano.",
+        "SECONDARY_ARTI_GAUNTLET_DESCRIPTION": "Dispare uma rajada de magia de gelo para 600%-2.000% de dano.",
+        "UTILITY_DASH_NAME": "Arranque",
+        "UTILITY_DASH_DESCRIPTION": "Arranque uma curta distância. Você pode ter até 2 cargas.",
+        "SPECIAL_SUPPLY_DROP_NAME": "Suprimento Aéreo",
+        "SPECIAL_SUPPLY_DROP_DESCRIPTION": "Solicite um suprimento aéreo de armas.",
+        "SPECIAL_GRENADE_NAME": "Granada",
+        "SPECIAL_KNIFE_NAME": "Faca",
+        "SPECIAL_KNIFE_DESCRIPTION": "<style=cIsUtility>Cortante</style>. <style=cIsUtility>Ágil</style>. Corte inimigos à frente para 470% de dano.",
+        "SPECIAL_DRIVERCOIN_NAME": "Moeda do Driver",
+        "SPECIAL_DRIVERCOIN_DESCRIPTION": "Ative um efeito especial ao custo de moedas.",
+        "ROB_DRIVER_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "ROB_DRIVER_PASSIVE_TOKEN": "<style=cKeywordName>Foco</style><style=cSub>Foco aumenta muito sua produção de dano, mas tome cuidado para não ser flanqueado enquanto mira.",
+        "ROB_DRIVER_ARSENAL_TOKEN": "<style=cKeywordName>Arsenal</style><style=cSub>Troque entre armas usando suas habilidades primária e secundária."
+    }
+}

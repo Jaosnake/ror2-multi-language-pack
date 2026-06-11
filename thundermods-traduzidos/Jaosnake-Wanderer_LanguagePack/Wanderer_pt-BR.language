@@ -19,7 +19,7 @@
         "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Teleporta para um inimigo <style=cIsUtility>aéreo</style> próximo ou marcado e ataca rapidamente causando <style=cIsDamage>2x250% + 800% de dano</style>. Ganha <style=cIsDamage>penetração de armadura</style> bônus por 6 segundos.",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Primeiro Suspiro",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teleporta para um inimigo <style=cIsUtility>aéreo</style> próximo ou marcado e ataca rapidamente causando <style=cIsDamage>2x250% + 800% de dano</style>. Ganha <style=cIsDamage>penetração de armadura</style> bônus por 6 segundos.\n<color=#d299ff>CETRO: <style=cIsUtility>Redefine o tempo de recarga da sua habilidade secundária</style>. Inimigos atingidos pelo <color=#FFBF66>Primeiro Suspiro</color> podem ser alvos da <color=#FFBF66>Lâmina Varredora</color> novamente.</color>",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Maestria",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Wanderer, vença o jogo ou oblitere na Monção."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

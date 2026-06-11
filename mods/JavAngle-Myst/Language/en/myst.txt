@@ -1,102 +1,98 @@
-JAVANGLE_MYST_BODY_NAME: Myst
-JAVANGLE_MYST_BODY_SUBTITLE: The Mysterious Arcanist
-JAVANGLE_MYST_BODY_DESCRIPTION: Myst is a versatile survivor who uses <style=cIsUtility>Magic Power</style> to utilize a variety of supernatural skills, and <style=cIsUtility>Limit</style> to unleash powerful super moves. <i>Backported from pt-BR. Original mod by JavAngle. Translated by: Jaosnake</i>
-JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: Default
-JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: Mastery
-JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: Grand Mastery
-
-BASEFORM_SLASH_NAME: Vorpal Slash
-BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>Agile</style>. Slash enemies in front of you for <style=cIsDamage>165% damage</style>.
-BASEFORM_DASH_NAME: Rush
-BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>Agile</style>. Slide a short distance in any horizontal direction.
-BASEFORM_BLOCK_NAME: Phantom
-BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>Hold</style> to drastically reduce incoming frontal damage, gaining <style=cIsUtility>Limit</style> based on damage blocked. If <style=cIsUtility>timed correctly</style>: nullifies damage from all directions, cools down the skill, restores <style=cIsUtility>Magic Power</style> based on damage blocked, gains <style=cIsUtility>double Limit</style> and reflects up to <style=cIsDamage>3x damage</style> blocked to nearby enemies.
-BASEFORM_LIMITMENU_NAME: Limit Menu
-BASEFORM_LIMITMENU_DESCRIPTION: Open the Limit Menu, allowing you to use equipped <style=cIsUtility>Limit Breaks</style>.
-
-JAVANGLE_MYST_BODY_UI_MAGICNAME: Magic Menu
-JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: Open the Magic Menu, allowing you to use equipped spells.
-JAVANGLE_MYST_BODY_UI_LIMITNAME: Limit Menu
-JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: Open the Limit Menu, allowing you to use equipped Limit Breaks.
-JAVANGLE_MYST_BODY_UI_SHOPRANDOM: Random
-JAVANGLE_MYST_BODY_UI_SHOPSPELL: Spell
-JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: Support
-JAVANGLE_MYST_BODY_UI_SHOPLIMIT: Limit
-JAVANGLE_MYST_BODY_UI_SHOPFINISHER: Finisher
-JAVANGLE_MYST_BODY_UI_SORT: Sort
-JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: Tutorial
-JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: Myst uses two menus to utilize his equipped <style=cIsUtility>Spells</style> and unleash the skills stored within them.
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: Magicite Inventory
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: Name
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: Level
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: Scrap
-JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: Equipped Magicites
-
-JOBCLASS_MYSTIC_NAME: Mystic
-JOBCLASS_MYSTIC_DESCRIPTION: Start the run with a versatile kit with a bit of everything.
-JOBCLASS_MYSTIC_KEYWORD: Mystic
-JOBCLASS_WARRIOR_NAME: Warrior
-JOBCLASS_WARRIOR_DESCRIPTION: Start the run with a kit focused on using Finisher attacks.
-JOBCLASS_WARRIOR_KEYWORD: Warrior
-JOBCLASS_SORCERER_NAME: Sorcerer
-JOBCLASS_SORCERER_DESCRIPTION: Start the run with a kit focused on spells.
-JOBCLASS_SORCERER_KEYWORD: Sorcerer
-JOBCLASS_BABY_NAME: Baby
-JOBCLASS_BABY_DESCRIPTION: Start the run with no magic.
-JOBCLASS_BABY_KEYWORD: Baby
-JOBCLASS_CHAD_NAME: Chad
-JOBCLASS_CHAD_DESCRIPTION: Start the run with no magic.
-JOBCLASS_CHAD_KEYWORD: Chad
-
-MAGICITE_FIREBALL_NAME: Fireball
-MAGICITE_FIREBALL_DESCRIPTION: Fires a homing fireball at the target that explodes on impact, dealing damage and <style=cIsDamage>igniting</style> enemies in the area of effect.
-MAGICITE_CALL_LIGHTNING_NAME: Call Lightning
-MAGICITE_CALL_LIGHTNING_DESCRIPTION: Summon a lightning strike on your target, dealing damage and knocking aerial enemies out of the sky.
-MAGICITE_CONE_OF_FROST_NAME: Cone of Frost
-MAGICITE_CONE_OF_FROST_DESCRIPTION: Summon a cone of freezing wind to deal damage and <style=cIsDamage>freeze</style> enemies in front of you.
-MAGICITE_FORTIFY_NAME: Fortify
-MAGICITE_FORTIFY_DESCRIPTION: After a brief channel: grants a powerful <style=cIsUtility>armor</style> buff to you and a target ally.
-MAGICITE_MEND_WOUNDS_NAME: Mend Wounds
-MAGICITE_MEND_WOUNDS_DESCRIPTION: After a brief channel: heals you and a target ally for <style=cIsHealing>50% of Maximum Health</style>.
-MAGICITE_MAGNET_NAME: Magnet
-MAGICITE_MAGNET_DESCRIPTION: Summon a magnetic field to pull enemies in a wide area around the target.
-MAGICITE_HASTE_NAME: Haste
-MAGICITE_HASTE_DESCRIPTION: After a brief channel: grants Movement Speed and Attack Speed to you and a target ally.
-MAGICITE_MAGIC_MISSILE_NAME: Magic Missile
-MAGICITE_MAGIC_MISSILE_DESCRIPTION: Fire a volley of homing magic projectiles that seek targets. More MP results in more projectiles fired.
-MAGICITE_ECLIPSE_GATE_NAME: Eclipse Gate
-MAGICITE_ECLIPSE_GATE_DESCRIPTION: Summons a fragment of umbral power to deal damage to the target based on missing MP.
-MAGICITE_ULTIMA_NAME: Ultima
-MAGICITE_ULTIMA_DESCRIPTION: After a brief channel: spends all remaining Magic Power to create a massive vortex of energy that deals incredible damage to all enemies in a wide area after a long delay.
-
-MAGICITE_FATED_CIRCLE_NAME: Fated Circle
-MAGICITE_FATED_CIRCLE_DESCRIPTION: A spinning attack that stuns and pulls enemies, followed by fire explosions that knock them back, dealing heavy damage.
-MAGICITE_EXPLOSION_NAME: Explosion
-MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>(Finishers differ based on whether Myst is on the ground or airborne)</style>. Hold your position and summon Orbs of Light to orbit you, dealing damage and stunning nearby enemies.
-MAGICITE_CHALLENGING_SHOUT_NAME: Challenging Shout
-MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: Let out a commanding shout that weakens and pulls enemies toward you.
-MAGICITE_BLADE_DANCE_NAME: Blade Dance
-MAGICITE_BLADE_DANCE_DESCRIPTION: An artistic serenade of slashing strikes that propels the user and deals damage rapidly.
-MAGICITE_JUDGEMENT_CUT_NAME: Judgement Cut
-MAGICITE_JUDGEMENT_CUT_DESCRIPTION: Become intangible and strike multiple times in an area of effect, landing more hits with higher attack speed.
-MAGICITE_SHILLELAGH_NAME: Shillelagh
-MAGICITE_SHILLELAGH_DESCRIPTION: When in <style=cIsUtility>Magic Recharge</style>: deals heavy damage and restores Magic Power. But otherwise, unimpressive.
-
-MAGICITE_BLASTING_ZONE_NAME: Blasting Zone
-MAGICITE_BLASTING_ZONE_DESCRIPTION: Summon a giant pillar of force to envelop the Vorpal Sword, before swinging the blade to slam it into enemies in front of you, dealing incredible damage in a wide area.
-MAGICITE_BERSERK_FORM_NAME: Berserker Form
-MAGICITE_BERSERK_FORM_DESCRIPTION: Myst becomes enraged, gaining increased Movement Speed and Jump Height, as well as a moveset focused on attacks.
-MAGICITE_JUDGEMENT_CUT_END_NAME: Final Judgement Cut
-MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: Sheathe the Vorpal Sword, building up energy before releasing a flurry of lightning-fast slashes that deal incredible damage after a delay.
-MAGICITE_POWER_WORD_KILL_NAME: Power Word Kill
-MAGICITE_POWER_WORD_KILL_DESCRIPTION: After a brief channel: <style=cIsDamage>instantly</style> eliminates the target.
-
-MAGICITE_MP_THRIFT_NAME: MP Thrift
-MAGICITE_MP_THRIFT_DESCRIPTION: The linked Spell costs less MP.
-MAGICITE_MP_TURBO_NAME: MP Turbo
-MAGICITE_MP_TURBO_DESCRIPTION: The linked Spell deals more damage and costs more MP.
-MAGICITE_LIMIT_SYPHON_NAME: Limit Syphon
-MAGICITE_LIMIT_SYPHON_DESCRIPTION: Grants Limit based on Spell Cost.
-
-JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: Number of bolts:
-JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% x number of blocked hits
+{
+    "strings": {
+        "JAVANGLE_MYST_BODY_NAME": "Myst",
+        "JAVANGLE_MYST_BODY_SUBTITLE": "The Mysterious Arcanist",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "Myst is a versatile survivor who uses <style=cIsUtility>Magic Power</style> to utilize a variety of supernatural skills, and <style=cIsUtility>Limit</style> to unleash powerful super moves.",
+        "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "Default",
+        "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "Mastery",
+        "JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME": "Grand Mastery",
+        "BASEFORM_SLASH_NAME": "Vorpal Slash",
+        "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Slash enemies in front of you for <style=cIsDamage>165% damage</style>.",
+        "BASEFORM_DASH_NAME": "Rush",
+        "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Slide a short distance in any horizontal direction.",
+        "BASEFORM_BLOCK_NAME": "Phantom",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Hold</style> to drastically reduce incoming frontal damage, gaining <style=cIsUtility>Limit</style> based on damage blocked. If <style=cIsUtility>timed correctly</style>: nullifies damage from all directions, cools down the skill, restores <style=cIsUtility>Magic Power</style> based on damage blocked, gains <style=cIsUtility>double Limit</style> and reflects up to <style=cIsDamage>3x damage</style> blocked to nearby enemies.",
+        "BASEFORM_LIMITMENU_NAME": "Limit Menu",
+        "BASEFORM_LIMITMENU_DESCRIPTION": "Open the Limit Menu, allowing you to use equipped <style=cIsUtility>Limit Breaks</style>.",
+        "JAVANGLE_MYST_BODY_UI_MAGICNAME": "Magic Menu",
+        "JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION": "Open the Magic Menu, allowing you to use equipped spells.",
+        "JAVANGLE_MYST_BODY_UI_LIMITNAME": "Limit Menu",
+        "JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION": "Open the Limit Menu, allowing you to use equipped Limit Breaks.",
+        "JAVANGLE_MYST_BODY_UI_SHOPRANDOM": "Random",
+        "JAVANGLE_MYST_BODY_UI_SHOPSPELL": "Spell",
+        "JAVANGLE_MYST_BODY_UI_SHOPSUPPORT": "Support",
+        "JAVANGLE_MYST_BODY_UI_SHOPLIMIT": "Limit",
+        "JAVANGLE_MYST_BODY_UI_SHOPFINISHER": "Finisher",
+        "JAVANGLE_MYST_BODY_UI_SORT": "Sort",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALTITLE": "Tutorial",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION": "Myst uses two menus to utilize his equipped <style=cIsUtility>Spells</style> and unleash the skills stored within them.",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY": "Magicite Inventory",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME": "Name",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL": "Level",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP": "Scrap",
+        "JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES": "Equipped Magicites",
+        "JOBCLASS_MYSTIC_NAME": "Mystic",
+        "JOBCLASS_MYSTIC_DESCRIPTION": "Start the run with a versatile kit with a bit of everything.",
+        "JOBCLASS_MYSTIC_KEYWORD": "Mystic",
+        "JOBCLASS_WARRIOR_NAME": "Warrior",
+        "JOBCLASS_WARRIOR_DESCRIPTION": "Start the run with a kit focused on using Finisher attacks.",
+        "JOBCLASS_WARRIOR_KEYWORD": "Warrior",
+        "JOBCLASS_SORCERER_NAME": "Sorcerer",
+        "JOBCLASS_SORCERER_DESCRIPTION": "Start the run with a kit focused on spells.",
+        "JOBCLASS_SORCERER_KEYWORD": "Sorcerer",
+        "JOBCLASS_BABY_NAME": "Baby",
+        "JOBCLASS_BABY_DESCRIPTION": "Start the run with no magic.",
+        "JOBCLASS_BABY_KEYWORD": "Baby",
+        "JOBCLASS_CHAD_NAME": "Chad",
+        "JOBCLASS_CHAD_DESCRIPTION": "Start the run with no magic.",
+        "JOBCLASS_CHAD_KEYWORD": "Chad",
+        "MAGICITE_FIREBALL_NAME": "Fireball",
+        "MAGICITE_FIREBALL_DESCRIPTION": "Fires a homing fireball at the target that explodes on impact, dealing damage and <style=cIsDamage>igniting</style> enemies in the area of effect.",
+        "MAGICITE_CALL_LIGHTNING_NAME": "Call Lightning",
+        "MAGICITE_CALL_LIGHTNING_DESCRIPTION": "Summon a lightning strike on your target, dealing damage and knocking aerial enemies out of the sky.",
+        "MAGICITE_CONE_OF_FROST_NAME": "Cone of Frost",
+        "MAGICITE_CONE_OF_FROST_DESCRIPTION": "Summon a cone of freezing wind to deal damage and <style=cIsDamage>freeze</style> enemies in front of you.",
+        "MAGICITE_FORTIFY_NAME": "Fortify",
+        "MAGICITE_FORTIFY_DESCRIPTION": "After a brief channel: grants a powerful <style=cIsUtility>armor</style> buff to you and a target ally.",
+        "MAGICITE_MEND_WOUNDS_NAME": "Mend Wounds",
+        "MAGICITE_MEND_WOUNDS_DESCRIPTION": "After a brief channel: heals you and a target ally for <style=cIsHealing>50% of Maximum Health</style>.",
+        "MAGICITE_MAGNET_NAME": "Magnet",
+        "MAGICITE_MAGNET_DESCRIPTION": "Summon a magnetic field to pull enemies in a wide area around the target.",
+        "MAGICITE_HASTE_NAME": "Haste",
+        "MAGICITE_HASTE_DESCRIPTION": "After a brief channel: grants Movement Speed and Attack Speed to you and a target ally.",
+        "MAGICITE_MAGIC_MISSILE_NAME": "Magic Missile",
+        "MAGICITE_MAGIC_MISSILE_DESCRIPTION": "Fire a volley of homing magic projectiles that seek targets. More MP results in more projectiles fired.",
+        "MAGICITE_ECLIPSE_GATE_NAME": "Eclipse Gate",
+        "MAGICITE_ECLIPSE_GATE_DESCRIPTION": "Summons a fragment of umbral power to deal damage to the target based on missing MP.",
+        "MAGICITE_ULTIMA_NAME": "Ultima",
+        "MAGICITE_ULTIMA_DESCRIPTION": "After a brief channel: spends all remaining Magic Power to create a massive vortex of energy that deals incredible damage to all enemies in a wide area after a long delay.",
+        "MAGICITE_FATED_CIRCLE_NAME": "Fated Circle",
+        "MAGICITE_FATED_CIRCLE_DESCRIPTION": "A spinning attack that stuns and pulls enemies, followed by fire explosions that knock them back, dealing heavy damage.",
+        "MAGICITE_EXPLOSION_NAME": "Explosion",
+        "MAGICITE_EXPLOSION_DESCRIPTION": "<style=cIsUtility>(Finishers differ based on whether Myst is on the ground or airborne)</style>. Hold your position and summon Orbs of Light to orbit you, dealing damage and stunning nearby enemies.",
+        "MAGICITE_CHALLENGING_SHOUT_NAME": "Challenging Shout",
+        "MAGICITE_CHALLENGING_SHOUT_DESCRIPTION": "Let out a commanding shout that weakens and pulls enemies toward you.",
+        "MAGICITE_BLADE_DANCE_NAME": "Blade Dance",
+        "MAGICITE_BLADE_DANCE_DESCRIPTION": "An artistic serenade of slashing strikes that propels the user and deals damage rapidly.",
+        "MAGICITE_JUDGEMENT_CUT_NAME": "Judgement Cut",
+        "MAGICITE_JUDGEMENT_CUT_DESCRIPTION": "Become intangible and strike multiple times in an area of effect, landing more hits with higher attack speed.",
+        "MAGICITE_SHILLELAGH_NAME": "Shillelagh",
+        "MAGICITE_SHILLELAGH_DESCRIPTION": "When in <style=cIsUtility>Magic Recharge</style>: deals heavy damage and restores Magic Power. But otherwise, unimpressive.",
+        "MAGICITE_BLASTING_ZONE_NAME": "Blasting Zone",
+        "MAGICITE_BLASTING_ZONE_DESCRIPTION": "Summon a giant pillar of force to envelop the Vorpal Sword, before swinging the blade to slam it into enemies in front of you, dealing incredible damage in a wide area.",
+        "MAGICITE_BERSERK_FORM_NAME": "Berserker Form",
+        "MAGICITE_BERSERK_FORM_DESCRIPTION": "Myst becomes enraged, gaining increased Movement Speed and Jump Height, as well as a moveset focused on attacks.",
+        "MAGICITE_JUDGEMENT_CUT_END_NAME": "Final Judgement Cut",
+        "MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION": "Sheathe the Vorpal Sword, building up energy before releasing a flurry of lightning-fast slashes that deal incredible damage after a delay.",
+        "MAGICITE_POWER_WORD_KILL_NAME": "Power Word Kill",
+        "MAGICITE_POWER_WORD_KILL_DESCRIPTION": "After a brief channel: <style=cIsDamage>instantly</style> eliminates the target.",
+        "MAGICITE_MP_THRIFT_NAME": "MP Thrift",
+        "MAGICITE_MP_THRIFT_DESCRIPTION": "The linked Spell costs less MP.",
+        "MAGICITE_MP_TURBO_NAME": "MP Turbo",
+        "MAGICITE_MP_TURBO_DESCRIPTION": "The linked Spell deals more damage and costs more MP.",
+        "MAGICITE_LIMIT_SYPHON_NAME": "Limit Syphon",
+        "MAGICITE_LIMIT_SYPHON_DESCRIPTION": "Grants Limit based on Spell Cost.",
+        "JAVANGLE_MYST_BODY_UI_NUMOFBOLTS": "Number of bolts:",
+        "JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED": "{0}% x number of blocked hits"
+    }
+}

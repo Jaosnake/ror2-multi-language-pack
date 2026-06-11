@@ -1,12 +1,16 @@
-KENKO_INTERROGATOR_NAME: Interrogador
-KENKO_INTERROGATOR_SUBTITLE: Especialista en Tormento
-KENKO_INTERROGATOR_PASSIVE_NAME: Tormento
-KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: El Interrogador puede golpear y ser golpeado por aliados y enemigos. Los atacantes que golpean al Interrogador son marcados permanentemente como Culpables. Causa 50 de daño base adicional por enemigo Culpable.
-KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Balancea tu bastón al frente, causando 320% de daño. Fallar el ataque hace que sufras 90% de daño en su lugar.
-KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Lanza un cuchillo que causa 450% de daño. Si el cuchillo mata al objetivo, aplica Hemorragia y Presión a todos en el área.
-KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Avanza rápidamente causando 390% de daño y aplicando Culpable a los objetivos golpeados.
-KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Condenar
-KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Marca a un enemigo Culpable y lucha contra él por 10s. Durante este período, todo daño externo es negado, incluido el tuyo propio. Tu ataque primario ya no puede golpearte, pero acumula continuamente el bono de daño de Culpable.
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Condenar (Cetro)
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Marca a un enemigo Culpable y lucha contra él por 14s. Durante este período, todo daño externo es negado. Tu ataque primario ya no puede golpearte, pero acumula el bono de daño de Culpable con el doble de eficiencia.
-MASTERY_SKIN_NAME: Interrogador: Especialista
+{
+    "strings": {
+        "KENKO_INTERROGATOR_NAME": "Interrogador",
+        "KENKO_INTERROGATOR_SUBTITLE": "Especialista en Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "El Interrogador puede golpear y ser golpeado por aliados y enemigos. Los atacantes que golpean al Interrogador son marcados permanentemente como Culpables. Causa 50 de daño base adicional por enemigo Culpable.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Balancea tu bastón al frente, causando 320% de daño. Fallar el ataque hace que sufras 90% de daño en su lugar.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lanza un cuchillo que causa 450% de daño. Si el cuchillo mata al objetivo, aplica Hemorragia y Presión a todos en el área.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Avanza rápidamente causando 390% de daño y aplicando Culpable a los objetivos golpeados.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Marca a un enemigo Culpable y lucha contra él por 10s. Durante este período, todo daño externo es negado, incluido el tuyo propio. Tu ataque primario ya no puede golpearte, pero acumula continuamente el bono de daño de Culpable.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Condenar (Cetro)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Marca a un enemigo Culpable y lucha contra él por 14s. Durante este período, todo daño externo es negado. Tu ataque primario ya no puede golpearte, pero acumula el bono de daño de Culpable con el doble de eficiencia.",
+        "MASTERY_SKIN_NAME": "Interrogador: Especialista"
+    }
+}

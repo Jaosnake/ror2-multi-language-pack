@@ -1,18 +1,22 @@
-BASTIAN_NAME: Bastian
-BASTIAN_SUBTITLE: Robot Traducteur Reconditionné
-BASTIAN_DESCRIPTION: Un robot local, construit pour aider à négocier des accords avec des corps planétaires étrangers. Son but original était de fonctionner comme intermédiaire, conçu pour survivre sur des planètes avec un air et des températures qu'un humain normal ne pourrait pas supporter. Il a été embarqué à bord de l'UES Contact Light dans le cadre d'un plan de contingence. Cependant, il a fini par être reprogrammé pour le combat, malgré le fait qu'il s'agissait d'une simple mission d'aller-retour. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_NAME_EPIC: Bastian le Traducteur, Modèle 4.I.N.K.
-BASTIAN_ROO_DESCRIPTION: Bastian le Traducteur, Modèle 4.I.N.K. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_OUTRO: ..et ainsi il partit, sa fonction enfin accomplie.
-BASTIAN_FAIL: ..et ainsi il fut désactivé, sa mémoire effacée à jamais.
-BASTIAN_M1: Ion Swing
-BASTIAN_M1_DESCRIPTION: <style=cIsDamage>Mêlée</style>. <style=cIsUtility>Agile</style>. Frappez les ennemis devant pour <style=cIsDamage>250% de dégâts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. Les dégâts sont réduits de moitié en mode Évasif. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_M2: Micro-Balle
-BASTIAN_M2_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez jusqu'à 5 balles d'énergie, chacune infligeant <style=cIsDamage>250% de dégâts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. N'applique pas d'étourdissement en mode Évasif. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_UTIL: Nano-Ressort
-BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>Exécutez</style> une dash rapide dans n'importe quelle direction. Accumule des <style=cIsUtility>Charges Ioniques</style>. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_SPEC: Explosion de l'Architecte
-BASTIAN_SPEC_DESCRIPTION: Dépensez <style=cIsHealth>33% de vie actuelle</style> et <style=cIsUtility>toutes les Charges Ioniques</style> pour une explosion massive de <style=cIsDamage>500%-3.000% de dégâts</style>. Après utilisation, devenez <color=#E9AFEA>Évasif</color> pendant 10 secondes. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_SPEC_KEYWORD: Spécial
-BASTIANBODY_DEFAULT_SKIN_NAME: Par défaut
-BASTIANBODY_MASTERY_SKIN_NAME: Maîtrise
+{
+    "strings": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Robot Traducteur Reconditionné",
+        "BASTIAN_DESCRIPTION": "Un robot local, construit pour aider à négocier des accords avec des corps planétaires étrangers. Son but original était de fonctionner comme intermédiaire, conçu pour survivre sur des planètes avec un air et des températures qu'un humain normal ne pourrait pas supporter. Il a été embarqué à bord de l'UES Contact Light dans le cadre d'un plan de contingence. Cependant, il a fini par être reprogrammé pour le combat, malgré le fait qu'il s'agissait d'une simple mission d'aller-retour.",
+        "BASTIAN_NAME_EPIC": "Bastian le Traducteur, Modèle 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian le Traducteur, Modèle 4.I.N.K.",
+        "BASTIAN_OUTRO": "..et ainsi il partit, sa fonction enfin accomplie.",
+        "BASTIAN_FAIL": "..et ainsi il fut désactivé, sa mémoire effacée à jamais.",
+        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Mêlée</style>. <style=cIsUtility>Agile</style>. Frappez les ennemis devant pour <style=cIsDamage>250% de dégâts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. Les dégâts sont réduits de moitié en mode Évasif.",
+        "BASTIAN_M2": "Micro-Balle",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez jusqu'à 5 balles d'énergie, chacune infligeant <style=cIsDamage>250% de dégâts</style>. Accumule des <style=cIsUtility>Charges Ioniques</style>. N'applique pas d'étourdissement en mode Évasif.",
+        "BASTIAN_UTIL": "Nano-Ressort",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Exécutez</style> une dash rapide dans n'importe quelle direction. Accumule des <style=cIsUtility>Charges Ioniques</style>.",
+        "BASTIAN_SPEC": "Explosion de l'Architecte",
+        "BASTIAN_SPEC_DESCRIPTION": "Dépensez <style=cIsHealth>33% de vie actuelle</style> et <style=cIsUtility>toutes les Charges Ioniques</style> pour une explosion massive de <style=cIsDamage>500%-3.000% de dégâts</style>. Après utilisation, devenez <color=#E9AFEA>Évasif</color> pendant 10 secondes.",
+        "BASTIAN_SPEC_KEYWORD": "Spécial",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Maîtrise"
+    }
+}

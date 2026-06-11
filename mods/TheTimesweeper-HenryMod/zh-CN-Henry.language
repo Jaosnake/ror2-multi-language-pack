@@ -1,23 +1,23 @@
 {
-"zh-CN": {
-"ROB_HENRY_BODY_NAME": "Henry",
-"ROB_HENRY_BODY_DESCRIPTION": "Henry是一位熟练的战士，使用丰富的武器库击败敌人。<color=#CCD3E0>",
-"ROB_HENRY_BODY_SUBTITLE": "天选之人",
-"ROB_HENRY_BODY_LORE": "示例传说",
-"ROB_HENRY_BODY_OUTRO_FLAVOR": "..于是他离开了，寻找新的身份。",
-"ROB_HENRY_BODY_OUTRO_FAILURE": "..于是他消失了，永远是一张白纸。",
-"ROB_HENRY_BODY_MASTERY_SKIN_NAME": "替代",
-"ROB_HENRY_BODY_PASSIVE_NAME": "Henry被动",
-"ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "示例文本。",
-"ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "剑",
-"ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>敏捷。</style>向前挥砍造成<style=cIsDamage>280%伤害</style>。",
-"ROB_HENRY_BODY_SECONDARY_GUN_NAME": "手枪",
-"ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>敏捷。</style>开火造成<style=cIsDamage>420%伤害</style>。",
-"ROB_HENRY_BODY_UTILITY_ROLL_NAME": "翻滚",
-"ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "短距离翻滚，获得<style=cIsUtility>300护甲</style>。<style=cIsUtility>翻滚期间无法被击中。</style>",
-"ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "炸弹",
-"ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "投掷炸弹造成<style=cIsDamage>1600%伤害</style>。",
-"ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: 精通",
-"ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "使用Henry通关或在季风难度下抹除自己。"
-}
+    "zh-CN": {
+        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_DESCRIPTION": "Henry是一位熟练的战士,使用丰富的武器库击败敌人。<color=#CCD3E0>",
+        "ROB_HENRY_BODY_SUBTITLE": "天选之人",
+        "ROB_HENRY_BODY_LORE": "示例传说",
+        "ROB_HENRY_BODY_OUTRO_FLAVOR": "..于是他离开了,寻找新的身份。",
+        "ROB_HENRY_BODY_OUTRO_FAILURE": "..于是他消失了,永远是一张白纸。",
+        "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "替代",
+        "ROB_HENRY_BODY_PASSIVE_NAME": "Henry被动",
+        "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "示例文本。",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "剑",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>敏捷。</style>向前挥砍造成<style=cIsDamage>280%伤害</style>。",
+        "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "手枪",
+        "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>敏捷。</style>开火造成<style=cIsDamage>420%伤害</style>。",
+        "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "翻滚",
+        "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "短距离翻滚,获得<style=cIsUtility>300护甲</style>。<style=cIsUtility>翻滚期间无法被击中。</style>",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "炸弹",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "投掷炸弹造成<style=cIsDamage>1600%伤害</style>。",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: 精通",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "使用Henry通关或在季风难度下抹除自己。"
+    }
 }

@@ -2,8 +2,8 @@
     "es-419": {
         "KENKO_INTERROGATOR_NAME": "Interrogador",
         "KENKO_INTERROGATOR_SUBTITLE": "Especialista en Tormento",
-        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..y as\u00ed parti\u00f3, ansioso por aplicar m\u00e1s \"justicia\".",
-        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..y as\u00ed desapareci\u00f3, castigado por sus cr\u00edmenes.",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..y así partió, ansioso por aplicar más \"justicia\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..y así desapareció, castigado por sus crímenes.",
         "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Predeterminado",
         "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogador: Especialista",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
@@ -11,6 +11,6 @@
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Refriega",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificar",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Castigar",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Castigar"
     }
 }

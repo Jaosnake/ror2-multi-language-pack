@@ -1,102 +1,106 @@
-ROB_HUNK_BODY_NAME: HUNK
-ROB_HUNK_BODY_SUBTITLE: The Reaper
-ROB_HUNK_BODY_DEFAULT_SKIN_NAME: Default
-ROB_HUNK_BODY_CLASSIC_SKIN_NAME: Classic
-ROB_HUNK_BODY_ROOKIE_SKIN_NAME: Rookie
-ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
-ROB_HUNK_BODY_LEON_SKIN_NAME: Leon
-ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
-ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: Lightweight
-ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: Guerrilla
-ROB_HUNK_BODY_WESKER_SKIN_NAME: Wesker
-ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
-ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
-ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: Leon's Shirt
-ROB_HUNK_BODY_COMMANDO_SKIN_NAME: Commando
-ROB_HUNK_BODY_JACKET_SKIN_NAME: Jacket
-ROB_HUNK_BODY_TOFU_SKIN_NAME: Tofu
-ROB_HUNK_BODY_SUPER_SKIN_NAME: Super
-SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the M19 for <style=cIsDamage>500% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the Broom HC for <style=cIsDamage>180% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_REVOLVER_NAME: Revolver
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a revolver for <style=cIsDamage>1,200% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_MAGNUM_NAME: Magnum
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a magnum for <style=cIsDamage>1,500% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_SHOTGUN_NAME: Shotgun
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a shotgun for <style=cIsDamage>14x150% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the SSG for <style=cIsDamage>16x200% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire the Slugger for <style=cIsDamage>3,000% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_AR_NAME: Assault Rifle
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a rifle for <style=cIsDamage>385% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a Spark Shot for <style=cIsDamage>1,000% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_GOLDGUN_NAME: Golden Gun
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a golden gun for <style=cIsDamage>99,999% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_ATM_NAME: ATM Launcher
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a rocket for <style=cIsDamage>8,000% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SHOOT_GRENADELAUNCHER_NAME: Grenade Launcher
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>. Fire a grenade for <style=cIsDamage>3,200% damage</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Draw.</style> <style=cIsDamage>Strike</style> melee combatants for <style=cIsDamage>200% and 250% damage</style>, inflicting <style=cIsHealth>Mangled</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SECONDARY_AIM_NAME: Aim Steadily
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Aim</style> to improve your current weapon's accuracy. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-UTILITY_PARRY_NAME: Parry
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Parry</style> to deflect attacks. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-UTILITY_DODGE_NAME: Slide
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>Slide</style> a short distance. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-UTILITY_BASH_NAME: Deflection
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflect</style> nearby enemies, <style=cIsUtility>stunning them</style> for <style=cIsDamage>400% damage</style>. If used preemptively to <style=cIsUtility>cancel an attack</style>, perform a <style=cIsDamage>Perfect Deflection</style>. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-SPECIAL_SWAP_NAME: Legion
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Swap</style> your current weapon. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-ROB_HUNK_KEYWORD_MANGLED: Mangled
-ROB_HUNK_KEYWORD_COUNTERATTACK: Counterattack
-ROB_HUNK_KEYWORD_PERFECTDODGE: Perfect Dodge
-ROB_HUNK_KEYWORD_PERFECTBASH: Perfect Deflection
-ROB_HUNK_KEYWORD_CVIRUS: C-Virus
-ROB_HUNK_KEYWORD_LOOTING: Looting
-ROB_HUNK_TRANSCEIVER_NAME: Transceiver
-ROB_HUNK_TRANSCEIVER_DESC: Supply drop.
-ROB_HUNK_TYPEWRITER_NAME: Typewriter
-ROB_HUNK_TYPEWRITER_DESC: Save your progress.
-ROB_HUNK_JETPACK_NAME: Jetpack
-ROB_HUNK_JETPACK_DESC: Grants aerial mobility.
-ROB_HUNK_C4_NAME: C4
-ROB_HUNK_GRENADE_NAME: Grenade
-ROB_HUNK_SUPPLYPACK_NAME: Supplies
-ROB_HUNK_AMMO_NAME: Ammo
-ROB_HUNK_AMMOITEM_NAME: Ammo
-ROB_HUNK_CHEST_NAME: Chest
-ROB_HUNK_TERMINAL_NAME: Terminal
-ROB_HUNK_STARSBADGE_NAME: S.T.A.R.S. Badge
-ROB_HUNK_STARSBADGE2_NAME: S.T.A.R.S. Badge 2
-ROB_HUNK_STARSBADGE_DESC: A badge from a S.T.A.R.S. member.
-ROB_HUNK_HEARTCHEST_NAME: Heart Chest
-ROB_HUNK_T_VIRUS_NAME: T-Virus
-ROB_HUNK_T_VIRUS_DESC: A T-Virus sample.
-ROB_HUNK_G_VIRUS_NAME: G-Virus
-ROB_HUNK_G_VIRUS_DESC: A G-Virus sample.
-ROB_HUNK_G_VIRUS2_NAME: G-Virus 2
-ROB_HUNK_C_VIRUS_NAME: C-Virus
-ROB_HUNK_C_VIRUS_DESC: A C-Virus sample.
-ROB_HUNK_G_VIRUSFINAL_NAME: Final G-Virus
-ROB_HUNK_PLAGAS_NAME: Plagas
-ROB_HUNK_PLAGAS_DESC: A Plagas sample.
-ROB_HUNK_URO_SAMPLE_NAME: Uroboros Sample
-ROB_HUNK_URO_SAMPLE_DESC: An Uroboros sample.
-ROB_HUNK_INFROCKET_NAME: Infinite Rocket
-ROB_HUNK_INFROCKET_DESC: Infinite rocket ammo.
-ROB_HUNK_NEMICASE_NAME: Nemi Case
-ROB_HUNK_NEMICASE_DESC: A mysterious case.
-ROB_NEMESIS_BODY_NAME: Nemesis
-ROB_NEMESIS_BODY_SUBTITLE: The Pursuer
-ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Default
-ROB_NEMESIS_BODY_PASSIVE_NAME: Relentless Pursuit
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Deal <style=cIsDamage>{0}% bonus damage</style> to marked enemies. <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
-ROB_NEMESIS_BODY_GRAB_NAME: Grab
-ROB_ARTIFACT_STRIKETEAM_NAME: Artifact of the Strike Team
-ROB_ARTIFACT_PURSUER_NAME: Artifact of the Pursuer
-ROB_ARTIFACT_CONTAMINATION_NAME: Artifact of Contamination
+{
+    "strings": {
+        "ROB_HUNK_BODY_NAME": "HUNK",
+        "ROB_HUNK_BODY_SUBTITLE": "The Reaper",
+        "ROB_HUNK_BODY_DEFAULT_SKIN_NAME": "Default",
+        "ROB_HUNK_BODY_CLASSIC_SKIN_NAME": "Classic",
+        "ROB_HUNK_BODY_ROOKIE_SKIN_NAME": "Rookie",
+        "ROB_HUNK_BODY_SWAT_SKIN_NAME": "SWAT",
+        "ROB_HUNK_BODY_LEON_SKIN_NAME": "Leon",
+        "ROB_HUNK_BODY_ENFORCER_SKIN_NAME": "Enforcer",
+        "ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME": "Lightweight",
+        "ROB_HUNK_BODY_GUERRILLA_SKIN_NAME": "Guerrilla",
+        "ROB_HUNK_BODY_WESKER_SKIN_NAME": "Wesker",
+        "ROB_HUNK_BODY_DOOM_SKIN_NAME": "Doom",
+        "ROB_HUNK_BODY_MINECRAFT_SKIN_NAME": "Minecraft",
+        "ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME": "Leon's Shirt",
+        "ROB_HUNK_BODY_COMMANDO_SKIN_NAME": "Commando",
+        "ROB_HUNK_BODY_JACKET_SKIN_NAME": "Jacket",
+        "ROB_HUNK_BODY_TOFU_SKIN_NAME": "Tofu",
+        "ROB_HUNK_BODY_SUPER_SKIN_NAME": "Super",
+        "SHOOT_M19_NAME": "M19",
+        "SHOOT_M19_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire the M19 for <style=cIsDamage>500% damage</style>.",
+        "SHOOT_BROOMHC_NAME": "Broom HC",
+        "SHOOT_BROOMHC_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire the Broom HC for <style=cIsDamage>180% damage</style>.",
+        "SHOOT_REVOLVER_NAME": "Revolver",
+        "SHOOT_REVOLVER_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a revolver for <style=cIsDamage>1,200% damage</style>.",
+        "SHOOT_MAGNUM_NAME": "Magnum",
+        "SHOOT_MAGNUM_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a magnum for <style=cIsDamage>1,500% damage</style>.",
+        "SHOOT_SHOTGUN_NAME": "Shotgun",
+        "SHOOT_SHOTGUN_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a shotgun for <style=cIsDamage>14x150% damage</style>.",
+        "SHOOT_SSG_NAME": "SSG",
+        "SHOOT_SSG_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire the SSG for <style=cIsDamage>16x200% damage</style>.",
+        "SHOOT_SLUGGER_NAME": "Slugger",
+        "SHOOT_SLUGGER_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire the Slugger for <style=cIsDamage>3,000% damage</style>.",
+        "SHOOT_AR_NAME": "Assault Rifle",
+        "SHOOT_AR_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a rifle for <style=cIsDamage>385% damage</style>.",
+        "SHOOT_SPARKSHOT_NAME": "Spark Shot",
+        "SHOOT_SPARKSHOT_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a Spark Shot for <style=cIsDamage>1,000% damage</style>.",
+        "SHOOT_GOLDGUN_NAME": "Golden Gun",
+        "SHOOT_GOLDGUN_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a golden gun for <style=cIsDamage>99,999% damage</style>.",
+        "SHOOT_ATM_NAME": "ATM Launcher",
+        "SHOOT_ATM_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a rocket for <style=cIsDamage>8,000% damage</style>.",
+        "SHOOT_GRENADELAUNCHER_NAME": "Grenade Launcher",
+        "SHOOT_GRENADELAUNCHER_DESCRIPTION": "<style=cIsUtility>?agi</style>. Fire a grenade for <style=cIsDamage>3,200% damage</style>.",
+        "PRIMARY_CQC_NAME": "CQC",
+        "PRIMARY_CQC_DESCRIPTION": "<style=cIsUtility>Draw.</style> <style=cIsDamage>Strike</style> melee combatants for <style=cIsDamage>200% and 250% damage</style>, inflicting <style=cIsHealth>Mangled</style>.",
+        "SECONDARY_AIM_NAME": "Aim Steadily",
+        "SECONDARY_AIM_DESCRIPTION": "<style=cIsUtility>Aim</style> to improve your current weapon's accuracy.",
+        "UTILITY_PARRY_NAME": "Parry",
+        "UTILITY_PARRY_DESCRIPTION": "<style=cIsUtility>Parry</style> to deflect attacks. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>.",
+        "UTILITY_DODGE_NAME": "Slide",
+        "UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>Slide</style> a short distance. If used preemptively to <style=cIsUtility>avoid an attack</style>, perform a <style=cIsDamage>Perfect Dodge</style>.",
+        "UTILITY_BASH_NAME": "Deflection",
+        "UTILITY_BASH_DESCRIPTION": "<style=cIsUtility>Deflect</style> nearby enemies, <style=cIsUtility>stunning them</style> for <style=cIsDamage>400% damage</style>. If used preemptively to <style=cIsUtility>cancel an attack</style>, perform a <style=cIsDamage>Perfect Deflection</style>.",
+        "SPECIAL_SWAP_NAME": "Legion",
+        "SPECIAL_SWAP_DESCRIPTION": "<style=cIsUtility>Swap</style> your current weapon.",
+        "ROB_HUNK_KEYWORD_MANGLED": "Mangled",
+        "ROB_HUNK_KEYWORD_COUNTERATTACK": "Counterattack",
+        "ROB_HUNK_KEYWORD_PERFECTDODGE": "Perfect Dodge",
+        "ROB_HUNK_KEYWORD_PERFECTBASH": "Perfect Deflection",
+        "ROB_HUNK_KEYWORD_CVIRUS": "C-Virus",
+        "ROB_HUNK_KEYWORD_LOOTING": "Looting",
+        "ROB_HUNK_TRANSCEIVER_NAME": "Transceiver",
+        "ROB_HUNK_TRANSCEIVER_DESC": "Supply drop.",
+        "ROB_HUNK_TYPEWRITER_NAME": "Typewriter",
+        "ROB_HUNK_TYPEWRITER_DESC": "Save your progress.",
+        "ROB_HUNK_JETPACK_NAME": "Jetpack",
+        "ROB_HUNK_JETPACK_DESC": "Grants aerial mobility.",
+        "ROB_HUNK_C4_NAME": "C4",
+        "ROB_HUNK_GRENADE_NAME": "Grenade",
+        "ROB_HUNK_SUPPLYPACK_NAME": "Supplies",
+        "ROB_HUNK_AMMO_NAME": "Ammo",
+        "ROB_HUNK_AMMOITEM_NAME": "Ammo",
+        "ROB_HUNK_CHEST_NAME": "Chest",
+        "ROB_HUNK_TERMINAL_NAME": "Terminal",
+        "ROB_HUNK_STARSBADGE_NAME": "S.T.A.R.S. Badge",
+        "ROB_HUNK_STARSBADGE2_NAME": "S.T.A.R.S. Badge 2",
+        "ROB_HUNK_STARSBADGE_DESC": "A badge from a S.T.A.R.S. member.",
+        "ROB_HUNK_HEARTCHEST_NAME": "Heart Chest",
+        "ROB_HUNK_T_VIRUS_NAME": "T-Virus",
+        "ROB_HUNK_T_VIRUS_DESC": "A T-Virus sample.",
+        "ROB_HUNK_G_VIRUS_NAME": "G-Virus",
+        "ROB_HUNK_G_VIRUS_DESC": "A G-Virus sample.",
+        "ROB_HUNK_G_VIRUS2_NAME": "G-Virus 2",
+        "ROB_HUNK_C_VIRUS_NAME": "C-Virus",
+        "ROB_HUNK_C_VIRUS_DESC": "A C-Virus sample.",
+        "ROB_HUNK_G_VIRUSFINAL_NAME": "Final G-Virus",
+        "ROB_HUNK_PLAGAS_NAME": "Plagas",
+        "ROB_HUNK_PLAGAS_DESC": "A Plagas sample.",
+        "ROB_HUNK_URO_SAMPLE_NAME": "Uroboros Sample",
+        "ROB_HUNK_URO_SAMPLE_DESC": "An Uroboros sample.",
+        "ROB_HUNK_INFROCKET_NAME": "Infinite Rocket",
+        "ROB_HUNK_INFROCKET_DESC": "Infinite rocket ammo.",
+        "ROB_HUNK_NEMICASE_NAME": "Nemi Case",
+        "ROB_HUNK_NEMICASE_DESC": "A mysterious case.",
+        "ROB_NEMESIS_BODY_NAME": "Nemesis",
+        "ROB_NEMESIS_BODY_SUBTITLE": "The Pursuer",
+        "ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME": "Default",
+        "ROB_NEMESIS_BODY_PASSIVE_NAME": "Relentless Pursuit",
+        "ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION": "Deal <style=cIsDamage>{0}% bonus damage</style> to marked enemies.",
+        "ROB_NEMESIS_BODY_GRAB_NAME": "Grab",
+        "ROB_ARTIFACT_STRIKETEAM_NAME": "Artifact of the Strike Team",
+        "ROB_ARTIFACT_PURSUER_NAME": "Artifact of the Pursuer",
+        "ROB_ARTIFACT_CONTAMINATION_NAME": "Artifact of Contamination"
+    }
+}

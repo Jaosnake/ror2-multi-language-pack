@@ -1,17 +1,22 @@
-NDP_DANCER_BODY_PASSIVE_NAME: 限制胶带
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: 带有胶带的敌人每秒流血50%伤害，且无法行动。 <i>Translated by: Jaosnake. Original mod by nayDPz</i>
-PRIMARY_SLASH_NAME: 斩击
-PRIMARY_SLASH_DESCRIPTION: 基于你的瞄准产生不同效果的近战攻击。（悬停查看详情）
-PRIMARY_SLASH2_NAME: 切割
-PRIMARY_SLASH2_DESCRIPTION: 基于你的瞄准产生不同效果的近战攻击。（悬停查看详情）
-UTILITY_PULL_NAME: 牵引
-UTILITY_PULL_DESCRIPTION: 将敌人拉向你。
-SPECIAL_RIBBON_LOCK_NAME: 束缚胶带
-SPECIAL_RIBBON_LOCK_DESCRIPTION: 对敌人施加胶带，阻止其行动并造成流血。
-KEYWORD_DANCER_JAB: <style=cKeywordName>刺拳</style><style=cSub>地面输入，瞄准前方。向前突进并造成<style=cIsDamage>180%伤害</style>。
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>下猛击</style><style=cSub>地面输入，瞄准下方。将敌人击飞并造成<style=cIsDamage>200%伤害</style>。
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>前空击</style><style=cSub>空中输入，瞄准前方。重击造成<style=cIsDamage>180%伤害</style>并将敌人钉在地上，击晕并造成最多<style=cIsDamage>300%伤害</style>。
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>胶带</style><style=cSub>带有胶带的敌人每秒流血<style=cIsDamage>50%伤害</style>且无法行动。
-NDP_DANCER_BODY_SUBTITLE: 致命之舞
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: 默认
-NDP_DANCER_GOLD_SKIN_NAME: 金色
+{
+    "strings": {
+        "NDP_DANCER_BODY_NAME": "Dancer",
+        "NDP_DANCER_BODY_SUBTITLE": "致命之舞",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "默认",
+        "NDP_DANCER_GOLD_SKIN_NAME": "金色",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "限制胶带",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "带有胶带的敌人每秒流血50%伤害,且无法行动。Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "斩击",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "基于你的瞄准产生不同效果的近战攻击。(悬停查看详情)Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "切割",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "基于你的瞄准产生不同效果的近战攻击。(悬停查看详情)Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "牵引",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "将敌人拉向你。Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "束缚胶带",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "对敌人施加胶带,阻止其行动并造成流血。Original mod by nayDPz</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>刺拳</style><style=cSub>地面输入,瞄准前方。向前突进并造成<style=cIsDamage>180%伤害</style>。",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>下猛击</style><style=cSub>地面输入,瞄准下方。将敌人击飞并造成<style=cIsDamage>200%伤害</style>。",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>前空击</style><style=cSub>空中输入,瞄准前方。重击造成<style=cIsDamage>180%伤害</style>并将敌人钉在地上,击晕并造成最多<style=cIsDamage>300%伤害</style>。",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>胶带</style><style=cSub>带有胶带的敌人每秒流血<style=cIsDamage>50%伤害</style>且无法行动。"
+    }
+}

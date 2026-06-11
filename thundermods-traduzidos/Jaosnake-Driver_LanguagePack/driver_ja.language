@@ -1,39 +1,43 @@
-ROB_DRIVER_BODY_NAME: Driver
-ROB_DRIVER_BODY_SUBTITLE: ã‚¢ãƒ¼ã‚»ãƒŠãƒ«ãƒ‰ãƒ©ã‚¤ãƒãƒ¼
-PRIMARY_PISTOL_NAME: ãƒ”ã‚¹ãƒˆãƒ«
-PRIMARY_PISTOL_DESCRIPTION: æ¬ é™¥ã®ã‚ã‚‹è©¦ä½œå“ã§ã€æ•°ç™ºã—ã‹æ’ƒã¦ãªã„ã€‚
-PRIMARY_MACHINEGUN_NAME: ãƒžã‚·ãƒ³ã‚¬ãƒ³
-PRIMARY_MACHINEGUN_DESCRIPTION: ç´ æ—©ãç™ºå°„ã—ã€1ç™ºã‚ãŸã‚Š120%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_RIOT_SHOTGUN_DESCRIPTION: ã‚·ãƒ§ãƒƒãƒˆã‚¬ãƒ³ã‚’ç™ºå°„ã—ã€8x140%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-PRIMARY_BADASS_SHOTGUN_DESCRIPTION: å£Šæ»…çš„ãªã‚·ãƒ§ãƒƒãƒˆã‚¬ãƒ³ã‚’ç™ºå°„ã—ã€24x140%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_BAZOOKA_DESCRIPTION: çˆ†ç™ºã™ã‚‹ãƒ­ã‚±ãƒƒãƒˆã‚’ç™ºå°„ã—ã€600%-1,200%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_ARMCANNON_DESCRIPTION: ã‚­ãƒ£ãƒŽãƒ³å¼¾ã‚’ç™ºå°„ã—ã€1,000%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_PLASMACANNON_DESCRIPTION: ãƒ—ãƒ©ã‚ºãƒžå¼¾ã‚’ç™ºå°„ã—ã€1,200%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_GOLEMGUN_DESCRIPTION: ãƒ˜ãƒ“ãƒ¼ã‚·ãƒ§ãƒƒãƒˆã‚’ç™ºå°„ã—ã€800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_NEMMANDO_SWORD_DESCRIPTION: å‰æ–¹ã®æ•µã‚’å‰£ã§æ–¬ã‚Šã€160%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-PRIMARY_ARTI_GAUNTLET_NAME: ã‚¢ãƒ¼ãƒ†ã‚£ãƒ•ã‚£ã‚µãƒ¼ã®ã‚¬ãƒ³ãƒˆãƒ¬ãƒƒãƒˆ
-PRIMARY_ARTI_GAUNTLET_DESCRIPTION: ãƒžã‚°ãƒžå¼¾ã‚’ç™ºå°„ã—ã€350%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_PISTOL_DESCRIPTION: ã‚»ã‚«ãƒ³ãƒ€ãƒªãƒ¼ãƒ”ã‚¹ãƒˆãƒ«ã‚’ç™ºå°„ã—ã€500%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚è¿‘ãã®æ•µã‚’ã‚¹ã‚¿ãƒ³ã•ã›æŠ¼ã—å‡ºã—ã€250%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_ROCKETLAUNCHER_ALT_NAME: ãƒ­ã‚±ãƒƒãƒˆãƒ©ãƒ³ãƒãƒ£ãƒ¼
-SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚ç´ æ—©ã„ãƒ­ã‚±ãƒƒãƒˆå¼¾å¹•ã‚’ç™ºå°„ã—ã€1ç™ºã‚ãŸã‚Š250%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_HEAVY_MACHINEGUN_NAME: ãƒ˜ãƒ“ãƒ¼ãƒžã‚·ãƒ³ã‚¬ãƒ³
-SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚æ•µã‚’ã‚¹ã‚¿ãƒ³ã•ã›ã‚‹ã‚°ãƒ¬ãƒãƒ¼ãƒ‰ã‚’æŠ•ã’ã€800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_PLASMACANNON_NAME: ãƒ—ãƒ©ã‚ºãƒžã‚­ãƒ£ãƒŽãƒ³
-SECONDARY_PLASMACANNON_DESCRIPTION: ãƒãƒ£ãƒ¼ã‚¸ã—ãŸãƒ—ãƒ©ã‚ºãƒžå¼¾ã‚’ç™ºå°„ã—ã€1,000%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_BANDITREVOLVER_DESCRIPTION: å¤§å£å¾„ãƒªãƒœãƒ«ãƒãƒ¼ã‚’ç™ºå°„ã—ã€1,500%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>ã‚¢ã‚¸ãƒ£ã‚¤ãƒ«</style>ã€‚æœˆã®ç ´ç‰‡ã®æ–‰å°„ã‚’æ”¾ã¡ã€1ç™ºã‚ãŸã‚Š180%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_NEMMANDO_DESCRIPTION: æš—é»’ã®å¼¾ã‚’ç™ºå°„ã—ã€240%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SECONDARY_ARTI_GAUNTLET_DESCRIPTION: æ°·ã®é­”æ³•ã® burst ã‚’æ”¾ã¡ã€600%-2,000%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-UTILITY_DASH_NAME: ãƒ€ãƒƒã‚·ãƒ¥
-UTILITY_DASH_DESCRIPTION: çŸ­è·é›¢ã‚’ãƒ€ãƒƒã‚·ãƒ¥ã™ã‚‹ã€‚æœ€å¤§2ãƒãƒ£ãƒ¼ã‚¸ã¾ã§å¯èƒ½ã€‚
-SPECIAL_SUPPLY_DROP_NAME: ç©ºä¸­è£œçµ¦
-SPECIAL_SUPPLY_DROP_DESCRIPTION: æ­¦å™¨ã®ç©ºä¸­è£œçµ¦ã‚’è¦è«‹ã™ã‚‹ã€‚
-SPECIAL_GRENADE_NAME: ã‚°ãƒ¬ãƒãƒ¼ãƒ‰
-SPECIAL_KNIFE_NAME: ãƒŠã‚¤ãƒ•
-SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>æ–¬æ’ƒ</style>ã€‚<style=cIsUtility>ã‚¢ã‚¸ãƒ£ã‚¤ãƒ«</style>ã€‚å‰æ–¹ã®æ•µã‚’æ–¬ã‚Šã€470%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã€‚
-SPECIAL_DRIVERCOIN_NAME: ãƒ‰ãƒ©ã‚¤ãƒãƒ¼ã‚³ã‚¤ãƒ³
-SPECIAL_DRIVERCOIN_DESCRIPTION: ã‚³ã‚¤ãƒ³ã‚’æ¶ˆè²»ã—ã¦ç‰¹æ®ŠåŠ¹æžœã‚’ç™ºå‹•ã™ã‚‹ã€‚
-ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>ãƒ•ã‚©ãƒ¼ã‚«ã‚¹</style><style=cSub>ãƒ•ã‚©ãƒ¼ã‚«ã‚¹ã¯ãƒ€ãƒ¡ãƒ¼ã‚¸å‡ºåŠ›ã‚’å¤§å¹…ã«å¢—åŠ ã•ã›ã‚‹ãŒã€ç…§æº–ä¸­ã«å´é¢ã‚’çªã‹ã‚Œãªã„ã‚ˆã†ã«æ³¨æ„ã€‚
-ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>ã‚¢ãƒ¼ã‚»ãƒŠãƒ«</style><style=cSub>ãƒ—ãƒ©ã‚¤ãƒžãƒªã¨ã‚»ã‚«ãƒ³ãƒ€ãƒªã‚¢ãƒ“ãƒªãƒ†ã‚£ã‚’ä½¿ç”¨ã—ã¦æ­¦å™¨ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ã€‚
+{
+    "ja": {
+        "ROB_DRIVER_BODY_NAME": "Driver",
+        "ROB_DRIVER_BODY_SUBTITLE": "アーセナルドライバー",
+        "PRIMARY_PISTOL_NAME": "ピストル",
+        "PRIMARY_PISTOL_DESCRIPTION": "欠陥のある試作品で、数発しか撃てない。",
+        "PRIMARY_MACHINEGUN_NAME": "マシンガン",
+        "PRIMARY_MACHINEGUN_DESCRIPTION": "素早く発射し、1発あたり120%のダメージ。",
+        "PRIMARY_RIOT_SHOTGUN_DESCRIPTION": "ショットガンを発射し、8x140%のダメージを与える。",
+        "PRIMARY_BADASS_SHOTGUN_DESCRIPTION": "壊滅的なショットガンを発射し、24x140%のダメージ。",
+        "PRIMARY_BAZOOKA_DESCRIPTION": "爆発するロケットを発射し、600%-1,200%のダメージ。",
+        "PRIMARY_ARMCANNON_DESCRIPTION": "キャノン弾を発射し、1,000%のダメージ。",
+        "PRIMARY_PLASMACANNON_DESCRIPTION": "プラズマ弾を発射し、1,200%のダメージ。",
+        "PRIMARY_GOLEMGUN_DESCRIPTION": "ヘビーショットを発射し、800%のダメージ。",
+        "PRIMARY_NEMMANDO_SWORD_DESCRIPTION": "前方の敵を剣で斬り、160%のダメージ。",
+        "PRIMARY_ARTI_GAUNTLET_NAME": "アーティフィサーのガントレット",
+        "PRIMARY_ARTI_GAUNTLET_DESCRIPTION": "マグマ弾を発射し、350%のダメージ。",
+        "SECONDARY_PISTOL_DESCRIPTION": "セカンダリーピストルを発射し、500%のダメージ。",
+        "SECONDARY_BASH_DESCRIPTION": "<style=cIsDamage>スタン</style>。近くの敵をスタンさせ押し出し、250%のダメージ。",
+        "SECONDARY_ROCKETLAUNCHER_ALT_NAME": "ロケットランチャー",
+        "SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION": "<style=cIsDamage>スタン</style>。素早いロケット弾幕を発射し、1発あたり250%のダメージ。",
+        "SECONDARY_HEAVY_MACHINEGUN_NAME": "ヘビーマシンガン",
+        "SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION": "<style=cIsDamage>スタン</style>。敵をスタンさせるグレネードを投げ、800%のダメージ。",
+        "SECONDARY_PLASMACANNON_NAME": "プラズマキャノン",
+        "SECONDARY_PLASMACANNON_DESCRIPTION": "チャージしたプラズマ弾を発射し、1,000%のダメージ。",
+        "SECONDARY_BANDITREVOLVER_DESCRIPTION": "大口径リボルバーを発射し、1,500%のダメージ。",
+        "SECONDARY_LUNARHAMMER_DESCRIPTION": "<style=cIsUtility>アジャイル</style>。月の破片の斉射を放ち、1発あたり180%のダメージ。",
+        "SECONDARY_NEMMANDO_DESCRIPTION": "暗黒の弾を発射し、240%のダメージ。",
+        "SECONDARY_ARTI_GAUNTLET_DESCRIPTION": "氷の魔法の burst を放ち、600%-2,000%のダメージ。",
+        "UTILITY_DASH_NAME": "ダッシュ",
+        "UTILITY_DASH_DESCRIPTION": "短距離をダッシュする。最大2チャージまで可能。",
+        "SPECIAL_SUPPLY_DROP_NAME": "空中補給",
+        "SPECIAL_SUPPLY_DROP_DESCRIPTION": "武器の空中補給を要請する。",
+        "SPECIAL_GRENADE_NAME": "グレネード",
+        "SPECIAL_KNIFE_NAME": "ナイフ",
+        "SPECIAL_KNIFE_DESCRIPTION": "<style=cIsUtility>斬撃</style>。<style=cIsUtility>アジャイル</style>。前方の敵を斬り、470%のダメージ。",
+        "SPECIAL_DRIVERCOIN_NAME": "ドライバーコイン",
+        "SPECIAL_DRIVERCOIN_DESCRIPTION": "コインを消費して特殊効果を発動する。",
+        "ROB_DRIVER_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "ROB_DRIVER_PASSIVE_TOKEN": "<style=cKeywordName>フォーカス</style><style=cSub>フォーカスはダメージ出力を大幅に増加させるが、照準中に側面を突かれないように注意。",
+        "ROB_DRIVER_ARSENAL_TOKEN": "<style=cKeywordName>アーセナル</style><style=cSub>プライマリとセカンダリアビリティを使用して武器を切り替える。"
+    }
+}

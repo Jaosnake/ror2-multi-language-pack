@@ -1,24 +1,23 @@
-KENKO_INTERROGATOR_NAME: Interrogador
-KENKO_INTERROGATOR_SUBTITLE: Especialista em Tormento
-KENKO_INTERROGATOR_PASSIVE_NAME: Tormento
-KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: O Interrogador pode acertar e ser acertado por aliados e inimigos. Atacantes que acertam o Interrogador são marcados permanentemente como Culpados. Cause 50 de dano base a mais por inimigo Culpado.
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Balance seu bastão na frente, causando 320% de dano. Errar o ataque faz com que você sofra 90% de dano no lugar.
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Lance um cutelo que causa 450% de dano. Se o cutelo matar o alvo, aplica Hemorragia e Pressão em todos na área.
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Avance rapidamente causando 390% de dano e aplicando Culpado nos alvos atingidos.
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Condenar
-KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Marque um inimigo Culpado e lute contra ele por 10s. Durante este período, todo dano externo é negado, incluindo o seu próprio. Seu ataque primário não pode mais acertar você, mas acumula continuamente o bônus de dano de Culpado.
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Condenar (Cetro)
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Marque um inimigo Culpado e lute contra ele por 14s. Durante este período, todo dano externo é negado. Seu ataque primário não pode mais acertar você, mas acumula o bônus de dano de Culpado com o dobro da eficiência.
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-Mod original por tsuyoikenko. Traduzido por: Jaosnake
-MASTERY_SKIN_NAME: Interrogador: Especialista
+{
+    "strings": {
+        "KENKO_INTERROGATOR_NAME": "Interrogador",
+        "KENKO_INTERROGATOR_DESCRIPTION": "O Interrogador se compraz na dor alheia. Não se divirta demais machucando seus aliados... ou divirta-se.",
+        "KENKO_INTERROGATOR_SUBTITLE": "Especialista em Tormento",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..e então ele partiu, ansioso para aplicar mais \"justiça\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..e então ele desapareceu, punido por seus crimes.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Padrão",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogador: Especialista",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "O Interrogador pode acertar e ser acertado por aliados e inimigos. Atacantes que acertam o Interrogador são marcados permanentemente como Culpados. Cause 5% a mais de dano por inimigo Culpado.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Golpe Brutal",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Balance seu bastão na frente, causando <style=cIsDamage>320% de dano</style>. Errar o ataque faz com que você sofra <style=cIsDamage>dano</style> no lugar.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Refrega",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lance um cutelo que causa <style=cIsDamage>450% de dano</style>. <style=cIsDamage>Assassino.</style> Se o cutelo matar o alvo, aplica Hemorragia e Pressão em todos na área.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificar",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Avance rapidamente causando <style=cIsDamage>390% de dano</style> e aplicando Culpado nos alvos atingidos.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Duelo com um inimigo Culpado por 10 segundos. Seu primário não te acerta mais e concede um acúmulo de Culpado ao acertar. Durante o duelo, dano externo a você é negado, mas dano a outros inimigos além do alvo também é negado.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Duelo com um inimigo Culpado por 10 segundos. Seu primário não te acerta mais e concede um acúmulo de Culpado ao acertar. Durante o duelo, dano externo a você é negado, mas dano a outros inimigos é reduzido em 75%."
+    }
+}

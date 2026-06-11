@@ -17,7 +17,7 @@
         "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Roule sur une courte distance, gagnant <style=cIsUtility>300 d'armure</style>. <style=cIsUtility>Vous ne pouvez pas être touché pendant la roulade.</style>",
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bombe",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Lance une bombe pour <style=cIsDamage>1600% de dégâts</style>.",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry : Maîtrise",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "En tant qu'Henry, terminez le jeu ou obliterez en Mousson."
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
     }
 }

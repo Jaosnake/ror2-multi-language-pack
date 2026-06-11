@@ -1,12 +1,11 @@
-{ "zh-CN":
-	{
-	"FATACRID_BODY_NAME" : "å¤§åªçš„ç‹—",
-	"FATACRID_BODY_SUBTITLE" : "(å½¢å¼å·¨äºº)",
-	
-	"DIGGERPLUGIN_DIRESEEKER_BODY_NAME" : "æ·±æ¸Šåˆ©èŽ«é‡Œäºšé•¿è€",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE" : "è¿½æ€",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_LORE" : "ä¼ è¯´è®²è¿°äº†æ›¾ç»åœ¨ç¼æ³¥Våœ°ä¸‹å…µè¥ä¸­æ¸¸è¡çš„æ€ªç‰©ã€‚\n\nè¢«æœ€å‹‡æ•¢çš„å¹¸å­˜è€…å’Œæœ€è®¨åŽŒçš„æ€ªç‰©ææƒ§ï¼Œè¿™å¤´å·¨å¤§çš„é‡Žå…½æ˜¯æ— ä¸Žä¼¦æ¯”çš„ã€‚å®ƒæŠ«ç€è¡€çº¢è‰²çš„é³žç‰‡ï¼Œè¢«åœ°ç‹±ä¹‹ç«æ·¬ç‚¼ã€‚å®ƒæœ‰ç‡ƒçƒ§çš„é»„è‰²çœ¼ç›ï¼Œå¼ºçƒˆçš„çœ©å…‰è®©æœ€å¤§çš„ç”Ÿç‰©éƒ½æ­»åœ¨äº†ä»–ä»¬çš„è½¨é“ä¸Šã€‚å®ƒæ•£å‘ç€é˜´ç‡ƒçš„æ°”æ¯ï¼Œçƒ­å¾—è¶³ä»¥åœ¨çž¬é—´ç†”åŒ–é‡‘å±žã€‚\n\nåªæœ‰ä¸€æ¬¡è¢«ä¸€ä¸ªè¶³ä»¥æ€æ­»æ™®ç½—ç»´ç™»æ–¯æœ¬äººçš„å¹¸å­˜è€…æ‹¦ä½ï¼Œäººä»¬ç›¸ä¿¡è¿™åªé‡Žå…½ç»ˆäºŽé‡åˆ°äº†å®ƒçš„å¯¹æ‰‹ã€‚\n\n<style=cIsHealth>ç›´åˆ°å®ƒå†æ¬¡éœ²å‡ºææ€–çš„è„¸åºžã€‚</style>",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR" : "..æ‰€ä»¥å®ƒç¦»å¼€äº†ï¼Œå¯»æ‰¾æ–°çš„çŒŽç‰©ã€‚",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME" : "é»˜è®¤"
-	}
+{
+    "zh-CN": {
+        "FATACRID_BODY_NAME": "大只的狗",
+        "FATACRID_BODY_SUBTITLE": "(形式巨人)",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_NAME": "深渊利莫里亚长老",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE": "追杀",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_LORE": "传说讲述了曾经在琼泥V地下兵营中游荡的怪物。\n\n被最勇敢的幸存者和最讨厌的怪物恐惧,这头巨大的野兽是无与伦比的。它披着血红色的鳞片,被地狱之火淬炼。它有燃烧的黄色眼睛,强烈的眩光让最大的生物都死在了他们的轨道上。它散发着阴燃的气息,热得足以在瞬间熔化金属。\n\n只有一次被一个足以杀死普罗维登斯本人的幸存者拦住,人们相信这只野兽终于遇到了它的对手。\n\n<style=cIsHealth>直到它再次露出恐怖的脸庞。</style>",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR": "..所以它离开了,寻找新的猎物。",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME": "默认"
+    }
 }

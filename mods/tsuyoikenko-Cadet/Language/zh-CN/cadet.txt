@@ -1,19 +1,25 @@
-KENKO_CADET_NAME: 军校生
-KENKO_CADET_SUBTITLE:  versatile 射手
-KENKO_CADET_MASTERY_SKIN_NAME: 军校生：专家
-PRIMARY_SMG_NAME: 冲锋枪
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>敏捷</style>。用冲锋枪快速射击，每枪造成<style=cIsDamage>60%伤害</style>。
-PRIMARY_SHOTGUN_NAME: 霰弹枪
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>敏捷</style>。用霰弹枪射击造成<style=cIsDamage>100%伤害</style>。
-SECONDARY_GRENADE_NAME: 手榴弹
-SECONDARY_GRENADE_DESCRIPTION: 投掷一颗手榴弹，造成<style=cIsDamage>400%伤害</style>。
-SECONDARY_THROWGUN_NAME: 投掷武器
-SECONDARY_THROWGUN_DESCRIPTION: 投掷当前武器造成<style=cIsDamage>600%伤害</style>。
-UTILITY_SLIDE_NAME: 滑铲
-UTILITY_SLIDE_DESCRIPTION: 朝一个方向滑铲，<style=cIsUtility>立即装填</style>武器。
-UTILITY_ROLLOAD_NAME: 战术翻滚
-UTILITY_ROLLOAD_DESCRIPTION: 朝一个方向翻滚，装填武器。
-SPECIAL_ECHO_NAME: 回音
-SPECIAL_ECHO_DESCRIPTION: 发射声波无人机，在敌人之间弹跳，造成<style=cIsDamage>350%伤害</style>并减速。
-SPECIAL_ULTRA_NAME: 究极
-SPECIAL_ULTRA_DESCRIPTION: 发射强大的能量冲击波，造成<style=cIsDamage>600%伤害</style>。
+{
+    "strings": {
+        "KENKO_CADET_NAME": "军校生",
+        "KENKO_CADET_DESCRIPTION": "军校生是一名多用途枪手,能够用短程武器和快速机动性在战斗中穿梭。<color=#CCD3E0>Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SUBTITLE": "多用途射手",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "默认",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "军校生:专家",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "子弹风暴",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>.发射激光造成<style=cIsDamage>60%伤害</style>.需要<style=cIsUtility>装弹</style>,20发后装弹。",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "毁灭性潮汁",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>敏捷</style>.发射一股弹浪造成<style=cIsDamage>3x100%伤害</style>.需要<style=cIsUtility>装弹</style>,10发后装弹。",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "B计划",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "发射轻型炮弹发射器造成<style=cIsDamage>400%伤害</style>.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "C计划",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "抛投武器造成<style=cIsDamage>250%到750%伤害</style>,取决于当前子弹数。",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "滑动装弹",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "朝一个方向滑动,<style=cIsUtility>立即装弹</style>武器。",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "滚动装弹",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "朝一个方向翻滚,<style=cIsUtility>立即装弹</style>武器。",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "A计划",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>敏捷</style>.发射一股重型子弹浪造成<style=cIsDamage>32x150%伤害</style>.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "回音无人机",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "制造<style=cIsDamage>两只无人机</style>,寻找附近敌人造成<style=cIsDamage>2x370%伤害</style>."
+    }
+}

@@ -1,18 +1,22 @@
-BASTIAN_NAME: バスティアン
-BASTIAN_SUBTITLE: 再生翻訳ロボット
-BASTIAN_DESCRIPTION: 外来惑星天体との交渉を支援するために作られた現地ロボット。元々の目的は仲介役として機能することで、普通の人間では耐えられない大気や温度の惑星でも生存できるように設計されていた。緊急時対応計画の一環としてUES Contact Lightに搭載された。しかし、単なる運搬任務にもかかわらず、戦闘用に再プログラムされることになった。 <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_NAME_EPIC: 翻訳者バスティアン、モデル4.I.N.K.
-BASTIAN_ROO_DESCRIPTION: 翻訳者バスティアン、モデル4.I.N.K. <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_OUTRO: ..こうして彼は去り、その機能はついに果たされた。
-BASTIAN_FAIL: ..こうして彼は停止され、彼の記憶は永久に消去された。
-BASTIAN_M1: イオンスイング
-BASTIAN_M1_DESCRIPTION: <style=cIsDamage>近接</style>。<style=cIsUtility>敏捷</style>。前方の敵を攻撃し<style=cIsDamage>250%のダメージ</style>を与える。<style=cIsUtility>イオンチャージ</style>を蓄積する。回避中はダメージが半減する。 <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_M2: マイクロバレット
-BASTIAN_M2_DESCRIPTION: <style=cIsUtility>敏捷</style>。最大5発のエネルギーブレットを発射し、それぞれ<style=cIsDamage>250%のダメージ</style>を与える。<style=cIsUtility>イオンチャージ</style>を蓄積する。回避中はスタンを適用しない。 <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_UTIL: ナノスプリング
-BASTIAN_UTIL_DESCRIPTION: <style=cIsUtility>実行</style>：任意の方向に素早くダッシュする。<style=cIsUtility>イオンチャージ</style>を蓄積する。 <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_SPEC: 建築家の爆発
-BASTIAN_SPEC_DESCRIPTION: <style=cIsHealth>現在のHPの33%</style>と<style=cIsUtility>すべてのイオンチャージ</style>を消費し、<style=cIsDamage>500%-3.000%のダメージ</style>の大爆発を起こす。使用後、10秒間<color=#E9AFEA>回避</color>状態になる。 <i>Translated by: Jaosnake. Original mod by TeamSillyGuy</i>
-BASTIAN_SPEC_KEYWORD: 特殊
-BASTIANBODY_DEFAULT_SKIN_NAME: デフォルト
-BASTIANBODY_MASTERY_SKIN_NAME: マスタリー
+{
+    "strings": {
+        "BASTIAN_NAME": "バスティアン",
+        "BASTIAN_SUBTITLE": "再生翻訳ロボット",
+        "BASTIAN_DESCRIPTION": "外来惑星天体との交渉を支援するために作られた現地ロボット。元々の目的は仲介役として機能することで、普通の人間では耐えられない大気や温度の惑星でも生存できるように設計されていた。緊急時対応計画の一環としてUES Contact Lightに搭載された。しかし、単なる運搬任務にもかかわらず、戦闘用に再プログラムされることになった。",
+        "BASTIAN_NAME_EPIC": "翻訳者バスティアン、モデル4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "翻訳者バスティアン、モデル4.I.N.K.",
+        "BASTIAN_OUTRO": "..こうして彼は去り、その機能はついに果たされた。",
+        "BASTIAN_FAIL": "..こうして彼は停止され、彼の記憶は永久に消去された。",
+        "BASTIAN_M1": "イオンスイング",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>近接</style>.<style=cIsUtility>敏捷</style>.前方の敵を攻撃し<style=cIsDamage>250%のダメージ</style>を与える。<style=cIsUtility>イオンチャージ</style>を蓄積する。回避中はダメージが半減する。",
+        "BASTIAN_M2": "マイクロバレット",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>敏捷</style>.最大5発のエネルギーブレットを発射し、それぞれ<style=cIsDamage>250%のダメージ</style>を与える。<style=cIsUtility>イオンチャージ</style>を蓄積する。回避中はスタンを適用しない。",
+        "BASTIAN_UTIL": "ナノスプリング",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>実行</style>:任意の方向に素早くダッシュする。<style=cIsUtility>イオンチャージ</style>を蓄積する。",
+        "BASTIAN_SPEC": "建築家の爆発",
+        "BASTIAN_SPEC_DESCRIPTION": "<style=cIsHealth>現在のHPの33%</style>と<style=cIsUtility>すべてのイオンチャージ</style>を消費し、<style=cIsDamage>500%-3.000%のダメージ</style>の大爆発を起こす。使用後、10秒間<color=#E9AFEA>回避</color>状態になる。",
+        "BASTIAN_SPEC_KEYWORD": "特殊",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "マスタリー"
+    }
+}

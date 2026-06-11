@@ -1,14 +1,14 @@
 {
-    "strings": {
-        "SS2_SKIN_COMMANDO_GRANDMASTERY": "Nostaljik",
-        "SS2_SKIN_COMMANDO_ALT1": "Şok",
-        "SS2_SKIN_COMMANDO_ALT2": "Akrep",
-        "SS2_SKIN_COMMANDO_ALT3": "Praetor",
-        "SS2_SKIN_COMMANDO_VESTIGE": "Gizli",
-        "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Gizli",
-        "SS2_SKIN_TOOLBOT_GRANDMASTERY": "İnşa",
-        "SS2_SKIN_CROCO_GRANDMASTERY": "Silah",
-        "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Prestij",
-        "SS2_SKIN_MERCENARY_VESTIGE": "Topuk"
-    }
+  "strings": {
+    "SS2_SKIN_COMMANDO_GRANDMASTERY": "Nostaljik",
+    "SS2_SKIN_COMMANDO_ALT1": "Şok",
+    "SS2_SKIN_COMMANDO_ALT2": "Akrep",
+    "SS2_SKIN_COMMANDO_ALT3": "Praetor",
+    "SS2_SKIN_COMMANDO_VESTIGE": "Gizli",
+    "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Gizli",
+    "SS2_SKIN_TOOLBOT_GRANDMASTERY": "İnşa",
+    "SS2_SKIN_CROCO_GRANDMASTERY": "Silah",
+    "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Prestij",
+    "SS2_SKIN_MERCENARY_VESTIGE": "Topuk"
+  }
 }

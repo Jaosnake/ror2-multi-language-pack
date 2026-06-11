@@ -1,25 +1,25 @@
 {
     "es-419": {
         "KENKO_CADET_NAME": "Cadete",
-        "KENKO_CADET_DESCRIPTION": "El Cadete es un artillero vers\u00e1til que puede navegar el combate con armas de corto alcance y movilidad r\u00e1pida.<color=#CCD3E0>Original mod by tsuyoikenko</i>",
-        "KENKO_CADET_SUBTITLE": "Tirador Vers\u00e1til",
+        "KENKO_CADET_DESCRIPTION": "El Cadete es un artillero versátil que puede navegar el combate con armas de corto alcance y movilidad rápida.<color=#CCD3E0>Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SUBTITLE": "Tirador Versátil",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "Predeterminado",
         "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
         "KENKO_CADET_PRIMARY_SMG_NAME": "Tormenta de Balas",
-        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara un l\u00e1ser para <style=cIsDamage>60% de da\u00f1o</style>. Requiere <style=cIsUtility>recarga</style> tras 20 balas.",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara un láser para <style=cIsDamage>60% de daño</style>. Requiere <style=cIsUtility>recarga</style> tras 20 balas.",
         "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marcas Devastadoras",
-        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara una r\u00e1faga para <style=cIsDamage>3x100% de da\u00f1o</style>. Requiere <style=cIsUtility>recarga</style> tras 10 proyectiles.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara una ráfaga para <style=cIsDamage>3x100% de daño</style>. Requiere <style=cIsUtility>recarga</style> tras 10 proyectiles.",
         "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
-        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispara tu lanzagranadas ligero para <style=cIsDamage>400% de da\u00f1o</style>.",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispara tu lanzagranadas ligero para <style=cIsDamage>400% de daño</style>.",
         "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
-        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lanza tu arma causando <style=cIsDamage>250% a 750% de da\u00f1o</style> seg\u00fan la munic\u00f3n actual.",
-        "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposici\u00f3n Deslizante",
-        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Desl\u00edzate en una direcci\u00f3n, <style=cIsUtility>recargando</style> tu arma al instante.",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lanza tu arma causando <style=cIsDamage>250% a 750% de daño</style> según la municón actual.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposición Deslizante",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Deslízate en una dirección, <style=cIsUtility>recargando</style> tu arma al instante.",
         "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rodada Repositora",
-        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Rueda en una direcci\u00f3n, <style=cIsUtility>recargando</style> tu arma al instante.",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Rueda en una dirección, <style=cIsUtility>recargando</style> tu arma al instante.",
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
-        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>\u00c1gil</style>. Dispara una r\u00e1faga pesada de perdigones para <style=cIsDamage>32x150% de da\u00f1o</style>.",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara una ráfaga pesada de perdigones para <style=cIsDamage>32x150% de daño</style>.",
         "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
-        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrica <style=cIsDamage>dos drones</style> que buscan enemigos cercanos causando <style=cIsDamage>2x370% de da\u00f1o</style>."
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrica <style=cIsDamage>dos drones</style> que buscan enemigos cercanos causando <style=cIsDamage>2x370% de daño</style>."
     }
 }

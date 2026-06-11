@@ -1,14 +1,14 @@
-{ "es-ES":
-    {
-    "HABIBI_MC_SKIN_NAME" : "Minecraft",
-    "HABIBI_RECOLOR_RED_NAME" : "Rojo",
-    "HABIBI_RECOLOR_BLUE_NAME" : "Azul",
-    "HABIBI_RECOLOR_GREEN_NAME" : "Verde",
-    "HABIBI_RECOLOR_YELLOW_NAME" : "Amarillo",
-    "HABIBI_RECOLOR_ORANGE_NAME" : "Naranjo",
-    "HABIBI_RECOLOR_CYAN_NAME" : "Celeste",
-    "HABIBI_RECOLOR_PURPLE_NAME" : "Morado",
-    "HABIBI_RECOLOR_PINK_NAME" : "Rosado",
-    "HABIBI_RECOLOR_BLACK_NAME" : "Negro",
+{
+    "es-ES": {
+        "HABIBI_MC_SKIN_NAME": "minecraft",
+        "HABIBI_RECOLOR_RED_NAME": "Rojo",
+        "HABIBI_RECOLOR_BLUE_NAME": "Azul",
+        "HABIBI_RECOLOR_GREEN_NAME": "Verde",
+        "HABIBI_RECOLOR_YELLOW_NAME": "Amarillo",
+        "HABIBI_RECOLOR_ORANGE_NAME": "Naranja",
+        "HABIBI_RECOLOR_CYAN_NAME": "cian",
+        "HABIBI_RECOLOR_PURPLE_NAME": "Púrpura",
+        "HABIBI_RECOLOR_PINK_NAME": "Rosa",
+        "HABIBI_RECOLOR_BLACK_NAME": "Negro"
     }
 }

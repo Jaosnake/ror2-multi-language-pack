@@ -1,9 +1,7 @@
-{ "RU":
-	{
-		"SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Ð¡Ð²ÑÑ‚Ð¸Ð»Ð¸Ñ‰Ðµ Ð‘Ð¸Ñ‚Ð²Ñ‹ Ð½Ð°Ð³Ñ€Ð°Ð¶Ð´Ð°ÐµÑ‚ Ð²Ð°Ñ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð¼ </style>{0}",
-
-		"MOON_PILLAR_COMPLETE_RISKYMOD" : "<color=#c6d5ff>{0} Ð½Ð°Ð³Ñ€Ð°Ð¶Ð´Ð°ÐµÑ‚ Ð²Ð°Ñ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð¼ </color>{1}",
-
-		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>Ð¡Ð¸Ð³Ð½Ð°Ð» ÐÐ±ÑÐ¾Ð»ÑŽÑ‚Ð½Ð¾Ð¹ ÐŸÑƒÑÑ‚Ð¾Ñ‚Ñ‹ Ð½Ð°Ð³Ñ€Ð°Ð¶Ð´Ð°ÐµÑ‚ Ð²Ð°Ñ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð¼ </style>{0}"
-	}
+{
+    "RU": {
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Святилище Битвы награждает вас предметом </style>{0}",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} награждает вас предметом </color>{1}",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Сигнал Абсолютной Пустоты награждает вас предметом </style>{0}"
+    }
 }

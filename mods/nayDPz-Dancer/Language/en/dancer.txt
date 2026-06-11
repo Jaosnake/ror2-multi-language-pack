@@ -1,17 +1,22 @@
-NDP_DANCER_BODY_PASSIVE_NAME: Restrictive Tape
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Enemies with tape bleed for 50% damage per second and cannot act. <i>Backported from pt-BR. Original mod by nayDPz. Translated by: Jaosnake</i>
-PRIMARY_SLASH_NAME: Slash
-PRIMARY_SLASH_DESCRIPTION: Melee attack with effects based on your aim. (Hover for details)
-PRIMARY_SLASH2_NAME: Cut
-PRIMARY_SLASH2_DESCRIPTION: Melee attack with effects based on your aim. (Hover for details)
-UTILITY_PULL_NAME: Pull
-UTILITY_PULL_DESCRIPTION: Pull enemies towards you.
-SPECIAL_RIBBON_LOCK_NAME: Binding Tape
-SPECIAL_RIBBON_LOCK_DESCRIPTION: Apply tape to an enemy, preventing them from acting and causing bleeding.
-KEYWORD_DANCER_JAB: <style=cKeywordName>Jab</style><style=cSub>Ground input, aim forward. Lunge forward and deal <style=cIsDamage>180% damage</style>.
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>Ground input, aim down. Launch enemies upward and deal <style=cIsDamage>200% damage</style>.
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>Air input, aim forward. Heavy strike dealing <style=cIsDamage>180% damage</style> and pins enemies to the ground, stunning and dealing up to <style=cIsDamage>300% damage</style>.
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>Tape</style><style=cSub>Taped enemies bleed for <style=cIsDamage>50% damage per second</style> and cannot act.
-NDP_DANCER_BODY_SUBTITLE: Mortal Dance
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: Default
-NDP_DANCER_GOLD_SKIN_NAME: Golden
+{
+    "strings": {
+        "NDP_DANCER_BODY_NAME": "Dancer",
+        "NDP_DANCER_BODY_SUBTITLE": "Mortal Dance",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Default",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Golden",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Restrictive Tape",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Enemies with tape bleed for 50% damage per second and cannot act.</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Slash",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Melee attack with effects based on your aim. (Hover for details)</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Cut",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Melee attack with effects based on your aim. (Hover for details)</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Pull",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Pull enemies towards you.</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Binding Tape",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Apply tape to an enemy, preventing them from acting and causing bleeding.</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Ground input, aim forward. Lunge forward and deal <style=cIsDamage>180% damage</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>Ground input, aim down. Launch enemies upward and deal <style=cIsDamage>200% damage</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Air input, aim forward. Heavy strike dealing <style=cIsDamage>180% damage</style> and pins enemies to the ground, stunning and dealing up to <style=cIsDamage>300% damage</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>Taped enemies bleed for <style=cIsDamage>50% damage per second</style> and cannot act."
+    }
+}

@@ -1,15 +1,15 @@
 {
-    "strings": {
-        "SS2_ARTIFACT_COGNATION_NAME": "Artefacto de Cognación",
-        "SS2_ARTIFACT_COGNATION_DESC": "Los enemigos dejan copias temporales al morir.",
-        "SS2_ARTIFACT_COGNATION_PREFIX": "Cognado {0}",
-        "SS2_ARTIFACT_DILUVIUM_NAME": "Artefacto de Diluvio",
-        "SS2_ARTIFACT_DILUVIUM_DESC": "Siempre hay tormenta.",
-        "SS2_ARTIFACT_ADVERSITY_NAME": "Artefacto de Adversidad",
-        "SS2_ARTIFACT_ADVERSITY_DESC": "Todo teletransportador primigenio es etéreo.",
-        "SS2_ARTIFACT_DEVIATION_NAME": "Artefacto de Desviación",
-        "SS2_ARTIFACT_DEVIATION_DESC": "Elige un objeto para todos los personajes antes de iniciar un evento de teletransportador.",
-        "SS2_ARTIFACT_HAVOC_NAME": "Artefacto de Estragos",
-        "SS2_ARTIFACT_HAVOC_DESC": "Los eventos ocurren más pronto y más seguido. Las tormentas son permanentes."
-    }
+  "strings": {
+    "SS2_ARTIFACT_COGNATION_NAME": "Artefacto de Cognación",
+    "SS2_ARTIFACT_COGNATION_DESC": "Los enemigos dejan copias temporales al morir.",
+    "SS2_ARTIFACT_COGNATION_PREFIX": "Cognado {0}",
+    "SS2_ARTIFACT_DILUVIUM_NAME": "Artefacto de Diluvio",
+    "SS2_ARTIFACT_DILUVIUM_DESC": "Siempre hay tormenta.",
+    "SS2_ARTIFACT_ADVERSITY_NAME": "Artefacto de Adversidad",
+    "SS2_ARTIFACT_ADVERSITY_DESC": "Todo teletransportador primigenio es etéreo.",
+    "SS2_ARTIFACT_DEVIATION_NAME": "Artefacto de Desviación",
+    "SS2_ARTIFACT_DEVIATION_DESC": "Elige un objeto para todos los personajes antes de iniciar un evento de teletransportador.",
+    "SS2_ARTIFACT_HAVOC_NAME": "Artefacto de Estragos",
+    "SS2_ARTIFACT_HAVOC_DESC": "Los eventos ocurren más pronto y más seguido. Las tormentas son permanentes."
+  }
 }

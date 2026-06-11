@@ -14,9 +14,9 @@
         "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Pull enemies towards you.</i>",
         "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Binding Tape",
         "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Apply tape to an enemy, preventing them from acting and causing bleeding.</i>",
-        "KEYWORD_DANCER_JAB": "\u003cstyle=cKeywordName\u003eJab\u003c/style\u003e\u003cstyle=cSub\u003eGround input, aim forward. Lunge forward and deal \u003cstyle=cIsDamage\u003e180% damage\u003c/style\u003e.",
-        "KEYWORD_DANCER_DOWNTILT": "\u003cstyle=cKeywordName\u003eDown Tilt\u003c/style\u003e\u003cstyle=cSub\u003eGround input, aim down. Launch enemies upward and deal \u003cstyle=cIsDamage\u003e200% damage\u003c/style\u003e.",
-        "KEYWORD_DANCER_FORWARDAIR": "\u003cstyle=cKeywordName\u003eForward Air\u003c/style\u003e\u003cstyle=cSub\u003eAir input, aim forward. Heavy strike dealing \u003cstyle=cIsDamage\u003e180% damage\u003c/style\u003e and pins enemies to the ground, stunning and dealing up to \u003cstyle=cIsDamage\u003e300% damage\u003c/style\u003e.",
-        "KEYWORD_DANCER_RIBBON": "\u003cstyle=cKeywordName\u003eTape\u003c/style\u003e\u003cstyle=cSub\u003eTaped enemies bleed for \u003cstyle=cIsDamage\u003e50% damage per second\u003c/style\u003e and cannot act."
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Ground input, aim forward. Lunge forward and deal <style=cIsDamage>180% damage</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>Ground input, aim down. Launch enemies upward and deal <style=cIsDamage>200% damage</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Air input, aim forward. Heavy strike dealing <style=cIsDamage>180% damage</style> and pins enemies to the ground, stunning and dealing up to <style=cIsDamage>300% damage</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>Taped enemies bleed for <style=cIsDamage>50% damage per second</style> and cannot act."
     }
 }

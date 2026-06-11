@@ -1,30 +1,34 @@
-POPCORN_ARSONIST_BODY_NAME: ÐÑ€ÑÐ¾Ð½Ð¸ÑÑ‚
-POPCORN_ARSONIST_BODY_SUBTITLE: ÐœÐ°Ð½Ð¸Ð°ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð¸Ñ€Ð¾Ð¼Ð°Ð½
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ð°Ñ ÑˆÐºÐ°Ð»Ð°
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: ÐÐ°Ð½Ð¾ÑÐ¸Ñ‚Ðµ <style=cIsDamage>100%</style> ÑƒÑ€Ð¾Ð½Ð° Ð¿Ð¾ Ð±ÐµÐ»Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸. Ð‘Ð°Ð·Ð¾Ð²Ð°Ñ ÑˆÐºÐ°Ð»Ð° ÑƒÑÑ‚Ð¾Ð¹Ñ‡Ð¸Ð²Ð° Ðº ÐŸÐµÑ€ÐµÐ³Ñ€ÐµÐ²Ñƒ.
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: ÐšÑ€Ð¸Ñ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ ÑˆÐºÐ°Ð»Ð°
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: ÐÐ°Ð½Ð¾ÑÐ¸Ñ‚Ðµ <style=cIsDamage>70%</style> ÑƒÑ€Ð¾Ð½Ð° Ð¿Ð¾ Ð±ÐµÐ»Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ Ð¸ <style=cIsDamage>250%</style> ÑƒÑ€Ð¾Ð½Ð° Ð¿Ð¾ ÑÐ¸Ð½ÐµÐ¹ Ñ‡Ð°ÑÑ‚Ð¸. ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð½Ð°Ð³Ñ€ÐµÐ² Ñ„Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½.
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME: Dragon's Breath
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¸Ð²Ð°ÐµÑ‚ Ð»ÑƒÑ‡ Ð¾Ð³Ð½Ñ, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¹ <style=cIsDamage>90% ÑƒÑ€Ð¾Ð½Ð°</style>. Ð¨Ð°Ð½Ñ Ð²Ð¾Ð·Ð³Ð¾Ñ€Ð°Ð½Ð¸Ñ ÑƒÐ²ÐµÐ»Ð¸Ñ‡Ð¸Ð²Ð°ÐµÑ‚ÑÑ Ñ‡ÐµÐ¼ Ð±Ð»Ð¸Ð¶Ðµ Ð²Ñ‹ Ðº Ñ†ÐµÐ»Ð¸.
-POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME: Fireball
-POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION: <style=cIsUtility>Ð¢ÐµÐ¿Ð»Ð¾. </style>Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¸Ð²Ð°ÐµÑ‚ Ð¾Ð³Ð½ÐµÐ½Ð½Ñ‹Ð¹ ÑˆÐ°Ñ€, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¹ <style=cIsDamage>225% ÑƒÑ€Ð¾Ð½Ð° Ð¸ Ð¿Ð¾Ð´Ð¶Ð¸Ð³Ð°ÑŽÑ‰Ð¸Ð¹</style> Ð²Ñ€Ð°Ð³Ð¾Ð² Ð¿Ñ€Ð¸ Ð¿Ð¾Ð¿Ð°Ð´Ð°Ð½Ð¸Ð¸.
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME: Zero Point Blast
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>Ð›Ð¾Ð²ÐºÐ¾. Ð¢ÐµÐ¿Ð»Ð¾. </style>Ð£ÑÑ‚Ñ€ÐµÐ¼Ð»ÑÐ¹Ñ‚ÐµÑÑŒ Ð²Ð¿ÐµÑ€ÐµÐ´, Ð²Ð·Ñ€Ñ‹Ð²Ð°Ñ Ð²Ñ€Ð°Ð³Ð¾Ð² Ð¿Ð¾Ð·Ð°Ð´Ð¸ Ð²Ð°Ñ Ð½Ð° <style=cIsDamage>200% ÑƒÑ€Ð¾Ð½Ð°</style>. Ð¡Ñ‚Ð¾Ð»ÐºÐ½Ð¾Ð²ÐµÐ½Ð¸Ðµ ÑÑ€Ð°Ð·Ñƒ Ð¿Ð¾ÑÐ»Ðµ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ñ Ð¿ÐµÑ€Ð²Ñ‹Ð¼ Ð²Ñ€Ð°Ð³Ð¾Ð¼ Ð½Ð°Ð½Ð¾ÑÐ¸Ñ‚ <style=cIsDamage>200% ÑƒÑ€Ð¾Ð½Ð°</style> Ð² Ð¾ÐºÑ€ÑƒÐ¶Ð°ÑŽÑ‰ÐµÐ¼ Ð²Ð·Ñ€Ñ‹Ð²Ðµ.
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME: Ð¡Ð¸Ð³Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð¸ÑÑ‚Ð¾Ð»ÐµÑ‚
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¸Ð²Ð°ÐµÑ‚ ÑÐ¸Ð³Ð½Ð°Ð»ÑŒÐ½ÑƒÑŽ Ñ€Ð°ÐºÐµÑ‚Ñƒ, Ð½Ð°Ð½Ð¾ÑÑÑ‰ÑƒÑŽ <style=cIsDamage>400% ÑƒÑ€Ð¾Ð½Ð°</style> Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 5 ÑÐµÐºÑƒÐ½Ð´, Ð·Ð°Ñ‚ÐµÐ¼ Ð²Ð·Ñ€Ñ‹Ð²Ð°ÐµÑ‚ÑÑ, Ð½Ð°Ð½Ð¾ÑÑ <style=cIsDamage>400% ÑƒÑ€Ð¾Ð½Ð°</style>, Ð²Ñ‹Ð¿ÑƒÑÐºÐ°Ñ 5 Ñ€Ð°ÐºÐµÑ‚, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ñ… <style=cIsDamage>200% ÑƒÑ€Ð¾Ð½Ð°</style> ÐºÐ°Ð¶Ð´Ð°Ñ.
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME: Masochism
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>Ð›Ð¾Ð²ÐºÐ¾. Ð¢ÐµÐ¿Ð»Ð¾. </style>Ð£Ñ€Ð¾Ð½ Ð¾Ñ‚ <style=cIsDamage>Ð²Ð¾Ð·Ð³Ð¾Ñ€Ð°Ð½Ð¸Ñ</style> Ð¿Ñ€ÐµÐ²Ñ€Ð°Ñ‰Ð°ÐµÑ‚ÑÑ Ð² <style=cIsHealing>Ð»ÐµÑ‡ÐµÐ½Ð¸Ðµ</style> Ð½Ð° 6,5 ÑÐµÐºÑƒÐ½Ð´. Ð£Ð²ÐµÐ»Ð¸Ñ‡Ð¸Ð²Ð°ÐµÑ‚ Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ ÐÑ‚Ð°ÐºÐ¸ Ð½Ð° <style=cIsDamage>125%</style>.
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME: ÐœÐ°Ð·Ð¾Ñ…Ð¸Ð·Ð¼
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: ÐŸÑ€Ð¸ Ð´Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ð¸ Ð»Ð¸Ð¼Ð¸Ñ‚Ð° <style=cKeywordName>ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ñ</style>, Ð¿ÐµÑ€Ð¸Ð¾Ð´Ð¸Ñ‡ÐµÑÐºÐ¸ Ð½Ð°Ð½Ð¾ÑÐ¸Ñ‚Ðµ ÑÐµÐ±Ðµ ÑƒÑ€Ð¾Ð½ Ð² Ð¾Ð±Ð¼ÐµÐ½ Ð½Ð° <style=cIsHealing}>ÐšÑ€Ð°Ð¶Ð° Ð¶Ð¸Ð·Ð½Ð¸</style> Ð¿Ð¾ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸ Ð¸ Ð³Ð¾Ñ€ÐµÐ½Ð¸Ðµ. ÐÐµ Ð±Ð¾Ð»ÐµÐµ Ñ‡ÐµÐ¼ Ñ‡ÐµÑ€ÐµÐ· 10 ÑÐµÐºÑƒÐ½Ð´, <style=cIsDamage>Ð”ÐµÑ‚Ð¾Ð½Ð°Ñ†Ð¸Ñ</style>, Ð·Ð°Ñ‚ÐµÐ¼ <style=cIsUtility>ÐŸÐµÑ€ÐµÐ³Ñ€ÐµÐ²</style>.
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME: Ð—Ð»Ð¾Ð±Ð°
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: ÐŸÑ€Ð¸ Ð´Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ð¸ Ð»Ð¸Ð¼Ð¸Ñ‚Ð° <style=cKeywordName>ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ñ</style>, Ð²Ñ‹ Ð´Ð²Ð¸Ð³Ð°ÐµÑ‚ÐµÑÑŒ Ð±Ñ‹ÑÑ‚Ñ€ÐµÐµ Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÑ‚Ðµ <style=cKeywordName>Ð”Ð²Ð¾Ð¹Ð½Ð¾Ð¹ Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»</style> Ð¸ <style=cIsHealing>ÐšÑ€Ð°Ð¶Ð° Ð–Ð¸Ð·Ð½Ð¸</style>. ÐÐµ Ð±Ð¾Ð»ÐµÐµ Ñ‡ÐµÐ¼ Ñ‡ÐµÑ€ÐµÐ· 10 ÑÐµÐºÑƒÐ½Ð´, <style=cIsDamage>Ð”ÐµÑ‚Ð¾Ð½Ð°Ñ†Ð¸Ñ</style>, Ð·Ð°Ñ‚ÐµÐ¼ <style=cIsUtility>ÐŸÐµÑ€ÐµÐ³Ñ€ÐµÐ²</style>.
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME: Dante's Rebuke
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¸Ð²Ð°ÐµÑ‚ Ð¸Ð½Ñ‚ÐµÐ½ÑÐ¸Ð²Ð½Ñ‹Ð¹ Ð»ÑƒÑ‡, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¹ <style=cIsDamage>140% ÑƒÑ€Ð¾Ð½Ð°</style>. Ð¨Ð°Ð½Ñ Ð²Ð¾Ð·Ð³Ð¾Ñ€Ð°Ð½Ð¸Ñ ÑƒÐ²ÐµÐ»Ð¸Ñ‡Ð¸Ð²Ð°ÐµÑ‚ÑÑ Ñ‡ÐµÐ¼ Ð±Ð»Ð¸Ð¶Ðµ Ð²Ñ‹ Ðº Ñ†ÐµÐ»Ð¸. ÐŸÑ€Ð¸ ÑƒÐ´ÐµÑ€Ð¶Ð°Ð½Ð¸Ð¸ 2 ÑÐµÐºÑƒÐ½Ð´Ñ‹ Ð¸Ð»Ð¸ Ð´Ð¾Ð»ÑŒÑˆÐµ, Ð²Ñ‹Ð¿ÑƒÑÐºÐ°ÐµÑ‚ Ñ„Ð¸Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð»ÑƒÑ‡ Ð¿Ñ€Ð¸ Ð¾Ñ‚Ð¿ÑƒÑÐºÐ°Ð½Ð¸Ð¸ Ð½Ð° <style=cIsDamage>150% ÑƒÑ€Ð¾Ð½Ð°</style>.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ðµ</style>Ð—Ð° ÐºÐ°Ð¶Ð´Ñ‹Ðµ 100 Ð¿Ð¾Ñ‚ÐµÑ€ÑÐ½Ð½Ð¾Ð³Ð¾ Ð¸/Ð¸Ð»Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð½Ð¾Ð³Ð¾ Ñ‚ÐµÐ¿Ð»Ð° ÐÑ€ÑÐ¾Ð½Ð¸ÑÑ‚ Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÑ‚ 1 Ð·Ð°Ñ€ÑÐ´ ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ñ; ÐŸÐ¾ÑÐ»Ðµ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ 5 Ð·Ð°Ñ€ÑÐ´Ð¾Ð² Ð¾Ð½ Ð¼Ð¾Ð¶ÐµÑ‚ Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Masochism; Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð·Ð°Ñ€ÑÐ´Ñ‹ ÑƒÐ²ÐµÐ»Ð¸Ñ‡Ð¸Ð²Ð°ÑŽÑ‚ ÑƒÑ€Ð¾Ð½ Ð¸ Ð´Ð»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ; Ð’ÑÐµ Ð·Ð°Ñ€ÑÐ´Ñ‹ Ñ€Ð°ÑÑ…Ð¾Ð´ÑƒÑŽÑ‚ÑÑ Ð² ÐºÐ¾Ð½Ñ†Ðµ.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>Ð”ÐµÑ‚Ð¾Ð½Ð°Ñ†Ð¸Ñ</style>ÐÑ€ÑÐ¾Ð½Ð¸ÑÑ‚ Ð²Ð·Ñ€Ñ‹Ð²Ð°ÐµÑ‚ÑÑ, Ð½Ð°Ð½Ð¾ÑÑ <style=cIsDamage>150% ÑƒÑ€Ð¾Ð½Ð°</style>, ÑƒÐ¼Ð½Ð¾Ð¶ÐµÐ½Ð½Ð¾Ðµ Ð½Ð° ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð½Ð°ÐºÐ¾Ð¿Ð»ÐµÐ½Ð½Ñ‹Ñ… Ð·Ð°Ñ€ÑÐ´Ð¾Ð² ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ñ.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL: <style=cKeywordName>ÐšÑ€Ð°Ð¶Ð° Ð–Ð¸Ð·Ð½Ð¸</style>ÐÑ€ÑÐ¾Ð½Ð¸ÑÑ‚ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÑ‚ <style=cIsHealing>18%</style> Ð½Ð°Ð½ÐµÑÐµÐ½Ð½Ð¾Ð³Ð¾ ÑƒÑ€Ð¾Ð½Ð° Ð¿Ð¾ÐºÐ° Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½ Masochism.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL: <style=cKeywordName>ÐšÑ€Ð°Ð¶Ð° Ð–Ð¸Ð·Ð½Ð¸</style>ÐÑ€ÑÐ¾Ð½Ð¸ÑÑ‚ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÑ‚ <style=cIsHealing>5%</style> Ð½Ð°Ð½ÐµÑÐµÐ½Ð½Ð¾Ð³Ð¾ ÑƒÑ€Ð¾Ð½Ð° Ð¿Ð¾ÐºÐ° Ð°ÐºÑ‚Ð¸Ð²Ð½Ð° Ð—Ð»Ð¾Ð±Ð°.
-POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>ÐŸÐµÑ€ÐµÐ³Ñ€ÐµÐ²: Masochism</style>Ð•ÑÐ»Ð¸ ÐÑ€ÑÐ¾Ð½Ð¸ÑÑ‚ Ð²Ñ‹Ñ…Ð¾Ð´Ð¸Ñ‚ Ð¸Ð· Masochism Ð¸Ð·-Ð·Ð° Ñ‡Ñ€ÐµÐ·Ð¼ÐµÑ€Ð½Ð¾Ð³Ð¾ Ð½Ð°ÐºÐ¾Ð¿Ð»ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¿Ð»Ð°, Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÑÐµÑ‚ÑÑ ÐŸÐµÑ€ÐµÐ³Ñ€ÐµÐ² EX, ÑÐ½Ð¸Ð¶Ð°ÑŽÑ‰Ð¸Ð¹ Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð¸ Ð£Ñ€Ð¾Ð½ Ð´Ð¾ 70%. ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¸Ð»Ð¸ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ðµ Ð½Ð°Ð²Ñ‹ÐºÐ° Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÑÐµÑ‚ ÐŸÐµÑ€ÐµÐ³Ñ€ÐµÐ², ÑÐ½Ð¸Ð¶Ð°ÑŽÑ‰Ð¸Ð¹ Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ ÐÑ‚Ð°ÐºÐ¸ Ð´Ð¾ 50%.
-POPCORN_ARSONIST_BODY_OVERHEAT_TEXT: ÐŸÐ•Ð Ð•Ð“Ð Ð•Ð’!
-POPCORN_ARSONIST_BODY_COOLING_TEXT: ÐžÐ¥Ð›ÐÐ–Ð”Ð•ÐÐ˜Ð•...!
-POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT: ÐŸÐ•Ð Ð•Ð“Ð Ð•Ð’:EX!
+{
+    "RU": {
+        "POPCORN_ARSONIST_BODY_NAME": "Арсонист",
+        "POPCORN_ARSONIST_BODY_SUBTITLE": "Маниакальный пироман",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Обычная шкала",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Наносите <style=cIsDamage>100%</style> урона по белой части. Базовая шкала устойчива к Перегреву.",
+        "POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME": "Критическая шкала",
+        "POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION": "Наносите <style=cIsDamage>70%</style> урона по белой части и <style=cIsDamage>250%</style> урона по синей части. Максимальный нагрев фиксирован.",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME": "Dragon's Breath",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION": "Выстреливает луч огня, наносящий <style=cIsDamage>90% урона</style>. Шанс возгорания увеличивается чем ближе вы к цели.",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME": "Fireball",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION": "<style=cIsUtility>Тепло. </style>Выстреливает огненный шар, наносящий <style=cIsDamage>225% урона и поджигающий</style> врагов при попадании.",
+        "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME": "Zero Point Blast",
+        "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Ловко. Тепло. </style>Устремляйтесь вперед, взрывая врагов позади вас на <style=cIsDamage>200% урона</style>. Столкновение сразу после запуска с первым врагом наносит <style=cIsDamage>200% урона</style> в окружающем взрыве.",
+        "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME": "Сигнальный пистолет",
+        "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION": "Выстреливает сигнальную ракету, наносящую <style=cIsDamage>400% урона</style> в течение 5 секунд, затем взрывается, нанося <style=cIsDamage>400% урона</style>, выпуская 5 ракет, наносящих <style=cIsDamage>200% урона</style> каждая.",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "Masochism",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>Ловко. Тепло. </style>Урон от <style=cIsDamage>возгорания</style> превращается в <style=cIsHealing>лечение</style> на 6,5 секунд. Увеличивает Скорость Атаки на <style=cIsDamage>125%</style>.",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "Мазохизм",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "При достижении лимита <style=cKeywordName>Ожидания</style>, периодически наносите себе урон в обмен на <style=cIsHealing}>Кража жизни</style> по области и горение. Не более чем через 10 секунд, <style=cIsDamage>Детонация</style>, затем <style=cIsUtility>Перегрев</style>.",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "Злоба",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "При достижении лимита <style=cKeywordName>Ожидания</style>, вы двигаетесь быстрее и получаете <style=cKeywordName>Двойной Выстрел</style> и <style=cIsHealing>Кража Жизни</style>. Не более чем через 10 секунд, <style=cIsDamage>Детонация</style>, затем <style=cIsUtility>Перегрев</style>.",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Dante's Rebuke",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "Выстреливает интенсивный луч, наносящий <style=cIsDamage>140% урона</style>. Шанс возгорания увеличивается чем ближе вы к цели. При удержании 2 секунды или дольше, выпускает финальный луч при отпускании на <style=cIsDamage>150% урона</style>.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Ожидание</style>За каждые 100 потерянного и/или полученного тепла Арсонист получает 1 заряд Ожидания; После получения 5 зарядов он может активировать Masochism; Дополнительные заряды увеличивают урон и длительность; Все заряды расходуются в конце.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Детонация</style>Арсонист взрывается, нанося <style=cIsDamage>150% урона</style>, умноженное на количество накопленных зарядов Ожидания.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Кража Жизни</style>Арсонист восстанавливает <style=cIsHealing>18%</style> нанесенного урона пока активен Masochism.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Кража Жизни</style>Арсонист восстанавливает <style=cIsHealing>5%</style> нанесенного урона пока активна Злоба.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрев: Masochism</style>Если Арсонист выходит из Masochism из-за чрезмерного накопления тепла, применяется Перегрев EX, снижающий Скорость Передвижения и Урон до 70%. Отмена или завершение навыка применяет Перегрев, снижающий Скорость Атаки до 50%.",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "ПЕРЕГРЕВ!",
+        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ОХЛАЖДЕНИЕ...!",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРЕВ:EX!"
+    }
+}

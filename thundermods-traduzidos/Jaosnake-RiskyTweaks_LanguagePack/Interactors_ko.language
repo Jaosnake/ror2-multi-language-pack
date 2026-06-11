@@ -1,9 +1,7 @@
-{ "ko":
-	{
-		"SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>ì „íˆ¬ì˜ ì„±ì†Œì—ì„œ </style>{0}ì´(ê°€) ë–¨ì–´ì¡ŒìŠµë‹ˆë‹¤",
-		
-		"MOON_PILLAR_COMPLETE_RISKYMOD" : "<color=#c6d5ff>{0}ì—ì„œ </color>{1}ì´(ê°€) ë–¨ì–´ì¡ŒìŠµë‹ˆë‹¤",
-		
-		"VOID_SIGNAL_COMPLETE_RISKYMOD" : "<style=cWorldEvent>ì‹¬ì—°ì˜ ê³µí—ˆ ì‹ í˜¸ì—ì„œ </style>{0}ì´(ê°€) ë–¨ì–´ì¡ŒìŠµë‹ˆë‹¤"
-	}
+{
+    "ko": {
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>전투의 성소에서 </style>{0}이(가) 떨어졌습니다",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0}에서 </color>{1}이(가) 떨어졌습니다",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>심연의 공허 신호에서 </style>{0}이(가) 떨어졌습니다"
+    }
 }

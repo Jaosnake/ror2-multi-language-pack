@@ -1,19 +1,23 @@
-KENKO_CADET_NAME: å†›æ ¡ç”Ÿ
-KENKO_CADET_SUBTITLE:  versatile å°„æ‰‹
-KENKO_CADET_MASTERY_SKIN_NAME: å†›æ ¡ç”Ÿï¼šä¸“å®¶
-PRIMARY_SMG_NAME: å†²é”‹æžª
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>æ•æ·</style>ã€‚ç”¨å†²é”‹æžªå¿«é€Ÿå°„å‡»ï¼Œæ¯æžªé€ æˆ<style=cIsDamage>60%ä¼¤å®³</style>ã€‚
-PRIMARY_SHOTGUN_NAME: éœ°å¼¹æžª
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>æ•æ·</style>ã€‚ç”¨éœ°å¼¹æžªå°„å‡»é€ æˆ<style=cIsDamage>100%ä¼¤å®³</style>ã€‚
-SECONDARY_GRENADE_NAME: æ‰‹æ¦´å¼¹
-SECONDARY_GRENADE_DESCRIPTION: æŠ•æŽ·ä¸€é¢—æ‰‹æ¦´å¼¹ï¼Œé€ æˆ<style=cIsDamage>400%ä¼¤å®³</style>ã€‚
-SECONDARY_THROWGUN_NAME: æŠ•æŽ·æ­¦å™¨
-SECONDARY_THROWGUN_DESCRIPTION: æŠ•æŽ·å½“å‰æ­¦å™¨é€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚
-UTILITY_SLIDE_NAME: æ»‘é“²
-UTILITY_SLIDE_DESCRIPTION: æœä¸€ä¸ªæ–¹å‘æ»‘é“²ï¼Œ<style=cIsUtility>ç«‹å³è£…å¡«</style>æ­¦å™¨ã€‚
-UTILITY_ROLLOAD_NAME: æˆ˜æœ¯ç¿»æ»š
-UTILITY_ROLLOAD_DESCRIPTION: æœä¸€ä¸ªæ–¹å‘ç¿»æ»šï¼Œè£…å¡«æ­¦å™¨ã€‚
-SPECIAL_ECHO_NAME: å›žéŸ³
-SPECIAL_ECHO_DESCRIPTION: å‘å°„å£°æ³¢æ— äººæœºï¼Œåœ¨æ•Œäººä¹‹é—´å¼¹è·³ï¼Œé€ æˆ<style=cIsDamage>350%ä¼¤å®³</style>å¹¶å‡é€Ÿã€‚
-SPECIAL_ULTRA_NAME: ç©¶æž
-SPECIAL_ULTRA_DESCRIPTION: å‘å°„å¼ºå¤§çš„èƒ½é‡å†²å‡»æ³¢ï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚
+{
+    "zh-CN": {
+        "KENKO_CADET_NAME": "军校生",
+        "KENKO_CADET_SUBTITLE": "versatile 射手",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "军校生:专家",
+        "PRIMARY_SMG_NAME": "冲锋枪",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>。用冲锋枪快速射击,每枪造成<style=cIsDamage>60%伤害</style>。",
+        "PRIMARY_SHOTGUN_NAME": "霰弹枪",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>敏捷</style>。用霰弹枪射击造成<style=cIsDamage>100%伤害</style>。",
+        "SECONDARY_GRENADE_NAME": "手榴弹",
+        "SECONDARY_GRENADE_DESCRIPTION": "投掷一颗手榴弹,造成<style=cIsDamage>400%伤害</style>。",
+        "SECONDARY_THROWGUN_NAME": "投掷武器",
+        "SECONDARY_THROWGUN_DESCRIPTION": "投掷当前武器造成<style=cIsDamage>600%伤害</style>。",
+        "UTILITY_SLIDE_NAME": "滑铲",
+        "UTILITY_SLIDE_DESCRIPTION": "朝一个方向滑铲,<style=cIsUtility>立即装填</style>武器。",
+        "UTILITY_ROLLOAD_NAME": "战术翻滚",
+        "UTILITY_ROLLOAD_DESCRIPTION": "朝一个方向翻滚,装填武器。",
+        "SPECIAL_ECHO_NAME": "回音",
+        "SPECIAL_ECHO_DESCRIPTION": "发射声波无人机,在敌人之间弹跳,造成<style=cIsDamage>350%伤害</style>并减速。",
+        "SPECIAL_ULTRA_NAME": "究极",
+        "SPECIAL_ULTRA_DESCRIPTION": "发射强大的能量冲击波,造成<style=cIsDamage>600%伤害</style>。"
+    }
+}

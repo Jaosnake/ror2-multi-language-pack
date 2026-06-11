@@ -1,102 +1,98 @@
-JAVANGLE_MYST_BODY_NAME: ÐœÐ¸ÑÑ‚
-JAVANGLE_MYST_BODY_SUBTITLE: Ð¢Ð°Ð¸Ð½ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ ÐÑ€ÐºÐ°Ð½Ð¸ÑÑ‚
-JAVANGLE_MYST_BODY_DESCRIPTION: ÐœÐ¸ÑÑ‚ â€” ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð²Ñ‹Ð¶Ð¸Ð²ÑˆÐ¸Ð¹, Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‰Ð¸Ð¹ <style=cIsUtility>ÐœÐ°Ð³Ð¸Ñ‡ÐµÑÐºÑƒÑŽ Ð¡Ð¸Ð»Ñƒ</style> Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ñ€Ð°Ð·Ð½Ð¾Ð¾Ð±Ñ€Ð°Ð·Ð½Ñ‹Ñ… ÑÐ²ÐµÑ€Ñ…ÑŠÐµÑÑ‚ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ñ… Ð½Ð°Ð²Ñ‹ÐºÐ¾Ð² Ð¸ <style=cIsUtility>Ð›Ð¸Ð¼Ð¸Ñ‚</style> Ð´Ð»Ñ Ð²Ñ‹ÑÐ²Ð¾Ð±Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¼Ð¾Ñ‰Ð½Ñ‹Ñ… ÑÑƒÐ¿ÐµÑ€Ð¿Ñ€Ð¸Ñ‘Ð¼Ð¾Ð².
-JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹
-JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: ÐœÐ°ÑÑ‚ÐµÑ€ÑÑ‚Ð²Ð¾
-JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: Ð’ÐµÐ»Ð¸ÐºÐ¾Ðµ ÐœÐ°ÑÑ‚ÐµÑ€ÑÑ‚Ð²Ð¾
-
-BASEFORM_SLASH_NAME: Ð’Ð¾Ñ€Ð¿Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð Ð°Ð·Ñ€ÐµÐ·
-BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>ÐŸÑ€Ð¾Ð²Ð¾Ñ€Ð½Ñ‹Ð¹</style>. Ð Ð°Ð·Ñ€ÐµÐ¶ÑŒÑ‚Ðµ Ð²Ñ€Ð°Ð³Ð¾Ð² Ð¿ÐµÑ€ÐµÐ´ ÑÐ¾Ð±Ð¾Ð¹, Ð½Ð°Ð½Ð¾ÑÑ <style=cIsDamage>165% ÑƒÑ€Ð¾Ð½Ð°</style>.
-BASEFORM_DASH_NAME: Ð Ñ‹Ð²Ð¾Ðº
-BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>ÐŸÑ€Ð¾Ð²Ð¾Ñ€Ð½Ñ‹Ð¹</style>. Ð¡ÐºÐ¾Ð»ÑŒÐ·Ð½Ð¸Ñ‚Ðµ Ð½Ð° ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ðµ Ñ€Ð°ÑÑÑ‚Ð¾ÑÐ½Ð¸Ðµ Ð² Ð»ÑŽÐ±Ð¾Ð¼ Ð³Ð¾Ñ€Ð¸Ð·Ð¾Ð½Ñ‚Ð°Ð»ÑŒÐ½Ð¾Ð¼ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸.
-BASEFORM_BLOCK_NAME: ÐŸÑ€Ð¸Ð·Ñ€Ð°Ðº
-BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>Ð£Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°Ð¹Ñ‚Ðµ</style>, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð·Ð½Ð°Ñ‡Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÑÐ½Ð¸Ð·Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÐ¼Ñ‹Ð¹ Ñ„Ñ€Ð¾Ð½Ñ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑƒÑ€Ð¾Ð½, Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ <style=cIsUtility>Ð›Ð¸Ð¼Ð¸Ñ‚</style> Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑƒÑ€Ð¾Ð½Ð°. Ð•ÑÐ»Ð¸ <style=cIsUtility>Ð²Ð¾Ð²Ñ€ÐµÐ¼Ñ</style>: Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ Ð¸Ð·Ð±ÐµÐ³Ð°ÐµÑ‚ ÑƒÑ€Ð¾Ð½Ð° ÑÐ¾ Ð²ÑÐµÑ… Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ð¹, Ð¾Ð±Ð½ÑƒÐ»ÑÐµÑ‚ Ð¿ÐµÑ€ÐµÐ·Ð°Ñ€ÑÐ´ÐºÑƒ Ð½Ð°Ð²Ñ‹ÐºÐ°, Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÑ‚ <style=cIsUtility>ÐœÐ°Ð³Ð¸Ñ‡ÐµÑÐºÑƒÑŽ Ð¡Ð¸Ð»Ñƒ</style> Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑƒÑ€Ð¾Ð½Ð°, Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÑ‚ <style=cIsUtility>Ð´Ð²Ð¾Ð¹Ð½Ð¾Ð¹ Ð›Ð¸Ð¼Ð¸Ñ‚</style> Ð¸ Ð¾Ñ‚Ñ€Ð°Ð¶Ð°ÐµÑ‚ Ð´Ð¾ <style=cIsDamage>3x Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑƒÑ€Ð¾Ð½Ð°</style> Ð¿Ð¾ Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐ¸Ð¼ Ð²Ñ€Ð°Ð³Ð°Ð¼.
-BASEFORM_LIMITMENU_NAME: ÐœÐµÐ½ÑŽ Ð›Ð¸Ð¼Ð¸Ñ‚Ð°
-BASEFORM_LIMITMENU_DESCRIPTION: ÐžÑ‚ÐºÑ€Ð¾Ð¹Ñ‚Ðµ ÐœÐµÐ½ÑŽ Ð›Ð¸Ð¼Ð¸Ñ‚Ð°, Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÑŽÑ‰ÐµÐµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐºÐ¸Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ <style=cIsUtility>Ð›Ð¸Ð¼Ð¸Ñ‚ Ð‘Ñ€ÐµÐ¹ÐºÐ¸</style>.
-
-JAVANGLE_MYST_BODY_UI_MAGICNAME: ÐœÐµÐ½ÑŽ ÐœÐ°Ð³Ð¸Ð¸
-JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: ÐžÑ‚ÐºÑ€Ð¾Ð¹Ñ‚Ðµ ÐœÐµÐ½ÑŽ ÐœÐ°Ð³Ð¸Ð¸, Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÑŽÑ‰ÐµÐµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐºÐ¸Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð·Ð°ÐºÐ»Ð¸Ð½Ð°Ð½Ð¸Ñ.
-JAVANGLE_MYST_BODY_UI_LIMITNAME: ÐœÐµÐ½ÑŽ Ð›Ð¸Ð¼Ð¸Ñ‚Ð°
-JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: ÐžÑ‚ÐºÑ€Ð¾Ð¹Ñ‚Ðµ ÐœÐµÐ½ÑŽ Ð›Ð¸Ð¼Ð¸Ñ‚Ð°, Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÑŽÑ‰ÐµÐµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐºÐ¸Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð›Ð¸Ð¼Ð¸Ñ‚ Ð‘Ñ€ÐµÐ¹ÐºÐ¸.
-JAVANGLE_MYST_BODY_UI_SHOPRANDOM: Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ð¾
-JAVANGLE_MYST_BODY_UI_SHOPSPELL: Ð—Ð°ÐºÐ»Ð¸Ð½Ð°Ð½Ð¸Ðµ
-JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: ÐŸÐ¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°
-JAVANGLE_MYST_BODY_UI_SHOPLIMIT: Ð›Ð¸Ð¼Ð¸Ñ‚
-JAVANGLE_MYST_BODY_UI_SHOPFINISHER: Ð¤Ð¸Ð½Ð¸ÑˆÑ‘Ñ€
-JAVANGLE_MYST_BODY_UI_SORT: Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ
-JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ
-JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: ÐœÐ¸ÑÑ‚ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð´Ð²Ð° Ð¼ÐµÐ½ÑŽ Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑÐ²Ð¾Ð¸Ñ… ÑÐºÐ¸Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… <style=cIsUtility>Ð—Ð°ÐºÐ»Ð¸Ð½Ð°Ð½Ð¸Ð¹</style> Ð¸ Ð²Ñ‹ÑÐ²Ð¾Ð±Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ð½Ð°Ð²Ñ‹ÐºÐ¾Ð², Ñ…Ñ€Ð°Ð½ÑÑ‰Ð¸Ñ…ÑÑ Ð² Ð½Ð¸Ñ….
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: Ð˜Ð½Ð²ÐµÐ½Ñ‚Ð°Ñ€ÑŒ ÐœÐ°Ð³Ð¸Ð¸
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: Ð˜Ð¼Ñ
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: Ð£Ñ‚Ð¸Ð»Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ
-JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: Ð­ÐºÐ¸Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ ÐœÐ°Ð³Ð¸Ð¸
-
-JOBCLASS_MYSTIC_NAME: ÐœÐ¸ÑÑ‚Ð¸Ðº
-JOBCLASS_MYSTIC_DESCRIPTION: ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð·Ð°Ð±ÐµÐ³ Ñ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ð¼ Ð½Ð°Ð±Ð¾Ñ€Ð¾Ð¼, Ð² ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼ ÐµÑÑ‚ÑŒ Ð²ÑÐµÐ³Ð¾ Ð¿Ð¾Ð½ÐµÐ¼Ð½Ð¾Ð³Ñƒ.
-JOBCLASS_MYSTIC_KEYWORD: ÐœÐ¸ÑÑ‚Ð¸Ðº
-JOBCLASS_WARRIOR_NAME: Ð’Ð¾Ð¸Ð½
-JOBCLASS_WARRIOR_DESCRIPTION: ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð·Ð°Ð±ÐµÐ³ Ñ Ð½Ð°Ð±Ð¾Ñ€Ð¾Ð¼, Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð°Ñ‚Ð°Ðº Ð¤Ð¸Ð½Ð¸ÑˆÑ‘Ñ€Ð°.
-JOBCLASS_WARRIOR_KEYWORD: Ð’Ð¾Ð¸Ð½
-JOBCLASS_SORCERER_NAME: ÐšÐ¾Ð»Ð´ÑƒÐ½
-JOBCLASS_SORCERER_DESCRIPTION: ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð·Ð°Ð±ÐµÐ³ Ñ Ð½Ð°Ð±Ð¾Ñ€Ð¾Ð¼, Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð½Ð° Ð·Ð°ÐºÐ»Ð¸Ð½Ð°Ð½Ð¸Ñ.
-JOBCLASS_SORCERER_KEYWORD: ÐšÐ¾Ð»Ð´ÑƒÐ½
-JOBCLASS_BABY_NAME: ÐœÐ»Ð°Ð´ÐµÐ½ÐµÑ†
-JOBCLASS_BABY_DESCRIPTION: ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð·Ð°Ð±ÐµÐ³ Ð±ÐµÐ· Ð¼Ð°Ð³Ð¸Ð¸.
-JOBCLASS_BABY_KEYWORD: ÐœÐ»Ð°Ð´ÐµÐ½ÐµÑ†
-JOBCLASS_CHAD_NAME: Ð§Ð°Ð´
-JOBCLASS_CHAD_DESCRIPTION: ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð·Ð°Ð±ÐµÐ³ Ð±ÐµÐ· Ð¼Ð°Ð³Ð¸Ð¸.
-JOBCLASS_CHAD_KEYWORD: Ð§Ð°Ð´
-
-MAGICITE_FIREBALL_NAME: ÐžÐ³Ð½ÐµÐ½Ð½Ñ‹Ð¹ Ð¨Ð°Ñ€
-MAGICITE_FIREBALL_DESCRIPTION: Ð’Ñ‹Ð¿ÑƒÑÐºÐ°ÐµÑ‚ ÑÐ°Ð¼Ð¾Ð½Ð°Ð²Ð¾Ð´ÑÑ‰Ð¸Ð¹ÑÑ Ð¾Ð³Ð½ÐµÐ½Ð½Ñ‹Ð¹ ÑˆÐ°Ñ€ Ð² Ñ†ÐµÐ»ÑŒ, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð²Ð·Ñ€Ñ‹Ð²Ð°ÐµÑ‚ÑÑ Ð¿Ñ€Ð¸ ÑƒÐ´Ð°Ñ€Ðµ, Ð½Ð°Ð½Ð¾ÑÑ ÑƒÑ€Ð¾Ð½ Ð¸ <style=cIsDamage>Ð¿Ð¾Ð´Ð¶Ð¸Ð³Ð°Ñ</style> Ð²Ñ€Ð°Ð³Ð¾Ð² Ð² Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ.
-MAGICITE_CALL_LIGHTNING_NAME: ÐŸÑ€Ð¸Ð·Ñ‹Ð² ÐœÐ¾Ð»Ð½Ð¸Ð¸
-MAGICITE_CALL_LIGHTNING_DESCRIPTION: ÐŸÑ€Ð¸Ð·Ð¾Ð²Ð¸Ñ‚Ðµ Ð¼Ð¾Ð»Ð½Ð¸ÑŽ Ð½Ð° Ñ†ÐµÐ»ÑŒ, Ð½Ð°Ð½Ð¾ÑÑ ÑƒÑ€Ð¾Ð½ Ð¸ ÑÐ±Ð¸Ð²Ð°Ñ Ð²Ð¾Ð·Ð´ÑƒÑˆÐ½Ñ‹Ñ… Ð²Ñ€Ð°Ð³Ð¾Ð² Ð½Ð° Ð·ÐµÐ¼Ð»ÑŽ.
-MAGICITE_CONE_OF_FROST_NAME: ÐšÐ¾Ð½ÑƒÑ ÐœÐ¾Ñ€Ð¾Ð·Ð°
-MAGICITE_CONE_OF_FROST_DESCRIPTION: ÐŸÑ€Ð¸Ð·Ð¾Ð²Ð¸Ñ‚Ðµ ÐºÐ¾Ð½ÑƒÑ Ð»ÐµÐ´ÑÐ½Ð¾Ð³Ð¾ Ð²ÐµÑ‚Ñ€Ð°, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð½Ð°Ð½ÐµÑÑ‚Ð¸ ÑƒÑ€Ð¾Ð½ Ð¸ <style=cIsDamage>Ð·Ð°Ð¼Ð¾Ñ€Ð¾Ð·Ð¸Ñ‚ÑŒ</style> Ð²Ñ€Ð°Ð³Ð¾Ð² Ð¿ÐµÑ€ÐµÐ´ Ð²Ð°Ð¼Ð¸.
-MAGICITE_FORTIFY_NAME: Ð£ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð¸Ðµ
-MAGICITE_FORTIFY_DESCRIPTION: ÐŸÐ¾ÑÐ»Ðµ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ð³Ð¾ ÐºÐ°Ð½Ð°Ð»Ð°: Ð´Ð°Ñ‘Ñ‚ Ð¼Ð¾Ñ‰Ð½Ñ‹Ð¹ Ð±Ð°Ñ„Ñ„ <style=cIsUtility>Ð±Ñ€Ð¾Ð½Ð¸</style> Ð²Ð°Ð¼ Ð¸ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ð¾Ð¼Ñƒ ÑÐ¾ÑŽÐ·Ð½Ð¸ÐºÑƒ.
-MAGICITE_MEND_WOUNDS_NAME: Ð›ÐµÑ‡ÐµÐ½Ð¸Ðµ Ð Ð°Ð½
-MAGICITE_MEND_WOUNDS_DESCRIPTION: ÐŸÐ¾ÑÐ»Ðµ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ð³Ð¾ ÐºÐ°Ð½Ð°Ð»Ð°: Ð¸ÑÑ†ÐµÐ»ÑÐµÑ‚ Ð²Ð°Ñ Ð¸ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐ¾ÑŽÐ·Ð½Ð¸ÐºÐ° Ð½Ð° <style=cIsHealing>50% Ð¾Ñ‚ ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð—Ð´Ð¾Ñ€Ð¾Ð²ÑŒÑ</style>.
-MAGICITE_MAGNET_NAME: ÐœÐ°Ð³Ð½Ð¸Ñ‚
-MAGICITE_MAGNET_DESCRIPTION: ÐŸÑ€Ð¸Ð·Ð¾Ð²Ð¸Ñ‚Ðµ Ð¼Ð°Ð³Ð½Ð¸Ñ‚Ð½Ð¾Ðµ Ð¿Ð¾Ð»Ðµ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¸Ñ‚ÑÐ½ÑƒÑ‚ÑŒ Ð²Ñ€Ð°Ð³Ð¾Ð² Ð² ÑˆÐ¸Ñ€Ð¾ÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸ Ð²Ð¾ÐºÑ€ÑƒÐ³ Ñ†ÐµÐ»Ð¸.
-MAGICITE_HASTE_NAME: Ð£ÑÐºÐ¾Ñ€ÐµÐ½Ð¸Ðµ
-MAGICITE_HASTE_DESCRIPTION: ÐŸÐ¾ÑÐ»Ðµ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ð³Ð¾ ÐºÐ°Ð½Ð°Ð»Ð°: Ð´Ð°Ñ‘Ñ‚ Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð¸ ÐÑ‚Ð°ÐºÐ¸ Ð²Ð°Ð¼ Ð¸ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ð¾Ð¼Ñƒ ÑÐ¾ÑŽÐ·Ð½Ð¸ÐºÑƒ.
-MAGICITE_MAGIC_MISSILE_NAME: ÐœÐ°Ð³Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð Ð°ÐºÐµÑ‚Ð°
-MAGICITE_MAGIC_MISSILE_DESCRIPTION: Ð’Ñ‹Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ðµ Ð·Ð°Ð»Ð¿ ÑÐ°Ð¼Ð¾Ð½Ð°Ð²Ð¾Ð´ÑÑ‰Ð¸Ñ…ÑÑ Ð¼Ð°Ð³Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÑÐ½Ð°Ñ€ÑÐ´Ð¾Ð², Ð¸Ñ‰ÑƒÑ‰Ð¸Ñ… Ñ†ÐµÐ»Ð¸. Ð‘Ð¾Ð»ÑŒÑˆÐµ ÐœÐ¡ â€” Ð±Ð¾Ð»ÑŒÑˆÐµ Ð²Ñ‹Ð¿ÑƒÑ‰ÐµÐ½Ð½Ñ‹Ñ… ÑÐ½Ð°Ñ€ÑÐ´Ð¾Ð².
-MAGICITE_ECLIPSE_GATE_NAME: Ð’Ñ€Ð°Ñ‚Ð° Ð—Ð°Ñ‚Ð¼ÐµÐ½Ð¸Ñ
-MAGICITE_ECLIPSE_GATE_DESCRIPTION: ÐŸÑ€Ð¸Ð·Ñ‹Ð²Ð°ÐµÑ‚ Ñ„Ñ€Ð°Ð³Ð¼ÐµÐ½Ñ‚ Ñ‚ÐµÐ½ÐµÐ²Ð¾Ð¹ ÑÐ¸Ð»Ñ‹, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¹ ÑƒÑ€Ð¾Ð½ Ñ†ÐµÐ»Ð¸ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Ð½ÐµÐ´Ð¾ÑÑ‚Ð°ÑŽÑ‰ÐµÐ¹ ÐœÐ¡.
-MAGICITE_ULTIMA_NAME: Ð£Ð»ÑŒÑ‚Ð¸Ð¼Ð°
-MAGICITE_ULTIMA_DESCRIPTION: ÐŸÐ¾ÑÐ»Ðµ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ð³Ð¾ ÐºÐ°Ð½Ð°Ð»Ð°: Ñ‚Ñ€Ð°Ñ‚Ð¸Ñ‚ Ð²ÑÑŽ Ð¾ÑÑ‚Ð°Ð²ÑˆÑƒÑŽÑÑ ÐœÐ°Ð³Ð¸Ñ‡ÐµÑÐºÑƒÑŽ Ð¡Ð¸Ð»Ñƒ, ÑÐ¾Ð·Ð´Ð°Ð²Ð°Ñ Ð¾Ð³Ñ€Ð¾Ð¼Ð½Ñ‹Ð¹ ÑÐ½ÐµÑ€Ð³ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð²Ð¸Ñ…Ñ€ÑŒ, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð½Ð°Ð½Ð¾ÑÐ¸Ñ‚ Ð½ÐµÐ²ÐµÑ€Ð¾ÑÑ‚Ð½Ñ‹Ð¹ ÑƒÑ€Ð¾Ð½ Ð²ÑÐµÐ¼ Ð²Ñ€Ð°Ð³Ð°Ð¼ Ð² ÑˆÐ¸Ñ€Ð¾ÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸ Ð¿Ð¾ÑÐ»Ðµ Ð´Ð¾Ð»Ð³Ð¾Ð¹ Ð·Ð°Ð´ÐµÑ€Ð¶ÐºÐ¸.
-
-MAGICITE_FATED_CIRCLE_NAME: ÐšÑ€ÑƒÐ³ Ð¡ÑƒÐ´ÑŒÐ±Ñ‹
-MAGICITE_FATED_CIRCLE_DESCRIPTION: Ð’Ñ€Ð°Ñ‰Ð°ÑŽÑ‰Ð°ÑÑÑ Ð°Ñ‚Ð°ÐºÐ°, Ð¾Ð³Ð»ÑƒÑˆÐ°ÑŽÑ‰Ð°Ñ Ð¸ Ð¿Ñ€Ð¸Ñ‚ÑÐ³Ð¸Ð²Ð°ÑŽÑ‰Ð°Ñ Ð²Ñ€Ð°Ð³Ð¾Ð², Ñ Ð¿Ð¾ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼Ð¸ Ð¾Ð³Ð½ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð²Ð·Ñ€Ñ‹Ð²Ð°Ð¼Ð¸, Ð¾Ñ‚Ð±Ñ€Ð°ÑÑ‹Ð²Ð°ÑŽÑ‰Ð¸Ð¼Ð¸ Ð¸Ñ…, Ð½Ð°Ð½Ð¾ÑÑ Ñ‚ÑÐ¶Ñ‘Ð»Ñ‹Ð¹ ÑƒÑ€Ð¾Ð½.
-MAGICITE_EXPLOSION_NAME: Ð’Ð·Ñ€Ñ‹Ð²
-MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>(Ð¤Ð¸Ð½Ð¸ÑˆÑ‘Ñ€Ñ‹ Ñ€Ð°Ð·Ð»Ð¸Ñ‡Ð°ÑŽÑ‚ÑÑ Ð² Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚ Ñ‚Ð¾Ð³Ð¾, Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ Ð»Ð¸ ÐœÐ¸ÑÑ‚ Ð½Ð° Ð·ÐµÐ¼Ð»Ðµ Ð¸Ð»Ð¸ Ð² Ð²Ð¾Ð·Ð´ÑƒÑ…Ðµ)</style>. ÐžÑÑ‚Ð°Ð²Ð°Ð¹Ñ‚ÐµÑÑŒ Ð½Ð° Ð¼ÐµÑÑ‚Ðµ Ð¸ Ð¿Ñ€Ð¸Ð·Ð¾Ð²Ð¸Ñ‚Ðµ Ð¡Ñ„ÐµÑ€Ñ‹ Ð¡Ð²ÐµÑ‚Ð°, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¾Ð½Ð¸ Ð²Ñ€Ð°Ñ‰Ð°Ð»Ð¸ÑÑŒ Ð²Ð¾ÐºÑ€ÑƒÐ³ Ð²Ð°Ñ, Ð½Ð°Ð½Ð¾ÑÑ ÑƒÑ€Ð¾Ð½ Ð¸ Ð¾Ð³Ð»ÑƒÑˆÐ°Ñ Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐ¸Ñ… Ð²Ñ€Ð°Ð³Ð¾Ð².
-MAGICITE_CHALLENGING_SHOUT_NAME: Ð’Ñ‹Ð·Ñ‹Ð²Ð°ÑŽÑ‰Ð¸Ð¹ ÐšÑ€Ð¸Ðº
-MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: Ð˜Ð·Ð´Ð°Ð¹Ñ‚Ðµ Ð²Ð»Ð°ÑÑ‚Ð½Ñ‹Ð¹ ÐºÑ€Ð¸Ðº, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¾ÑÐ»Ð°Ð±Ð»ÑÐµÑ‚ Ð¸ Ð¿Ñ€Ð¸Ñ‚ÑÐ³Ð¸Ð²Ð°ÐµÑ‚ Ð²Ñ€Ð°Ð³Ð¾Ð² Ðº Ð²Ð°Ð¼.
-MAGICITE_BLADE_DANCE_NAME: Ð¢Ð°Ð½ÐµÑ† ÐšÐ»Ð¸Ð½ÐºÐ¾Ð²
-MAGICITE_BLADE_DANCE_DESCRIPTION: Ð¥ÑƒÐ´Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð°Ñ ÑÐµÑ€ÐµÐ½Ð°Ð´Ð° Ñ€ÐµÐ¶ÑƒÑ‰Ð¸Ñ… ÑƒÐ´Ð°Ñ€Ð¾Ð², ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ Ð¿Ñ€Ð¾Ð´Ð²Ð¸Ð³Ð°ÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¸ Ð±Ñ‹ÑÑ‚Ñ€Ð¾ Ð½Ð°Ð½Ð¾ÑÐ¸Ñ‚ ÑƒÑ€Ð¾Ð½.
-MAGICITE_JUDGEMENT_CUT_NAME: Ð Ð°Ð·Ñ€ÐµÐ· Ð¡ÑƒÐ´Ð°
-MAGICITE_JUDGEMENT_CUT_DESCRIPTION: Ð¡Ñ‚Ð°Ð½ÑŒÑ‚Ðµ Ð½ÐµÐ¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¸ Ð½Ð°Ð½ÐµÑÐ¸Ñ‚Ðµ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ ÑƒÐ´Ð°Ñ€Ð¾Ð² Ð¿Ð¾ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸, Ð½Ð°Ð½Ð¾ÑÑ Ð±Ð¾Ð»ÑŒÑˆÐµ ÑƒÐ´Ð°Ñ€Ð¾Ð² Ñ Ð±Ð¾Ð»ÐµÐµ Ð²Ñ‹ÑÐ¾ÐºÐ¾Ð¹ ÑÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒÑŽ Ð°Ñ‚Ð°ÐºÐ¸.
-MAGICITE_SHILLELAGH_NAME: Ð¨Ð¸Ð»Ð»ÐµÐ»Ð°
-MAGICITE_SHILLELAGH_DESCRIPTION: Ð’ Ñ€ÐµÐ¶Ð¸Ð¼Ðµ <style=cIsUtility>ÐœÐ°Ð³Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ ÐŸÐµÑ€ÐµÐ·Ð°Ñ€ÑÐ´ÐºÐ¸</style>: Ð½Ð°Ð½Ð¾ÑÐ¸Ñ‚ Ñ‚ÑÐ¶Ñ‘Ð»Ñ‹Ð¹ ÑƒÑ€Ð¾Ð½ Ð¸ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÑ‚ ÐœÐ°Ð³Ð¸Ñ‡ÐµÑÐºÑƒÑŽ Ð¡Ð¸Ð»Ñƒ. Ð’ Ð¾ÑÑ‚Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ â€” Ð½Ðµ Ð²Ð¿ÐµÑ‡Ð°Ñ‚Ð»ÑÐµÑ‚.
-
-MAGICITE_BLASTING_ZONE_NAME: Ð’Ð·Ñ€Ñ‹Ð²Ð½Ð°Ñ Ð—Ð¾Ð½Ð°
-MAGICITE_BLASTING_ZONE_DESCRIPTION: ÐŸÑ€Ð¸Ð·Ð¾Ð²Ð¸Ñ‚Ðµ Ð³Ð¸Ð³Ð°Ð½Ñ‚ÑÐºÐ¸Ð¹ ÑÑ‚Ð¾Ð»Ð¿ ÑÐ¸Ð»Ñ‹, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¾ÐºÑƒÑ‚Ð°Ñ‚ÑŒ Ð’Ð¾Ñ€Ð¿Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÐœÐµÑ‡, Ð·Ð°Ñ‚ÐµÐ¼ Ð²Ð·Ð¼Ð°Ñ…Ð½Ð¸Ñ‚Ðµ ÐºÐ»Ð¸Ð½ÐºÐ¾Ð¼, Ð¾Ð±Ñ€ÑƒÑˆÐ¸Ð² ÐµÐ³Ð¾ Ð½Ð° Ð²Ñ€Ð°Ð³Ð¾Ð² Ð¿ÐµÑ€ÐµÐ´ Ð²Ð°Ð¼Ð¸, Ð½Ð°Ð½Ð¾ÑÑ Ð½ÐµÐ²ÐµÑ€Ð¾ÑÑ‚Ð½Ñ‹Ð¹ ÑƒÑ€Ð¾Ð½ Ð¿Ð¾ ÑˆÐ¸Ñ€Ð¾ÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸.
-MAGICITE_BERSERK_FORM_NAME: Ð¤Ð¾Ñ€Ð¼Ð° Ð‘ÐµÑ€ÑÐµÑ€ÐºÐ°
-MAGICITE_BERSERK_FORM_DESCRIPTION: ÐœÐ¸ÑÑ‚ Ð¿Ñ€Ð¸Ñ…Ð¾Ð´Ð¸Ñ‚ Ð² ÑÑ€Ð¾ÑÑ‚ÑŒ, Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ Ð¿Ð¾Ð²Ñ‹ÑˆÐµÐ½Ð½Ñ‹Ðµ Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð¸ Ð’Ñ‹ÑÐ¾Ñ‚Ñƒ ÐŸÑ€Ñ‹Ð¶ÐºÐ°, Ð° Ñ‚Ð°ÐºÐ¶Ðµ Ð½Ð°Ð±Ð¾Ñ€ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ð¹, Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð° Ð°Ñ‚Ð°ÐºÐ¸.
-MAGICITE_JUDGEMENT_CUT_END_NAME: Ð¤Ð¸Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð Ð°Ð·Ñ€ÐµÐ· Ð¡ÑƒÐ´Ð°
-MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: Ð’Ð»Ð¾Ð¶Ð¸Ñ‚Ðµ Ð’Ð¾Ñ€Ð¿Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÐœÐµÑ‡ Ð² Ð½Ð¾Ð¶Ð½Ñ‹, Ð½Ð°ÐºÐ°Ð¿Ð»Ð¸Ð²Ð°Ñ ÑÐ½ÐµÑ€Ð³Ð¸ÑŽ, Ð¿Ñ€ÐµÐ¶Ð´Ðµ Ñ‡ÐµÐ¼ Ð²Ñ‹ÑÐ²Ð¾Ð±Ð¾Ð´Ð¸Ñ‚ÑŒ ÑˆÐºÐ²Ð°Ð» Ð¼Ð¾Ð»Ð½Ð¸ÐµÐ½Ð¾ÑÐ½Ñ‹Ñ… Ñ€Ð°Ð·Ñ€ÐµÐ·Ð¾Ð², Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ñ… Ð½ÐµÐ²ÐµÑ€Ð¾ÑÑ‚Ð½Ñ‹Ð¹ ÑƒÑ€Ð¾Ð½ Ð¿Ð¾ÑÐ»Ðµ Ð·Ð°Ð´ÐµÑ€Ð¶ÐºÐ¸.
-MAGICITE_POWER_WORD_KILL_NAME: Ð¡Ð»Ð¾Ð²Ð¾ Ð¡Ð¸Ð»Ñ‹: Ð¡Ð¼ÐµÑ€Ñ‚ÑŒ
-MAGICITE_POWER_WORD_KILL_DESCRIPTION: ÐŸÐ¾ÑÐ»Ðµ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ð³Ð¾ ÐºÐ°Ð½Ð°Ð»Ð°: <style=cIsDamage>Ð¼Ð³Ð½Ð¾Ð²ÐµÐ½Ð½Ð¾ ÑƒÑÑ‚Ñ€Ð°Ð½ÑÐµÑ‚</style> Ñ†ÐµÐ»ÑŒ.
-
-MAGICITE_MP_THRIFT_NAME: Ð­ÐºÐ¾Ð½Ð¾Ð¼Ð¸Ñ ÐœÐ¡
-MAGICITE_MP_THRIFT_DESCRIPTION: Ð¡Ð²ÑÐ·Ð°Ð½Ð½Ð¾Ðµ Ð—Ð°ÐºÐ»Ð¸Ð½Ð°Ð½Ð¸Ðµ ÑÑ‚Ð¾Ð¸Ñ‚ Ð¼ÐµÐ½ÑŒÑˆÐµ ÐœÐ¡.
-MAGICITE_MP_TURBO_NAME: ÐœÐ¡ Ð¢ÑƒÑ€Ð±Ð¾
-MAGICITE_MP_TURBO_DESCRIPTION: Ð¡Ð²ÑÐ·Ð°Ð½Ð½Ð¾Ðµ Ð—Ð°ÐºÐ»Ð¸Ð½Ð°Ð½Ð¸Ðµ Ð½Ð°Ð½Ð¾ÑÐ¸Ñ‚ Ð±Ð¾Ð»ÑŒÑˆÐµ ÑƒÑ€Ð¾Ð½Ð° Ð¸ ÑÑ‚Ð¾Ð¸Ñ‚ Ð±Ð¾Ð»ÑŒÑˆÐµ ÐœÐ¡.
-MAGICITE_LIMIT_SYPHON_NAME: Ð¡Ð¸Ñ„Ð¾Ð½ Ð›Ð¸Ð¼Ð¸Ñ‚Ð°
-MAGICITE_LIMIT_SYPHON_DESCRIPTION: Ð”Ð°Ñ‘Ñ‚ Ð›Ð¸Ð¼Ð¸Ñ‚ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ ÐœÐ°Ð³Ð¸Ð¸.
-
-JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: ÐšÐ¾Ð»-Ð²Ð¾ Ð¼Ð¾Ð»Ð½Ð¸Ð¹:
-JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% x ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… ÑƒÐ´Ð°Ñ€Ð¾Ð²
+{
+    "RU": {
+        "JAVANGLE_MYST_BODY_NAME": "Мист",
+        "JAVANGLE_MYST_BODY_SUBTITLE": "Таинственный Арканист",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "Мист — универсальный выживший, использующий <style=cIsUtility>Магическую Силу</style> для применения разнообразных сверхъестественных навыков и <style=cIsUtility>Лимит</style> для высвобождения мощных суперприёмов.",
+        "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "Мастерство",
+        "JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME": "Великое Мастерство",
+        "BASEFORM_SLASH_NAME": "Ворпальный Разрез",
+        "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Разрежьте врагов перед собой, нанося <style=cIsDamage>165% урона</style>.",
+        "BASEFORM_DASH_NAME": "Рывок",
+        "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Скользните на короткое расстояние в любом горизонтальном направлении.",
+        "BASEFORM_BLOCK_NAME": "Призрак",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Удерживайте</style>, чтобы значительно снизить получаемый фронтальный урон, получая <style=cIsUtility>Лимит</style> на основе заблокированного урона. Если <style=cIsUtility>вовремя</style>: полностью избегает урона со всех направлений, обнуляет перезарядку навыка, восстанавливает <style=cIsUtility>Магическую Силу</style> на основе заблокированного урона, получает <style=cIsUtility>двойной Лимит</style> и отражает до <style=cIsDamage>3x заблокированного урона</style> по ближайшим врагам.",
+        "BASEFORM_LIMITMENU_NAME": "Меню Лимита",
+        "BASEFORM_LIMITMENU_DESCRIPTION": "Откройте Меню Лимита, позволяющее использовать экипированные <style=cIsUtility>Лимит Брейки</style>.",
+        "JAVANGLE_MYST_BODY_UI_MAGICNAME": "Меню Магии",
+        "JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION": "Откройте Меню Магии, позволяющее использовать экипированные заклинания.",
+        "JAVANGLE_MYST_BODY_UI_LIMITNAME": "Меню Лимита",
+        "JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION": "Откройте Меню Лимита, позволяющее использовать экипированные Лимит Брейки.",
+        "JAVANGLE_MYST_BODY_UI_SHOPRANDOM": "Случайно",
+        "JAVANGLE_MYST_BODY_UI_SHOPSPELL": "Заклинание",
+        "JAVANGLE_MYST_BODY_UI_SHOPSUPPORT": "Поддержка",
+        "JAVANGLE_MYST_BODY_UI_SHOPLIMIT": "Лимит",
+        "JAVANGLE_MYST_BODY_UI_SHOPFINISHER": "Финишёр",
+        "JAVANGLE_MYST_BODY_UI_SORT": "Сортировать",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALTITLE": "Обучение",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION": "Мист использует два меню для применения своих экипированных <style=cIsUtility>Заклинаний</style> и высвобождения навыков, хранящихся в них.",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY": "Инвентарь Магии",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME": "Имя",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL": "Уровень",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP": "Утилизировать",
+        "JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES": "Экипированные Магии",
+        "JOBCLASS_MYSTIC_NAME": "Мистик",
+        "JOBCLASS_MYSTIC_DESCRIPTION": "Начните забег с универсальным набором, в котором есть всего понемногу.",
+        "JOBCLASS_MYSTIC_KEYWORD": "Мистик",
+        "JOBCLASS_WARRIOR_NAME": "Воин",
+        "JOBCLASS_WARRIOR_DESCRIPTION": "Начните забег с набором, ориентированным на использование атак Финишёра.",
+        "JOBCLASS_WARRIOR_KEYWORD": "Воин",
+        "JOBCLASS_SORCERER_NAME": "Колдун",
+        "JOBCLASS_SORCERER_DESCRIPTION": "Начните забег с набором, ориентированным на заклинания.",
+        "JOBCLASS_SORCERER_KEYWORD": "Колдун",
+        "JOBCLASS_BABY_NAME": "Младенец",
+        "JOBCLASS_BABY_DESCRIPTION": "Начните забег без магии.",
+        "JOBCLASS_BABY_KEYWORD": "Младенец",
+        "JOBCLASS_CHAD_NAME": "Чад",
+        "JOBCLASS_CHAD_DESCRIPTION": "Начните забег без магии.",
+        "JOBCLASS_CHAD_KEYWORD": "Чад",
+        "MAGICITE_FIREBALL_NAME": "Огненный Шар",
+        "MAGICITE_FIREBALL_DESCRIPTION": "Выпускает самонаводящийся огненный шар в цель, который взрывается при ударе, нанося урон и <style=cIsDamage>поджигая</style> врагов в области действия.",
+        "MAGICITE_CALL_LIGHTNING_NAME": "Призыв Молнии",
+        "MAGICITE_CALL_LIGHTNING_DESCRIPTION": "Призовите молнию на цель, нанося урон и сбивая воздушных врагов на землю.",
+        "MAGICITE_CONE_OF_FROST_NAME": "Конус Мороза",
+        "MAGICITE_CONE_OF_FROST_DESCRIPTION": "Призовите конус ледяного ветра, чтобы нанести урон и <style=cIsDamage>заморозить</style> врагов перед вами.",
+        "MAGICITE_FORTIFY_NAME": "Укрепление",
+        "MAGICITE_FORTIFY_DESCRIPTION": "После короткого канала: даёт мощный бафф <style=cIsUtility>брони</style> вам и выбранному союзнику.",
+        "MAGICITE_MEND_WOUNDS_NAME": "Лечение Ран",
+        "MAGICITE_MEND_WOUNDS_DESCRIPTION": "После короткого канала: исцеляет вас и выбранного союзника на <style=cIsHealing>50% от Максимального Здоровья</style>.",
+        "MAGICITE_MAGNET_NAME": "Магнит",
+        "MAGICITE_MAGNET_DESCRIPTION": "Призовите магнитное поле, чтобы притянуть врагов в широкой области вокруг цели.",
+        "MAGICITE_HASTE_NAME": "Ускорение",
+        "MAGICITE_HASTE_DESCRIPTION": "После короткого канала: даёт Скорость Передвижения и Атаки вам и выбранному союзнику.",
+        "MAGICITE_MAGIC_MISSILE_NAME": "Магическая Ракета",
+        "MAGICITE_MAGIC_MISSILE_DESCRIPTION": "Выпустите залп самонаводящихся магических снарядов, ищущих цели. Больше МС — больше выпущенных снарядов.",
+        "MAGICITE_ECLIPSE_GATE_NAME": "Врата Затмения",
+        "MAGICITE_ECLIPSE_GATE_DESCRIPTION": "Призывает фрагмент теневой силы, наносящий урон цели на основе недостающей МС.",
+        "MAGICITE_ULTIMA_NAME": "Ультима",
+        "MAGICITE_ULTIMA_DESCRIPTION": "После короткого канала: тратит всю оставшуюся Магическую Силу, создавая огромный энергетический вихрь, который наносит невероятный урон всем врагам в широкой области после долгой задержки.",
+        "MAGICITE_FATED_CIRCLE_NAME": "Круг Судьбы",
+        "MAGICITE_FATED_CIRCLE_DESCRIPTION": "Вращающаяся атака, оглушающая и притягивающая врагов, с последующими огненными взрывами, отбрасывающими их, нанося тяжёлый урон.",
+        "MAGICITE_EXPLOSION_NAME": "Взрыв",
+        "MAGICITE_EXPLOSION_DESCRIPTION": "<style=cIsUtility>(Финишёры различаются в зависимости от того, находится ли Мист на земле или в воздухе)</style>. Оставайтесь на месте и призовите Сферы Света, чтобы они вращались вокруг вас, нанося урон и оглушая ближайших врагов.",
+        "MAGICITE_CHALLENGING_SHOUT_NAME": "Вызывающий Крик",
+        "MAGICITE_CHALLENGING_SHOUT_DESCRIPTION": "Издайте властный крик, который ослабляет и притягивает врагов к вам.",
+        "MAGICITE_BLADE_DANCE_NAME": "Танец Клинков",
+        "MAGICITE_BLADE_DANCE_DESCRIPTION": "Художественная серенада режущих ударов, которая продвигает пользователя и быстро наносит урон.",
+        "MAGICITE_JUDGEMENT_CUT_NAME": "Разрез Суда",
+        "MAGICITE_JUDGEMENT_CUT_DESCRIPTION": "Станьте нематериальным и нанесите несколько ударов по области, нанося больше ударов с более высокой скоростью атаки.",
+        "MAGICITE_SHILLELAGH_NAME": "Шиллела",
+        "MAGICITE_SHILLELAGH_DESCRIPTION": "В режиме <style=cIsUtility>Магической Перезарядки</style>: наносит тяжёлый урон и восстанавливает Магическую Силу. В остальное время — не впечатляет.",
+        "MAGICITE_BLASTING_ZONE_NAME": "Взрывная Зона",
+        "MAGICITE_BLASTING_ZONE_DESCRIPTION": "Призовите гигантский столп силы, чтобы окутать Ворпальный Меч, затем взмахните клинком, обрушив его на врагов перед вами, нанося невероятный урон по широкой области.",
+        "MAGICITE_BERSERK_FORM_NAME": "Форма Берсерка",
+        "MAGICITE_BERSERK_FORM_DESCRIPTION": "Мист приходит в ярость, получая повышенные Скорость Передвижения и Высоту Прыжка, а также набор движений, ориентированный на атаки.",
+        "MAGICITE_JUDGEMENT_CUT_END_NAME": "Финальный Разрез Суда",
+        "MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION": "Вложите Ворпальный Меч в ножны, накапливая энергию, прежде чем высвободить шквал молниеносных разрезов, наносящих невероятный урон после задержки.",
+        "MAGICITE_POWER_WORD_KILL_NAME": "Слово Силы: Смерть",
+        "MAGICITE_POWER_WORD_KILL_DESCRIPTION": "После короткого канала: <style=cIsDamage>мгновенно устраняет</style> цель.",
+        "MAGICITE_MP_THRIFT_NAME": "Экономия МС",
+        "MAGICITE_MP_THRIFT_DESCRIPTION": "Связанное Заклинание стоит меньше МС.",
+        "MAGICITE_MP_TURBO_NAME": "МС Турбо",
+        "MAGICITE_MP_TURBO_DESCRIPTION": "Связанное Заклинание наносит больше урона и стоит больше МС.",
+        "MAGICITE_LIMIT_SYPHON_NAME": "Сифон Лимита",
+        "MAGICITE_LIMIT_SYPHON_DESCRIPTION": "Даёт Лимит на основе Стоимости Магии.",
+        "JAVANGLE_MYST_BODY_UI_NUMOFBOLTS": "Кол-во молний:",
+        "JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED": "{0}% x количество заблокированных ударов"
+    }
+}

@@ -1,47 +1,40 @@
-BOG_PATHFINDER_BODY_NAME: Ð¡Ð»ÐµÐ´Ð¾Ð¿Ñ‹Ñ‚
-BOG_PATHFINDER_BODY_SUBTITLE: ÐœÐµÐ¶Ð¿Ð»Ð°Ð½ÐµÑ‚Ð½Ñ‹Ð¹ ÐžÑ…Ð¾Ñ‚Ð½Ð¸Ðº
-BOG_PATHFINDER_BODY_DESCRIPTION: Ð¡Ð»ÐµÐ´Ð¾Ð¿Ñ‹Ñ‚ â€” ÑÑ‚Ð¾ Ñ…Ð¸Ñ‚Ñ€Ñ‹Ð¹ Ð¸ ÑƒÑÐºÐ¾Ð»ÑŒÐ·Ð°ÑŽÑ‰Ð¸Ð¹ Ð·Ð°ÑÑ‚Ñ€ÐµÐ»ÑŒÑ‰Ð¸Ðº, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ ÑÑ€Ð°Ð¶Ð°ÐµÑ‚ÑÑ Ð±Ð¾Ðº Ð¾ Ð±Ð¾Ðº ÑÐ¾ ÑÐ²Ð¾Ð¸Ð¼ Ñ€Ð¾Ð±Ð¾Ñ‚Ð¾Ð¼-ÑÐ¾ÐºÐ¾Ð»Ð¾Ð¼ Ð¨ÐºÐ²Ð°Ð»Ð¾Ð¼.
-
-BOG_PATHFINDER_BODY_PASSIVE_NAME: Ð¡Ð¾ÐºÐ¾Ð»ÑŒÐ½Ð¸Ðº
-BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: Ð’Ð°Ñ ÑÐ¾Ð¿Ñ€Ð¾Ð²Ð¾Ð¶Ð´Ð°ÐµÑ‚ Ð²Ð°Ñˆ Ñ€Ð¾Ð±Ð¾Ñ‚-ÑÐ¾ÐºÐ¾Ð» Ð¨ÐºÐ²Ð°Ð». Ð¨ÐºÐ²Ð°Ð» Ð½Ð°ÑÐ»ÐµÐ´ÑƒÐµÑ‚ <style=cIsDamage>Ð±Ð¾Ð»ÑŒÑˆÐ¸Ð½ÑÑ‚Ð²Ð¾</style> Ð²Ð°ÑˆÐ¸Ñ… Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð² Ð¸ Ð½ÐµÑƒÑÐ·Ð²Ð¸Ð¼ Ðº ÑƒÑ€Ð¾Ð½Ñƒ, Ð½Ð¾ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ð¾Ñ‚ <style=cIsUtility>Ð±Ð°Ñ‚Ð°Ñ€ÐµÐ¸</style>.
-
-BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹
-BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: ÐžÑ…Ð¾Ñ‚Ð½Ð¸Ðº Ð·Ð° Ð“Ð¾Ð»Ð¾Ð²Ð°Ð¼Ð¸
-BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..Ð¸ Ñ‚Ð°Ðº Ð¾Ð½Ð¸ ÑƒÑˆÐ»Ð¸, ÐºÐ°Ðº Ð½Ð¾Ð²Ñ‹Ðµ ÐºÐ¾Ñ€Ð¾Ð»Ð¸ Ð¿Ð¸Ñ‰ÐµÐ²Ð¾Ð¹ Ñ†ÐµÐ¿Ð¸.
-BOG_PATHFINDER_BODY_OUTRO_FAILURE: ..Ð¸ Ñ‚Ð°Ðº Ð¾Ð½Ð¸ Ð¸ÑÑ‡ÐµÐ·Ð»Ð¸, Ð½Ð°Ð²ÑÐµÐ³Ð´Ð° Ð¿Ð¾Ñ‚ÐµÑ€ÑÐ½Ð½Ñ‹Ðµ Ð² Ñ€Ð°Ð²Ð½Ð¾Ð´ÑƒÑˆÐ½Ð¾Ð¹ Ð³Ð»ÑƒÑˆÐ¸.
-BOG_SQUALL_BODY_NAME: Ð¨ÐºÐ²Ð°Ð»
-BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹
-BOG_SQUALL_BODY_MASTERY_SKIN_NAME: ÐœÐ°ÑÑ‚ÐµÑ€ÑÑ‚Ð²Ð¾
-PRIMARY_THRUST_NAME: Ð’Ñ‹Ð¿Ð°Ð´
-PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>ÐŸÑ€Ð¾Ð½Ð¸ÐºÐ°ÑŽÑ‰Ð¸Ð¹</style>. Ð¢Ð¾Ð»ÐºÐ½Ð¸Ñ‚Ðµ ÐºÐ¾Ð¿ÑŒÑ‘ Ð²Ð¿ÐµÑ€Ñ‘Ð´ Ð´Ð»Ñ <style=cIsDamage>250% ÑƒÑ€Ð¾Ð½Ð°</style>.
-
-SECONDARY_DASH_NAME: Ð›ÐµÐ³ÐºÐ¾Ð½Ð¾Ð³Ð¸Ð¹
-SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>Ð¡ÐºÐ¾Ð»ÑŒÐ·Ð½Ð¸Ñ‚Ðµ</style> Ð½Ð° ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ðµ Ñ€Ð°ÑÑÑ‚Ð¾ÑÐ½Ð¸Ðµ. ÐŸÑ€Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐ¼ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð³Ð¾ Ð½Ð°Ð²Ñ‹ÐºÐ° Ð±Ñ€Ð¾ÑÑŒÑ‚Ðµ <style=cIsDamage>Ð²Ð·Ñ€Ñ‹Ð²Ð½Ð¾Ðµ ÐºÐ¾Ð¿ÑŒÑ‘</style> Ð´Ð»Ñ <style=cIsDamage>800% ÑƒÑ€Ð¾Ð½Ð°</style> Ð¸ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ðµ <style=cIsUtility>800% Ð±Ð°Ñ‚Ð°Ñ€ÐµÐ¸</style>, ÑƒÐ´Ð²Ð¾ÐµÐ½Ð¾ Ð¿Ñ€Ð¸ ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÑƒÐ´Ð°Ñ€Ð°Ñ….
-
-SECONDARY_JAVELIN_NAME: Ð‘Ñ€Ð¾ÑÐ¾Ðº ÐšÐ¾Ð¿ÑŒÑ
-SECONDARY_JAVELIN_DESCRIPTION: Ð‘Ñ€Ð¾ÑÑŒÑ‚Ðµ <style=cIsDamage>Ð²Ð·Ñ€Ñ‹Ð²Ð½Ð¾Ðµ ÐºÐ¾Ð¿ÑŒÑ‘</style> Ð´Ð»Ñ <style=cIsDamage>800% ÑƒÑ€Ð¾Ð½Ð°</style>.
-
-UTILITY_SPIN_NAME: Ð Ð°Ð·Ð´Ð¸Ñ€Ð°ÑŽÑ‰Ð¸Ðµ ÐšÐ¾Ð³Ñ‚Ð¸
-UTILITY_SPIN_DESCRIPTION: ÐŸÐ¾Ð´Ð½Ð¸Ð¼Ð¸Ñ‚ÐµÑÑŒ Ð² Ð²Ð¾Ð·Ð´ÑƒÑ…, Ð±Ñ‹ÑÑ‚Ñ€Ð¾ Ð²Ñ€Ð°Ñ‰Ð°ÑÑÑŒ Ð´Ð»Ñ <style=cIsDamage>300% ÑƒÑ€Ð¾Ð½Ð°</style>. ÐŸÑ€Ð¸ Ð¿Ñ€Ð¸Ð·ÐµÐ¼Ð»ÐµÐ½Ð¸Ð¸ Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚Ðµ Ð³Ð¾Ñ€Ð¸Ð·Ð¾Ð½Ñ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð²Ð·Ð¼Ð°Ñ… Ð´Ð»Ñ <style=cIsDamage>800% ÑƒÑ€Ð¾Ð½Ð°</style>.
-
-UTILITY_BOLAS_NAME: Ð­Ð»ÐµÐºÑ‚Ñ€Ð¾ Ð‘Ð¾Ð»Ð°ÑÑ‹
-UTILITY_BOLAS_DESCRIPTION: Ð‘Ñ€Ð¾ÑÑŒÑ‚Ðµ ÑÐ»ÐµÐºÑ‚Ñ€Ð¸Ñ‡ÐµÑÐºÐ¸ Ð·Ð°Ñ€ÑÐ¶ÐµÐ½Ð½Ñ‹Ðµ Ð±Ð¾Ð»Ð°ÑÑ‹, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ <style=cIsUtility>ÑˆÐ¾ÐºÐ¸Ñ€ÑƒÑŽÑ‚</style> Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐ¸Ñ… Ð²Ñ€Ð°Ð³Ð¾Ð² Ð¸ Ð¾ÑÑ‚Ð°Ð²Ð»ÑÑŽÑ‚ <style=cIsUtility>ÑÐ»ÐµÐºÑ‚Ñ€Ð¸Ð·ÑƒÑŽÑ‰ÐµÐµ</style> Ð¿Ð¾Ð»Ðµ Ð½Ð° <style=cIsUtility>10 ÑÐµÐºÑƒÐ½Ð´</style>.
-
-SPECIAL_COMMAND_NAME: ÐžÑ‚Ð´Ð°Ñ‚ÑŒ ÐŸÑ€Ð¸ÐºÐ°Ð·
-SPECIAL_COMMAND_DESCRIPTION: ÐŸÐ¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÑŒÑ‚Ðµ Ð¿Ñ€Ð¸ÐºÐ°Ð· Ð´Ð»Ñ Ð¨ÐºÐ²Ð°Ð»Ð°. Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¾Ñ‚Ð´Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¸ÐºÐ°Ð· <color=#FF0000>ÐÑ‚Ð°ÐºÐ¸</color>, <color=#00FF00>Ð¡Ð»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ</color> Ð¸Ð»Ð¸ <color=#efeb1c>ÐžÑÐ¾Ð±Ñ‹Ð¹</color>, Ð½Ð°Ð¶Ð°Ð² ÐºÐ»Ð°Ð²Ð¸ÑˆÐ¸ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð³Ð¾, Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð³Ð¾ Ð¸Ð»Ð¸ Ð¾ÑÐ¾Ð±Ð¾Ð³Ð¾ Ð½Ð°Ð²Ñ‹ÐºÐ° ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾.
-
-SPECIAL_COMMAND2_NAME: ÐžÑ‚Ð´Ð°Ñ‚ÑŒ ÐŸÑ€Ð¸ÐºÐ°Ð· - Ð—Ð°Ð¼ÐµÐ½Ð° Ð£Ñ‚Ð¸Ð»Ð¸Ñ‚Ð°Ñ€Ð½Ð¾Ð³Ð¾
-SPECIAL_ATTACK_NAME: ÐÑ‚Ð°ÐºÐ°
-SPECIAL_ATTACK_DESCRIPTION: ÐÐ°Ð¿Ñ€Ð°Ð²ÑŒÑ‚Ðµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ Ð¨ÐºÐ²Ð°Ð»Ð° Ð½Ð° Ñ†ÐµÐ»ÐµÐ²Ð¾Ð³Ð¾ Ð²Ñ€Ð°Ð³Ð° Ð¸ Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ <color=#FF0000>Ð ÐµÐ¶Ð¸Ð¼ ÐÑ‚Ð°ÐºÐ¸</color>, Ð´Ð°ÑŽÑ‰Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¿ÑƒÐ»ÐµÐ¼Ñ‘Ñ‚Ð°Ð¼, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¼ <style=cIsDamage>2x30% ÑƒÑ€Ð¾Ð½Ð°</style>, Ð¸ Ñ€Ð°ÐºÐµÑ‚Ð½Ð¸Ñ†Ðµ, Ð½Ð°Ð½Ð¾ÑÑÑ‰ÐµÐ¹ <style=cIsDamage>150% ÑƒÑ€Ð¾Ð½Ð°</style>.
-
-SPECIAL_FOLLOW_NAME: Ð¡Ð»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ
-SPECIAL_FOLLOW_DESCRIPTION: Ð’ÐµÑ€Ð½Ð¸Ñ‚Ðµ Ð¨ÐºÐ²Ð°Ð»Ð° Ð¿Ð¾Ð±Ð»Ð¸Ð¶Ðµ Ðº ÑÐµÐ±Ðµ Ð¸ Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ <color=#00FF00>Ð ÐµÐ¶Ð¸Ð¼ Ð¡Ð»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ</color>, Ð·Ð°ÑÑ‚Ð°Ð²Ð»ÑÑ ÐµÐ³Ð¾ Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒÑÑ Ñ€ÑÐ´Ð¾Ð¼ Ñ Ð²Ð°Ð¼Ð¸.
-
-SPECIAL_CANCEL_NAME: ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð ÐµÐ¶Ð¸Ð¼ ÐšÐ¾Ð¼Ð°Ð½Ð´Ñ‹
-SPECIAL_CANCEL_DESCRIPTION: ÐžÑ‚Ð¼ÐµÐ½ÑÐµÑ‚ Ð ÐµÐ¶Ð¸Ð¼ ÐšÐ¾Ð¼Ð°Ð½Ð´Ñ‹.
-
-SQUALL_SPECIAL_GOFORTHROAT_NAME: Ð’ Ð“Ð¾Ñ€Ð»Ð¾!
-SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: ÐŸÑ€Ð¸ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¨ÐºÐ²Ð°Ð»Ñƒ Ð¼Ð½Ð¾Ð³Ð¾ÐºÑ€Ð°Ñ‚Ð½Ð¾ Ð°Ñ‚Ð°ÐºÐ¾Ð²Ð°Ñ‚ÑŒ Ñ†ÐµÐ»ÐµÐ²Ð¾Ð³Ð¾ Ð²Ñ€Ð°Ð³Ð° Ð´Ð»Ñ <style=cIsDamage>70% ÑƒÑ€Ð¾Ð½Ð°</style>. ÐšÐ°Ð¶Ð´Ð°Ñ Ð°Ñ‚Ð°ÐºÐ° Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ ÑÐ½Ð¸Ð¶Ð°ÐµÑ‚ <style=cIsDamage>Ð±Ñ€Ð¾Ð½ÑŽ</style> Ð¸ <style=cIsUtility>Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÑ‚ 1%</style> Ð±Ð°Ñ‚Ð°Ñ€ÐµÐ¸, ÑƒÐ´Ð²Ð¾ÐµÐ½Ð¾ Ð¿Ñ€Ð¸ ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÑƒÐ´Ð°Ñ€Ð°Ñ…. Ð­Ñ‚Ð¾Ñ‚ Ð½Ð°Ð²Ñ‹Ðº Ð¼Ð¾Ð¶ÐµÑ‚ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ <style=cIsUtility>Ð¿ÐµÑ€ÐµÐ³Ñ€ÑƒÐ¶Ð°Ñ‚ÑŒ</style> Ð±Ð°Ñ‚Ð°Ñ€ÐµÑŽ.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery
+{
+    "RU": {
+        "BOG_PATHFINDER_BODY_NAME": "Следопыт",
+        "BOG_PATHFINDER_BODY_SUBTITLE": "Межпланетный Охотник",
+        "BOG_PATHFINDER_BODY_DESCRIPTION": "Следопыт — это хитрый и ускользающий застрельщик, который сражается бок о бок со своим роботом-соколом Шквалом.",
+        "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Сокольник",
+        "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "Вас сопровождает ваш робот-сокол Шквал. Шквал наследует <style=cIsDamage>большинство</style> ваших предметов и неуязвим к урону, но работает от <style=cIsUtility>батареи</style>.",
+        "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Охотник за Головами",
+        "BOG_PATHFINDER_BODY_OUTRO_FLAVOR": "..и так они ушли, как новые короли пищевой цепи.",
+        "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..и так они исчезли, навсегда потерянные в равнодушной глуши.",
+        "BOG_SQUALL_BODY_NAME": "Шквал",
+        "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Обычный",
+        "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Мастерство",
+        "PRIMARY_THRUST_NAME": "Выпад",
+        "PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Проникающий</style>. Толкните копьё вперёд для <style=cIsDamage>250% урона</style>.",
+        "SECONDARY_DASH_NAME": "Легконогий",
+        "SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Скользните</style> на короткое расстояние. При следующем использовании основного навыка бросьте <style=cIsDamage>взрывное копьё</style> для <style=cIsDamage>800% урона</style> и восстановите <style=cIsUtility>800% батареи</style>, удвоено при критических ударах.",
+        "SECONDARY_JAVELIN_NAME": "Бросок Копья",
+        "SECONDARY_JAVELIN_DESCRIPTION": "Бросьте <style=cIsDamage>взрывное копьё</style> для <style=cIsDamage>800% урона</style>.",
+        "UTILITY_SPIN_NAME": "Раздирающие Когти",
+        "UTILITY_SPIN_DESCRIPTION": "Поднимитесь в воздух, быстро вращаясь для <style=cIsDamage>300% урона</style>. При приземлении выполните горизонтальный взмах для <style=cIsDamage>800% урона</style>.",
+        "UTILITY_BOLAS_NAME": "Электро Боласы",
+        "UTILITY_BOLAS_DESCRIPTION": "Бросьте электрически заряженные боласы, которые <style=cIsUtility>шокируют</style> ближайших врагов и оставляют <style=cIsUtility>электризующее</style> поле на <style=cIsUtility>10 секунд</style>.",
+        "SPECIAL_COMMAND_NAME": "Отдать Приказ",
+        "SPECIAL_COMMAND_DESCRIPTION": "Подготовьте приказ для Шквала. Вы можете отдать приказ <color=#FF0000>Атаки</color>, <color=#00FF00>Следования</color> или <color=#efeb1c>Особый</color>, нажав клавиши основного, дополнительного или особого навыка соответственно.",
+        "SPECIAL_COMMAND2_NAME": "Отдать Приказ - Замена Утилитарного",
+        "SPECIAL_ATTACK_NAME": "Атака",
+        "SPECIAL_ATTACK_DESCRIPTION": "Направьте внимание Шквала на целевого врага и активируйте <color=#FF0000>Режим Атаки</color>, дающий доступ к пулемётам, наносящим <style=cIsDamage>2x30% урона</style>, и ракетнице, наносящей <style=cIsDamage>150% урона</style>.",
+        "SPECIAL_FOLLOW_NAME": "Следование",
+        "SPECIAL_FOLLOW_DESCRIPTION": "Верните Шквала поближе к себе и активируйте <color=#00FF00>Режим Следования</color>, заставляя его держаться рядом с вами.",
+        "SPECIAL_CANCEL_NAME": "Отменить Режим Команды",
+        "SPECIAL_CANCEL_DESCRIPTION": "Отменяет Режим Команды.",
+        "SQUALL_SPECIAL_GOFORTHROAT_NAME": "В Горло!",
+        "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Прикажите Шквалу многократно атаковать целевого врага для <style=cIsDamage>70% урона</style>. Каждая атака временно снижает <style=cIsDamage>броню</style> и <style=cIsUtility>восстанавливает 1%</style> батареи, удвоено при критических ударах. Этот навык может временно <style=cIsUtility>перегружать</style> батарею.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+    }
+}

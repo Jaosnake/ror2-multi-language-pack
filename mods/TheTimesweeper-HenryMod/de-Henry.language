@@ -1,21 +1,23 @@
-{"de": {
-  "ROB_HENRY_BODY_NAME": "Henry",
-  "ROB_HENRY_BODY_SUBTITLE": "Der Auserwählte",
-  "ROB_HENRY_BODY_LORE": "Beispiel-Lore",
-  "ROB_HENRY_BODY_OUTRO_FLAVOR": "..und so ging er, auf der Suche nach einer neuen Identität.",
-  "ROB_HENRY_BODY_OUTRO_FAILURE": "..und so verschwand er, für immer ein unbeschriebenes Blatt.",
-  "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternativ",
-  "ROB_HENRY_BODY_PASSIVE_NAME": "Henrys Passiv",
-  "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "Beispieltext.",
-  "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "Schwert",
-  "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Agil.</style> Schwinge nach vorne für <style=cIsDamage>280% Schaden</style>.",
-  "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "Pistole",
-  "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Agil.</style> Feuere eine Pistole für <style=cIsDamage>420% Schaden</style>.",
-  "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "Rolle",
-  "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Rolle eine kurze Distanz und erhalte <style=cIsUtility>300 Rüstung</style>. <style=cIsUtility>Während der Rolle kannst du nicht getroffen werden.</style>",
-  "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bombe",
-  "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Wirf eine Bombe für <style=cIsDamage>1600% Schaden</style>.",
-  "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Meisterschaft",
-  "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Besiege das Spiel oder lösche dich als Henry auf Monsoon aus.",
-  "ROB_HENRY_BODY_DESCRIPTION": "Henry ist ein geschickter Kämpfer, der ein breites Arsenal an Waffen einsetzt, um seine Feinde zu besiegen.<color=#CCD3E0>"
-}}
+{
+    "de": {
+        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_SUBTITLE": "Der Auserwählte",
+        "ROB_HENRY_BODY_LORE": "Beispiel-Lore",
+        "ROB_HENRY_BODY_OUTRO_FLAVOR": "..und so ging er, auf der Suche nach einer neuen Identität.",
+        "ROB_HENRY_BODY_OUTRO_FAILURE": "..und so verschwand er, für immer ein unbeschriebenes Blatt.",
+        "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternativ",
+        "ROB_HENRY_BODY_PASSIVE_NAME": "Henrys Passiv",
+        "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "Beispieltext.",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "Schwert",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Agil.</style> Schwinge nach vorne für <style=cIsDamage>280% Schaden</style>.",
+        "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "Pistole",
+        "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Agil.</style> Feuere eine Pistole für <style=cIsDamage>420% Schaden</style>.",
+        "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "Rolle",
+        "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Rolle eine kurze Distanz und erhalte <style=cIsUtility>300 Rüstung</style>. <style=cIsUtility>Während der Rolle kannst du nicht getroffen werden.</style>",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bombe",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Wirf eine Bombe für <style=cIsDamage>1600% Schaden</style>.",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Meisterschaft",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Besiege das Spiel oder lösche dich als Henry auf Monsoon aus.",
+        "ROB_HENRY_BODY_DESCRIPTION": "Henry ist ein geschickter Kämpfer, der ein breites Arsenal an Waffen einsetzt, um seine Feinde zu besiegen.<color=#CCD3E0>"
+    }
+}

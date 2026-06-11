@@ -1,1 +1,5 @@
-ROB_ULTRON_BODY_SUBTITLE: Filtre à café?! <i>Translated by: Jaosnake. Original mod by rob</i>
+{
+    "strings": {
+        "ROB_ULTRON_BODY_SUBTITLE": "Filtre à café?!"
+    }
+}

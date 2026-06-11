@@ -1,25 +1,25 @@
 {
-"zh-CN": {
-"KENKO_UNFORGIVEN_NAME": "Wanderer",
-"KENKO_UNFORGIVEN_DESCRIPTION": "流浪者是一个低门槛高上限的幸存者，可以利用动画取消保持高DPS。<color=#CCD3E0>",
-"KENKO_UNFORGIVEN_SUBTITLE": "不可饶恕者",
-"KENKO_UNFORGIVEN_LORE": "如果你被亚索杀了，那你就是被碾压了。这意味着他必须精确地按照他的条件计算（并执行）这场战斗，考虑到你和他的冷却时间、双方打野的位置、兵线以及整条对线路的'感觉'（这是一种需要数年，甚至数十年时间来磨练的能力，也就是你所谓的'打游戏'）。确实，被亚索击败意味着认识到你遇到了比你更强的人，无论是作为玩家还是作为一个人。你的勇气辜负了你，但亚索玩家是坚硬的钢铁——坚硬、冷酷、可靠——当他拿下一血而你焦急地等待投降投票时，他的大脑仍在全速运转，为近乎无限的可能性准备策略。我现在就拿走我的LP了，下次记得正确地禁用英雄。",
-"KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..于是他离开了，10/0。",
-"KENKO_UNFORGIVEN_OUTRO_FAILURE": "..于是他消失了，0/10。",
-"KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "替代",
-"KENKO_UNFORGIVEN_PASSIVE_NAME": "风之道",
-"KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "移动时积累被动<style=cIsHealing>护盾</style>。在满层时被击中，<style=cIsHealing>护盾</style>会破碎并提供一个<style=cIsHealing>屏障</style>。<style=cIsDamage>暴击率</style>提升<style=cIsDamage>1.5倍</style>。",
-"KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "迅捷打击",
-"KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "向前斩击造成<style=cIsDamage>240%伤害</style>。",
-"KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "钢铁风暴",
-"KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>迅捷。</style>向前刺击造成<style=cIsDamage>260%伤害</style>。命中后获得一层<color=#FFBF66>风暴聚集</color>。在2层时你的下一次<color=#FFBF66>Steel Tempest</color>会发射龙卷风造成<style=cIsDamage>400%伤害</style>。",
-"KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "横扫之刃",
-"KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "冲向敌人造成<style=cIsDamage>150%伤害</style>。每次冲刺后，下一次冲刺额外造成<style=cIsDamage>50%伤害</style>，最多叠加到<style=cIsDamage>200%额外伤害</style>。",
-"KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "最后一息",
-"KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "闪烁到目标或附近的<style=cIsUtility>浮空</style>敌人并快速攻击造成<style=cIsDamage>2x250% + 800%伤害</style>。获得额外<style=cIsDamage>护甲穿透</style>持续6秒。",
-"KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "第一息",
-"KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "闪烁到目标或附近的<style=cIsUtility>浮空</style>敌人并快速攻击造成<style=cIsDamage>2x250% + 800%伤害</style>。获得额外<style=cIsDamage>护甲穿透</style>持续6秒。\n<color=#d299ff>权杖: <style=cIsUtility>重置副技能冷却</style>。被<color=#FFBF66>First Breath</color>击中的敌人可再次成为<color=#FFBF66>Sweeping Blade</color>的目标。</color>",
-"ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: 精通",
-"ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "使用Wanderer通关或在季风难度下抹除自己。"
-}
+    "zh-CN": {
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "流浪者是一个低门槛高上限的幸存者,可以利用动画取消保持高DPS。<color=#CCD3E0>",
+        "KENKO_UNFORGIVEN_SUBTITLE": "不可饶恕者",
+        "KENKO_UNFORGIVEN_LORE": "如果你被亚索杀了,那你就是被碾压了。这意味着他必须精确地按照他的条件计算(并执行)这场战斗,考虑到你和他的冷却时间、双方打野的位置、兵线以及整条对线路的'感觉'(这是一种需要数年,甚至数十年时间来磨练的能力,也就是你所谓的'打游戏')。确实,被亚索击败意味着认识到你遇到了比你更强的人,无论是作为玩家还是作为一个人。你的勇气辜负了你,但亚索玩家是坚硬的钢铁——坚硬、冷酷、可靠——当他拿下一血而你焦急地等待投降投票时,他的大脑仍在全速运转,为近乎无限的可能性准备策略。我现在就拿走我的LP了,下次记得正确地禁用英雄。",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..于是他离开了,10/0。",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..于是他消失了,0/10。",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "替代",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "风之道",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "移动时积累被动<style=cIsHealing>护盾</style>。在满层时被击中,<style=cIsHealing>护盾</style>会破碎并提供一个<style=cIsHealing>屏障</style>。<style=cIsDamage>暴击率</style>提升<style=cIsDamage>1.5倍</style>。",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "迅捷打击",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "向前斩击造成<style=cIsDamage>240%伤害</style>。",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "钢铁风暴",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>迅捷。</style>向前刺击造成<style=cIsDamage>260%伤害</style>。命中后获得一层<color=#FFBF66>风暴聚集</color>。在2层时你的下一次<color=#FFBF66>Steel Tempest</color>会发射龙卷风造成<style=cIsDamage>400%伤害</style>。",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "横扫之刃",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "冲向敌人造成<style=cIsDamage>150%伤害</style>。每次冲刺后,下一次冲刺额外造成<style=cIsDamage>50%伤害</style>,最多叠加到<style=cIsDamage>200%额外伤害</style>。",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "最后一息",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "闪烁到目标或附近的<style=cIsUtility>浮空</style>敌人并快速攻击造成<style=cIsDamage>2x250% + 800%伤害</style>。获得额外<style=cIsDamage>护甲穿透</style>持续6秒。",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "第一息",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "闪烁到目标或附近的<style=cIsUtility>浮空</style>敌人并快速攻击造成<style=cIsDamage>2x250% + 800%伤害</style>。获得额外<style=cIsDamage>护甲穿透</style>持续6秒。\n<color=#d299ff>权杖: <style=cIsUtility>重置副技能冷却</style>。被<color=#FFBF66>First Breath</color>击中的敌人可再次成为<color=#FFBF66>Sweeping Blade</color>的目标。</color>",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
+    }
 }

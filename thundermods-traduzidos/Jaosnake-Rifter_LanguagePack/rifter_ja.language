@@ -1,25 +1,29 @@
-BLAKE_RIFTER_NAME: ãƒªãƒ•ã‚¿ãƒ¼
-BLAKE_RIFTER_SUBTITLE: ãƒªãƒ•ãƒˆæ“è€…
-PRIMARY_GAUNTLET_RANGED: æŠ•å°„ãƒªãƒ•ãƒˆ
-PRIMARY_GAUNTLET_RANGED_DESCRIPTION: é•·è·é›¢ãƒªãƒ•ãƒˆã‚’ç™ºå°„ã—ã€500%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-SECONDARY_FRACTURE: ç ´ç •
-SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>ç ´ç •</style>ã€‚é•·è·é›¢ãƒªãƒ•ãƒˆã‚’ç™ºå°„ã—ã€75%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€æœ€å¤§5å›žã®ç ´ç‰‡ã‚’ç™ºç”Ÿã•ã›ã‚‹ã€‚
-SECONDARY_FAULT_LINE: æ–­å±¤ç·š
-SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>ç ´ç •</style>ã€‚æ–­å±¤ç·šã‚’ä½œæˆã—ã€ãã‚ŒãŒç ´å£Šã•ã‚Œã¦700%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-UTILITY_SLIPSTREAM: æ¬¡å…ƒã‚¹ãƒªãƒƒãƒ—ã‚¹ãƒˆãƒªãƒ¼ãƒ 
-UTILITY_SLIPSTREAM_DESCRIPTION: çŸ­è·é›¢ãƒ†ãƒ¬ãƒãƒ¼ãƒˆã€‚ã‚»ã‚«ãƒ³ãƒ€ãƒªãƒ¼ã‚¹ã‚­ãƒ«ã®ã‚¹ãƒˆãƒƒã‚¯ã‚’å›žå¾©ã™ã‚‹ã€‚
-UTILITY_CHAINED_WORLDS: ç¹‹ãŒã‚ŒãŸä¸–ç•Œ
-UTILITY_CHAINED_WORLDS_DESCRIPTION: ç©ºé–“å†…ã®2ç‚¹ã‚’æŽ¥ç¶šã—ã€æŠ•å°„ç‰©ã‚’è»¢é€ã™ã‚‹ãƒãƒ¼ã‚¿ãƒ«ã‚’ä½œæˆã™ã‚‹ã€‚
-UTILITY_QUANTUM_RIFT: é‡å­ãƒªãƒ•ãƒˆ
-UTILITY_QUANTUM_RIFT_DESCRIPTION: å‘¨å›²ã®ç©ºé–“ã‚’æ­ªã‚ã‚‹é‡å­ãƒªãƒ•ãƒˆã‚’é–‹ãã€‚
-SPECIAL_TIMELOCK: ã‚¿ã‚¤ãƒ ãƒ­ãƒƒã‚¯
-SPECIAL_TIMELOCK_DESCRIPTION: ã‚¨ãƒªã‚¢å†…ã®æ•µã®æ™‚é–“ã‚’ãƒ­ãƒƒã‚¯ã—ã€æ•°ç§’é–“å‡çµã™ã‚‹ã€‚
-SPECIAL_RECURSION: å†å¸°
-SPECIAL_RECURSION_DESCRIPTION: ãƒªãƒ•ãƒˆã‚’è¤‡è£½ã—ã€çŸ­æ™‚é–“å¾Œã«å†ã³åéŸ¿ã•ã›ã‚‹ã€‚
-PASSIVE_RIFT_BOOST: ãƒªãƒ•ãƒˆãƒ–ãƒ¼ã‚¹ãƒˆ
-PASSIVE_RIFT_BOOST_DESCRIPTION: ãƒªãƒ•ãƒˆã‚’é€šéŽã™ã‚‹ã¨ç§»å‹•é€Ÿåº¦ãŒä¸Šæ˜‡ã™ã‚‹ã€‚
-PASSIVE_RIFT_FRACTURE: ãƒªãƒ•ãƒˆç ´ç •
-PASSIVE_RIFT_FRACTURE_DESCRIPTION: ãƒªãƒ•ãƒˆã«å½“ãŸã£ãŸæ•µã¯ç ´ç‰‡ã‚’è“„ç©ã—ã€è¢«ãƒ€ãƒ¡ãƒ¼ã‚¸ãŒå¢—åŠ ã™ã‚‹ã€‚
-MASTERY_SKIN_NAME: ãƒªãƒ•ã‚¿ãƒ¼ï¼šãƒžã‚¹ã‚¿ãƒªãƒ¼
-BLAKE_NEM_RIFTER_NAME: ãƒãƒ¡ã‚·ã‚¹ãƒªãƒ•ã‚¿ãƒ¼
-BLAKE_NEM_RIFTER_SUBTITLE: è…æ•—ã—ãŸãƒªãƒ•ãƒˆ
+{
+    "ja": {
+        "BLAKE_RIFTER_NAME": "リフター",
+        "BLAKE_RIFTER_SUBTITLE": "リフト操者",
+        "PRIMARY_GAUNTLET_RANGED": "投射リフト",
+        "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "長距離リフトを発射し、500%のダメージを与える。",
+        "SECONDARY_FRACTURE": "破砕",
+        "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>破砕</style>。長距離リフトを発射し、75%のダメージを与え、最大5回の破片を発生させる。",
+        "SECONDARY_FAULT_LINE": "断層線",
+        "SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>破砕</style>。断層線を作成し、それが破壊されて700%のダメージを与える。",
+        "UTILITY_SLIPSTREAM": "次元スリップストリーãƒ",
+        "UTILITY_SLIPSTREAM_DESCRIPTION": "短距離テレポート。セカンダリースキルのストックを回復する。",
+        "UTILITY_CHAINED_WORLDS": "繋がれた世界",
+        "UTILITY_CHAINED_WORLDS_DESCRIPTION": "空間内の2点を接続し、投射物を転送するポータルを作成する。",
+        "UTILITY_QUANTUM_RIFT": "量子リフト",
+        "UTILITY_QUANTUM_RIFT_DESCRIPTION": "周囲の空間を歪める量子リフトを開く。",
+        "SPECIAL_TIMELOCK": "タイムロック",
+        "SPECIAL_TIMELOCK_DESCRIPTION": "エリア内の敵の時間をロックし、数秒間凍結する。",
+        "SPECIAL_RECURSION": "再帰",
+        "SPECIAL_RECURSION_DESCRIPTION": "リフトを複製し、短時間後に再び反響させる。",
+        "PASSIVE_RIFT_BOOST": "リフトブースト",
+        "PASSIVE_RIFT_BOOST_DESCRIPTION": "リフトを通過すると移動速度が上昇する。",
+        "PASSIVE_RIFT_FRACTURE": "リフト破砕",
+        "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "リフトに当たった敵は破片を蓄積し、被ダメージが増加する。",
+        "MASTERY_SKIN_NAME": "リフター:マスタリー",
+        "BLAKE_NEM_RIFTER_NAME": "ネメシスリフター",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "腐敗したリフト"
+    }
+}

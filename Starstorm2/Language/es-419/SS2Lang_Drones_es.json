@@ -1,23 +1,23 @@
 {
-    "strings": {
-        "SS2_DRONE_SHOCK_NAME": "Dron de Descarga",
-        "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Dron de Descarga Dañado",
-        "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Reparar Dron de Descarga",
-        "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>Electrocutas/cstyle> enemigos cercanos, interrumpiéndolos y aturdiéndolos.",
-        "SS2_DRONE_SHOCK_DESCRIPTION": "Un compañero comprado con oro que seguirá al superviviente a corta distancia, <style=cIsUtility>electrocutando</style> enemigos, interrumpiéndolos y aturdiéndolos.",
-        "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Dispara una ráfaga eléctrica, causando <style=cIsDamage>100% de daño</style> en un área y <style=cIsUtility>electrocutando</style> enemigos por <style=cIsUtility>5 segundos</style>.",
-        "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
-        "SS2_DRONE_CLONE_NAME": "Dron Duplicador",
-        "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Dron Duplicador Dañado",
-        "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Reparar Dron Duplicador",
-        "SS2_DRONE_CLONE_PICKUP": "Ocasionalmente <style=cIsUtility>duplica</style> objetos cercanos.",
-        "SS2_DRONE_CLONE_DESCRIPTION": "Un compañero comprado con oro que seguirá al superviviente a corta distancia. <style=cIsUtility>Duplica</style> objetos recogidos cercanos.",
-        "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Se canaliza en un objeto cercano. Al completarse, crea un <style=cIsUtility>duplicado</style> del objeto.",
-        "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
-        "SS2_DROIDDRONE_NAME": "Dron de Seguridad",
-        "SS2_DROIDDRONE_PICKUP": "Dispara a enemigos cercanos. <style=cIsUtility>Hereda el tipo de élite</style> del élite asesinado.",
-        "SS2_DROIDDRONE_DESCRIPTION": "Un compañero temporal creado al tener Cabeza de Droide y matar élites que seguirá al superviviente a corta distancia, disparando a enemigos cercanos.",
-        "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
-        "SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
-    }
+  "strings": {
+    "SS2_DRONE_SHOCK_NAME": "Dron de Descarga",
+    "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Dron de Descarga Dañado",
+    "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Reparar Dron de Descarga",
+    "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>Electrocutas/cstyle> enemigos cercanos, interrumpiéndolos y aturdiéndolos.",
+    "SS2_DRONE_SHOCK_DESCRIPTION": "Un compañero comprado con oro que seguirá al superviviente a corta distancia, <style=cIsUtility>electrocutando</style> enemigos, interrumpiéndolos y aturdiéndolos.",
+    "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Dispara una ráfaga eléctrica, causando <style=cIsDamage>100% de daño</style> en un área y <style=cIsUtility>electrocutando</style> enemigos por <style=cIsUtility>5 segundos</style>.",
+    "SS2_DRONE_SHOCK_COMMAND_DESCRIPTION": "",
+    "SS2_DRONE_CLONE_NAME": "Dron Duplicador",
+    "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Dron Duplicador Dañado",
+    "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Reparar Dron Duplicador",
+    "SS2_DRONE_CLONE_PICKUP": "Ocasionalmente <style=cIsUtility>duplica</style> objetos cercanos.",
+    "SS2_DRONE_CLONE_DESCRIPTION": "Un compañero comprado con oro que seguirá al superviviente a corta distancia. <style=cIsUtility>Duplica</style> objetos recogidos cercanos.",
+    "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Se canaliza en un objeto cercano. Al completarse, crea un <style=cIsUtility>duplicado</style> del objeto.",
+    "SS2_DRONE_CLONE_COMMAND_DESCRIPTION": "",
+    "SS2_DROIDDRONE_NAME": "Dron de Seguridad",
+    "SS2_DROIDDRONE_PICKUP": "Dispara a enemigos cercanos. <style=cIsUtility>Hereda el tipo de élite</style> del élite asesinado.",
+    "SS2_DROIDDRONE_DESCRIPTION": "Un compañero temporal creado al tener Cabeza de Droide y matar élites que seguirá al superviviente a corta distancia, disparando a enemigos cercanos.",
+    "SS2_DROIDDRONE_SKILL_DESCRIPTION": "",
+    "SS2_DROIDDRONE_COMMAND_DESCRIPTION": ""
+  }
 }

@@ -7,10 +7,8 @@
         "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Maestria",
         "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..e assim ele se foi, pregando peças no destino mais uma vez.",
         "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..e assim ele desapareceu, sua sorte finalmente tendo acabado.",
-
         "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "Tiro Aleatório",
         "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um tiro aleatório carregado. Quando sem tiros: não faz nada.",
-
         "BODY_OUTRO_FLAVOR": "..e assim ele se foi, pregando peças no destino mais uma vez.",
         "BODY_OUTRO_FAILURE": "..e assim ele desapareceu, sua sorte finalmente tendo acabado.",
         "DEFAULT_SKIN_NAME": "Padrão",

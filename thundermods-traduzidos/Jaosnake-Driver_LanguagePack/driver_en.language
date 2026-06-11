@@ -1,39 +1,43 @@
-ROB_DRIVER_BODY_NAME: Driver
-ROB_DRIVER_BODY_SUBTITLE: Arsenal Driver
-PRIMARY_PISTOL_NAME: Pistol
-PRIMARY_PISTOL_DESCRIPTION: A faulty prototype that can only fire a few shots.
-PRIMARY_MACHINEGUN_NAME: Machinegun
-PRIMARY_MACHINEGUN_DESCRIPTION: Fire rapidly for 120% damage per shot.
-PRIMARY_RIOT_SHOTGUN_DESCRIPTION: Fire a shotgun blast dealing 8x140% damage.
-PRIMARY_BADASS_SHOTGUN_DESCRIPTION: Fire a devastating shotgun blast for 24x140% damage.
-PRIMARY_BAZOOKA_DESCRIPTION: Fire an explosive rocket for 600%-1,200% damage.
-PRIMARY_ARMCANNON_DESCRIPTION: Fire a cannon shot for 1,000% damage.
-PRIMARY_PLASMACANNON_DESCRIPTION: Fire a plasma shot for 1,200% damage.
-PRIMARY_GOLEMGUN_DESCRIPTION: Fire a heavy shot for 800% damage.
-PRIMARY_NEMMANDO_SWORD_DESCRIPTION: Slash enemies ahead with a sword for 160% damage.
-PRIMARY_ARTI_GAUNTLET_NAME: Artificer's Gauntlet
-PRIMARY_ARTI_GAUNTLET_DESCRIPTION: Fire a magma projectile for 350% damage.
-SECONDARY_PISTOL_DESCRIPTION: Fire a secondary pistol for 500% damage.
-SECONDARY_BASH_DESCRIPTION: <style=cIsDamage>Stunning</style>. Stun and push nearby enemies for 250% damage.
-SECONDARY_ROCKETLAUNCHER_ALT_NAME: Rocket Launcher
-SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION: <style=cIsDamage>Stunning</style>. Fire a quick barrage of rockets for 250% damage each.
-SECONDARY_HEAVY_MACHINEGUN_NAME: Heavy Machinegun
-SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION: <style=cIsDamage>Stunning</style>. Throw a grenade that stuns enemies for 800% damage.
-SECONDARY_PLASMACANNON_NAME: Plasma Cannon
-SECONDARY_PLASMACANNON_DESCRIPTION: Fire a charged plasma shot for 1,000% damage.
-SECONDARY_BANDITREVOLVER_DESCRIPTION: Fire a high-caliber revolver for 1,500% damage.
-SECONDARY_LUNARHAMMER_DESCRIPTION: <style=cIsUtility>Agile</style>. Fire a salvo of lunar fragments, dealing 180% damage each.
-SECONDARY_NEMMANDO_DESCRIPTION: Fire dark projectiles for 240% damage.
-SECONDARY_ARTI_GAUNTLET_DESCRIPTION: Fire a burst of ice magic for 600%-2,000% damage.
-UTILITY_DASH_NAME: Dash
-UTILITY_DASH_DESCRIPTION: Dash a short distance. You can hold up to 2 charges.
-SPECIAL_SUPPLY_DROP_NAME: Supply Drop
-SPECIAL_SUPPLY_DROP_DESCRIPTION: Request an airdrop of weapons.
-SPECIAL_GRENADE_NAME: Grenade
-SPECIAL_KNIFE_NAME: Knife
-SPECIAL_KNIFE_DESCRIPTION: <style=cIsUtility>Slashing</style>. <style=cIsUtility>Agile</style>. Slash enemies ahead for 470% damage.
-SPECIAL_DRIVERCOIN_NAME: Driver Coin
-SPECIAL_DRIVERCOIN_DESCRIPTION: Activate a special effect at the cost of coins.
-ROB_DRIVER_BODY_DEFAULT_SKIN_NAME: Default
-ROB_DRIVER_PASSIVE_TOKEN: <style=cKeywordName>Focus</style><style=cSub>Focus greatly increases your damage output, but be careful not to be flanked while aiming.
-ROB_DRIVER_ARSENAL_TOKEN: <style=cKeywordName>Arsenal</style><style=cSub>Switch between weapons using your primary and secondary abilities.
+{
+    "en": {
+        "ROB_DRIVER_BODY_NAME": "Driver",
+        "ROB_DRIVER_BODY_SUBTITLE": "Arsenal Driver",
+        "PRIMARY_PISTOL_NAME": "Pistol",
+        "PRIMARY_PISTOL_DESCRIPTION": "A faulty prototype that can only fire a few shots.",
+        "PRIMARY_MACHINEGUN_NAME": "Machinegun",
+        "PRIMARY_MACHINEGUN_DESCRIPTION": "Fire rapidly for 120% damage per shot.",
+        "PRIMARY_RIOT_SHOTGUN_DESCRIPTION": "Fire a shotgun blast dealing 8x140% damage.",
+        "PRIMARY_BADASS_SHOTGUN_DESCRIPTION": "Fire a devastating shotgun blast for 24x140% damage.",
+        "PRIMARY_BAZOOKA_DESCRIPTION": "Fire an explosive rocket for 600%-1,200% damage.",
+        "PRIMARY_ARMCANNON_DESCRIPTION": "Fire a cannon shot for 1,000% damage.",
+        "PRIMARY_PLASMACANNON_DESCRIPTION": "Fire a plasma shot for 1,200% damage.",
+        "PRIMARY_GOLEMGUN_DESCRIPTION": "Fire a heavy shot for 800% damage.",
+        "PRIMARY_NEMMANDO_SWORD_DESCRIPTION": "Slash enemies ahead with a sword for 160% damage.",
+        "PRIMARY_ARTI_GAUNTLET_NAME": "Artificer's Gauntlet",
+        "PRIMARY_ARTI_GAUNTLET_DESCRIPTION": "Fire a magma projectile for 350% damage.",
+        "SECONDARY_PISTOL_DESCRIPTION": "Fire a secondary pistol for 500% damage.",
+        "SECONDARY_BASH_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Stun and push nearby enemies for 250% damage.",
+        "SECONDARY_ROCKETLAUNCHER_ALT_NAME": "Rocket Launcher",
+        "SECONDARY_ROCKETLAUNCHER_ALT_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Fire a quick barrage of rockets for 250% damage each.",
+        "SECONDARY_HEAVY_MACHINEGUN_NAME": "Heavy Machinegun",
+        "SECONDARY_HEAVY_MACHINEGUN_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Throw a grenade that stuns enemies for 800% damage.",
+        "SECONDARY_PLASMACANNON_NAME": "Plasma Cannon",
+        "SECONDARY_PLASMACANNON_DESCRIPTION": "Fire a charged plasma shot for 1,000% damage.",
+        "SECONDARY_BANDITREVOLVER_DESCRIPTION": "Fire a high-caliber revolver for 1,500% damage.",
+        "SECONDARY_LUNARHAMMER_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire a salvo of lunar fragments, dealing 180% damage each.",
+        "SECONDARY_NEMMANDO_DESCRIPTION": "Fire dark projectiles for 240% damage.",
+        "SECONDARY_ARTI_GAUNTLET_DESCRIPTION": "Fire a burst of ice magic for 600%-2,000% damage.",
+        "UTILITY_DASH_NAME": "Dash",
+        "UTILITY_DASH_DESCRIPTION": "Dash a short distance. You can hold up to 2 charges.",
+        "SPECIAL_SUPPLY_DROP_NAME": "Supply Drop",
+        "SPECIAL_SUPPLY_DROP_DESCRIPTION": "Request an airdrop of weapons.",
+        "SPECIAL_GRENADE_NAME": "Grenade",
+        "SPECIAL_KNIFE_NAME": "Knife",
+        "SPECIAL_KNIFE_DESCRIPTION": "<style=cIsUtility>Slashing</style>. <style=cIsUtility>Agile</style>. Slash enemies ahead for 470% damage.",
+        "SPECIAL_DRIVERCOIN_NAME": "Driver Coin",
+        "SPECIAL_DRIVERCOIN_DESCRIPTION": "Activate a special effect at the cost of coins.",
+        "ROB_DRIVER_BODY_DEFAULT_SKIN_NAME": "Default",
+        "ROB_DRIVER_PASSIVE_TOKEN": "<style=cKeywordName>Focus</style><style=cSub>Focus greatly increases your damage output, but be careful not to be flanked while aiming.",
+        "ROB_DRIVER_ARSENAL_TOKEN": "<style=cKeywordName>Arsenal</style><style=cSub>Switch between weapons using your primary and secondary abilities."
+    }
+}

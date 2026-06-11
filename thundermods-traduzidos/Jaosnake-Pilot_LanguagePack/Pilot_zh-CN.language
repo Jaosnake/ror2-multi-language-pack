@@ -1,46 +1,34 @@
-{ "zh-CN":
-    {
-    "MOFFEIN_PILOT_BODY_NAME" : "é¢†èˆªå‘˜",
-    "MOFFEIN_PILOT_BODY_SUBTITLE" : "ç©ºä¸­çŽ‹ç‰Œ",
-    "MOFFEIN_PILOT_BODY_LORE" : "è”åˆé›†å›¢è´§è¿é‚€è¯·å·²çŸ¥å®‡å®™ä¸­çš„æ‰€æœ‰é¢†èˆªå‘˜å‰æ¥åº”è˜æˆ‘ä»¬çš„é’çé¢†èˆªå‘˜å¼ºåŒ–é›‡ä½£é¡¹ç›®ï¼é¡¹ç›®ç¦åˆ©åŒ…æ‹¬èƒ½å¤Ÿå¸®åŠ©è½»æ¾ç€é™†çš„ç”µå­ä¹‰ä½“å†²å‡»å¼ºåŒ–ï¼Œæ­¦å™¨ä»¥åŠå®‰ä¿åŸ¹è®­è®¤è¯é¡¹ç›®ï¼Œå¤–åŠ å¥¢åŽä¸°å¯Œçš„å‡æœŸæœºä¼šï¼ï¼ˆåº”è˜è€…åº”æœ‰è‡³å°‘5å¹´çš„é£žè¡Œæ“ä½œç»éªŒã€‚ä¸èƒ½ä¿è¯æ‰€æœ‰åº”è˜äººå‘˜èƒ½å¤ŸèŽ·å¾—ç”µå­ä¹‰ä½“ã€‚æ­¦å™¨ä¸Žå®‰ä¿åŸ¹è®­è®¤è¯ä»…å—åˆ°UESè®¤å¯ã€‚ä¸Šæ–‡æ‰€è¿°å†…å®¹é€‚ç”¨äºŽæ‰€æœ‰æƒ…å†µï¼Œæ— è®ºå¯¹åº”æ˜Ÿçƒçš„å¤ªç©ºæ³•æ˜¯å¦æœ‰æ›´æ–°å˜åŠ¨ï¼Œæœ¬é¡¹ç›®å°†ä¸ä¼šæä¾›ä»»ä½•é¢å¤–é€€ä¼‘é‡‘ã€ç¦åˆ©æˆ–å‡æœŸæœºä¼šã€‚ï¼‰",
-    "MOFFEIN_PILOT_BODY_DESCRIPTION" : "é¢†èˆªå‘˜æ˜¯ä¸€åç©ºä¸­æˆ˜æ–—æœºé©¾é©¶å‘˜ï¼Œç²¾äºŽä»Žç©ºä¸­é™ä¸‹é›¨ç‚¹èˆ¬çš„ä¼¤å®³ã€‚<style=cSub>\r\n\r\n< ! > é¢†èˆªå‘˜å¯ä»¥é€šè¿‡ä¿æŒåœ¨ç©ºä¸­æ¥é¿å¼€å±é™©ã€‚å·§å¦™ä½¿ç”¨ä»–çš„æŠ€èƒ½å°†è®©ä½ æœ€å¤§é™åº¦åœ°å»¶é•¿æ»žç©ºæ—¶é—´ã€‚\r\n\r\n< ! > å‘çŽ°ç›®æ ‡ï¼å¯ç”¨äºŽç¼“å†²è½åœ°ã€‚\r\n\r\n< ! > å¿«é€Ÿéƒ¨ç½²åœ¨åœ°é¢ä½¿ç”¨æ—¶å¯ä»¥å‘ä¸Šè…¾ç©ºï¼Œåœ¨ç©ºä¸­ä½¿ç”¨æ—¶åˆ™å‘å‰å†²åˆºã€‚\r\n\r\n< ! > ä½¿ç”¨ç©ºä¸­æ‰“å‡»å°†æ•Œäººå‡»é£žè‡³ç©ºä¸­ï¼Œå†ç»“åˆå‘çŽ°ç›®æ ‡ï¼åœ¨ç©ºä¸­è¿žå‡»ä»–ä»¬ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "..äºŽæ˜¯ä»–ç¦»å¼€äº†ï¼Œå°†å¤©ç©ºçš„æ¢¦æƒ³ç•™åœ¨äº†ä¸‹æ–¹ã€‚",
-    "MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..äºŽæ˜¯ä»–æ¶ˆå¤±äº†ï¼Œå¤©ç©ºæ°¸è¿œé¥ä¸å¯åŠã€‚",
-    "MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "..äºŽæ˜¯ä»–æ¶ˆå¤±äº†ï¼Œå¤©ç©ºæ°¸è¿œé¥ä¸å¯åŠã€‚",
-    
-    "MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "é›†æŸå°„å‡»",
-    "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "å¼€ç«å°„å‡»ï¼Œé€ æˆ<style=cIsDamage>160%ä¼¤å®³</style>ã€‚æ¯ç¬¬ä¸‰å‡»ä¼š<style=cIsDamage>çˆ†ç‚¸</style>ï¼Œé€ æˆ<style=cIsDamage>320%ä¼¤å®³</style>ã€‚",
-    "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "å¼€ç«å°„å‡»ï¼Œé€ æˆ<style=cIsDamage>160%ä¼¤å®³</style>ã€‚æ¯ç¬¬ä¸‰å‡»ä¼šé€ æˆ<style=cIsDamage>320%ä¼¤å®³</style>å¹¶<style=cIsDamage>ç©¿é€</style>ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "å¿«é€Ÿå¼€ç«",
-    "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚å¿«é€Ÿå¼€ç«å°„å‡»ï¼Œé€ æˆ<style=cIsDamage>140%ä¼¤å®³</style>ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "æ¶ˆéŸ³å°„å‡»",
-    "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>å± æˆ®è€…</style>ã€‚ä½¿ç”¨æ¶ˆéŸ³æ‰‹æžªå°„å‡»ï¼Œé€ æˆ<style=cIsDamage>100%ä¼¤å®³</style>ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "å‘çŽ°ç›®æ ‡ï¼",
-    "MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "å°†æ­¦å™¨å˜å½¢ä¸º<style=cIsDamage>ç©¿é€æ€§æ™ºèƒ½æžª</style>ï¼Œé€ æˆ<style=cIsDamage>3x160%ä¼¤å®³</style>ã€‚å¯¹<style=cIsUtility>ç©ºä¸­</style>ç›®æ ‡é€ æˆçš„ä¼¤å®³æé«˜<style=cIsDamage>50%</style>ã€‚æœ€å¤šå¯å‚¨å­˜2å‘ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "æŠ•å¼¹ï¼",
-    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "å°†æ­¦å™¨å˜å½¢ä¸º<style=cIsDamage>èƒ½é‡æ¦´å¼¹å‘å°„å™¨</style>ï¼Œé€ æˆ<style=cIsDamage>480%ä¼¤å®³</style>ã€‚åœ¨<style=cIsUtility>ç©ºä¸­</style>æ—¶ï¼Œæ”¹ä¸ºé€ æˆ<style=cIsDamage>3x220%ä¼¤å®³</style>ã€‚æœ€å¤šå¯å‚¨å­˜2å‘ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_UTILITY_NAME" : "å¿«é€Ÿéƒ¨ç½²",
-    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>çœ©æ™•</style>ã€‚è…¾ç©ºè€Œèµ·å¹¶<style=cIsUtility>æ‰“å¼€é™è½ä¼ž</style>ã€‚åœ¨åŠç©ºä¸­ä½¿ç”¨æ­¤æŠ€èƒ½ä¼šä»¥æ›´å¼ºçš„<style=cIsUtility>å‰å†²åŠ›</style>ä¸ºä»£ä»·ï¼Œ<style=cIsHealth>å‡å°‘å‡åŠ›</style>ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "ç‰¹æŠ€é£žè¡Œ",
-    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>å‘å‰å†²åˆº</style>å¹¶å¯ä»¥<style=cIsUtility>ç´§è´´å¢™ä½“</style>ï¼ŒåŒæ—¶èŽ·å¾—<style=cIsDamage>30%æ”»é€Ÿ</style>åŠ æˆã€‚ä»Žå¢™ä½“<style=cIsUtility>è·³ä¸‹</style>æ—¶ä¼šå‘å‰çªè¿›ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "ç©ºä¸­æ‰“å‡»",
-    "MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "<style=cIsUtility>å†²åˆº</style>å¹¶åœ¨<style=cIsDamage>è„šä¸‹</style>æ”¾ç½®ä¸€é¢—ç‚¸å¼¹ï¼Œ<style=cIsDamage>å°†æ•Œäººå‡»é£žè‡³ç©ºä¸­</style>ï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚å¯ä»¥è§¦å‘<style=cIsDamage>3</style>æ¬¡ã€‚æœ€å¤šå¯å‚¨å­˜2å‘ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "å¼ºåŠ›æ‰“å‡»",
-    "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "<style=cIsUtility>å†²åˆº</style>å¹¶åœ¨<style=cIsDamage>è„šä¸‹</style>æ”¾ç½®ä¸€é¢—ç‚¸å¼¹ï¼Œ<style=cIsDamage>å°†æ•Œäººå‡»é£žè‡³ç©ºä¸­</style>ï¼Œé€ æˆ<style=cIsDamage>800%ä¼¤å®³</style>ã€‚å¯ä»¥è§¦å‘<style=cIsDamage>6</style>æ¬¡ã€‚æœ€å¤šå¯å‚¨å­˜2å‘ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "ç©ºä¸­æ”¯æ´",
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "æ ‡è®°è½°ç‚¸ä¸€ç‰‡åŒºåŸŸï¼Œé€ æˆ<style=cIsDamage>4x400%ä¼¤å®³</style>ï¼Œå¹¶åœ¨æœ€åŽä¸€å‡»æ—¶<style=cIsDamage>å°†æ•Œäººå‡»é£žè‡³ç©ºä¸­</style>ã€‚",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "ç©ºä¸­å¼¹å¹•",
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "æ ‡è®°è½°ç‚¸ä¸€ç‰‡åŒºåŸŸï¼Œé€ æˆ<style=cIsDamage>8x400%ä¼¤å®³</style>ï¼Œå¹¶åœ¨æœ€åŽä¸€å‡»æ—¶<style=cIsDamage>å°†æ•Œäººå‡»é£žè‡³ç©ºä¸­</style>ã€‚",
+{
+    "zh-CN": {
+        "MOFFEIN_PILOT_BODY_NAME": "领航员",
+        "MOFFEIN_PILOT_BODY_SUBTITLE": "空中王牌",
+        "MOFFEIN_PILOT_BODY_LORE": "联合集团货运邀请已知宇宙中的所有领航员前来应聘我们的青睐领航员强化雇佣项目!项目福利包括能够帮助轻松着陆的电子义体冲击强化,武器以及安保培训认证项目,外加奢华丰富的假期机会!(应聘者应有至少5年的飞行操作经验。不能保证所有应聘人员能够获得电子义体。武器与安保培训认证仅受到UES认可。上文所述内容适用于所有情况,无论对应星球的太空法是否有更新变动,本项目将不会提供任何额外退休金、福利或假期机会。)",
+        "MOFFEIN_PILOT_BODY_DESCRIPTION": "领航员是一名空中战斗机驾驶员,精于从空中降下雨点般的伤害。<style=cSub>\r\n\r\n< ! > 领航员可以通过保持在空中来避开危险。巧妙使用他的技能将让你最大限度地延长滞空时间。\r\n\r\n< ! > 发现目标!可用于缓冲落地。\r\n\r\n< ! > 快速部署在地面使用时可以向上腾空,在空中使用时则向前冲刺。\r\n\r\n< ! > 使用空中打击将敌人击飞至空中,再结合发现目标!在空中连击他们。",
+        "MOFFEIN_PILOT_BODY_OUTRO_FLAVOR": "..于是他离开了,将天空的梦想留在了下方。",
+        "MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..于是他消失了,天空永远遥不可及。",
+        "MOFFEIN_PILOT_BODY_OUTRO_FAILURE": "..于是他消失了,天空永远遥不可及。",
+        "MOFFEIN_PILOT_BODY_PRIMARY_NAME": "集束射击",
+        "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION": "开火射击,造成<style=cIsDamage>160%伤害</style>。每第三击会<style=cIsDamage>爆炸</style>,造成<style=cIsDamage>320%伤害</style>。",
+        "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION": "开火射击,造成<style=cIsDamage>160%伤害</style>。每第三击会造成<style=cIsDamage>320%伤害</style>并<style=cIsDamage>穿透</style>。",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME": "快速开火",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>灵巧</style>。快速开火射击,造成<style=cIsDamage>140%伤害</style>。",
+        "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME": "消音射击",
+        "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION": "<style=cIsDamage>屠戮者</style>。使用消音手枪射击,造成<style=cIsDamage>100%伤害</style>。",
+        "MOFFEIN_PILOT_BODY_SECONDARY_NAME": "发现目标!",
+        "MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION": "将武器变形为<style=cIsDamage>穿透性智能枪</style>,造成<style=cIsDamage>3x160%伤害</style>。对<style=cIsUtility>空中</style>目标造成的伤害提高<style=cIsDamage>50%</style>。最多可储存2发。",
+        "MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME": "投弹!",
+        "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION": "将武器变形为<style=cIsDamage>能量榴弹发射器</style>,造成<style=cIsDamage>480%伤害</style>。在<style=cIsUtility>空中</style>时,改为造成<style=cIsDamage>3x220%伤害</style>。最多可储存2发。",
+        "MOFFEIN_PILOT_BODY_UTILITY_NAME": "快速部署",
+        "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION": "<style=cIsDamage>眩晕</style>。腾空而起并<style=cIsUtility>打开降落伞</style>。在半空中使用此技能会以更强的<style=cIsUtility>前冲力</style>为代价,<style=cIsHealth>减少升力</style>。",
+        "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME": "特技飞行",
+        "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>向前冲刺</style>并可以<style=cIsUtility>紧贴墙体</style>,同时获得<style=cIsDamage>30%攻速</style>加成。从墙体<style=cIsUtility>跳下</style>时会向前突进。",
+        "MOFFEIN_PILOT_BODY_SPECIAL_NAME": "空中打击",
+        "MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION": "<style=cIsUtility>冲刺</style>并在<style=cIsDamage>脚下</style>放置一颗炸弹,<style=cIsDamage>将敌人击飞至空中</style>,造成<style=cIsDamage>600%伤害</style>。可以触发<style=cIsDamage>3</style>次。最多可储存2发。",
+        "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME": "强力打击",
+        "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsUtility>冲刺</style>并在<style=cIsDamage>脚下</style>放置一颗炸弹,<style=cIsDamage>将敌人击飞至空中</style>,造成<style=cIsDamage>800%伤害</style>。可以触发<style=cIsDamage>6</style>次。最多可储存2发。",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME": "空中支援",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION": "标记轰炸一片区域,造成<style=cIsDamage>4x400%伤害</style>,并在最后一击时<style=cIsDamage>将敌人击飞至空中</style>。",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME": "空中弹幕",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION": "标记轰炸一片区域,造成<style=cIsDamage>8x400%伤害</style>,并在最后一击时<style=cIsDamage>将敌人击飞至空中</style>。"
     }
 }

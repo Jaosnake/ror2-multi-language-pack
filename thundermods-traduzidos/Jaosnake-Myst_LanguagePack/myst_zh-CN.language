@@ -1,102 +1,98 @@
-JAVANGLE_MYST_BODY_NAME: å¼¥æ–¯ç‰¹
-JAVANGLE_MYST_BODY_SUBTITLE: ç¥žç§˜å¥¥æœ¯å¸ˆ
-JAVANGLE_MYST_BODY_DESCRIPTION: å¼¥æ–¯ç‰¹æ˜¯ä¸€åå¤šæ‰å¤šè‰ºçš„å¹¸å­˜è€…ï¼Œä½¿ç”¨<style=cIsUtility>é­”æ³•åŠ›é‡</style>æ¥è¿ç”¨å„ç§è¶…è‡ªç„¶æŠ€èƒ½ï¼Œå¹¶ä½¿ç”¨<style=cIsUtility>æžé™</style>æ¥é‡Šæ”¾å¼ºåŠ›çš„è¶…çº§æ‹›å¼ã€‚
-JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
-JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: ç²¾é€š
-JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: å¤§å®—å¸ˆ
-
-BASEFORM_SLASH_NAME: æ–©é¦–å‰‘æ–©
-BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚æ–©å‡»ä½ é¢å‰çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>165%ä¼¤å®³</style>ã€‚
-BASEFORM_DASH_NAME: å†²åˆº
-BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚å‘ä»»æ„æ°´å¹³æ–¹å‘æ»‘è¡Œä¸€æ®µçŸ­è·ç¦»ã€‚
-BASEFORM_BLOCK_NAME: å¹»å½±
-BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>æŒ‰ä½</style>ä»¥å¤§å¹…å‡å°‘æ­£é¢å—åˆ°çš„ä¼¤å®³ï¼Œæ ¹æ®æ ¼æŒ¡çš„ä¼¤å®³èŽ·å¾—<style=cIsUtility>æžé™</style>ã€‚è‹¥<style=cIsUtility>æ—¶æœºæ­£ç¡®</style>ï¼šæŠµæ¶ˆæ¥è‡ªæ‰€æœ‰æ–¹å‘çš„ä¼¤å®³ï¼Œå†·å´æŠ€èƒ½ï¼Œæ ¹æ®æ ¼æŒ¡çš„ä¼¤å®³æ¢å¤<style=cIsUtility>é­”æ³•åŠ›é‡</style>ï¼ŒèŽ·å¾—<style=cIsUtility>åŒå€æžé™</style>å¹¶å‘é™„è¿‘æ•Œäººåå°„æœ€å¤š<style=cIsDamage>3å€æ ¼æŒ¡ä¼¤å®³</style>ã€‚
-BASEFORM_LIMITMENU_NAME: æžé™èœå•
-BASEFORM_LIMITMENU_DESCRIPTION: æ‰“å¼€æžé™èœå•ï¼Œå…è®¸ä½¿ç”¨å·²è£…å¤‡çš„<style=cIsUtility>æžé™çªç ´</style>ã€‚
-
-JAVANGLE_MYST_BODY_UI_MAGICNAME: é­”æ³•èœå•
-JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: æ‰“å¼€é­”æ³•èœå•ï¼Œå…è®¸ä½¿ç”¨å·²è£…å¤‡çš„æ³•æœ¯ã€‚
-JAVANGLE_MYST_BODY_UI_LIMITNAME: æžé™èœå•
-JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: æ‰“å¼€æžé™èœå•ï¼Œå…è®¸ä½¿ç”¨å·²è£…å¤‡çš„æžé™çªç ´ã€‚
-JAVANGLE_MYST_BODY_UI_SHOPRANDOM: éšæœº
-JAVANGLE_MYST_BODY_UI_SHOPSPELL: æ³•æœ¯
-JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: æ”¯æ´
-JAVANGLE_MYST_BODY_UI_SHOPLIMIT: æžé™
-JAVANGLE_MYST_BODY_UI_SHOPFINISHER: ç»ˆç»“æŠ€
-JAVANGLE_MYST_BODY_UI_SORT: æŽ’åº
-JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: æ•™ç¨‹
-JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: å¼¥æ–¯ç‰¹ä½¿ç”¨ä¸¤ä¸ªèœå•æ¥è¿ç”¨å·²è£…å¤‡çš„<style=cIsUtility>é­”æ³•</style>å¹¶é‡Šæ”¾å…¶ä¸­å‚¨å­˜çš„æŠ€èƒ½ã€‚
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: é­”æ™¶çŸ³èƒŒåŒ…
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: åç§°
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: ç­‰çº§
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: åˆ†è§£
-JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: å·²è£…å¤‡é­”æ™¶çŸ³
-
-JOBCLASS_MYSTIC_NAME: ç§˜æœ¯å¸ˆ
-JOBCLASS_MYSTIC_DESCRIPTION: ä»¥å…¨èƒ½å¥—è£…å¼€å§‹æ¸¸æˆï¼Œå„æ–¹é¢éƒ½æœ‰ä¸€äº›ã€‚
-JOBCLASS_MYSTIC_KEYWORD: ç§˜æœ¯å¸ˆ
-JOBCLASS_WARRIOR_NAME: æˆ˜å£«
-JOBCLASS_WARRIOR_DESCRIPTION: ä»¥ä¸“æ³¨äºŽä½¿ç”¨ç»ˆç»“æŠ€æ”»å‡»çš„å¥—è£…å¼€å§‹æ¸¸æˆã€‚
-JOBCLASS_WARRIOR_KEYWORD: æˆ˜å£«
-JOBCLASS_SORCERER_NAME: æœ¯å£«
-JOBCLASS_SORCERER_DESCRIPTION: ä»¥ä¸“æ³¨äºŽæ³•æœ¯çš„å¥—è£…å¼€å§‹æ¸¸æˆã€‚
-JOBCLASS_SORCERER_KEYWORD: æœ¯å£«
-JOBCLASS_BABY_NAME: å©´å„¿
-JOBCLASS_BABY_DESCRIPTION: ä»¥æ²¡æœ‰é­”æ³•çš„çŠ¶æ€å¼€å§‹æ¸¸æˆã€‚
-JOBCLASS_BABY_KEYWORD: å©´å„¿
-JOBCLASS_CHAD_NAME: çŒ›ç”·
-JOBCLASS_CHAD_DESCRIPTION: ä»¥æ²¡æœ‰é­”æ³•çš„çŠ¶æ€å¼€å§‹æ¸¸æˆã€‚
-JOBCLASS_CHAD_KEYWORD: çŒ›ç”·
-
-MAGICITE_FIREBALL_NAME: ç«çƒæœ¯
-MAGICITE_FIREBALL_DESCRIPTION: å‘ç›®æ ‡å‘å°„ä¸€æžšè·Ÿè¸ªç«çƒï¼Œæ’žå‡»æ—¶çˆ†ç‚¸ï¼Œé€ æˆä¼¤å®³å¹¶<style=cIsDamage>ç‚¹ç‡ƒ</style>æ•ˆæžœåŒºåŸŸå†…çš„æ•Œäººã€‚
-MAGICITE_CALL_LIGHTNING_NAME: å¬å”¤é—ªç”µ
-MAGICITE_CALL_LIGHTNING_DESCRIPTION: åœ¨ç›®æ ‡ä¸Šæ–¹å¬å”¤ä¸€é“é—ªç”µï¼Œé€ æˆä¼¤å®³å¹¶å°†ç©ºä¸­æ•Œäººå‡»è½åœ°é¢ã€‚
-MAGICITE_CONE_OF_FROST_NAME: å†°éœœé”¥
-MAGICITE_CONE_OF_FROST_DESCRIPTION: å¬å”¤ä¸€é“å†°å†·çš„é”¥å½¢é£Žï¼Œé€ æˆä¼¤å®³å¹¶<style=cIsDamage>å†»ç»“</style>ä½ é¢å‰çš„æ•Œäººã€‚
-MAGICITE_FORTIFY_NAME: å¼ºåŒ–
-MAGICITE_FORTIFY_DESCRIPTION: ç»è¿‡çŸ­æš‚å¼•å¯¼åŽï¼šä¸ºä½ å’Œç›®æ ‡å‹å†›æä¾›å¼ºå¤§çš„<style=cIsUtility>æŠ¤ç”²</style>å¢žç›Šã€‚
-MAGICITE_MEND_WOUNDS_NAME: æ²»æ„ˆä¼¤å£
-MAGICITE_MEND_WOUNDS_DESCRIPTION: ç»è¿‡çŸ­æš‚å¼•å¯¼åŽï¼šä¸ºä½ å’Œç›®æ ‡å‹å†›æ¢å¤<style=cIsHealing>æœ€å¤§ç”Ÿå‘½å€¼çš„50%</style>ã€‚
-MAGICITE_MAGNET_NAME: ç£åŠ›
-MAGICITE_MAGNET_DESCRIPTION: å¬å”¤ä¸€ä¸ªç£åœºï¼Œå°†ç›®æ ‡å‘¨å›´å¤§èŒƒå›´å†…çš„æ•Œäººæ‹‰å‘ç›®æ ‡ã€‚
-MAGICITE_HASTE_NAME: åŠ é€Ÿ
-MAGICITE_HASTE_DESCRIPTION: ç»è¿‡çŸ­æš‚å¼•å¯¼åŽï¼šä¸ºä½ å’Œç›®æ ‡å‹å†›æä¾›ç§»åŠ¨é€Ÿåº¦å’Œæ”»å‡»é€Ÿåº¦åŠ æˆã€‚
-MAGICITE_MAGIC_MISSILE_NAME: é­”æ³•é£žå¼¹
-MAGICITE_MAGIC_MISSILE_DESCRIPTION: å‘å°„ä¸€è¿žä¸²è·Ÿè¸ªé­”æ³•å¼¹ï¼Œè‡ªåŠ¨å¯»æ‰¾ç›®æ ‡ã€‚é­”æ³•å€¼è¶Šé«˜ï¼Œå‘å°„çš„å¼¹å¤´è¶Šå¤šã€‚
-MAGICITE_ECLIPSE_GATE_NAME: èš€ç•Œé—¨
-MAGICITE_ECLIPSE_GATE_DESCRIPTION: å¬å”¤ä¸€é“æš—å½±åŠ›é‡ç¢Žç‰‡ï¼Œæ ¹æ®ç¼ºå¤±çš„é­”æ³•å€¼å¯¹ç›®æ ‡é€ æˆä¼¤å®³ã€‚
-MAGICITE_ULTIMA_NAME: ç©¶æž
-MAGICITE_ULTIMA_DESCRIPTION: ç»è¿‡çŸ­æš‚å¼•å¯¼åŽï¼šæ¶ˆè€—æ‰€æœ‰å‰©ä½™é­”æ³•åŠ›é‡ï¼Œåˆ›é€ ä¸€ä¸ªå·¨å¤§çš„èƒ½é‡æ¼©æ¶¡ï¼Œåœ¨é•¿æ—¶é—´å»¶è¿ŸåŽå¯¹å¤§èŒƒå›´å†…æ‰€æœ‰æ•Œäººé€ æˆæ¯ç­æ€§ä¼¤å®³ã€‚
-
-MAGICITE_FATED_CIRCLE_NAME: å‘½è¿ä¹‹çŽ¯
-MAGICITE_FATED_CIRCLE_DESCRIPTION: æ—‹è½¬æ”»å‡»ï¼Œçœ©æ™•å¹¶æ‹‰æ‹½æ•Œäººï¼ŒéšåŽç«ç„°çˆ†ç‚¸å°†å…¶å‡»é€€ï¼Œé€ æˆå¤§é‡ä¼¤å®³ã€‚
-MAGICITE_EXPLOSION_NAME: çˆ†ç‚¸
-MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>ï¼ˆç»ˆç»“æŠ€æ ¹æ®å¼¥æ–¯ç‰¹å¤„äºŽåœ°é¢æˆ–ç©ºä¸­è€Œæœ‰æ‰€ä¸åŒï¼‰</style>ã€‚ä¿æŒä½ç½®å¹¶å¬å”¤å…‰ä¹‹çƒçŽ¯ç»•ä½ ï¼Œå¯¹é™„è¿‘æ•Œäººé€ æˆä¼¤å®³å¹¶çœ©æ™•ã€‚
-MAGICITE_CHALLENGING_SHOUT_NAME: æŒ‘æˆ˜æ€’å¼
-MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: å‘å‡ºä¸€å£°å‘½ä»¤æ€§çš„æˆ˜å¼ï¼Œå‰Šå¼±å¹¶å°†æ•Œäººæ‹‰å‘ä½ ã€‚
-MAGICITE_BLADE_DANCE_NAME: åˆ€é”‹ä¹‹èˆž
-MAGICITE_BLADE_DANCE_DESCRIPTION: ä¸€æ®µè‰ºæœ¯æ€§çš„æ–©å‡»è¿žå¥ï¼ŒæŽ¨åŠ¨ä½¿ç”¨è€…å¹¶å¿«é€Ÿé€ æˆä¼¤å®³ã€‚
-MAGICITE_JUDGEMENT_CUT_NAME: è£å†³æ–©å‡»
-MAGICITE_JUDGEMENT_CUT_DESCRIPTION: å˜å¾—æ— å½¢ï¼Œåœ¨æ•ˆæžœåŒºåŸŸå†…å¤šæ¬¡æ–©å‡»ï¼Œæ”»å‡»é€Ÿåº¦è¶Šé«˜ï¼Œæ–©å‡»æ¬¡æ•°è¶Šå¤šã€‚
-MAGICITE_SHILLELAGH_NAME: æ©¡æœ¨æ£
-MAGICITE_SHILLELAGH_DESCRIPTION: åœ¨<style=cIsUtility>é­”æ³•å……èƒ½</style>çŠ¶æ€ä¸‹ï¼šé€ æˆå¤§é‡ä¼¤å®³å¹¶æ¢å¤é­”æ³•åŠ›é‡ã€‚ä½†é™¤æ­¤ä¹‹å¤–ï¼Œè¡¨çŽ°å¹³å¹³ã€‚
-
-MAGICITE_BLASTING_ZONE_NAME: çˆ†è£‚åœ°å¸¦
-MAGICITE_BLASTING_ZONE_DESCRIPTION: å¬å”¤ä¸€ä¸ªå·¨å¤§çš„åŠ›é‡ä¹‹æŸ±åŒ…è£¹æ–©é¦–å‰‘ï¼Œç„¶åŽæŒ¥åŠ¨å‰‘åˆƒç ¸å‘ä½ é¢å‰çš„æ•Œäººï¼Œåœ¨å¹¿èŒƒå›´å†…é€ æˆæ¯ç­æ€§ä¼¤å®³ã€‚
-MAGICITE_BERSERK_FORM_NAME: ç‹‚æˆ˜å£«å½¢æ€
-MAGICITE_BERSERK_FORM_DESCRIPTION: å¼¥æ–¯ç‰¹é™·å…¥ç‹‚æ€’ï¼ŒèŽ·å¾—æå‡çš„ç§»åŠ¨é€Ÿåº¦å’Œè·³è·ƒé«˜åº¦ï¼Œä»¥åŠä¸“æ³¨äºŽæ”»å‡»çš„æ‹›å¼ç»„åˆã€‚
-MAGICITE_JUDGEMENT_CUT_END_NAME: ç»ˆç„‰è£å†³æ–©
-MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: å°†æ–©é¦–å‰‘æ”¶å…¥éž˜ä¸­ï¼Œç§¯èšèƒ½é‡ï¼Œç„¶åŽé‡Šæ”¾å‡ºä¸€è¿žä¸²é—ªç”µèˆ¬çš„æ–©å‡»ï¼Œåœ¨å»¶è¿ŸåŽé€ æˆæ¯ç­æ€§ä¼¤å®³ã€‚
-MAGICITE_POWER_WORD_KILL_NAME: æ€æˆ®å’’
-MAGICITE_POWER_WORD_KILL_DESCRIPTION: ç»è¿‡çŸ­æš‚å¼•å¯¼åŽï¼š<style=cIsDamage>ç«‹å³æ¶ˆç­</style>ç›®æ ‡ã€‚
-
-MAGICITE_MP_THRIFT_NAME: é­”æ³•èŠ‚çº¦
-MAGICITE_MP_THRIFT_DESCRIPTION: ç»‘å®šçš„æ³•æœ¯æ¶ˆè€—æ›´å°‘é­”æ³•å€¼ã€‚
-MAGICITE_MP_TURBO_NAME: é­”æ³•æ¶¡è½®
-MAGICITE_MP_TURBO_DESCRIPTION: ç»‘å®šçš„æ³•æœ¯é€ æˆæ›´å¤šä¼¤å®³å¹¶æ¶ˆè€—æ›´å¤šé­”æ³•å€¼ã€‚
-MAGICITE_LIMIT_SYPHON_NAME: æžé™è™¹å¸
-MAGICITE_LIMIT_SYPHON_DESCRIPTION: æ ¹æ®æ³•æœ¯æ¶ˆè€—æä¾›æžé™å€¼ã€‚
-
-JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: é—ªç”µæ•°é‡ï¼š
-JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% x æ ¼æŒ¡æ¬¡æ•°
+{
+    "zh-CN": {
+        "JAVANGLE_MYST_BODY_NAME": "弥斯特",
+        "JAVANGLE_MYST_BODY_SUBTITLE": "神秘奥术师",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "弥斯特是一名多才多艺的幸存者,使用<style=cIsUtility>魔法力量</style>来运用各种超自然技能,并使用<style=cIsUtility>极限</style>来释放强力的超级招式。",
+        "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "默认",
+        "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "精通",
+        "JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME": "大宗师",
+        "BASEFORM_SLASH_NAME": "斩首剑斩",
+        "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>灵巧</style>。斩击你面前的敌人,造成<style=cIsDamage>165%伤害</style>。",
+        "BASEFORM_DASH_NAME": "冲刺",
+        "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>灵巧</style>。向任意水平方向滑行一段短距离。",
+        "BASEFORM_BLOCK_NAME": "幻影",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>按住</style>以大幅减少正面受到的伤害,根据格挡的伤害获得<style=cIsUtility>极限</style>。若<style=cIsUtility>时机正确</style>:抵消来自所有方向的伤害,冷却技能,根据格挡的伤害恢复<style=cIsUtility>魔法力量</style>,获得<style=cIsUtility>双倍极限</style>并向附近敌人反射最多<style=cIsDamage>3倍格挡伤害</style>。",
+        "BASEFORM_LIMITMENU_NAME": "极限菜单",
+        "BASEFORM_LIMITMENU_DESCRIPTION": "打开极限菜单,允许使用已装备的<style=cIsUtility>极限突破</style>。",
+        "JAVANGLE_MYST_BODY_UI_MAGICNAME": "魔法菜单",
+        "JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION": "打开魔法菜单,允许使用已装备的法术。",
+        "JAVANGLE_MYST_BODY_UI_LIMITNAME": "极限菜单",
+        "JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION": "打开极限菜单,允许使用已装备的极限突破。",
+        "JAVANGLE_MYST_BODY_UI_SHOPRANDOM": "随机",
+        "JAVANGLE_MYST_BODY_UI_SHOPSPELL": "法术",
+        "JAVANGLE_MYST_BODY_UI_SHOPSUPPORT": "支援",
+        "JAVANGLE_MYST_BODY_UI_SHOPLIMIT": "极限",
+        "JAVANGLE_MYST_BODY_UI_SHOPFINISHER": "终结技",
+        "JAVANGLE_MYST_BODY_UI_SORT": "排序",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALTITLE": "教程",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION": "弥斯特使用两个菜单来运用已装备的<style=cIsUtility>魔法</style>并释放其中储存的技能。",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY": "魔晶石背包",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME": "名称",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL": "等级",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP": "分解",
+        "JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES": "已装备魔晶石",
+        "JOBCLASS_MYSTIC_NAME": "秘术师",
+        "JOBCLASS_MYSTIC_DESCRIPTION": "以全能套装开始游戏,各方面都有一些。",
+        "JOBCLASS_MYSTIC_KEYWORD": "秘术师",
+        "JOBCLASS_WARRIOR_NAME": "战士",
+        "JOBCLASS_WARRIOR_DESCRIPTION": "以专注于使用终结技攻击的套装开始游戏。",
+        "JOBCLASS_WARRIOR_KEYWORD": "战士",
+        "JOBCLASS_SORCERER_NAME": "术士",
+        "JOBCLASS_SORCERER_DESCRIPTION": "以专注于法术的套装开始游戏。",
+        "JOBCLASS_SORCERER_KEYWORD": "术士",
+        "JOBCLASS_BABY_NAME": "婴儿",
+        "JOBCLASS_BABY_DESCRIPTION": "以没有魔法的状态开始游戏。",
+        "JOBCLASS_BABY_KEYWORD": "婴儿",
+        "JOBCLASS_CHAD_NAME": "猛男",
+        "JOBCLASS_CHAD_DESCRIPTION": "以没有魔法的状态开始游戏。",
+        "JOBCLASS_CHAD_KEYWORD": "猛男",
+        "MAGICITE_FIREBALL_NAME": "火球术",
+        "MAGICITE_FIREBALL_DESCRIPTION": "向目标发射一枚跟踪火球,撞击时爆炸,造成伤害并<style=cIsDamage>点燃</style>效果区域内的敌人。",
+        "MAGICITE_CALL_LIGHTNING_NAME": "召唤闪电",
+        "MAGICITE_CALL_LIGHTNING_DESCRIPTION": "在目标上方召唤一道闪电,造成伤害并将空中敌人击落地面。",
+        "MAGICITE_CONE_OF_FROST_NAME": "冰霜锥",
+        "MAGICITE_CONE_OF_FROST_DESCRIPTION": "召唤一道冰冷的锥形风,造成伤害并<style=cIsDamage>冻结</style>你面前的敌人。",
+        "MAGICITE_FORTIFY_NAME": "强化",
+        "MAGICITE_FORTIFY_DESCRIPTION": "经过短暂引导后:为你和目标友军提供强大的<style=cIsUtility>护甲</style>增益。",
+        "MAGICITE_MEND_WOUNDS_NAME": "治愈伤口",
+        "MAGICITE_MEND_WOUNDS_DESCRIPTION": "经过短暂引导后:为你和目标友军恢复<style=cIsHealing>最大生命值的50%</style>。",
+        "MAGICITE_MAGNET_NAME": "磁力",
+        "MAGICITE_MAGNET_DESCRIPTION": "召唤一个磁场,将目标周围大范围内的敌人拉向目标。",
+        "MAGICITE_HASTE_NAME": "加速",
+        "MAGICITE_HASTE_DESCRIPTION": "经过短暂引导后:为你和目标友军提供移动速度和攻击速度加成。",
+        "MAGICITE_MAGIC_MISSILE_NAME": "魔法飞弹",
+        "MAGICITE_MAGIC_MISSILE_DESCRIPTION": "发射一连串跟踪魔法弹,自动寻找目标。魔法值越高,发射的弹头越多。",
+        "MAGICITE_ECLIPSE_GATE_NAME": "蚀界门",
+        "MAGICITE_ECLIPSE_GATE_DESCRIPTION": "召唤一道暗影力量碎片,根据缺失的魔法值对目标造成伤害。",
+        "MAGICITE_ULTIMA_NAME": "究极",
+        "MAGICITE_ULTIMA_DESCRIPTION": "经过短暂引导后:消耗所有剩余魔法力量,创造一个巨大的能量漩涡,在长时间延迟后对大范围内所有敌人造成毁灭性伤害。",
+        "MAGICITE_FATED_CIRCLE_NAME": "命运之环",
+        "MAGICITE_FATED_CIRCLE_DESCRIPTION": "旋转攻击,眩晕并拉拽敌人,随后火焰爆炸将其击退,造成大量伤害。",
+        "MAGICITE_EXPLOSION_NAME": "爆炸",
+        "MAGICITE_EXPLOSION_DESCRIPTION": "<style=cIsUtility>(终结技根据弥斯特处于地面或空中而有所不同)</style>。保持位置并召唤光之球环绕你,对附近敌人造成伤害并眩晕。",
+        "MAGICITE_CHALLENGING_SHOUT_NAME": "挑战怒吼",
+        "MAGICITE_CHALLENGING_SHOUT_DESCRIPTION": "发出一声命令性的战吼,削弱并将敌人拉向你。",
+        "MAGICITE_BLADE_DANCE_NAME": "刀锋之舞",
+        "MAGICITE_BLADE_DANCE_DESCRIPTION": "一段艺术性的斩击连奏,推动使用者并快速造成伤害。",
+        "MAGICITE_JUDGEMENT_CUT_NAME": "裁决斩击",
+        "MAGICITE_JUDGEMENT_CUT_DESCRIPTION": "变得无形,在效果区域内多次斩击,攻击速度越高,斩击次数越多。",
+        "MAGICITE_SHILLELAGH_NAME": "橡木棍",
+        "MAGICITE_SHILLELAGH_DESCRIPTION": "在<style=cIsUtility>魔法充能</style>状态下:造成大量伤害并恢复魔法力量。但除此之外,表现平平。",
+        "MAGICITE_BLASTING_ZONE_NAME": "爆裂地带",
+        "MAGICITE_BLASTING_ZONE_DESCRIPTION": "召唤一个巨大的力量之柱包裹斩首剑,然后挥动剑刃砸向你面前的敌人,在广范围内造成毁灭性伤害。",
+        "MAGICITE_BERSERK_FORM_NAME": "狂战士形态",
+        "MAGICITE_BERSERK_FORM_DESCRIPTION": "弥斯特陷入狂怒,获得提升的移动速度和跳跃高度,以及专注于攻击的招式组合。",
+        "MAGICITE_JUDGEMENT_CUT_END_NAME": "终焉裁决斩",
+        "MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION": "将斩首剑收入鞘中,积聚能量,然后释放出一连串闪电般的斩击,在延迟后造成毁灭性伤害。",
+        "MAGICITE_POWER_WORD_KILL_NAME": "杀戮咒",
+        "MAGICITE_POWER_WORD_KILL_DESCRIPTION": "经过短暂引导后:<style=cIsDamage>立即消灭</style>目标。",
+        "MAGICITE_MP_THRIFT_NAME": "魔法节约",
+        "MAGICITE_MP_THRIFT_DESCRIPTION": "绑定的法术消耗更少魔法值。",
+        "MAGICITE_MP_TURBO_NAME": "魔法涡轮",
+        "MAGICITE_MP_TURBO_DESCRIPTION": "绑定的法术造成更多伤害并消耗更多魔法值。",
+        "MAGICITE_LIMIT_SYPHON_NAME": "极限虹吸",
+        "MAGICITE_LIMIT_SYPHON_DESCRIPTION": "根据法术消耗提供极限值。",
+        "JAVANGLE_MYST_BODY_UI_NUMOFBOLTS": "闪电数量:",
+        "JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED": "{0}% x 格挡次数"
+    }
+}

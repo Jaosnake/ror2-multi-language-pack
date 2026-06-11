@@ -6,30 +6,21 @@
     "SS2_NEMMANDO_OUTRO_FLAVOR": "..и он ушёл, обретя проблеск человечности.",
     "SS2_NEMMANDO_OUTRO_FAILURE": "..и он вернулся, завершив бесконечную борьбу.",
     "SS2_NEMMANDO_LORE": "Он устраивается у костра, раскладывая оружие в пределах досягаемости. Осматривает пещеру - достаточно ли это укрытие? Кто-то сказал бы, что такая осторожность излишня. Он бы ответил: <color=#FFCCED>они просто мало видели</color>.\n\nСлужебный пистолет, полученный при поступлении на службу. Засаленный, изношенный, любимый. Не раз выручал в трудную минуту. Кто-то сказал бы, что только дурак доверяет оружию. Он бы ответил: <color=#FFCCED>оружию можно доверять больше всего</color>.\n\nКлинок павшего собрата по оружию. Подобран среди обломков последних следов человечества. Кто-то сказал бы, что это объединяет их духи. Он бы ответил: <color=#FFCCED>это отдаляет момент, когда их духи воссоединятся</color>.\n\nГрузы, приземлившиеся вместе с ним. Каждый предмет из ящиков так или иначе сохранял ему жизнь. Десятки посылок, предназначенных кому угодно, но не ему. Кто-то сказал бы, что это не его вещи. Он бы ответил: <color=#FFCCED>если не он, то кто?</color>.\n\nФиолетовый свет из глубины пещеры. Успокаивающий, тёплый... манящий. Сулящий безопасность. Кто-то сказал бы, что слишком хорошо - не правда. Он бы ответил: <color=#FFCCED>Фауст был мудрецом</color>.",
-
     "SS2_KEYWORD_REND": "<style=CKeywordName>Рассечение</style><style=cSub>Наносит дополнительный урон поражённым Глубокой Раной врагам.",
-
     "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Клинок Прекращения",
     "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Глубокая Рана.</style> <style=cIsUtility>Проворство.</style> Рубите врагов, нанося <style=cIsDamage>{0}% урона</style>.",
-
     "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Дальний Разрез",
     "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Глубокая Рана.</style> <style=cIsUtility>Проворство.</style> Удерживайте для заряда пронзающего клинкового луча с уроном до <style=cIsDamage>{0}%</style>.",
-
     "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Одиночный Выстрел",
     "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Проворство.</style> <style=cDeath>Рассечение.</style> Выстрел из пистолета на <style=cIsDamage>{0}% урона</style>.",
-
     "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Тактический Перекат",
     "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>Перекатитесь</style> на короткое расстояние, получая <style=cIsUtility>200 брони</style>.",
-
     "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Подавление",
     "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Проворство.</style> <style=cDeath>Рассечение.</style> <style=cIsUtility>Зарядите</style> и выпустите залп до <style=cIsDamage>6 импульсов по 4x70%</style>. <style=cIsUtility>Количество выстрелов растёт с скоростью атаки</style>.",
-
     "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Решающий Удар",
     "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Глубокая Рана.</style> <style=cIsUtility>Зарядите</style> и <style=cIsUtility>рвинитесь вперёд</style> для серии до <style=cIsDamage>{0} ударов</style> по <style=cIsDamage>{1}% урона</style>. <style=cIsUtility>Количество ударов зависит от скорости атаки</style>.",
-
     "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME": "Подчинение",
     "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>Проворство.</style> <style=cDeath>Рассечение.</style> <style=cIsUtility>Зарядите</style> и выпустите залп до <style=cIsDamage>6 импульсов по 4x70%</style>. <style=cIsUtility>Количество выстрелов растёт с скоростью атаки</style>. \n<color=#d299ff>СКИПЕТР: Дополнительно выпускает до {0} лазеров по {2}% урона.</color>",
-
     "SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME": "Рассекающий Приговор",
     "SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION": "<style=cIsDamage>Глубокая Рана.</style> <style=cIsUtility>Зарядите</style> и <style=cIsUtility>рвинитесь вперёд</style> для серии до <style=cIsDamage>{0} ударов</style> по <style=cIsDamage>{1}% урона</style>. <style=cIsUtility>Количество ударов зависит от скорости атаки</style>. \n<color=#d299ff>СКИПЕТР: На полном заряде исчезаете, затем наносите все удары одновременно.</color>"
   }

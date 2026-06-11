@@ -1,6 +1,6 @@
-{ "RU":
-    {
-    "EXPANSION_CLOUDBURST_NAME" : "Cloudburst",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "Ð”Ð¾Ð±Ð°Ð²Ð»ÑÐµÑ‚ Ð² Ð¸Ð³Ñ€Ñƒ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚ Ð¸Ð· Ð¼Ð¾Ð´Ð° 'Cloudburst.'",
+{
+    "RU": {
+        "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+        "EXPANSION_CLOUDBURST_DESCRIPTION": "Добавляет в игру контент из мода 'Cloudburst.'"
     }
 }

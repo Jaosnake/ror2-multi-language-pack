@@ -1,30 +1,41 @@
-POPCORN_ARSONIST_BODY_NAME: Arsoniste
-POPCORN_ARSONIST_BODY_SUBTITLE: Pyromane Maniaque
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME: Jauge Normale
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: Inflige <style=cIsDamage>100%</style> de dégâts sur la portion blanche. La Jauge de Base résiste à la Surchauffe.
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: Jauge Critique
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: Inflige <style=cIsDamage>70%</style> de dégâts sur la portion blanche et <style=cIsDamage>250%</style> de dégâts sur la portion bleue. La chaleur maximale est fixe.
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME: Dragon's Breath
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: Tire un rayon de flammes infligeant <style=cIsDamage>90% de dégâts</style>. Chance d'ignition augmentée plus vous êtes proche de la cible.
-POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME: Fireball
-POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION: <style=cIsUtility>Chaleur. </style>Tire une boule de feu qui inflige <style=cIsDamage>225% de dégâts et enflamme</style> les ennemis touchés.
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME: Zero Point Blast
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>Agile. Chaleur. </style>Propulsez-vous en avant, explosant les ennemis derrière vous pour <style=cIsDamage>200% de dégâts</style>. Percuter le premier ennemi juste après le lancement inflige <style=cIsDamage>200% de dégâts</style> dans une explosion environnante.
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME: Fusée éclairante
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: Tire une fusée qui inflige <style=cIsDamage>400% de dégâts</style> sur 5 secondes, puis explose infligeant <style=cIsDamage>400% de dégâts</style>, lançant 5 fusées infligeant <style=cIsDamage>200% de dégâts</style> chacune.
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME: Masochism
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>Agile. Chaleur. </style>Les dégâts subis en étant <style=cIsDamage>enflammé</style> se transforment en <style=cIsHealing>soins</style> pendant 6,5 secondes. Augmente la Vitesse d'Attaque de <style=cIsDamage>125%</style>.
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME: Masochisme
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: En atteignant la limite d'<style=cKeywordName>Anticipation</style>, infligez périodiquement des dégâts à vous-même en échange de <style=cIsHealing>Vol de Vie</style> de zone et de brûlure. Après 10 secondes maximum, <style=cIsDamage>Détonation</style>, puis <style=cIsUtility>Surchauffe</style>.
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME: Dépit
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: En atteignant la limite d'<style=cKeywordName>Anticipation</style>, vous vous déplacez plus vite et obtenez <style=cKeywordName>Tir Double</style> et <style=cIsHealing>Vol de Vie</style>. Après 10 secondes maximum, <style=cIsDamage>Détonation</style>, puis <style=cIsUtility>Surchauffe</style>.
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME: Dante's Rebuke
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: Tire un rayon intense infligeant <style=cIsDamage>140% de dégâts</style>. Chance d'ignition augmentée plus vous êtes proche de la cible. Si maintenu 2 secondes ou plus, tire un rayon final au relâchement pour <style=cIsDamage>150% de dégâts</style>.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>Anticipation</style>Pour chaque 100 de chaleur perdue et/ou gagnée, Arsoniste gagne 1 charge d'Anticipation; Après 5 charges, il peut activer Masochisme; Les charges supplémentaires augmentent les dégâts et la durée; Toutes les charges sont consommées à la fin.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>Détonation</style>Arsoniste explose, infligeant <style=cIsDamage>150% de dégâts</style> multiplié par le nombre de Charges d'Anticipation accumulées.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL: <style=cKeywordName>Vol de Vie</style>Arsoniste soigne <style=cIsHealing>18%</style> des dégâts infligés tant que Masochisme est actif.
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL: <style=cKeywordName>Vol de Vie</style>Arsoniste soigne <style=cIsHealing>5%</style> des dégâts infligés tant que Dépit est actif.
-POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>Surchauffe: Masochisme</style>Si Arsoniste quitte Masochisme à cause d'un excès de chaleur, la Surchauffe EX est appliquée, réduisant sa Vitesse de Déplacement et ses Dégâts à 70%. Annuler ou laisser la compétence suivre son cours applique Surchauffe, réduisant sa Vitesse d'Attaque à 50%.
-POPCORN_ARSONIST_BODY_OVERHEAT_TEXT: SURCHAUFFE!
-POPCORN_ARSONIST_BODY_COOLING_TEXT: REFROIDISSEMENT...!
-POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT: SURCHAUFFE:EX!
+{
+    "strings": {
+        "POPCORN_ARSONIST_BODY_NAME": "Arsoniste",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "L'Arsoniste est un tank de courte portée qui utilise le feu comme moyen pour parvenir à ses fins. Gérer sa jauge de Surchauffe lui permet d'infliger d'importants dégâts à des groupes d'ennemis. L'équilibre est crucial pour la victoire.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SUBTITLE": "Pyromane Maniaque",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Jauge Normale",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Inflige <style=cIsDamage>100%</style> de dégâts sur la portion blanche. La Jauge de Base résiste à la Surchauffe.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME": "Jauge Critique",
+        "POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION": "Inflige <style=cIsDamage>70%</style> de dégâts sur la portion blanche et <style=cIsDamage>250%</style> de dégâts sur la portion bleue. La chaleur maximale est fixe.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME": "Dragon's Breath",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION": "Tire un rayon de flammes infligeant <style=cIsDamage>90% de dégâts</style>. Chance d'ignition augmentée plus vous êtes proche de la cible.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME": "Fireball",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION": "<style=cIsUtility>Chaleur. </style>Tire une boule de feu qui inflige <style=cIsDamage>225% de dégâts et enflamme</style> les ennemis touchés.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_ALT_PRIMARY_FIRESPRAY_NAME": "Overdrive",
+        "POPCORN_ARSONIST_BODY_ALT_PRIMARY_FIRESPRAY_DESCRIPTION": "<style=cIsUtility>Chaleur. </style><style=cIsUtility>Supercritique. </style>Tire une boule de feu qui inflige <style=cIsDamage>160% de dégâts et enflamme</style> les ennemis touchés.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_SCEPTER_NAME": "Firestorm",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_SCEPTER_DESCRIPTION": "<style=cIsUtility>Chaleur. </style>Tire un rayon perforant de chaleur intense qui inflige <style=cIsDamage>300% de dégâts et enflamme</style> les ennemis touchés. Si maintenu un court instant, tire un rayon destructif infligeant <style=cIsDamage>450% de dégâts</style> au relâchement.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME": "Zero Point Blast",
+        "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Agile. Chaleur. </style>Propulsez-vous en avant, explosant les ennemis derrière vous pour <style=cIsDamage>200% de dégâts</style>. Percuter le premier ennemi juste après le lancement inflige <style=cIsDamage>200% de dégâts</style> dans une explosion environnante.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME": "Fusée éclairante",
+        "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION": "Tire une fusée qui inflige <style=cIsDamage>400% de dégâts</style> sur 5 secondes, puis explose infligeant <style=cIsDamage>400% de dégâts</style>, lançant 5 fusées infligeant <style=cIsDamage>200% de dégâts</style> chacune.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_NAME": "Purifier",
+        "POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_DESCRIPTION": "<style=cIsUtility>Agile. Chaleur. </style><style=cIsDamage>Enflammez</style> la zone autour de vous, infligeant <style=cIsDamage>50%</style> de dégâts aux ennemis proches et supprimant les autres effets de statut. Octroie un petit bonus de vitesse.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "Masochism",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>Agile. Chaleur. </style>Les dégâts subis en étant <style=cIsDamage>enflammé</style> se transforment en <style=cIsHealing>soins</style> pendant 6,5 secondes. Augmente la Vitesse d'Attaque de <style=cIsDamage>125%</style>.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "Masochisme",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "En atteignant la limite d'<style=cKeywordName>Anticipation</style>, infligez périodiquement des dégâts à vous-même en échange de <style=cIsHealing>Vol de Vie</style> de zone et de brûlure. Après 10 secondes maximum, <style=cIsDamage>Détonation</style>, puis <style=cIsUtility>Surchauffe</style>.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "Dépit",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "En atteignant la limite d'<style=cKeywordName>Anticipation</style>, vous vous déplacez plus vite et obtenez <style=cKeywordName>Tir Double</style> et <style=cIsHealing>Vol de Vie</style>. Après 10 secondes maximum, <style=cIsDamage>Détonation</style>, puis <style=cIsUtility>Surchauffe</style>.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Dante's Rebuke",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "Tire un rayon intense infligeant <style=cIsDamage>140% de dégâts</style>. Chance d'ignition augmentée plus vous êtes proche de la cible. Si maintenu 2 secondes ou plus, tire un rayon final au relâchement pour <style=cIsDamage>150% de dégâts</style>.Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Anticipation</style>Pour chaque 100 de chaleur perdue et/ou gagnée, Arsoniste gagne 1 charge d'Anticipation; Après 5 charges, il peut activer Masochisme; Les charges supplémentaires augmentent les dégâts et la durée; Toutes les charges sont consommées à la fin.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Détonation</style>Arsoniste explose, infligeant <style=cIsDamage>150% de dégâts</style> multiplié par le nombre de Charges d'Anticipation accumulées.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Vol de Vie</style>Arsoniste soigne <style=cIsHealing>18%</style> des dégâts infligés tant que Masochisme est actif.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Vol de Vie</style>Arsoniste soigne <style=cIsHealing>5%</style> des dégâts infligés tant que Dépit est actif.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Surchauffe: Masochisme</style>Si Arsoniste quitte Masochisme à cause d'un excès de chaleur, la Surchauffe EX est appliquée, réduisant sa Vitesse de Déplacement et ses Dégâts à 70%. Annuler ou laisser la compétence suivre son cours applique Surchauffe, réduisant sa Vitesse d'Attaque à 50%.",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "SURCHAUFFE!",
+        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "REFROIDISSEMENT...!",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SURCHAUFFE:EX!"
+    }
+}

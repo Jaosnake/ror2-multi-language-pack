@@ -232,7 +232,7 @@ mods/<mod>/.../ja/
 3. 将需要的包/模组文件夹复制到 `BepInEx/plugins/`。
 4. 在游戏中选择简体中文。
 
-常见文件/文件夹：
+常见文件/文件夹:
 
 ```text
 Starstorm2/Language/zh-CN/
@@ -249,7 +249,7 @@ mods/<mod>/.../zh-CN/
 3. 將需要的套件/模組資料夾複製到 `BepInEx/plugins/`。
 4. 在遊戲中選擇繁體中文。
 
-常見檔案：
+常見檔案:
 
 ```text
 Sandswept/Translations/Zh-TW-Sandswept.language

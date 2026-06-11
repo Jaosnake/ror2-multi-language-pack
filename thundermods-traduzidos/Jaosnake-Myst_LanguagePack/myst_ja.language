@@ -1,102 +1,98 @@
-JAVANGLE_MYST_BODY_NAME: ãƒŸã‚¹ãƒˆ
-JAVANGLE_MYST_BODY_SUBTITLE: ç¥žç§˜ã®é­”è¡“å¸«
-JAVANGLE_MYST_BODY_DESCRIPTION: ãƒŸã‚¹ãƒˆã¯å¤šç”¨é€”ãªç”Ÿå­˜è€…ã§ã‚ã‚Šã€<style=cIsUtility>é­”åŠ›</style>ã‚’ä½¿ã£ã¦æ§˜ã€…ãªè¶…è‡ªç„¶çš„ãªã‚¹ã‚­ãƒ«ã‚’é§†ä½¿ã—ã€<style=cIsUtility>ãƒªãƒŸãƒƒãƒˆ</style>ã‚’ä½¿ã£ã¦å¼·åŠ›ãªã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ ãƒ¼ãƒ–ã‚’è§£æ”¾ã™ã‚‹ã€‚
-JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME: ãƒžã‚¹ã‚¿ãƒªãƒ¼
-JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME: ã‚°ãƒ©ãƒ³ãƒ‰ãƒžã‚¹ã‚¿ãƒªãƒ¼
-
-BASEFORM_SLASH_NAME: ãƒ´ã‚©ãƒ¼ãƒ‘ãƒ«ã‚¹ãƒ©ãƒƒã‚·ãƒ¥
-BASEFORM_SLASH_DESCRIPTION: <style=cIsUtility>æ©Ÿæ•</style>ã€‚å‰æ–¹ã®æ•µã‚’æ–¬ã‚Šã¤ã‘ã€<style=cIsDamage>165%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-BASEFORM_DASH_NAME: çªé€²
-BASEFORM_DASH_DESCRIPTION: <style=cIsUtility>æ©Ÿæ•</style>ã€‚ä»»æ„ã®æ°´å¹³æ–¹å‘ã«çŸ­è·é›¢ã‚¹ãƒ©ã‚¤ãƒ‰ã™ã‚‹ã€‚
-BASEFORM_BLOCK_NAME: å¹»å½±
-BASEFORM_BLOCK_DESCRIPTION: <style=cIsUtility>é•·æŠ¼ã—</style>ã§æ­£é¢ã‹ã‚‰ã®è¢«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’å¤§å¹…ã«è»½æ¸›ã—ã€é˜²ã„ã ãƒ€ãƒ¡ãƒ¼ã‚¸ã«å¿œã˜ã¦<style=cIsUtility>ãƒªãƒŸãƒƒãƒˆ</style>ã‚’å¾—ã‚‹ã€‚<style=cIsUtility>ã‚¿ã‚¤ãƒŸãƒ³ã‚°ãŒå®Œç’§</style>ãªã‚‰ï¼šå…¨æ–¹å‘ã‹ã‚‰ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ç„¡åŠ¹åŒ–ã—ã€ã‚¹ã‚­ãƒ«ã‚’ã‚¯ãƒ¼ãƒ«ãƒ€ã‚¦ãƒ³ã—ã€é˜²ã„ã ãƒ€ãƒ¡ãƒ¼ã‚¸ã«å¿œã˜ã¦<style=cIsUtility>é­”åŠ›</style>ã‚’å›žå¾©ã—ã€<style=cIsUtility>2å€ã®ãƒªãƒŸãƒƒãƒˆ</style>ã‚’å¾—ã¦ã€é˜²ã„ã ãƒ€ãƒ¡ãƒ¼ã‚¸ã®<style=cIsDamage>æœ€å¤§3å€</style>ã‚’è¿‘ãã®æ•µã«åå°„ã™ã‚‹ã€‚
-BASEFORM_LIMITMENU_NAME: ãƒªãƒŸãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼
-BASEFORM_LIMITMENU_DESCRIPTION: ãƒªãƒŸãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’é–‹ãã€è£…å‚™ã—ãŸ<style=cIsUtility>ãƒªãƒŸãƒƒãƒˆãƒ–ãƒ¬ã‚¤ã‚¯</style>ã‚’ä½¿ç”¨ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã€‚
-
-JAVANGLE_MYST_BODY_UI_MAGICNAME: é­”æ³•ãƒ¡ãƒ‹ãƒ¥ãƒ¼
-JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION: é­”æ³•ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’é–‹ãã€è£…å‚™ã—ãŸå‘ªæ–‡ã‚’ä½¿ç”¨ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã€‚
-JAVANGLE_MYST_BODY_UI_LIMITNAME: ãƒªãƒŸãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼
-JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION: ãƒªãƒŸãƒƒãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’é–‹ãã€è£…å‚™ã—ãŸãƒªãƒŸãƒƒãƒˆãƒ–ãƒ¬ã‚¤ã‚¯ã‚’ä½¿ç”¨ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã€‚
-JAVANGLE_MYST_BODY_UI_SHOPRANDOM: ãƒ©ãƒ³ãƒ€ãƒ 
-JAVANGLE_MYST_BODY_UI_SHOPSPELL: å‘ªæ–‡
-JAVANGLE_MYST_BODY_UI_SHOPSUPPORT: ã‚µãƒãƒ¼ãƒˆ
-JAVANGLE_MYST_BODY_UI_SHOPLIMIT: ãƒªãƒŸãƒƒãƒˆ
-JAVANGLE_MYST_BODY_UI_SHOPFINISHER: ãƒ•ã‚£ãƒ‹ãƒƒã‚·ãƒ£ãƒ¼
-JAVANGLE_MYST_BODY_UI_SORT: ä¸¦ã³æ›¿ãˆ
-JAVANGLE_MYST_BODY_UI_TUTORIALTITLE: ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«
-JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION: ãƒŸã‚¹ãƒˆã¯2ã¤ã®ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’ä½¿ã£ã¦è£…å‚™ã—ãŸ<style=cIsUtility>é­”æ³•</style>ã‚’æ´»ç”¨ã—ã€ãã“ã«åŽã‚ã‚‰ã‚ŒãŸã‚¹ã‚­ãƒ«ã‚’è§£æ”¾ã™ã‚‹ã€‚
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY: ãƒžã‚¸ãƒƒã‚¯ã‚¤ãƒ³ãƒ™ãƒ³ãƒˆãƒª
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME: åå‰
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL: ãƒ¬ãƒ™ãƒ«
-JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP: è§£ä½“
-JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES: è£…å‚™ä¸­ã®é­”æ™¶çŸ³
-
-JOBCLASS_MYSTIC_NAME: ãƒŸã‚¹ãƒ†ã‚£ãƒƒã‚¯
-JOBCLASS_MYSTIC_DESCRIPTION: ä¸‡èƒ½ãªã‚­ãƒƒãƒˆã§ãƒ©ãƒ³ã‚’é–‹å§‹ã™ã‚‹ã€‚ä½•ã§ã‚‚å°‘ã—ãšã¤æƒã£ã¦ã„ã‚‹ã€‚
-JOBCLASS_MYSTIC_KEYWORD: ãƒŸã‚¹ãƒ†ã‚£ãƒƒã‚¯
-JOBCLASS_WARRIOR_NAME: æˆ¦å£«
-JOBCLASS_WARRIOR_DESCRIPTION: ãƒ•ã‚£ãƒ‹ãƒƒã‚·ãƒ£ãƒ¼æ”»æ’ƒã«ç‰¹åŒ–ã—ãŸã‚­ãƒƒãƒˆã§ãƒ©ãƒ³ã‚’é–‹å§‹ã™ã‚‹ã€‚
-JOBCLASS_WARRIOR_KEYWORD: æˆ¦å£«
-JOBCLASS_SORCERER_NAME: ã‚½ãƒ¼ã‚µãƒ©ãƒ¼
-JOBCLASS_SORCERER_DESCRIPTION: å‘ªæ–‡ã«ç‰¹åŒ–ã—ãŸã‚­ãƒƒãƒˆã§ãƒ©ãƒ³ã‚’é–‹å§‹ã™ã‚‹ã€‚
-JOBCLASS_SORCERER_KEYWORD: ã‚½ãƒ¼ã‚µãƒ©ãƒ¼
-JOBCLASS_BABY_NAME: ãƒ™ãƒ“ãƒ¼
-JOBCLASS_BABY_DESCRIPTION: é­”æ³•ãªã—ã§ãƒ©ãƒ³ã‚’é–‹å§‹ã™ã‚‹ã€‚
-JOBCLASS_BABY_KEYWORD: ãƒ™ãƒ“ãƒ¼
-JOBCLASS_CHAD_NAME: ãƒãƒ£ãƒ‰
-JOBCLASS_CHAD_DESCRIPTION: é­”æ³•ãªã—ã§ãƒ©ãƒ³ã‚’é–‹å§‹ã™ã‚‹ã€‚
-JOBCLASS_CHAD_KEYWORD: ãƒãƒ£ãƒ‰
-
-MAGICITE_FIREBALL_NAME: ãƒ•ã‚¡ã‚¤ã‚¢ãƒœãƒ¼ãƒ«
-MAGICITE_FIREBALL_DESCRIPTION: ç›®æ¨™ã«å‘ã‹ã£ã¦èª˜å°Žç«çƒã‚’ç™ºå°„ã—ã€è¡çªæ™‚ã«çˆ†ç™ºã—ã¦ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€åŠ¹æžœç¯„å›²å†…ã®æ•µã‚’<style=cIsDamage>ç™ºç«</style>ã•ã›ã‚‹ã€‚
-MAGICITE_CALL_LIGHTNING_NAME: å¬é›·
-MAGICITE_CALL_LIGHTNING_DESCRIPTION: ç›®æ¨™ã®ä¸Šã«é›·ã‚’å¬å–šã—ã€ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€ç©ºä¸­ã®æ•µã‚’åœ°é¢ã«å©ãè½ã¨ã™ã€‚
-MAGICITE_CONE_OF_FROST_NAME: æ°·çµã®æ¯
-MAGICITE_CONE_OF_FROST_DESCRIPTION: æ°·ã®é¢¨ã®å††éŒã‚’å¬å–šã—ã¦ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€å‰æ–¹ã®æ•µã‚’<style=cIsDamage>å‡çµ</style>ã•ã›ã‚‹ã€‚
-MAGICITE_FORTIFY_NAME: å¼·åŒ–
-MAGICITE_FORTIFY_DESCRIPTION: çŸ­ã„ãƒãƒ£ãƒãƒªãƒ³ã‚°å¾Œï¼šè‡ªèº«ã¨å¯¾è±¡ã®å‘³æ–¹ã«å¼·åŠ›ãª<style=cIsUtility>è£…ç”²</style>ãƒãƒ•ã‚’ä»˜ä¸Žã™ã‚‹ã€‚
-MAGICITE_MEND_WOUNDS_NAME: å‚·ã®æ²»ç™’
-MAGICITE_MEND_WOUNDS_DESCRIPTION: çŸ­ã„ãƒãƒ£ãƒãƒªãƒ³ã‚°å¾Œï¼šè‡ªèº«ã¨å¯¾è±¡ã®å‘³æ–¹ã‚’<style=cIsHealing>æœ€å¤§HPã®50%</style>å›žå¾©ã™ã‚‹ã€‚
-MAGICITE_MAGNET_NAME: ãƒžã‚°ãƒãƒƒãƒˆ
-MAGICITE_MAGNET_DESCRIPTION: ç£å ´ã‚’å¬å–šã—ã€æ¨™çš„ã®å‘¨å›²ã®åºƒç¯„å›²ã®æ•µã‚’å¼•ãå¯„ã›ã‚‹ã€‚
-MAGICITE_HASTE_NAME: ãƒ˜ã‚¤ã‚¹ãƒˆ
-MAGICITE_HASTE_DESCRIPTION: çŸ­ã„ãƒãƒ£ãƒãƒªãƒ³ã‚°å¾Œï¼šè‡ªèº«ã¨å¯¾è±¡ã®å‘³æ–¹ã«ç§»å‹•é€Ÿåº¦ã¨æ”»æ’ƒé€Ÿåº¦ã‚’ä»˜ä¸Žã™ã‚‹ã€‚
-MAGICITE_MAGIC_MISSILE_NAME: ãƒžã‚¸ãƒƒã‚¯ãƒŸã‚µã‚¤ãƒ«
-MAGICITE_MAGIC_MISSILE_DESCRIPTION: ç›®æ¨™ã‚’è¿½å°¾ã™ã‚‹èª˜å°Žé­”æ³•å¼¾ã®æ–‰å°„ã‚’æ”¾ã¤ã€‚MPãŒå¤šã„ã»ã©ã€ã‚ˆã‚Šå¤šãã®å¼¾ãŒç™ºå°„ã•ã‚Œã‚‹ã€‚
-MAGICITE_ECLIPSE_GATE_NAME: ã‚¨ã‚¯ãƒªãƒ—ã‚¹ã‚²ãƒ¼ãƒˆ
-MAGICITE_ECLIPSE_GATE_DESCRIPTION: æš—é»’ã®åŠ›ã®æ¬ ç‰‡ã‚’å¬å–šã—ã€ä¸è¶³ã—ã¦ã„ã‚‹MPã«å¿œã˜ã¦ç›®æ¨™ã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_ULTIMA_NAME: ã‚¢ãƒ«ãƒ†ãƒž
-MAGICITE_ULTIMA_DESCRIPTION: çŸ­ã„ãƒãƒ£ãƒãƒªãƒ³ã‚°å¾Œï¼šæ®‹ã‚Šé­”åŠ›ã‚’å…¨ã¦æ¶ˆè²»ã—ã¦å·¨å¤§ãªã‚¨ãƒãƒ«ã‚®ãƒ¼ã®æ¸¦ã‚’ä½œã‚Šå‡ºã—ã€é•·ã„é…å»¶ã®å¾Œã€åºƒç¯„å›²ã®å…¨æ•µã«å‡„ã¾ã˜ã„ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-
-MAGICITE_FATED_CIRCLE_NAME: é‹å‘½ã®è¼ª
-MAGICITE_FATED_CIRCLE_DESCRIPTION: å›žè»¢æ”»æ’ƒã§æ•µã‚’ã‚¹ã‚¿ãƒ³ã•ã›ã¦å¼•ãå¯„ã›ã€ç¶šãç«ç‚Žçˆ†ç™ºã§æ•µã‚’å¹ãé£›ã°ã—ã€å¤§ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_EXPLOSION_NAME: çˆ†ç™º
-MAGICITE_EXPLOSION_DESCRIPTION: <style=cIsUtility>ï¼ˆãƒ•ã‚£ãƒ‹ãƒƒã‚·ãƒ£ãƒ¼ã¯ãƒŸã‚¹ãƒˆãŒåœ°ä¸Šã‹ç©ºä¸­ã‹ã§ç•°ãªã‚‹ï¼‰</style>ã€‚ãã®å ´ã«ç•™ã¾ã‚Šã€å…‰ã®ã‚ªãƒ¼ãƒ–ã‚’å¬å–šã—ã¦å‘¨å›²ã‚’æ—‹å›žã•ã›ã€è¿‘ãã®æ•µã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã¨ã‚¹ã‚¿ãƒ³ã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_CHALLENGING_SHOUT_NAME: æŒ‘ç™ºã®å«ã³
-MAGICITE_CHALLENGING_SHOUT_DESCRIPTION: å‘½ä»¤ã®å«ã³ã‚’æ”¾ã¡ã€æ•µã‚’å¼±ä½“åŒ–ã•ã›ã¦å¼•ãå¯„ã›ã‚‹ã€‚
-MAGICITE_BLADE_DANCE_NAME: ãƒ–ãƒ¬ãƒ¼ãƒ‰ãƒ€ãƒ³ã‚¹
-MAGICITE_BLADE_DANCE_DESCRIPTION: èŠ¸è¡“çš„ãªæ–¬æ’ƒã®é€£ç¶šæŠ€ã§ä½¿ç”¨è€…ã‚’æŽ¨é€²ã•ã›ã€ç´ æ—©ããƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_JUDGEMENT_CUT_NAME: ã‚¸ãƒ£ãƒƒã‚¸ãƒ¡ãƒ³ãƒˆã‚«ãƒƒãƒˆ
-MAGICITE_JUDGEMENT_CUT_DESCRIPTION: å®Ÿä½“ã‚’æŒãŸãªããªã‚Šã€åŠ¹æžœç¯„å›²å†…ã§è¤‡æ•°å›žæ”»æ’ƒã™ã‚‹ã€‚æ”»æ’ƒé€Ÿåº¦ãŒé«˜ã„ã»ã©å¤šãã®ãƒ’ãƒƒãƒˆã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_SHILLELAGH_NAME: ã‚·ãƒ¬ã‚¤ãƒ©
-MAGICITE_SHILLELAGH_DESCRIPTION: <style=cIsUtility>é­”æ³•ãƒãƒ£ãƒ¼ã‚¸</style>ä¸­ï¼šå¤§ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€é­”åŠ›ã‚’å›žå¾©ã™ã‚‹ã€‚ãã‚Œä»¥å¤–ã®å ´åˆã¯ã€å¤§ã—ãŸã“ã¨ã¯ãªã„ã€‚
-
-MAGICITE_BLASTING_ZONE_NAME: ãƒ–ãƒ©ã‚¹ãƒ†ã‚£ãƒ³ã‚°ã‚¾ãƒ¼ãƒ³
-MAGICITE_BLASTING_ZONE_DESCRIPTION: å·¨å¤§ãªåŠ›ã®æŸ±ã‚’å¬å–šã—ã¦ãƒ´ã‚©ãƒ¼ãƒ‘ãƒ«ã‚½ãƒ¼ãƒ‰ã‚’åŒ…ã¿è¾¼ã¿ã€åˆƒã‚’æŒ¯ã‚‹ã£ã¦å‰æ–¹ã®æ•µã«å©ãã¤ã‘ã€åºƒç¯„å›²ã«å‡„ã¾ã˜ã„ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_BERSERK_FORM_NAME: ãƒãƒ¼ã‚µãƒ¼ã‚«ãƒ¼ãƒ•ã‚©ãƒ¼ãƒ 
-MAGICITE_BERSERK_FORM_DESCRIPTION: ãƒŸã‚¹ãƒˆãŒæ€’ã‚Šã«éœ‡ãˆã€ç§»å‹•é€Ÿåº¦ã¨ã‚¸ãƒ£ãƒ³ãƒ—é«˜åº¦ãŒä¸Šæ˜‡ã—ã€æ”»æ’ƒã«ç‰¹åŒ–ã—ãŸå‹•ä½œã‚»ãƒƒãƒˆã‚’å¾—ã‚‹ã€‚
-MAGICITE_JUDGEMENT_CUT_END_NAME: æœ€çµ‚ã‚¸ãƒ£ãƒƒã‚¸ãƒ¡ãƒ³ãƒˆã‚«ãƒƒãƒˆ
-MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION: ãƒ´ã‚©ãƒ¼ãƒ‘ãƒ«ã‚½ãƒ¼ãƒ‰ã‚’éž˜ã«åŽã‚ã€ã‚¨ãƒãƒ«ã‚®ãƒ¼ã‚’è“„ç©ã—ãŸå¾Œã€é…å»¶ã®å¾Œã«é›»å…‰çŸ³ç«ã®æ–¬æ’ƒã®åµã‚’è§£æ”¾ã—ã¦å‡„ã¾ã˜ã„ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚
-MAGICITE_POWER_WORD_KILL_NAME: ãƒ‘ãƒ¯ãƒ¼ãƒ¯ãƒ¼ãƒ‰ãƒ»ã‚­ãƒ«
-MAGICITE_POWER_WORD_KILL_DESCRIPTION: çŸ­ã„ãƒãƒ£ãƒãƒªãƒ³ã‚°å¾Œï¼š<style=cIsDamage>å³åº§ã«</style>ç›®æ¨™ã‚’æŽ’é™¤ã™ã‚‹ã€‚
-
-MAGICITE_MP_THRIFT_NAME: MPç¯€ç´„
-MAGICITE_MP_THRIFT_DESCRIPTION: ãƒªãƒ³ã‚¯ã•ã‚ŒãŸå‘ªæ–‡ã®MPæ¶ˆè²»ãŒæ¸›å°‘ã™ã‚‹ã€‚
-MAGICITE_MP_TURBO_NAME: MPã‚¿ãƒ¼ãƒœ
-MAGICITE_MP_TURBO_DESCRIPTION: ãƒªãƒ³ã‚¯ã•ã‚ŒãŸå‘ªæ–‡ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ãŒå¢—åŠ ã—ã€MPæ¶ˆè²»ã‚‚å¢—åŠ ã™ã‚‹ã€‚
-MAGICITE_LIMIT_SYPHON_NAME: ãƒªãƒŸãƒƒãƒˆã‚µã‚¤ãƒ•ã‚©ãƒ³
-MAGICITE_LIMIT_SYPHON_DESCRIPTION: å‘ªæ–‡ã‚³ã‚¹ãƒˆã«åŸºã¥ã„ã¦ãƒªãƒŸãƒƒãƒˆã‚’å¾—ã‚‹ã€‚
-
-JAVANGLE_MYST_BODY_UI_NUMOFBOLTS: é›·ã®æ•°ï¼š
-JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED: {0}% Ã— ãƒ–ãƒ­ãƒƒã‚¯ã—ãŸãƒ’ãƒƒãƒˆæ•°
+{
+    "ja": {
+        "JAVANGLE_MYST_BODY_NAME": "ミスト",
+        "JAVANGLE_MYST_BODY_SUBTITLE": "神秘の魔術師",
+        "JAVANGLE_MYST_BODY_DESCRIPTION": "ミストは多用途な生存者であり、<style=cIsUtility>魔力</style>を使って様々な超自然的なスキルを駆使し、<style=cIsUtility>リミット</style>を使って強力なスーパームーブを解放する。",
+        "JAVANGLE_MYST_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "JAVANGLE_MYST_BODY_MASTERY_SKIN_NAME": "マスタリー",
+        "JAVANGLE_MYST_BODY_GRANDMASTERY_SKIN_NAME": "グランドマスタリー",
+        "BASEFORM_SLASH_NAME": "ヴォーパルスラッシュ",
+        "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>機敏</style>。前方の敵を斬りつけ、<style=cIsDamage>165%のダメージ</style>を与える。",
+        "BASEFORM_DASH_NAME": "突進",
+        "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>機敏</style>。任意の水平方向に短距離スライドする。",
+        "BASEFORM_BLOCK_NAME": "幻影",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>長押し</style>で正面からの被ダメージを大幅に軽減し、防いだダメージに応じて<style=cIsUtility>リミット</style>を得る。<style=cIsUtility>タイミングが完璧</style>なら:全方向からのダメージを無効化し、スキルをクールダウンし、防いだダメージに応じて<style=cIsUtility>魔力</style>を回復し、<style=cIsUtility>2倍のリミット</style>を得て、防いだダメージの<style=cIsDamage>最大3倍</style>を近くの敵に反射する。",
+        "BASEFORM_LIMITMENU_NAME": "リミットメニュー",
+        "BASEFORM_LIMITMENU_DESCRIPTION": "リミットメニューを開き、装備した<style=cIsUtility>リミットブレイク</style>を使用できるようにする。",
+        "JAVANGLE_MYST_BODY_UI_MAGICNAME": "魔法メニュー",
+        "JAVANGLE_MYST_BODY_UI_MAGICDESCRIPTION": "魔法メニューを開き、装備した呪文を使用できるようにする。",
+        "JAVANGLE_MYST_BODY_UI_LIMITNAME": "リミットメニュー",
+        "JAVANGLE_MYST_BODY_UI_LIMITDESCRIPTION": "リミットメニューを開き、装備したリミットブレイクを使用できるようにする。",
+        "JAVANGLE_MYST_BODY_UI_SHOPRANDOM": "ランダãƒ",
+        "JAVANGLE_MYST_BODY_UI_SHOPSPELL": "呪文",
+        "JAVANGLE_MYST_BODY_UI_SHOPSUPPORT": "サポート",
+        "JAVANGLE_MYST_BODY_UI_SHOPLIMIT": "リミット",
+        "JAVANGLE_MYST_BODY_UI_SHOPFINISHER": "フィニッシャー",
+        "JAVANGLE_MYST_BODY_UI_SORT": "並び替え",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALTITLE": "チュートリアル",
+        "JAVANGLE_MYST_BODY_UI_TUTORIALDESCRIPTION": "ミストは2つのメニューを使って装備した<style=cIsUtility>魔法</style>を活用し、そこに収められたスキルを解放する。",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORY": "マジックインベントリ",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYNAME": "名前",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYLEVEL": "レベル",
+        "JAVANGLE_MYST_BODY_UI_MAGICITEINVENTORYSCRAP": "解体",
+        "JAVANGLE_MYST_BODY_UI_EQUIPPEDMAGICITES": "装備中の魔晶石",
+        "JOBCLASS_MYSTIC_NAME": "ミスティック",
+        "JOBCLASS_MYSTIC_DESCRIPTION": "万能なキットでランを開始する。何でも少しずつ揃っている。",
+        "JOBCLASS_MYSTIC_KEYWORD": "ミスティック",
+        "JOBCLASS_WARRIOR_NAME": "戦士",
+        "JOBCLASS_WARRIOR_DESCRIPTION": "フィニッシャー攻撃に特化したキットでランを開始する。",
+        "JOBCLASS_WARRIOR_KEYWORD": "戦士",
+        "JOBCLASS_SORCERER_NAME": "ソーサラー",
+        "JOBCLASS_SORCERER_DESCRIPTION": "呪文に特化したキットでランを開始する。",
+        "JOBCLASS_SORCERER_KEYWORD": "ソーサラー",
+        "JOBCLASS_BABY_NAME": "ベビー",
+        "JOBCLASS_BABY_DESCRIPTION": "魔法なしでランを開始する。",
+        "JOBCLASS_BABY_KEYWORD": "ベビー",
+        "JOBCLASS_CHAD_NAME": "チャド",
+        "JOBCLASS_CHAD_DESCRIPTION": "魔法なしでランを開始する。",
+        "JOBCLASS_CHAD_KEYWORD": "チャド",
+        "MAGICITE_FIREBALL_NAME": "ファイアボール",
+        "MAGICITE_FIREBALL_DESCRIPTION": "目標に向かって誘導火球を発射し、衝突時に爆発してダメージを与え、効果範囲内の敵を<style=cIsDamage>発火</style>させる。",
+        "MAGICITE_CALL_LIGHTNING_NAME": "召雷",
+        "MAGICITE_CALL_LIGHTNING_DESCRIPTION": "目標の上に雷を召喚し、ダメージを与え、空中の敵を地面に叩き落とす。",
+        "MAGICITE_CONE_OF_FROST_NAME": "氷結の息",
+        "MAGICITE_CONE_OF_FROST_DESCRIPTION": "氷の風の円錐を召喚してダメージを与え、前方の敵を<style=cIsDamage>凍結</style>させる。",
+        "MAGICITE_FORTIFY_NAME": "強化",
+        "MAGICITE_FORTIFY_DESCRIPTION": "短いチャネリング後:自身と対象の味方に強力な<style=cIsUtility>装甲</style>バフを付与する。",
+        "MAGICITE_MEND_WOUNDS_NAME": "傷の治癒",
+        "MAGICITE_MEND_WOUNDS_DESCRIPTION": "短いチャネリング後:自身と対象の味方を<style=cIsHealing>最大HPの50%</style>回復する。",
+        "MAGICITE_MAGNET_NAME": "マグネット",
+        "MAGICITE_MAGNET_DESCRIPTION": "磁場を召喚し、標的の周囲の広範囲の敵を引き寄せる。",
+        "MAGICITE_HASTE_NAME": "ヘイスト",
+        "MAGICITE_HASTE_DESCRIPTION": "短いチャネリング後:自身と対象の味方に移動速度と攻撃速度を付与する。",
+        "MAGICITE_MAGIC_MISSILE_NAME": "マジックミサイル",
+        "MAGICITE_MAGIC_MISSILE_DESCRIPTION": "目標を追尾する誘導魔法弾の斉射を放つ。MPが多いほど、より多くの弾が発射される。",
+        "MAGICITE_ECLIPSE_GATE_NAME": "エクリプスゲート",
+        "MAGICITE_ECLIPSE_GATE_DESCRIPTION": "暗黒の力の欠片を召喚し、不足しているMPに応じて目標にダメージを与える。",
+        "MAGICITE_ULTIMA_NAME": "アルテマ",
+        "MAGICITE_ULTIMA_DESCRIPTION": "短いチャネリング後:残り魔力を全て消費して巨大なエネルギーの渦を作り出し、長い遅延の後、広範囲の全敵に凄まじいダメージを与える。",
+        "MAGICITE_FATED_CIRCLE_NAME": "運命の輪",
+        "MAGICITE_FATED_CIRCLE_DESCRIPTION": "回転攻撃で敵をスタンさせて引き寄せ、続く火炎爆発で敵を吹き飛ばし、大ダメージを与える。",
+        "MAGICITE_EXPLOSION_NAME": "爆発",
+        "MAGICITE_EXPLOSION_DESCRIPTION": "<style=cIsUtility>(フィニッシャーはミストが地上か空中かで異なる)</style>。その場に留まり、光のオーブを召喚して周囲を旋回させ、近くの敵にダメージとスタンを与える。",
+        "MAGICITE_CHALLENGING_SHOUT_NAME": "挑発の叫び",
+        "MAGICITE_CHALLENGING_SHOUT_DESCRIPTION": "命令の叫びを放ち、敵を弱体化させて引き寄せる。",
+        "MAGICITE_BLADE_DANCE_NAME": "ブレードダンス",
+        "MAGICITE_BLADE_DANCE_DESCRIPTION": "芸術的な斬撃の連続技で使用者を推進させ、素早くダメージを与える。",
+        "MAGICITE_JUDGEMENT_CUT_NAME": "ジャッジメントカット",
+        "MAGICITE_JUDGEMENT_CUT_DESCRIPTION": "実体を持たなくなり、効果範囲内で複数回攻撃する。攻撃速度が高いほど多くのヒットを与える。",
+        "MAGICITE_SHILLELAGH_NAME": "シレイラ",
+        "MAGICITE_SHILLELAGH_DESCRIPTION": "<style=cIsUtility>魔法チャージ</style>中:大ダメージを与え、魔力を回復する。それ以外の場合は、大したことはない。",
+        "MAGICITE_BLASTING_ZONE_NAME": "ブラスティングゾーン",
+        "MAGICITE_BLASTING_ZONE_DESCRIPTION": "巨大な力の柱を召喚してヴォーパルソードを包み込み、刃を振るって前方の敵に叩きつけ、広範囲に凄まじいダメージを与える。",
+        "MAGICITE_BERSERK_FORM_NAME": "バーサーカーフォーãƒ",
+        "MAGICITE_BERSERK_FORM_DESCRIPTION": "ミストが怒りに震え、移動速度とジャンプ高度が上昇し、攻撃に特化した動作セットを得る。",
+        "MAGICITE_JUDGEMENT_CUT_END_NAME": "最終ジャッジメントカット",
+        "MAGICITE_JUDGEMENT_CUT_END_DESCRIPTION": "ヴォーパルソードを鞘に収め、エネルギーを蓄積した後、遅延の後に電光石火の斬撃の嵐を解放して凄まじいダメージを与える。",
+        "MAGICITE_POWER_WORD_KILL_NAME": "パワーワード・キル",
+        "MAGICITE_POWER_WORD_KILL_DESCRIPTION": "短いチャネリング後:<style=cIsDamage>即座に</style>目標を排除する。",
+        "MAGICITE_MP_THRIFT_NAME": "MP節約",
+        "MAGICITE_MP_THRIFT_DESCRIPTION": "リンクされた呪文のMP消費が減少する。",
+        "MAGICITE_MP_TURBO_NAME": "MPターボ",
+        "MAGICITE_MP_TURBO_DESCRIPTION": "リンクされた呪文のダメージが増加し、MP消費も増加する。",
+        "MAGICITE_LIMIT_SYPHON_NAME": "リミットサイフォン",
+        "MAGICITE_LIMIT_SYPHON_DESCRIPTION": "呪文コストに基づいてリミットを得る。",
+        "JAVANGLE_MYST_BODY_UI_NUMOFBOLTS": "雷の数:",
+        "JAVANGLE_MYST_BODY_UI_PERCENTBLOCKED": "{0}% × ブロックしたヒット数"
+    }
+}
