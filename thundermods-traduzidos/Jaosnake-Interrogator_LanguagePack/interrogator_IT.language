@@ -1,0 +1,16 @@
+{
+    "IT": {
+        "KENKO_INTERROGATOR_NAME": "Interrogatore",
+        "KENKO_INTERROGATOR_SUBTITLE": "Specialista del tormento",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "L'interrogatore può colpire ed essere colpito da alleati e nemici. Gli aggressori che colpiscono l'interrogatore vengono permanentemente contrassegnati come colpevoli. Infliggi 50 danni base in più per ogni nemico colpevole.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Oscilla il bastone davanti a te, infliggendo il 320% di danni. Mancare l'attacco ti farà subire invece il 90% di danni.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lancia una mannaia che infligge il 450% dei danni. Se la mannaia uccide il bersaglio, applica Emorragia e Pressione a tutti nell'area.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Scatta in avanti infliggendo il 390% di danni e applicando Colpevolezza ai bersagli colpiti.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condannato",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Contrassegna un nemico colpevole e duellalo per 10 secondi. Durante questo periodo, tutti i danni esterni vengono annullati, compreso il tuo. Il tuo attacco primario non può più colpirti, ma aumenta continuamente il bonus al danno Colpevole.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Condannato (Scettro)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Contrassegna un nemico colpevole e duellalo per 14 secondi. Durante questo periodo, tutti i danni esterni vengono annullati. Il tuo attacco primario non può più colpirti, ma aumenta il bonus al danno di Colpevolezza con un'efficienza doppia.",
+        "MASTERY_SKIN_NAME": "Interrogatore: specialista"
+    }
+}

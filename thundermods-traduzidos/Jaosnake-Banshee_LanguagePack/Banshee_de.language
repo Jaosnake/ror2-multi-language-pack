@@ -25,6 +25,6 @@
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "Calamitas",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Wirf 3 Granaten, die instabile schwarze Löcher erzeugen.</style>. Nach <style=cIsUtility>5</style> Sekunden kollabieren die schwarzen Löcher und verursachen <style=cIsDamage>700% Schaden</style>.",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Complete a stage without touching the ground more than once."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Schließe eine Etappe ab, ohne den Boden mehr als einmal zu berühren."
     }
 }

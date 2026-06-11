@@ -1,0 +1,22 @@
+{
+    "de": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Überholter Übersetzungsroboter",
+        "BASTIAN_DESCRIPTION": "Ein lokaler Roboter, der gebaut wurde, um bei der Aushandlung von Geschäften mit fremden Planetenkörpern zu helfen. Sein ursprünglicher Zweck bestand darin, als Vermittler zu fungieren und auf Planeten mit Luft und Temperaturen zu überleben, denen ein normaler Mensch nicht standhalten konnte. Es wurde im Rahmen eines Notfallplans an Bord der UES Contact Light gebracht. Am Ende wurde es jedoch für den Kampf umprogrammiert, obwohl es sich um eine einfache Hol- und Tragemission handelte.",
+        "BASTIAN_NAME_EPIC": "Bastian der Übersetzer, Modell 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian der Übersetzer, Modell 4.I.N.K.",
+        "BASTIAN_OUTRO": "..und so ging er, seine Funktion war endlich erfüllt.",
+        "BASTIAN_FAIL": "..und so wurde er deaktiviert, sein Gedächtnis für immer gelöscht.",
+        "BASTIAN_M1": "Ionenschaukel",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Nahkampf</style>. <style=cIsUtility>Agil</style>. Schlage Feinde voraus<style=cIsDamage>250 % Schaden</style>. Baut<style=cIsUtility>Ionenladungen</style>. Der Schaden wird beim Ausweichen halbiert.",
+        "BASTIAN_M2": "Mikrokugel",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agil</style>. Feuern Sie bis zu 5 Energiegeschosse ab, die jeweils Schaden verursachen<style=cIsDamage>250 % Schaden</style>. Baut<style=cIsUtility>Ionenladungen</style>. Fügt beim Ausweichen keine Betäubung hinzu.",
+        "BASTIAN_UTIL": "Nano-Frühling",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ausführen</style>ein schneller Sprint in jede Richtung. Baut<style=cIsUtility>Ionenladungen</style>.",
+        "BASTIAN_SPEC": "Explosion des Architekten",
+        "BASTIAN_SPEC_DESCRIPTION": "Ausgeben<style=cIsHealth>33 % aktueller Gesundheitszustand</style>Und<style=cIsUtility>alle ionischen Ladungen</style>für eine gewaltige Explosion von<style=cIsDamage>500–3.000 % Schaden</style>. Nach Gebrauch werden<color=#E9AFEA>Ausweichend</color>für 10 Sekunden.",
+        "BASTIAN_SPEC_KEYWORD": "Besonders",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Standard",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Meisterschaft"
+    }
+}

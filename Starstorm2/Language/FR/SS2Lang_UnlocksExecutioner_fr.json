@@ -1,18 +1,18 @@
 {
-  "strings": {
-    "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
-    "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Defeat an enemy by dealing 1000% of its max health in damage.",
-    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Executioner: Mastery",
-    "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Executioner, beat the game or obliterate on Monsoon or harder.",
-    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Executioner: Grand Mastery",
-    "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "As Executioner, beat the game or obliterate on Typhoon or harder.",
-    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Executioner: Crack the Vault",
-    "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Executioner, open the ancient gate on Abandoned Aqueduct.",
-    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Executioner: Kuwabara, Kuwabara",
-    "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Executioner, defeat an Overloading Worm using Execution.",
-    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Executioner: Slayer",
-    "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "As Executioner, slay 12 enemies in a single use of Execution.",
-    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Executioner: Forced Discharge",
-    "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "As Executioner, become Supercharged."
-  }
+    "strings": {
+        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
+        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Battez un ennemi en lui infligeant 1 000 % de sa santé maximale en dégâts.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Executioner: Mastery",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "En tant que bourreau, terminez le jeu ou effacez en mousson ou plus fort.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Executioner: Grand Mastery",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "En tant que bourreau, terminez le jeu ou effacez sur Typhoon ou plus fort.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Executioner: Crack the Vault",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "En tant que bourreau, ouvrez l'ancienne porte de l'aqueduc abandonné.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Executioner: Kuwabara, Kuwabara",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "En tant que bourreau, battez un ver surchargé en utilisant l'exécution.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Executioner: Slayer",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "En tant que bourreau, tuez 12 ennemis en une seule utilisation d'Exécution.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Executioner: Forced Discharge",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "En tant que bourreau, devenez suralimenté."
+    }
 }

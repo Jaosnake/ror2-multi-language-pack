@@ -25,6 +25,6 @@
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "Kalamitalar",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Kararsız kara delikler oluşturan 3 el bombası atın.</style>. Sonrasında<style=cIsUtility>5</style>saniyeler sonra kara delikler çöküyor<style=cIsDamage>%700 hasar</style>.",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Complete a stage without touching the ground more than once."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Bir aşamayı yere birden fazla dokunmadan tamamlayın."
     }
 }

@@ -1,0 +1,16 @@
+{
+    "de": {
+        "KENKO_INTERROGATOR_NAME": "Vernehmer",
+        "KENKO_INTERROGATOR_SUBTITLE": "Qual-Spezialist",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Quälen",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Der Vernehmer kann Verbündete und Feinde treffen und von ihnen getroffen werden. Angreifer, die den Vernehmer treffen, werden dauerhaft als schuldig markiert. Verursache 50 mehr Grundschaden pro schuldigem Feind.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Schwingen Sie Ihren Schlagstock nach vorne und verursachen Sie 320 % Schaden. Wenn du den Angriff verfehlst, erleidest du stattdessen 90 % Schaden.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Wirf ein Hackbeil, das 450 % Schaden verursacht. Wenn das Hackbeil das Ziel tötet, werden Blutungen und Druck auf alle in der Umgebung ausgeübt.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Stürze vorwärts, verursache 390 % Schaden und verursache bei getroffenen Zielen \"Schuldig\".",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Sträfling",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Markieren Sie einen schuldigen Feind und duellieren Sie sich 10 Sekunden lang mit ihm. Während dieser Zeit werden alle äußeren Schäden, auch Ihre eigenen, negiert. Ihr Primärangriff kann Sie nicht mehr treffen, baut aber kontinuierlich den Guilty-Schadensbonus auf.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Sträfling (Zepter)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Markieren Sie einen schuldigen Feind und duellieren Sie sich 14 Sekunden lang mit ihm. Während dieser Zeit werden alle äußeren Schäden negiert. Ihr Primärangriff kann Sie nicht mehr treffen, erhöht aber den Guilty-Schadensbonus mit doppelter Effizienz.",
+        "MASTERY_SKIN_NAME": "Vernehmungsbeamter: Spezialist"
+    }
+}

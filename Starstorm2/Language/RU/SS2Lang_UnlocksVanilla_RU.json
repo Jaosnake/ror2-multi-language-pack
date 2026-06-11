@@ -1,20 +1,20 @@
 {
-  "strings": {
-    "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Commando: Grand Mastery",
-    "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "As Commando, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Commando: Scorpion",
-    "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "As Commando, find the hidden Prismatic Crystal on Titanic Plains.",
-    "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Commando: Lone Echo",
-    "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "As Commando, defeat Commando's Vestige.",
-    "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Grand Mastery",
-    "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "As MUL-T, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Acrid: Grand Mastery",
-    "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "As Acrid, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Captain: Grand Mastery",
-    "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "As Captain, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Huntress: Grand Mastery",
-    "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "As Huntress, beat the game or obliterate on Typhoon or Harder.",
-    "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Mercenary: Vengeful Deserter",
-    "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "As Mercenary, defeat Mercenary's Vestige."
-  }
+    "strings": {
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Commando: Grand Mastery",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "Играя за коммандос, пройдите игру или уничтожьте противника на картах Тайфун или Хардер.",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Commando: Scorpion",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "Играя за коммандос, найдите спрятанный призматический кристалл на Титанических равнинах.",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Commando: Lone Echo",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "Играя за коммандос, победите «Остаток коммандос».",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Grand Mastery",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "Играя за MUL-T, пройдите игру или уничтожьте игру на Тайфуне или Хардере.",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Acrid: Grand Mastery",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "Играя за Акрида, пройдите игру или уничтожьте противника на Тайфуне или Хардере.",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Captain: Grand Mastery",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "Играя за Капитана, пройдите игру или уничтожьте противника на Тайфуне или Хардере.",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Huntress: Grand Mastery",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "Играя за Охотницу, пройдите игру или уничтожьте карту на Тайфуне или Хардере.",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Mercenary: Vengeful Deserter",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "Играя за Наемника, победите «Остаток наемника»."
+    }
 }

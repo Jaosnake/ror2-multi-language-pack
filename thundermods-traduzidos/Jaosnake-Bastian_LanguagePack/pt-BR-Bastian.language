@@ -7,7 +7,7 @@
         "BASTIAN_ROO_DESCRIPTION": "Bastian, o Tradutor, Modelo 4.I.N.K.",
         "BASTIAN_OUTRO": "..e assim ele partiu, sua função finalmente cumprida.",
         "BASTIAN_FAIL": "..e assim ele foi desativado, sua memória apagada para sempre.",
-        "BASTIAN_M1": "Ion Swing",
+        "BASTIAN_M1": "Balanço de íons",
         "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Corpo a corpo</style>. <style=cIsUtility>Ágil</style>. Golpeie inimigos à frente para <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. O dano é reduzido pela metade enquanto Evasivo.",
         "BASTIAN_M2": "Micro-Bala",
         "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare até 5 balas de energia, cada uma causando <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. Não aplica atordoamento enquanto Evasivo.",

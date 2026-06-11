@@ -1,14 +1,14 @@
 {
-  "strings": {
-    "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Lone Echo",
-    "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Defeat Commando's vestige.",
-    "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Nemesis Commando: Mastery",
-    "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "As Nemesis Commando, beat the game or obliterate on Monsoon or harder.",
-    "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Nemesis Commando: Grand Mastery",
-    "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "As Nemesis Commando, beat the game or obliterate on Typhoon or harder.",
-    "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Nemesis Commando: Nemesis Nemesis",
-    "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "As Nemesis Commando, defeat Commando's vestige.",
-    "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Nemesis Commando: Zandatsu",
-    "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "As Nemesis Commando, kill an enemy with 10 stacks of gouge or more."
-  }
+    "strings": {
+        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Lone Echo",
+        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Derrota el vestigio del Comando.",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Nemesis Commando: Mastery",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "Como Nemesis Commando, completa el juego o aniquila en Monsoon o en niveles más difíciles.",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Nemesis Commando: Grand Mastery",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "Como Nemesis Commando, completa el juego o aniquila en Typhoon o en niveles más difíciles.",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Nemesis Commando: Nemesis Nemesis",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "Como Nemesis Commando, derrota el vestigio de Commando.",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Nemesis Commando: Zandatsu",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "Como Nemesis Commando, mata a un enemigo con 10 acumulaciones de gubia o más."
+    }
 }

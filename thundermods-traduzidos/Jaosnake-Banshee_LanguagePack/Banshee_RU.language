@@ -25,6 +25,6 @@
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "Каламитас",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Бросьте 3 гранаты, которые создают нестабильные черные дыры.</style>. После<style=cIsUtility>5</style>секунд, черные дыры коллапсируют,<style=cIsDamage>700% урона</style>.",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Complete a stage without touching the ground more than once."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Завершите этап, не касаясь земли более одного раза."
     }
 }

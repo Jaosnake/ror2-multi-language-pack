@@ -1,6 +1,8 @@
 {
-  "strings": {
-    "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
-    "SS2_ACHIEVEMENT_COGNATION_DESC": "Complete the Trial of Cognation"
-  }
+    "strings": {
+        "SS2_ACHIEVEMENT_COGNATION_NAME": "Trial of Cognation",
+        "SS2_ACHIEVEMENT_COGNATION_DESC": "Завершите испытание родства",
+        "SS2_ACHIEVEMENT_HAVOC_NAME": "Trial of Havoc",
+        "SS2_ACHIEVEMENT_HAVOC_DESC": "Завершите Испытание хаоса"
+    }
 }

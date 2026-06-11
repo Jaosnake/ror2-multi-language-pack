@@ -1,7 +1,7 @@
 {
     "pt-BR": {
         "HASTEREAPR_ASSASSIN_NAME": "Assassino",
-        "HASTEREAPR_ASSASSIN_DESCRIPTION": "O assassino luta a médio alcance e usa veneno para causar danos aos inimigos ao longo do tempo. <color=#CCD3E0>\n\n< ! > As adagas são ótimas para lidar com alvos singulares. arcos, então mire um pouco acima de onde você realmente deseja pousar. \n\n< ! > War Cry é ótimo para usar quando você ativa o teletransporte\n\n",
+        "HASTEREAPR_ASSASSIN_DESCRIPTION": "O assassino luta a médio alcance e usa veneno para causar danos aos inimigos ao longo do tempo. <color=#CCD3E0>\n\n< ! > Como adagas são ótimas para lidar com alvos singulares. arcos, então mire um pouco acima de onde você realmente deseja pousar. \n\n< ! > War Cry é ótimo para usar quando você ativa o teletransporte\n\n",
         "HASTEREAPR_ASSASSIN_SUBTITLE": "Profissional Venenoso Silencioso",
         "HASTEREAPR_ASSASSIN_LORE": "Outrora reverenciado como um prodígio alquímico, o Assassino estava destinado a deixar uma marca indelével na história. Eles demonstraram uma afinidade incomparável com a preparação de poções que podiam fazer qualquer coisa que alguém pedisse. Sob a orientação de alquimistas estimados, eles aprimoraram seu ofício e ganharam a reputação de serem os alquimistas mais capazes que existiam. No entanto, com o tempo, eles foram alimentados pela ganância, algo que a sociedade alquímica desaprovava fortemente. Isso os levou a abandonar a sociedade que os orientou. \n\nSua imensa ganância e ódio pela sociedade alquímica em que cresceram levaram o Assassino a um caminho sombrio que eles nunca poderiam ter imaginado. Consumidos pela ganância e pelo desejo de serem famosos, eles direcionaram sua experiência para um propósito mais sombrio. Eles passaram meses preparando sua poção mais mortal, uma neurotoxina tão mortal que sugava a vida de qualquer um que inalasse a fumaça. Sabendo que não conseguiriam sobreviver a isso, eles criaram um antídoto e o infundiram em sua capa. \n\nEles ganharam notoriedade como caçadores de recompensas implacáveis ​​e esquivos. Seus serviços eram procurados tanto por criminosos quanto por senhores da guerra, e seu veneno se tornou seu estilo característico de assassinato, servindo efetivamente como um cartão de visita. Eles aproveitaram suas habilidades de preparo para fazer outras poções, aquelas que poderiam mover sua estrutura molecular e outras que poderiam fazer seu corpo desaparecer em um piscar de olhos. efeito colateral de que permaneceria no ar. Isso lhes permitiu matar salas inteiras de pessoas com uma única poção. \n\nEles foram encarregados de matar o capitão dos EUA. Safe Travels, no entanto, ao pousar, eles sentiram uma poderosa presença de outro mundo atraindo-os por um caminho cada vez mais escuro, cada vez mais profundo.",
         "HASTEREAPR_ASSASSIN_OUTRO_FLAVOR": "..e então eles partiram, para reivindicar sua maior recompensa.",
@@ -24,15 +24,15 @@
         "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_NAME": "Astúcia do Malandro",
         "HASTEREAPR_ASSASSIN_ALT1_PASSIVE_DESCRIPTION": "Ser atingido tem uma chance de <style=cIsUtility>5%</style> de gerar uma isca que vive por 5 segundos e explode causando <style=cIsDamage>1500% de dano</style>.",
         "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_NAME": "Punhal",
-        "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_DESCRIPTION": "<style=cIsUtility>Agile.</style>Jogue 2 adagas para <style=cIsDamage>100% de dano</style>.",
+        "HASTEREAPR_ASSASSIN_PRIMARY_DAGGER_DESCRIPTION": "<style=cIsUtility>Ágil.</style>Jogue 2 adagas para <style=cIsDamage>100% de dano</style>.",
         "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_NAME": "Adaga Fantasmagórica",
-        "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_DESCRIPTION": "<style=cIsUtility>Agile.</style>Arremesse 1 adaga para <style=cIsDamage>30% a 200% de dano</style>.",
+        "HASTEREAPR_ASSASSIN_PRIMARY_CUTTER_DESCRIPTION": "<style=cIsUtility>Ágil.</style>Arremesse 1 adaga para <style=cIsDamage>30% a 200% de dano</style>.",
         "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME": "Tóxico",
-        "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION": "<style=cIsUtility>Agil.</style>Jogue uma poção venenosa para <style=cIsDamage>250% de dano</style> mais um adicional de <style=cIsDamage>500% de dano ao longo do tempo.</style>",
-        "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_SCEPTER": "<style=cIsUtility>Agile.</style>Jogue uma poção venenosa agrupada para <style=cIsDamage>250% de dano</style> mais um adicional de <style=cIsDamage>500% de dano ao longo do tempo, cada.</style> \n\n<style=cKeywordName>Enquanto estiver sob a influência de War Cry, jogue uma poção agrupada recursivamente, com mais fraco crianças.</style>",
+        "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION": "<style=cIsUtility>Ágil.</style>Jogue uma poção venenosa para <style=cIsDamage>250% de dano</style> mais um adicional de <style=cIsDamage>500% de dano ao longo do tempo.</style>",
+        "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_SCEPTER": "<style=cIsUtility>Ágil.</style>Jogue uma poção venenosa agrupada para <style=cIsDamage>250% de dano</style> mais um adicional de <style=cIsDamage>500% de dano ao longo do tempo, cada.</style> \n\n<style=cKeywordName>Enquanto estiver sob a influência de War Cry, jogue uma poção agrupada recursivamente, com mais fraco crianças.</style>",
         "HASTEREAPR_ASSASSIN_SECONDARY_POISON_NAME_ALT": "Veneno Virulento",
-        "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_ALT": "<style=cIsUtility>Agil.</style>Jogue uma poção prolongada para <style=cIsDamage>500% de dano.</style> <style=cIsUtility>As toxinas permanecem por 5 segundos.</style> <style=cDeath>Não inflige veneno.</style>",
-        "HASTEREAPR_ASSASSIN_SCEPTER_SECONDARY_POISON_DESCRIPTION_ALT": "<style=cIsUtility>Agil.</style>Jogue 2 poções persistentes em um leque solto para causar <style=cIsDamage>500% de dano.</style> <style=cIsUtility>As toxinas permanecem por 5 segundos.</style> <style=cDeath>Não inflige veneno.</style>",
+        "HASTEREAPR_ASSASSIN_SECONDARY_POISON_DESCRIPTION_ALT": "<style=cIsUtility>Ágil.</style>Jogue uma poção prolongada para <style=cIsDamage>500% de dano.</style> <style=cIsUtility>Como toxinas permanecem por 5 segundos.</style> <style=cDeath>Não inflige veneno.</style>",
+        "HASTEREAPR_ASSASSIN_SCEPTER_SECONDARY_POISON_DESCRIPTION_ALT": "<style=cIsUtility>Ágil.</style>Jogue 2 poções persistentes em um leque solto para causar <style=cIsDamage>500% de dano.</style> <style=cIsUtility>Como toxinas permanecem por 5 segundos.</style> <style=cDeath>Não inflige veneno.</style>",
         "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_NAME": "Teleporte",
         "HASTEREAPR_ASSASSIN_UTILITY_CLOAK_DESCRIPTION": "Jogue uma poção em direção ao seu cursor <style=cIsUtility>teletransportando você para onde ela pousar,</style> então jogue uma poção no chão, <style=cIsUtility>explodindo em uma nuvem de fumaça, ganhando o buff de velocidade de camuflagem.</style>",
         "HASTEREAPR_ASSASSIN_UTILITY_ROLL_NAME": "Rolo de camuflagem",
@@ -44,10 +44,10 @@
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_NAME": "Punção lombar",
         "HASTEREAPR_ASSASSIN_SPECIAL_BACKSTAB_DESCRIPTION": "Esfaqueie seus inimigos causando <style=cIsDamage>750% de dano. </style><style=cIsUtility>Ao esfaquear um inimigo menor por trás,</style> <style=cIsHealth>mata instantaneamente seu alvo.</style> Ao esfaquear um chefe por trás, tenha um <style=cIsUtility>2%</style> a <style=cIsHealth>mate instantaneamente seu alvo.</style> Se isso falhar, distribua <style=cIsDamage>20% dos alvos saúde.</style>",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_NAME": "Assassin: Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Monsoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Assassino, termine o jogo ou destrua em Monsoon ou superior.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_NAME": "Assassin: Grand Mastery",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Assassin, beat the game or obliterate on Typhoon or higher.",
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Como Assassino, vença o jogo ou destrua no Typhoon ou superior.",
         "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_NAME": "Assassin: Deathly Concoction",
-        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "As Assassin, apply 10 stacks of Assassin's Poison on a single enemy."
+        "ACHIEVEMENT_HASTEREAPR_ASSASSIN_POISONACHIEVEMENT_DESCRIPTION": "Como Assassino, aplique 10 aplicações de Veneno de Assassino em um único inimigo."
     }
 }

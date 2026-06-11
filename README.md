@@ -401,6 +401,7 @@ EnforcerGang-HAND_OVERCLOCKED
 EnforcerGang-MinerUnearthed
 EnforcerGang-Pilot
 EnforcerGang-Rocket
+EnforcerGang-SniperClassic
 Frosthex-SorceressMod
 HasteReapr-AssassinMod
 JavAngle-Myst

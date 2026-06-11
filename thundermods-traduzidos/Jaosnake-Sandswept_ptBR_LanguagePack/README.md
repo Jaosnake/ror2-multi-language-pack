@@ -1,31 +1,33 @@
-# Jaosnake-Sandswept_ptBR_LanguagePack
+# 🌍 Jaosnake-Sandswept_ptBR_LanguagePack
 
-Portuguese (Brazil) translation pack for **Sandswept** by **SandsweptTeam**.
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.1-blue)
+![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Translations by Jaosnake.
+Multi-language translation pack for **Sandswept** by **SandsweptTeam**.
 
-## Dependencies
+> ⚠️ pt-BR is NOT included in this pack. pt-BR was manually translated by Jaosnake and is available separately.
+
+> 🇺🇦 Ukrainian not available yet. Want it? Send a message on [Ko-fi](https://ko-fi.com/jaosnake).
+
+---
+
+## 📦 Dependencies
 | Package | Version |
 |---------|---------|
 | SandsweptTeam-Sandswept | `1.4.4` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## Languages
+## 🌐 Languages
 | Flag | Language |
 |------|----------|
-| 🇧🇷 | Portuguese (Brazil) |
 
-## Credits
+## 👤 Credits
 | Role | Name |
 |------|------|
 | Original Mod | [SandsweptTeam](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) |
-| Translation | Jaosnake |
+| Translations | Jaosnake |
 
-## Support
+---
+
+## ☕ Support
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
-
-
-## Problemas / Feedback
-Para problemas ou sugestões de tradução, abra um ticket em https://github.com/Jaosnake/ror2-multi-language-pack/issues
-
-> **Nota**: O tempo de carregamento do jogo pode aumentar ligeiramente devido ao processamento adicional dos pacotes de idioma durante a inicializacao.

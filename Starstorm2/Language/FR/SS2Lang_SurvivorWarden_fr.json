@@ -1,22 +1,22 @@
 {
-  "strings": {
-    "SS2_WARDEN_BODY_NAME": "Gardien",
-    "SS2_WARDEN_BODY_SUBTITLE": "Le crime a un nouvel ennemi",
-    "SS2_WARDEN_DESCRIPTION": "L'avenir de l'application de la loi. Le Gardien est un \n\nThis mod was translated by: Jaosnake",
-    "SS2_WARDEN_OUTRO_FLAVOR": "..et ainsi il partit, meurtri jusqu'au tréfonds de l'espoir.",
-    "SS2_WARDEN_OUTRO_FAILURE": "..et ainsi il disparut, le bouclier brisé et l'espoir éteint.",
-    "SS2_WARDEN_BODY_LORE": "pourquoi y a-t-il des GARDIENS dans l'espace",
-    "SS2_WARDEN_PASSIVE_NAME": "Revigorer",
-    "SS2_WARDEN_PASSIVE_DESC": "Une aura de renforcement vous entoure qui accorde aux alliés dans son rayon JSP ENCORE ÇA NE MARCHE PAS",
-    "SS2_WARDEN_PRIMARY_SWORD_NAME": "Lame Aeonium",
-    "SS2_WARDEN_PRIMARY_SWORD_DESC": "Balancez votre épée pour X% de dégâts, le 3ème coup transperce pour X% de dégâts",
-    "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Bloquer",
-    "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Levez votre bouclier pour bloquer, gagnant X% d'armure et Y% de réduction de vitesse de déplacement. Bloquer une attaque dans les 0,5 premières secondes d'activation pare l'attaque et renforce votre prochaine compétence. Votre attaque principale devient un coup de bouclier et sauter en gardant le bouclier vous fait rouler à la place.",
-    "SS2_WARDEN_SHIELD_BASH_NAME": "Heurt",
-    "SS2_WARDEN_SHIELD_BASH_DESC": "Donnez un coup de bouclier devant vous pour <style=cIsDamage>240% de dégâts</style> et <style=cIsUtility>étourdissez</style> les ennemis touchés.",
-    "SS2_WARDEN_UTILITY_LEAP_NAME": "Ruée frappante",
-    "SS2_WARDEN_UTILITY_LEAP_DESC": "Tournoyez en avant et tranchez devant vous à plusieurs reprises, infligeant <style=cIsDamage>240% de dégâts</style> par tranche.",
-    "SS2_WARDEN_SPECIAL_BANNER_NAME": "Ralliement",
-    "SS2_WARDEN_SPECIAL_BANNER_DESC": "Sautez et plantez une bannière qui ralentit les ennemis et les projectiles, accorde <style=cIsUtility>X% de vitesse de déplacement</style>, <style=cIsDamage>Y% de vitesse d'attaque</style>, pour vous et vos alliés."
-  }
+    "strings": {
+        "SS2_WARDEN_BODY_NAME": "Gardien",
+        "SS2_WARDEN_BODY_SUBTITLE": "Le crime a un nouvel ennemi",
+        "SS2_WARDEN_DESCRIPTION": "L'avenir de l'application de la loi. Le Gardien est un \n\nThis mod was translated by: Jaosnake",
+        "SS2_WARDEN_OUTRO_FLAVOR": "..et ainsi il partit, meurtri jusqu'au tréfonds de l'espoir.",
+        "SS2_WARDEN_OUTRO_FAILURE": "..et ainsi il disparut, le bouclier brisé et l'espoir éteint.",
+        "SS2_WARDEN_BODY_LORE": "pourquoi y a-t-il des GARDIENS dans l'espace",
+        "SS2_WARDEN_PASSIVE_NAME": "Revigorer",
+        "SS2_WARDEN_PASSIVE_DESC": "Une aura de renforcement vous entoure qui accorde aux alliés dans son rayon JSP ENCORE ÇA NE MARCHE PAS",
+        "SS2_WARDEN_PRIMARY_SWORD_NAME": "Lame Aeonium",
+        "SS2_WARDEN_PRIMARY_SWORD_DESC": "Balancez votre épée pour X% de dégâts, le 3ème coup transperce pour X% de dégâts",
+        "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Bloquer",
+        "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Levez votre bouclier pour bloquer, gagnant X% d'armure et Y% de réduction de vitesse de déplacement. Bloquer une attaque dans les 0,5 premières secondes d'activation pare l'attaque et renforce votre prochaine compétence. Votre attaque principale devient un coup de bouclier et sauter en gardant le bouclier vous fait rouler à la place.",
+        "SS2_WARDEN_SHIELD_BASH_NAME": "Heurt",
+        "SS2_WARDEN_SHIELD_BASH_DESC": "Donnez un coup de bouclier devant vous pour <style=cIsDamage>240% de dégâts</style> et <style=cIsUtility>étourdissez</style> les ennemis touchés.",
+        "SS2_WARDEN_UTILITY_LEAP_NAME": "Ruée frappante",
+        "SS2_WARDEN_UTILITY_LEAP_DESC": "Tournoyez en avant et tranchez devant vous à plusieurs reprises, infligeant <style=cIsDamage>240% de dégâts</style> par tranche.",
+        "SS2_WARDEN_SPECIAL_BANNER_NAME": "Ralliement",
+        "SS2_WARDEN_SPECIAL_BANNER_DESC": "Sautez et plantez une bannière qui ralentit les ennemis et les projectiles, accorde <style=cIsUtility>X% de vitesse de déplacement</style>, <style=cIsDamage>Y% de vitesse d'attaque</style>, pour vous et vos alliés."
+    }
 }

@@ -1,6 +1,6 @@
 {
     "es-419": {
-        "KENKO_BANSHEE_NAME": "Banshee",
+        "KENKO_BANSHEE_NAME": "alma en pena",
         "KENKO_BANSHEE_DESCRIPTION": "La Banshee es una superviviente aérea que destaca esquivando en el combate a corta distancia.<color=#CCD3E0>\n\n< ! > El Paraguas ATK es lento de balancear y no se puede usar mientras flotas, pero es una gran manera de elevarte.\n\n< ! > Acumular cargas de Bomba en Picada antes de desatarla puede infligir un daño devastador en su punto óptimo.\n\n< ! > Los Propulsores HDN pueden aumentar considerablemente la movilidad de la Banshee en el aire — úsalos con moderación para esquivar proyectiles enemigos letales.\n\n< ! > La Granada CAL es genial para agrupar enemigos — ¡Intenta apuntar tu Bomba en Picada a su centro para máxima eficiencia!\n\n",
         "KENKO_BANSHEE_SUBTITLE": "Heraldo de la Casa del Más Allá",
         "KENKO_BANSHEE_LORE": "A medida que las herramientas se convierten en armas, nuevas fuerzas han surgido dentro de la estricta jerarquía de la Casa del Más Allá para \"Experimentar\" con sus nuevas tecnologías. Entre estas fuerzas, las Banshees dominan en armamento aéreo con sus Paraguas FLT. Con la capacidad de invocar fuegos fatuos y colapsar la gravedad, sus capacidades destructivas son infinitas. En el futuro, la Casa del Más Allá espera perfeccionar los principios de diseño para disparar las capacidades de su tecnología hasta la luna.",
@@ -25,6 +25,6 @@
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "Calamitas",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Lanza 3 granadas que crean agujeros negros inestables.</style>. Después de <style=cIsUtility>5</style> segundos, los agujeros negros colapsan infligiendo <style=cIsDamage>700% de daño</style>.",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Complete a stage without touching the ground more than once."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Completa una etapa sin tocar el suelo más de una vez."
     }
 }

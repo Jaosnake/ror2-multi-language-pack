@@ -1,0 +1,16 @@
+{
+    "tr": {
+        "KENKO_INTERROGATOR_NAME": "Sorgulayıcı",
+        "KENKO_INTERROGATOR_SUBTITLE": "İşkence Uzmanı",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "eziyet",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Sorgulayıcı müttefiklere ve düşmanlara vurabilir ve onlar tarafından vurulabilir. Sorgulayıcıya saldıran saldırganlar kalıcı olarak Suçlu olarak işaretlenir. Suçlu düşman başına 50 daha fazla temel hasar verir.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Asanızı öne doğru sallayarak %320 hasar verirsiniz. Saldırıyı kaçırmak bunun yerine %90 hasar almanıza neden olur.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "%450 hasar veren bir satır fırlatın. Satır hedefi öldürürse bölgedeki herkese Kanama ve Basınç uygular.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "İleriye doğru atılarak %390 hasar verir ve vurulan hedeflere Suçluluk uygular.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Hükümlü",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Suçlu bir düşmanı işaretleyin ve 10 saniye boyunca onunla düello yapın. Bu süre zarfında, sizinki de dahil olmak üzere tüm dış hasarlar engellenir. Birincil saldırınız artık size vuramaz ancak sürekli olarak Suçlu hasarı bonusunu oluşturur.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Hükümlü (Asa)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Suçlu bir düşmanı işaretleyin ve 14 saniye boyunca onunla düello yapın. Bu süre boyunca tüm dış hasarlar engellenir. Birincil saldırınız artık size vuramaz ancak iki kat verimlilikle Suçlu hasarı bonusunu oluşturur.",
+        "MASTERY_SKIN_NAME": "Sorgulayıcı: Uzman"
+    }
+}
