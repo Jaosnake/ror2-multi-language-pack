@@ -1,17 +1,22 @@
-NDP_DANCER_BODY_PASSIVE_NAME: Ruban Restrictif
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Les ennemis avec un ruban saignent de 50% de dégâts par seconde et ne peuvent pas agir. <i>Translated by: Jaosnake. Original mod by nayDPz</i>
-PRIMARY_SLASH_NAME: Coup
-PRIMARY_SLASH_DESCRIPTION: Attaque au corps à corps avec des effets basés sur votre visée. (Passez la souris pour plus de détails)
-PRIMARY_SLASH2_NAME: Entaille
-PRIMARY_SLASH2_DESCRIPTION: Attaque au corps à corps avec des effets basés sur votre visée. (Passez la souris pour plus de détails)
-UTILITY_PULL_NAME: Attirance
-UTILITY_PULL_DESCRIPTION: Attirez les ennemis vers vous.
-SPECIAL_RIBBON_LOCK_NAME: Ruban d'Entrave
-SPECIAL_RIBBON_LOCK_DESCRIPTION: Appliquez un ruban sur un ennemi, l'empêchant d'agir et causant un saignement.
-KEYWORD_DANCER_JAB: <style=cKeywordName>Jab</style><style=cSub>Input au sol, visez devant. Avancez et infligez <style=cIsDamage>180% de dégâts</style>.
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>Input au sol, visez vers le bas. Projetez les ennemis en l'air et infligez <style=cIsDamage>200% de dégâts</style>.
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>Input en l'air, visez devant. Coup puissant qui inflige <style=cIsDamage>180% de dégâts</style> et cloue les ennemis au sol, étourdissant et infligeant jusqu'à <style=cIsDamage>300% de dégâts</style>.
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>Ruban</style><style=cSub>Les ennemis avec un ruban saignent de <style=cIsDamage>50% de dégâts par seconde</style> et ne peuvent pas agir.
-NDP_DANCER_BODY_SUBTITLE: Danse Mortelle
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: Par défaut
-NDP_DANCER_GOLD_SKIN_NAME: Doré
+{
+    "strings": {
+        "NDP_DANCER_BODY_NAME": "Dancer",
+        "NDP_DANCER_BODY_SUBTITLE": "Danse Mortelle",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Doré",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Ruban Restrictif",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Les ennemis avec un ruban saignent de 50% de dégâts par seconde et ne peuvent pas agir.Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Coup",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Attaque au corps à corps avec des effets basés sur votre visée. (Passez la souris pour plus de détails)Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Entaille",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Attaque au corps à corps avec des effets basés sur votre visée. (Passez la souris pour plus de détails)Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Attirance",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Attirez les ennemis vers vous.Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Ruban d'Entrave",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Appliquez un ruban sur un ennemi, l'empêchant d'agir et causant un saignement.Original mod by nayDPz</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Input au sol, visez devant. Avancez et infligez <style=cIsDamage>180% de dégâts</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>Input au sol, visez vers le bas. Projetez les ennemis en l'air et infligez <style=cIsDamage>200% de dégâts</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Input en l'air, visez devant. Coup puissant qui inflige <style=cIsDamage>180% de dégâts</style> et cloue les ennemis au sol, étourdissant et infligeant jusqu'à <style=cIsDamage>300% de dégâts</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Ruban</style><style=cSub>Les ennemis avec un ruban saignent de <style=cIsDamage>50% de dégâts par seconde</style> et ne peuvent pas agir."
+    }
+}

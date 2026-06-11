@@ -1,19 +1,25 @@
-KENKO_CADET_NAME: カデット
-KENKO_CADET_SUBTITLE: 多用途射手
-KENKO_CADET_MASTERY_SKIN_NAME: カデット：スペシャリスト
-PRIMARY_SMG_NAME: サブマシンガン
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>敏捷</style>。SMGを高速発射し、1発あたり<style=cIsDamage>60%のダメージ</style>。
-PRIMARY_SHOTGUN_NAME: ショットガン
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>敏捷</style>。ショットガンを発射し<style=cIsDamage>100%のダメージ</style>。
-SECONDARY_GRENADE_NAME: グレネード
-SECONDARY_GRENADE_DESCRIPTION: 手榴弾を投げ、<style=cIsDamage>400%のダメージ</style>を与える。
-SECONDARY_THROWGUN_NAME: 武器投擲
-SECONDARY_THROWGUN_DESCRIPTION: 現在の武器を投げ、<style=cIsDamage>600%のダメージ</style>を与える。
-UTILITY_SLIDE_NAME: スライド
-UTILITY_SLIDE_DESCRIPTION: 方向にスライドし、武器を<style=cIsUtility>即座にリロード</style>する。
-UTILITY_ROLLOAD_NAME: タクティカルロール
-UTILITY_ROLLOAD_DESCRIPTION: 方向にロールし、武器をリロードする。
-SPECIAL_ECHO_NAME: エコー
-SPECIAL_ECHO_DESCRIPTION: ソニックドローンを発射し、敵間を跳ね返り<style=cIsDamage>350%のダメージ</style>と減速を与える。
-SPECIAL_ULTRA_NAME: ウルトラ
-SPECIAL_ULTRA_DESCRIPTION: 強力なエネルギーブラストを発射し<style=cIsDamage>600%のダメージ</style>を与える。
+{
+    "strings": {
+        "KENKO_CADET_NAME": "カデット",
+        "KENKO_CADET_DESCRIPTION": "カデットは多目的ガンナーで、短距離武器と高速移動で戦闘を突码できる。<color=#CCD3E0>Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SUBTITLE": "多用途射手",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "デフォルト",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "カデット:スペシャリスト",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "弾丸の嵐",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>.レーザーを発射し<style=cIsDamage>60%のダメージ</style>を与える。20発後に<style=cIsUtility>リロード</style>が必要。",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "破壊的な潮流",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>敏捷</style>.バーストを発射し<style=cIsDamage>3x100%のダメージ</style>を与える。10発後に<style=cIsUtility>リロード</style>が必要。",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "プランB",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "軽量グレネードランチャーを発射し<style=cIsDamage>400%のダメージ</style>を与える。",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "プランC",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "武器を投げ、現在の弾薬に応じて<style=cIsDamage>250%から750%のダメージ</style>を与える。",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "スライドリロード",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "方向にスライドし、武器を<style=cIsUtility>即座にリロード</style>する。",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "リロードロール",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "方向にロールし、武器を<style=cIsUtility>即座にリロード</style>する。",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "プランA",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>敏捷</style>.重いペレットのバーストを発射し<style=cIsDamage>32x150%のダメージ</style>を与える。",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "エコードローン",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "<style=cIsDamage>2台のドローン</style>を製造し、近くの敵を探して<style=cIsDamage>2x370%のダメージ</style>を与える。"
+    }
+}

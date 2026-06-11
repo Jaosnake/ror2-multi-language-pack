@@ -1,12 +1,16 @@
-KENKO_INTERROGATOR_NAME: Interrogador
-KENKO_INTERROGATOR_SUBTITLE: Especialista em Tormento
-KENKO_INTERROGATOR_PASSIVE_NAME: Tormento
-KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: O Interrogador pode acertar e ser acertado por aliados e inimigos. Atacantes que acertam o Interrogador sÃ£o marcados permanentemente como Culpados. Cause 50 de dano base a mais por inimigo Culpado.
-KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: Balance seu bastÃ£o na frente, causando 320% de dano. Errar o ataque faz com que vocÃª sofra 90% de dano no lugar.
-KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: Lance um cutelo que causa 450% de dano. Se o cutelo matar o alvo, aplica Hemorragia e PressÃ£o em todos na Ã¡rea.
-KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: Avance rapidamente causando 390% de dano e aplicando Culpado nos alvos atingidos.
-KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: Condenar
-KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: Marque um inimigo Culpado e lute contra ele por 10s. Durante este perÃ­odo, todo dano externo Ã© negado, incluindo o seu prÃ³prio. Seu ataque primÃ¡rio nÃ£o pode mais acertar vocÃª, mas acumula continuamente o bÃ´nus de dano de Culpado.
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: Condenar (Cetro)
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: Marque um inimigo Culpado e lute contra ele por 14s. Durante este perÃ­odo, todo dano externo Ã© negado. Seu ataque primÃ¡rio nÃ£o pode mais acertar vocÃª, mas acumula o bÃ´nus de dano de Culpado com o dobro da eficiÃªncia.
-MASTERY_SKIN_NAME: Interrogador: Especialista
+{
+    "pt-BR": {
+        "KENKO_INTERROGATOR_NAME": "Interrogador",
+        "KENKO_INTERROGATOR_SUBTITLE": "Especialista em Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "O Interrogador pode acertar e ser acertado por aliados e inimigos. Atacantes que acertam o Interrogador são marcados permanentemente como Culpados. Cause 50 de dano base a mais por inimigo Culpado.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Balance seu bastão na frente, causando 320% de dano. Errar o ataque faz com que você sofra 90% de dano no lugar.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Lance um cutelo que causa 450% de dano. Se o cutelo matar o alvo, aplica Hemorragia e Pressão em todos na área.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Avance rapidamente causando 390% de dano e aplicando Culpado nos alvos atingidos.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Marque um inimigo Culpado e lute contra ele por 10s. Durante este período, todo dano externo é negado, incluindo o seu próprio. Seu ataque primário não pode mais acertar você, mas acumula continuamente o bônus de dano de Culpado.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Condenar (Cetro)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Marque um inimigo Culpado e lute contra ele por 14s. Durante este período, todo dano externo é negado. Seu ataque primário não pode mais acertar você, mas acumula o bônus de dano de Culpado com o dobro da eficiência.",
+        "MASTERY_SKIN_NAME": "Interrogador: Especialista"
+    }
+}

@@ -1,12 +1,11 @@
-{ "ko":
-	{
-	"FATACRID_BODY_NAME" : "Perro Grande",
-	"FATACRID_BODY_SUBTITLE" : "(Forma Gigante)",
-	
-	"DIGGERPLUGIN_DIRESEEKER_BODY_NAME" : "ì ˆë°•í•œ êµ¬ë„ìž",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE" : "ì¶”ì  ì‚¬ì‚´",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_LORE" : "ì „ì„¤ì— ë”°ë¥´ë©´ í•œë•Œ íŽ˜íŠ¸ë¦¬ì½”í”„ Vì˜ ì§€í•˜ ë§‰ì‚¬ë¥¼ ë°°íšŒí–ˆë˜ ê´´ë¬¼ ì§ìŠ¹ì´ ìžˆë‹¤ê³  í•©ë‹ˆë‹¤.\n\nê°€ìž¥ ìš©ê°í•œ ìƒì¡´ìžì™€ ê°€ìž¥ ì‚¬ì•…í•œ ê´´ë¬¼ë“¤ë„ ë‘ë ¤ì›Œí•œ ì´ ê±°ëŒ€í•œ ì§ìŠ¹ì€ ë…ë³´ì ì´ì—ˆìŠµë‹ˆë‹¤. ì§€ì˜¥ë¶ˆë¡œ ë‹¨ë ¨ëœ í•ë¹› ë¶‰ì€ ë¹„ëŠ˜ì„ ìž…ê³  ë¶ˆíƒ€ëŠ” ë…¸ëž€ìƒ‰ ëˆˆê³¼ ê°•ë ¬í•œ ëˆˆë¹›ìœ¼ë¡œ ì•„ì£¼ í° ìƒë¬¼ë“¤ì„ í”ì ë„ ì—†ì´ ì£½ì´ê³  ìžˆì—ˆìŠµë‹ˆë‹¤.ì—°ê¸°ê°€ ìžìš±í•œ ìˆ¨ê²°ì€ ìˆœì‹ê°„ì— ê¸ˆì†ì´ ë…¹ì„ ì •ë„ë¡œ ëœ¨ê±°ì› ìŠµë‹ˆë‹¤.\n\ní”„ë¡œë¹„ë˜ìŠ¤ë¥¼ ì£½ì¼ ìˆ˜ ìžˆì„ ì •ë„ë¡œ ê°•ë ¥í•œ ìƒì¡´ìžê°€ ì™”ì„ë–„, ë§ˆì¹¨ë‚´ ê·¸ ì§ìŠ¹ì€ ìƒëŒ€ë¥¼ ë§Œë‚¬ë‹¤ê³  ë¯¿ì—ˆìŠµë‹ˆë‹¤.\n\n<style=cIsHealth>ë‹¤ì‹œ í•œ ë²ˆ ë¬´ì„œìš´ ì–¼êµ´ì„ ë³´ì—¬ì¤„ ë•Œê¹Œì§€.</style>",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ê²ƒì€ ë– ë‚¬ë‹¤. ìƒˆë¡œìš´ ë¨¹ì´ë¥¼ ì°¾ìœ¼ëŸ¬.",
-	"DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME" : "ê¸°ë³¸"
-	}
+{
+    "ko": {
+        "FATACRID_BODY_NAME": "Perro Grande",
+        "FATACRID_BODY_SUBTITLE": "(Forma Gigante)",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_NAME": "절박한 구도자",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE": "추적 사살",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_LORE": "전설에 따르면 한때 페트리코프 V의 지하 막사를 배회했던 괴물 짐승이 있다고 합니다.\n\n가장 용감한 생존자와 가장 사악한 괴물들도 두려워한 이 거대한 짐승은 독보적이었습니다. 지옥불로 단련된 핏빛 붉은 비늘을 입고 불타는 노란색 눈과 강렬한 눈빛으로 아주 큰 생물들을 흔적도 없이 죽이고 있었습니다.연기가 자욱한 숨결은 순식간에 금속이 녹을 정도로 뜨거웠습니다.\n\n프로비던스를 죽일 수 있을 정도로 강력한 생존자가 왔을떄, 마침내 그 짐승은 상대를 만났다고 믿었습니다.\n\n<style=cIsHealth>다시 한 번 무서운 얼굴을 보여줄 때까지.</style>",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR": "..그리하여 그것은 떠났다. 새로운 먹이를 찾으러.",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME": "기본"
+    }
 }

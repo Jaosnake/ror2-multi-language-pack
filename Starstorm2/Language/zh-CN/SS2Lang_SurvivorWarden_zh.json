@@ -1,22 +1,22 @@
 {
-    "strings": {
-        "SS2_WARDEN_BODY_NAME": "典狱长",
-        "SS2_WARDEN_BODY_SUBTITLE": "犯罪的新敌人",
-        "SS2_WARDEN_DESCRIPTION": "执法力量的未来。典狱长是一台\n\nThis mod was translated by: Jaosnake",
-        "SS2_WARDEN_OUTRO_FLAVOR": "..于是他离开了，满身伤痕，心中失去希望。",
-        "SS2_WARDEN_OUTRO_FAILURE": "..于是他消失了，盾牌破碎，心中希望熄灭。",
-        "SS2_WARDEN_BODY_LORE": "为什么太空里会有典狱长",
-        "SS2_WARDEN_PASSIVE_NAME": "振奋",
-        "SS2_WARDEN_PASSIVE_DESC": "一个增益光环环绕着你，为范围内的盟友提供我还不知道它在干啥因为还没做好",
-        "SS2_WARDEN_PRIMARY_SWORD_NAME": "银波锦之刃",
-        "SS2_WARDEN_PRIMARY_SWORD_DESC": "挥剑造成X%伤害，第三击向前刺击造成X%伤害",
-        "SS2_WARDEN_SECONDARY_SHIELD_NAME": "格挡",
-        "SS2_WARDEN_SECONDARY_SHIELD_DESC": "举起盾牌格挡，获得X%护甲和Y%移动速度降低。在激活的前0.5秒内格挡攻击会招架该攻击并强化你的下一个技能。你的主要技能变为盾击，举盾时跳跃会变为翻滚。",
-        "SS2_WARDEN_SHIELD_BASH_NAME": "猛击",
-        "SS2_WARDEN_SHIELD_BASH_DESC": "向前盾击造成<style=cIsDamage>240%伤害</style>并<style=cIsUtility>眩晕</style>被命中的敌人。",
-        "SS2_WARDEN_UTILITY_LEAP_NAME": "突击冲锋",
-        "SS2_WARDEN_UTILITY_LEAP_DESC": "旋转向前并反复挥砍，每次造成<style=cIsDamage>240%伤害</style>。",
-        "SS2_WARDEN_SPECIAL_BANNER_NAME": "集结",
-        "SS2_WARDEN_SPECIAL_BANNER_DESC": "跃起并插下一面旗帜，减速敌人和投射物，为你和你的盟友提供<style=cIsUtility>X%移动速度</style>和<style=cIsDamage>Y%攻击速度</style>。"
-    }
+  "strings": {
+    "SS2_WARDEN_BODY_NAME": "典狱长",
+    "SS2_WARDEN_BODY_SUBTITLE": "犯罪的新敌人",
+    "SS2_WARDEN_DESCRIPTION": "执法力量的未来。典狱长是一台\n\nThis mod was translated by: Jaosnake",
+    "SS2_WARDEN_OUTRO_FLAVOR": "..于是他离开了,满身伤痕,心中失去希望。",
+    "SS2_WARDEN_OUTRO_FAILURE": "..于是他消失了,盾牌破碎,心中希望熄灭。",
+    "SS2_WARDEN_BODY_LORE": "为什么太空里会有典狱长",
+    "SS2_WARDEN_PASSIVE_NAME": "振奋",
+    "SS2_WARDEN_PASSIVE_DESC": "一个增益光环环绕着你,为范围内的盟友提供我还不知道它在干啥因为还没做好",
+    "SS2_WARDEN_PRIMARY_SWORD_NAME": "银波锦之刃",
+    "SS2_WARDEN_PRIMARY_SWORD_DESC": "挥剑造成X%伤害,第三击向前刺击造成X%伤害",
+    "SS2_WARDEN_SECONDARY_SHIELD_NAME": "格挡",
+    "SS2_WARDEN_SECONDARY_SHIELD_DESC": "举起盾牌格挡,获得X%护甲和Y%移动速度降低。在激活的前0.5秒内格挡攻击会招架该攻击并强化你的下一个技能。你的主要技能变为盾击,举盾时跳跃会变为翻滚。",
+    "SS2_WARDEN_SHIELD_BASH_NAME": "猛击",
+    "SS2_WARDEN_SHIELD_BASH_DESC": "向前盾击造成<style=cIsDamage>240%伤害</style>并<style=cIsUtility>眩晕</style>被命中的敌人。",
+    "SS2_WARDEN_UTILITY_LEAP_NAME": "突击冲锋",
+    "SS2_WARDEN_UTILITY_LEAP_DESC": "旋转向前并反复挥砍,每次造成<style=cIsDamage>240%伤害</style>。",
+    "SS2_WARDEN_SPECIAL_BANNER_NAME": "集结",
+    "SS2_WARDEN_SPECIAL_BANNER_DESC": "跃起并插下一面旗帜,减速敌人和投射物,为你和你的盟友提供<style=cIsUtility>X%移动速度</style>和<style=cIsDamage>Y%攻击速度</style>。"
+  }
 }

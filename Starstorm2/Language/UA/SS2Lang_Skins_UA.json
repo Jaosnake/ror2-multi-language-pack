@@ -1,14 +1,14 @@
 {
-    "strings": {
-        "SS2_SKIN_COMMANDO_GRANDMASTERY": "Ностальгічний",
-        "SS2_SKIN_COMMANDO_ALT1": "Шок",
-        "SS2_SKIN_COMMANDO_ALT2": "Скорпіон",
-        "SS2_SKIN_COMMANDO_ALT3": "Претор",
-        "SS2_SKIN_COMMANDO_VESTIGE": "Невидимість",
-        "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Таємний",
-        "SS2_SKIN_TOOLBOT_GRANDMASTERY": "Конструкт",
-        "SS2_SKIN_CROCO_GRANDMASTERY": "Зброя",
-        "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Престиж",
-        "SS2_SKIN_MERCENARY_VESTIGE": "П'ята"
-    }
+  "strings": {
+    "SS2_SKIN_COMMANDO_GRANDMASTERY": "Ностальгічний",
+    "SS2_SKIN_COMMANDO_ALT1": "Шок",
+    "SS2_SKIN_COMMANDO_ALT2": "Скорпіон",
+    "SS2_SKIN_COMMANDO_ALT3": "Претор",
+    "SS2_SKIN_COMMANDO_VESTIGE": "Невидимість",
+    "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Таємний",
+    "SS2_SKIN_TOOLBOT_GRANDMASTERY": "Конструкт",
+    "SS2_SKIN_CROCO_GRANDMASTERY": "Зброя",
+    "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Престиж",
+    "SS2_SKIN_MERCENARY_VESTIGE": "П'ята"
+  }
 }

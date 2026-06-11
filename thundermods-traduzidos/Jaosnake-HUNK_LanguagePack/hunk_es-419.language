@@ -1,102 +1,106 @@
-ROB_HUNK_BODY_NAME: HUNK
-ROB_HUNK_BODY_SUBTITLE: El Segador
-ROB_HUNK_BODY_DEFAULT_SKIN_NAME: Predeterminado
-ROB_HUNK_BODY_CLASSIC_SKIN_NAME: ClÃ¡sico
-ROB_HUNK_BODY_ROOKIE_SKIN_NAME: Recluta
-ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
-ROB_HUNK_BODY_LEON_SKIN_NAME: Leon
-ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
-ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: Ligero
-ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: Guerrilla
-ROB_HUNK_BODY_WESKER_SKIN_NAME: Wesker
-ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
-ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
-ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: Camisa de Leon
-ROB_HUNK_BODY_COMMANDO_SKIN_NAME: Commando
-ROB_HUNK_BODY_JACKET_SKIN_NAME: Chaqueta
-ROB_HUNK_BODY_TOFU_SKIN_NAME: Tofu
-ROB_HUNK_BODY_SUPER_SKIN_NAME: Super
-SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la M19 para <style=cIsDamage>500% de daÃ±o</style>.
-SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la Broom HC para <style=cIsDamage>180% de daÃ±o</style>.
-SHOOT_REVOLVER_NAME: RevÃ³lver
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un revÃ³lver para <style=cIsDamage>1.200% de daÃ±o</style>.
-SHOOT_MAGNUM_NAME: Magnum
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una magnum para <style=cIsDamage>1.500% de daÃ±o</style>.
-SHOOT_SHOTGUN_NAME: Escopeta
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una escopeta para <style=cIsDamage>14x150% de daÃ±o</style>.
-SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la SSG para <style=cIsDamage>16x200% de daÃ±o</style>.
-SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara la Slugger para <style=cIsDamage>3.000% de daÃ±o</style>.
-SHOOT_AR_NAME: Fusil de Asalto
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un fusil para <style=cIsDamage>385% de daÃ±o</style>.
-SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un Spark Shot para <style=cIsDamage>1.000% de daÃ±o</style>.
-SHOOT_GOLDGUN_NAME: Arma Dorada
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un arma dorada para <style=cIsDamage>99.999% de daÃ±o</style>.
-SHOOT_ATM_NAME: Lanzador ATM
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara un cohete para <style=cIsDamage>8.000% de daÃ±o</style>.
-SHOOT_GRENADELAUNCHER_NAME: Lanzagranadas
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?gil</style>. Dispara una granada para <style=cIsDamage>3.200% de daÃ±o</style>.
-PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>Saque.</style> <style=cIsDamage>Golpea</style> combatientes cuerpo a cuerpo para <style=cIsDamage>200% y 250% de daÃ±o</style>, infligiendo <style=cIsHealth>Mutilar</style>.
-SECONDARY_AIM_NAME: Apuntar Firme
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>Apunta</style> para mejorar la precisiÃ³n de tu arma actual.
-UTILITY_PARRY_NAME: ApariciÃ³n
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>Aparece</style> para desviar ataques. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>.
-UTILITY_DODGE_NAME: Desliz
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>DeslÃ­zate</style> una corta distancia. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>.
-UTILITY_BASH_NAME: DeflexiÃ³n
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>Deflecte</style> a enemigos cercanos, <style=cIsUtility>aturdÃ­Ã©ndolos</style> para <style=cIsDamage>400% de daÃ±o</style>. Si se usa preventivamente para <style=cIsUtility>cancelar un ataque</style>, realiza una <style=cIsDamage>DeflexiÃ³n Perfecta</style>.
-SPECIAL_SWAP_NAME: Legion
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>Cambia</style> tu arma actual.
-ROB_HUNK_KEYWORD_MANGLED: Mutilar
-ROB_HUNK_KEYWORD_COUNTERATTACK: Contraataque
-ROB_HUNK_KEYWORD_PERFECTDODGE: Esquiva Perfecta
-ROB_HUNK_KEYWORD_PERFECTBASH: DeflexiÃ³n Perfecta
-ROB_HUNK_KEYWORD_CVIRUS: C-Virus
-ROB_HUNK_KEYWORD_LOOTING: Saqueo
-ROB_HUNK_TRANSCEIVER_NAME: Transmisor
-ROB_HUNK_TRANSCEIVER_DESC: Suministro de provisiones.
-ROB_HUNK_TYPEWRITER_NAME: MÃ¡quina de Escribir
-ROB_HUNK_TYPEWRITER_DESC: Guarda tu progreso.
-ROB_HUNK_JETPACK_NAME: Jetpack
-ROB_HUNK_JETPACK_DESC: Otorga movilidad aÃ©rea.
-ROB_HUNK_C4_NAME: C4
-ROB_HUNK_GRENADE_NAME: Granada
-ROB_HUNK_SUPPLYPACK_NAME: Suministros
-ROB_HUNK_AMMO_NAME: MuniciÃ³n
-ROB_HUNK_AMMOITEM_NAME: MuniciÃ³n
-ROB_HUNK_CHEST_NAME: BaÃºl
-ROB_HUNK_TERMINAL_NAME: Terminal
-ROB_HUNK_STARSBADGE_NAME: Distintivo S.T.A.R.S.
-ROB_HUNK_STARSBADGE2_NAME: Distintivo S.T.A.R.S. 2
-ROB_HUNK_STARSBADGE_DESC: Un distintivo de un miembro de S.T.A.R.S.
-ROB_HUNK_HEARTCHEST_NAME: BaÃºl del CorazÃ³n
-ROB_HUNK_T_VIRUS_NAME: T-Virus
-ROB_HUNK_T_VIRUS_DESC: Una muestra del T-Virus.
-ROB_HUNK_G_VIRUS_NAME: G-Virus
-ROB_HUNK_G_VIRUS_DESC: Una muestra del G-Virus.
-ROB_HUNK_G_VIRUS2_NAME: G-Virus 2
-ROB_HUNK_C_VIRUS_NAME: C-Virus
-ROB_HUNK_C_VIRUS_DESC: Una muestra del C-Virus.
-ROB_HUNK_G_VIRUSFINAL_NAME: G-Virus Final
-ROB_HUNK_PLAGAS_NAME: Plagas
-ROB_HUNK_PLAGAS_DESC: Una muestra de Plagas.
-ROB_HUNK_URO_SAMPLE_NAME: Muestra Uroboros
-ROB_HUNK_URO_SAMPLE_DESC: Una muestra de Uroboros.
-ROB_HUNK_INFROCKET_NAME: Cohete Infinito
-ROB_HUNK_INFROCKET_DESC: MuniciÃ³n de cohete infinita.
-ROB_HUNK_NEMICASE_NAME: Caso Nemi
-ROB_HUNK_NEMICASE_DESC: Un caso misterioso.
-ROB_NEMESIS_BODY_NAME: Nemesis
-ROB_NEMESIS_BODY_SUBTITLE: El Perseguidor
-ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: Predeterminado
-ROB_NEMESIS_BODY_PASSIVE_NAME: PersecuciÃ³n Implacable
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: Causa <style=cIsDamage>{0}% de daÃ±o</style> adicional a enemigos marcados.
-ROB_NEMESIS_BODY_GRAB_NAME: Agarrar
-ROB_ARTIFACT_STRIKETEAM_NAME: Artefacto del EscuadrÃ³n
-ROB_ARTIFACT_PURSUER_NAME: Artefacto del Perseguidor
-ROB_ARTIFACT_CONTAMINATION_NAME: Artefacto de la ContaminaciÃ³n
+{
+    "es-419": {
+        "ROB_HUNK_BODY_NAME": "HUNK",
+        "ROB_HUNK_BODY_SUBTITLE": "El Segador",
+        "ROB_HUNK_BODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "ROB_HUNK_BODY_CLASSIC_SKIN_NAME": "Clásico",
+        "ROB_HUNK_BODY_ROOKIE_SKIN_NAME": "Recluta",
+        "ROB_HUNK_BODY_SWAT_SKIN_NAME": "SWAT",
+        "ROB_HUNK_BODY_LEON_SKIN_NAME": "Leon",
+        "ROB_HUNK_BODY_ENFORCER_SKIN_NAME": "Enforcer",
+        "ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME": "Ligero",
+        "ROB_HUNK_BODY_GUERRILLA_SKIN_NAME": "Guerrilla",
+        "ROB_HUNK_BODY_WESKER_SKIN_NAME": "Wesker",
+        "ROB_HUNK_BODY_DOOM_SKIN_NAME": "Doom",
+        "ROB_HUNK_BODY_MINECRAFT_SKIN_NAME": "Minecraft",
+        "ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME": "Camisa de Leon",
+        "ROB_HUNK_BODY_COMMANDO_SKIN_NAME": "Commando",
+        "ROB_HUNK_BODY_JACKET_SKIN_NAME": "Chaqueta",
+        "ROB_HUNK_BODY_TOFU_SKIN_NAME": "Tofu",
+        "ROB_HUNK_BODY_SUPER_SKIN_NAME": "Super",
+        "SHOOT_M19_NAME": "M19",
+        "SHOOT_M19_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara la M19 para <style=cIsDamage>500% de daño</style>.",
+        "SHOOT_BROOMHC_NAME": "Broom HC",
+        "SHOOT_BROOMHC_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara la Broom HC para <style=cIsDamage>180% de daño</style>.",
+        "SHOOT_REVOLVER_NAME": "Revólver",
+        "SHOOT_REVOLVER_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara un revólver para <style=cIsDamage>1.200% de daño</style>.",
+        "SHOOT_MAGNUM_NAME": "Magnum",
+        "SHOOT_MAGNUM_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara una magnum para <style=cIsDamage>1.500% de daño</style>.",
+        "SHOOT_SHOTGUN_NAME": "Escopeta",
+        "SHOOT_SHOTGUN_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara una escopeta para <style=cIsDamage>14x150% de daño</style>.",
+        "SHOOT_SSG_NAME": "SSG",
+        "SHOOT_SSG_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara la SSG para <style=cIsDamage>16x200% de daño</style>.",
+        "SHOOT_SLUGGER_NAME": "Slugger",
+        "SHOOT_SLUGGER_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara la Slugger para <style=cIsDamage>3.000% de daño</style>.",
+        "SHOOT_AR_NAME": "Fusil de Asalto",
+        "SHOOT_AR_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara un fusil para <style=cIsDamage>385% de daño</style>.",
+        "SHOOT_SPARKSHOT_NAME": "Spark Shot",
+        "SHOOT_SPARKSHOT_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara un Spark Shot para <style=cIsDamage>1.000% de daño</style>.",
+        "SHOOT_GOLDGUN_NAME": "Arma Dorada",
+        "SHOOT_GOLDGUN_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara un arma dorada para <style=cIsDamage>99.999% de daño</style>.",
+        "SHOOT_ATM_NAME": "Lanzador ATM",
+        "SHOOT_ATM_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara un cohete para <style=cIsDamage>8.000% de daño</style>.",
+        "SHOOT_GRENADELAUNCHER_NAME": "Lanzagranadas",
+        "SHOOT_GRENADELAUNCHER_DESCRIPTION": "<style=cIsUtility>?gil</style>. Dispara una granada para <style=cIsDamage>3.200% de daño</style>.",
+        "PRIMARY_CQC_NAME": "CQC",
+        "PRIMARY_CQC_DESCRIPTION": "<style=cIsUtility>Saque.</style> <style=cIsDamage>Golpea</style> combatientes cuerpo a cuerpo para <style=cIsDamage>200% y 250% de daño</style>, infligiendo <style=cIsHealth>Mutilar</style>.",
+        "SECONDARY_AIM_NAME": "Apuntar Firme",
+        "SECONDARY_AIM_DESCRIPTION": "<style=cIsUtility>Apunta</style> para mejorar la precisión de tu arma actual.",
+        "UTILITY_PARRY_NAME": "Aparición",
+        "UTILITY_PARRY_DESCRIPTION": "<style=cIsUtility>Aparece</style> para desviar ataques. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>.",
+        "UTILITY_DODGE_NAME": "Desliz",
+        "UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>Deslízate</style> una corta distancia. Si se usa preventivamente para <style=cIsUtility>evitar un ataque</style>, realiza una <style=cIsDamage>Esquiva Perfecta</style>.",
+        "UTILITY_BASH_NAME": "Deflexión",
+        "UTILITY_BASH_DESCRIPTION": "<style=cIsUtility>Deflecte</style> a enemigos cercanos, <style=cIsUtility>aturdíéndolos</style> para <style=cIsDamage>400% de daño</style>. Si se usa preventivamente para <style=cIsUtility>cancelar un ataque</style>, realiza una <style=cIsDamage>Deflexión Perfecta</style>.",
+        "SPECIAL_SWAP_NAME": "Legion",
+        "SPECIAL_SWAP_DESCRIPTION": "<style=cIsUtility>Cambia</style> tu arma actual.",
+        "ROB_HUNK_KEYWORD_MANGLED": "Mutilar",
+        "ROB_HUNK_KEYWORD_COUNTERATTACK": "Contraataque",
+        "ROB_HUNK_KEYWORD_PERFECTDODGE": "Esquiva Perfecta",
+        "ROB_HUNK_KEYWORD_PERFECTBASH": "Deflexión Perfecta",
+        "ROB_HUNK_KEYWORD_CVIRUS": "C-Virus",
+        "ROB_HUNK_KEYWORD_LOOTING": "Saqueo",
+        "ROB_HUNK_TRANSCEIVER_NAME": "Transmisor",
+        "ROB_HUNK_TRANSCEIVER_DESC": "Suministro de provisiones.",
+        "ROB_HUNK_TYPEWRITER_NAME": "Máquina de Escribir",
+        "ROB_HUNK_TYPEWRITER_DESC": "Guarda tu progreso.",
+        "ROB_HUNK_JETPACK_NAME": "Jetpack",
+        "ROB_HUNK_JETPACK_DESC": "Otorga movilidad aérea.",
+        "ROB_HUNK_C4_NAME": "C4",
+        "ROB_HUNK_GRENADE_NAME": "Granada",
+        "ROB_HUNK_SUPPLYPACK_NAME": "Suministros",
+        "ROB_HUNK_AMMO_NAME": "Munición",
+        "ROB_HUNK_AMMOITEM_NAME": "Munición",
+        "ROB_HUNK_CHEST_NAME": "Baúl",
+        "ROB_HUNK_TERMINAL_NAME": "Terminal",
+        "ROB_HUNK_STARSBADGE_NAME": "Distintivo S.T.A.R.S.",
+        "ROB_HUNK_STARSBADGE2_NAME": "Distintivo S.T.A.R.S. 2",
+        "ROB_HUNK_STARSBADGE_DESC": "Un distintivo de un miembro de S.T.A.R.S.",
+        "ROB_HUNK_HEARTCHEST_NAME": "Baúl del Corazón",
+        "ROB_HUNK_T_VIRUS_NAME": "T-Virus",
+        "ROB_HUNK_T_VIRUS_DESC": "Una muestra del T-Virus.",
+        "ROB_HUNK_G_VIRUS_NAME": "G-Virus",
+        "ROB_HUNK_G_VIRUS_DESC": "Una muestra del G-Virus.",
+        "ROB_HUNK_G_VIRUS2_NAME": "G-Virus 2",
+        "ROB_HUNK_C_VIRUS_NAME": "C-Virus",
+        "ROB_HUNK_C_VIRUS_DESC": "Una muestra del C-Virus.",
+        "ROB_HUNK_G_VIRUSFINAL_NAME": "G-Virus Final",
+        "ROB_HUNK_PLAGAS_NAME": "Plagas",
+        "ROB_HUNK_PLAGAS_DESC": "Una muestra de Plagas.",
+        "ROB_HUNK_URO_SAMPLE_NAME": "Muestra Uroboros",
+        "ROB_HUNK_URO_SAMPLE_DESC": "Una muestra de Uroboros.",
+        "ROB_HUNK_INFROCKET_NAME": "Cohete Infinito",
+        "ROB_HUNK_INFROCKET_DESC": "Munición de cohete infinita.",
+        "ROB_HUNK_NEMICASE_NAME": "Caso Nemi",
+        "ROB_HUNK_NEMICASE_DESC": "Un caso misterioso.",
+        "ROB_NEMESIS_BODY_NAME": "Nemesis",
+        "ROB_NEMESIS_BODY_SUBTITLE": "El Perseguidor",
+        "ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "ROB_NEMESIS_BODY_PASSIVE_NAME": "Persecución Implacable",
+        "ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION": "Causa <style=cIsDamage>{0}% de daño</style> adicional a enemigos marcados.",
+        "ROB_NEMESIS_BODY_GRAB_NAME": "Agarrar",
+        "ROB_ARTIFACT_STRIKETEAM_NAME": "Artefacto del Escuadrón",
+        "ROB_ARTIFACT_PURSUER_NAME": "Artefacto del Perseguidor",
+        "ROB_ARTIFACT_CONTAMINATION_NAME": "Artefacto de la Contaminación"
+    }
+}

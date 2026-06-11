@@ -1,43 +1,32 @@
-{ "ko":
-	{
-	"MINER_NAME" : "ë§ˆì´ë„ˆ",
-	"MINER_DESCRIPTION" : "ë§ˆì´ë„ˆëŠ” ë›°ì–´ë‚œ ê³µê²©ì†ë„ì™€ ì´ë™ì†ë„ë¥¼ ê°€ì§„ ê·¼ì ‘ ìƒì¡´ìžë¡œ ì ë“¤ì„ ì²˜ì¹˜í•´ íŒ¨ì‹œë¸Œë¥¼ ì¤‘ì²©í•´ì„œ ê°•í•´ì§€ëŠ”ë°ì— ì§‘ì¤‘ëœ ìƒì¡´ìžìž…ë‹ˆë‹¤.<color=#CCD3E0>\n\n< ! > ì•„ë“œë ˆë‚ ë¦°ì´ ë§Žì´ ìŒ“ì´ë©´ ì±„êµ´ê³¼ ë¶„ì‡„ê°€ ê°•í•´ì ¸ ì£¼ ê³µê²©ìˆ˜ë‹¨ì´ ë©ë‹ˆë‹¤.\n\n< ! > ë“œë¦´ ëŒì§„ì˜ ì¶©ì „ì€ ìµœëŒ€ í”¼í•´ì—ë§Œ ì˜í–¥ì„ ë¯¸ì¹©ë‹ˆë‹¤. ì§‘ì¤‘ì ìœ¼ë¡œ í”¼í•´ë¥¼ ìž…ížˆê¸° ìœ„í•´ ì§€ë©´ì´ë‚˜ ì ì„ ì¡°ì¤€í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\n\n< ! > í›„í­í’ì„ ì‚¬ìš©í•˜ì—¬ ê°€ê¹Œìš´ ê±°ë¦¬ë¥¼ ì´ë™í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¶©ì „í•´ ë” ë©€ë¦¬ ì´ë™í• ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\n\n< ! > ë³„ì„ í–¥í•˜ì—¬ëŠ” í° ì ì—ê²Œ ë†’ì€ í”¼í•´ë¥¼ ì¤„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-	"MINER_SUBTITLE" : "íŒŒê´´ì ì¸ ì•½ë¬¼ ì¤‘ë…ìž",
-	"MINER_LORE" : "\nAmong the cold steel of the freighter's ruins and the air of the freezing night, the dim blue light of an audio journal catches your eye. The journal lies in utter disrepair among the remains of the cargo, and yet it persists, remaining functional. The analog buttons on the device's casing pulse slowly, as if inviting anybody to listen to their warped entries, ever-decaying in coherency...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''First log. Date, uhhh... Oh-five, oh-one, twenty-fifty-five. Brass decided to pull us out of the mining job. After months of digging, after months of blood, swe<color=#8990A7>-///////-</color>nd millions spent on this operation, we're just dropping it? Bull<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''<color=#8990A7>-////////-</color>nter of the asteroid. I've never seen anything like it. It was like a dr<color=#8990A7>-////////-</color>nd fractal... The inside is almost like a kaleidoscope. It's gotta be worth<color=#8990A7>-/////-</color>nd brass wants us gone, ASAP. Well, they can kiss m<color=#8990A7>-////-</color>. And I'm going out there tonight to dig the rest of it out... If I can fence this, the next thousand paychecks won't hold a candle. I've been waiting for an opportunity like this.''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''Pretty sure they know everything. They're questioning people now. I stashed the artifact in a vent in<color=#8990A7>-//////-</color>, should be safe. Freighter called the UE<color=#8990A7>-////-</color>t's docking in a few months. I just have to hold out and sneak on.''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''They're looking for me. Not long before they find me. Hiding in the walls of the ship like a f<color=#8990A7>-//////-</color>rat. Freighter's off schedule. I gave everything for this. I gave <i>everything</i> for this.''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''Somewhere in the hull. Nobody comes back here. Not even maintenance. I should be safe until the ship arrives.''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''Ship still on hold. Can't get an idea of when it won't be.'' <color=#8990A7><Groan>.</color> ''This is ago<color=#8990A7>-//-</color>zing.''\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>'s here. Finally. Finally. Have to get the artifact on board. Security everywhere, though. Mercs...'' <color=#8990A7><Distant voices have an indiscernible conversation.></color> ''Okay. Shut up. Shut up and go. I'm going. Going. Tonight.''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>omething's happening to the ship. Cargo flying out. Lost the artifact. Lost everything. . . . Lost everythi<color=#8990A7>-//-</color>.''\n\nThe audio journal's screen sparks and pops, leaving you in complete darkness, complemented by the deafening silence brought about by the ominous last words of the miner.",
-	"MINER_OUTRO_FLAVOR" : "..ê·¸ë¦¬í•˜ì—¬ ê·¸ëŠ” ë– ë‚¬ë‹¤. ì—¬ì „ížˆ ì•„ë“œë ˆë‚ ë¦°ì´ í˜ˆê´€ì„ ì§€ë‚˜ê°€ë©´ì„œ.",
-	
-	"MINER_PASSIVE_NAME" : "ê³¨ë“œëŸ¬ì‰¬",
-	"MINER_PASSIVE_DESCRIPTION" : "ê³¨ë“œë¥¼ íšë“í•˜ë©´ <style=cIsHealth>ì•„ë“œë ˆë‚ ë¦°</style>ì„ íšë“í•˜ê³  ì•„ë“œë ˆë‚ ë¦°ì€ <style=cIsDamage>ê³µê²© ì†ë„</style>, <style=cIsUtility>ì´ë™ ì†ë„</style>, <style=cIsHealing>ê¸°ë³¸ ì²´ë ¥ íšŒë³µëŸ‰</style>ì„ ì¦ê°€ì‹œí‚µë‹ˆë‹¤.",
-	"KEYWORD_CLEAVING" : "<style=cKeywordName>ìª¼ê°œì§</style><style=cSub>ì ì—ê²Œ <style=cIsDamage>ë°©ì–´ë ¥</style>ì„ <style=cIsHealth>ì¤‘ì²©ë‹¹ 3ë§Œí¼</style> ê°ì†Œì‹œí‚¤ëŠ” ë””ë²„í”„ë¥¼ ê²ë‹ˆë‹¤.</style>",
-	
-	"MINER_PRIMARY_GOUGE_NAME" : "ì±„êµ´",
-	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ì ì—ê²Œ ë§ˆêµ¬ íœ˜ë‘˜ëŸ¬ <style=cIsDamage>270%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsHealth>ìª¼ê°œì§</style>ì„ ë¶€ì—¬í•©ë‹ˆë‹¤.",
-	
-	"MINER_PRIMARY_CRUSH_NAME" : "ë¶„ì‡„",
-	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>ë¯¼ì²©</style>. ì£¼ë³€ì˜ ì ì„ ë¶„ì‡„í•˜ì—¬ <style=cIsDamage>360%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsUtility>ê³µê²© ì†ë„ì— ë”°ë¼ ë²”ìœ„ê°€ ì¦ê°€í•©ë‹ˆë‹¤</style>.",
-	
-	"MINER_SECONDARY_CHARGE_NAME" : "ë“œë¦´ ëŒì§„",
-	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "ì¶©ì „ í›„ ì ì—ê²Œ ëŒì§„í•˜ì—¬ ìµœëŒ€ <style=cIsDamage>6x180%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. ëŒì§„í•˜ëŠ” ë™ì•ˆì€ <style=cIsUtility>ê³µê²©ì— ì ì¤‘ë‹¹í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.</style>",
-	
-	"MINER_SECONDARY_BREAK_NAME" : "í¬ëž™ í•´ë¨¸",
-	"MINER_SECONDARY_BREAK_DESCRIPTION" : "ì•žìœ¼ë¡œ ëŒì§„í•˜ì—¬ <style=cIsDamage>2x240%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤. <style=cIsUtility>ê³µê²©ì— ì ì¤‘ë‹¹í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.</style>",
-	
-	"MINER_UTILITY_BACKBLAST_NAME" : "í›„í­í’",
-	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>ë§ˆë¹„</style>. ë’¤ë¡œ ì‚¬ì¶œí•˜ì—¬ ì´ë™í•˜ê³ , ëª¨ë“  ì ì—ê²Œ <style=cIsDamage>600%ì˜ í”¼í•´</style>ë¥¼ ìž…ížŒ ë’¤ ê¸°ì ˆì‹œí‚µë‹ˆë‹¤. ê¸¸ê²Œëˆ„ë¥´ë©´ ë” ë©€ë¦¬ ë‚ ì•„ê°‘ë‹ˆë‹¤. <style=cIsUtility>ëŒì§„í•˜ëŠ” ë™ì•ˆì—ëŠ” ê³µê²©ì— ì ì¤‘ë‹¹í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.</style>",
-	
-	"MINER_UTILITY_CAVEIN_NAME" : "ë™êµ´ ì†ìœ¼ë¡œ",
-	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>ë§ˆë¹„</style>. ë’¤ë¡œ ì‚¬ì¶œí•˜ì—¬ ì´ë™í•˜ê³ , ì ë“¤ì„ <style=cIsUtility>ëŒì–´ë‹¹ê¹ë‹ˆë‹¤</style>. <style=cIsUtility>ëŒì§„í•˜ëŠ” ë™ì•ˆì—ëŠ” ê³µê²©ì— ì ì¤‘ë‹¹í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.</style>",
-	
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "ë³„ì„ í–¥í•˜ì—¬",
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "ê³µì¤‘ìœ¼ë¡œ ë„ì•½í•˜ì—¬ ì•„ëž˜ì˜ ì ì—ê²Œ <style=cIsDamage>6x300%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MINER_SPECIAL_TOTHESTARS_NAME" : "ë©”í…Œì˜¤ ìƒ¤ì›Œ",
-	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "ê³µì¤‘ìœ¼ë¡œ ë„ì•½í•˜ì—¬ ì•„ëž˜ì˜ ì ì—ê²Œ íŒŒíŽ¸ì„ ë¿Œë ¤ <style=cIsDamage>15x160%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤.",
-	
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "í—¤ì„± ë‚™í•˜",
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "ê³µì¤‘ìœ¼ë¡œ ë„ì•½í•˜ì—¬ ì•„ëž˜ì˜ ì ì—ê²Œ íŒŒíŽ¸ì„ ë¿Œë ¤ <style=cIsDamage>15x160%ì˜ í”¼í•´</style>, ê·¸ë¦¬ê³  ì•„ëž˜ë¡œ ì°©ì§€í•´ì„œ <style=cIsDamage>1500%ì˜ í”¼í•´</style>ì™€ ì ì—ê²Œ <style=cIsDamage>ë¶ˆì„ ë¶™ì´ëŠ”</style> í­ë°œì„ ì¼ìœ¼í‚µë‹ˆë‹¤.",
-	
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "ìŠ¤íƒ€ë°”ìš´ë“œ",
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>ë§ˆë¹„</style>. ê³µì¤‘ìœ¼ë¡œ ë„ì•½í•˜ì—¬ ì•„ëž˜ì˜ ì ì—ê²Œ <style=cIsDamage>10x300%ì˜ í”¼í•´</style>ë¥¼ ìž…íž™ë‹ˆë‹¤."
-	}
+{
+    "ko": {
+        "MINER_NAME": "마이너",
+        "MINER_DESCRIPTION": "마이너는 뛰어난 공격속도와 이동속도를 가진 근접 생존자로 적들을 처치해 패시브를 중첩해서 강해지는데에 집중된 생존자입니다.<color=#CCD3E0>\n\n< ! > 아드레날린이 많이 쌓이면 채굴과 분쇄가 강해져 주 공격수단이 됩니다.\n\n< ! > 드릴 돌진의 충전은 최대 피해에만 영향을 미칩니다. 집중적으로 피해를 입히기 위해 지면이나 적을 조준할 수 있습니다.\n\n< ! > 후폭풍을 사용하여 가까운 거리를 이동할 수 있습니다. 충전해 더 멀리 이동할수 있습니다.\n\n< ! > 별을 향하여는 큰 적에게 높은 피해를 줄 수 있습니다.",
+        "MINER_SUBTITLE": "파괴적인 약물 중독자",
+        "MINER_LORE": "\nAmong the cold steel of the freighter's ruins and the air of the freezing night, the dim blue light of an audio journal catches your eye. The journal lies in utter disrepair among the remains of the cargo, and yet it persists, remaining functional. The analog buttons on the device's casing pulse slowly, as if inviting anybody to listen to their warped entries, ever-decaying in coherency...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''First log. Date, uhhh... Oh-five, oh-one, twenty-fifty-five. Brass decided to pull us out of the mining job. After months of digging, after months of blood, swe<color=#8990A7>-///////-</color>nd millions spent on this operation, we're just dropping it? Bull<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''<color=#8990A7>-////////-</color>nter of the asteroid. I've never seen anything like it. It was like a dr<color=#8990A7>-////////-</color>nd fractal... The inside is almost like a kaleidoscope. It's gotta be worth<color=#8990A7>-/////-</color>nd brass wants us gone, ASAP. Well, they can kiss m<color=#8990A7>-////-</color>. And I'm going out there tonight to dig the rest of it out... If I can fence this, the next thousand paychecks won't hold a candle. I've been waiting for an opportunity like this.''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''Pretty sure they know everything. They're questioning people now. I stashed the artifact in a vent in<color=#8990A7>-//////-</color>, should be safe. Freighter called the UE<color=#8990A7>-////-</color>t's docking in a few months. I just have to hold out and sneak on.''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''They're looking for me. Not long before they find me. Hiding in the walls of the ship like a f<color=#8990A7>-//////-</color>rat. Freighter's off schedule. I gave everything for this. I gave <i>everything</i> for this.''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''Somewhere in the hull. Nobody comes back here. Not even maintenance. I should be safe until the ship arrives.''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''Ship still on hold. Can't get an idea of when it won't be.'' <color=#8990A7><Groan>.</color> ''This is ago<color=#8990A7>-//-</color>zing.''\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>'s here. Finally. Finally. Have to get the artifact on board. Security everywhere, though. Mercs...'' <color=#8990A7><Distant voices have an indiscernible conversation.></color> ''Okay. Shut up. Shut up and go. I'm going. Going. Tonight.''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>omething's happening to the ship. Cargo flying out. Lost the artifact. Lost everything. . . . Lost everythi<color=#8990A7>-//-</color>.''\n\nThe audio journal's screen sparks and pops, leaving you in complete darkness, complemented by the deafening silence brought about by the ominous last words of the miner.",
+        "MINER_OUTRO_FLAVOR": "..그리하여 그는 떠났다. 여전히 아드레날린이 혈관을 지나가면서.",
+        "MINER_PASSIVE_NAME": "골드러쉬",
+        "MINER_PASSIVE_DESCRIPTION": "골드를 획득하면 <style=cIsHealth>아드레날린</style>을 획득하고 아드레날린은 <style=cIsDamage>공격 속도</style>, <style=cIsUtility>이동 속도</style>, <style=cIsHealing>기본 체력 회복량</style>을 증가시킵니다.",
+        "KEYWORD_CLEAVING": "<style=cKeywordName>쪼개짐</style><style=cSub>적에게 <style=cIsDamage>방어력</style>을 <style=cIsHealth>중첩당 3만큼</style> 감소시키는 디버프를 겁니다.</style>",
+        "MINER_PRIMARY_GOUGE_NAME": "채굴",
+        "MINER_PRIMARY_GOUGE_DESCRIPTION": "<style=cIsUtility>민첩</style>. 적에게 마구 휘둘러 <style=cIsDamage>270%의 피해</style>를 입힙니다. <style=cIsHealth>쪼개짐</style>을 부여합니다.",
+        "MINER_PRIMARY_CRUSH_NAME": "분쇄",
+        "MINER_PRIMARY_CRUSH_DESCRIPTION": "<style=cIsUtility>민첩</style>. 주변의 적을 분쇄하여 <style=cIsDamage>360%의 피해</style>를 입힙니다. <style=cIsUtility>공격 속도에 따라 범위가 증가합니다</style>.",
+        "MINER_SECONDARY_CHARGE_NAME": "드릴 돌진",
+        "MINER_SECONDARY_CHARGE_DESCRIPTION": "충전 후 적에게 돌진하여 최대 <style=cIsDamage>6x180%의 피해</style>를 입힙니다. 돌진하는 동안은 <style=cIsUtility>공격에 적중당하지 않습니다.</style>",
+        "MINER_SECONDARY_BREAK_NAME": "크랙 해머",
+        "MINER_SECONDARY_BREAK_DESCRIPTION": "앞으로 돌진하여 <style=cIsDamage>2x240%의 피해</style>를 입힙니다. <style=cIsUtility>공격에 적중당하지 않습니다.</style>",
+        "MINER_UTILITY_BACKBLAST_NAME": "후폭풍",
+        "MINER_UTILITY_BACKBLAST_DESCRIPTION": "<style=cIsDamage>마비</style>. 뒤로 사출하여 이동하고, 모든 적에게 <style=cIsDamage>600%의 피해</style>를 입힌 뒤 기절시킵니다. 길게누르면 더 멀리 날아갑니다. <style=cIsUtility>돌진하는 동안에는 공격에 적중당하지 않습니다.</style>",
+        "MINER_UTILITY_CAVEIN_NAME": "동굴 속으로",
+        "MINER_UTILITY_CAVEIN_DESCRIPTION": "<style=cIsUtility>마비</style>. 뒤로 사출하여 이동하고, 적들을 <style=cIsUtility>끌어당깁니다</style>. <style=cIsUtility>돌진하는 동안에는 공격에 적중당하지 않습니다.</style>",
+        "MINER_SPECIAL_TOTHESTARSCLASSIC_NAME": "별을 향하여",
+        "MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION": "공중으로 도약하여 아래의 적에게 <style=cIsDamage>6x300%의 피해</style>를 입힙니다.",
+        "MINER_SPECIAL_TOTHESTARS_NAME": "메테오 샤워",
+        "MINER_SPECIAL_TOTHESTARS_DESCRIPTION": "공중으로 도약하여 아래의 적에게 파편을 뿌려 <style=cIsDamage>15x160%의 피해</style>를 입힙니다.",
+        "MINER_SPECIAL_SCEPTERTOTHESTARS_NAME": "헤성 낙하",
+        "MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION": "공중으로 도약하여 아래의 적에게 파편을 뿌려 <style=cIsDamage>15x160%의 피해</style>, 그리고 아래로 착지해서 <style=cIsDamage>1500%의 피해</style>와 적에게 <style=cIsDamage>불을 붙이는</style> 폭발을 일으킵니다.",
+        "MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME": "스타바운드",
+        "MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION": "<style=cIsDamage>마비</style>. 공중으로 도약하여 아래의 적에게 <style=cIsDamage>10x300%의 피해</style>를 입힙니다."
+    }
 }

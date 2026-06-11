@@ -2,19 +2,19 @@
     "es-419": {
         "BLAKE_RIFTER_NAME": "Rifter",
         "BLAKE_RIFTER_SUBTITLE": "Manipulador de Hendiduras",
-        "BLAKE_RIFTER_OUTRO_FLAVOR": "..y as\u00ed dej\u00f3 un mundo fracturado atr\u00e1s.",
-        "BLAKE_RIFTER_OUTRO_FAILURE": "..y as\u00ed desapareci\u00f3 de todos los reinos.",
-        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Maestr\u00eda",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..y así dejó un mundo fracturado atrás.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..y así desapareció de todos los reinos.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Maestría",
         "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Impulso de Hendidura",
-        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Fragmentaci\u00f3n de Hendidura",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Fragmentación de Hendidura",
         "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Hendidura Proyectil",
         "BLAKE_RIFTER_SECONDARY_FRACTURE": "Fractura",
-        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "L\u00ednea de Falla",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Línea de Falla",
         "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Corriente Dimensional",
-        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Hendidura Cu\u00e1ntica",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Hendidura Cuántica",
         "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Mundos Encadenados",
         "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Bloqueo Temporal",
-        "BLAKE_NEM_RIFTER_NAME": "N\u00e9mesis Rifter",
+        "BLAKE_NEM_RIFTER_NAME": "Némesis Rifter",
         "BLAKE_NEM_RIFTER_SUBTITLE": "Hendidura Corrompida"
     }
 }

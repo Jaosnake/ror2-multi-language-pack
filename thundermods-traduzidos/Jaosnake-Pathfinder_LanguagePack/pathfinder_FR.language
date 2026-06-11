@@ -1,47 +1,40 @@
-BOG_PATHFINDER_BODY_NAME: Pathfinder
-BOG_PATHFINDER_BODY_SUBTITLE: Chasseur InterplanÃ©taire
-BOG_PATHFINDER_BODY_DESCRIPTION: Le Pathfinder est un escarmoucheur rusÃ© et insaisissable qui combat aux cÃ´tÃ©s de son faucon robotique, Squall.
-
-BOG_PATHFINDER_BODY_PASSIVE_NAME: Fauconnier
-BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: Vous Ãªtes accompagnÃ© de votre faucon robotique, Squall. Squall hÃ©rite de <style=cIsDamage>la plupart</style> de vos objets et est immunisÃ© aux dÃ©gÃ¢ts, mais fonctionne avec une <style=cIsUtility>batterie</style>.
-
-BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: Par dÃ©faut
-BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: Headhunter
-BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..et ainsi ils partirent, en tant que nouveaux rois de la chaÃ®ne alimentaire.
-BOG_PATHFINDER_BODY_OUTRO_FAILURE: ..et ainsi ils disparurent, perdus Ã  jamais dans les Ã©tendues sauvages indiffÃ©rentes.
-BOG_SQUALL_BODY_NAME: Squall
-BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: Par dÃ©faut
-BOG_SQUALL_BODY_MASTERY_SKIN_NAME: MaÃ®trise
-PRIMARY_THRUST_NAME: Coup de Lance
-PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>Perforant</style>. Poussez votre lance vers l'avant pour <style=cIsDamage>250% de dÃ©gÃ¢ts</style>.
-
-SECONDARY_DASH_NAME: LÃ©ger comme une Plume
-SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>Glissez</style> sur une courte distance. La prochaine fois que vous utilisez votre compÃ©tence primaire, lancez une <style=cIsDamage>lance explosive</style> pour <style=cIsDamage>800% de dÃ©gÃ¢ts</style> et rÃ©cupÃ©rez <style=cIsUtility>800% de batterie</style>, doublÃ© sur les Coups Critiques.
-
-SECONDARY_JAVELIN_NAME: Lancer de Lance
-SECONDARY_JAVELIN_DESCRIPTION: Lancez une <style=cIsDamage>lance explosive</style> pour <style=cIsDamage>800% de dÃ©gÃ¢ts</style>.
-
-UTILITY_SPIN_NAME: Griffes DÃ©chirantes
-UTILITY_SPIN_DESCRIPTION: Ã‰levez-vous dans les airs, tournoyant rapidement pour <style=cIsDamage>300% de dÃ©gÃ¢ts</style>. En atterrissant, effectuez un balayage horizontal pour <style=cIsDamage>800% de dÃ©gÃ¢ts</style>.
-
-UTILITY_BOLAS_NAME: Bolas Ã‰lectriques
-UTILITY_BOLAS_DESCRIPTION: Lancez des bolas chargÃ©es Ã©lectriquement qui <style=cIsUtility>Ã©lectrocutent</style> les ennemis proches et laissent un champ <style=cIsUtility>Ã©lectrocuteur</style> pendant <style=cIsUtility>10 secondes</style>.
-
-SPECIAL_COMMAND_NAME: Donner un Ordre
-SPECIAL_COMMAND_DESCRIPTION: PrÃ©parez un ordre pour Squall. Vous pouvez donner un ordre d'<color=#FF0000>Attaque</color>, de <color=#00FF00>Suivi</color> ou <color=#efeb1c>SpÃ©cial</color> en appuyant respectivement sur les touches de compÃ©tence Primaire, Secondaire ou SpÃ©ciale.
-
-SPECIAL_COMMAND2_NAME: Donner un Ordre - Remplacement Utilitaire
-SPECIAL_ATTACK_NAME: Attaque
-SPECIAL_ATTACK_DESCRIPTION: Dirigez l'attention de Squall vers l'ennemi ciblÃ© et activez le <color=#FF0000>Mode Attaque</color>, donnant accÃ¨s Ã  des mitrailleuses infligeant <style=cIsDamage>2x30% de dÃ©gÃ¢ts</style> et un lance-missiles infligeant <style=cIsDamage>150% de dÃ©gÃ¢ts</style>.
-
-SPECIAL_FOLLOW_NAME: Suivi
-SPECIAL_FOLLOW_DESCRIPTION: Ramenez Squall prÃ¨s de vous et activez le <color=#00FF00>Mode Suivi</color>, le faisant rester prÃ¨s de vous.
-
-SPECIAL_CANCEL_NAME: Annuler le Mode Commande
-SPECIAL_CANCEL_DESCRIPTION: Annule le Mode Commande.
-
-SQUALL_SPECIAL_GOFORTHROAT_NAME: Ã€ la Gorge !
-SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Ordonnez Ã  Squall d'attaquer Ã  rÃ©pÃ©tition l'ennemi ciblÃ© pour <style=cIsDamage>70% de dÃ©gÃ¢ts</style>. Chaque attaque rÃ©duit briÃ¨vement l'<style=cIsDamage>armure</style> et <style=cIsUtility>rÃ©gÃ©nÃ¨re 1%</style> de batterie, doublÃ© sur les Coups Critiques. Cette compÃ©tence peut briÃ¨vement <style=cIsUtility>surcharger</style> la batterie.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery
+{
+    "FR": {
+        "BOG_PATHFINDER_BODY_NAME": "Pathfinder",
+        "BOG_PATHFINDER_BODY_SUBTITLE": "Chasseur Interplanétaire",
+        "BOG_PATHFINDER_BODY_DESCRIPTION": "Le Pathfinder est un escarmoucheur rusé et insaisissable qui combat aux côtés de son faucon robotique, Squall.",
+        "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Fauconnier",
+        "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "Vous êtes accompagné de votre faucon robotique, Squall. Squall hérite de <style=cIsDamage>la plupart</style> de vos objets et est immunisé aux dégâts, mais fonctionne avec une <style=cIsUtility>batterie</style>.",
+        "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Headhunter",
+        "BOG_PATHFINDER_BODY_OUTRO_FLAVOR": "..et ainsi ils partirent, en tant que nouveaux rois de la chaîne alimentaire.",
+        "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..et ainsi ils disparurent, perdus à jamais dans les étendues sauvages indifférentes.",
+        "BOG_SQUALL_BODY_NAME": "Squall",
+        "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Maîtrise",
+        "PRIMARY_THRUST_NAME": "Coup de Lance",
+        "PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Perforant</style>. Poussez votre lance vers l'avant pour <style=cIsDamage>250% de dégâts</style>.",
+        "SECONDARY_DASH_NAME": "Léger comme une Plume",
+        "SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Glissez</style> sur une courte distance. La prochaine fois que vous utilisez votre compétence primaire, lancez une <style=cIsDamage>lance explosive</style> pour <style=cIsDamage>800% de dégâts</style> et récupérez <style=cIsUtility>800% de batterie</style>, doublé sur les Coups Critiques.",
+        "SECONDARY_JAVELIN_NAME": "Lancer de Lance",
+        "SECONDARY_JAVELIN_DESCRIPTION": "Lancez une <style=cIsDamage>lance explosive</style> pour <style=cIsDamage>800% de dégâts</style>.",
+        "UTILITY_SPIN_NAME": "Griffes Déchirantes",
+        "UTILITY_SPIN_DESCRIPTION": "Élevez-vous dans les airs, tournoyant rapidement pour <style=cIsDamage>300% de dégâts</style>. En atterrissant, effectuez un balayage horizontal pour <style=cIsDamage>800% de dégâts</style>.",
+        "UTILITY_BOLAS_NAME": "Bolas Électriques",
+        "UTILITY_BOLAS_DESCRIPTION": "Lancez des bolas chargées électriquement qui <style=cIsUtility>électrocutent</style> les ennemis proches et laissent un champ <style=cIsUtility>électrocuteur</style> pendant <style=cIsUtility>10 secondes</style>.",
+        "SPECIAL_COMMAND_NAME": "Donner un Ordre",
+        "SPECIAL_COMMAND_DESCRIPTION": "Préparez un ordre pour Squall. Vous pouvez donner un ordre d'<color=#FF0000>Attaque</color>, de <color=#00FF00>Suivi</color> ou <color=#efeb1c>Spécial</color> en appuyant respectivement sur les touches de compétence Primaire, Secondaire ou Spéciale.",
+        "SPECIAL_COMMAND2_NAME": "Donner un Ordre - Remplacement Utilitaire",
+        "SPECIAL_ATTACK_NAME": "Attaque",
+        "SPECIAL_ATTACK_DESCRIPTION": "Dirigez l'attention de Squall vers l'ennemi ciblé et activez le <color=#FF0000>Mode Attaque</color>, donnant accès à des mitrailleuses infligeant <style=cIsDamage>2x30% de dégâts</style> et un lance-missiles infligeant <style=cIsDamage>150% de dégâts</style>.",
+        "SPECIAL_FOLLOW_NAME": "Suivi",
+        "SPECIAL_FOLLOW_DESCRIPTION": "Ramenez Squall près de vous et activez le <color=#00FF00>Mode Suivi</color>, le faisant rester près de vous.",
+        "SPECIAL_CANCEL_NAME": "Annuler le Mode Commande",
+        "SPECIAL_CANCEL_DESCRIPTION": "Annule le Mode Commande.",
+        "SQUALL_SPECIAL_GOFORTHROAT_NAME": "À la Gorge !",
+        "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordonnez à Squall d'attaquer à répétition l'ennemi ciblé pour <style=cIsDamage>70% de dégâts</style>. Chaque attaque réduit brièvement l'<style=cIsDamage>armure</style> et <style=cIsUtility>régénère 1%</style> de batterie, doublé sur les Coups Critiques. Cette compétence peut brièvement <style=cIsUtility>surcharger</style> la batterie.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+    }
+}

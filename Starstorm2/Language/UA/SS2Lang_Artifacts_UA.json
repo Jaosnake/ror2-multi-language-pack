@@ -1,15 +1,15 @@
 {
-    "strings": {
-        "SS2_ARTIFACT_COGNATION_NAME": "Артефакт Когнації",
-        "SS2_ARTIFACT_COGNATION_DESC": "Вороги залишають після смерті тимчасові копії.",
-        "SS2_ARTIFACT_COGNATION_PREFIX": "Копія {0}",
-        "SS2_ARTIFACT_DILUVIUM_NAME": "Артефакт Зливи",
-        "SS2_ARTIFACT_DILUVIUM_DESC": "Завжди штормить.",
-        "SS2_ARTIFACT_ADVERSITY_NAME": "Артефакт Незгод",
-        "SS2_ARTIFACT_ADVERSITY_DESC": "Кожен прадавній телепортер є ефірним.",
-        "SS2_ARTIFACT_DEVIATION_NAME": "Артефакт Відхилення",
-        "SS2_ARTIFACT_DEVIATION_DESC": "Оберіть предмет для всіх персонажів перед початком події телепортера.",
-        "SS2_ARTIFACT_HAVOC_NAME": "Артефакт Хаосу",
-        "SS2_ARTIFACT_HAVOC_DESC": "Події трапляються швидше та частіше. Шторми стають постійними."
-    }
+  "strings": {
+    "SS2_ARTIFACT_COGNATION_NAME": "Артефакт Когнації",
+    "SS2_ARTIFACT_COGNATION_DESC": "Вороги залишають після смерті тимчасові копії.",
+    "SS2_ARTIFACT_COGNATION_PREFIX": "Копія {0}",
+    "SS2_ARTIFACT_DILUVIUM_NAME": "Артефакт Зливи",
+    "SS2_ARTIFACT_DILUVIUM_DESC": "Завжди штормить.",
+    "SS2_ARTIFACT_ADVERSITY_NAME": "Артефакт Незгод",
+    "SS2_ARTIFACT_ADVERSITY_DESC": "Кожен прадавній телепортер є ефірним.",
+    "SS2_ARTIFACT_DEVIATION_NAME": "Артефакт Відхилення",
+    "SS2_ARTIFACT_DEVIATION_DESC": "Оберіть предмет для всіх персонажів перед початком події телепортера.",
+    "SS2_ARTIFACT_HAVOC_NAME": "Артефакт Хаосу",
+    "SS2_ARTIFACT_HAVOC_DESC": "Події трапляються швидше та частіше. Шторми стають постійними."
+  }
 }

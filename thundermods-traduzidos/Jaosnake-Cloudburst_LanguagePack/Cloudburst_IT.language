@@ -1,6 +1,6 @@
-{ "IT":
-    {
-    "EXPANSION_CLOUDBURST_NAME" : "äº‘çˆ†",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "æ·»åŠ æ¨¡ç»„â€œäº‘çˆ†â€ä¸­çš„å†…å®¹è‡³æ¸¸æˆä¸­ã€‚",
+{
+    "IT": {
+        "EXPANSION_CLOUDBURST_NAME": "Nuvoloso",
+        "EXPANSION_CLOUDBURST_DESCRIPTION": "Aggiunge i contenuti della mod \"Cloudburst\" al gioco."
     }
 }

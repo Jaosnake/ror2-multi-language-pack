@@ -1,14 +1,14 @@
 {
-    "strings": {
-        "SS2_SKIN_COMMANDO_GRANDMASTERY": "Nostálgico",
-        "SS2_SKIN_COMMANDO_ALT1": "Descarga",
-        "SS2_SKIN_COMMANDO_ALT2": "Escorpión",
-        "SS2_SKIN_COMMANDO_ALT3": "Pretor",
-        "SS2_SKIN_COMMANDO_VESTIGE": "Sigilo",
-        "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Clandestino",
-        "SS2_SKIN_TOOLBOT_GRANDMASTERY": "Constructo",
-        "SS2_SKIN_CROCO_GRANDMASTERY": "Armamento",
-        "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Prestigio",
-        "SS2_SKIN_MERCENARY_VESTIGE": "Tacón"
-    }
+  "strings": {
+    "SS2_SKIN_COMMANDO_GRANDMASTERY": "Nostálgico",
+    "SS2_SKIN_COMMANDO_ALT1": "Descarga",
+    "SS2_SKIN_COMMANDO_ALT2": "Escorpión",
+    "SS2_SKIN_COMMANDO_ALT3": "Pretor",
+    "SS2_SKIN_COMMANDO_VESTIGE": "Sigilo",
+    "SS2_SKIN_HUNTRESS_GRANDMASTERY": "Clandestino",
+    "SS2_SKIN_TOOLBOT_GRANDMASTERY": "Constructo",
+    "SS2_SKIN_CROCO_GRANDMASTERY": "Armamento",
+    "SS2_SKIN_CAPTAIN_GRANDMASTERY": "Prestigio",
+    "SS2_SKIN_MERCENARY_VESTIGE": "Tacón"
+  }
 }

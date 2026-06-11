@@ -1,12 +1,12 @@
 {
-    "strings": {
-        "SS2_ENGINEER_LASERFOCUS_NAME": "Enfoque Láser",
-        "SS2_ENGINEER_LASERFOCUS_DESC": "Libera dos haces de energía por <style=cIsDamage>2x150% de daño</style>. El daño <style=cIsDamage>aumenta</style> cuanto <style=cIsUtility>más tiempo se enfoque un objetivo</style>.",
-        "SS2_ENGINEER_RAPIDDISPLACEMENT_NAME": "Desplazamiento Rápido",
-        "SS2_ENGINEER_RAPIDDISPLACEMENT_DESC": "<style=cIsDamage>Aturdidor</style>. <style=cIsUtility>Avanza</style>, empujando cualquier entidad en el camino por <style=cIsDamage>200% de daño</style>.",
-        "SS2_BANDIT_TRANQ_GUN_NAME": "Noche",
-        "SS2_BANDIT_TRANQ_GUN_DESC": "Dispara un dardo tranquilizante por <style=cIsDamage>{0}% de daño</style>, <style=cIsUtility>ralentizando</style> y eventualmente <style=cIsUtility>aturdiendo</style> enemigos. Puede tener hasta 4 dardos.",
-        "SS2_RAILGUNNER_ROLL_NAME": "Voltereta Táctica",
-        "SS2_RAILGUNNER_ROLL_DESC": "Rueda una corta distancia y realiza una recarga perfecta si estás recargando."
-    }
+  "strings": {
+    "SS2_ENGINEER_LASERFOCUS_NAME": "Enfoque Láser",
+    "SS2_ENGINEER_LASERFOCUS_DESC": "Libera dos haces de energía por <style=cIsDamage>2x150% de daño</style>. El daño <style=cIsDamage>aumenta</style> cuanto <style=cIsUtility>más tiempo se enfoque un objetivo</style>.",
+    "SS2_ENGINEER_RAPIDDISPLACEMENT_NAME": "Desplazamiento Rápido",
+    "SS2_ENGINEER_RAPIDDISPLACEMENT_DESC": "<style=cIsDamage>Aturdidor</style>. <style=cIsUtility>Avanza</style>, empujando cualquier entidad en el camino por <style=cIsDamage>200% de daño</style>.",
+    "SS2_BANDIT_TRANQ_GUN_NAME": "Noche",
+    "SS2_BANDIT_TRANQ_GUN_DESC": "Dispara un dardo tranquilizante por <style=cIsDamage>{0}% de daño</style>, <style=cIsUtility>ralentizando</style> y eventualmente <style=cIsUtility>aturdiendo</style> enemigos. Puede tener hasta 4 dardos.",
+    "SS2_RAILGUNNER_ROLL_NAME": "Voltereta Táctica",
+    "SS2_RAILGUNNER_ROLL_DESC": "Rueda una corta distancia y realiza una recarga perfecta si estás recargando."
+  }
 }

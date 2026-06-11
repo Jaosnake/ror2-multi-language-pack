@@ -1,14 +1,14 @@
-{ "UA":
-    {
-    "HABIBI_MC_SKIN_NAME" : "Minecraft",
-    "HABIBI_RECOLOR_RED_NAME" : "Ð§ÐµÑ€Ð²Ð¾Ð½Ð¸Ð¹",
-    "HABIBI_RECOLOR_BLUE_NAME" : "Ð¡Ð¸Ð½Ñ–Ð¹",
-    "HABIBI_RECOLOR_GREEN_NAME" : "Ð—ÐµÐ»ÐµÐ½Ð¸Ð¹",
-    "HABIBI_RECOLOR_YELLOW_NAME" : "Ð–Ð¾Ð²Ñ‚Ð¸Ð¹",
-    "HABIBI_RECOLOR_ORANGE_NAME" : "ÐŸÐ¾Ð¼Ð°Ñ€Ð°Ð½Ñ‡ÐµÐ²Ð¸Ð¹"
-    "HABIBI_RECOLOR_CYAN_NAME" : "Ð‘Ð»Ð°ÐºÐ¸Ñ‚Ð½Ð¸Ð¹",
-    "HABIBI_RECOLOR_PURPLE_NAME" : "Ð¤Ñ–Ð¾Ð»ÐµÑ‚Ð¾Ð²Ð¸Ð¹",
-    "HABIBI_RECOLOR_PINK_NAME" : "Ð Ð¾Ð¶ÐµÐ²Ð¸Ð¹",
-    "HABIBI_RECOLOR_BLACK_NAME" : "Ð§Ð¾Ñ€Ð½Ð¸Ð¹",
+{
+    "UA": {
+        "HABIBI_MC_SKIN_NAME": "Minecraft",
+        "HABIBI_RECOLOR_RED_NAME": "Червоний",
+        "HABIBI_RECOLOR_BLUE_NAME": "Синій",
+        "HABIBI_RECOLOR_GREEN_NAME": "Зелений",
+        "HABIBI_RECOLOR_YELLOW_NAME": "Жовтий",
+        "HABIBI_RECOLOR_ORANGE_NAME": "Помаранчевий",
+        "HABIBI_RECOLOR_CYAN_NAME": "Блакитний",
+        "HABIBI_RECOLOR_PURPLE_NAME": "Фіолетовий",
+        "HABIBI_RECOLOR_PINK_NAME": "Рожевий",
+        "HABIBI_RECOLOR_BLACK_NAME": "Чорний"
     }
 }

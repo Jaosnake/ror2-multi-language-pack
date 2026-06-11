@@ -1,25 +1,30 @@
-BLAKE_RIFTER_NAME: 裂境者
-BLAKE_RIFTER_SUBTITLE: 裂隙操纵者
-PRIMARY_GAUNTLET_RANGED: 投射裂隙
-PRIMARY_GAUNTLET_RANGED_DESCRIPTION: 发射一道远程裂隙，造成500%伤害。
-SECONDARY_FRACTURE: 断裂
-SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>断裂</style>。发射一道远程裂隙，造成75%伤害，最多引发5次碎裂。
-SECONDARY_FAULT_LINE: 断层线
-SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>断裂</style>。创造一道断层线，碎裂后造成700%伤害。
-UTILITY_SLIPSTREAM: 维度滑流
-UTILITY_SLIPSTREAM_DESCRIPTION: 短距离传送。刷新次要技能储量。
-UTILITY_CHAINED_WORLDS: 连锁世界
-UTILITY_CHAINED_WORLDS_DESCRIPTION: 连接空间中的两点，创建一个传送投射物的传送门。
-UTILITY_QUANTUM_RIFT: 量子裂隙
-UTILITY_QUANTUM_RIFT_DESCRIPTION: 开启一道扭曲周围空间的量子裂隙。
-SPECIAL_TIMELOCK: 时间锁
-SPECIAL_TIMELOCK_DESCRIPTION: 锁定一片区域内敌人的时间，冻结他们数秒。
-SPECIAL_RECURSION: 递归
-SPECIAL_RECURSION_DESCRIPTION: 复制一道裂隙，使其在短时间内再次回响。
-PASSIVE_RIFT_BOOST: 裂隙加速
-PASSIVE_RIFT_BOOST_DESCRIPTION: 你的裂隙在穿过时提供移动速度加成。
-PASSIVE_RIFT_FRACTURE: 裂隙碎裂
-PASSIVE_RIFT_FRACTURE_DESCRIPTION: 被裂隙击中的敌人积累碎裂效果，增加受到的伤害。
-MASTERY_SKIN_NAME: 裂境者：精通
-BLAKE_NEM_RIFTER_NAME: 复仇女神裂境者
-BLAKE_NEM_RIFTER_SUBTITLE: 腐化裂隙
+{
+    "strings": {
+        "BLAKE_RIFTER_NAME": "裂境者",
+        "BLAKE_RIFTER_DESCRIPTION": "裂境者利用战略位置在现实中创造毁灭性的裂隙。<color=#CCD3E0>Original mod by toastyTeam</i>",
+        "BLAKE_RIFTER_SUBTITLE": "裂隙操纵者",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..于是他将一个裂裂的世界抛在背后。",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..于是他从所有领域消失了。",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "裂境者:精通",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "裂隙加速",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "你的裂隙在穿过时提供移动速度加成。",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "裂隙碎裂",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "被裂隙击中的敌人累积碎裂效果,增加受到的伤害。",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "投射裂隙",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "发射一道远程裂隙,造成500%伤害。",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "断裂",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>断裂</style>.发射一道远程裂隙,造成75%伤害,最多引发5次碎裂。",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "断层线",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>断裂</style>.创造一道断层线,碎裂后造成700%伤害。",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "维度滑流",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "短距离传送。刷新副要技能储备。",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "量子裂隙",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "开启一道扭曲周围空间的量子裂隙。",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "连锁世界",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "连接空间中的两点,创建一个传送投射物的传送门。",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "时间锁",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "锁定一片区域内敌人的时间,冻结他们数秒。",
+        "BLAKE_NEM_RIFTER_NAME": "复仇女神裂境者",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "腐化裂隙"
+    }
+}

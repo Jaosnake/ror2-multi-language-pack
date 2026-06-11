@@ -1,22 +1,19 @@
-BOG_DEPUTY_BODY_NAME: ã‚¶ãƒ»ãƒ‡ãƒ”ãƒ¥ãƒ†ã‚£
-BOG_DEPUTY_BODY_SUBTITLE: é›»æ’ƒã®æ­£ç¾©
-BOG_DEPUTY_BODY_DESCRIPTION: ãƒ‡ãƒ”ãƒ¥ãƒ†ã‚£ã¯è¶…æ”»æ’ƒçš„ãªã‚¹ãƒ”ãƒ¼ãƒ‰ãƒ‡ãƒ¼ãƒ¢ãƒ³ã§ã‚ã‚Šã€åŒéŠƒã®ãƒªãƒœãƒ«ãƒãƒ¼ã¨è‡´å‘½çš„ãªè¹´ã‚Šã§æ­£ç¾©ã‚’åŸ·è¡Œã™ã‚‹ã€‚
-
-BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-BOG_DEPUTY_BODY_PASSIVE_NAME: åŸ·æ‹—ãªè¿½è·¡
-BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: ãƒ‡ãƒ”ãƒ¥ãƒ†ã‚£ã¯ä»»æ„ã®æ–¹å‘ã«ãƒ€ãƒƒã‚·ãƒ¥ã§ãã‚‹ã€‚ã‚¹ã‚­ãƒ«ã§æ•µã«å‘½ä¸­ã™ã‚‹ã¨ã€ç©ã¿é‡ã­å¯èƒ½ãª<style=cIsUtility>ç§»å‹•é€Ÿåº¦</style>ãƒãƒ•ã‚’å¾—ã‚‹ã€‚
-
-PRIMARY_SHOOT_NAME: ç¢ºå®Ÿãªå°„æ’ƒ
-PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>æ©Ÿæ•</style>ã€‚ä¸­è·é›¢ã®ãƒªãƒœãƒ«ãƒãƒ¼ã§å°„æ’ƒã—ã€<style=cIsDamage>150%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>æ©Ÿæ•</style>ã€‚2æŒºã®ãƒªãƒœãƒ«ãƒãƒ¼ã‚’æŠ•ã’ã‚‹ã€‚<style=cIsDamage>ã‚¹ã‚¿ãƒ³</style>ã€‚ã‚¸ãƒ£ãƒ³ãƒ—ã—ã¦ä¸‹æ–¹ã®æ•µã«å°„æ’ƒã—ã€<style=cIsDamage>6x100%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>æ©Ÿæ•</style>ã€‚ã‚ãšã‹ã«ä¸Šæ–¹ã¸è§’åº¦ã‚’ã¤ã‘ã‚‰ã‚Œã‚‹ç²¾å¯†ãªå°„æ’ƒã‚’è¡Œã†ã€‚<style=cIsDamage>150%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚<style=cIsUtility>ã‚­ãƒ«ã§ãƒ¦ãƒ¼ãƒ†ã‚£ãƒªãƒ†ã‚£ã‚¹ã‚­ãƒ«ã®ã‚¯ãƒ¼ãƒ«ãƒ€ã‚¦ãƒ³ãŒãƒªã‚»ãƒƒãƒˆã•ã‚Œã‚‹</style>ã€‚
-
-SPECIAL_BULLETHEAVEN_DESCRIPTION: é«˜ãè·³èºã—ã€ä¸‹æ–¹ã«å‘ã‘ã¦å¼¾ä¸¸ã‚’ä¹±å°„ã—ã¦<style=cIsDamage>150%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-MASTERY_SKIN_NAME: ãƒ‡ãƒ”ãƒ¥ãƒ†ã‚£ï¼šãƒžã‚¹ã‚¿ãƒªãƒ¼
-BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..ãã—ã¦å½¼å¥³ã¯åŽ»ã£ã¦ã„ã£ãŸã€è½ŸéŸ³ã®æ‹æ‰‹ã®ä¸­ã‚’ã€‚
-BOG_DEPUTY_BODY_OUTRO_FAILURE: ..ãã—ã¦å½¼å¥³ã¯æ¶ˆãˆåŽ»ã£ãŸã€å½¼å¥³ã®ãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹ã¯ã¤ã„ã«å¹•ã‚’é–‰ã˜ãŸã€‚
+{
+    "ja": {
+        "BOG_DEPUTY_BODY_NAME": "ザ・デピュティ",
+        "BOG_DEPUTY_BODY_SUBTITLE": "電撃の正義",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "デピュティは超攻撃的なスピードデーモンであり、双銃のリボルバーと致命的な蹴りで正義を執行する。",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "執拗な追跡",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "デピュティは任意の方向にダッシュできる。スキルで敵に命中すると、積み重ね可能な<style=cIsUtility>移動速度</style>バフを得る。",
+        "PRIMARY_SHOOT_NAME": "確実な射撃",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>機敏</style>。中距離のリボルバーで射撃し、<style=cIsDamage>150%のダメージ</style>を与える。",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>機敏</style>。2挺のリボルバーを投げる。<style=cIsDamage>スタン</style>。ジャンプして下方の敵に射撃し、<style=cIsDamage>6x100%のダメージ</style>を与える。",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>機敏</style>。わずかに上方へ角度をつけられる精密な射撃を行う。<style=cIsDamage>150%のダメージ</style>を与える。",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800%のダメージ</style>。<style=cIsUtility>キルでユーティリティスキルのクールダウンがリセットされる</style>。",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "高く跳躍し、下方に向けて弾丸を乱射して<style=cIsDamage>150%のダメージ</style>を与える。",
+        "MASTERY_SKIN_NAME": "デピュティ:マスタリー",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..そして彼女は去っていった、轟音の拍手の中を。",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..そして彼女は消え去った、彼女のパフォーマンスはついに幕を閉じた。"
+    }
+}

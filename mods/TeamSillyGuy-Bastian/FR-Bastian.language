@@ -1,16 +1,16 @@
 {
     "FR": {
         "BASTIAN_NAME": "Bastian",
-        "BASTIAN_SUBTITLE": "Robot Traducteur Reconditionn\u00e9",
-        "BASTIAN_NAME_EPIC": "Bastian le Traducteur, Mod\u00e8le 4.I.N.K.",
+        "BASTIAN_SUBTITLE": "Robot Traducteur Reconditionné",
+        "BASTIAN_NAME_EPIC": "Bastian le Traducteur, Modèle 4.I.N.K.",
         "BASTIAN_OUTRO": "..et ainsi il partit, sa fonction enfin accomplie.",
-        "BASTIAN_FAIL": "..et ainsi il fut d\u00e9sactiv\u00e9, sa m\u00e9moire effac\u00e9e \u00e0 jamais.",
+        "BASTIAN_FAIL": "..et ainsi il fut désactivé, sa mémoire effacée à jamais.",
         "BASTIAN_M1": "Ion Swing",
         "BASTIAN_M2": "Micro-Balle",
         "BASTIAN_UTIL": "Nano-Ressort",
         "BASTIAN_SPEC": "Explosion de l'Architecte",
-        "BASTIAN_SPEC_KEYWORD": "Sp\u00e9cial",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "Par d\u00e9faut",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "Ma\u00eetrise"
+        "BASTIAN_SPEC_KEYWORD": "Spécial",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Par défaut",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Maîtrise"
     }
 }

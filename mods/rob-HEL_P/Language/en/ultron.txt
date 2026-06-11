@@ -1,1 +1,5 @@
-ROB_ULTRON_BODY_SUBTITLE: Coffee Filter?! <i>Backported from pt-BR. Original mod by rob. Translated by: Jaosnake</i>
+{
+    "strings": {
+        "ROB_ULTRON_BODY_SUBTITLE": "Coffee Filter?!"
+    }
+}

@@ -1,47 +1,40 @@
-BOG_PATHFINDER_BODY_NAME: Pathfinder
-BOG_PATHFINDER_BODY_SUBTITLE: Cazador Interplanetario
-BOG_PATHFINDER_BODY_DESCRIPTION: El Pathfinder es un escaramuzador astuto y evasivo que lucha junto a su halcón robótico, Squall. <i>Translated by: Jaosnake. Original mod by Bog</i>
-
-BOG_PATHFINDER_BODY_PASSIVE_NAME: Falconero
-BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION: Estás acompañado por tu halcón robótico, Squall. Squall hereda <style=cIsDamage>la mayoría</style> de tus objetos y es inmune al daño, pero funciona con una <style=cIsUtility>batería</style>.
-
-BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME: Predeterminado
-BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME: Headhunter
-BOG_PATHFINDER_BODY_OUTRO_FLAVOR: ..y así se fueron, como los nuevos reyes de la cadena alimenticia.
-BOG_PATHFINDER_BODY_OUTRO_FAILURE: ..y así desaparecieron, perdidos para siempre en la naturaleza salvaje e indiferente.
-BOG_SQUALL_BODY_NAME: Squall
-BOG_SQUALL_BODY_DEFAULT_SKIN_NAME: Predeterminado
-BOG_SQUALL_BODY_MASTERY_SKIN_NAME: Maestría
-PRIMARY_THRUST_NAME: Estocada
-PRIMARY_THRUST_DESCRIPTION: <style=cIsUtility>Perforante</style>. Empuja tu lanza hacia adelante para <style=cIsDamage>250% de daño</style>.
-
-SECONDARY_DASH_NAME: Pie Ligero
-SECONDARY_DASH_DESCRIPTION: <style=cIsUtility>Deslízate</style> una corta distancia. La próxima vez que uses tu habilidad primaria, lanza una <style=cIsDamage>lanza explosiva</style> para <style=cIsDamage>800% de daño</style> y recupera <style=cIsUtility>800% de batería</style>, duplicado en Golpes Críticos.
-
-SECONDARY_JAVELIN_NAME: Lanzamiento de Lanza
-SECONDARY_JAVELIN_DESCRIPTION: Lanza una <style=cIsDamage>lanza explosiva</style> para <style=cIsDamage>800% de daño</style>.
-
-UTILITY_SPIN_NAME: Garras Desgarradoras
-UTILITY_SPIN_DESCRIPTION: Elévate en el aire, girando rápidamente para <style=cIsDamage>300% de daño</style>. Al aterrizar, ejecuta un golpe horizontal para <style=cIsDamage>800% de daño</style>.
-
-UTILITY_BOLAS_NAME: Bolas de Choque
-UTILITY_BOLAS_DESCRIPTION: Arroja boleadoras cargadas eléctricamente que <style=cIsUtility>electrocutan</style> a los enemigos cercanos y dejan un campo <style=cIsUtility>electrocutor</style> por <style=cIsUtility>10 segundos</style>.
-
-SPECIAL_COMMAND_NAME: Emitir Comando
-SPECIAL_COMMAND_DESCRIPTION: Prepara un comando para Squall. Puedes emitir un comando de <color=#FF0000>Ataque</color>, <color=#00FF00>Seguir</color> o <color=#efeb1c>Especial</color> presionando las teclas de habilidad Primaria, Secundaria o Especial, respectivamente.
-
-SPECIAL_COMMAND2_NAME: Emitir Comando - Sobrescritura de Utilidad
-SPECIAL_ATTACK_NAME: Ataque
-SPECIAL_ATTACK_DESCRIPTION: Dirige la atención de Squall hacia el enemigo objetivo y activa el <color=#FF0000>Modo de Ataque</color>, otorgando acceso a ametralladoras que causan <style=cIsDamage>2x30% de daño</style> y un lanzamisiles que causa <style=cIsDamage>150% de daño</style>.
-
-SPECIAL_FOLLOW_NAME: Seguir
-SPECIAL_FOLLOW_DESCRIPTION: Trae a Squall de vuelta cerca de ti y activa el <color=#00FF00>Modo Seguir</color>, haciendo que se quede cerca de ti.
-
-SPECIAL_CANCEL_NAME: Cancelar Modo de Comando
-SPECIAL_CANCEL_DESCRIPTION: Cancela el Modo de Comando.
-
-SQUALL_SPECIAL_GOFORTHROAT_NAME: ¡Ve a la Garganta!
-SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION: Ordena a Squall atacar repetidamente al enemigo objetivo para <style=cIsDamage>70% de daño</style>. Cada ataque reduce brevemente la <style=cIsDamage>armadura</style> y <style=cIsUtility>regenera 1%</style> de batería, duplicado en Golpes Críticos. Esta habilidad puede <style=cIsUtility>sobrecargar</style> brevemente la batería.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Pathfinder: Mastery
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Pathfinder, beat the game or obliterate on Monsoon.
-BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Pathfinder: Mastery
+{
+    "strings": {
+        "BOG_PATHFINDER_BODY_NAME": "Pathfinder",
+        "BOG_PATHFINDER_BODY_SUBTITLE": "Cazador Interplanetario",
+        "BOG_PATHFINDER_BODY_DESCRIPTION": "El Pathfinder es un escaramuzador astuto y evasivo que lucha junto a su halcón robótico, Squall.",
+        "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Falconero",
+        "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "Estás acompañado por tu halcón robótico, Squall. Squall hereda <style=cIsDamage>la mayoría</style> de tus objetos y es inmune al daño, pero funciona con una <style=cIsUtility>batería</style>.",
+        "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Headhunter",
+        "BOG_PATHFINDER_BODY_OUTRO_FLAVOR": "..y así se fueron, como los nuevos reyes de la cadena alimenticia.",
+        "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..y así desaparecieron, perdidos para siempre en la naturaleza salvaje e indiferente.",
+        "BOG_SQUALL_BODY_NAME": "Squall",
+        "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Predeterminado",
+        "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Maestría",
+        "PRIMARY_THRUST_NAME": "Estocada",
+        "PRIMARY_THRUST_DESCRIPTION": "<style=cIsUtility>Perforante</style>. Empuja tu lanza hacia adelante para <style=cIsDamage>250% de daño</style>.",
+        "SECONDARY_DASH_NAME": "Pie Ligero",
+        "SECONDARY_DASH_DESCRIPTION": "<style=cIsUtility>Deslízate</style> una corta distancia. La próxima vez que uses tu habilidad primaria, lanza una <style=cIsDamage>lanza explosiva</style> para <style=cIsDamage>800% de daño</style> y recupera <style=cIsUtility>800% de batería</style>, duplicado en Golpes Críticos.",
+        "SECONDARY_JAVELIN_NAME": "Lanzamiento de Lanza",
+        "SECONDARY_JAVELIN_DESCRIPTION": "Lanza una <style=cIsDamage>lanza explosiva</style> para <style=cIsDamage>800% de daño</style>.",
+        "UTILITY_SPIN_NAME": "Garras Desgarradoras",
+        "UTILITY_SPIN_DESCRIPTION": "Elévate en el aire, girando rápidamente para <style=cIsDamage>300% de daño</style>. Al aterrizar, ejecuta un golpe horizontal para <style=cIsDamage>800% de daño</style>.",
+        "UTILITY_BOLAS_NAME": "Bolas de Choque",
+        "UTILITY_BOLAS_DESCRIPTION": "Arroja boleadoras cargadas eléctricamente que <style=cIsUtility>electrocutan</style> a los enemigos cercanos y dejan un campo <style=cIsUtility>electrocutor</style> por <style=cIsUtility>10 segundos</style>.",
+        "SPECIAL_COMMAND_NAME": "Emitir Comando",
+        "SPECIAL_COMMAND_DESCRIPTION": "Prepara un comando para Squall. Puedes emitir un comando de <color=#FF0000>Ataque</color>, <color=#00FF00>Seguir</color> o <color=#efeb1c>Especial</color> presionando las teclas de habilidad Primaria, Secundaria o Especial, respectivamente.",
+        "SPECIAL_COMMAND2_NAME": "Emitir Comando - Sobrescritura de Utilidad",
+        "SPECIAL_ATTACK_NAME": "Ataque",
+        "SPECIAL_ATTACK_DESCRIPTION": "Dirige la atención de Squall hacia el enemigo objetivo y activa el <color=#FF0000>Modo de Ataque</color>, otorgando acceso a ametralladoras que causan <style=cIsDamage>2x30% de daño</style> y un lanzamisiles que causa <style=cIsDamage>150% de daño</style>.",
+        "SPECIAL_FOLLOW_NAME": "Seguir",
+        "SPECIAL_FOLLOW_DESCRIPTION": "Trae a Squall de vuelta cerca de ti y activa el <color=#00FF00>Modo Seguir</color>, haciendo que se quede cerca de ti.",
+        "SPECIAL_CANCEL_NAME": "Cancelar Modo de Comando",
+        "SPECIAL_CANCEL_DESCRIPTION": "Cancela el Modo de Comando.",
+        "SQUALL_SPECIAL_GOFORTHROAT_NAME": "¡Ve a la Garganta!",
+        "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordena a Squall atacar repetidamente al enemigo objetivo para <style=cIsDamage>70% de daño</style>. Cada ataque reduce brevemente la <style=cIsDamage>armadura</style> y <style=cIsUtility>regenera 1%</style> de batería, duplicado en Golpes Críticos. Esta habilidad puede <style=cIsUtility>sobrecargar</style> brevemente la batería.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+    }
+}

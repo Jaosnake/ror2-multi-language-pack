@@ -1,16 +1,16 @@
 {
     "FR": {
         "KENKO_INTERROGATOR_NAME": "Interrogateur",
-        "KENKO_INTERROGATOR_SUBTITLE": "Sp\u00e9cialiste du Tourment",
+        "KENKO_INTERROGATOR_SUBTITLE": "Spécialiste du Tourment",
         "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..et ainsi il partit, impatient d'appliquer plus de \"justice\".",
         "KENKO_INTERROGATOR_OUTRO_FAILURE": "..et ainsi il disparut, puni pour ses crimes.",
-        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Par d\u00e9faut",
-        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogateur : Sp\u00e9cialiste",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Par défaut",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogateur : Spécialiste",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "Tourment",
         "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Coup Brutal",
-        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "M\u00eal\u00e9e",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Mêlée",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsifier",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condamner",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir"
     }
 }

@@ -1,44 +1,33 @@
-{ "IT":
-	{
-	"MINER_NAME" : "çŸ¿å·¥",
-	"MINER_DESCRIPTION" : "çŸ¿å·¥æ˜¯ä¸€ä¸ªå¿«èŠ‚å¥ä¸”é«˜æœºåŠ¨çš„è¿‘æˆ˜å¹¸å­˜è€…ï¼Œè¦ä¼˜å…ˆè€ƒè™‘å‡»æ€æ•ŒäººèŽ·å¾—è¢«åŠ¨å †å ã€‚<color=#CCD3E0>\n\n< ! >ä¸€æ—¦ä½ èŽ·å¾—äº†å¤§é‡çš„è‚¾ä¸Šè…ºç´ ï¼Œå‡¿å‡»å’Œå¾æœå°†æ˜¯ä½ æœ€å¥½çš„ä¼¤å®³æ¥æºã€‚\n\n< ! >é’»å¤´å†²é”‹å……èƒ½åªå½±å“é€ æˆçš„ä¼¤å®³ã€‚çž„å‡†åœ°é¢æˆ–æ•Œäººé€ æˆé›†ä¸­ä¼¤å®³ã€‚\n\n< ! >å¯ä»¥ä½¿ç”¨åŽæ’¤æ­¥ä»¥ç§»åŠ¨ä¸€å°æ®µè·ç¦»ã€‚æŒ‰ä½å¯ä»¥ç§»åŠ¨å¾—æ›´è¿œã€‚\n\n< ! >æ˜Ÿä¹‹é—ªçƒå¯ä»¥å¯¹å¤§åž‹æ•Œäººé€ æˆé«˜é¢ä¼¤å®³ã€‚",
-	"MINER_SUBTITLE" : "ç ´åæ€§æŒ–æŽ˜è€…",
-	"MINER_LORE" : "\nåœ¨è´§è½®åºŸå¢Ÿçš„å†°å†·é’¢é“å’Œå¯’å†·çš„å¤œæ™šçš„ç©ºæ°”ä¸­ï¼Œæœ‰å£°æ‚å¿—çš„å¾®å¼±è“å…‰æ˜ å…¥çœ¼å¸˜ã€‚æ—¥è®°æœ¬åœ¨è´§ç‰©çš„æ®‹éª¸ä¸­å®Œå…¨å¤±ä¿®ï¼Œä½†å®ƒä»ç„¶å­˜åœ¨ï¼Œä¿æŒåŠŸèƒ½ã€‚è®¾å¤‡å¤–å£³ä¸Šçš„æ¨¡æ‹ŸæŒ‰é’®ç¼“æ…¢è·³åŠ¨ï¼Œä»¿ä½›åœ¨é‚€è¯·ä»»ä½•äººè†å¬ä»–ä»¬æ‰­æ›²çš„æ¡ç›®ï¼Œè¿žè´¯æ€§ä¸æ–­è¡°å‡...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L  O  G     1 - - / /</color>\n''ç¬¬ä¸€ä¸ªæ—¥å¿—ã€‚æ—¥æœŸï¼Œå‘ƒâ€¦â€¦å“¦ï¼Œ5ï¼Œå“¦ï¼Œ1ï¼Œ20-50-5ã€‚å¸ƒæ‹‰æ–¯å†³å®šæŠŠæˆ‘ä»¬ä»Žé‡‡çŸ¿å·¥ä½œä¸­æ‹‰å‡ºæ¥ã€‚ç»è¿‡å‡ ä¸ªæœˆçš„æŒ–æŽ˜ï¼Œç»è¿‡å‡ ä¸ªæœˆçš„é²œè¡€ï¼Œåœ¨è¿™é¡¹è¡ŒåŠ¨ä¸ŠèŠ±è´¹äº†æ•°ç™¾ä¸‡ç¾Žå…ƒï¼Œæˆ‘ä»¬åªæ˜¯æ”¾å¼ƒäº†å—ï¼Ÿ''\n\n<color=#8990A7>/ / - - L  O  G     5 - - / /</color>\n''æˆ‘ä»Žæ¥æ²¡æœ‰è§è¿‡è¿™æ ·çš„ä¸œè¥¿ã€‚å†…éƒ¨å‡ ä¹Žå°±åƒä¸€ä¸ªä¸‡èŠ±ç­’ã€‚é»„é“œå¸Œæœ›æˆ‘ä»¬å°½å¿«ç¦»å¼€ã€‚ä»Šæ™šæˆ‘è¦å‡ºåŽ»æŠŠå‰©ä¸‹çš„æŒ–å‡ºæ¥â€¦â€¦å¦‚æžœæˆ‘èƒ½åšåˆ°è¿™ä¸€ç‚¹ï¼ŒæŽ¥ä¸‹æ¥çš„ä¸€åƒè–ªæ°´å°±ä¼šæ‹¿åˆ°ã€‚æˆ‘ä¸€ç›´åœ¨ç­‰å¾…è¿™æ ·çš„æœºä¼šã€‚''\n\n<color=#8990A7>/ / - - L  O  G     7 - - / /</color>\n''å¾ˆç¡®å®šä»–ä»¬ä»€ä¹ˆéƒ½çŸ¥é“ã€‚ä»–ä»¬çŽ°åœ¨åœ¨è´¨ç–‘äººä»¬ã€‚æˆ‘æŠŠç¥žå™¨è—åœ¨é€šé£Žå£ï¼Œåº”è¯¥æ˜¯å®‰å…¨çš„ã€‚è´§æœºå«UESï¼Œå‡ ä¸ªæœˆåŽå¯¹æŽ¥ã€‚æˆ‘åªéœ€è¦åšæŒå·å·æ‘¸æ‘¸ã€‚''\n\n<color=#8990A7>/ / - - L  O  G     15 - - / /</color>\n''ä»–ä»¬åœ¨æ‰¾æˆ‘ï¼Œä¸ä¹…ä»–ä»¬å°±æ‰¾åˆ°äº†æˆ‘ï¼Œåƒä¸€ä¸ªèº²åœ¨èˆ¹å£ä¸Šçš„è‚¥è€é¼ ã€‚è´§æœºåœè¿ï¼Œæˆ‘ä¸ºæ­¤ä»˜å‡ºäº†ä¸€åˆ‡ã€‚æˆ‘ä¸ºæ­¤ä»˜å‡ºäº†<i>ä¸€åˆ‡</i>ã€‚''\n\n<color=#8990A7>/ / - - L  O  G     16 - - / /</color>\n''èˆ¹ä½“æŸå¤„ã€‚æ²¡æœ‰äººå›žåˆ°è¿™é‡Œï¼Œç”šè‡³æ²¡æœ‰ç»´æŠ¤ã€‚åœ¨èˆ¹åˆ°è¾¾ä¹‹å‰æˆ‘åº”è¯¥æ˜¯å®‰å…¨çš„ã€‚''\n\n<color=#8990A7>/ / - - L  O  G     18 - - / /</color>\n''èˆ¹ä»ç„¶æç½®ã€‚ä¸çŸ¥é“ä»€ä¹ˆæ—¶å€™å‡ºå‘ã€‚'' <color=#8990A7><å‘»åŸ></color>\n\n <color=#8990A7>/ / - - L  O  G     29 - - / /</color>\n''<color=#8990A7>-//////////-</color>åœ¨è¿™ï¼Œæœ€åŽï¼Œæœ€åŽã€‚å¿…é¡»æŠŠç¥žå™¨æ‹¿åˆ°èˆ¹ä¸Šã€‚ä¸è¿‡ï¼Œåˆ°å¤„éƒ½æ˜¯å®‰ä¿ã€‚ä½£å…µå›¢...'' <color=#8990A7><è¿œå¤„çš„å£°éŸ³æœ‰å¬ä¸æ¸…çš„å¯¹è¯></color> ''å¥½çš„ã€‚ä½å£ã€‚é—­å˜´èµ°å§ã€‚æˆ‘è¦åŽ»ã€‚åŽ»ã€‚ä»Šæ™šã€‚''\n\n <color=#8990A7>/ / - - L  O  G     31 - - / /</color>\n''<color=#8990A7>-//////-</color>èˆ¹å‡ºäº‹äº†ã€‚è´§ç‰©é£žå‡ºã€‚é—å¤±ç¥žå™¨ã€‚å¤±åŽ»äº†ä¸€åˆ‡. . . . å¤±åŽ»äº†<color=#8990A7>-//-</color>.''\n\néŸ³é¢‘æ—¥å¿—çš„å±å¹•å‘å‡ºç«èŠ±å’Œçˆ†è£‚å£°ï¼Œå¤„äºŽå®Œå…¨çš„é»‘æš—ä¸­ï¼Œä¼´éšç€çŸ¿å·¥ä¸ç¥¥çš„é—è¨€å¸¦æ¥çš„éœ‡è€³æ¬²è‹çš„æ²‰é»˜ã€‚",
-	"MINER_OUTRO" : "..æ‰€ä»¥ä»–ç¦»å¼€äº†ï¼Œè‚¾ä¸Šè…ºç´ è¿˜åœ¨ä»–çš„è¡€ç®¡é‡Œå¥”è…¾ã€‚",
-	"MINER_OUTRO_FLAVOR" : "..æ‰€ä»¥ä»–ç¦»å¼€äº†ï¼Œè‚¾ä¸Šè…ºç´ è¿˜åœ¨ä»–çš„è¡€ç®¡é‡Œå¥”è…¾ã€‚",
-	
-	"MINER_PASSIVE_NAME" : "æ·˜é‡‘çƒ­",
-	"MINER_PASSIVE_DESCRIPTION" : "æ”¶åˆ°é‡‘é’±æ—¶ï¼ŒèŽ·å¾—<style=cIsHealth>è‚¾ä¸Šè…ºç´ </style>ï¼Œæå‡<style=cIsDamage>æ”»å‡»é€Ÿåº¦</style>ï¼Œ<style=cIsUtility>ç§»åŠ¨é€Ÿåº¦</style>ï¼Œå’Œ<style=cIsHealing>ç”Ÿå‘½æ¢å¤</style>ã€‚",
-	"KEYWORD_CLEAVING" : "<style=cKeywordName>è£‚åŠˆ</style><style=cSub>æ–½åŠ ä¸€ä¸ªå åŠ å‡ç›Šï¼Œ<style=cIsHealth>æ¯å±‚é™ä½Ž3ç‚¹</style><style=cIsDamage>æŠ¤ç”²</style>ã€‚</style>",
-	
-	"MINER_PRIMARY_GOUGE_NAME" : "å‡¿å‡»",
-	"MINER_PRIMARY_GOUGE_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚å‘é™„è¿‘çš„æ•Œäººç–¯ç‹‚æŒ¥åŠ¨å‡¿å­ï¼Œé€ æˆ<style=cIsDamage>270%ä¼¤å®³</style>ï¼Œ<style=cIsHealth>è£‚åŠˆ</style>æŠ¤ç”²ã€‚",
-	
-	"MINER_PRIMARY_CRUSH_NAME" : "å¾æœ",
-	"MINER_PRIMARY_CRUSH_DESCRIPTION" : "<style=cIsUtility>çµå·§</style>ã€‚ç²‰ç¢Žé™„è¿‘çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>360%ä¼¤å®³</style>ã€‚<style=cIsUtility>èŒƒå›´éšæ”»å‡»é€Ÿåº¦å¢žåŠ </style>ã€‚",
-	
-	"MINER_SECONDARY_CHARGE_NAME" : "é’»å¤´å†²é”‹",
-	"MINER_SECONDARY_CHARGE_DESCRIPTION" : "å……èƒ½å¹¶å†²å‘æ•Œäººï¼Œæœ€å¤šé€ æˆ<style=cIsDamage>6x180%ä¼¤å®³</style>ã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_SECONDARY_BREAK_NAME" : "ç ´åé”¤",
-	"MINER_SECONDARY_BREAK_DESCRIPTION" : "å‘å‰å†²åˆºï¼Œåœ¨ä¸Žæ•ŒäººæŽ¥è§¦æ—¶ï¼Œçˆ†ç‚¸é€ æˆ<style=cIsDamage>2x240%ä¼¤å®³</style>ã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_UTILITY_BACKBLAST_NAME" : "åŽæ’¤æ­¥",
-	"MINER_UTILITY_BACKBLAST_DESCRIPTION" : "<style=cIsDamage>çœ©æ™•</style>ã€‚å‘åŽçˆ†ç‚¸ï¼Œå‡»ä¸­é™„è¿‘çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>600%ä¼¤å®³</style>ã€‚æŒ‰ä½åŽè·ç¦»æ›´è¿œã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_UTILITY_CAVEIN_NAME" : "å¡Œé™·",
-	"MINER_UTILITY_CAVEIN_DESCRIPTION" : "<style=cIsUtility>çœ©æ™•</style>ã€‚å‘åŽçˆ†ç‚¸ï¼Œ<style=cIsUtility>æ‹‰åŠ¨</style>å¤§èŒƒå›´å†…çš„æ‰€æœ‰æ•Œäººã€‚<style=cIsUtility>åœ¨æ­¤æœŸé—´ä¸èƒ½è¢«å‡»ä¸­ã€‚</style>",
-	
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_NAME" : "æ˜Ÿä¹‹é—ªçƒ",
-	"MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION" : "è·³åˆ°ç©ºä¸­ï¼Œç›´æŽ¥å‡»ä¸­ä¸‹æ–¹çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>6x300%ä¼¤å®³</style>ã€‚",
-	
-	"MINER_SPECIAL_TOTHESTARS_NAME" : "é™¨çŸ³é™è½",
-	"MINER_SPECIAL_TOTHESTARS_DESCRIPTION" : "è·³åˆ°ç©ºä¸­ï¼Œå‘ä¸‹å°„å‡ºä¸€å›¢å¼¹ç‰‡ï¼Œé€ æˆ<style=cIsDamage>15x160%ä¼¤å®³</style>ã€‚",
-	
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_NAME" : "å è½çš„å½—æ˜Ÿ",
-	"MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION" : "è·³åˆ°ç©ºä¸­ï¼Œå‘ä¸‹å°„å‡ºä¸€å›¢å¼¹ç‰‡ï¼Œé€ æˆ<style=cIsDamage>15x160%ä¼¤å®³</style>ï¼Œç„¶åŽå‘ä¸‹å è½å¹¶äº§ç”Ÿå·¨å¤§çš„å†²å‡»åŠ›ï¼Œé€ æˆ<style=cIsDamage>1500%ä¼¤å®³</style>å¹¶<style=cIsDamage>ç‚¹ç‡ƒ</style>å‡»ä¸­çš„æ•Œäººã€‚",
-	
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME" : "æ˜Ÿç•Œ",
-	"MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION" : "<style=cIsDamage>çœ©æ™•ã€‚</style>è·³åˆ°ç©ºä¸­ï¼Œç›´æŽ¥å‡»ä¸­ä¸‹æ–¹çš„æ•Œäººï¼Œé€ æˆ<style=cIsDamage>10x300%æ€»ä¼¤å®³</style>ã€‚"
-	}
+{
+    "IT": {
+        "MINER_NAME": "Minatore",
+        "MINER_DESCRIPTION": "Il Minatore è un sopravvissuto corpo a corpo dal ritmo veloce e molto mobile che dà la priorità a lunghe combo di uccisioni per accumulare la sua passiva.<color=#CCD3E0>\n\n< ! > Una volta ottenuto un buon numero di accumuli di Adrenalina, Gouge e Crush saranno la tua migliore fonte di danno.\n\n< ! > Charging Drill Charge influisce solo sui danni inflitti. Mira al suolo o ai nemici per infliggere danni concentrati.\n\n< ! > Puoi toccare Backblast per percorrere una breve distanza. Tienilo premuto per andare oltre.\n\n< ! > To The Stars può infliggere danni elevati ai nemici di grandi dimensioni.",
+        "MINER_SUBTITLE": "Tossicodipendente distruttivo",
+        "MINER_LORE": "\nTra il freddo acciaio delle rovine della nave da carico e l'aria della notte gelida, la fioca luce blu di un diario audio attira la tua attenzione. Il diario giace in totale rovina tra i resti del carico, eppure persiste, rimanendo funzionante. I pulsanti analogici sull'involucro del dispositivo pulsano lentamente, come se invitassero qualcuno ad ascoltare le loro voci deformate, perdendo continuamente coerenza...\n\n<color=#8990A7><CLICK></color>\n\n<color=#8990A7>/ / - - L O G 1 - - / /</color>\n''Primo log. Appuntamento, uhhh... Oh-cinque, oh-uno, venticinquecinque. Brass ha deciso di ritirarci dal lavoro minerario. Dopo mesi di scavi, dopo mesi di sangue, swe<color=#8990A7>-///////-</color>nd milioni spesi per questa operazione, la lasciamo perdere? Bull<color=#8990A7>-//-</color>.''\n\n<color=#8990A7>/ / - - L O G 5 - - / /</color>\n''<color=#8990A7>-////////-</color>nter dell'asteroide. Non ho mai visto niente del genere. Era come un frattale dr<color=#8990A7>-////////-</color>nd... L'interno è quasi come un caleidoscopio. Deve valere la pena<color=#8990A7>-/////-</color>e i pezzi grossi vogliono che ce ne andiamo, il prima possibile. Beh, possono baciare m<color=#8990A7>-////-</color>. E stasera andrò là fuori per tirare fuori il resto... Se riesco a recintarlo, i prossimi mille stipendi non reggeranno il confronto. Aspettavo un'opportunità come questa.''\n\n<color=#8990A7>/ / - - L O G 7 - - / /</color>\n''Sono abbastanza sicuro che sappiano tutto. Stanno interrogando la gente adesso. Ho nascosto il manufatto in una presa d'aria in <color=#8990A7>-//////-</color>, dovrebbe essere al sicuro. Il cargo ha chiamato l'attracco dell'UE<color=#8990A7>-////-</color>t tra pochi mesi. Devo solo resistere e intrufolarmi.''\n\n<color=#8990A7>/ / - - L O G 15 - - / /</color>\n''Mi stanno cercando. Non molto tempo prima che mi trovino. Nascosto tra le pareti della nave come un f<color=#8990A7>-//////-</color>rat. Il cargo è fuori orario. Ho dato tutto per questo. Ho dato <i>everything</i> per questo.''\n\n<color=#8990A7>/ / - - L O G 16 - - / /</color>\n''Da qualche parte nello scafo. Nessuno torna qui. Neppure la manutenzione. Dovrei essere al sicuro finché non arriva la nave.''\n\n<color=#8990A7>/ / - - L O G 18 - - / /</color>\n''Nave ancora in attesa. Non riesco a farmi un'idea di quando non sarà.'' <color=#8990A7><Groan>.</color> ''Questo è fa<color=#8990A7>-//-</color>zing.''\n\n <color=#8990A7>/ / - - L O G 29 - - / /</color>\n''<color=#8990A7>-//////////-</color> è qui. Finalmente. Finalmente. Devo portare il manufatto a bordo. Sicurezza ovunque, però. Mercenari...'' <color=#8990A7><Distant voices have an indiscernible conversation.></color> ''Va bene. Stai zitto. Stai zitto e vai. Vado. Andando. Stasera.''\n\n <color=#8990A7>/ / - - L O G 31 - - / /</color>\n''<color=#8990A7>-//////-</color>sta succedendo qualcosa alla nave. Carico che vola via. Perso il manufatto. Perso tutto. . . . Lost everythingi<color=#8990A7>-//-</color>.''\n\nLo schermo del diario audio scintilla e scoppietta, lasciandoti nell'oscurità completa, accompagnato dal silenzio assordante causato dalle ultime parole minacciose del minatore.",
+        "MINER_OUTRO": "..所以他离开了,肾上腺素还在他的血管里奔腾。",
+        "MINER_OUTRO_FLAVOR": "..e così se ne andò, con l'adrenalina ancora a scorrere nelle vene.",
+        "MINER_PASSIVE_NAME": "Corsa all'oro",
+        "MINER_PASSIVE_DESCRIPTION": "Ottieni <style=cIsHealth>ADRENALINE</style> quando ricevi oro, aumentando <style=cIsDamage>velocità di attacco</style>, <style=cIsUtility>velocità di movimento</style> e <style=cIsHealing>rigenerazione salute</style>.",
+        "KEYWORD_CLEAVING": "<style=cKeywordName>Cleaving</style><style=cSub>Applica un debuff di accumulo che riduce <style=cIsDamage>armor</style> di <style=cIsHealth>3 per stack</style>.</style>",
+        "MINER_PRIMARY_GOUGE_NAME": "Sgorbia",
+        "MINER_PRIMARY_GOUGE_DESCRIPTION": "<style=cIsUtility>Agile.</style> Colpisci selvaggiamente i nemici vicini, infliggendo <style=cIsDamage>270% di danni</style>, <style=cIsHealth>fendendo</style> la loro armatura.",
+        "MINER_PRIMARY_CRUSH_NAME": "Schiacciare",
+        "MINER_PRIMARY_CRUSH_DESCRIPTION": "<style=cIsUtility>Agile.</style> Schiaccia i nemici vicini, infliggendo <style=cIsDamage>360% di danno</style>. <style=cIsUtility>La portata aumenta con la velocità d'attacco</style>.",
+        "MINER_SECONDARY_CHARGE_NAME": "Carica di trivellazione",
+        "MINER_SECONDARY_CHARGE_DESCRIPTION": "Carica e lanciati contro i nemici, infliggendo fino al <style=cIsDamage>6x180% di danni</style>. <style=cIsUtility>Non puoi essere colpito per tutta la durata.</style>",
+        "MINER_SECONDARY_BREAK_NAME": "Martello da spacco",
+        "MINER_SECONDARY_BREAK_DESCRIPTION": "Scatta in avanti, esplodendo, infliggendo <style=cIsDamage>2x240% di danni</style> al contatto con un nemico. <style=cIsUtility>Non puoi essere colpito per tutta la durata.</style>",
+        "MINER_UTILITY_BACKBLAST_NAME": "Backblast",
+        "MINER_UTILITY_BACKBLAST_DESCRIPTION": "<style=cIsDamage>Stupefacente.</style> Scatta all'indietro, colpendo i nemici vicini, infliggendo <style=cIsDamage>600% di danno</style>. Tieni premuto per viaggiare ulteriormente. <style=cIsUtility>Non puoi essere colpito per tutta la durata.</style>",
+        "MINER_UTILITY_CAVEIN_NAME": "Caverna",
+        "MINER_UTILITY_CAVEIN_DESCRIPTION": "<style=cIsUtility>Stunning.</style> Scatta all'indietro, <style=cIsUtility>trascinando</style> tutti i nemici in un ampio raggio. <style=cIsUtility>Non puoi essere colpito per tutta la durata.</style>",
+        "MINER_SPECIAL_TOTHESTARSCLASSIC_NAME": "Alle stelle",
+        "MINER_SPECIAL_TOTHESTARSCLASSIC_DESCRIPTION": "Salta in aria, colpendo i nemici direttamente sotto, infliggendo <style=cIsDamage>6x300% di danni</style>.",
+        "MINER_SPECIAL_TOTHESTARS_NAME": "Pioggia di meteoriti",
+        "MINER_SPECIAL_TOTHESTARS_DESCRIPTION": "Salta in aria, sparando uno spruzzo di schegge verso il basso, infliggendo <style=cIsDamage>15x160% di danni</style>.",
+        "MINER_SPECIAL_SCEPTERTOTHESTARS_NAME": "Cometa che cade",
+        "MINER_SPECIAL_SCEPTERTOTHESTARS_DESCRIPTION": "Salta in aria, sparando uno spruzzo di schegge verso il basso, infliggendo <style=cIsDamage>15x160% di danni</style>, quindi cadi verso il basso e crea un'enorme esplosione all'impatto che infligge <style=cIsDamage>1500% di danni</style> e <style=cIsDamage>ignites</style> nemici colpiti.",
+        "MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_NAME": "Verso le stelle",
+        "MINER_SPECIAL_SCEPTERTOTHESTARSCLASSIC_DESCRIPTION": "<style=cIsDamage>Splendido</style>. Salta in aria, colpendo i nemici direttamente sotto, infliggendo <style=cIsDamage>10x300% di danni</style> totali."
+    }
 }

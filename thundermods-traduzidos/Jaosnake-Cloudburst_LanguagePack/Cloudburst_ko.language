@@ -1,6 +1,6 @@
-{ "ko":
-    {
-    "EXPANSION_CLOUDBURST_NAME" : "äº‘çˆ†",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "æ·»åŠ æ¨¡ç»„â€œäº‘çˆ†â€ä¸­çš„å†…å®¹è‡³æ¸¸æˆä¸­ã€‚",
+{
+    "ko": {
+        "EXPANSION_CLOUDBURST_NAME": "대량",
+        "EXPANSION_CLOUDBURST_DESCRIPTION": "'Cloudburst' 모드의 콘텐츠를 게임에 추가합니다."
     }
 }

@@ -14,9 +14,9 @@
         "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Attirez les ennemis vers vous.Original mod by nayDPz</i>",
         "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Ruban d'Entrave",
         "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Appliquez un ruban sur un ennemi, l'empêchant d'agir et causant un saignement.Original mod by nayDPz</i>",
-        "KEYWORD_DANCER_JAB": "\u003cstyle=cKeywordName\u003eJab\u003c/style\u003e\u003cstyle=cSub\u003eInput au sol, visez devant. Avancez et infligez \u003cstyle=cIsDamage\u003e180% de dégâts\u003c/style\u003e.",
-        "KEYWORD_DANCER_DOWNTILT": "\u003cstyle=cKeywordName\u003eDown Tilt\u003c/style\u003e\u003cstyle=cSub\u003eInput au sol, visez vers le bas. Projetez les ennemis en l'air et infligez \u003cstyle=cIsDamage\u003e200% de dégâts\u003c/style\u003e.",
-        "KEYWORD_DANCER_FORWARDAIR": "\u003cstyle=cKeywordName\u003eForward Air\u003c/style\u003e\u003cstyle=cSub\u003eInput en l'air, visez devant. Coup puissant qui inflige \u003cstyle=cIsDamage\u003e180% de dégâts\u003c/style\u003e et cloue les ennemis au sol, étourdissant et infligeant jusqu'à \u003cstyle=cIsDamage\u003e300% de dégâts\u003c/style\u003e.",
-        "KEYWORD_DANCER_RIBBON": "\u003cstyle=cKeywordName\u003eRuban\u003c/style\u003e\u003cstyle=cSub\u003eLes ennemis avec un ruban saignent de \u003cstyle=cIsDamage\u003e50% de dégâts par seconde\u003c/style\u003e et ne peuvent pas agir."
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Input au sol, visez devant. Avancez et infligez <style=cIsDamage>180% de dégâts</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>Input au sol, visez vers le bas. Projetez les ennemis en l'air et infligez <style=cIsDamage>200% de dégâts</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Input en l'air, visez devant. Coup puissant qui inflige <style=cIsDamage>180% de dégâts</style> et cloue les ennemis au sol, étourdissant et infligeant jusqu'à <style=cIsDamage>300% de dégâts</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Ruban</style><style=cSub>Les ennemis avec un ruban saignent de <style=cIsDamage>50% de dégâts par seconde</style> et ne peuvent pas agir."
     }
 }

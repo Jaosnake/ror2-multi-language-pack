@@ -37,7 +37,7 @@
     "SS2_NEMCAPTAIN_ORDERRECOVER_NAME": "ORDRE : Réinitialisation totale",
     "SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION": "Réduit massivement votre niveau de stress actuel, tout en <style=cIsUtility>jetant tous les autres Ordres</style>. Le Stress retiré est augmenté par Ordre perdu.",
     "SS2_NEMCAPTAIN_ORDERHEAL_NAME": "ORDRE : Champ de vigueur",
-		"SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Soigne</style> les alliés proches de <style=cIsHealing>6%</style> de leur <style=cIsHealth>santé maximale</style> chaque seconde, et accorde <style=cIsUtility>50 points d'armure</style> et <style=cIsDamage>+20% de vitesse d'attaque</style> pendant <style=cIsUtility>12 secondes</style>.",
+    "SS2_NEMCAPTAIN_ORDERHEAL_DESCRIPTION": "<style=cIsHealing>Soigne</style> les alliés proches de <style=cIsHealing>6%</style> de leur <style=cIsHealth>santé maximale</style> chaque seconde, et accorde <style=cIsUtility>50 points d'armure</style> et <style=cIsDamage>+20% de vitesse d'attaque</style> pendant <style=cIsUtility>12 secondes</style>.",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_NAME": "ORDRE : Puits gravitationnel",
     "SS2_NEMCAPTAIN_ORDERGRAVITY_DESCRIPTION": "<style=cIsUtility>Attire</style> les ennemis proches pendant <style=cIsUtility>8 secondes</style>."
   }

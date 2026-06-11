@@ -1,102 +1,106 @@
-ROB_HUNK_BODY_NAME: HUNK
-ROB_HUNK_BODY_SUBTITLE: æ­»ç¥ž
-ROB_HUNK_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-ROB_HUNK_BODY_CLASSIC_SKIN_NAME: ã‚¯ãƒ©ã‚·ãƒƒã‚¯
-ROB_HUNK_BODY_ROOKIE_SKIN_NAME: æ–°äºº
-ROB_HUNK_BODY_SWAT_SKIN_NAME: SWAT
-ROB_HUNK_BODY_LEON_SKIN_NAME: ãƒ¬ã‚ªãƒ³
-ROB_HUNK_BODY_ENFORCER_SKIN_NAME: Enforcer
-ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME: è»½é‡
-ROB_HUNK_BODY_GUERRILLA_SKIN_NAME: ã‚²ãƒªãƒ©
-ROB_HUNK_BODY_WESKER_SKIN_NAME: ã‚¦ã‚§ã‚¹ã‚«ãƒ¼
-ROB_HUNK_BODY_DOOM_SKIN_NAME: Doom
-ROB_HUNK_BODY_MINECRAFT_SKIN_NAME: Minecraft
-ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME: ãƒ¬ã‚ªãƒ³ã®ã‚·ãƒ£ãƒ„
-ROB_HUNK_BODY_COMMANDO_SKIN_NAME: ã‚³ãƒžãƒ³ãƒ‰ãƒ¼
-ROB_HUNK_BODY_JACKET_SKIN_NAME: ã‚¸ãƒ£ã‚±ãƒƒãƒˆ
-ROB_HUNK_BODY_TOFU_SKIN_NAME: è±†è…
-ROB_HUNK_BODY_SUPER_SKIN_NAME: ã‚¹ãƒ¼ãƒ‘ãƒ¼
-SHOOT_M19_NAME: M19
-SHOOT_M19_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚M19ã‚’ç™ºå°„ã—ã¦<style=cIsDamage>500%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_BROOMHC_NAME: Broom HC
-SHOOT_BROOMHC_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚Broom HCã‚’ç™ºå°„ã—ã¦<style=cIsDamage>180%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_REVOLVER_NAME: ãƒªãƒœãƒ«ãƒãƒ¼
-SHOOT_REVOLVER_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ãƒªãƒœãƒ«ãƒãƒ¼ã‚’ç™ºå°„ã—ã¦<style=cIsDamage>1.200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_MAGNUM_NAME: ãƒžã‚°ãƒŠãƒ 
-SHOOT_MAGNUM_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ãƒžã‚°ãƒŠãƒ ã‚’ç™ºå°„ã—ã¦<style=cIsDamage>1.500%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_SHOTGUN_NAME: ã‚·ãƒ§ãƒƒãƒˆã‚¬ãƒ³
-SHOOT_SHOTGUN_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ã‚·ãƒ§ãƒƒãƒˆã‚¬ãƒ³ã‚’ç™ºå°„ã—ã¦<style=cIsDamage>14x150%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_SSG_NAME: SSG
-SHOOT_SSG_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚SSGã‚’ç™ºå°„ã—ã¦<style=cIsDamage>16x200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_SLUGGER_NAME: Slugger
-SHOOT_SLUGGER_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚Sluggerã‚’ç™ºå°„ã—ã¦<style=cIsDamage>3.000%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_AR_NAME: ã‚¢ã‚µãƒ«ãƒˆãƒ©ã‚¤ãƒ•ãƒ«
-SHOOT_AR_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ãƒ©ã‚¤ãƒ•ãƒ«ã‚’ç™ºå°„ã—ã¦<style=cIsDamage>385%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_SPARKSHOT_NAME: Spark Shot
-SHOOT_SPARKSHOT_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚Spark Shotã‚’ç™ºå°„ã—ã¦<style=cIsDamage>1.000%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_GOLDGUN_NAME: é»„é‡‘ã®éŠƒ
-SHOOT_GOLDGUN_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚é»„é‡‘ã®éŠƒã‚’ç™ºå°„ã—ã¦<style=cIsDamage>99.999%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_ATM_NAME: ATMãƒ©ãƒ³ãƒãƒ£ãƒ¼
-SHOOT_ATM_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ãƒ­ã‚±ãƒƒãƒˆã‚’ç™ºå°„ã—ã¦<style=cIsDamage>8.000%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-SHOOT_GRENADELAUNCHER_NAME: ã‚°ãƒ¬ãƒãƒ¼ãƒ‰ãƒ©ãƒ³ãƒãƒ£ãƒ¼
-SHOOT_GRENADELAUNCHER_DESCRIPTION: <style=cIsUtility>?agi</style>ã€‚ã‚°ãƒ¬ãƒãƒ¼ãƒ‰ã‚’ç™ºå°„ã—ã¦<style=cIsDamage>3.200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-PRIMARY_CQC_NAME: CQC
-PRIMARY_CQC_DESCRIPTION: <style=cIsUtility>æŠœãã€‚</style><style=cIsDamage>æ‰“æ’ƒ</style>è¿‘æŽ¥æˆ¦é—˜å“¡ã«<style=cIsDamage>200%ã¨250%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€<style=cIsHealth>å››è‚¢åˆ‡æ–­</style>ã‚’ä»˜ä¸Žã€‚
-SECONDARY_AIM_NAME: ã—ã£ã‹ã‚Šç‹™ã†
-SECONDARY_AIM_DESCRIPTION: <style=cIsUtility>ç‹™ã†</style>ã¨ç¾åœ¨ã®æ­¦å™¨ã®ç²¾åº¦ãŒå‘ä¸Šã€‚
-UTILITY_PARRY_NAME: ãƒ‘ãƒªã‚£
-UTILITY_PARRY_DESCRIPTION: <style=cIsUtility>ãƒ‘ãƒªã‚£</style>ã§æ”»æ’ƒã‚’é€¸ã‚‰ã™ã€‚äºˆé˜²çš„ã«<style=cIsUtility>æ”»æ’ƒã‚’å›žé¿</style>ã™ã‚‹ãŸã‚ã«ä½¿ç”¨ã™ã‚‹ã¨ã€<style=cIsDamage>ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒ‰ãƒƒã‚¸</style>ã‚’å®Ÿè¡Œã€‚
-UTILITY_DODGE_NAME: ã‚¹ãƒ©ã‚¤ãƒ‰
-UTILITY_DODGE_DESCRIPTION: <style=cIsUtility>ã‚¹ãƒ©ã‚¤ãƒ‰</style>çŸ­è·é›¢ã€‚äºˆé˜²çš„ã«<style=cIsUtility>æ”»æ’ƒã‚’å›žé¿</style>ã™ã‚‹ãŸã‚ã«ä½¿ç”¨ã™ã‚‹ã¨ã€<style=cIsDamage>ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒ‰ãƒƒã‚¸</style>ã‚’å®Ÿè¡Œã€‚
-UTILITY_BASH_NAME: ãƒ‡ã‚£ãƒ•ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³
-UTILITY_BASH_DESCRIPTION: <style=cIsUtility>å¼¾ã</style>è¿‘ãã®æ•µã‚’ã€<style=cIsUtility>ã‚¹ã‚¿ãƒ³</style>ã§<style=cIsDamage>400%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚äºˆé˜²çš„ã«<style=cIsUtility>æ”»æ’ƒã‚’ã‚­ãƒ£ãƒ³ã‚»ãƒ«</style>ã™ã‚‹ãŸã‚ã«ä½¿ç”¨ã™ã‚‹ã¨ã€<style=cIsDamage>ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒ‡ã‚£ãƒ•ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³</style>ã‚’å®Ÿè¡Œã€‚
-SPECIAL_SWAP_NAME: ãƒ¬ã‚®ã‚ªãƒ³
-SPECIAL_SWAP_DESCRIPTION: <style=cIsUtility>åˆ‡ã‚Šæ›¿ãˆ</style>ç¾åœ¨ã®æ­¦å™¨ã€‚
-ROB_HUNK_KEYWORD_MANGLED: å››è‚¢åˆ‡æ–­
-ROB_HUNK_KEYWORD_COUNTERATTACK: ã‚«ã‚¦ãƒ³ã‚¿ãƒ¼ã‚¢ã‚¿ãƒƒã‚¯
-ROB_HUNK_KEYWORD_PERFECTDODGE: ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒ‰ãƒƒã‚¸
-ROB_HUNK_KEYWORD_PERFECTBASH: ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒ‡ã‚£ãƒ•ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³
-ROB_HUNK_KEYWORD_CVIRUS: C-ã‚¦ã‚¤ãƒ«ã‚¹
-ROB_HUNK_KEYWORD_LOOTING: æ¼ã‚Š
-ROB_HUNK_TRANSCEIVER_NAME: ãƒˆãƒ©ãƒ³ã‚·ãƒ¼ãƒãƒ¼
-ROB_HUNK_TRANSCEIVER_DESC: è£œçµ¦ç‰©è³‡ãƒ‰ãƒ­ãƒƒãƒ—ã€‚
-ROB_HUNK_TYPEWRITER_NAME: ã‚¿ã‚¤ãƒ—ãƒ©ã‚¤ã‚¿ãƒ¼
-ROB_HUNK_TYPEWRITER_DESC: é€²è¡ŒçŠ¶æ³ã‚’ä¿å­˜ã€‚
-ROB_HUNK_JETPACK_NAME: ã‚¸ã‚§ãƒƒãƒˆãƒ‘ãƒƒã‚¯
-ROB_HUNK_JETPACK_DESC: ç©ºä¸­æ©Ÿå‹•æ€§ã‚’ä»˜ä¸Žã€‚
-ROB_HUNK_C4_NAME: C4
-ROB_HUNK_GRENADE_NAME: ã‚°ãƒ¬ãƒãƒ¼ãƒ‰
-ROB_HUNK_SUPPLYPACK_NAME: è£œçµ¦å“
-ROB_HUNK_AMMO_NAME: å¼¾è–¬
-ROB_HUNK_AMMOITEM_NAME: å¼¾è–¬
-ROB_HUNK_CHEST_NAME: ãƒã‚§ã‚¹ãƒˆ
-ROB_HUNK_TERMINAL_NAME: ç«¯æœ«
-ROB_HUNK_STARSBADGE_NAME: S.T.A.R.S.ãƒãƒƒã‚¸
-ROB_HUNK_STARSBADGE2_NAME: S.T.A.R.S.ãƒãƒƒã‚¸2
-ROB_HUNK_STARSBADGE_DESC: S.T.A.R.S.ãƒ¡ãƒ³ãƒãƒ¼ã®ãƒãƒƒã‚¸ã€‚
-ROB_HUNK_HEARTCHEST_NAME: ãƒãƒ¼ãƒˆãƒã‚§ã‚¹ãƒˆ
-ROB_HUNK_T_VIRUS_NAME: T-ã‚¦ã‚¤ãƒ«ã‚¹
-ROB_HUNK_T_VIRUS_DESC: T-ã‚¦ã‚¤ãƒ«ã‚¹ã®ã‚µãƒ³ãƒ—ãƒ«ã€‚
-ROB_HUNK_G_VIRUS_NAME: G-ã‚¦ã‚¤ãƒ«ã‚¹
-ROB_HUNK_G_VIRUS_DESC: G-ã‚¦ã‚¤ãƒ«ã‚¹ã®ã‚µãƒ³ãƒ—ãƒ«ã€‚
-ROB_HUNK_G_VIRUS2_NAME: G-ã‚¦ã‚¤ãƒ«ã‚¹2
-ROB_HUNK_C_VIRUS_NAME: C-ã‚¦ã‚¤ãƒ«ã‚¹
-ROB_HUNK_C_VIRUS_DESC: C-ã‚¦ã‚¤ãƒ«ã‚¹ã®ã‚µãƒ³ãƒ—ãƒ«ã€‚
-ROB_HUNK_G_VIRUSFINAL_NAME: æœ€çµ‚G-ã‚¦ã‚¤ãƒ«ã‚¹
-ROB_HUNK_PLAGAS_NAME: ãƒ—ãƒ©ãƒ¼ã‚¬
-ROB_HUNK_PLAGAS_DESC: ãƒ—ãƒ©ãƒ¼ã‚¬ã®ã‚µãƒ³ãƒ—ãƒ«ã€‚
-ROB_HUNK_URO_SAMPLE_NAME: Uroborosã‚µãƒ³ãƒ—ãƒ«
-ROB_HUNK_URO_SAMPLE_DESC: Uroborosã®ã‚µãƒ³ãƒ—ãƒ«ã€‚
-ROB_HUNK_INFROCKET_NAME: ç„¡é™ãƒ­ã‚±ãƒƒãƒˆ
-ROB_HUNK_INFROCKET_DESC: ç„¡é™ãƒ­ã‚±ãƒƒãƒˆå¼¾è–¬ã€‚
-ROB_HUNK_NEMICASE_NAME: ãƒãƒŸã‚±ãƒ¼ã‚¹
-ROB_HUNK_NEMICASE_DESC: è¬Žã®ã‚±ãƒ¼ã‚¹ã€‚
-ROB_NEMESIS_BODY_NAME: Nemesis
-ROB_NEMESIS_BODY_SUBTITLE: è¿½è·¡è€…
-ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-ROB_NEMESIS_BODY_PASSIVE_NAME: åŸ·æ‹—ãªè¿½è·¡
-ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION: ãƒžãƒ¼ã‚¯ã•ã‚ŒãŸæ•µã«<style=cIsDamage>{0}%è¿½åŠ ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-ROB_NEMESIS_BODY_GRAB_NAME: æŽ´ã‚€
-ROB_ARTIFACT_STRIKETEAM_NAME: æ”»æ’ƒéƒ¨éšŠã®ç¥žå™¨
-ROB_ARTIFACT_PURSUER_NAME: è¿½è·¡è€…ã®ç¥žå™¨
-ROB_ARTIFACT_CONTAMINATION_NAME: æ±šæŸ“ã®ç¥žå™¨
+{
+    "ja": {
+        "ROB_HUNK_BODY_NAME": "HUNK",
+        "ROB_HUNK_BODY_SUBTITLE": "死神",
+        "ROB_HUNK_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "ROB_HUNK_BODY_CLASSIC_SKIN_NAME": "クラシック",
+        "ROB_HUNK_BODY_ROOKIE_SKIN_NAME": "新人",
+        "ROB_HUNK_BODY_SWAT_SKIN_NAME": "SWAT",
+        "ROB_HUNK_BODY_LEON_SKIN_NAME": "レオン",
+        "ROB_HUNK_BODY_ENFORCER_SKIN_NAME": "Enforcer",
+        "ROB_HUNK_BODY_LIGHTWEIGHT_SKIN_NAME": "軽量",
+        "ROB_HUNK_BODY_GUERRILLA_SKIN_NAME": "ゲリラ",
+        "ROB_HUNK_BODY_WESKER_SKIN_NAME": "ウェスカー",
+        "ROB_HUNK_BODY_DOOM_SKIN_NAME": "Doom",
+        "ROB_HUNK_BODY_MINECRAFT_SKIN_NAME": "Minecraft",
+        "ROB_HUNK_BODY_LEONSHIRT_SKIN_NAME": "レオンのシャツ",
+        "ROB_HUNK_BODY_COMMANDO_SKIN_NAME": "コマンドー",
+        "ROB_HUNK_BODY_JACKET_SKIN_NAME": "ジャケット",
+        "ROB_HUNK_BODY_TOFU_SKIN_NAME": "豆腐",
+        "ROB_HUNK_BODY_SUPER_SKIN_NAME": "スーパー",
+        "SHOOT_M19_NAME": "M19",
+        "SHOOT_M19_DESCRIPTION": "<style=cIsUtility>?agi</style>。M19を発射して<style=cIsDamage>500%ダメージ</style>。",
+        "SHOOT_BROOMHC_NAME": "Broom HC",
+        "SHOOT_BROOMHC_DESCRIPTION": "<style=cIsUtility>?agi</style>。Broom HCを発射して<style=cIsDamage>180%ダメージ</style>。",
+        "SHOOT_REVOLVER_NAME": "リボルバー",
+        "SHOOT_REVOLVER_DESCRIPTION": "<style=cIsUtility>?agi</style>。リボルバーを発射して<style=cIsDamage>1.200%ダメージ</style>。",
+        "SHOOT_MAGNUM_NAME": "マグナãƒ",
+        "SHOOT_MAGNUM_DESCRIPTION": "<style=cIsUtility>?agi</style>。マグナムを発射して<style=cIsDamage>1.500%ダメージ</style>。",
+        "SHOOT_SHOTGUN_NAME": "ショットガン",
+        "SHOOT_SHOTGUN_DESCRIPTION": "<style=cIsUtility>?agi</style>。ショットガンを発射して<style=cIsDamage>14x150%ダメージ</style>。",
+        "SHOOT_SSG_NAME": "SSG",
+        "SHOOT_SSG_DESCRIPTION": "<style=cIsUtility>?agi</style>。SSGを発射して<style=cIsDamage>16x200%ダメージ</style>。",
+        "SHOOT_SLUGGER_NAME": "Slugger",
+        "SHOOT_SLUGGER_DESCRIPTION": "<style=cIsUtility>?agi</style>。Sluggerを発射して<style=cIsDamage>3.000%ダメージ</style>。",
+        "SHOOT_AR_NAME": "アサルトライフル",
+        "SHOOT_AR_DESCRIPTION": "<style=cIsUtility>?agi</style>。ライフルを発射して<style=cIsDamage>385%ダメージ</style>。",
+        "SHOOT_SPARKSHOT_NAME": "Spark Shot",
+        "SHOOT_SPARKSHOT_DESCRIPTION": "<style=cIsUtility>?agi</style>。Spark Shotを発射して<style=cIsDamage>1.000%ダメージ</style>。",
+        "SHOOT_GOLDGUN_NAME": "黄金の銃",
+        "SHOOT_GOLDGUN_DESCRIPTION": "<style=cIsUtility>?agi</style>。黄金の銃を発射して<style=cIsDamage>99.999%ダメージ</style>。",
+        "SHOOT_ATM_NAME": "ATMランチャー",
+        "SHOOT_ATM_DESCRIPTION": "<style=cIsUtility>?agi</style>。ロケットを発射して<style=cIsDamage>8.000%ダメージ</style>。",
+        "SHOOT_GRENADELAUNCHER_NAME": "グレネードランチャー",
+        "SHOOT_GRENADELAUNCHER_DESCRIPTION": "<style=cIsUtility>?agi</style>。グレネードを発射して<style=cIsDamage>3.200%ダメージ</style>。",
+        "PRIMARY_CQC_NAME": "CQC",
+        "PRIMARY_CQC_DESCRIPTION": "<style=cIsUtility>抜く。</style><style=cIsDamage>打撃</style>近接戦闘員に<style=cIsDamage>200%と250%ダメージ</style>、<style=cIsHealth>四肢切断</style>を付与。",
+        "SECONDARY_AIM_NAME": "しっかり狙う",
+        "SECONDARY_AIM_DESCRIPTION": "<style=cIsUtility>狙う</style>と現在の武器の精度が向上。",
+        "UTILITY_PARRY_NAME": "パリィ",
+        "UTILITY_PARRY_DESCRIPTION": "<style=cIsUtility>パリィ</style>で攻撃を逸らす。予防的に<style=cIsUtility>攻撃を回避</style>するために使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。",
+        "UTILITY_DODGE_NAME": "スライド",
+        "UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>スライド</style>短距離。予防的に<style=cIsUtility>攻撃を回避</style>するために使用すると、<style=cIsDamage>パーフェクトドッジ</style>を実行。",
+        "UTILITY_BASH_NAME": "ディフレクション",
+        "UTILITY_BASH_DESCRIPTION": "<style=cIsUtility>弾く</style>近くの敵を、<style=cIsUtility>スタン</style>で<style=cIsDamage>400%ダメージ</style>。予防的に<style=cIsUtility>攻撃をキャンセル</style>するために使用すると、<style=cIsDamage>パーフェクトディフレクション</style>を実行。",
+        "SPECIAL_SWAP_NAME": "レギオン",
+        "SPECIAL_SWAP_DESCRIPTION": "<style=cIsUtility>切り替え</style>現在の武器。",
+        "ROB_HUNK_KEYWORD_MANGLED": "四肢切断",
+        "ROB_HUNK_KEYWORD_COUNTERATTACK": "カウンターアタック",
+        "ROB_HUNK_KEYWORD_PERFECTDODGE": "パーフェクトドッジ",
+        "ROB_HUNK_KEYWORD_PERFECTBASH": "パーフェクトディフレクション",
+        "ROB_HUNK_KEYWORD_CVIRUS": "C-ウイルス",
+        "ROB_HUNK_KEYWORD_LOOTING": "漁り",
+        "ROB_HUNK_TRANSCEIVER_NAME": "トランシーバー",
+        "ROB_HUNK_TRANSCEIVER_DESC": "補給物資ドロップ。",
+        "ROB_HUNK_TYPEWRITER_NAME": "タイプライター",
+        "ROB_HUNK_TYPEWRITER_DESC": "進行状況を保存。",
+        "ROB_HUNK_JETPACK_NAME": "ジェットパック",
+        "ROB_HUNK_JETPACK_DESC": "空中機動性を付与。",
+        "ROB_HUNK_C4_NAME": "C4",
+        "ROB_HUNK_GRENADE_NAME": "グレネード",
+        "ROB_HUNK_SUPPLYPACK_NAME": "補給品",
+        "ROB_HUNK_AMMO_NAME": "弾薬",
+        "ROB_HUNK_AMMOITEM_NAME": "弾薬",
+        "ROB_HUNK_CHEST_NAME": "チェスト",
+        "ROB_HUNK_TERMINAL_NAME": "端末",
+        "ROB_HUNK_STARSBADGE_NAME": "S.T.A.R.S.バッジ",
+        "ROB_HUNK_STARSBADGE2_NAME": "S.T.A.R.S.バッジ2",
+        "ROB_HUNK_STARSBADGE_DESC": "S.T.A.R.S.メンバーのバッジ。",
+        "ROB_HUNK_HEARTCHEST_NAME": "ハートチェスト",
+        "ROB_HUNK_T_VIRUS_NAME": "T-ウイルス",
+        "ROB_HUNK_T_VIRUS_DESC": "T-ウイルスのサンプル。",
+        "ROB_HUNK_G_VIRUS_NAME": "G-ウイルス",
+        "ROB_HUNK_G_VIRUS_DESC": "G-ウイルスのサンプル。",
+        "ROB_HUNK_G_VIRUS2_NAME": "G-ウイルス2",
+        "ROB_HUNK_C_VIRUS_NAME": "C-ウイルス",
+        "ROB_HUNK_C_VIRUS_DESC": "C-ウイルスのサンプル。",
+        "ROB_HUNK_G_VIRUSFINAL_NAME": "最終G-ウイルス",
+        "ROB_HUNK_PLAGAS_NAME": "プラーガ",
+        "ROB_HUNK_PLAGAS_DESC": "プラーガのサンプル。",
+        "ROB_HUNK_URO_SAMPLE_NAME": "Uroborosサンプル",
+        "ROB_HUNK_URO_SAMPLE_DESC": "Uroborosのサンプル。",
+        "ROB_HUNK_INFROCKET_NAME": "無限ロケット",
+        "ROB_HUNK_INFROCKET_DESC": "無限ロケット弾薬。",
+        "ROB_HUNK_NEMICASE_NAME": "ネミケース",
+        "ROB_HUNK_NEMICASE_DESC": "謎のケース。",
+        "ROB_NEMESIS_BODY_NAME": "Nemesis",
+        "ROB_NEMESIS_BODY_SUBTITLE": "追跡者",
+        "ROB_NEMESIS_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "ROB_NEMESIS_BODY_PASSIVE_NAME": "執拗な追跡",
+        "ROB_NEMESIS_BODY_PASSIVE_DESCRIPTION": "マークされた敵に<style=cIsDamage>{0}%追加ダメージ</style>。",
+        "ROB_NEMESIS_BODY_GRAB_NAME": "掴む",
+        "ROB_ARTIFACT_STRIKETEAM_NAME": "攻撃部隊の神器",
+        "ROB_ARTIFACT_PURSUER_NAME": "追跡者の神器",
+        "ROB_ARTIFACT_CONTAMINATION_NAME": "汚染の神器"
+    }
+}

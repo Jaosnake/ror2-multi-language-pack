@@ -1,12 +1,23 @@
-KENKO_INTERROGATOR_NAME: 审讯者
-KENKO_INTERROGATOR_SUBTITLE: 折磨专家
-KENKO_INTERROGATOR_PASSIVE_NAME: 折磨
-KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: 审讯者可以击中或被盟友和敌人击中。攻击审讯者的攻击者会被永久标记为有罪。每个有罪敌人使基础伤害提高50点。
-KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: 挥动你的警棍攻击前方，造成320%伤害。未命中攻击会使你承受90%的伤害。
-KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: 投掷一把切肉刀，造成450%伤害。如果切肉刀击杀目标，对区域内所有敌人施加出血和压力。
-KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: 向前冲刺，造成390%伤害并对击中的目标施加有罪。
-KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: 定罪
-KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: 标记一个有罪的敌人并与之决斗10秒。在此期间，所有外部伤害被抵消，包括你自己的。你的主要攻击不再击中你，但持续积累有罪的伤害加成。
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: 定罪（权杖）
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: 标记一个有罪的敌人并与之决斗14秒。在此期间，所有外部伤害被抵消。你的主要攻击不再击中你，但以双倍效率积累有罪的伤害加成。
-MASTERY_SKIN_NAME: 审讯者：专家
+{
+    "strings": {
+        "KENKO_INTERROGATOR_NAME": "审讯者",
+        "KENKO_INTERROGATOR_DESCRIPTION": "审讯者沉浸在他人的痛苦中。不要太开心地伤害你的盟友... 或者就开心地做吧。Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "折磨专家",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..于是他离开了,急切地要应用更多\"正义\"。",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..于是他消失了,因他的罪行而受到惩罚。",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "默认",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "审讯者:专家",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "折磨",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "审讯者可以击中或被盟友和敌人击中。攻击审讯者的攻击者会被永久标记为有罪。每个有罪敌人提供5%额外伤害。",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "残拍",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "挥动你的警棍攻击前方,造成<style=cIsDamage>320%伤害</style>。未命中会让你受到<style=cIsDamage>伤害</style>。",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "冲突",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "投掂一把切肉刀,造成<style=cIsDamage>450%伤害</style>。<style=cIsDamage>刺杀者。</style>如果切肉刀击杀目标,对区域内所有敌人施加出血和压力。",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "篡改",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "向前冲刺,造成<style=cIsDamage>390%伤害</style>并对击中目标施加有罪。",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "定罪",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "与有罪敌人决斗10秒。你的主要攻击不会再击中你,并且击中时提供一层有罪。决斗期间,你受到的外部伤害被抵消,但对目标以外敌人的伤害也被抵消。",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "惩罚",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "与有罪敌人决斗10秒。你的主要攻击不会再击中你,并且击中时提供一层有罪。决斗期间,你受到的外部伤害被抵消,但对其他敌人的伤害减少75%。"
+    }
+}

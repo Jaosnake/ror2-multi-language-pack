@@ -1,17 +1,21 @@
-NDP_DANCER_BODY_PASSIVE_NAME: Fita Restritiva
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: Inimigos com fita sangram por 50% de dano por segundo e nÃ£o podem agir.
-PRIMARY_SLASH_NAME: Golpe
-PRIMARY_SLASH_DESCRIPTION: Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)
-PRIMARY_SLASH2_NAME: Corte
-PRIMARY_SLASH2_DESCRIPTION: Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)
-UTILITY_PULL_NAME: PuxÃ£o
-UTILITY_PULL_DESCRIPTION: Puxe inimigos em sua direÃ§Ã£o.
-SPECIAL_RIBBON_LOCK_NAME: Fita de AmarraÃ§Ã£o
-SPECIAL_RIBBON_LOCK_DESCRIPTION: Aplique uma fita em um inimigo, impedindo-o de agir e causando sangramento.
-KEYWORD_DANCER_JAB: <style=cKeywordName>Jab</style><style=cSub>Input em solo, mire para frente. Avance e cause <style=cIsDamage>180% de dano</style>.
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>Down Tilt</style><style=cSub>Input em solo, mire para baixo. Jogue inimigos para cima e cause <style=cIsDamage>200% de dano</style>.
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>Forward Air</style><style=cSub>Input no ar, mire para frente. Golpe pesado que causa <style=cIsDamage>180% de dano</style> e prende inimigos no chÃ£o, atordoando e causando atÃ© <style=cIsDamage>300% de dano</style>.
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>Fita</style><style=cSub>Inimigos com fita sangram por <style=cIsDamage>50% de dano por segundo</style> e nÃ£o podem agir.
-NDP_DANCER_BODY_SUBTITLE: DanÃ§a Mortal
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
-NDP_DANCER_GOLD_SKIN_NAME: Dourada
+{
+    "pt-BR": {
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Fita Restritiva",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Inimigos com fita sangram por 50% de dano por segundo e não podem agir.",
+        "PRIMARY_SLASH_NAME": "Golpe",
+        "PRIMARY_SLASH_DESCRIPTION": "Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)",
+        "PRIMARY_SLASH2_NAME": "Corte",
+        "PRIMARY_SLASH2_DESCRIPTION": "Ataque corpo a corpo com efeitos baseados na sua mira. (Passe o mouse para mais detalhes)",
+        "UTILITY_PULL_NAME": "Puxão",
+        "UTILITY_PULL_DESCRIPTION": "Puxe inimigos em sua direção.",
+        "SPECIAL_RIBBON_LOCK_NAME": "Fita de Amarração",
+        "SPECIAL_RIBBON_LOCK_DESCRIPTION": "Aplique uma fita em um inimigo, impedindo-o de agir e causando sangramento.",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Input em solo, mire para frente. Avance e cause <style=cIsDamage>180% de dano</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>Input em solo, mire para baixo. Jogue inimigos para cima e cause <style=cIsDamage>200% de dano</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Input no ar, mire para frente. Golpe pesado que causa <style=cIsDamage>180% de dano</style> e prende inimigos no chão, atordoando e causando até <style=cIsDamage>300% de dano</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Fita</style><style=cSub>Inimigos com fita sangram por <style=cIsDamage>50% de dano por segundo</style> e não podem agir.",
+        "NDP_DANCER_BODY_SUBTITLE": "Dança Mortal",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Dourada"
+    }
+}

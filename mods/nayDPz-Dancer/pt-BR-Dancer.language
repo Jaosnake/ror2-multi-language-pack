@@ -1,17 +1,17 @@
 {
-    "pt-BR":  {
-                  "NDP_DANCER_BODY_NAME":  "Dancer",
-                  "NDP_DANCER_BODY_SUBTITLE":  "Dança Mortal",
-                  "NDP_DANCER_BODY_DEFAULT_SKIN_NAME":  "Padrão",
-                  "NDP_DANCER_GOLD_SKIN_NAME":  "Dourada",
-                  "NDP_DANCER_BODY_PASSIVE_NAME":  "Fita Restritiva",
-                  "NDP_DANCER_BODY_PRIMARY_SLASH_NAME":  "Golpe",
-                  "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME":  "Corte",
-                  "NDP_DANCER_BODY_UTILITY_PULL_NAME":  "Puxão",
-                  "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME":  "Fita de Amarração",
-                  "KEYWORD_DANCER_JAB":  "\u003cstyle=cKeywordName\u003eJab\u003c/style\u003e\u003cstyle=cSub\u003eInput em solo, mire para frente. Avance e cause \u003cstyle=cIsDamage\u003e180% de dano\u003c/style\u003e.",
-                  "KEYWORD_DANCER_DOWNTILT":  "\u003cstyle=cKeywordName\u003eDown Tilt\u003c/style\u003e\u003cstyle=cSub\u003eInput em solo, mire para baixo. Jogue inimigos para cima e cause \u003cstyle=cIsDamage\u003e200% de dano\u003c/style\u003e.",
-                  "KEYWORD_DANCER_FORWARDAIR":  "\u003cstyle=cKeywordName\u003eForward Air\u003c/style\u003e\u003cstyle=cSub\u003eInput no ar, mire para frente. Golpe pesado que causa \u003cstyle=cIsDamage\u003e180% de dano\u003c/style\u003e e prende inimigos no chão, atordoando e causando até \u003cstyle=cIsDamage\u003e300% de dano\u003c/style\u003e.",
-                  "KEYWORD_DANCER_RIBBON":  "\u003cstyle=cKeywordName\u003eFita\u003c/style\u003e\u003cstyle=cSub\u003eInimigos com fita sangram por \u003cstyle=cIsDamage\u003e50% de dano por segundo\u003c/style\u003e e não podem agir."
-              }
+    "pt-BR": {
+        "NDP_DANCER_BODY_NAME": "Dancer",
+        "NDP_DANCER_BODY_SUBTITLE": "Dança Mortal",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Dourada",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Fita Restritiva",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Golpe",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Corte",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Puxão",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Fita de Amarração",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Input em solo, mire para frente. Avance e cause <style=cIsDamage>180% de dano</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Down Tilt</style><style=cSub>Input em solo, mire para baixo. Jogue inimigos para cima e cause <style=cIsDamage>200% de dano</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Input no ar, mire para frente. Golpe pesado que causa <style=cIsDamage>180% de dano</style> e prende inimigos no chão, atordoando e causando até <style=cIsDamage>300% de dano</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Fita</style><style=cSub>Inimigos com fita sangram por <style=cIsDamage>50% de dano por segundo</style> e não podem agir."
+    }
 }

@@ -19,7 +19,7 @@
         "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Téléportez-vous vers un ennemi <style=cIsUtility>aérien</style> ciblé ou proche et attaquez rapidement pour <style=cIsDamage>2x250% + 800% de dégâts</style>. Gagnez un bonus de <style=cIsDamage>pénétration d'armure</style> pendant 6 secondes.",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Premier Souffle",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Téléportez-vous vers un ennemi <style=cIsUtility>aérien</style> ciblé ou proche et attaquez rapidement pour <style=cIsDamage>2x250% + 800% de dégâts</style>. Gagnez un bonus de <style=cIsDamage>pénétration d'armure</style> pendant 6 secondes.\n<color=#d299ff>SCEPTER : <style=cIsUtility>Réinitialise le temps de recharge de votre compétence secondaire</style>. Les ennemis touchés par <color=#FFBF66>Premier Souffle</color> peuvent être ciblés par <color=#FFBF66>Lame Balayante</color> à nouveau.</color>",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer : Maîtrise",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que Wanderer, terminez le jeu ou obliterez en Mousson."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

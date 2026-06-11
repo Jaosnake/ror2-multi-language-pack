@@ -13,7 +13,7 @@
         "SPECIAL_KNIFE_NAME": "刀",
         "SPECIAL_DRIVERCOIN_NAME": "司机的硬币",
         "ROB_DRIVER_BODY_DEFAULT_SKIN_NAME": "默认",
-        "ROB_DRIVER_PASSIVE_TOKEN": "<style=cKeywordName>聚焦</style><style=cSub>聚焦大幅提升你的伤害输出，但瞄准时注意不要被包抄。",
+        "ROB_DRIVER_PASSIVE_TOKEN": "<style=cKeywordName>聚焦</style><style=cSub>聚焦大幅提升你的伤害输出,但瞄准时注意不要被包抄。",
         "ROB_DRIVER_ARSENAL_TOKEN": "<style=cKeywordName>军械库</style><style=cSub>使用主副技能在武器之间切换。"
     }
 }

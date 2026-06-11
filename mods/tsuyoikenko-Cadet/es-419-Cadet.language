@@ -1,16 +1,16 @@
 {
     "es-419": {
         "KENKO_CADET_NAME": "Cadete",
-        "KENKO_CADET_SUBTITLE": "Tirador Vers\u00e1til",
+        "KENKO_CADET_SUBTITLE": "Tirador Versátil",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "Predeterminado",
         "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
         "KENKO_CADET_PRIMARY_SMG_NAME": "Tormenta de Balas",
         "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marcas Devastadoras",
         "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
         "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
-        "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposici\u00f3n Deslizante",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposición Deslizante",
         "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rodada Repositora",
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
-        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco"
     }
 }

@@ -1,47 +1,34 @@
 {
-    strings:
-    {
-    "MOFFEIN_PILOT_BODY_NAME" : "领航员",
-    "MOFFEIN_PILOT_BODY_SUBTITLE" : "空中王牌",
-    "MOFFEIN_PILOT_BODY_LORE" : "联合集团货运邀请已知宇宙中的所有领航员前来应聘我们的青睐领航员强化雇佣项目！项目福利包括能够帮助轻松着陆的电子义体冲击强化，武器以及安保培训认证项目，外加奢华丰富的假期机会！（应聘者应有至少5年的飞行操作经验。不能保证所有应聘人员能够获得电子义体。武器与安保培训认证仅受到UES认可。上文所述内容适用于所有情况，无论对应星球的太空法是否有更新变动，本项目将不会提供任何额外退休金、福利或假期机会。）",
-    "MOFFEIN_PILOT_BODY_DESCRIPTION" : "领航员是一名空中战斗机驾驶员，精于从空中降下雨点般的伤害。<style=cSub>\r\n\r\n< ! > 领航员可以通过保持在空中来避开危险。巧妙使用他的技能将让你最大限度地延长滞空时间。\r\n\r\n< ! > 发现目标！可用于缓冲落地。\r\n\r\n< ! > 快速部署在地面使用时可以向上腾空，在空中使用时则向前冲刺。\r\n\r\n< ! > 使用空中打击将敌人击飞至空中，再结合发现目标！在空中连击他们。",
-    
-    "MOFFEIN_PILOT_BODY_OUTRO_FLAVOR" : "..于是他离开了，将天空的梦想留在了下方。",
-    "MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR" : "..于是他消失了，天空永远遥不可及。",
-    "MOFFEIN_PILOT_BODY_OUTRO_FAILURE" : "..于是他消失了，天空永远遥不可及。",
-    
-    "MOFFEIN_PILOT_BODY_PRIMARY_NAME" : "集束射击",
-    "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION" : "开火射击，造成<style=cIsDamage>160%伤害</style>。每第三击会<style=cIsDamage>爆炸</style>，造成<style=cIsDamage>320%伤害</style>。",
-    "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION" : "开火射击，造成<style=cIsDamage>160%伤害</style>。每第三击会造成<style=cIsDamage>320%伤害</style>并<style=cIsDamage>穿透</style>。",
-    
-    "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME" : "快速开火",
-    "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>灵巧</style>。快速开火射击，造成<style=cIsDamage>140%伤害</style>。",
-    
-    "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME" : "消音射击",
-    "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION" : "<style=cIsDamage>屠戮者</style>。使用消音手枪射击，造成<style=cIsDamage>100%伤害</style>。",
-    
-    "MOFFEIN_PILOT_BODY_SECONDARY_NAME" : "发现目标！",
-    "MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION" : "将武器变形为<style=cIsDamage>穿透性智能枪</style>，造成<style=cIsDamage>3x160%伤害</style>。对<style=cIsUtility>空中</style>目标造成的伤害提高<style=cIsDamage>50%</style>。最多可储存2发。",
-    
-    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME" : "投弹！",
-    "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION" : "将武器变形为<style=cIsDamage>能量榴弹发射器</style>，造成<style=cIsDamage>480%伤害</style>。在<style=cIsUtility>空中</style>时，改为造成<style=cIsDamage>3x220%伤害</style>。最多可储存2发。",
-    
-    "MOFFEIN_PILOT_BODY_UTILITY_NAME" : "快速部署",
-    "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION" : "<style=cIsDamage>眩晕</style>。腾空而起并<style=cIsUtility>打开降落伞</style>。在半空中使用此技能会以更强的<style=cIsUtility>前冲力</style>为代价，<style=cIsHealth>减少升力</style>。",
-    
-    "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME" : "特技飞行",
-    "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>向前冲刺</style>并可以<style=cIsUtility>紧贴墙体</style>，同时获得<style=cIsDamage>30%攻速</style>加成。从墙体<style=cIsUtility>跳下</style>时会向前突进。",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_NAME" : "空中打击",
-    "MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION" : "<style=cIsUtility>冲刺</style>并在<style=cIsDamage>脚下</style>放置一颗炸弹，<style=cIsDamage>将敌人击飞至空中</style>，造成<style=cIsDamage>600%伤害</style>。可以触发<style=cIsDamage>3</style>次。最多可储存2发。",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME" : "强力打击",
-    "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION" : "<style=cIsUtility>冲刺</style>并在<style=cIsDamage>脚下</style>放置一颗炸弹，<style=cIsDamage>将敌人击飞至空中</style>，造成<style=cIsDamage>800%伤害</style>。可以触发<style=cIsDamage>6</style>次。最多可储存2发。",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME" : "空中支援",
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION" : "标记轰炸一片区域，造成<style=cIsDamage>4x400%伤害</style>，并在最后一击时<style=cIsDamage>将敌人击飞至空中</style>。",
-    
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME" : "空中弹幕",
-    "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION" : "标记轰炸一片区域，造成<style=cIsDamage>8x400%伤害</style>，并在最后一击时<style=cIsDamage>将敌人击飞至空中</style>。",
+    "strings": {
+        "MOFFEIN_PILOT_BODY_NAME": "Pilote",
+        "MOFFEIN_PILOT_BODY_SUBTITLE": "As aéroporté",
+        "MOFFEIN_PILOT_BODY_LORE": "United Enterprise Shipping invite les pilotes de tout l'univers connu à postuler à notre programme de commissions améliorées des pilotes privilégiés ! Les avantages incluent l'accès à des augmentations d'impact cybernétique pour des atterrissages plus faciles, des programmes de certification d'armes et de titres et des opportunités de vacances luxueuses ! (Les candidats doivent postuler 5 ans avant les opérations aériennes. La cybernétique n'est pas garantie à tous les participants au programme. Les certificats d'armes et de titres ne sont valables que via l'emploi à l'UES. Toutes les opportunités sont répertoriées telles quelles et aucune autre gratification, opportunité ou avantage ne doit être assumé, quelles que soient les mises à jour du droit maritime spatial sur les planètes participantes.",
+        "MOFFEIN_PILOT_BODY_DESCRIPTION": "Le Pilot est un chasseur aéroporté qui excelle à faire pleuvoir des dégâts d'en haut.<style=cSub>\r\n\r\n< ! > Le pilote peut éviter le danger en restant en l'air. Une utilisation intelligente de ses compétences vous permettra de maximiser votre temps d'antenne.\r\n\r\n< ! > Target Acquired peut être utilisé pour amortir votre chute.\r\n\rLe déploiement rapide \n< ! > se déplace vers le haut lorsqu'il est utilisé au sol et vers l'avant lorsqu'il est utilisé en vol.\r\n\r\n< ! > Envoyez les ennemis dans le ciel avec Air Strike, puis combinez-le avec Target Acquired pour jongler avec eux dans les airs.",
+        "MOFFEIN_PILOT_BODY_OUTRO_FLAVOR": "..et ainsi il est parti, ses rêves du ciel en bas.",
+        "MOFFEIN_PILOT_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..et ainsi il a disparu, le ciel étant à jamais hors de portée.",
+        "MOFFEIN_PILOT_BODY_OUTRO_FAILURE": "..et ainsi il a disparu, le ciel étant à jamais hors de portée.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_NAME": "Feu en grappe",
+        "MOFFEIN_PILOT_BODY_PRIMARY_DESCRIPTION": "Tirez avec votre arme pour <style=cIsDamage>160 % de dégâts</style>. Un coup sur trois, <style=cIsDamage>explose</style> et inflige <style=cIsDamage>320% de dégâts</style>.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_RETURNS_DESCRIPTION": "Tirez avec votre arme pour <style=cIsDamage>160 % de dégâts</style>. Un coup sur trois inflige 320 % de dégâts <style=cIsDamage></style> et <style=cIsDamage>pierces</style>.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_NAME": "Tir rapide",
+        "MOFFEIN_PILOT_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez rapidement avec votre arme pour infliger 140 % de dégâts <style=cIsDamage></style>.",
+        "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_NAME": "Feu supprimé",
+        "MOFFEIN_PILOT_BODY_PRIMARY_SILENCER_DESCRIPTION": "<style=cIsDamage>Slayer</style>. Tirez avec votre pistolet silencieux pour <style=cIsDamage>100 % de dégâts</style>.",
+        "MOFFEIN_PILOT_BODY_SECONDARY_NAME": "Cible acquise !",
+        "MOFFEIN_PILOT_BODY_SECONDARY_DESCRIPTION": "Transformez votre arme en un pistolet intelligent perforant <style=cIsDamage></style> qui inflige des dégâts <style=cIsDamage>3x160%</style>. Inflige <style=cIsDamage>50%</style> dégâts supplémentaires aux cibles <style=cIsUtility>airborne</style>. Tenez jusqu'à 2.",
+        "MOFFEIN_PILOT_BODY_SECONDARY_ALT_NAME": "Bombes loin !",
+        "MOFFEIN_PILOT_BODY_SECONDARY_ALT_DESCRIPTION": "Transformez votre arme en un lance-grenades à énergie <style=cIsDamage></style> qui inflige <style=cIsDamage>480% de dégâts</style>. Tandis que <style=cIsUtility>airborne</style>, inflige à la place <style=cIsDamage>3x220% de dégâts</style>. Tenez jusqu'à 2.",
+        "MOFFEIN_PILOT_BODY_UTILITY_NAME": "Déploiement rapide",
+        "MOFFEIN_PILOT_BODY_UTILITY_DESCRIPTION": "<style=cIsDamage>Superbe</style>. Lancez-vous dans les airs et <style=cIsUtility>activez votre parachute</style>. L'utilisation de ce <style=cIsHealth> en vol réduit la portance</style> en échange de plus de force d'avancement <style=cIsUtility></style>.",
+        "MOFFEIN_PILOT_BODY_UTILITY_ALT_NAME": "Acrobaties aériennes",
+        "MOFFEIN_PILOT_BODY_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>Fonctionnez vers l'avant</style> et <style=cIsUtility>accrochez-vous à un mur</style> tout en gagnant <style=cIsDamage>30% de vitesse d'attaque</style>. Boostez vers l'avant lorsque <style=cIsUtility>saute du mur</style>.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_NAME": "Frappe aérienne",
+        "MOFFEIN_PILOT_BODY_SPECIAL_DESCRIPTION": "<style=cIsUtility> Dash</style> et placez une bombe <style=cIsDamage> à vos pieds </style> qui <style=cIsDamage> projette les ennemis en l'air </style> pour <style=cIsDamage> 600 % de dégâts </style>. Peut déclencher des temps <style=cIsDamage>3</style>. Tenez jusqu'à 2.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_NAME": "Raid aérien",
+        "MOFFEIN_PILOT_BODY_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsUtility> Dash</style> et placez une bombe <style=cIsDamage> à vos pieds </style> qui <style=cIsDamage> projette les ennemis en l'air </style> pour <style=cIsDamage> 800 % de dégâts </style>. Peut déclencher des temps <style=cIsDamage>6</style>. Tenez jusqu'à 2.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_NAME": "Soutien aérien",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_DESCRIPTION": "Bombardez une zone pour <style=cIsDamage>4x400 % de dégâts</style>, <style=cIsDamage>envoyant les ennemis en l'air</style> lors du coup final.",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_NAME": "Barrage aérien",
+        "MOFFEIN_PILOT_BODY_SPECIAL_ALT_SCEPTER_DESCRIPTION": "Bombardez une zone pour <style=cIsDamage>8x400 % de dégâts</style>, <style=cIsDamage>envoyant les ennemis en l'air</style> lors du coup final."
     }
 }

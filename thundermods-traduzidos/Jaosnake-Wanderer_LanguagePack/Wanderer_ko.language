@@ -1,23 +1,25 @@
-{"ko": {
-  "KENKO_UNFORGIVEN_NAME": "방랑자",
-  "KENKO_UNFORGIVEN_DESCRIPTION": "방랑자는 낮은 진입 장벽과 높은 숙련도 상한을 가진 서바이버로, 애니메이션 캔슬을 활용해 높은 DPS를 유지할 수 있습니다.<color=#CCD3E0>",
-  "KENKO_UNFORGIVEN_SUBTITLE": "용서받지 못한 자",
-  "KENKO_UNFORGIVEN_LORE": "야스오에게 죽었다면, 당신은 압도당한 것입니다. 이는 그가 당신과 자신의 쿨다운, 양쪽 정글러의 위치, 미니언 웨이브, 그리고 라인의 전반적인 흐름을 고려하여 싸움을 정확히 계산하고 실행했음을 의미합니다 (이는 단순한 게임이라 불리는 것을 수년, 어쩌면 수십 년에 걸쳐 갈고닦아야 하는 능력입니다). 참으로, 야스오에게 패배한다는 것은 플레이어로서, 그리고 인간으로서 자신보다 나은 상대를 만났음을 깨닫는 것입니다. 당신의 기백은 무너졌지만, 야스오 플레이어는 단단한 강철 — 단단하고, 차갑고, 믿음직스럽습니다 — 그가 퍼스트 블러드를 따내고 당신이 항복 투표를 초조하게 기다리는 동안에도, 그의 마음은 여전히 최대 효율로 작동하며 거의 무한한 가능성에 대비한 전략을 세우고 있습니다. 이제 LP는 제가 가져가겠습니다. 다음엔 밴을 제대로 하십시오.",
-  "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..그리고 그는 10/0으로 떠났다.",
-  "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..그리고 그는 0/10으로 사라졌다.",
-  "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "얼터네이트",
-  "KENKO_UNFORGIVEN_PASSIVE_NAME": "바람의 길",
-  "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "이동하는 동안 패시브 <style=cIsHealing>보호막</style>을 쌓습니다. 최대 중첩에서 피격 시, <style=cIsHealing>보호막</style>이 깨지며 <style=cIsHealing>배리어</style>를 부여합니다. <style=cIsDamage>치명타 확률</style>이 <style=cIsDamage>1.5배</style> 증가합니다.",
-  "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "질풍검",
-  "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "전방을 베어 <style=cIsDamage>240% 피해</style>를 입힙니다.",
-  "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "강철 폭풍",
-  "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>신속.</style> 전방을 찔러 <style=cIsDamage>260% 피해</style>를 입힙니다. 적중 시, <color=#FFBF66>폭풍 집결</color> 중첩을 얻습니다. 2중첩 시 다음 <color=#FFBF66>강철 폭풍</color>이 회오리를 발사하여 <style=cIsDamage>400% 피해</style>를 입힙니다.",
-  "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "휩쓰는 검격",
-  "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "적에게 돌진하여 <style=cIsDamage>150% 피해</style>를 입힙니다. 각 돌진 후, 다음 돌진은 추가 <style=cIsDamage>50% 피해</style>를 입히며, 최대 <style=cIsDamage>200% 추가 피해</style>까지 증가합니다.",
-  "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "최후의 숨결",
-  "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "대상 또는 주변의 <style=cIsUtility>공중</style> 적에게 점멸하여 빠르게 공격해 <style=cIsDamage>2x250% + 800% 피해</style>를 입힙니다. 6초간 추가 <style=cIsDamage>방어구 관통력</style>을 얻습니다.",
-  "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "최초의 숨결",
-  "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "대상 또는 주변의 <style=cIsUtility>공중</style> 적에게 점멸하여 빠르게 공격해 <style=cIsDamage>2x250% + 800% 피해</style>를 입힙니다. 6초간 추가 <style=cIsDamage>방어구 관통력</style>을 얻습니다.\n<color=#d299ff>SCEPTER: <style=cIsUtility>보조 스킬 쿨다운을 초기화합니다</style>. <color=#FFBF66>최초의 숨결</color>에 적중된 적은 <color=#FFBF66>휩쓰는 검격</color>으로 다시 대상 지정이 가능합니다.</color>",
-  "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "방랑자: 숙달",
-  "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "방랑자로 몬순에서 게임을 클리어하거나 말살하십시오."
-}}
+{
+    "ko": {
+        "KENKO_UNFORGIVEN_NAME": "방랑자",
+        "KENKO_UNFORGIVEN_DESCRIPTION": "방랑자는 낮은 진입 장벽과 높은 숙련도 상한을 가진 서바이버로, 애니메이션 캔슬을 활용해 높은 DPS를 유지할 수 있습니다.<color=#CCD3E0>",
+        "KENKO_UNFORGIVEN_SUBTITLE": "용서받지 못한 자",
+        "KENKO_UNFORGIVEN_LORE": "야스오에게 죽었다면, 당신은 압도당한 것입니다. 이는 그가 당신과 자신의 쿨다운, 양쪽 정글러의 위치, 미니언 웨이브, 그리고 라인의 전반적인 흐름을 고려하여 싸움을 정확히 계산하고 실행했음을 의미합니다 (이는 단순한 게임이라 불리는 것을 수년, 어쩌면 수십 년에 걸쳐 갈고닦아야 하는 능력입니다). 참으로, 야스오에게 패배한다는 것은 플레이어로서, 그리고 인간으로서 자신보다 나은 상대를 만났음을 깨닫는 것입니다. 당신의 기백은 무너졌지만, 야스오 플레이어는 단단한 강철 — 단단하고, 차갑고, 믿음직스럽습니다 — 그가 퍼스트 블러드를 따내고 당신이 항복 투표를 초조하게 기다리는 동안에도, 그의 마음은 여전히 최대 효율로 작동하며 거의 무한한 가능성에 대비한 전략을 세우고 있습니다. 이제 LP는 제가 가져가겠습니다. 다음엔 밴을 제대로 하십시오.",
+        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..그리고 그는 10/0으로 떠났다.",
+        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..그리고 그는 0/10으로 사라졌다.",
+        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "얼터네이트",
+        "KENKO_UNFORGIVEN_PASSIVE_NAME": "바람의 길",
+        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "이동하는 동안 패시브 <style=cIsHealing>보호막</style>을 쌓습니다. 최대 중첩에서 피격 시, <style=cIsHealing>보호막</style>이 깨지며 <style=cIsHealing>배리어</style>를 부여합니다. <style=cIsDamage>치명타 확률</style>이 <style=cIsDamage>1.5배</style> 증가합니다.",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "질풍검",
+        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "전방을 베어 <style=cIsDamage>240% 피해</style>를 입힙니다.",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "강철 폭풍",
+        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>신속.</style> 전방을 찔러 <style=cIsDamage>260% 피해</style>를 입힙니다. 적중 시, <color=#FFBF66>폭풍 집결</color> 중첩을 얻습니다. 2중첩 시 다음 <color=#FFBF66>강철 폭풍</color>이 회오리를 발사하여 <style=cIsDamage>400% 피해</style>를 입힙니다.",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "휩쓰는 검격",
+        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "적에게 돌진하여 <style=cIsDamage>150% 피해</style>를 입힙니다. 각 돌진 후, 다음 돌진은 추가 <style=cIsDamage>50% 피해</style>를 입히며, 최대 <style=cIsDamage>200% 추가 피해</style>까지 증가합니다.",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "최후의 숨결",
+        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "대상 또는 주변의 <style=cIsUtility>공중</style> 적에게 점멸하여 빠르게 공격해 <style=cIsDamage>2x250% + 800% 피해</style>를 입힙니다. 6초간 추가 <style=cIsDamage>방어구 관통력</style>을 얻습니다.",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "최초의 숨결",
+        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "대상 또는 주변의 <style=cIsUtility>공중</style> 적에게 점멸하여 빠르게 공격해 <style=cIsDamage>2x250% + 800% 피해</style>를 입힙니다. 6초간 추가 <style=cIsDamage>방어구 관통력</style>을 얻습니다.\n<color=#d299ff>SCEPTER: <style=cIsUtility>보조 스킬 쿨다운을 초기화합니다</style>. <color=#FFBF66>최초의 숨결</color>에 적중된 적은 <color=#FFBF66>휩쓰는 검격</color>으로 다시 대상 지정이 가능합니다.</color>",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
+    }
+}

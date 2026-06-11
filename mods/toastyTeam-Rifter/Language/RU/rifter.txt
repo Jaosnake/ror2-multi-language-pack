@@ -1,25 +1,30 @@
-BLAKE_RIFTER_NAME: Рифтер
-BLAKE_RIFTER_SUBTITLE: Манипулятор Разломов
-PRIMARY_GAUNTLET_RANGED: Разлом-Снаряд
-PRIMARY_GAUNTLET_RANGED_DESCRIPTION: Выстрелите разломом дальнего радиуса на 500% урона.
-SECONDARY_FRACTURE: Разрыв
-SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>Разрыв</style>. Выстрелите разломом дальнего радиуса на 75% урона, вызывая до 5 осколков.
-SECONDARY_FAULT_LINE: Линия Разлома
-SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>Разрыв</style>. Создайте линию разлома, которая раскалывается, нанося 700% урона.
-UTILITY_SLIPSTREAM: Пространственное Течение
-UTILITY_SLIPSTREAM_DESCRIPTION: Телепортируйтесь на короткое расстояние. Восстанавливает запас вторичного навыка.
-UTILITY_CHAINED_WORLDS: Скованные Миры
-UTILITY_CHAINED_WORLDS_DESCRIPTION: Соедините две точки в пространстве, создав портал, переносящий снаряды.
-UTILITY_QUANTUM_RIFT: Квантовый Разлом
-UTILITY_QUANTUM_RIFT_DESCRIPTION: Откройте квантовый разлом, искажающий окружающее пространство.
-SPECIAL_TIMELOCK: Временная Блокировка
-SPECIAL_TIMELOCK_DESCRIPTION: Заблокируйте время врагов в области, замораживая их на несколько секунд.
-SPECIAL_RECURSION: Рекурсия
-SPECIAL_RECURSION_DESCRIPTION: Продублируйте разлом, заставив его повториться через короткое время.
-PASSIVE_RIFT_BOOST: Ускорение Разлома
-PASSIVE_RIFT_BOOST_DESCRIPTION: Ваши разломы дают прибавку к скорости передвижения при прохождении через них.
-PASSIVE_RIFT_FRACTURE: Осколочный Разлом
-PASSIVE_RIFT_FRACTURE_DESCRIPTION: Враги, поражённые разломами, накапливают осколки, увеличивая получаемый урон.
-MASTERY_SKIN_NAME: Рифтер: Мастерство
-BLAKE_NEM_RIFTER_NAME: Немезис Рифтер
-BLAKE_NEM_RIFTER_SUBTITLE: Искажённый Разлом
+{
+    "strings": {
+        "BLAKE_RIFTER_NAME": "Рифтер",
+        "BLAKE_RIFTER_DESCRIPTION": "Рифтер использует стратегическое позиционирование, чтобы создавать разрушительные разломы в реальности.<color=#CCD3E0>Original mod by toastyTeam</i>",
+        "BLAKE_RIFTER_SUBTITLE": "Манипулятор Разломов",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..и так он оставил расколотый мир позади.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..и так он исчез из всех миров.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Рифтер: Мастерство",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Ускорение Разлома",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Ваши разломы дают прибавку к скорости передвижения при прохождении через них.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Осколочный Разлом",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Враги, поражённые разломами, накапливают осколки, увеличивая получаемый урон.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Разлом-Снаряд",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Выстрелите разломом дальнего радиуса на 500% урона.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Разрыв",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Разрыв</style>. Выстрелите разломом дальнего радиуса на 75% урона, вызывая до 5 осколков.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Линия Разлома",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Разрыв</style>. Создайте линию разлома, которая раскалывается, нанося 700% урона.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Пространственное Течение",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Телепортируйтесь на короткое расстояние. Восстанавливает запас вторичного навыка.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Квантовый Разлом",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "Откройте квантовый разлом, искажающий окружающее пространство.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Скованные Миры",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "Соедините две точки в пространстве, создав портал, переносящий снаряды.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Временная Блокировка",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Заблокируйте время врагов в области, замораживая их на несколько секунд.",
+        "BLAKE_NEM_RIFTER_NAME": "Немезис Рифтер",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Искажённый Разлом"
+    }
+}

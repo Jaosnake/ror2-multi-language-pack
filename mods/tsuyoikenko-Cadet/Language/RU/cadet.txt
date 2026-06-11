@@ -1,19 +1,25 @@
-KENKO_CADET_NAME: Кадет
-KENKO_CADET_SUBTITLE: Универсальный Стрелок
-KENKO_CADET_MASTERY_SKIN_NAME: Кадет: Специалист
-PRIMARY_SMG_NAME: Пистолет-Пулемёт
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Проворный</style>. Стреляйте очередями из ПП для <style=cIsDamage>60% урона</style> за выстрел.
-PRIMARY_SHOTGUN_NAME: Дробовик
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Проворный</style>. Стреляйте из дробовика для <style=cIsDamage>100% урона</style>.
-SECONDARY_GRENADE_NAME: Граната
-SECONDARY_GRENADE_DESCRIPTION: Бросьте гранату, наносящую <style=cIsDamage>400% урона</style>.
-SECONDARY_THROWGUN_NAME: Бросок Оружия
-SECONDARY_THROWGUN_DESCRIPTION: Бросьте текущее оружие для <style=cIsDamage>600% урона</style>.
-UTILITY_SLIDE_NAME: Скольжение
-UTILITY_SLIDE_DESCRIPTION: Скользните в направлении, <style=cIsUtility>мгновенно перезаряжая</style> оружие.
-UTILITY_ROLLOAD_NAME: Тактический Перекат
-UTILITY_ROLLOAD_DESCRIPTION: Перекатитесь в направлении, перезаряжая оружие.
-SPECIAL_ECHO_NAME: Эхо
-SPECIAL_ECHO_DESCRIPTION: Выстрелите звуковыми дронами, рикошетящими между врагами, нанося <style=cIsDamage>350% урона</style> и замедляя.
-SPECIAL_ULTRA_NAME: Ультра
-SPECIAL_ULTRA_DESCRIPTION: Выстрелите мощным энергетическим залпом, наносящим <style=cIsDamage>600% урона</style>.
+{
+    "strings": {
+        "KENKO_CADET_NAME": "Кадет",
+        "KENKO_CADET_DESCRIPTION": "Кадет - универсальный стрелок, способный маневрировать в бою с оружием ближнего радиуса и быстрой мобильностью.<color=#CCD3E0>Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SUBTITLE": "Универсальный Стрелок",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Обычный",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Кадет: Специалист",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Пулеметный Шторм",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Стреляйте лазером на <style=cIsDamage>60% урона</style>. Требует <style=cIsUtility>перезарядки</style> после 20 выстрелов.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Разрушительные Приливы",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Стреляйте очередью на <style=cIsDamage>3x100% урона</style>. Требует <style=cIsUtility>перезарядки</style> после 10 снарядов.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "План B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Стреляйте из лёгкого гранатомёта на <style=cIsDamage>400% урона</style>.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "План C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Бросайте оружие, нанося <style=cIsDamage>250% до 750% урона</style> в зависимости от текущего боезапаса.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Скольжение с Перезарядкой",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Скользните в направлении, <style=cIsUtility>мгновенно перезаряжая</style> оружие.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Перекат с Перезарядкой",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Перекатитесь в направлении, <style=cIsUtility>мгновенно перезаряжая</style> оружие.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "План A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Стреляйте тяжёлой очередью дроби на <style=cIsDamage>32x150% урона</style>.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Дроны Эхо",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Создайте <style=cIsDamage>двух дронов</style>, которые ищут ближайших врагов, нанося <style=cIsDamage>2x370% урона</style>."
+    }
+}

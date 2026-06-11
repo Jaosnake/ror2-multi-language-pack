@@ -1,6 +1,6 @@
-{ "tr":
-    {
-    "EXPANSION_CLOUDBURST_NAME" : "äº‘çˆ†",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "æ·»åŠ æ¨¡ç»„â€œäº‘çˆ†â€ä¸­çš„å†…å®¹è‡³æ¸¸æˆä¸­ã€‚",
+{
+    "tr": {
+        "EXPANSION_CLOUDBURST_NAME": "Bulut patlaması",
+        "EXPANSION_CLOUDBURST_DESCRIPTION": "'Cloudburst' modundan oyuna içerik ekler."
     }
 }

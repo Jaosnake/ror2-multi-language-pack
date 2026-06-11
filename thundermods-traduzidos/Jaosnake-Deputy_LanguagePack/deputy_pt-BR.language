@@ -1,15 +1,19 @@
-BOG_DEPUTY_BODY_NAME: A Delegada
-BOG_DEPUTY_BODY_SUBTITLE: JustiÃ§a RelÃ¢mpago
-BOG_DEPUTY_BODY_DESCRIPTION: A Delegada Ã© uma demonstra de velocidade hiperagressivÃ¡ que distribui justiÃ§a com seus revÃ³lveres gÃªmeos e chutes letais.
-BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: PadrÃ£o
-BOG_DEPUTY_BODY_PASSIVE_NAME: PerseguiÃ§Ã£o IncansÃ¡vel
-BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: A Delegada pode correr em qualquer direÃ§Ã£o. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumulÃ¡vel.
-PRIMARY_SHOOT_NAME: Tiro Certo
-PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Atire com revÃ³lveres de mÃ©dio alcance para <style=cIsDamage>150% de dano</style>.
-SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Arremesse dois revÃ³lveres. <style=cIsDamage>Atordoante</style>. Salte e atire em um inimigo abaixo de vocÃª para <style=cIsDamage>6x100% de dano</style>.
-UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Atire um tiro preciso que pode ser ligeiramente angulado para cima. Cause <style=cIsDamage>150% de dano</style>.
-SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800% de dano</style>. <style=cIsUtility>Abates resetam o resfriamento de sua habilidade de utilidade</style>.
-SPECIAL_BULLETHEAVEN_DESCRIPTION: Salte bem alto no ar e dispare balas furiosamente para baixo por <style=cIsDamage>150% de dano</style>.
-MASTERY_SKIN_NAME: Delegada: Maestria
-BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..e assim ela partiu, ao som de aplausos estrondosos.
-BOG_DEPUTY_BODY_OUTRO_FAILURE: ..e assim ela desapareceu, sua performance finalmente chegou ao fim.
+{
+    "pt-BR": {
+        "BOG_DEPUTY_BODY_NAME": "A Delegada",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Justiça Relâmpago",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "A Delegada é uma demonstra de velocidade hiperagressivá que distribui justiça com seus revólveres gêmeos e chutes letais.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Perseguição Incansável",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "A Delegada pode correr em qualquer direção. Acertar inimigos com suas habilidades concede um buff de <style=cIsUtility>velocidade de movimento</style> acumulável.",
+        "PRIMARY_SHOOT_NAME": "Tiro Certo",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Atire com revólveres de médio alcance para <style=cIsDamage>150% de dano</style>.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Arremesse dois revólveres. <style=cIsDamage>Atordoante</style>. Salte e atire em um inimigo abaixo de você para <style=cIsDamage>6x100% de dano</style>.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Atire um tiro preciso que pode ser ligeiramente angulado para cima. Cause <style=cIsDamage>150% de dano</style>.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800% de dano</style>. <style=cIsUtility>Abates resetam o resfriamento de sua habilidade de utilidade</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salte bem alto no ar e dispare balas furiosamente para baixo por <style=cIsDamage>150% de dano</style>.",
+        "MASTERY_SKIN_NAME": "Delegada: Maestria",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..e assim ela partiu, ao som de aplausos estrondosos.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..e assim ela desapareceu, sua performance finalmente chegou ao fim."
+    }
+}

@@ -1,19 +1,23 @@
-KENKO_CADET_NAME: ÐšÐ°Ð´ÐµÑ‚
-KENKO_CADET_SUBTITLE: Ð£Ð½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¡Ñ‚Ñ€ÐµÐ»Ð¾Ðº
-KENKO_CADET_MASTERY_SKIN_NAME: ÐšÐ°Ð´ÐµÑ‚: Ð¡Ð¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚
-PRIMARY_SMG_NAME: ÐŸÐ¸ÑÑ‚Ð¾Ð»ÐµÑ‚-ÐŸÑƒÐ»ÐµÐ¼Ñ‘Ñ‚
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>ÐŸÑ€Ð¾Ð²Ð¾Ñ€Ð½Ñ‹Ð¹</style>. Ð¡Ñ‚Ñ€ÐµÐ»ÑÐ¹Ñ‚Ðµ Ð¾Ñ‡ÐµÑ€ÐµÐ´ÑÐ¼Ð¸ Ð¸Ð· ÐŸÐŸ Ð´Ð»Ñ <style=cIsDamage>60% ÑƒÑ€Ð¾Ð½Ð°</style> Ð·Ð° Ð²Ñ‹ÑÑ‚Ñ€ÐµÐ».
-PRIMARY_SHOTGUN_NAME: Ð”Ñ€Ð¾Ð±Ð¾Ð²Ð¸Ðº
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>ÐŸÑ€Ð¾Ð²Ð¾Ñ€Ð½Ñ‹Ð¹</style>. Ð¡Ñ‚Ñ€ÐµÐ»ÑÐ¹Ñ‚Ðµ Ð¸Ð· Ð´Ñ€Ð¾Ð±Ð¾Ð²Ð¸ÐºÐ° Ð´Ð»Ñ <style=cIsDamage>100% ÑƒÑ€Ð¾Ð½Ð°</style>.
-SECONDARY_GRENADE_NAME: Ð“Ñ€Ð°Ð½Ð°Ñ‚Ð°
-SECONDARY_GRENADE_DESCRIPTION: Ð‘Ñ€Ð¾ÑÑŒÑ‚Ðµ Ð³Ñ€Ð°Ð½Ð°Ñ‚Ñƒ, Ð½Ð°Ð½Ð¾ÑÑÑ‰ÑƒÑŽ <style=cIsDamage>400% ÑƒÑ€Ð¾Ð½Ð°</style>.
-SECONDARY_THROWGUN_NAME: Ð‘Ñ€Ð¾ÑÐ¾Ðº ÐžÑ€ÑƒÐ¶Ð¸Ñ
-SECONDARY_THROWGUN_DESCRIPTION: Ð‘Ñ€Ð¾ÑÑŒÑ‚Ðµ Ñ‚ÐµÐºÑƒÑ‰ÐµÐµ Ð¾Ñ€ÑƒÐ¶Ð¸Ðµ Ð´Ð»Ñ <style=cIsDamage>600% ÑƒÑ€Ð¾Ð½Ð°</style>.
-UTILITY_SLIDE_NAME: Ð¡ÐºÐ¾Ð»ÑŒÐ¶ÐµÐ½Ð¸Ðµ
-UTILITY_SLIDE_DESCRIPTION: Ð¡ÐºÐ¾Ð»ÑŒÐ·Ð½Ð¸Ñ‚Ðµ Ð² Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸, <style=cIsUtility>Ð¼Ð³Ð½Ð¾Ð²ÐµÐ½Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ·Ð°Ñ€ÑÐ¶Ð°Ñ</style> Ð¾Ñ€ÑƒÐ¶Ð¸Ðµ.
-UTILITY_ROLLOAD_NAME: Ð¢Ð°ÐºÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÐŸÐµÑ€ÐµÐºÐ°Ñ‚
-UTILITY_ROLLOAD_DESCRIPTION: ÐŸÐµÑ€ÐµÐºÐ°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ð² Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸, Ð¿ÐµÑ€ÐµÐ·Ð°Ñ€ÑÐ¶Ð°Ñ Ð¾Ñ€ÑƒÐ¶Ð¸Ðµ.
-SPECIAL_ECHO_NAME: Ð­Ñ…Ð¾
-SPECIAL_ECHO_DESCRIPTION: Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¸Ñ‚Ðµ Ð·Ð²ÑƒÐºÐ¾Ð²Ñ‹Ð¼Ð¸ Ð´Ñ€Ð¾Ð½Ð°Ð¼Ð¸, Ñ€Ð¸ÐºÐ¾ÑˆÐµÑ‚ÑÑ‰Ð¸Ð¼Ð¸ Ð¼ÐµÐ¶Ð´Ñƒ Ð²Ñ€Ð°Ð³Ð°Ð¼Ð¸, Ð½Ð°Ð½Ð¾ÑÑ <style=cIsDamage>350% ÑƒÑ€Ð¾Ð½Ð°</style> Ð¸ Ð·Ð°Ð¼ÐµÐ´Ð»ÑÑ.
-SPECIAL_ULTRA_NAME: Ð£Ð»ÑŒÑ‚Ñ€Ð°
-SPECIAL_ULTRA_DESCRIPTION: Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¸Ñ‚Ðµ Ð¼Ð¾Ñ‰Ð½Ñ‹Ð¼ ÑÐ½ÐµÑ€Ð³ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¼ Ð·Ð°Ð»Ð¿Ð¾Ð¼, Ð½Ð°Ð½Ð¾ÑÑÑ‰Ð¸Ð¼ <style=cIsDamage>600% ÑƒÑ€Ð¾Ð½Ð°</style>.
+{
+    "RU": {
+        "KENKO_CADET_NAME": "Кадет",
+        "KENKO_CADET_SUBTITLE": "Универсальный Стрелок",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Кадет: Специалист",
+        "PRIMARY_SMG_NAME": "Пистолет-Пулемёт",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Стреляйте очередями из ПП для <style=cIsDamage>60% урона</style> за выстрел.",
+        "PRIMARY_SHOTGUN_NAME": "Дробовик",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Проворный</style>. Стреляйте из дробовика для <style=cIsDamage>100% урона</style>.",
+        "SECONDARY_GRENADE_NAME": "Граната",
+        "SECONDARY_GRENADE_DESCRIPTION": "Бросьте гранату, наносящую <style=cIsDamage>400% урона</style>.",
+        "SECONDARY_THROWGUN_NAME": "Бросок Оружия",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Бросьте текущее оружие для <style=cIsDamage>600% урона</style>.",
+        "UTILITY_SLIDE_NAME": "Скольжение",
+        "UTILITY_SLIDE_DESCRIPTION": "Скользните в направлении, <style=cIsUtility>мгновенно перезаряжая</style> оружие.",
+        "UTILITY_ROLLOAD_NAME": "Тактический Перекат",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Перекатитесь в направлении, перезаряжая оружие.",
+        "SPECIAL_ECHO_NAME": "Эхо",
+        "SPECIAL_ECHO_DESCRIPTION": "Выстрелите звуковыми дронами, рикошетящими между врагами, нанося <style=cIsDamage>350% урона</style> и замедляя.",
+        "SPECIAL_ULTRA_NAME": "Ультра",
+        "SPECIAL_ULTRA_DESCRIPTION": "Выстрелите мощным энергетическим залпом, наносящим <style=cIsDamage>600% урона</style>."
+    }
+}

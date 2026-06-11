@@ -1,12 +1,16 @@
-KENKO_INTERROGATOR_NAME: ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ­ã‚²ãƒ¼ã‚¿ãƒ¼
-KENKO_INTERROGATOR_SUBTITLE: æ‹·å•ã®å°‚é–€å®¶
-KENKO_INTERROGATOR_PASSIVE_NAME: æ‹·å•
-KENKO_INTERROGATOR_PASSIVE_DESCRIPTION: ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ­ã‚²ãƒ¼ã‚¿ãƒ¼ã¯å‘³æ–¹ã¨æ•µã®ä¸¡æ–¹ã«æ”»æ’ƒã§ãã€ä¸¡æ–¹ã‹ã‚‰æ”»æ’ƒã‚’å—ã‘ã‚‹ã€‚ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ­ã‚²ãƒ¼ã‚¿ãƒ¼ã‚’æ”»æ’ƒã—ãŸè€…ã¯æ°¸ä¹…ã«æœ‰ç½ªã¨ãƒžãƒ¼ã‚¯ã•ã‚Œã‚‹ã€‚æœ‰ç½ªã®æ•µ1ä½“ã«ã¤ãåŸºç¤Žãƒ€ãƒ¡ãƒ¼ã‚¸ãŒ50å¢—åŠ ã™ã‚‹ã€‚
-KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION: è­¦æ£’ã‚’å‰ã«æŒ¯ã‚Šã€320%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚æ”»æ’ƒã‚’å¤–ã™ã¨ä»£ã‚ã‚Šã«90%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’å—ã‘ã‚‹ã€‚
-KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION: åŒ…ä¸ã‚’æŠ•ã’ã€450%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚åŒ…ä¸ãŒç›®æ¨™ã‚’å€’ã—ãŸå ´åˆã€ã‚¨ãƒªã‚¢å†…ã®å…¨å“¡ã«å‡ºè¡€ã¨ãƒ—ãƒ¬ãƒƒã‚·ãƒ£ãƒ¼ã‚’é©ç”¨ã™ã‚‹ã€‚
-KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION: å‰æ–¹ã«ãƒ€ãƒƒã‚·ãƒ¥ã—ã€390%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€å‘½ä¸­ã—ãŸç›®æ¨™ã«æœ‰ç½ªã‚’é©ç”¨ã™ã‚‹ã€‚
-KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME: æœ‰ç½ªå®£å‘Š
-KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION: æœ‰ç½ªã®æ•µã‚’ãƒžãƒ¼ã‚¯ã—ã€10ç§’é–“æ±ºé—˜ã™ã‚‹ã€‚ã“ã®é–“ã€ã™ã¹ã¦ã®å¤–éƒ¨ãƒ€ãƒ¡ãƒ¼ã‚¸ã¯ç„¡åŠ¹åŒ–ã•ã‚Œã‚‹ï¼ˆè‡ªåˆ†è‡ªèº«ã®ã‚‚ã®ã‚‚å«ã‚€ï¼‰ã€‚é€šå¸¸æ”»æ’ƒã¯è‡ªåˆ†ã«å½“ãŸã‚‰ãªããªã‚Šã€ç¶™ç¶šçš„ã«æœ‰ç½ªã®ãƒ€ãƒ¡ãƒ¼ã‚¸ãƒœãƒ¼ãƒŠã‚¹ã‚’è“„ç©ã™ã‚‹ã€‚
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME: æœ‰ç½ªå®£å‘Šï¼ˆã‚»ãƒ—ã‚¿ãƒ¼ï¼‰
-KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION: æœ‰ç½ªã®æ•µã‚’ãƒžãƒ¼ã‚¯ã—ã€14ç§’é–“æ±ºé—˜ã™ã‚‹ã€‚ã“ã®é–“ã€ã™ã¹ã¦ã®å¤–éƒ¨ãƒ€ãƒ¡ãƒ¼ã‚¸ã¯ç„¡åŠ¹åŒ–ã•ã‚Œã‚‹ã€‚é€šå¸¸æ”»æ’ƒã¯è‡ªåˆ†ã«å½“ãŸã‚‰ãªããªã‚Šã€æœ‰ç½ªã®ãƒ€ãƒ¡ãƒ¼ã‚¸ãƒœãƒ¼ãƒŠã‚¹ã‚’2å€ã®åŠ¹çŽ‡ã§è“„ç©ã™ã‚‹ã€‚
-MASTERY_SKIN_NAME: ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ­ã‚²ãƒ¼ã‚¿ãƒ¼ï¼šã‚¹ãƒšã‚·ãƒ£ãƒªã‚¹ãƒˆ
+{
+    "ja": {
+        "KENKO_INTERROGATOR_NAME": "インターロゲーター",
+        "KENKO_INTERROGATOR_SUBTITLE": "拷問の専門家",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "拷問",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "インターロゲーターは味方と敵の両方に攻撃でき、両方から攻撃を受ける。インターロゲーターを攻撃した者は永久に有罪とマークされる。有罪の敵1体につき基礎ダメージが50増加する。",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "警棒を前に振り、320%のダメージを与える。攻撃を外すと代わりに90%のダメージを受ける。",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "包丁を投げ、450%のダメージを与える。包丁が目標を倒した場合、エリア内の全員に出血とプレッシャーを適用する。",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "前方にダッシュし、390%のダメージを与え、命中した目標に有罪を適用する。",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "有罪宣告",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "有罪の敵をマークし、10秒間決闘する。この間、すべての外部ダメージは無効化される(自分自身のものも含む)。通常攻撃は自分に当たらなくなり、継続的に有罪のダメージボーナスを蓄積する。",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "有罪宣告(セプター)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "有罪の敵をマークし、14秒間決闘する。この間、すべての外部ダメージは無効化される。通常攻撃は自分に当たらなくなり、有罪のダメージボーナスを2倍の効率で蓄積する。",
+        "MASTERY_SKIN_NAME": "インターロゲーター:スペシャリスト"
+    }
+}

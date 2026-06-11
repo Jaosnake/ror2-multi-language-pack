@@ -2,9 +2,8 @@
   "strings": {
     "SS2_KNIGHT_BODY_NAME": "骑士",
     "SS2_KNIGHT_BODY_SUBTITLE": "皇家卫士",
-    "SS2_KNIGHT_DESCRIPTION": "骑士是一名近战领域的专家，以精确的时机和执行能力与敌人进行对决和招架。\n\n<color=#CCD3E0>< ! > parry.",
-    "SS2_KNIGHT_OUTRO_FLAVOR": "……于是他离开了，满身伤痕，心中失去希望。",
-    "SS2_KNIGHT_OUTRO_FAILURE": "……于是他消失了，盾牌破碎，心中希望熄灭。"
-    
+    "SS2_KNIGHT_DESCRIPTION": "骑士是一名近战领域的专家,以精确的时机和执行能力与敌人进行对决和招架。\n\n<color=#CCD3E0>< ! > parry.",
+    "SS2_KNIGHT_OUTRO_FLAVOR": "……于是他离开了,满身伤痕,心中失去希望。",
+    "SS2_KNIGHT_OUTRO_FAILURE": "……于是他消失了,盾牌破碎,心中希望熄灭。"
   }
 }

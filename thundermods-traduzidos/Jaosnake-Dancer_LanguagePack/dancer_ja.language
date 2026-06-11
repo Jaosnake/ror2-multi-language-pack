@@ -1,17 +1,21 @@
-NDP_DANCER_BODY_PASSIVE_NAME: æ‹˜æŸãƒ†ãƒ¼ãƒ—
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: ãƒ†ãƒ¼ãƒ—ãŒä»˜ã„ãŸæ•µã¯æ¯Žç§’50%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã§å‡ºè¡€ã—ã€è¡Œå‹•ä¸èƒ½ã«ãªã‚‹ã€‚
-PRIMARY_SLASH_NAME: æ–¬æ’ƒ
-PRIMARY_SLASH_DESCRIPTION: ç…§æº–ã«åŸºã¥ã„ã¦åŠ¹æžœãŒå¤‰ã‚ã‚‹è¿‘æŽ¥æ”»æ’ƒã€‚(è©³ç´°ã¯ãƒžã‚¦ã‚¹ã‚ªãƒ¼ãƒãƒ¼)
-PRIMARY_SLASH2_NAME: åˆ‡ã‚Šè£‚ã
-PRIMARY_SLASH2_DESCRIPTION: ç…§æº–ã«åŸºã¥ã„ã¦åŠ¹æžœãŒå¤‰ã‚ã‚‹è¿‘æŽ¥æ”»æ’ƒã€‚(è©³ç´°ã¯ãƒžã‚¦ã‚¹ã‚ªãƒ¼ãƒãƒ¼)
-UTILITY_PULL_NAME: å¼•ãå¯„ã›
-UTILITY_PULL_DESCRIPTION: æ•µã‚’è‡ªåˆ†ã®æ–¹ã«å¼•ãå¯„ã›ã‚‹ã€‚
-SPECIAL_RIBBON_LOCK_NAME: çµæŸãƒ†ãƒ¼ãƒ—
-SPECIAL_RIBBON_LOCK_DESCRIPTION: æ•µã«ãƒ†ãƒ¼ãƒ—ã‚’è²¼ã‚Šä»˜ã‘ã€è¡Œå‹•ã‚’å°ã˜ã€å‡ºè¡€ã‚’å¼•ãèµ·ã“ã™ã€‚
-KEYWORD_DANCER_JAB: <style=cKeywordName>ã‚¸ãƒ£ãƒ–</style><style=cSub>åœ°ä¸Šå…¥åŠ›ã€å‰æ–¹ã‚’ç‹™ã†ã€‚å‰æ–¹ã«çªé€²ã—<style=cIsDamage>180%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>ä¸‹æ–¹å‘ã</style><style=cSub>åœ°ä¸Šå…¥åŠ›ã€ä¸‹ã‚’ç‹™ã†ã€‚æ•µã‚’ä¸Šæ–¹ã«æ‰“ã¡ä¸Šã’<style=cIsDamage>200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>å‰æ–¹ç©ºä¸­</style><style=cSub>ç©ºä¸­å…¥åŠ›ã€å‰æ–¹ã‚’ç‹™ã†ã€‚å¼·æ”»æ’ƒã§<style=cIsDamage>180%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€æ•µã‚’åœ°é¢ã«é‡˜ä»˜ã‘ã«ã—ã¦æ°—çµ¶ã•ã›ã€æœ€å¤§<style=cIsDamage>300%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>ãƒ†ãƒ¼ãƒ—</style><style=cSub>ãƒ†ãƒ¼ãƒ—ãŒä»˜ã„ãŸæ•µã¯æ¯Žç§’<style=cIsDamage>50%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã§å‡ºè¡€ã—ã€è¡Œå‹•ä¸èƒ½ã«ãªã‚‹ã€‚
-NDP_DANCER_BODY_SUBTITLE: æ­»ã®èˆžè¸
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-NDP_DANCER_GOLD_SKIN_NAME: ã‚´ãƒ¼ãƒ«ãƒ‰
+{
+    "ja": {
+        "NDP_DANCER_BODY_PASSIVE_NAME": "拘束テープ",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "テープが付いた敵は毎秒50%のダメージで出血し、行動不能になる。",
+        "PRIMARY_SLASH_NAME": "斬撃",
+        "PRIMARY_SLASH_DESCRIPTION": "照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)",
+        "PRIMARY_SLASH2_NAME": "切り裂き",
+        "PRIMARY_SLASH2_DESCRIPTION": "照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)",
+        "UTILITY_PULL_NAME": "引き寄せ",
+        "UTILITY_PULL_DESCRIPTION": "敵を自分の方に引き寄せる。",
+        "SPECIAL_RIBBON_LOCK_NAME": "結束テープ",
+        "SPECIAL_RIBBON_LOCK_DESCRIPTION": "敵にテープを貼り付け、行動を封じ、出血を引き起こす。",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>ジャブ</style><style=cSub>地上入力、前方を狙う。前方に突進し<style=cIsDamage>180%ダメージ</style>。",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>下方向き</style><style=cSub>地上入力、下を狙う。敵を上方に打ち上げ<style=cIsDamage>200%ダメージ</style>。",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>前方空中</style><style=cSub>空中入力、前方を狙う。強攻撃で<style=cIsDamage>180%ダメージ</style>、敵を地面に釘付けにして気絶させ、最大<style=cIsDamage>300%ダメージ</style>。",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>テープ</style><style=cSub>テープが付いた敵は毎秒<style=cIsDamage>50%ダメージ</style>で出血し、行動不能になる。",
+        "NDP_DANCER_BODY_SUBTITLE": "死の舞踏",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "NDP_DANCER_GOLD_SKIN_NAME": "ゴールド"
+    }
+}

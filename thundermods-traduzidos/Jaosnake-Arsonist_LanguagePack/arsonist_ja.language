@@ -1,30 +1,34 @@
-POPCORN_ARSONIST_BODY_NAME: ã‚¢ãƒ¼ã‚½ãƒ‹ã‚¹ãƒˆ
-POPCORN_ARSONIST_BODY_SUBTITLE: ãƒžãƒ‹ã‚¢ãƒƒã‚¯ãªæ”¾ç«ç‹‚
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME: é€šå¸¸ã‚²ãƒ¼ã‚¸
-POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION: ç™½ã„éƒ¨åˆ†ã«<style=cIsDamage>100%</style>ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚åŸºæœ¬ã‚²ãƒ¼ã‚¸ã¯éŽç†±ã«è€æ€§ãŒã‚ã‚‹ã€‚
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME: ã‚¯ãƒªãƒ†ã‚£ã‚«ãƒ«ã‚²ãƒ¼ã‚¸
-POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION: ç™½ã„éƒ¨åˆ†ã«<style=cIsDamage>70%</style>ã€é’ã„éƒ¨åˆ†ã«<style=cIsDamage>250%</style>ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚æœ€å¤§ç†±é‡ã¯å›ºå®šã€‚
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME: Dragon's Breath
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION: ç‚Žã®ãƒ“ãƒ¼ãƒ ã‚’ç™ºå°„ã—<style=cIsDamage>90%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚ç›®æ¨™ã«è¿‘ã„ã»ã©ç€ç«ç¢ºçŽ‡ãŒä¸Šæ˜‡ã€‚
-POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME: Fireball
-POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION: <style=cIsUtility>ç†±é‡ã€‚</style>ç«ã®çŽ‰ã‚’ç™ºå°„ã—ã€å‘½ä¸­æ™‚ã«<style=cIsDamage>225%ãƒ€ãƒ¡ãƒ¼ã‚¸ã¨ç€ç«</style>ã‚’ä¸Žãˆã‚‹ã€‚
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME: Zero Point Blast
-POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION: <style=cIsUtility>æ•æ·ã€‚ç†±é‡ã€‚</style>å‰æ–¹ã«æŽ¨é€²ã—ã€å¾Œæ–¹ã®æ•µã‚’çˆ†ç™ºã•ã›<style=cIsDamage>200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚ç™ºå°„ç›´å¾Œã«æœ€åˆã®æ•µã«è¡çªã™ã‚‹ã¨å‘¨å›²ã«çˆ†ç™ºã‚’èµ·ã“ã—<style=cIsDamage>200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME: ä¿¡å·éŠƒ
-POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION: ä¿¡å·å¼¾ã‚’ç™ºå°„ã—ã€5ç§’é–“ã§<style=cIsDamage>400%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã€ãã®å¾Œçˆ†ç™ºã—ã¦<style=cIsDamage>400%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€5ã¤ã®ä¿¡å·å¼¾ã‚’æ”¾ã¡ãã‚Œãžã‚Œ<style=cIsDamage>200%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME: Masochism
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION: <style=cIsUtility>æ•æ·ã€‚ç†±é‡ã€‚</style><style=cIsDamage>ç€ç«</style>ã«ã‚ˆã‚‹ãƒ€ãƒ¡ãƒ¼ã‚¸ãŒ<style=cIsHealing>å›žå¾©</style>ã«å¤‰ã‚ã‚‹ï¼ˆ6.5ç§’é–“ï¼‰ã€‚æ”»æ’ƒé€Ÿåº¦ãŒ<style=cIsDamage>125%</style>ä¸Šæ˜‡ã€‚
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME: ãƒžã‚¾ãƒ’ã‚ºãƒ 
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION: <style=cKeywordName>äºˆæ¸¬</style>é™ç•Œã«é”ã™ã‚‹ã¨ã€å®šæœŸçš„ã«è‡ªåˆ†ã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€ä»£ã‚ã‚Šã«ç¯„å›²<style=cIsHealing>ãƒ©ã‚¤ãƒ•ã‚¹ãƒ†ã‚£ãƒ¼ãƒ«</style>ã¨ç«å‚·ã‚’å¾—ã‚‹ã€‚æœ€å¤§10ç§’å¾Œã€<style=cIsDamage>çˆ†ç™º</style>ã€ãã®å¾Œ<style=cIsUtility>éŽç†±</style>ã€‚
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME: éºæ¨
-POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION: <style=cKeywordName>äºˆæ¸¬</style>é™ç•Œã«é”ã™ã‚‹ã¨ã€ç§»å‹•ãŒé€Ÿããªã‚Šã€<style=cKeywordName>äºŒé‡å°„æ’ƒ</style>ã¨<style=cIsHealing>ãƒ©ã‚¤ãƒ•ã‚¹ãƒ†ã‚£ãƒ¼ãƒ«</style>ã‚’å¾—ã‚‹ã€‚æœ€å¤§10ç§’å¾Œã€<style=cIsDamage>çˆ†ç™º</style>ã€ãã®å¾Œ<style=cIsUtility>éŽç†±</style>ã€‚
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME: Dante's Rebuke
-POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION: å¼·åŠ›ãªãƒ“ãƒ¼ãƒ ã‚’ç™ºå°„ã—<style=cIsDamage>140%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚ç›®æ¨™ã«è¿‘ã„ã»ã©ç€ç«ç¢ºçŽ‡ãŒä¸Šæ˜‡ã€‚2ç§’ä»¥ä¸Šæºœã‚ã‚‹ã¨ã€é›¢ã—ãŸæ™‚ã«æœ€çµ‚ãƒ“ãƒ¼ãƒ ã‚’ç™ºå°„ã—<style=cIsDamage>150%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION: <style=cKeywordName>äºˆæ¸¬</style>100ã®ç†±é‡ã‚’å¤±ã†ã‹å¾—ã‚‹ã”ã¨ã«ã€ã‚¢ãƒ¼ã‚½ãƒ‹ã‚¹ãƒˆã¯äºˆæ¸¬ãƒãƒ£ãƒ¼ã‚¸ã‚’1èŽ·å¾—ï¼›5ãƒãƒ£ãƒ¼ã‚¸ç²å¾—å¾Œã€ãƒžã‚¾ãƒ’ã‚ºãƒ ã‚’ç™ºå‹•å¯èƒ½ï¼›è¿½åŠ ãƒãƒ£ãƒ¼ã‚¸ã¯ãƒ€ãƒ¡ãƒ¼ã‚¸ã¨æŒç¶šæ™‚é–“ã‚’å¢—åŠ ï¼›çµ‚äº†æ™‚ã«å…¨ãƒãƒ£ãƒ¼ã‚¸ã‚’æ¶ˆè²»ã€‚
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE: <style=cKeywordName>çˆ†ç™º</style>ã‚¢ãƒ¼ã‚½ãƒ‹ã‚¹ãƒˆãŒçˆ†ç™ºã—ã€è“„ç©ã•ã‚ŒãŸäºˆæ¸¬ãƒãƒ£ãƒ¼ã‚¸æ•°Ã—<style=cIsDamage>150%ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€‚
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL: <style=cKeywordName>ãƒ©ã‚¤ãƒ•ã‚¹ãƒ†ã‚£ãƒ¼ãƒ«</style>ã‚¢ãƒ¼ã‚½ãƒ‹ã‚¹ãƒˆã¯ãƒžã‚¾ãƒ’ã‚ºãƒ ç™ºå‹•ä¸­ã€ä¸Žãƒ€ãƒ¡ãƒ¼ã‚¸ã®<style=cIsHealing>18%</style>ã‚’å›žå¾©ã€‚
-POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL: <style=cKeywordName>ãƒ©ã‚¤ãƒ•ã‚¹ãƒ†ã‚£ãƒ¼ãƒ«</style>ã‚¢ãƒ¼ã‚½ãƒ‹ã‚¹ãƒˆã¯éºæ¨ç™ºå‹•ä¸­ã€ä¸Žãƒ€ãƒ¡ãƒ¼ã‚¸ã®<style=cIsHealing>5%</style>ã‚’å›žå¾©ã€‚
-POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO: <style=cKeywordName>éŽç†±ï¼šãƒžã‚¾ãƒ’ã‚ºãƒ </style>ã‚¢ãƒ¼ã‚½ãƒ‹ã‚¹ãƒˆãŒéŽå‰°ãªç†±é‡è“„ç©ã«ã‚ˆã‚Šãƒžã‚¾ãƒ’ã‚ºãƒ ã‚’é›¢è„±ã—ãŸå ´åˆã€EXéŽç†±ãŒé©ç”¨ã•ã‚Œã€ç§»å‹•é€Ÿåº¦ã¨ãƒ€ãƒ¡ãƒ¼ã‚¸ãŒ70%ã«ä½Žä¸‹ã€‚ã‚­ãƒ£ãƒ³ã‚»ãƒ«ã¾ãŸã¯ã‚¹ã‚­ãƒ«ã‚’å®Œäº†ã•ã›ã‚‹ã¨éŽç†±ãŒé©ç”¨ã•ã‚Œã€æ”»æ’ƒé€Ÿåº¦ãŒ50%ã«ä½Žä¸‹ã€‚
-POPCORN_ARSONIST_BODY_OVERHEAT_TEXT: éŽç†±ï¼
-POPCORN_ARSONIST_BODY_COOLING_TEXT: å†·å´ä¸­...ï¼
-POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT: éŽç†±ï¼šEXï¼
+{
+    "ja": {
+        "POPCORN_ARSONIST_BODY_NAME": "アーソニスト",
+        "POPCORN_ARSONIST_BODY_SUBTITLE": "マニアックな放火狂",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "通常ゲージ",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "白い部分に<style=cIsDamage>100%</style>のダメージを与える。基本ゲージは過熱に耐性がある。",
+        "POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME": "クリティカルゲージ",
+        "POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION": "白い部分に<style=cIsDamage>70%</style>、青い部分に<style=cIsDamage>250%</style>のダメージを与える。最大熱量は固定。",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME": "Dragon's Breath",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION": "炎のビームを発射し<style=cIsDamage>90%ダメージ</style>を与える。目標に近いほど着火確率が上昇。",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME": "Fireball",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION": "<style=cIsUtility>熱量。</style>火の玉を発射し、命中時に<style=cIsDamage>225%ダメージと着火</style>を与える。",
+        "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME": "Zero Point Blast",
+        "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION": "<style=cIsUtility>敏捷。熱量。</style>前方に推進し、後方の敵を爆発させ<style=cIsDamage>200%ダメージ</style>を与える。発射直後に最初の敵に衝突すると周囲に爆発を起こし<style=cIsDamage>200%ダメージ</style>。",
+        "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME": "信号銃",
+        "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION": "信号弾を発射し、5秒間で<style=cIsDamage>400%ダメージ</style>を与え、その後爆発して<style=cIsDamage>400%ダメージ</style>、5つの信号弾を放ちそれぞれ<style=cIsDamage>200%ダメージ</style>。",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "Masochism",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>敏捷。熱量。</style><style=cIsDamage>着火</style>によるダメージが<style=cIsHealing>回復</style>に変わる(6.5秒間)。攻撃速度が<style=cIsDamage>125%</style>上昇。",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "マゾヒズãƒ",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "<style=cKeywordName>予測</style>限界に達すると、定期的に自分にダメージを与え、代わりに範囲<style=cIsHealing>ライフスティール</style>と火傷を得る。最大10秒後、<style=cIsDamage>爆発</style>、その後<style=cIsUtility>過熱</style>。",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "遺恨",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "<style=cKeywordName>予測</style>限界に達すると、移動が速くなり、<style=cKeywordName>二重射撃</style>と<style=cIsHealing>ライフスティール</style>を得る。最大10秒後、<style=cIsDamage>爆発</style>、その後<style=cIsUtility>過熱</style>。",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Dante's Rebuke",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "強力なビームを発射し<style=cIsDamage>140%ダメージ</style>を与える。目標に近いほど着火確率が上昇。2秒以上溜めると、離した時に最終ビームを発射し<style=cIsDamage>150%ダメージ</style>。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>予測</style>100の熱量を失うか得るごとに、アーソニストは予測チャージを1获得;5チャージ獲得後、マゾヒズムを発動可能;追加チャージはダメージと持続時間を増加;終了時に全チャージを消費。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>爆発</style>アーソニストが爆発し、蓄積された予測チャージ数×<style=cIsDamage>150%ダメージ</style>。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>ライフスティール</style>アーソニストはマゾヒズム発動中、与ダメージの<style=cIsHealing>18%</style>を回復。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>ライフスティール</style>アーソニストは遺恨発動中、与ダメージの<style=cIsHealing>5%</style>を回復。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>過熱:マゾヒズム</style>アーソニストが過剰な熱量蓄積によりマゾヒズムを離脱した場合、EX過熱が適用され、移動速度とダメージが70%に低下。キャンセルまたはスキルを完了させると過熱が適用され、攻撃速度が50%に低下。",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "過熱!",
+        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱:EX!"
+    }
+}

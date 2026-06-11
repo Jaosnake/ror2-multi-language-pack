@@ -1,19 +1,23 @@
-KENKO_CADET_NAME: Cadete
-KENKO_CADET_SUBTITLE: Tirador VersÃ¡til
-KENKO_CADET_MASTERY_SKIN_NAME: Cadete: Especialista
-PRIMARY_SMG_NAME: Ametralladora
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispara rÃ¡pidamente tu ametralladora para <style=cIsDamage>60% de daÃ±o</style> por disparo.
-PRIMARY_SHOTGUN_NAME: Escopeta
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Ãgil</style>. Dispara tu escopeta para <style=cIsDamage>100% de daÃ±o</style>.
-SECONDARY_GRENADE_NAME: Granada
-SECONDARY_GRENADE_DESCRIPTION: Lanza una granada que causa <style=cIsDamage>400% de daÃ±o</style>.
-SECONDARY_THROWGUN_NAME: Lanzamiento de Arma
-SECONDARY_THROWGUN_DESCRIPTION: Lanza tu arma actual para <style=cIsDamage>600% de daÃ±o</style>.
-UTILITY_SLIDE_NAME: Deslizar
-UTILITY_SLIDE_DESCRIPTION: DeslÃ­zate en una direcciÃ³n, <style=cIsUtility>recargando</style> tu arma al instante.
-UTILITY_ROLLOAD_NAME: Rodada TÃ¡ctica
-UTILITY_ROLLOAD_DESCRIPTION: Rueda en una direcciÃ³n, recargando tu arma.
-SPECIAL_ECHO_NAME: Eco
-SPECIAL_ECHO_DESCRIPTION: Dispara drones sÃ³nicos que rebotan entre enemigos, causando <style=cIsDamage>350% de daÃ±o</style> y aplicando lentitud.
-SPECIAL_ULTRA_NAME: Ultra
-SPECIAL_ULTRA_DESCRIPTION: Dispara una poderosa rÃ¡faga de energÃ­a que causa <style=cIsDamage>600% de daÃ±o</style>.
+{
+    "es-419": {
+        "KENKO_CADET_NAME": "Cadete",
+        "KENKO_CADET_SUBTITLE": "Tirador Versátil",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
+        "PRIMARY_SMG_NAME": "Ametralladora",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara rápidamente tu ametralladora para <style=cIsDamage>60% de daño</style> por disparo.",
+        "PRIMARY_SHOTGUN_NAME": "Escopeta",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara tu escopeta para <style=cIsDamage>100% de daño</style>.",
+        "SECONDARY_GRENADE_NAME": "Granada",
+        "SECONDARY_GRENADE_DESCRIPTION": "Lanza una granada que causa <style=cIsDamage>400% de daño</style>.",
+        "SECONDARY_THROWGUN_NAME": "Lanzamiento de Arma",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Lanza tu arma actual para <style=cIsDamage>600% de daño</style>.",
+        "UTILITY_SLIDE_NAME": "Deslizar",
+        "UTILITY_SLIDE_DESCRIPTION": "Deslízate en una dirección, <style=cIsUtility>recargando</style> tu arma al instante.",
+        "UTILITY_ROLLOAD_NAME": "Rodada Táctica",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Rueda en una dirección, recargando tu arma.",
+        "SPECIAL_ECHO_NAME": "Eco",
+        "SPECIAL_ECHO_DESCRIPTION": "Dispara drones sónicos que rebotan entre enemigos, causando <style=cIsDamage>350% de daño</style> y aplicando lentitud.",
+        "SPECIAL_ULTRA_NAME": "Ultra",
+        "SPECIAL_ULTRA_DESCRIPTION": "Dispara una poderosa ráfaga de energía que causa <style=cIsDamage>600% de daño</style>."
+    }
+}

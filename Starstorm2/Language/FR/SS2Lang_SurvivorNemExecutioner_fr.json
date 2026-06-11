@@ -1,29 +1,22 @@
 {
-    "strings":
-    {
-        "SS2_NEMEXECUTIONER_BODY_NAME": "Bourreau Némésis",
-		"SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Passeur des damnés",
-		"SS2_NEMEXECUTIONER_DESCRIPTION": "Le Bourreau Némésis ôte la vie de ceux qui sont perdus d'un coup de grâce pour ce qu'il envisage comme le bien commun.\n\n<color=#CCD3E0>< ! > La mort ne se craint pas elle-même.\n\nThis mod was translated by: Jaosnake",
-		"SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..et ainsi il partit, s'évanouissant dans l'inconnu.",
-		"SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..et ainsi il retourna, son héritage perdu à jamais.",
-		"SS2_NEMEXECUTIONER_BODY_LORE": "effrayant D:",
-
-        "SS2_NEMEXECUTIONER_PRIMARY_NAME": "boules",
-		"SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "chaîne d'éclairs en boule",
-
-		"SS2_KEYWORD_BLEED": "<style=cKeywordName>Saignement</style><style=cSub>Inflige <style=cIsDamage>240%</style> de dégâts de base sur 3s. <i>Le saignement se cumule.</i></style>",
-		"SS2_NEMEXECUTIONER_SECONDARY_NAME": "goules",
-		"SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "les goules saignent au contact",
-
-		"SS2_NEMEXECUTIONER_UTILITY_NAME": "peur",
-		"SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "nuage de peur",
-
-		"SS2_NEMEXECUTIONER_SPECIAL_NAME": "faux",
-		"SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Faucheur.</style> 1500% course à la faux. soigne les proches à la mort. maintenir pour augmenter la distance",
-
-		"SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "mode effrayant",
-		"SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "voler et buff et durée à la mort",
-
-		"SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
-    }
+  "strings": {
+    "SS2_NEMEXECUTIONER_BODY_NAME": "Bourreau Némésis",
+    "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Passeur des damnés",
+    "SS2_NEMEXECUTIONER_DESCRIPTION": "Le Bourreau Némésis ôte la vie de ceux qui sont perdus d'un coup de grâce pour ce qu'il envisage comme le bien commun.\n\n<color=#CCD3E0>< ! > La mort ne se craint pas elle-même.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..et ainsi il partit, s'évanouissant dans l'inconnu.",
+    "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..et ainsi il retourna, son héritage perdu à jamais.",
+    "SS2_NEMEXECUTIONER_BODY_LORE": "effrayant D:",
+    "SS2_NEMEXECUTIONER_PRIMARY_NAME": "boules",
+    "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "chaîne d'éclairs en boule",
+    "SS2_KEYWORD_BLEED": "<style=cKeywordName>Saignement</style><style=cSub>Inflige <style=cIsDamage>240%</style> de dégâts de base sur 3s. <i>Le saignement se cumule.</i></style>",
+    "SS2_NEMEXECUTIONER_SECONDARY_NAME": "goules",
+    "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "les goules saignent au contact",
+    "SS2_NEMEXECUTIONER_UTILITY_NAME": "peur",
+    "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "nuage de peur",
+    "SS2_NEMEXECUTIONER_SPECIAL_NAME": "faux",
+    "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Faucheur.</style> 1500% course à la faux. soigne les proches à la mort. maintenir pour augmenter la distance",
+    "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "mode effrayant",
+    "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "voler et buff et durée à la mort",
+    "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
+  }
 }

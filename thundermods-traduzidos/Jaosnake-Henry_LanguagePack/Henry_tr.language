@@ -1,23 +1,23 @@
 {
-"tr": {
-"ROB_HENRY_BODY_NAME": "Henry",
-"ROB_HENRY_BODY_DESCRIPTION": "Henry, düşmanlarını alt etmek için geniş bir silah cephaneliği kullanan yetenekli bir savaşçıdır.<color=#CCD3E0>",
-"ROB_HENRY_BODY_SUBTITLE": "Seçilmiş Kişi",
-"ROB_HENRY_BODY_LORE": "örnek hikaye",
-"ROB_HENRY_BODY_OUTRO_FLAVOR": "..ve böylece ayrıldı, yeni bir kimlik arayışıyla.",
-"ROB_HENRY_BODY_OUTRO_FAILURE": "..ve böylece yok oldu, sonsuza dek boş bir sayfa.",
-"ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternatif",
-"ROB_HENRY_BODY_PASSIVE_NAME": "Henry pasifi",
-"ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "Örnek metin.",
-"ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "Kılıç",
-"ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Çevik.</style> İleri doğru savurarak <style=cIsDamage>%280 hasar</style> verir.",
-"ROB_HENRY_BODY_SECONDARY_GUN_NAME": "Tabanca",
-"ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Çevik.</style> Bir tabanca ateşleyerek <style=cIsDamage>%420 hasar</style> verir.",
-"ROB_HENRY_BODY_UTILITY_ROLL_NAME": "Takla",
-"ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Kısa bir mesafe yuvarlan, <style=cIsUtility>300 zırh</style> kazan. <style=cIsUtility>Takla sırasında vurulamazsın.</style>",
-"ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bomba",
-"ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Bir bomba fırlatarak <style=cIsDamage>%1600 hasar</style> verir.",
-"ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Ustalık",
-"ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Henry olarak oyunu bitir veya Monsoon zorluğunda obliterate ol."
-}
+    "tr": {
+        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_DESCRIPTION": "Henry, düşmanlarını alt etmek için geniş bir silah cephaneliği kullanan yetenekli bir savaşçıdır.<color=#CCD3E0>",
+        "ROB_HENRY_BODY_SUBTITLE": "Seçilmiş Kişi",
+        "ROB_HENRY_BODY_LORE": "örnek hikaye",
+        "ROB_HENRY_BODY_OUTRO_FLAVOR": "..ve böylece ayrıldı, yeni bir kimlik arayışıyla.",
+        "ROB_HENRY_BODY_OUTRO_FAILURE": "..ve böylece yok oldu, sonsuza dek boş bir sayfa.",
+        "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternatif",
+        "ROB_HENRY_BODY_PASSIVE_NAME": "Henry pasifi",
+        "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "Örnek metin.",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "Kılıç",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Çevik.</style> İleri doğru savurarak <style=cIsDamage>%280 hasar</style> verir.",
+        "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "Tabanca",
+        "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Çevik.</style> Bir tabanca ateşleyerek <style=cIsDamage>%420 hasar</style> verir.",
+        "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "Takla",
+        "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Kısa bir mesafe yuvarlan, <style=cIsUtility>300 zırh</style> kazan. <style=cIsUtility>Takla sırasında vurulamazsın.</style>",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bomba",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Bir bomba fırlatarak <style=cIsDamage>%1600 hasar</style> verir.",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
+    }
 }

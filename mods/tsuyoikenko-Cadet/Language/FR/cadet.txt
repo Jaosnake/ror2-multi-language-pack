@@ -1,19 +1,25 @@
-KENKO_CADET_NAME: Cadet
-KENKO_CADET_SUBTITLE: Tireur d'Élite Polyvalent
-KENKO_CADET_MASTERY_SKIN_NAME: Cadet : Spécialiste
-PRIMARY_SMG_NAME: Mitraillette
-PRIMARY_SMG_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez rapidement avec votre mitraillette pour <style=cIsDamage>60% de dégâts</style> par balle.
-PRIMARY_SHOTGUN_NAME: Fusil à Pompe
-PRIMARY_SHOTGUN_DESCRIPTION: <style=cIsUtility>Agile</style>. Tirez avec votre fusil à pompe pour <style=cIsDamage>100% de dégâts</style>.
-SECONDARY_GRENADE_NAME: Grenade
-SECONDARY_GRENADE_DESCRIPTION: Lancez une grenade qui inflige <style=cIsDamage>400% de dégâts</style>.
-SECONDARY_THROWGUN_NAME: Lancé d'Arme
-SECONDARY_THROWGUN_DESCRIPTION: Lancez votre arme actuelle pour <style=cIsDamage>600% de dégâts</style>.
-UTILITY_SLIDE_NAME: Glissade
-UTILITY_SLIDE_DESCRIPTION: Glissez dans une direction, <style=cIsUtility>rechargeant</style> votre arme instantanément.
-UTILITY_ROLLOAD_NAME: Roulade Tactique
-UTILITY_ROLLOAD_DESCRIPTION: Roulez dans une direction, rechargeant votre arme.
-SPECIAL_ECHO_NAME: Écho
-SPECIAL_ECHO_DESCRIPTION: Tirez des drones soniques qui ricochent entre les ennemis, infligeant <style=cIsDamage>350% de dégâts</style> et appliquant un ralentissement.
-SPECIAL_ULTRA_NAME: Ultra
-SPECIAL_ULTRA_DESCRIPTION: Tirez une puissante rafale d'énergie qui inflige <style=cIsDamage>600% de dégâts</style>.
+{
+    "strings": {
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_DESCRIPTION": "Le Cadet est un artilleur polyvalent qui peut naviguer le combat avec des armes à courte portée et une mobilité rapide.<color=#CCD3E0>Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_SUBTITLE": "Tireur d'Élite Polyvalent",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Par défaut",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet : Spécialiste",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Tempête de Balles",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez un laser pour <style=cIsDamage>60% de dégâts</style>. Nécessite <style=cIsUtility>recharge</style> après 20 balles.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marées Dévastatrices",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez une rafale pour <style=cIsDamage>3x100% de dégâts</style>. Nécessite <style=cIsUtility>recharge</style> après 10 projectiles.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Tirez avec votre lance-grenades léger pour <style=cIsDamage>400% de dégâts</style>.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lancez votre arme infligeant <style=cIsDamage>250% à 750% de dégâts</style> selon la munition actuelle.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Recharge Glissée",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Glissez dans une direction, <style=cIsUtility>rechargeant</style> votre arme instantanément.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Roulade de Rechargement",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Roulez dans une direction, <style=cIsUtility>rechargeant</style> votre arme instantanément.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez une rafale lourde de chevrotine pour <style=cIsDamage>32x150% de dégâts</style>.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Écho",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabriquez <style=cIsDamage>deux drones</style> qui cherchent les ennemis proches infligeant <style=cIsDamage>2x370% de dégâts</style>."
+    }
+}

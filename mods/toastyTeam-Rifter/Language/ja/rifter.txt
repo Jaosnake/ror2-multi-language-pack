@@ -1,25 +1,29 @@
-BLAKE_RIFTER_NAME: リフター
-BLAKE_RIFTER_SUBTITLE: リフト操者
-PRIMARY_GAUNTLET_RANGED: 投射リフト
-PRIMARY_GAUNTLET_RANGED_DESCRIPTION: 長距離リフトを発射し、500%のダメージを与える。
-SECONDARY_FRACTURE: 破砕
-SECONDARY_FRACTURE_DESCRIPTION: <style=cIsDamage>破砕</style>。長距離リフトを発射し、75%のダメージを与え、最大5回の破片を発生させる。
-SECONDARY_FAULT_LINE: 断層線
-SECONDARY_FAULT_LINE_DESCRIPTION: <style=cIsDamage>破砕</style>。断層線を作成し、それが破壊されて700%のダメージを与える。
-UTILITY_SLIPSTREAM: 次元スリップストリーム
-UTILITY_SLIPSTREAM_DESCRIPTION: 短距離テレポート。セカンダリースキルのストックを回復する。
-UTILITY_CHAINED_WORLDS: 繋がれた世界
-UTILITY_CHAINED_WORLDS_DESCRIPTION: 空間内の2点を接続し、投射物を転送するポータルを作成する。
-UTILITY_QUANTUM_RIFT: 量子リフト
-UTILITY_QUANTUM_RIFT_DESCRIPTION: 周囲の空間を歪める量子リフトを開く。
-SPECIAL_TIMELOCK: タイムロック
-SPECIAL_TIMELOCK_DESCRIPTION: エリア内の敵の時間をロックし、数秒間凍結する。
-SPECIAL_RECURSION: 再帰
-SPECIAL_RECURSION_DESCRIPTION: リフトを複製し、短時間後に再び反響させる。
-PASSIVE_RIFT_BOOST: リフトブースト
-PASSIVE_RIFT_BOOST_DESCRIPTION: リフトを通過すると移動速度が上昇する。
-PASSIVE_RIFT_FRACTURE: リフト破砕
-PASSIVE_RIFT_FRACTURE_DESCRIPTION: リフトに当たった敵は破片を蓄積し、被ダメージが増加する。
-MASTERY_SKIN_NAME: リフター：マスタリー
-BLAKE_NEM_RIFTER_NAME: ネメシスリフター
-BLAKE_NEM_RIFTER_SUBTITLE: 腐敗したリフト
+{
+    "strings": {
+        "BLAKE_RIFTER_NAME": "リフター",
+        "BLAKE_RIFTER_SUBTITLE": "リフト操者",
+        "PRIMARY_GAUNTLET_RANGED": "投射リフト",
+        "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "長距離リフトを発射し、500%のダメージを与える。",
+        "SECONDARY_FRACTURE": "破砕",
+        "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>破砕</style>。長距離リフトを発射し、75%のダメージを与え、最大5回の破片を発生させる。",
+        "SECONDARY_FAULT_LINE": "断層線",
+        "SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>破砕</style>。断層線を作成し、それが破壊されて700%のダメージを与える。",
+        "UTILITY_SLIPSTREAM": "次元スリップストリーãƒ",
+        "UTILITY_SLIPSTREAM_DESCRIPTION": "短距離テレポート。セカンダリースキルのストックを回復する。",
+        "UTILITY_CHAINED_WORLDS": "繋がれた世界",
+        "UTILITY_CHAINED_WORLDS_DESCRIPTION": "空間内の2点を接続し、投射物を転送するポータルを作成する。",
+        "UTILITY_QUANTUM_RIFT": "量子リフト",
+        "UTILITY_QUANTUM_RIFT_DESCRIPTION": "周囲の空間を歪める量子リフトを開く。",
+        "SPECIAL_TIMELOCK": "タイムロック",
+        "SPECIAL_TIMELOCK_DESCRIPTION": "エリア内の敵の時間をロックし、数秒間凍結する。",
+        "SPECIAL_RECURSION": "再帰",
+        "SPECIAL_RECURSION_DESCRIPTION": "リフトを複製し、短時間後に再び反響させる。",
+        "PASSIVE_RIFT_BOOST": "リフトブースト",
+        "PASSIVE_RIFT_BOOST_DESCRIPTION": "リフトを通過すると移動速度が上昇する。",
+        "PASSIVE_RIFT_FRACTURE": "リフト破砕",
+        "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "リフトに当たった敵は破片を蓄積し、被ダメージが増加する。",
+        "MASTERY_SKIN_NAME": "リフター:マスタリー",
+        "BLAKE_NEM_RIFTER_NAME": "ネメシスリフター",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "腐敗したリフト"
+    }
+}

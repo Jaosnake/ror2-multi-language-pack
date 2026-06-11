@@ -1,17 +1,22 @@
-NDP_DANCER_BODY_PASSIVE_NAME: 拘束テープ
-NDP_DANCER_BODY_PASSIVE_DESCRIPTION: テープが付いた敵は毎秒50%のダメージで出血し、行動不能になる。 <i>Translated by: Jaosnake. Original mod by nayDPz</i>
-PRIMARY_SLASH_NAME: 斬撃
-PRIMARY_SLASH_DESCRIPTION: 照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)
-PRIMARY_SLASH2_NAME: 切り裂き
-PRIMARY_SLASH2_DESCRIPTION: 照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)
-UTILITY_PULL_NAME: 引き寄せ
-UTILITY_PULL_DESCRIPTION: 敵を自分の方に引き寄せる。
-SPECIAL_RIBBON_LOCK_NAME: 結束テープ
-SPECIAL_RIBBON_LOCK_DESCRIPTION: 敵にテープを貼り付け、行動を封じ、出血を引き起こす。
-KEYWORD_DANCER_JAB: <style=cKeywordName>ジャブ</style><style=cSub>地上入力、前方を狙う。前方に突進し<style=cIsDamage>180%ダメージ</style>。
-KEYWORD_DANCER_DOWNTILT: <style=cKeywordName>下方向き</style><style=cSub>地上入力、下を狙う。敵を上方に打ち上げ<style=cIsDamage>200%ダメージ</style>。
-KEYWORD_DANCER_FORWARDAIR: <style=cKeywordName>前方空中</style><style=cSub>空中入力、前方を狙う。強攻撃で<style=cIsDamage>180%ダメージ</style>、敵を地面に釘付けにして気絶させ、最大<style=cIsDamage>300%ダメージ</style>。
-KEYWORD_DANCER_RIBBON: <style=cKeywordName>テープ</style><style=cSub>テープが付いた敵は毎秒<style=cIsDamage>50%ダメージ</style>で出血し、行動不能になる。
-NDP_DANCER_BODY_SUBTITLE: 死の舞踏
-NDP_DANCER_BODY_DEFAULT_SKIN_NAME: デフォルト
-NDP_DANCER_GOLD_SKIN_NAME: ゴールド
+{
+    "strings": {
+        "NDP_DANCER_BODY_NAME": "Dancer",
+        "NDP_DANCER_BODY_SUBTITLE": "死の舞踏",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "NDP_DANCER_GOLD_SKIN_NAME": "ゴールド",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "拘束テープ",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "テープが付いた敵は毎秒50%のダメージで出血し、行動不能になる。Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "斬撃",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "切り裂き",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "照準に基づいて効果が変わる近接攻撃。(詳細はマウスオーバー)Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "引き寄せ",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "敵を自分の方に引き寄せる。Original mod by nayDPz</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "結束テープ",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "敵にテープを貼り付け、行動を封じ、出血を引き起こす。Original mod by nayDPz</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>ジャブ</style><style=cSub>地上入力、前方を狙う。前方に突進し<style=cIsDamage>180%ダメージ</style>。",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>下方向き</style><style=cSub>地上入力、下を狙う。敵を上方に打ち上げ<style=cIsDamage>200%ダメージ</style>。",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>前方空中</style><style=cSub>空中入力、前方を狙う。強攻撃で<style=cIsDamage>180%ダメージ</style>、敵を地面に釘付けにして気絶させ、最大<style=cIsDamage>300%ダメージ</style>。",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>テープ</style><style=cSub>テープが付いた敵は毎秒<style=cIsDamage>50%ダメージ</style>で出血し、行動不能になる。"
+    }
+}

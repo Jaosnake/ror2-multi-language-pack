@@ -1,21 +1,23 @@
-{"ko": {
-  "ROB_HENRY_BODY_NAME": "헨리",
-  "ROB_HENRY_BODY_DESCRIPTION": "헨리는 다양한 무기를 활용하여 적을 제압하는 숙련된 전사입니다.<color=#CCD3E0>",
-  "ROB_HENRY_BODY_SUBTITLE": "선택받은 자",
-  "ROB_HENRY_BODY_LORE": "샘플 로어",
-  "ROB_HENRY_BODY_OUTRO_FLAVOR": "..그리고 그는 새로운 정체성을 찾아 떠났다.",
-  "ROB_HENRY_BODY_OUTRO_FAILURE": "..그리고 그는 영원히 백지 상태로 사라졌다.",
-  "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "얼터네이트",
-  "ROB_HENRY_BODY_PASSIVE_NAME": "헨리 패시브",
-  "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "샘플 텍스트.",
-  "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "검",
-  "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>기민함.</style> 전방을 베어 <style=cIsDamage>280% 피해</style>를 입힙니다.",
-  "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "권총",
-  "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>기민함.</style> 권총을 발사하여 <style=cIsDamage>420% 피해</style>를 입힙니다.",
-  "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "구르기",
-  "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "짧은 거리를 구르며 <style=cIsUtility>300 방어력</style>을 얻습니다. <style=cIsUtility>구르는 동안 피격되지 않습니다.</style>",
-  "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "폭탄",
-  "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "폭탄을 던져 <style=cIsDamage>1600% 피해</style>를 입힙니다.",
-  "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "헨리: 숙달",
-  "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "헨리로 몬순에서 게임을 클리어하거나 말살하십시오."
-}}
+{
+    "ko": {
+        "ROB_HENRY_BODY_NAME": "헨리",
+        "ROB_HENRY_BODY_DESCRIPTION": "헨리는 다양한 무기를 활용하여 적을 제압하는 숙련된 전사입니다.<color=#CCD3E0>",
+        "ROB_HENRY_BODY_SUBTITLE": "선택받은 자",
+        "ROB_HENRY_BODY_LORE": "샘플 로어",
+        "ROB_HENRY_BODY_OUTRO_FLAVOR": "..그리고 그는 새로운 정체성을 찾아 떠났다.",
+        "ROB_HENRY_BODY_OUTRO_FAILURE": "..그리고 그는 영원히 백지 상태로 사라졌다.",
+        "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "얼터네이트",
+        "ROB_HENRY_BODY_PASSIVE_NAME": "헨리 패시브",
+        "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "샘플 텍스트.",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "검",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>기민함.</style> 전방을 베어 <style=cIsDamage>280% 피해</style>를 입힙니다.",
+        "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "권총",
+        "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>기민함.</style> 권총을 발사하여 <style=cIsDamage>420% 피해</style>를 입힙니다.",
+        "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "구르기",
+        "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "짧은 거리를 구르며 <style=cIsUtility>300 방어력</style>을 얻습니다. <style=cIsUtility>구르는 동안 피격되지 않습니다.</style>",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "폭탄",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "폭탄을 던져 <style=cIsDamage>1600% 피해</style>를 입힙니다.",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "헨리: 숙달",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "헨리로 몬순에서 게임을 클리어하거나 말살하십시오."
+    }
+}

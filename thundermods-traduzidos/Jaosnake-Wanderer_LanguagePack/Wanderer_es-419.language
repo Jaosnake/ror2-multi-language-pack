@@ -19,7 +19,7 @@
         "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Teletranspórtate a un enemigo <style=cIsUtility>aéreo</style> cercano o marcado y ataca rápidamente causando <style=cIsDamage>2x250% + 800% de daño</style>. Gana <style=cIsDamage>penetración de armadura</style> adicional por 6 segundos.",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Primer Aliento",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teletranspórtate a un enemigo <style=cIsUtility>aéreo</style> cercano o marcado y ataca rápidamente causando <style=cIsDamage>2x250% + 800% de daño</style>. Gana <style=cIsDamage>penetración de armadura</style> adicional por 6 segundos.\n<color=#d299ff>CETRO: <style=cIsUtility>Restablece el tiempo de recarga de tu habilidad secundaria</style>. Los enemigos golpeados por <color=#FFBF66>Primer Aliento</color> pueden ser objetivos de <color=#FFBF66>Hoja Barredora</color> nuevamente.</color>",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Maestría",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Wanderer, vence el juego u oblitera en Monzón."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

@@ -1,20 +1,20 @@
 {
-    "pt-BR":  {
-                  "BLAKE_RIFTER_NAME":  "Rifter",
-                  "BLAKE_RIFTER_SUBTITLE":  "Manipulador de Fendas",
-                  "BLAKE_RIFTER_OUTRO_FLAVOR":  "..e assim ele deixou um mundo fraturado para tras.",
-                  "BLAKE_RIFTER_OUTRO_FAILURE":  "..e assim ele desapareceu de todos os reinos.",
-                  "BLAKE_RIFTER_MASTERY_SKIN_NAME":  "Rifter: Maestria",
-                  "BLAKE_RIFTER_PASSIVE_RIFT_BOOST":  "Impulso de Fenda",
-                  "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE":  "Fratura de Fenda",
-                  "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED":  "Fenda Projétil",
-                  "BLAKE_RIFTER_SECONDARY_FRACTURE":  "Fratura",
-                  "BLAKE_RIFTER_SECONDARY_FAULT_LINE":  "Linha de Falha",
-                  "BLAKE_RIFTER_UTILITY_SLIPSTREAM":  "Corrente Dimensional",
-                  "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT":  "Fenda Quântica",
-                  "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS":  "Mundos Acorrentados",
-                  "BLAKE_RIFTER_SPECIAL_TIMELOCK":  "Travá Temporal",
-                  "BLAKE_NEM_RIFTER_NAME":  "Nêmesis Rifter",
-                  "BLAKE_NEM_RIFTER_SUBTITLE":  "Fenda Corrompida"
-              }
+    "pt-BR": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_SUBTITLE": "Manipulador de Fendas",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..e assim ele deixou um mundo fraturado para tras.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..e assim ele desapareceu de todos os reinos.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Maestria",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Impulso de Fenda",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Fratura de Fenda",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Fenda Projétil",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Fratura",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Linha de Falha",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Corrente Dimensional",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Fenda Quântica",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Mundos Acorrentados",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Travá Temporal",
+        "BLAKE_NEM_RIFTER_NAME": "Nêmesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Fenda Corrompida"
+    }
 }

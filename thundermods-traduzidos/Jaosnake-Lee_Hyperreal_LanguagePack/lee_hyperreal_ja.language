@@ -1,23 +1,27 @@
-POPCORN_LEE_HYPERREAL_BODY_NAME: Lee: Hyperreal
-POPCORN_LEE_HYPERREAL_BODY_SUBTITLE: ã‚·ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³å®Œäº†â€¦æŒ‡æ®å®˜ã€ã“ã®æˆ¦ã„ã¯å‹ã¤ã€‚
-POPCORN_LEE_HYPERREAL_BODY_DESCRIPTION: Lee: Hyperreal ã¯æŠ€è¡“çš„ãªåœ°ä¸Šã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ã§ã€ç¿’å¾—ãŒé›£ã—ã„ã‚²ãƒ¼ãƒ ãƒ—ãƒ¬ã‚¤ã‚’æŒã¤ã€‚è‡ªèº«ã®ç”Ÿå­˜ã‚’çŠ ç‰²ã«ã—ã¦ã€ãƒ€ãƒ¡ãƒ¼ã‚¸ã«å®Œå…¨ã«ç‰¹åŒ–ã—ã¦ã„ã‚‹ã€‚
-POPCORN_LEE_HYPERREAL_BODY_LORE: ã€Œãƒ†ã‚¹ãƒˆã¯é †èª¿ã‹ï¼Ÿã€</i>
-POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Lee: Hyperreal: Mastery
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME: Lee: Hyperreal: Real
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with Transcendence, or roll 5% chance from a Medium or higher chest.
-POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME: Lee: Hyperreal: Real
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME: Lee: Hyperreal: Scarlet
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon without clock items and bleed, or roll 5% chance from a Legendary chest.
-POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME: Lee: Hyperreal: Scarlet
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Yellow VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with 5+ Boss items, or roll 2% chance from any chest.
-POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Yellow VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Green VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Monsoon with 15+ healing items, or roll 2% chance from any chest.
-POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Green VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Pink VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, kill the Teleporter boss with End of Times at max power, or roll 2% chance from any chest.
-POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Pink VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME: Lee: Hyperreal: Violet VFX
-ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION: As Lee: Hyperreal, beat the game on Eclipse 8, or roll 1% chance from a Legendary chest.
-POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME: Lee: Hyperreal: Violet VFX
+{
+    "ja": {
+        "POPCORN_LEE_HYPERREAL_BODY_NAME": "Lee: Hyperreal",
+        "POPCORN_LEE_HYPERREAL_BODY_SUBTITLE": "シミュレーション完了…指揮官、この戦いは勝つ。",
+        "POPCORN_LEE_HYPERREAL_BODY_DESCRIPTION": "Lee: Hyperreal は技術的な地上キャラクターで、習得が難しいゲームプレイを持つ。自身の生存を犠牲にして、ダメージに完全に特化している。",
+        "POPCORN_LEE_HYPERREAL_BODY_LORE": "「テストは順調か?」</i>",
+        "POPCORN_LEE_HYPERREAL_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Lee: Hyperreal: Mastery",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_NAME": "Lee: Hyperreal: Real",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_ACHIEVEMENT_DESCRIPTION": "As Lee: Hyperreal, beat the game on Monsoon with Transcendence, or roll 5% chance from a Medium or higher chest.",
+        "POPCORN_LEE_HYPERREAL_BODY_BLUESKIN_UNLOCKABLE_NAME": "Lee: Hyperreal: Real",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_NAME": "Lee: Hyperreal: Scarlet",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_SCARLET_ACHIEVEMENT_DESCRIPTION": "As Lee: Hyperreal, beat the game on Monsoon without clock items and bleed, or roll 5% chance from a Legendary chest.",
+        "POPCORN_LEE_HYPERREAL_BODY_SCARLET_UNLOCKABLE_NAME": "Lee: Hyperreal: Scarlet",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_NAME": "Lee: Hyperreal: Yellow VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_ACHIEVEMENT_DESCRIPTION": "As Lee: Hyperreal, beat the game on Monsoon with 5+ Boss items, or roll 2% chance from any chest.",
+        "POPCORN_LEE_HYPERREAL_BODY_YELLOW_VFX_UNLOCKABLE_NAME": "Lee: Hyperreal: Yellow VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_NAME": "Lee: Hyperreal: Green VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_ACHIEVEMENT_DESCRIPTION": "As Lee: Hyperreal, beat the game on Monsoon with 15+ healing items, or roll 2% chance from any chest.",
+        "POPCORN_LEE_HYPERREAL_BODY_GREEN_VFX_UNLOCKABLE_NAME": "Lee: Hyperreal: Green VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_NAME": "Lee: Hyperreal: Pink VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_ACHIEVEMENT_DESCRIPTION": "As Lee: Hyperreal, kill the Teleporter boss with End of Times at max power, or roll 2% chance from any chest.",
+        "POPCORN_LEE_HYPERREAL_BODY_PINK_VFX_UNLOCKABLE_NAME": "Lee: Hyperreal: Pink VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_NAME": "Lee: Hyperreal: Violet VFX",
+        "ACHIEVEMENT_POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_ACHIEVEMENT_DESCRIPTION": "As Lee: Hyperreal, beat the game on Eclipse 8, or roll 1% chance from a Legendary chest.",
+        "POPCORN_LEE_HYPERREAL_BODY_VIOLET_VFX_UNLOCKABLE_NAME": "Lee: Hyperreal: Violet VFX"
+    }
+}

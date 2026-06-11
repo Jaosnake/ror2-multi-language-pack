@@ -1,22 +1,19 @@
-BOG_DEPUTY_BODY_NAME: å‰¯è­¦é•¿
-BOG_DEPUTY_BODY_SUBTITLE: é—ªç”µæ­£ä¹‰
-BOG_DEPUTY_BODY_DESCRIPTION: å‰¯è­¦é•¿æ˜¯ä¸€åè¶…æ¿€è¿›çš„æžé€Ÿæ¶é­”ï¼Œç”¨å¥¹çš„åŒæŒå·¦è½®æ‰‹æžªå’Œè‡´å‘½è¸¢æŠ€æ¥ä¼¸å¼ æ­£ä¹‰ã€‚
-
-BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME: é»˜è®¤
-BOG_DEPUTY_BODY_PASSIVE_NAME: ä¸æ‡ˆè¿½å‡»
-BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION: å‰¯è­¦é•¿å¯ä»¥å‘ä»»ä½•æ–¹å‘å†²åˆºã€‚ç”¨æŠ€èƒ½å‡»ä¸­æ•Œäººä¼šèŽ·å¾—å¯å åŠ çš„<style=cIsUtility>ç§»åŠ¨é€Ÿåº¦</style>å¢žç›Šã€‚
-
-PRIMARY_SHOOT_NAME: ç²¾å‡†å°„å‡»
-PRIMARY_SHOOT_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚ç”¨ä¸­è·ç¦»å·¦è½®æ‰‹æžªå°„å‡»ï¼Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
-
-SECONDARY_SLING_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚æŠ•æŽ·ä¸¤æŠŠå·¦è½®æ‰‹æžªã€‚<style=cIsDamage>çœ©æ™•</style>ã€‚è·³è·ƒå¹¶å‘èº«ä¸‹çš„æ•Œäººå°„å‡»ï¼Œé€ æˆ<style=cIsDamage>6x100%ä¼¤å®³</style>ã€‚
-
-UTILITY_SHOOTINGSTAR_DESCRIPTION: <style=cIsUtility>çµå·§</style>ã€‚å°„å‡ºä¸€å‘ç²¾å‡†çš„å­å¼¹ï¼Œå¯ä»¥ç•¥å¾®å‘ä¸Šè°ƒæ•´è§’åº¦ã€‚é€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
-
-SPECIAL_SKULLBREAKER_DESCRIPTION: <style=cIsDamage>800%ä¼¤å®³</style>ã€‚<style=cIsUtility>å‡»æ€é‡ç½®ä½ çš„è¾…åŠ©æŠ€èƒ½å†·å´æ—¶é—´</style>ã€‚
-
-SPECIAL_BULLETHEAVEN_DESCRIPTION: é«˜é«˜è·ƒå…¥ç©ºä¸­ï¼Œç–¯ç‹‚å‘ä¸‹å€¾æ³»å­å¼¹ï¼Œé€ æˆ<style=cIsDamage>150%ä¼¤å®³</style>ã€‚
-
-MASTERY_SKIN_NAME: å‰¯è­¦é•¿ï¼šç²¾é€š
-BOG_DEPUTY_BODY_OUTRO_FLAVOR: ..äºŽæ˜¯å¥¹ç¦»åŽ»äº†ï¼Œåœ¨é›·é¸£èˆ¬çš„æŽŒå£°ä¸­ã€‚
-BOG_DEPUTY_BODY_OUTRO_FAILURE: ..äºŽæ˜¯å¥¹æ¶ˆå¤±äº†ï¼Œå¥¹çš„è¡¨æ¼”ç»ˆäºŽè½ä¸‹äº†å¸·å¹•ã€‚
+{
+    "zh-CN": {
+        "BOG_DEPUTY_BODY_NAME": "副警长",
+        "BOG_DEPUTY_BODY_SUBTITLE": "闪电正义",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "副警长是一名超激进的极速恶魔,用她的双持左轮手枪和致命踢技来伸张正义。",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "默认",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "不懈追击",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "副警长可以向任何方向冲刺。用技能击中敌人会获得可叠加的<style=cIsUtility>移动速度</style>增益。",
+        "PRIMARY_SHOOT_NAME": "精准射击",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>灵巧</style>。用中距离左轮手枪射击,造成<style=cIsDamage>150%伤害</style>。",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>灵巧</style>。投掷两把左轮手枪。<style=cIsDamage>眩晕</style>。跳跃并向身下的敌人射击,造成<style=cIsDamage>6x100%伤害</style>。",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>灵巧</style>。射出一发精准的子弹,可以略微向上调整角度。造成<style=cIsDamage>150%伤害</style>。",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800%伤害</style>。<style=cIsUtility>击杀重置你的辅助技能冷却时间</style>。",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "高高跃入空中,疯狂向下倾泻子弹,造成<style=cIsDamage>150%伤害</style>。",
+        "MASTERY_SKIN_NAME": "副警长:精通",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..于是她离去了,在雷鸣般的掌声中。",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..于是她消失了,她的表演终于落下了帷幕。"
+    }
+}

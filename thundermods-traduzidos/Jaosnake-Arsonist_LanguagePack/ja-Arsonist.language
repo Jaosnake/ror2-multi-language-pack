@@ -22,20 +22,20 @@
         "POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_NAME": "浄化",
         "POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_DESCRIPTION": "<style=cIsUtility>敏捷。熱量。</style>周囲のエリアを<style=cIsDamage>着火</style>させ、近くの敵に<style=cIsDamage>50%</style>ダメージを与え、他の状態効果を除去する。小さな速度上昇を付与。Original mod by PopcornFactory</i>",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "Masochism",
-        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>敏捷。熱量。</style><style=cIsDamage>着火</style>によるダメージが<style=cIsHealing>回復</style>に変わる（6.5秒間）。攻撃速度が<style=cIsDamage>125%</style>上昇。Original mod by PopcornFactory</i>",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>敏捷。熱量。</style><style=cIsDamage>着火</style>によるダメージが<style=cIsHealing>回復</style>に変わる(6.5秒間)。攻撃速度が<style=cIsDamage>125%</style>上昇。Original mod by PopcornFactory</i>",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "マゾヒズム",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "<style=cKeywordName>予測</style>限界に達すると、定期的に自分にダメージを与え、代わりに範囲<style=cIsHealing>ライフスティール</style>と火傷を得る。最大10秒後、<style=cIsDamage>爆発</style>、その後<style=cIsUtility>過熱</style>。Original mod by PopcornFactory</i>",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "遺恨",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "<style=cKeywordName>予測</style>限界に達すると、移動が速くなり、<style=cKeywordName>二重射撃</style>と<style=cIsHealing>ライフスティール</style>を得る。最大10秒後、<style=cIsDamage>爆発</style>、その後<style=cIsUtility>過熱</style>。Original mod by PopcornFactory</i>",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Dante's Rebuke",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "強力なビームを発射し<style=cIsDamage>140%ダメージ</style>を与える。目標に近いほど着火確率が上昇。2秒以上溜めると、離した時に最終ビームを発射し<style=cIsDamage>150%ダメージ</style>。Original mod by PopcornFactory</i>",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>予測</style>100の熱量を失うか得るごとに、アーソニストは予測チャージを1获得；5チャージ獲得後、マゾヒズムを発動可能；追加チャージはダメージと持続時間を増加；終了時に全チャージを消費。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>予測</style>100の熱量を失うか得るごとに、アーソニストは予測チャージを1获得;5チャージ獲得後、マゾヒズムを発動可能;追加チャージはダメージと持続時間を増加;終了時に全チャージを消費。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>爆発</style>アーソニストが爆発し、蓄積された予測チャージ数×<style=cIsDamage>150%ダメージ</style>。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>ライフスティール</style>アーソニストはマゾヒズム発動中、与ダメージの<style=cIsHealing>18%</style>を回復。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>ライフスティール</style>アーソニストは遺恨発動中、与ダメージの<style=cIsHealing>5%</style>を回復。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>過熱：マゾヒズム</style>アーソニストが過剰な熱量蓄積によりマゾヒズムを離脱した場合、EX過熱が適用され、移動速度とダメージが70%に低下。キャンセルまたはスキルを完了させると過熱が適用され、攻撃速度が50%に低下。",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "過熱！",
-        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...！",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱：EX！"
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>過熱:マゾヒズム</style>アーソニストが過剰な熱量蓄積によりマゾヒズムを離脱した場合、EX過熱が適用され、移動速度とダメージが70%に低下。キャンセルまたはスキルを完了させると過熱が適用され、攻撃速度が50%に低下。",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "過熱!",
+        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱:EX!"
     }
 }

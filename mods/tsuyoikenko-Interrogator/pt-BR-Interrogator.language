@@ -6,17 +6,11 @@
         "KENKO_INTERROGATOR_OUTRO_FAILURE": "..e então ele desapareceu, punido por seus crimes.",
         "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Padrão",
         "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogador: Especialista",
-
         "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormento",
-
         "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Golpe Brutal",
-
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Refrega",
-
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsificar",
-
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Condenar",
-
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Punir"
     }
 }

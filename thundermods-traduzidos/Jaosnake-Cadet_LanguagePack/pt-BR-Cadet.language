@@ -5,28 +5,20 @@
         "KENKO_CADET_SUBTITLE": "Atirador Versátil",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "Padrão",
         "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
-
         "KENKO_CADET_PRIMARY_SMG_NAME": "Tempestade de Balas",
         "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um laser para <style=cIsDamage>60% de dano</style>. Requer <style=cIsUtility>recarga</style> após 20 balas.",
-
         "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marés Devastadoras",
         "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma rajada para <style=cIsDamage>3x100% de dano</style>. Requer <style=cIsUtility>recarga</style> após 10 projéteis.",
-
         "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plano B",
         "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispare seu lança-granadas leve para <style=cIsDamage>400% de dano</style>.",
-
         "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plano C",
         "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Arremesse sua arma causando <style=cIsDamage>250% a 750% de dano</style> baseado na munição atual.",
-
         "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposição Deslizante",
         "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Deslize em uma direção, <style=cIsUtility>recarregando</style> sua arma instantaneamente.",
-
         "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rolagem Repositora",
         "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Role em uma direção, <style=cIsUtility>recarregando</style> sua arma instantaneamente.",
-
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plano A",
         "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma rajada pesada de pellets para <style=cIsDamage>32x150% de dano</style>.",
-
         "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
         "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrique <style=cIsDamage>dois drones</style> que procuram inimigos próximos causando <style=cIsDamage>2x370% de dano</style>."
     }

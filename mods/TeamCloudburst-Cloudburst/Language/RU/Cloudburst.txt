@@ -1,7 +1,6 @@
 {
-    strings:
-    {
-    "EXPANSION_CLOUDBURST_NAME" : "Cloudburst",
-    "EXPANSION_CLOUDBURST_DESCRIPTION" : "Добавляет в игру контент из мода 'Cloudburst.'",
+    "strings": {
+        "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+        "EXPANSION_CLOUDBURST_DESCRIPTION": "Добавляет в игру контент из мода 'Cloudburst.'"
     }
 }

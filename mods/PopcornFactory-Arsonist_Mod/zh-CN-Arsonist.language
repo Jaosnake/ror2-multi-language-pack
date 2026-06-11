@@ -15,13 +15,13 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "受虐狂",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "怨恨",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Dante's Rebuke",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>预判</style>每失去和/或获得100热量，纵火者获得1层预判；获得5层后，他可激活受虐狂；额外层数增加伤害和持续时间；所有层数在结束时消耗。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>引爆</style>纵火者爆炸，造成<style=cIsDamage>150%伤害</style>乘以累积的预判层数。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>预判</style>每失去和/或获得100热量,纵火者获得1层预判;获得5层后,他可激活受虐狂;额外层数增加伤害和持续时间;所有层数在结束时消耗。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>引爆</style>纵火者爆炸,造成<style=cIsDamage>150%伤害</style>乘以累积的预判层数。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>生命偷取</style>纵火者在受虐狂激活时回复造成伤害的<style=cIsHealing>18%</style>。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>生命偷取</style>纵火者在怨恨激活时回复造成伤害的<style=cIsHealing>5%</style>。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>过热：受虐狂</style>如果纵火者因热量积累过多而退出受虐狂，则应用EX过热，将其移动速度和伤害降低至70%。取消或让技能自然结束会应用过热，将其攻击速度降低至50%。",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "过热！",
-        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...！",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "过热：EX！"
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>过热:受虐狂</style>如果纵火者因热量积累过多而退出受虐狂,则应用EX过热,将其移动速度和伤害降低至70%。取消或让技能自然结束会应用过热,将其攻击速度降低至50%。",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "过热!",
+        "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "过热:EX!"
     }
 }

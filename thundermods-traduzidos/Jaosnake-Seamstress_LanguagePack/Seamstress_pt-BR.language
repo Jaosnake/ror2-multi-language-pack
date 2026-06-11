@@ -30,9 +30,9 @@
         "KENKO_SEAMSTRESS_SPECIAL_FIRE_DESCRIPTION": "<style=cIsHealth>15% de Vida</style>. Dispara uma tesoura <color=#9B3737>Simbiótica</color> causando <style=cIsDamage>400% de dano</style>. Pegue as tesouras <color=#9B3737>Simbióticas</color> para cortar causando <style=cIsDamage>200% de dano</style>.",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Devastação",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% de Vida</style>. Dispara uma tesoura <color=#9B3737>Simbiótica</color> causando <style=cIsDamage>400% de dano</style>. Pegue as tesouras <color=#9B3737>Simbióticas</color> para cortar causando <style=cIsDamage>200% de dano</style>.\n<color=#d299ff>CETRO: Sua arma <color=#9B3737>Simbiótica</color> tem apenas <style=cIsUtility>1,5 segundo de tempo de coleta</style>.</color>",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Costureira: Maestria",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Como Costureira, vença o jogo ou oblitere na Monção.",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Corvo: Desbloqueado",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Como Costureira, vença o jogo ou oblitere no Eclipse ou superior."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Eclipse or higher."
     }
 }

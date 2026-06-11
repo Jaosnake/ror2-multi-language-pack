@@ -1,16 +1,16 @@
 {
     "zh-CN": {
-        "BASTIAN_NAME": "\u5df4\u65af\u8482\u5b89",
-        "BASTIAN_SUBTITLE": "\u7ffb\u65b0\u7ffb\u8bd1\u673a\u5668\u4eba",
-        "BASTIAN_NAME_EPIC": "\u7ffb\u8bd1\u5b98\u5df4\u65af\u8482\u5b89\uff0c4.I.N.K.\u578b\u53f7",
-        "BASTIAN_OUTRO": "..\u4e8e\u662f\u4ed6\u79bb\u5f00\u4e86\uff0c\u4ed6\u7684\u529f\u80fd\u7ec8\u4e8e\u5b8c\u6210\u4e86\u3002",
-        "BASTIAN_FAIL": "..\u4e8e\u662f\u4ed6\u88ab\u505c\u7528\uff0c\u4ed6\u7684\u8bb0\u5fc6\u88ab\u6c38\u8fdc\u64e6\u53bb\u3002",
-        "BASTIAN_M1": "\u79bb\u5b50\u6325\u51fb",
-        "BASTIAN_M2": "\u5fae\u578b\u5b50\u5f39",
-        "BASTIAN_UTIL": "\u7eb3\u7c73\u5f39\u7c27",
-        "BASTIAN_SPEC": "\u5efa\u7b51\u5e08\u7206\u88c2",
-        "BASTIAN_SPEC_KEYWORD": "\u7279\u6b8a",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "\u9ed8\u8ba4",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "\u7cbe\u901a"
+        "BASTIAN_NAME": "巴斯蒂安",
+        "BASTIAN_SUBTITLE": "翻新翻译机器人",
+        "BASTIAN_NAME_EPIC": "翻译官巴斯蒂安,4.I.N.K.型号",
+        "BASTIAN_OUTRO": "..于是他离开了,他的功能终于完成了。",
+        "BASTIAN_FAIL": "..于是他被停用,他的记忆被永远擦去。",
+        "BASTIAN_M1": "离子挥击",
+        "BASTIAN_M2": "微型子弹",
+        "BASTIAN_UTIL": "纳米弹簧",
+        "BASTIAN_SPEC": "建筑师爆裂",
+        "BASTIAN_SPEC_KEYWORD": "特殊",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "默认",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "精通"
     }
 }

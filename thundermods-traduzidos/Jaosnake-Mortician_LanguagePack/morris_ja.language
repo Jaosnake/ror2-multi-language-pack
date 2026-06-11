@@ -1,27 +1,25 @@
-BOG_MORRIS_BODY_NAME: ãƒ¢ãƒ¼ãƒ†ã‚£ã‚·ãƒ£ãƒ³
-BOG_MORRIS_BODY_SUBTITLE: ã‚¢ãƒ³ãƒ‡ãƒƒãƒ‰
-BOG_MORRIS_BODY_DESCRIPTION: ãƒ¢ãƒ¼ãƒ†ã‚£ã‚·ãƒ£ãƒ³ã¯é…ã„ãªãŒã‚‰ã‚‚é ‘ä¸ˆãªè¿‘æŽ¥ãƒã‚¯ãƒ­ãƒžãƒ³ã‚µãƒ¼ã§ã‚ã‚Šã€ã‚¢ãƒ³ãƒ‡ãƒƒãƒ‰ã®è»å›£ã§é ˜åŸŸã‚’åˆ¶åœ§ã™ã‚‹ã“ã¨ã«é•·ã‘ã¦ã„ã‚‹ã€‚
-
-BOG_MORRIS_BODY_DEFAULT_SKIN_NAME: ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
-BOG_MORRIS_BODY_OUTRO_FLAVOR: ..ãã—ã¦å½¼ã¯åŽ»ã£ã¦ã„ã£ãŸã€ãã®é™°é¬±ãªç¾©å‹™ã¯ã¾ã æžœãŸã•ã‚Œãšã«ã€‚
-BOG_MORRIS_BODY_OUTRO_FAILURE: ..ãã—ã¦å½¼ã¯æ¶ˆãˆåŽ»ã£ãŸã€ã¤ã„ã«æœ›ã‚“ã§ã„ãŸå¹³å’ŒãŒè¨ªã‚ŒãŸã€‚
-BOG_MORRIS_BODY_PASSIVE_NAME: é­‚ã®æ§ã’ç‰©
-BOG_MORRIS_BODY_PASSIVE_DESCRIPTION: ã‚°ãƒ¼ãƒ«ãŒå€’ã•ã‚Œã‚‹ã¨<style=cIsUtility>ã‚­ãƒ«æ™‚åŠ¹æžœã‚’ç™ºå‹•</style>ã™ã‚‹ã€‚
-
-PRIMARY_SHOVEL_NAME: ã‚·ãƒ£ãƒ™ãƒ«ã‚¹ãƒˆãƒ©ã‚¤ã‚¯
-PRIMARY_SHOVEL_DESCRIPTION: ã‚·ãƒ£ãƒ™ãƒ«ã‚’æŒ¯ã‚Šå›žã—ã¦<style=cIsDamage>800%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚ã‚·ãƒ£ãƒ™ãƒ«ã§ã‚°ãƒ¼ãƒ«ã‚„å¢“çŸ³ã«å‘½ä¸­ã™ã‚‹ã¨<style=cIsUtility>æ‰“ã¡ä¸Šã’</style>ãŒç™ºç”Ÿã—ã€<style=cIsDamage>350%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-SECONDARY_GHOUL_NAME: æ­»è€…ã‚’è˜‡ã‚‰ã›ã‚ˆ
-SECONDARY_GHOUL_DESCRIPTION: <style=cIsUtility>éœŠçš„çµ†</style>ã€‚å‰æ–¹ã®åœ°é¢ã«ã‚°ãƒ¼ãƒ«ã‚’å¬å–šã™ã‚‹ã€‚ã‚°ãƒ¼ãƒ«ã¯å™›ã¿ã¤ãã§<style=cIsDamage>150%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã€<style=cIsDamage>ãƒšã‚¹ãƒˆ</style>ã®èƒ†æ±ã‚’åãå‡ºã—ã¦<style=cIsDamage>100%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-UTILITY_LANTERN_NAME: ç”Ÿè´„
-UTILITY_LANTERN_DESCRIPTION: <style=cIsHealth>æ¨™çš„ã®ã‚°ãƒ¼ãƒ«ã‚’çˆ†ç™º</style>ã•ã›ã€<style=cIsDamage>700%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã€<style=cIsHealing>æœ€å¤§HPã®15%ã‚’å›žå¾©</style>ã™ã‚‹ã€‚
-
-SPECIAL_TOMBSTONE_NAME: å¢“çŸ³
-SPECIAL_TOMBSTONE_DESCRIPTION: å¢“çŸ³ã‚’å»ºç«‹ã—ã€<style=cIsUtility>10ç§’</style>ã”ã¨ã«ã‚°ãƒ¼ãƒ«ã‚’ç”Ÿã¿å‡ºã™ã€‚ã‚°ãƒ¼ãƒ«ãŒå€’ã•ã‚Œã‚‹ã¨ã€å¢“çŸ³ã¯<style=cIsDamage>å¾©è®ã®é­‚</style><style=cIsUtility>çˆ†ç™º</style>ã‚’ç™ºç”Ÿã•ã›ã€è¿‘ãã®æ•µã«<style=cIsDamage>350%ã®ãƒ€ãƒ¡ãƒ¼ã‚¸</style>ã‚’ä¸Žãˆã‚‹ã€‚
-
-BOG_GHOUL_BODY_NAME: ã‚°ãƒ¼ãƒ«
-BOG_TOMBSTONE_BODY_NAME: å¢“çŸ³
-BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME: Mortician: Mastery
-BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC: As Mortician, beat the game or obliterate on Monsoon.
-BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME: Mortician: Mastery
+{
+    "ja": {
+        "BOG_MORRIS_BODY_NAME": "モーティシャン",
+        "BOG_MORRIS_BODY_SUBTITLE": "アンデッド",
+        "BOG_MORRIS_BODY_DESCRIPTION": "モーティシャンは遅いながらも頑丈な近接ネクロマンサーであり、アンデッドの軍団で領域を制圧することに長けている。",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "デフォルト",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..そして彼は去っていった、その陰鬱な義務はまだ果たされずに。",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..そして彼は消え去った、ついに望んでいた平和が訪れた。",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "魂の捧げ物",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "グールが倒されると<style=cIsUtility>キル時効果を発動</style>する。",
+        "PRIMARY_SHOVEL_NAME": "シャベルストライク",
+        "PRIMARY_SHOVEL_DESCRIPTION": "シャベルを振り回して<style=cIsDamage>800%のダメージ</style>を与える。シャベルでグールや墓石に命中すると<style=cIsUtility>打ち上げ</style>が発生し、<style=cIsDamage>350%のダメージ</style>を与える。",
+        "SECONDARY_GHOUL_NAME": "死者を蘇らせよ",
+        "SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>霊的絆</style>。前方の地面にグールを召喚する。グールは噛みつきで<style=cIsDamage>150%のダメージ</style>、<style=cIsDamage>ペスト</style>の胆汁を吐き出して<style=cIsDamage>100%のダメージ</style>を与える。",
+        "UTILITY_LANTERN_NAME": "生贄",
+        "UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>標的のグールを爆発</style>させ、<style=cIsDamage>700%のダメージ</style>を与え、<style=cIsHealing>最大HPの15%を回復</style>する。",
+        "SPECIAL_TOMBSTONE_NAME": "墓石",
+        "SPECIAL_TOMBSTONE_DESCRIPTION": "墓石を建立し、<style=cIsUtility>10秒</style>ごとにグールを生み出す。グールが倒されると、墓石は<style=cIsDamage>復讐の魂</style><style=cIsUtility>爆発</style>を発生させ、近くの敵に<style=cIsDamage>350%のダメージ</style>を与える。",
+        "BOG_GHOUL_BODY_NAME": "グール",
+        "BOG_TOMBSTONE_BODY_NAME": "墓石",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery"
+    }
+}
