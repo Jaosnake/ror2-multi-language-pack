@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Assassin_LanguagePack",
-    "description": "Multi-language translation pack for Assassin by HasteReapr.",
+    "description": "Multi-language translation pack for Assassin by HasteReapr - translated by Jaosnake",
     "dependencies": [
         "HasteReapr-AssassinMod-2.2.4",
         "RiskofThunder-R2API_Language-1.1.0"

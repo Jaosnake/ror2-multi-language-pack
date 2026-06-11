@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Red_Alert_LanguagePack",
-    "description": "Multi-language translation pack for Red_Alert by TheTimesweeper.",
+    "description": "Multi-language translation pack for Red_Alert by TheTimesweeper - translated by Jaosnake",
     "dependencies": [
         "TheTimesweeper-Red_Alert-3.3.7",
         "RiskofThunder-R2API_Language-1.1.0"

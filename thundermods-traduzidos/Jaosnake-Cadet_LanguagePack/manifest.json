@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Cadet_LanguagePack",
-    "description": "Multi-language translation pack for Cadet by tsuyoikenko.",
+    "description": "Multi-language translation pack for Cadet by tsuyoikenko - translated by Jaosnake",
     "dependencies": [
         "tsuyoikenko-Cadet-1.1.10",
         "RiskofThunder-R2API_Language-1.1.0"

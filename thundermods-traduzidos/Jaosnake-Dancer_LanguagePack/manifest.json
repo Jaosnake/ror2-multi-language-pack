@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Dancer_LanguagePack",
-    "description": "Multi-language translation pack for Dancer by nayDPz.",
+    "description": "Multi-language translation pack for Dancer by nayDPz - translated by Jaosnake",
     "dependencies": [
         "nayDPz-Dancer-0.10.1",
         "RiskofThunder-R2API_Language-1.1.0"

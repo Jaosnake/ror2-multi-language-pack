@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Spearman_LanguagePack",
-    "description": "Multi-language translation pack for Spearman by SaucySquash.",
+    "description": "Multi-language translation pack for Spearman by SaucySquash - translated by Jaosnake",
     "dependencies": [
         "SaucySquash-Spearman-1.0.7",
         "RiskofThunder-R2API_Language-1.1.0"

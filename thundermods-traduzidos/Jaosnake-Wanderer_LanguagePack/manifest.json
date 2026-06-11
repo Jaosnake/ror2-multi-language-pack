@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Wanderer_LanguagePack",
-    "description": "Multi-language translation pack for Wanderer by tsuyoikenko.",
+    "description": "Multi-language translation pack for Wanderer by tsuyoikenko - translated by Jaosnake",
     "dependencies": [
         "tsuyoikenko-Wanderer-0.8.9",
         "RiskofThunder-R2API_Language-1.1.0"

@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Pathfinder_LanguagePack",
-    "description": "Multi-language translation pack for Pathfinder by Bog.",
+    "description": "Multi-language translation pack for Pathfinder by Bog - translated by Jaosnake",
     "dependencies": [
         "Bog-Pathfinder-0.5.3",
         "RiskofThunder-R2API_Language-1.1.0"

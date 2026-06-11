@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Driver_LanguagePack",
-    "description": "Multi-language translation pack for Driver by public_ParticleSystem.",
+    "description": "Multi-language translation pack for Driver by public_ParticleSystem - translated by Jaosnake",
     "dependencies": [
         "public_ParticleSystem-Driver-2.3.5",
         "RiskofThunder-R2API_Language-1.1.0"
