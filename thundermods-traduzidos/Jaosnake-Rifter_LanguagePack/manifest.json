@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Rifter_LanguagePack",
-    "description": "Multi-language translation pack for Rifter by toastyTeam.",
+    "description": "Multi-language translation pack for Rifter by toastyTeam - translated by Jaosnake",
     "dependencies": [
         "toastyTeam-Rifter-1.0.3",
         "RiskofThunder-R2API_Language-1.1.0"

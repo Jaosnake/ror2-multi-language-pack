@@ -1,11 +1,11 @@
 {
     "author": "Jaosnake",
     "name": "Robomando_LanguagePack",
-    "description": "Multi-language translation pack for Robomando by The_Bozos.",
+    "description": "Multi-language translation pack for Robomando by The_Bozos - translated by Jaosnake",
     "dependencies": [
         "The_Bozos-RobomandoMod-1.0.17",
         "RiskofThunder-R2API_Language-1.1.0"
     ],
-    "version_number": "1.0.3",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

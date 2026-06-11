@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Seamstress_LanguagePack",
-    "description": "Multi-language translation pack for Seamstress by tsuyoikenko.",
+    "description": "Multi-language translation pack for Seamstress by tsuyoikenko - translated by Jaosnake",
     "dependencies": [
         "tsuyoikenko-Seamstress-1.6.10",
         "RiskofThunder-R2API_Language-1.1.0"

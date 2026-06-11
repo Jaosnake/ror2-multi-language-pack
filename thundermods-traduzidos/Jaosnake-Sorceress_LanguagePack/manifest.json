@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Sorceress_LanguagePack",
-    "description": "Multi-language translation pack for Sorceress by Frosthex.",
+    "description": "Multi-language translation pack for Sorceress by Frosthex - translated by Jaosnake",
     "dependencies": [
         "Frosthex-SorceressMod-0.7.5",
         "RiskofThunder-R2API_Language-1.1.0"

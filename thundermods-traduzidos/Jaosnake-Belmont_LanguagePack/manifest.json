@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Belmont_LanguagePack",
-    "description": "Multi-language translation pack for Belmont by rob.",
+    "description": "Multi-language translation pack for Belmont by rob - translated by Jaosnake",
     "dependencies": [
         "rob-Belmont-1.0.8",
         "RiskofThunder-R2API_Language-1.1.0"
