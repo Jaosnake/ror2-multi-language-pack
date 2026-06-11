@@ -1,0 +1,12 @@
+{
+    "es-ES": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "El hereje <style=cIsUtility> se mueve más rápido</style> y puede <style=cIsUtility>batir sus alas dos veces</style> para obtener altura adicional mientras está en el aire.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marca de herejía",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Obtén un aumento masivo de estadísticas... <color=#FF7F7F>PERO tu salud decae con el tiempo.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumente <style=cIsHealing>health</style> en <style=cIsHealing>400%</style> y <style=cIsDamage>damage</style> en <style=cIsDamage>50%</style>. Reducir <style=cIsHealing>regeneración de salud base</style> a</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Carga una bola de cuchillas que inflige repetidamente <style=cIsDamage>175% de daño</style>. Después de un retraso, explota y <style=cIsDamage>root</style> todos los enemigos para <style=cIsDamage>700% de daño</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Infligir daño agrega una acumulación de <style=cIsDamage>Ruin</style>. Activar la habilidad <style=cIsDamage> detona todas las acumulaciones de Ruina</style> a un alcance ilimitado, causando <style=cIsDamage>300% de daño</style> más <style=cIsDamage>120% de daño</style> por acumulación de <style=cIsDamage>Ruina</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Escapa de la luna como el superviviente secreto."
+    }
+}

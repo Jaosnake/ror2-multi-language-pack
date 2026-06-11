@@ -1,11 +1,11 @@
 {
-    "author":  "Jaosnake",
-    "name":  "Sandswept_LanguagePack",
-    "description":  "Translation pack (multi-language, excluding pt-BR) for Sandswept by SandsweptTeam. pt-BR translated manually by Jaosnake - available separately.",
-    "dependencies":  [
-                         "SandsweptTeam-Sandswept-1.4.4",
-                         "RiskofThunder-R2API_Language-1.1.0"
-                     ],
-    "version_number": "1.0.1",
-    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
+    "author": "Jaosnake",
+    "name": "Sandswept_LanguagePack",
+    "description": "Translation pack (multi-language, excluding pt-BR) for Sandswept by SandsweptTeam. pt-BR translated manually by Jaosnake - available separately.",
+    "dependencies": [
+        "SandsweptTeam-Sandswept-1.4.4",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

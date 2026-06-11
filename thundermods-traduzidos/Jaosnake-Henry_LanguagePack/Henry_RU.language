@@ -1,5 +1,5 @@
 {
-    "ru": {
+    "RU": {
         "ROB_HENRY_BODY_NAME": "Генри",
         "ROB_HENRY_BODY_DESCRIPTION": "Генри — умелый боец, использующий широкий арсенал оружия для уничтожения врагов.<color=#CCD3E0>",
         "ROB_HENRY_BODY_SUBTITLE": "Избранный",
@@ -18,6 +18,6 @@
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Бомба",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Бросить бомбу, наносящую <style=cIsDamage>1600% урона</style>.",
         "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Играя за Генри, пройдите игру или уничтожьте карту «Муссон»."
     }
 }

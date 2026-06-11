@@ -1,8 +1,8 @@
 {
     "de": {
-        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_NAME": "Heinrich",
         "ROB_HENRY_BODY_SUBTITLE": "Der Auserwählte",
-        "ROB_HENRY_BODY_LORE": "Beispiel-Lore",
+        "ROB_HENRY_BODY_LORE": "Beispielkunde",
         "ROB_HENRY_BODY_OUTRO_FLAVOR": "..und so ging er, auf der Suche nach einer neuen Identität.",
         "ROB_HENRY_BODY_OUTRO_FAILURE": "..und so verschwand er, für immer ein unbeschriebenes Blatt.",
         "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternativ",
@@ -17,7 +17,7 @@
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bombe",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Wirf eine Bombe für <style=cIsDamage>1600% Schaden</style>.",
         "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Schlagen Sie als Henry das Spiel oder vernichten Sie Monsun.",
         "ROB_HENRY_BODY_DESCRIPTION": "Henry ist ein geschickter Kämpfer, der ein breites Arsenal an Waffen einsetzt, um seine Feinde zu besiegen.<color=#CCD3E0>"
     }
 }

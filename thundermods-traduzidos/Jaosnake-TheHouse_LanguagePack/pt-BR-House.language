@@ -1,6 +1,6 @@
 {
     "pt-BR": {
-        "JAVANGLE_HOUSE_BODY_NAME": "The House",
+        "JAVANGLE_HOUSE_BODY_NAME": "A casa",
         "JAVANGLE_HOUSE_BODY_SUBTITLE": "O Jogador Insano",
         "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House é um jogador insano que depende de sua sorte para superar situações difíceis, usando dois misteriosos artefatos do destino: um revólver de 6 tiros chamado <style=cIsUtility>Roleta</style> e um baralho de cartas aparentemente amaldiçoado.",
         "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Padrão",
@@ -12,6 +12,18 @@
         "BODY_OUTRO_FLAVOR": "..e assim ele se foi, pregando peças no destino mais uma vez.",
         "BODY_OUTRO_FAILURE": "..e assim ele desapareceu, sua sorte finalmente tendo acabado.",
         "DEFAULT_SKIN_NAME": "Padrão",
-        "MASTERY_SKIN_NAME": "The House: Maestria"
+        "MASTERY_SKIN_NAME": "The House: Maestria",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Tiro padrão",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um tiro aleatório com seu revólver.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Casa cheia",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Dispare vários tiros do revólver de uma só vez.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Adivinhação",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Preveja a próxima carta do baralho para ganhar vantagem.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Embaralhar",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Embaralhe seu baralho e redefina suas opções.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Recarga padrão",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Recarregue seu revólver com todas as 6 balas.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "Recarga total",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Recarregue e dobre."
     }
 }

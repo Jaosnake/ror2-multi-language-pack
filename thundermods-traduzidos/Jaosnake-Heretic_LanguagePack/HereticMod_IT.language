@@ -1,0 +1,12 @@
+{
+    "IT": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "L'Eretico <style=cIsUtility>si muove più velocemente</style> e può <style=cIsUtility>sbattere le ali due volte</style> per aumentare l'altezza mentre è in volo.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marchio dell'eresia",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Ottieni un enorme incremento delle statistiche... <color=#FF7F7F>MA la tua salute decade nel tempo.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumenta <style=cIsHealing>salute</style> di <style=cIsHealing>400%</style> e <style=cIsDamage>danno</style> di <style=cIsDamage>50%</style>. Riduci <style=cIsHealing>rigenerazione salute base</style> a</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Carica una palla di lame che infligge ripetutamente <style=cIsDamage>175% di danni</style>. Dopo un po', fai esplodere e <style=cIsDamage>root</style> tutti i nemici per <style=cIsDamage>700% di danno</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Infliggere danni aggiunge una pila di <style=cIsDamage>Rovina</style>. Attivando l'abilità <style=cIsDamage>fa esplodere tutti gli stack di Rovina</style> a distanza illimitata, infliggendo <style=cIsDamage>300% di danno</style> più <style=cIsDamage>120% di danno</style> per stack di <style=cIsDamage>Rovina</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Fuggi dalla luna come sopravvissuto segreto."
+    }
+}

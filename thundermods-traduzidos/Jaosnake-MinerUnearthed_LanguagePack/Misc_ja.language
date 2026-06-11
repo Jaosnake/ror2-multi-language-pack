@@ -1,0 +1,11 @@
+{
+    "ja": {
+        "FATACRID_BODY_NAME": "ペロ グランデ",
+        "FATACRID_BODY_SUBTITLE": "(フォルマ・ギガンテ)",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_NAME": "ダイアシーカー",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE": "追跡して殺す",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_LORE": "伝説によれば、かつてペトリコール 5 世の地下兵舎を徘徊していた巨大な獣について語られています。\n\n最も勇敢な生存者や最も凶悪な怪物たちに恐れられたこの巨大な獣は、無敵でした。それは業火によって鍛えられた血のように赤い鱗を身に着けていた。それは燃えるような黄色い目をしており、その眩しさは最大の生物をその場で立ち止まらせるほど強烈でした。くすぶっている息があり、金属を瞬時に溶かすほどの熱さでした。\n\nプロビデンス自身を殺すほど強い生存者に一度だけ止められ、その獣はついに勝負を果たしたと信じられていました。\n\n<style=cIsHealth>その恐ろしい顔を再び見せるまでは。</style>",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR": "...そして、新しい獲物を求めて出発しました。",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME": "デフォルト"
+    }
+}

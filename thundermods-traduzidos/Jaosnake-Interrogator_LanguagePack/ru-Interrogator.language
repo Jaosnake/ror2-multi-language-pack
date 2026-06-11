@@ -1,7 +1,7 @@
 {
-    "ru": {
+    "RU": {
         "KENKO_INTERROGATOR_NAME": "Интеррогатор",
-        "KENKO_INTERROGATOR_DESCRIPTION": "Интеррогатор наслаждается болью других. Не веселитесь чересчур, причиняя боль союзникам... или веселитесь.Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Следователь упивается чужой болью. Не развлекайтесь, причиняя вред своим союзникам... или делайте это.</i>",
         "KENKO_INTERROGATOR_SUBTITLE": "Специалист по Мучениям",
         "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..и так он ушёл, с нетерпением применить больше \"справедливости\".",
         "KENKO_INTERROGATOR_OUTRO_FAILURE": "..и так он исчез, наказанный за свои преступления.",

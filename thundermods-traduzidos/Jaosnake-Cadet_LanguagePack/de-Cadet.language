@@ -1,0 +1,25 @@
+{
+    "de": {
+        "KENKO_CADET_NAME": "Kadett",
+        "KENKO_CADET_DESCRIPTION": "Der Kadett ist ein vielseitiger Schütze, der sich im Kampf mit Kurzstreckenwaffen und schneller Beweglichkeit zurechtfindet.<color=#CCD3E0></i>",
+        "KENKO_CADET_SUBTITLE": "Vielseitiger Schütze",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Standard",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Kadett: Spezialist",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Kugelsturm",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Feuere einen Laser ab, um <style=cIsDamage>60 % Schaden</style> zu verursachen. Erfordert <style=cIsUtility>reload</style> nach 20 Runden.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Verheerende Gezeiten",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Feuern Sie einen Feuerstoß ab, der <style=cIsDamage>3x100 % Schaden</style> verursacht. Erfordert <style=cIsUtility>reload</style> nach 10 Projektilen.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Feuern Sie Ihren leichten Granatwerfer ab und verursachen Sie <style=cIsDamage>400 % Schaden</style>.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Wirf deine Waffe und verursache <style=cIsDamage>250 % bis 750 % Schaden</style> basierend auf der aktuellen Munition.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Gleitendes Nachladen",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Schieben Sie in eine Richtung und <style=cIsUtility>laden Sie</style> Ihre Waffe sofort nach.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Nachladerolle",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Rollen Sie in eine Richtung und laden Sie Ihre Waffe sofort <style=cIsUtility>nach</style>.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agile</style>. Feuern Sie einen schweren Schrotstoß ab, der <style=cIsDamage>32x150 % Schaden</style> verursacht.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Echo-Drohnen",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Setze <style=cIsDamage>zwei Drohnen</style> ein, die nach Feinden in der Nähe suchen und <style=cIsDamage>2x370 % Schaden</style> verursachen."
+    }
+}

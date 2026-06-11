@@ -26,13 +26,19 @@
         "MOFFEIN_HAND_BODY_SPECIAL_NAME": "ДРОН",
         "MOFFEIN_HAND_BODY_SPECIAL_DESC": "Запускає дрона, що завдає <style=cIsDamage>270% шкоди</style> та <style=cIsHealing>лікує на 40% від завданої шкоди</style>. Вбивства та удари в ближньому бою <style=cIsUtility>скорочують час перезаряджання</style>.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME": "Handyman",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Відремонтуйте робота-двірника на Rallypoint Delta за допомогою паливної системи Escape Pod.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME": "HAN-D: Beatdown",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "Keep OVERCLOCK active for over 45 seconds.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "Тримайте OVERCLOCK активним понад 45 секунд.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME": "HAN-D: Bonk!",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Flatten the final boss.",
-        "MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME": "WOO-D",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Зрівняйте фінального боса.",
+        "MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME": "ВУ-Д",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME": "HAN-D: Mastery",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "Як HAN-D, пройдіть гру або знищіть на Monsoon.",
+        "MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME": "ДРОН - ШВИДКІСТЬ",
+        "MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC": "Стріляйте з дрона, який завдає <style=cIsDamage>270% шкоди</style>, а <style=cIsDamage>тимчасово надає швидкість атаки</style>. Вбивства та удари ближнього бою <style=cIsUtility>зменшують час відновлення</style>.",
+        "MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME": "ПОВТОРНО-ТРН",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME": "HAN-D: Grand Mastery",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION": "Як HAN-D, пройдіть гру або знищіть на Typhoon або Eclipse.\n<color=#8888>(Враховує будь-яку складність Typhoon або вище)</color>",
+        "MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME": "ГО-ПУ"
     }
 }

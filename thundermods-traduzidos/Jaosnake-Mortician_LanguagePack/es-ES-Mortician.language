@@ -1,0 +1,26 @@
+{
+    "es-ES": {
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_NAME": "Funerario",
+        "BOG_MORRIS_BODY_DESCRIPTION": "El funerario es un nigromante cuerpo a cuerpo lento pero robusto que destaca en el control del territorio con su ejército de no-muertos.",
+        "BOG_MORRIS_BODY_SUBTITLE": "no-muertos",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..y así se fue, con su sombrío deber aún sin cumplir.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..y así desapareció, finalmente concedida la paz que tanto deseaba.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Por defecto",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Maestría",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Ofrenda de alma",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Los demonios <style=cIsUtility>activan sus efectos de muerte</style> cuando mueren.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Golpe de pala",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Balancea tu pala para causar <style=cIsDamage>800% de daño</style>. Golpear demonios y lápidas con tu pala provoca <style=cIsUtility>lanzamiento</style> para <style=cIsDamage>350% de daño</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "resucitar muertos",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Vínculo espiritual</style>. Invoca a un demonio en el suelo frente a ti. Los demonios muerden para causar <style=cIsDamage>150% de daño</style> y escupen <style=cIsDamage>Pestilent</style> bilis para <style=cIsDamage>100% de daño</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrificio",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Detona</style> el ghoul objetivo para <style=cIsDamage>700% de daño</style> y <style=cIsHealing>cura 15% de tu salud máxima</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Lápida sepulcral",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Levanta una lápida que genera un demonio cada <style=cIsUtility>10 segundos</style>. Cada vez que se mata a un ghoul, la tumba genera un <style=cIsDamage>alma vengativa</style> <style=cIsUtility>explosivo</style> que dispara a un enemigo cercano e inflige <style=cIsDamage>350 % de daño</style>.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como funerario, completa el juego o destruye Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Funerario: Maestría",
+        "BOG_GHOUL_BODY_NAME": "Demonio necrófago",
+        "BOG_TOMBSTONE_BODY_NAME": "Lápida sepulcral"
+    }
+}

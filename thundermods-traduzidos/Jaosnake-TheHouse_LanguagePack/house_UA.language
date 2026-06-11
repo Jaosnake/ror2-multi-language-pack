@@ -1,0 +1,15 @@
+{
+    "UA": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Будинок",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Божевільний гравець",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Хаус — божевільний азартний гравець, який покладається на свою удачу, щоб подолати складні ситуації, використовуючи два таємничі артефакти долі: 6-зарядний револьвер під назвою <style=cIsUtility>\"Рулетка\"</style> і, здавалося б, прокляту колоду карт.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Майстерність",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: Пустота",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Виконайте випадковий заряджений постріл. Коли не залишається кадрів: нічого не робить.",
+        "DEFAULT_SKIN_NAME": "За замовчуванням",
+        "MASTERY_SKIN_NAME": "Будинок: Майстерність",
+        "BODY_OUTRO_FLAVOR": "..і так він пішов, знову жартуючи з долею.",
+        "BODY_OUTRO_FAILURE": "..і так він зник, його удача нарешті закінчилася."
+    }
+}

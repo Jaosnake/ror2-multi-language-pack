@@ -1,0 +1,7 @@
+{
+    "ja": {
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Shrine of Combat がドロップしました </style>{0}",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} は </color>{1} を削除しました",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>ディープ ヴォイド シグナルがドロップされました </style>{0}"
+    }
+}

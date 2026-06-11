@@ -1,0 +1,26 @@
+{
+    "es-ES": {
+        "BOG_DEPUTY_BODY_NAME": "el diputado",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "La diputada es un demonio de la velocidad hiperagresivo que imparte justicia con sus revólveres gemelos y patadas letales.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Justicia relámpago",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..y así se fue, entre atronadores aplausos.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..y entonces ella desapareció, su actuación finalmente llegó a su fin.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Por defecto",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Maestría",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Búsqueda implacable",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "El diputado puede correr en cualquier dirección. Golpear a los enemigos con sus habilidades otorga una mejora acumulable de <style=cIsUtility>velocidad de movimiento</style>.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Tiro seguro",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara con revólveres de medio alcance para <style=cIsDamage>150% de daño</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Honda",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Lanza dos revólveres. Cada revólver disparará a un enemigo cercano y causará <style=cIsDamage>6x100% de daño</style>, luego explotará para causar <style=cIsDamage>300% de daño</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Estrella fugaz",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Impresionante</style>. Salta hacia adelante y dispara a un enemigo debajo de ti para causar <style=cIsDamage>4x150% de daño</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Rompecráneos",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Pesado</style>. <style=cIsUtility>Lunge</style> y rebota en un enemigo, causando <style=cIsDamage>800% de daño</style>. <style=cIsUtility>Las muertes restablecen el tiempo de reutilización de tu habilidad de utilidad</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Cielo de balas",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salta alto en el aire y dispara furiosamente balas hacia abajo, cada una de las cuales inflige <style=cIsDamage>150% de daño</style>. El número de disparos aumenta con la velocidad de ataque.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como diputado, supera el juego o aniquila Monzón.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "El diputado: maestría"
+    }
+}

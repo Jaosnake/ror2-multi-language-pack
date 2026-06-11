@@ -1,0 +1,11 @@
+{
+    "es-419": {
+        "FATACRID_BODY_NAME": "perro grande",
+        "FATACRID_BODY_SUBTITLE": "(Forma Gigante)",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_NAME": "Buscador terrible",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE": "Seguimiento y muerte",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_LORE": "Las leyendas hablan de una bestia monstruosa que una vez vagaba por los cuarteles subterráneos de Petrichor V.\n\n Temida por los supervivientes más valientes y los monstruos más desagradables, la enorme bestia no tenía rival. Se puso escamas de color rojo sangre, templadas por el fuego del infierno. Tenía ojos amarillos ardientes, con un resplandor tan intenso que hacía que las criaturas más grandes se detuvieran en seco. Tenía un aliento humeante, lo suficientemente caliente como para derretir metal en un instante.\n\nSolo una vez fue detenida por un sobreviviente lo suficientemente fuerte como para matar al propio Providence, se creía que la bestia finalmente había encontrado su rival.\n\n<style=cIsHealth>Hasta que mostró su aterrador rostro una vez más.</style>",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR": "..y así se fue, en busca de nuevas presas.",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME": "Por defecto"
+    }
+}

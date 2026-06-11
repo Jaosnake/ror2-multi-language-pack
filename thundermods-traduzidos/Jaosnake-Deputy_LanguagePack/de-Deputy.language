@@ -1,0 +1,26 @@
+{
+    "de": {
+        "BOG_DEPUTY_BODY_NAME": "Der Stellvertreter",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Die Deputy ist eine hyperaggressive Geschwindigkeitsdämonin, die mit ihren Zwillingsrevolvern und tödlichen Tritten für Gerechtigkeit sorgt.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Blitzgerechtigkeit",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..und so ging sie unter tosendem Applaus.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..und so verschwand sie, ihr Auftritt war endlich zu Ende.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Standard",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Meisterschaft",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Unerbittliches Streben",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Der Stellvertreter kann in jede Richtung sprinten. Wenn sie Feinde mit ihren Fähigkeiten trifft, erhält sie einen stapelbaren <style=cIsUtility>Bewegungsgeschwindigkeit</style>-Buff.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Sicherer Schuss",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Schießen Sie mit Revolvern mittlerer Reichweite und verursachen Sie <style=cIsDamage>150 % Schaden</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Schlinge",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Wirf zwei Revolver. Jeder Revolver schießt auf einen Gegner in der Nähe und fügt ihm <style=cIsDamage>6x100 % Schaden</style> zu, explodiert dann und verursacht <style=cIsDamage>300 % Schaden</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Sternschnuppe",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Springe nach vorne und schieße auf einen Feind unter dir, um <style=cIsDamage>4x150 % Schaden</style> zu verursachen.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Schädelbrecher",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Heavy</style>. <style=cIsUtility>Lunge</style> und pralle von einem Feind ab und verursacht <style=cIsDamage>800 % Schaden</style>. <style=cIsUtility>Kills setzen die Abklingzeit deiner Hilfsfähigkeit zurück</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Bullet-Himmel",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Springe hoch in die Luft und schieße wütend Kugeln nach unten, die jeweils <style=cIsDamage>150 % Schaden</style> verursachen. Die Anzahl der Schüsse skaliert mit der Angriffsgeschwindigkeit.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Schlagen Sie als Stellvertreter das Spiel oder vernichten Sie Monsun.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Der Stellvertreter: Meisterschaft"
+    }
+}

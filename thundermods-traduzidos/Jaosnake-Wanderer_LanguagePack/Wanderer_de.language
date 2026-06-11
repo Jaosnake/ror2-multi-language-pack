@@ -19,7 +19,7 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Erster Atem",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teleportiere dich zu einem anvisierten oder nahen <style=cIsUtility>in der Luft befindlichen</style> Feind und greife schnell für <style=cIsDamage>2x250% + 800% Schaden</style> an. Erhalte Bonus-<style=cIsDamage>Rüstungsdurchdringung</style> für 6 Sekunden.\n<color=#d299ff>SZEPTER: <style=cIsUtility>Setze die Abklingzeit deiner Sekundärfähigkeit zurück</style>. Von <color=#FFBF66>Erster Atem</color> getroffene Feinde können erneut von <color=#FFBF66>Fegende Klinge</color> anvisiert werden.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Schlagen Sie als Wanderer das Spiel oder vernichten Sie Monsun.",
         "KENKO_UNFORGIVEN_DESCRIPTION": "Der Wanderer ist ein Überlebender mit niedriger Einstiegshürde und hoher Obergrenze, der Animationsabbrüche nutzen kann, um seinen DPS hoch zu halten.<color=#CCD3E0>"
     }
 }

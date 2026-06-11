@@ -1,0 +1,26 @@
+{
+    "IT": {
+        "BOG_DEPUTY_BODY_NAME": "Il Vice",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "La Vice è un demone della velocità iperaggressivo che dispensa giustizia con i suoi revolver gemelli e calci letali.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Giustizia fulminea",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..e così se ne andò, tra scroscianti applausi.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "...e così lei svanì, la sua esibizione finalmente giunta al termine.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Padronanza",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Inseguimento incessante",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Il Vice può scattare in qualsiasi direzione. Colpire i nemici con le sue abilità garantisce un buff impilabile di <style=cIsUtility>velocità di movimento</style>.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Colpo sicuro",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara con revolver a medio raggio per <style=cIsDamage>150% di danni</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Fionda",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Lancia due rivoltelle. Ogni revolver sparerà a un nemico vicino infliggendo <style=cIsDamage>6x100% di danno</style>, quindi esploderà per <style=cIsDamage>300% di danno</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Stella cadente",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Splendido</style>. Balza in avanti e spara a un nemico sotto di te per <style=cIsDamage>4x150% di danno</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Spaccateschi",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Pesante</style>. <style=cIsUtility>Affondi</style> e rimbalza su un nemico, infliggendo <style=cIsDamage>800% di danni</style>. <style=cIsUtility>Le uccisioni ripristinano il tempo di recupero delle tue abilità di utilità</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Il paradiso dei proiettili",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salta in aria e spara furiosamente proiettili verso il basso, ciascuno dei quali infligge <style=cIsDamage>150% di danno</style>. Il numero di colpi aumenta con la velocità d'attacco.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Nei panni del Vice, finisci il gioco o distruggi durante Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Il Vice: Maestria"
+    }
+}

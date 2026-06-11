@@ -9,6 +9,7 @@
         "HABIBI_RECOLOR_CYAN_NAME": "cian",
         "HABIBI_RECOLOR_PURPLE_NAME": "Púrpura",
         "HABIBI_RECOLOR_PINK_NAME": "Rosa",
-        "HABIBI_RECOLOR_BLACK_NAME": "Negro"
+        "HABIBI_RECOLOR_BLACK_NAME": "Negro",
+        "HABIBI_RECOLOR_WHITE_NAME": "Blanco"
     }
 }

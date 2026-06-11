@@ -41,7 +41,11 @@
         "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "За Спустошувача, пройдіть гру або зітріть себе на складності Тайфун або Затемненні.\n<color=#8888>(Враховується складність Тайфун або вище)</color>",
         "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Спустошувач: Велична майстерність",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3.",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Опромінювачі"
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Знайдіть і активуйте 3 опромінювачі на етапі 3.",
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Опромінювачі",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Як Desolator, пройдіть гру або знищіть на Monsoon.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Як Desolator, пройдіть гру або знищіть на Typhoon або Eclipse.\n<color=#8888>(Враховує будь-яку складність Typhoon або вище)</color>"
     }
 }

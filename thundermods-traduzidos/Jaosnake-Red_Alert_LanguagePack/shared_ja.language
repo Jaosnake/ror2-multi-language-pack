@@ -9,6 +9,7 @@
         "HABIBI_RECOLOR_CYAN_NAME": "シアン",
         "HABIBI_RECOLOR_PURPLE_NAME": "紫",
         "HABIBI_RECOLOR_PINK_NAME": "ピンク",
-        "HABIBI_RECOLOR_BLACK_NAME": "黒"
+        "HABIBI_RECOLOR_BLACK_NAME": "黒",
+        "HABIBI_RECOLOR_WHITE_NAME": "白"
     }
 }

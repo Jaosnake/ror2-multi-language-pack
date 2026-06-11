@@ -1,0 +1,12 @@
+{
+    "ko": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic은 <style=cIsUtility>더 빠르게 움직이며</style> 더 높이 날아갈 수 있도록 <style=cIsUtility>날개를 두 번 펄럭이는</style> 수 있습니다.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "이단의 표식",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "막대한 능력치 향상을 얻으세요... <color=#FF7F7F>하지만 시간이 지남에 따라 건강이 쇠퇴합니다.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "<style=cIsHealing>health</style>을 <style=cIsHealing>400%</style>만큼 늘리고 <style=cIsDamage>damage</style>을 <style=cIsDamage>50%</style>만큼 늘립니다. <style=cIsHealing>기본 체력 재생</style>을</style>0__-6hp/s</style>1__로 줄입니다.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "<style=cIsDamage>175% 피해</style>를 반복적으로 입히는 칼날 공을 충전하세요. 지연 후 폭발하여 모든 적을 <style=cIsDamage>root</style> 피해<style=cIsDamage>700%의 피해를 줍니다</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "피해를 입히면 <style=cIsDamage>Ruin</style> 스택이 추가됩니다. 스킬을 활성화하면 <style=cIsDamage>는 무제한 범위에서 모든 Ruin 스택</style>을 폭발시켜 <style=cIsDamage>300% 데미지</style>에 <style=cIsDamage>Ruin</style> 스택당 <style=cIsDamage>120% 데미지</style>를 줍니다.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "비밀 생존자가 되어 달을 탈출하세요."
+    }
+}

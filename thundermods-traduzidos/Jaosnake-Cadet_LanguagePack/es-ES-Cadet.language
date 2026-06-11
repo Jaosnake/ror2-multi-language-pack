@@ -1,0 +1,25 @@
+{
+    "es-ES": {
+        "KENKO_CADET_NAME": "Cadete",
+        "KENKO_CADET_DESCRIPTION": "El Cadete es un artillero versátil que puede afrontar el combate con armamento de corto alcance y rápida movilidad.<color=#CCD3E0></i>",
+        "KENKO_CADET_SUBTITLE": "Tirador versátil",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Por defecto",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Tormenta de balas",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara un láser para causar <style=cIsDamage>60% de daño</style>. Requiere <style=cIsUtility>reload</style> después de 20 rondas.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Mareas devastadoras",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara una ráfaga que causa <style=cIsDamage>3x100% de daño</style>. Requiere <style=cIsUtility>reload</style> después de 10 proyectiles.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispara tu lanzagranadas ligeras para <style=cIsDamage>400% de daño</style>.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lanza tu arma y causa <style=cIsDamage>250% a 750% de daño</style> según la munición actual.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Recarga deslizante",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Deslízate en una dirección, <style=cIsUtility>recargando</style> tu arma al instante.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rollo de recarga",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Rueda en una dirección, <style=cIsUtility>recargando</style> tu arma al instante.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara una fuerte ráfaga de perdigones que causan <style=cIsDamage>32x150% de daño</style>.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones eco",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Despliega <style=cIsDamage>dos drones</style> que buscan enemigos cercanos e infligen <style=cIsDamage>2x370% de daño</style>."
+    }
+}

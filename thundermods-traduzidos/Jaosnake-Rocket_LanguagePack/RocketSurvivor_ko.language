@@ -26,14 +26,14 @@
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME": "로켓스톰",
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION": "로켓 10발을 빠르게 발사</style>하고 <style=cIsUtility>무기를 재장전시킵니다</style>.",
         "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
-        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "로켓으로 25분 이내에 천상의 포털에 도달하여 진행하십시오.",
         "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
-        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "As Rocket, blast jump 10 times in a row without touching the ground.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "로켓으로 땅에 닿지 않고 연속으로 10번 폭발 점프하세요.",
         "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "폭격수",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "로켓으로 게임을 승리하거나 몬순에서 말살하세요.",
         "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "레인저",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>"
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "로켓으로 게임을 이기거나 Typhoon 또는 Eclipse에서 말살하세요.\n<color=#8888>(Typhoon 난이도에는 Starstorm 2 필요)</color>"
     }
 }

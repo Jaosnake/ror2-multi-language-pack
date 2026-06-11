@@ -1,0 +1,30 @@
+{
+    "ko": {
+        "BLAKE_RIFTER_NAME": "리프터",
+        "BLAKE_RIFTER_DESCRIPTION": "리프터는 전략적 포지셔닝을 사용하여 현실에 파괴적인 균열을 만듭니다.<color=#CCD3E0></i>",
+        "BLAKE_RIFTER_SUBTITLE": "리프트 조작기",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..그래서 그는 분열된 세상을 남겨두고 떠났습니다.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..그래서 그는 모든 영역에서 사라졌습니다.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "리프터: 마스터리",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "리프트 부스트",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "균열을 통과하면 이동 속도가 향상됩니다.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "균열 골절",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "균열에 맞은 적들은 산산조각이 나고 받는 피해가 증가합니다.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "발사체 균열",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "500% 데미지를 주는 장거리 균열을 발사합니다.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "골절",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>단절</style>. 75%의 피해를 주는 장거리 균열을 발사하여 최대 5개의 산산이 발생합니다.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "단층선",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>단절</style>. 부서지는 단층선을 만들어 700%의 피해를 줍니다.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "차원 후류",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "짧은 거리를 텔레포트하세요. 보조 스킬 스톡을 새로 고칩니다.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "양자 균열",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "주변 공간을 왜곡하는 양자 균열을 엽니다.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "연결된 세계",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "공간의 두 지점을 연결하여 발사체를 전송하는 포털을 만듭니다.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "시간 잠금",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "특정 지역에 있는 적의 시간을 고정하여 몇 초 동안 얼립니다.",
+        "BLAKE_NEM_RIFTER_NAME": "네메시스 리프터",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "타락한 균열"
+    }
+}

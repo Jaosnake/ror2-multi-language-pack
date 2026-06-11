@@ -1,0 +1,11 @@
+{
+    "IT": {
+        "FATACRID_BODY_NAME": "Perro Grande",
+        "FATACRID_BODY_SUBTITLE": "(Forma Gigante)",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_NAME": "Cercatore di odio",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE": "Traccia e uccidi",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_LORE": "Le leggende raccontano di una bestia mostruosa che un tempo vagava per le baracche sotterranee di Petrichor V.\n\nTemuta dai sopravvissuti più coraggiosi e dai mostri più cattivi, l'enorme bestia non aveva rivali. Indossava scaglie rosso sangue, temperate dal fuoco infernale. Aveva occhi gialli ardenti, con uno sguardo così intenso da far fermare di botto anche la più grande delle creature. Aveva un alito fumante, abbastanza caldo da sciogliere il metallo in un istante.\n\nSolo una volta fermata da un sopravvissuto abbastanza forte da uccidere Providence in persona, si credeva che la bestia avesse finalmente incontrato il suo degno.\n\n<style=cIsHealth>Fino a quando non mostrò di nuovo il suo volto terrificante.</style>",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR": "..e così partì, alla ricerca di nuove prede.",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME": "Predefinito"
+    }
+}

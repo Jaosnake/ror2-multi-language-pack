@@ -1,0 +1,23 @@
+{
+    "IT": {
+        "JAVANGLE_HOUSE_BODY_NAME": "La Casa",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House è un giocatore d'azzardo folle che fa affidamento sulla fortuna per superare situazioni difficili, utilizzando due misteriosi artefatti del destino: un revolver a 6 colpi chiamato <style=cIsUtility>\"Roulette\"</style> e un mazzo di carte apparentemente maledetto.",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Il giocatore pazzo",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Padronanza",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..e così se ne andò, giocando ancora una volta brutti scherzi al destino.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "...e così svanì, la sua fortuna finalmente esaurita.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Tiro standard",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara un colpo casuale dal tuo revolver.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Tutto esaurito",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Spara più colpi contemporaneamente dal revolver.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Divinazione",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Indovina la prossima carta dal mazzo per ottenere un vantaggio.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Mescola",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Mescola il tuo mazzo e reimposta le tue opzioni.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Ricarica standard",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Ricarica il tuo revolver con tutti e 6 i proiettili.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "Ricarica completa",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Ricarica e raddoppia."
+    }
+}

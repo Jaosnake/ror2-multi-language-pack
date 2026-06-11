@@ -12,7 +12,7 @@
         "CLOUDBURST_WYATT_PASSIVE_NAME": "Walkman",
         "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "Erhalte bei einem Treffer einen Stapel <style=cIsUtility>Groove</style>, der <style=cIsUtility>20 % Bewegungsgeschwindigkeit</style> pro Stapel gewährt. Verringert sich außerhalb des Kampfes.",
         "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "G22 Grav-Besen",
-        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Schwinge deinen Besen für <style=cIsDamage>100 % Schaden</style>. Jeder dritte Treffer verursacht <style=cIsDamage>200 % Schaden</style> und wendet <style=cIsUtility>Schwerelosigkeit</style> an.",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Schwinge deinen Besen für <style=cIsDamage>100 % Schaden</style>. Jeder dritte Treffer verursacht <style=cIsDamage>200 % Schaden</style> und verursacht <style=cIsUtility>Schwerelosigkeit</style>.",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "Müll raus",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Setze eine Winde ein</s> Fliege auf magische Weise auf einen Feind zu, füge ihm <style=cIsDamage>300 %</style> Schaden zu und versetze ihn mit <style=cIsDamage>stacheln</style>.",
         "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Fließen",
@@ -21,6 +21,6 @@
         "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Schicken Sie Ihre <style=cIsUtility>MAID</style>-Einheit durch Feinde hindurch und verursachen Sie <style=cIsDamage>300 % Schaden</style>, bevor Sie kurz anhalten und zu Ihnen zurückkehren. Erneut aktivieren, um auf <style=cIsUtility>MAID</style> zu taumeln und zu explodieren, wobei <style=cIsDamage>500 % Schaden</style> verursacht werden und <style=cIsUtility>Schwerelosigkeit</style> angewendet wird.",
         "CLOUDBURST_WYATT_CLASSIC_SKIN": "Klassiker",
         "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
-        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "As Custodian, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Schlagen Sie als Hüter das Spiel oder vernichten Sie Monsun."
     }
 }

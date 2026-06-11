@@ -1,7 +1,7 @@
 {
     "ja": {
         "NEMFORCER_NAME": "ネメシス・エンフォーサー",
-        "NEMFORCER_DESCRIPTION": "Nemesis Enforcer is an incarnation of valiance and strength, a supernatural kind who is nobody to take lightly.<color=#CCD3E0>\n\n< ! > Golden Hammer can hit many enemies at once.\n\n< ! > Use Dominance from high up to perform a devastating slam.\n\n< ! > Strafing with Golden Minigun is key to taking down powerful bosses.\n\n< ! > Shields are for pussies.\n\n",
+        "NEMFORCER_DESCRIPTION": "ネメシス エンフォーサーは勇敢さと強さの化身であり、誰も軽視できない超自然的な種類です。<color=#CCD3E0>\n\n< ! > ゴールデン ハンマーは一度に多くの敵を攻撃できます。\n\n< ! > 高いところからドミナンスを使用して壊滅的なスラムを実行します。\n\n< ! > 掃射強力なボスを倒すには、ゴールデン ミニガンの使用が鍵となります。\n\n< ! > シールドは猫用です。\n\n",
         "NEMFORCER_SUBTITLE": "不朽の影",
         "NEMFORCER_LORE": "\n重い tf2\n\n",
         "NEMFORCER_OUTRO_FLAVOR": "...そして、彼は名誉を新たに見出した力を持って去った。",
@@ -43,12 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "マインクラフト",
         "NEMFORCERBODY_FEM_SKIN_NAME": "スパイク",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "エンフォーサーとして、モンスーン以上の時期にボイドフィールドを安定させ、エンフォーサーの痕跡を倒します。",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "ネメシス・エンフォーサーとして、ゲームに勝つか、モンスーンを全滅させてください。",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "ネメシス エンフォーサーとして、タイフーンまたはエクリプスでゲームに勝つか全滅させます。\n<color=#8888>(タイフーン以上の難易度をカウントします)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "ネメシス エンフォーサーとして、ドミナンスで一度に 5 つの発射物を破壊します。",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer は、<style=cIsDamage>近接攻撃</style> で敵を攻撃すると、3 秒間で自身の <style=cIsHealing>最大体力</style> の <style=cIsHealing>2%</style> を回復します。",
+        "NEMFORCER_PROC_UPPERCUT": "アッパーカット",
+        "NEMFORCER_PROC_SLAM": "スラム",
+        "NEMFORCER_PROC_JAM": "ジャム"
     }
 }

@@ -20,7 +20,7 @@
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "弹幕天堂",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "高高跃入空中,疯狂向下倾泻子弹,每发造成<style=cIsDamage>150%伤害</style>。射击次数随攻击速度提升。",
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "作为副手，击败游戏或消灭季风。",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "副手：精通"
     }
 }

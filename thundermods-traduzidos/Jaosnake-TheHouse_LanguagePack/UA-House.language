@@ -1,0 +1,23 @@
+{
+    "UA": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Будинок",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "Хаус — божевільний азартний гравець, який покладається на свою удачу, щоб подолати складні ситуації, використовуючи два таємничі артефакти долі: 6-зарядний револьвер під назвою <style=cIsUtility>\"Рулетка\"</style> і, здавалося б, прокляту колоду карт.",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Божевільний гравець",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Майстерність",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FLAVOR": "..і так він пішов, знову жартуючи з долею.",
+        "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..і так він зник, його удача нарешті закінчилася.",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Стандартний постріл",
+        "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Agile</style>. Зробіть випадковий постріл зі свого револьвера.",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Аншлаг",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Зробіть кілька пострілів з револьвера одночасно.",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Ворожіння",
+        "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Передбачте наступну карту з колоди, щоб отримати перевагу.",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_NAME": "Перетасувати",
+        "JAVANGLE_HOUSE_BODY_SHUFFLEART_DESCRIPTION": "Перетасуйте свою колоду та скиньте параметри.",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_NAME": "Стандартне перезавантаження",
+        "JAVANGLE_HOUSE_BODY_RELOADSTANDARD_DESCRIPTION": "Перезарядіть свій револьвер усіма 6 кулями.",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_NAME": "All-In Reload",
+        "JAVANGLE_HOUSE_BODY_RELOADALLIN_DESCRIPTION": "Перезавантажити та подвоїти."
+    }
+}

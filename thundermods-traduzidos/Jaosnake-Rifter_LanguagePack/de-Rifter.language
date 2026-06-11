@@ -1,0 +1,30 @@
+{
+    "de": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_DESCRIPTION": "Der Rifter nutzt strategische Positionierung, um in der Realität verheerende Risse zu schaffen.<color=#CCD3E0></i>",
+        "BLAKE_RIFTER_SUBTITLE": "Rissmanipulator",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..und so hinterließ er eine zerbrochene Welt.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..und so verschwand er aus allen Bereichen.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Meisterschaft",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Rift-Boost",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Deine Risse gewähren beim Durchqueren eine Steigerung der Bewegungsgeschwindigkeit.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Rissbruch",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Von Rissen getroffene Gegner bauen Splitter auf, was den erlittenen Schaden erhöht.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Projektilriss",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Feuern Sie einen Riss mit großer Reichweite ab und verursachen Sie 500 % Schaden.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Bruch",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Fracture</style>. Feuern Sie einen Riss mit großer Reichweite ab, verursachen Sie 75 % Schaden und verursachen Sie bis zu 5 Splitter.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Bruchlinie",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Fracture</style>. Erschafft eine Bruchlinie, die zerbricht und 700 % Schaden verursacht.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Dimensionaler Slipstream",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Teleportieren Sie sich über eine kurze Distanz. Aktualisiert den Sekundärfähigkeitsbestand.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Quantenriss",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "Öffnen Sie einen Quantenriss, der den umgebenden Raum verzerrt.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Verkettete Welten",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "Verbinde zwei Punkte im Weltraum und erstelle ein Portal, das Projektile transportiert.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Zeitsperre",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Sperren Sie die Zeit von Feinden in einem Bereich und frieren Sie sie für einige Sekunden ein.",
+        "BLAKE_NEM_RIFTER_NAME": "Nemesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Verdorbener Riss"
+    }
+}

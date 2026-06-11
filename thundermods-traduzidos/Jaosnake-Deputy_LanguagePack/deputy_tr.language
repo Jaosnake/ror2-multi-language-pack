@@ -1,0 +1,19 @@
+{
+    "tr": {
+        "BOG_DEPUTY_BODY_NAME": "Yardımcısı",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Yıldırım Adaleti",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Vekil, ikiz tabancaları ve ölümcül tekmeleriyle adaleti dağıtan aşırı agresif bir hız iblisidir.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Amansız Takip",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Vekil herhangi bir yöne koşabilir. Becerileriyle düşmanlara vurmak, istiflenebilir bir <style=cIsUtility>hareket hızı</style> takviyesi kazandırır.",
+        "PRIMARY_SHOOT_NAME": "Kesinlikle Atış",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Çevik</style>. <style=cIsDamage>%150 hasar</style> için orta menzilli tabancalarla ateş edin.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Çevik</style>. İki tabancayı fırlat. <style=cIsDamage>Çarpıcı</style>. <style=cIsDamage>6x%100 hasar</style> için altınızdaki bir düşmanı atlayın ve vurun.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Hafifçe yukarı doğru açılı olabilen hassas bir atış yapın. <style=cIsDamage>%150 hasar</style> verir.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>%800 hasar</style>. <style=cIsUtility>Öldürmeler, işlevsel beceri bekleme sürenizi sıfırlar</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "<style=cIsDamage>%150 hasar</style> için havaya yükseğe sıçrayın ve mermileri öfkeyle aşağı doğru ateşleyin.",
+        "MASTERY_SKIN_NAME": "Yardımcısı: Ustalık",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..ve böylece şiddetli alkışlar arasında oradan ayrıldı.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, performansı sonunda sona erdi."
+    }
+}

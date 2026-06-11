@@ -1,0 +1,29 @@
+{
+    "tr": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_SUBTITLE": "Yarık Manipülatörü",
+        "PRIMARY_GAUNTLET_RANGED": "Mermi Yarığı",
+        "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "%500 hasar için uzun menzilli bir yarık ateşleyin.",
+        "SECONDARY_FRACTURE": "Kırık",
+        "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Kırılma</style>. %75 hasar verecek şekilde uzun menzilli bir yarık ateşleyin ve en fazla 5 parçalanmaya neden olun.",
+        "SECONDARY_FAULT_LINE": "Fay Hattı",
+        "SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Kırılma</style>. Parçalanan ve %700 hasar veren bir fay hattı oluşturun.",
+        "UTILITY_SLIPSTREAM": "Boyutsal Akım Akışı",
+        "UTILITY_SLIPSTREAM_DESCRIPTION": "Kısa bir mesafeye ışınlan. İkincil beceri stoğunu yeniler.",
+        "UTILITY_CHAINED_WORLDS": "Zincirlenmiş Dünyalar",
+        "UTILITY_CHAINED_WORLDS_DESCRIPTION": "Mermileri taşıyan bir portal oluşturarak uzaydaki iki noktayı birleştirin.",
+        "UTILITY_QUANTUM_RIFT": "Kuantum Yarığı",
+        "UTILITY_QUANTUM_RIFT_DESCRIPTION": "Çevredeki alanı bozan bir kuantum yarığını açın.",
+        "SPECIAL_TIMELOCK": "Zaman Kilidi",
+        "SPECIAL_TIMELOCK_DESCRIPTION": "Bir bölgedeki düşmanların zamanını kilitleyerek onları birkaç saniyeliğine dondurun.",
+        "SPECIAL_RECURSION": "Özyineleme",
+        "SPECIAL_RECURSION_DESCRIPTION": "Bir çatlağı kopyalayarak kısa bir süre sonra tekrar yankılanmasını sağlayın.",
+        "PASSIVE_RIFT_BOOST": "Yarık Desteği",
+        "PASSIVE_RIFT_BOOST_DESCRIPTION": "Yarıklarınız, içinden geçerken hareket hızı artışı sağlar.",
+        "PASSIVE_RIFT_FRACTURE": "Yarık Kırığı",
+        "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Yarıkların çarptığı düşmanlar paramparça olur ve alınan hasar artar.",
+        "MASTERY_SKIN_NAME": "Rifter: Ustalık",
+        "BLAKE_NEM_RIFTER_NAME": "Nemesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Bozuk Yarık"
+    }
+}

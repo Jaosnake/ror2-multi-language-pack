@@ -43,12 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
         "NEMFORCERBODY_FEM_SKIN_NAME": "Mit Stacheln versehen",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Stabilisieren Sie als Vollstrecker im Monsun oder höher die Leerenfelder und besiegen Sie die Überreste des Vollstreckers.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Schlagen Sie als Nemesis Enforcer das Spiel oder vernichten Sie Monsoon.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Besiege als Nemesis Enforcer das Spiel oder vernichte Taifun oder Eclipse.\n<color=#8888>(Zählt jeden Schwierigkeitsgrad Typhoon oder höher)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Zerstöre als Nemesis Enforcer mit Dominanz 5 Projektile gleichzeitig.",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer regeneriert <style=cIsHealing>2%</style> seiner <style=cIsHealing>maximalen Gesundheit</style> über 3 Sekunden, wenn er Feinde mit <style=cIsDamage>Nahkampfangriffen</style> trifft.",
+        "NEMFORCER_PROC_UPPERCUT": "Uppercut",
+        "NEMFORCER_PROC_SLAM": "Zuschlagen",
+        "NEMFORCER_PROC_JAM": "Marmelade"
     }
 }

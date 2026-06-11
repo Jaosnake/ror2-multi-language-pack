@@ -43,15 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Майнкрафт",
         "NEMFORCERBODY_FEM_SKIN_NAME": "Шиповки",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Играя за Инфорсера, в сезон дождей или выше, стабилизируйте Поля Пустоты и победите Остаток Инфорсера.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Играя за Nemesis Enforcer, пройдите игру или уничтожьте город Муссон.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Играя за Nemesis Enforcer, пройдите игру или уничтожьте карту Typhoon или Eclipse.\n<color=#8888> (учитывается любая сложность Typhoon или выше)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance.",
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Играя за Немезиду Инфорсер, уничтожьте 5 снарядов одновременно с помощью «Превосходства».",
         "NEMFORCER_PROC_UPPERCUT": "Апперкот",
         "NEMFORCER_PROC_SLAM": "Слем",
-        "NEMFORCER_PROC_JAM": "Джем"
+        "NEMFORCER_PROC_JAM": "Джем",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer восстанавливает <style=cIsHealing>2%</style> своего <style=cIsHealing>максимального здоровья</style> в течение 3 секунд при нанесении ударов по врагам <style=cIsDamage>рукопашными атаками</style>."
     }
 }

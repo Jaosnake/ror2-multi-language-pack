@@ -1,0 +1,26 @@
+{
+    "UA": {
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_NAME": "Погрібник",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Гробник — повільний, але міцний некромант ближнього бою, який чудово контролює територію за допомогою своєї армії нежиті.",
+        "BOG_MORRIS_BODY_SUBTITLE": "Нежить",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..і тому він пішов, не виконавши свій похмурий обов’язок.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..і тому він зник, нарешті отримавши мир, якого так бажав.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Майстерність",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Пропозиція душі",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Упирі <style=cIsUtility>активують свої ефекти при вбивстві</style>, коли їх вбивають.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Удар лопатою",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Замахніть лопатою, щоб отримати <style=cIsDamage>800% шкоди</style>. Удари лопатою по упирям і надгробкам спричиняють <style=cIsUtility>запуск</style> для <style=cIsDamage>350% шкоди</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Воскресити мертвих",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Spirit Bond</style>. Викличте упиря на землі перед собою. Упирі кусають, завдаючи <style=cIsDamage>150% шкоди</style>, і плюють <style=cIsDamage>Pestilent</style> жовчю, завдаючи <style=cIsDamage>100% шкоди</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Жертовність",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Підірвіть</style> цільового упиря, завдавши <style=cIsDamage>700% шкоди</style> та <style=cIsHealing>зцілюйте 15% вашого максимального здоров’я</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Надгробок",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Поставте надгробок, який породжує упиря кожні <style=cIsUtility>10 секунд</style>. Щоразу, коли упиря вбивають, гробниця породжує <style=cIsDamage>мстиву душу</style> <style=cIsUtility>вибухівку</style>, яка стріляє у ворога поблизу, завдаючи <style=cIsDamage>350% шкоди</style>.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Як Mortician, пройдіть гру або знищіть на Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Погрібник: Майстерність",
+        "BOG_GHOUL_BODY_NAME": "Гуль",
+        "BOG_TOMBSTONE_BODY_NAME": "Надгробок"
+    }
+}

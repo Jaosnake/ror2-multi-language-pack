@@ -1,0 +1,27 @@
+{
+    "es-ES": {
+        "ITEM_BARRIERONCRIT_NAME": "Pendientes de bismuto",
+        "ITEM_BARRIERONCRIT_DESCRIPTION": "Obtenga <style=cIsDamage>5% de probabilidad de sangrado</style>. Obtiene una <style=cIsHealing>barrera temporal</style> al aplicar sangrado para <style=cIsHealing>15 salud</style> <style=cStack>(+10 por acumulación)</style>.",
+        "ITEM_BARRIERONCRIT_PICKUP": "Ganar barrera al aplicar sangrado",
+        "ITEM_BARRIERONCRIT_LORE": "Los pendientes son de bismuto o algo así.",
+        "ITEM_ENIGMATICKEYCARD_NAME": "Tarjeta de acceso enigmática",
+        "ITEM_ENIGMATICKEYCARD_PICKUP": "Posibilidad de generar un orbe al golpear que sigue y daña a los enemigos.",
+        "ITEM_ENIGMATICKEYCARD_DESCRIPTION": "4% de probabilidad al golpear de generar un <style=cIsDamage>orbe de búsqueda</style> que golpea a los enemigos cercanos con <style=cIsDamage>140% de daño base <style=cStack>(+140% por acumulación)</style></style> al impactar.",
+        "ITEM_ENIGMATICKEYCARD_LORE": "Ninguna tarjeta de acceso podrá abrir el maldito cerebro de Enigma",
+        "ITEM_BLEEDCRIPPLE_NAME": "La daga de Fabinhoru",
+        "ITEM_BLEEDCRIPPLE_PICKUP": "Golpear a enemigos sangrantes reduce su armadura.",
+        "ITEM_BLEEDCRIPPLE_DESCRIPTION": "Obtienes <style=cIsDamage>5%</style> probabilidad de <style=cIsDamage>sangrar</style> a un enemigo al golpear. <style=cIsDamage>Golpear</style> enemigos mientras están <style=cIsDamage>sangrando</style> reduce su <style=cIsDamage>armadura</style> en</style>0__30</style>1__</style>2__(+15 por acumulación)</style>3__.",
+        "ITEM_BLEEDCRIPPLE_LORE": "ella fabin mi daga hasta que yo horu",
+        "ITEM_GLASSHARVESTER_NAME": "Cosechadora de vidrio",
+        "ITEM_GLASSHARVESTER_PICKUP": "Tus 'golpes críticos' causan un 40% de daño adicional. Se rompe con poca salud, otorgando experiencia.",
+        "ITEM_GLASSHARVESTER_DESC": "Obtienes <style=cIsDamage>5% de probabilidad de golpe crítico</style>. <style=cIsDamage>Los golpes críticos</style> causan un <style=cIsDamage>40% de daño adicional</style><style=cStack>(+30% por acumulación)</style>. Recibir daño por debajo de <style=cIsHealth>25% de salud</style></style>0__rompe</style>1__ este objeto y otorga el 15% de la</style>2__experiencia</style>3__ de tu nivel actual.",
+        "ITEM_GLASSHARVESTER_LORE": "¿Cosecha vidrio o cosecha con vidrio?\nNo lo sé y no me importa sal de mi casa",
+        "ITEM_GLASSHARVESTERCONSUMED_NAME": "Cosechadora de vidrio (rota)",
+        "ITEM_GLASSHARVESTERCONSUMED_PICKUP": "Cosecha recogida. ¿Valió la pena la experiencia?",
+        "ITEM_GLASSHARVESTERCONSUMED_DESC": "Un objeto gastado al que no le queda energía.",
+        "ITEM_PICKUPBUFF_NAME": "Capa de Jape",
+        "ITEM_PICKUPBUFF_PICKUP": "Obtén una mejora que otorga armadura y curación al recoger un objeto.",
+        "ITEM_PICKUPBUFF_DESCRIPTION": "Obtén un beneficio que te otorga <style=cIsUtility>+5 armadura</style> y <style=cIsHealing>30% de curación</style> al recoger un objeto. Límite máximo de 3 mejoras <style=cStack> (+2 por acumulación) </style>.",
+        "ITEM_PICKUPBUFF_LORE": "\"Registro del intendente. 17 días después del accidente.\n\nHa pasado más de medio mes desde que casi nos quemamos hasta convertirnos en pasta negra humeante durante nuestra involuntaria introducción a la atmósfera de este planeta asesino. Debido a la naturaleza de nuestra llegada, que fue un escape de una nave de carga colapsada que había sido arrancada del viaje warp, nuestro suministro de necesidades ha estado disminuyendo desde un recuento de bases ya peligrosamente bajo. Nos hemos visto obligados a racionar la poca comida y agua que tenemos. Para controlar esto, me han elegido intendente de nuestro puesto de avanzada \nNuestros suministros son los siguientes:\n\n-Suficiente comida y agua para aproximadamente 1 semana y media.\n-3 cajas y media de cartón llenas de metal y circuitos recuperados de drones y centinelas destruidos.\n-4 bolsas de equipo médico \n-2. llaveros, cada uno con 13 llaves oxidadas (Esto debe ser un error, Juárez dice que fue traído junto con el resto del botín que esos tres tipos trajeron hace 2 días, ¿están imprimiendo esto o algo así?) \n-6 cajas llenas de municiones (potencialmente disminuyendo a un ritmo exponencial)\n\nAlgo no está alineado en el tablero de anuncios que colocamos para rastrear cuántos suministros han estado tomando todos. no lo cubre todo. Si bien esto puede ser simplemente una falta de comunicación por parte de todos, la posibilidad de que alguien tome más de lo que necesita aumenta constantemente cada día. No tengo ninguna evidencia que apunte hacia esto exactamente, pero es una posibilidad (muy aterradora) \n\n\nSi es solo una persona que lo toma todo, entonces a las tasas que se han mostrado... \nSimplemente podrían estar más preparados que el resto. us.\n\nEnd log.\n\n\nAnexo: ¿QUIÉN. EN EL SANTO NOMBRE DE DIOS DE ARRIBA TOMÓ MIS."
+    }
+}

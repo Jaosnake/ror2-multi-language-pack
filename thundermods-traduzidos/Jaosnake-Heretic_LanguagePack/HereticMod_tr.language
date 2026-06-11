@@ -1,0 +1,12 @@
+{
+    "tr": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Kafir <style=cIsUtility>daha hızlı hareket eder</style> ve havadayken ekstra yükseklik için <style=cIsUtility>kanatlarını iki kez çırpabilir</style>.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Sapkınlığın İşareti",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Muazzam bir istatistik artışı elde edin... <color=#FF7F7F>AMA sağlığınız zamanla azalır.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "<style=cIsHealing>health</style> değerini <style=cIsHealing>400%</style> ve <style=cIsDamage>damage</style> değerini <style=cIsDamage>50%</style> artırın. <style=cIsHealing>temel sağlık yenilenmesini</style> değerini</style>0__-6hp/s</style>1__ değerine düşürün.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Tekrar tekrar <style=cIsDamage>%175 hasar</style> veren bir bıçak topunu şarj edin. Bir gecikmeden sonra patlatın ve <style=cIsDamage>root</style> tüm düşmanları <style=cIsDamage>700% hasar</style> için.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Hasar vermek, bir <style=cIsDamage>Ruin</style> yığını ekler. <style=cIsDamage>becerisinin etkinleştirilmesi tüm Yıkım yüklerini</style> sınırsız mesafede patlatır ve <style=cIsDamage>%300 hasar</style> artı <style=cIsDamage>Ruin</style> yığını başına <style=cIsDamage>%120 hasar</style> verir.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Gizli hayatta kalan kişi olarak aydan kaçın."
+    }
+}

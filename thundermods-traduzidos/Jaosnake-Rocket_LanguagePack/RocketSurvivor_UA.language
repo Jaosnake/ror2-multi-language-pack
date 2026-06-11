@@ -25,14 +25,14 @@
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME": "Ракетний шторм",
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION": "Швидко <style=cIsDamage>вистрілює 10 ракет</style> та <style=cIsUtility>перезаряджає вашу зброю</style>.",
         "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
-        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "У ролі Ракети досягніть і пройдіть через Небесний портал за 25 хвилин або менше.",
         "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
-        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "As Rocket, blast jump 10 times in a row without touching the ground.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "Граючи за Ракету, вибухайте 10 разів поспіль, не торкаючись землі.",
         "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "Бомбардир",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "Як Rocket, пройдіть гру або знищіть на Monsoon.",
         "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "Рейнджер",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>"
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "Граючи за Ракету, пройдіть гру або знищіть на Typhoon або Eclipse.\n<color=#8888>(Складність Typhoon вимагає Starstorm 2)</color>"
     }
 }

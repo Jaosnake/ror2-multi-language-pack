@@ -1,0 +1,29 @@
+{
+    "es-ES": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_SUBTITLE": "Manipulador de grietas",
+        "PRIMARY_GAUNTLET_RANGED": "Grieta del proyectil",
+        "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Dispara una grieta de largo alcance con un daño del 500%.",
+        "SECONDARY_FRACTURE": "Fractura",
+        "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Fractura</style>. Dispara una grieta de largo alcance que inflige un 75 % de daño y provoca hasta 5 destrozos.",
+        "SECONDARY_FAULT_LINE": "Línea de falla",
+        "SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Fractura</style>. Crea una línea de falla que se hace añicos e inflige un 700% de daño.",
+        "UTILITY_SLIPSTREAM": "Estela dimensional",
+        "UTILITY_SLIPSTREAM_DESCRIPTION": "Teletransportarse a corta distancia. Actualiza el stock de habilidades secundarias.",
+        "UTILITY_CHAINED_WORLDS": "Mundos encadenados",
+        "UTILITY_CHAINED_WORLDS_DESCRIPTION": "Conecta dos puntos en el espacio, creando un portal que transporta proyectiles.",
+        "UTILITY_QUANTUM_RIFT": "Grieta cuántica",
+        "UTILITY_QUANTUM_RIFT_DESCRIPTION": "Abre una grieta cuántica que distorsiona el espacio circundante.",
+        "SPECIAL_TIMELOCK": "Bloqueo de tiempo",
+        "SPECIAL_TIMELOCK_DESCRIPTION": "Bloquea el tiempo de los enemigos en un área, congelándolos durante unos segundos.",
+        "SPECIAL_RECURSION": "recursividad",
+        "SPECIAL_RECURSION_DESCRIPTION": "Replica una grieta, lo que hace que vuelva a hacer eco después de un breve período.",
+        "PASSIVE_RIFT_BOOST": "Impulso de grieta",
+        "PASSIVE_RIFT_BOOST_DESCRIPTION": "Tus fisuras otorgan un aumento de velocidad de movimiento al atravesarlas.",
+        "PASSIVE_RIFT_FRACTURE": "Fractura de grieta",
+        "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Los enemigos golpeados por fisuras acumulan destrucción, lo que aumenta el daño recibido.",
+        "MASTERY_SKIN_NAME": "Rifter: Maestría",
+        "BLAKE_NEM_RIFTER_NAME": "Némesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Grieta corrupta"
+    }
+}

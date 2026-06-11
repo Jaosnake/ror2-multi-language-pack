@@ -1,6 +1,6 @@
 {
     "zh-CN": {
-        "KENKO_UNFORGIVEN_NAME": "Wanderer",
+        "KENKO_UNFORGIVEN_NAME": "流浪者",
         "KENKO_UNFORGIVEN_DESCRIPTION": "流浪者是一个低门槛高上限的幸存者,可以利用动画取消保持高DPS。<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "不可饶恕者",
         "KENKO_UNFORGIVEN_LORE": "如果你被亚索杀了,那你就是被碾压了。这意味着他必须精确地按照他的条件计算(并执行)这场战斗,考虑到你和他的冷却时间、双方打野的位置、兵线以及整条对线路的'感觉'(这是一种需要数年,甚至数十年时间来磨练的能力,也就是你所谓的'打游戏')。确实,被亚索击败意味着认识到你遇到了比你更强的人,无论是作为玩家还是作为一个人。你的勇气辜负了你,但亚索玩家是坚硬的钢铁——坚硬、冷酷、可靠——当他拿下一血而你焦急地等待投降投票时,他的大脑仍在全速运转,为近乎无限的可能性准备策略。我现在就拿走我的LP了,下次记得正确地禁用英雄。",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "第一息",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "闪烁到目标或附近的<style=cIsUtility>浮空</style>敌人并快速攻击造成<style=cIsDamage>2x250% + 800%伤害</style>。获得额外<style=cIsDamage>护甲穿透</style>持续6秒。\n<color=#d299ff>权杖: <style=cIsUtility>重置副技能冷却</style>。被<color=#FFBF66>First Breath</color>击中的敌人可再次成为<color=#FFBF66>Sweeping Blade</color>的目标。</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "作为流浪者，击败游戏或消灭季风。"
     }
 }

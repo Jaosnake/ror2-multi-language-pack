@@ -1,0 +1,12 @@
+{
+    "zh-CN": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "异端 <style=cIsUtility> 移动速度更快 </style> 并且可以 <style=cIsUtility> 拍打翅膀两次 </style> 在空中获得额外高度。",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "异端标记",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "获得巨大的统计提升...<color=#FF7F7F>但是你的健康状况会随着时间的推移而衰退.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "将 <style=cIsHealing>health</style> 增加 <style=cIsHealing>400%</style>，将 <style=cIsDamage>damage</style> 增加 <style=cIsDamage>50%</style>。将<style=cIsHealing>基础生命恢复</style>减少至</style>0__-6hp/s</style>1__。",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "给一团刀片蓄力，反复造成 <style=cIsDamage>175% 伤害</style>。延迟一段时间后，爆炸并<style=cIsDamage>root</style>所有敌人造成<style=cIsDamage>700%伤害</style>。",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "造成伤害会增加一堆 <style=cIsDamage>Ruin</style>。激活技能<style=cIsDamage>会在无限范围内引爆所有废墟层</style>，每层<style=cIsDamage>Ruin</style>造成<style=cIsDamage>300%伤害</style>加上<style=cIsDamage>120%伤害</style>。",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "作为秘密幸存者逃离月球。"
+    }
+}

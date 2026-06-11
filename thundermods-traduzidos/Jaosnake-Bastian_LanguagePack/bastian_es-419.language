@@ -12,7 +12,7 @@
         "BASTIAN_M2": "Micro-Bala",
         "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara hasta 5 balas de energía, cada una causando <style=cIsDamage>250% de daño</style>. Acumula <style=cIsUtility>Cargas Iónicas</style>. No aplica aturdimiento mientras estás Evasivo.",
         "BASTIAN_UTIL": "Nano-Resorte",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ejecuta</style> un dash rápido en cualquier dirección. Acumula <style=cIsUtility>Cargas Iónicas</style>.",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ejecutar</style> un guión rápido en cualquier dirección. Genera <style=cIsUtility>Cargas iónicas</style>.",
         "BASTIAN_SPEC": "Explosión del Arquitecto",
         "BASTIAN_SPEC_DESCRIPTION": "Gasta <style=cIsHealth>33% de vida actual</style> y <style=cIsUtility>todas las Cargas Iónicas</style> para una explosión masiva de <style=cIsDamage>500%-3.000% de daño</style>. Tras usarlo, te vuelves <color=#E9AFEA>Evasivo</color> por 10 segundos.",
         "BASTIAN_SPEC_KEYWORD": "Especial",

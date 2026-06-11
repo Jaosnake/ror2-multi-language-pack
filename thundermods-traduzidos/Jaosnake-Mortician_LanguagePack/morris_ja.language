@@ -19,7 +19,7 @@
         "BOG_GHOUL_BODY_NAME": "グール",
         "BOG_TOMBSTONE_BODY_NAME": "墓石",
         "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery"
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "葬儀屋として、ゲームに勝つか、モンスーンで全滅させてください。",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "葬儀屋：マスタリー"
     }
 }

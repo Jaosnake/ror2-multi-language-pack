@@ -1,0 +1,30 @@
+{
+    "UA": {
+        "BLAKE_RIFTER_NAME": "Рифтер",
+        "BLAKE_RIFTER_DESCRIPTION": "Rifter використовує стратегічне позиціонування для створення руйнівних розломів у реальності.<color=#CCD3E0></i>",
+        "BLAKE_RIFTER_SUBTITLE": "Маніпулятор Rift",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..і тому він залишив розколотий світ позаду.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..і тому він зник з усіх царств.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Майстерність",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Rift Boost",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Ваші розколини дають приріст швидкості руху під час проходження через них.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Рифтовий перелом",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Вороги, уражені тріщинами, розбиваються, збільшуючи завдану шкоду.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Снарядний розлом",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Стріляйте далекобійною тріщиною, завдаючи 500% шкоди.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Перелом",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Перелом</style>. Запустіть дальній розлом, завдаючи 75% шкоди, завдаючи до 5 розколів.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Лінія розлому",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Перелом</style>. Створіть лінію розлому, яка розбивається, завдаючи 700% шкоди.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Габаритний струмінь",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Телепортація на невелику відстань. Оновлює вторинний запас навичок.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Квантовий розрив",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "Відкрийте квантову тріщину, яка спотворює навколишній простір.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Прикуті світи",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "З'єднайте дві точки в просторі, створивши портал, який транспортує снаряди.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Блокування часу",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Фіксуйте час ворогів у зоні, заморожуючи їх на кілька секунд.",
+        "BLAKE_NEM_RIFTER_NAME": "Немезида Рифтер",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Пошкоджений розрив"
+    }
+}

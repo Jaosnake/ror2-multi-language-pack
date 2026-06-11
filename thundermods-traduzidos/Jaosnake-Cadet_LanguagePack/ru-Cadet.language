@@ -1,7 +1,7 @@
 {
-    "ru": {
+    "RU": {
         "KENKO_CADET_NAME": "Кадет",
-        "KENKO_CADET_DESCRIPTION": "Кадет - универсальный стрелок, способный маневрировать в бою с оружием ближнего радиуса и быстрой мобильностью.<color=#CCD3E0>Original mod by tsuyoikenko</i>",
+        "KENKO_CADET_DESCRIPTION": "Кадет — универсальный стрелок, умеющий вести бой с помощью оружия ближнего действия и обладающий быстрой мобильностью.<color=#CCD3E0></i>",
         "KENKO_CADET_SUBTITLE": "Универсальный Стрелок",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "Обычный",
         "KENKO_CADET_MASTERY_SKIN_NAME": "Кадет: Специалист",

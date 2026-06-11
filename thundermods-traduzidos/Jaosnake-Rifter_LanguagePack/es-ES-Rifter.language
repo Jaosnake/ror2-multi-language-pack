@@ -1,0 +1,30 @@
+{
+    "es-ES": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_DESCRIPTION": "El Rifter utiliza el posicionamiento estratégico para crear divisiones devastadoras en la realidad.<color=#CCD3E0></i>",
+        "BLAKE_RIFTER_SUBTITLE": "Manipulador de grietas",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..y así dejó atrás un mundo fracturado.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..y así desapareció de todos los reinos.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Maestría",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Impulso de grieta",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Tus fisuras otorgan un aumento de velocidad de movimiento al atravesarlas.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Fractura de grieta",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Los enemigos golpeados por fisuras acumulan destrucción, lo que aumenta el daño recibido.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Grieta del proyectil",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Dispara una grieta de largo alcance con un daño del 500%.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Fractura",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Fractura</style>. Dispara una grieta de largo alcance que inflige un 75 % de daño y provoca hasta 5 destrozos.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Línea de falla",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Fractura</style>. Crea una línea de falla que se hace añicos e inflige un 700% de daño.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Estela dimensional",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Teletransportarse a corta distancia. Actualiza el stock de habilidades secundarias.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Grieta cuántica",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "Abre una grieta cuántica que distorsiona el espacio circundante.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Mundos encadenados",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "Conecta dos puntos en el espacio, creando un portal que transporta proyectiles.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Bloqueo de tiempo",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Bloquea el tiempo de los enemigos en un área, congelándolos durante unos segundos.",
+        "BLAKE_NEM_RIFTER_NAME": "Némesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Grieta corrupta"
+    }
+}

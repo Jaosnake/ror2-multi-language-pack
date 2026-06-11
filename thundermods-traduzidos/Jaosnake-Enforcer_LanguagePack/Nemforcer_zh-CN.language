@@ -3,7 +3,7 @@
         "NEMFORCER_NAME": "天罚执法者",
         "NEMFORCER_DESCRIPTION": "天罚执法者是一个勇敢和力量的化身,一个不容忽视的超自然存在。<color=#CCD3E0>\n\n< ! > 黄金之锤可以一次击中多个敌人。\n\n< ! > 从高处使用技能\"统治\"进行毁灭性的猛击。\n\n< ! > 用黄金迷你炮扫射是击败强大boss的关键。\n\n< ! > 盾牌是为胆小鬼准备的。\n\n",
         "NEMFORCER_SUBTITLE": "纯洁的影子",
-        "NEMFORCER_LORE": "\nheavy tf2\n\n",
+        "NEMFORCER_LORE": "\n重tf2\n\n",
         "NEMFORCER_OUTRO_FLAVOR": "...于是他离开了,带着新的可能去追求荣耀。",
         "NEMFORCER_OUTRO_FAILURE": "...于是他回归了,固若金汤的堡垒真正不朽。",
         "NEMFORCER_BOSS_NAME": "究极天罚执法者",
@@ -43,12 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "我的世界",
         "NEMFORCERBODY_FEM_SKIN_NAME": "飙升",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "作为执法者，在季风或更高温度时，稳定虚空领域并击败执法者的遗迹。",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "作为复仇女神执行者，击败游戏或消灭季风。",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "作为复仇女神执行者，在台风或日食中击败游戏或消灭。\n<color=#8888>（计算任何台风或更高难度）</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "作为复仇女神执行者，使用统治力一次摧毁 5 个射弹。",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "复仇女神执行者在使用 <style=cIsDamage> 近战攻击 </style> 攻击敌人时，会在 3 秒内恢复 <style=cIsHealing>2%</style> 的 <style=cIsHealing> 最大生命值</style>。",
+        "NEMFORCER_PROC_UPPERCUT": "上勾拳",
+        "NEMFORCER_PROC_SLAM": "大满贯",
+        "NEMFORCER_PROC_JAM": "果酱"
     }
 }

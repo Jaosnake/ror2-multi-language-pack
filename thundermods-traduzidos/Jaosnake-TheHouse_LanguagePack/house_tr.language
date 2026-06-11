@@ -1,0 +1,15 @@
+{
+    "tr": {
+        "JAVANGLE_HOUSE_BODY_NAME": "Ev",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "Çılgın Kumarbaz",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House, kaderin iki gizemli eserini kullanarak zor durumların üstesinden gelmek için şansına güvenen çılgın bir kumarbazdır: <style=cIsUtility>\"Rulet\"</style> adlı 6 atışlık bir tabanca ve görünüşte lanetli bir kart destesi.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Varsayılan",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Ustalık",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: Geçersiz",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Rastgele yüklü bir atış yapın. Atış kalmadığında: hiçbir şey yapmaz.",
+        "DEFAULT_SKIN_NAME": "Varsayılan",
+        "MASTERY_SKIN_NAME": "Ev: Ustalık",
+        "BODY_OUTRO_FLAVOR": "..ve böylece bir kez daha kadere oyun oynayarak gitti.",
+        "BODY_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, sonunda şansı yaver gitmişti."
+    }
+}

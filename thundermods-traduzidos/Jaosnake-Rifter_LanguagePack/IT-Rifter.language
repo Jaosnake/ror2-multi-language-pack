@@ -1,0 +1,30 @@
+{
+    "IT": {
+        "BLAKE_RIFTER_NAME": "Rifter",
+        "BLAKE_RIFTER_DESCRIPTION": "Il Rifter utilizza il posizionamento strategico per creare spaccature devastanti nella realtà.<color=#CCD3E0></i>",
+        "BLAKE_RIFTER_SUBTITLE": "Manipolatore della spaccatura",
+        "BLAKE_RIFTER_OUTRO_FLAVOR": "..e così ha lasciato dietro di sé un mondo fratturato.",
+        "BLAKE_RIFTER_OUTRO_FAILURE": "..e così scomparve da tutti i regni.",
+        "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Rifter: Maestria",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Potenziamento della frattura",
+        "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Le tue spaccature garantiscono un aumento della velocità di movimento quando le attraversi.",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE": "Frattura della spaccatura",
+        "BLAKE_RIFTER_PASSIVE_RIFT_FRACTURE_DESCRIPTION": "I nemici colpiti dalle fratture accumulano frantumi, aumentando i danni subiti.",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Spaccatura del proiettile",
+        "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Spara una spaccatura a lungo raggio per il 500% di danni.",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE": "Frattura",
+        "BLAKE_RIFTER_SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Frattura</style>. Spara una spaccatura a lungo raggio per il 75% dei danni, provocando fino a 5 frantumi.",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Linea di faglia",
+        "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Frattura</style>. Crea una linea di faglia che si frantuma, infliggendo il 700% di danni.",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Scivola dimensionale",
+        "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Teletrasportarsi a breve distanza. Aggiorna lo stock di abilità secondarie.",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT": "Spaccatura quantistica",
+        "BLAKE_RIFTER_UTILITY_QUANTUM_RIFT_DESCRIPTION": "Apri una spaccatura quantica che distorce lo spazio circostante.",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS": "Mondi incatenati",
+        "BLAKE_RIFTER_UTILITY_CHAINED_WORLDS_DESCRIPTION": "Collega due punti nello spazio, creando un portale che trasporta proiettili.",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Blocco orario",
+        "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Blocca il tempo dei nemici in un'area, congelandoli per alcuni secondi.",
+        "BLAKE_NEM_RIFTER_NAME": "Nemesis Rifter",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Spaccatura Corrotta"
+    }
+}

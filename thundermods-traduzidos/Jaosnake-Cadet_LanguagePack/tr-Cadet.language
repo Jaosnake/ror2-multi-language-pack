@@ -1,0 +1,25 @@
+{
+    "tr": {
+        "KENKO_CADET_NAME": "Harbiyeli",
+        "KENKO_CADET_DESCRIPTION": "Cadet, kısa menzilli silahlarla ve hızlı hareket kabiliyetiyle savaşta yön bulabilen çok yönlü bir nişancıdır.<color=#CCD3E0></i>",
+        "KENKO_CADET_SUBTITLE": "Çok Yönlü Nişancı",
+        "KENKO_CADET_DEFAULT_SKIN_NAME": "Varsayılan",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Öğrenci: Uzman",
+        "KENKO_CADET_PRIMARY_SMG_NAME": "Mermi Fırtınası",
+        "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Çevik</style>. <style=cIsDamage>%60 hasar</style> için bir lazer ateşleyin. 20 turdan sonra <style=cIsUtility>reload</style> gerektirir.",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Yıkıcı Gelgitler",
+        "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Çevik</style>. <style=cIsDamage>3x100% hasar</style> için bir patlama yapın. 10 mermiden sonra <style=cIsUtility>reload</style> gerektirir.",
+        "KENKO_CADET_SECONDARY_GRENADE_NAME": "B Planı",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "<style=cIsDamage>%400 hasar</style> için hafif el bombası fırlatıcınızı ateşleyin.",
+        "KENKO_CADET_SECONDARY_THROWGUN_NAME": "C Planı",
+        "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Silahınızı fırlatırsanız, mevcut cephaneye bağlı olarak <style=cIsDamage>%250 ile %750 arası hasar</style> verirsiniz.",
+        "KENKO_CADET_UTILITY_SLIDE_NAME": "Kayar Yeniden Yükleme",
+        "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Bir yöne doğru kaydırın, silahınızı anında <style=cIsUtility>yeniden yükleyin</style>.",
+        "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Rulo Yeniden Yükleniyor",
+        "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Bir yöne doğru yuvarlanın ve silahınızı anında <style=cIsUtility>yeniden yükleyin</style>.",
+        "KENKO_CADET_SPECIAL_ULTRA_NAME": "A Planı",
+        "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Çevik</style>. <style=cIsDamage>32x150% hasar</style> için ağır bir saçma saçma patlaması yapın.",
+        "KENKO_CADET_SPECIAL_ECHO_NAME": "Yankı Dronları",
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Yakındaki düşmanları arayarak <style=cIsDamage>2x370% hasar</style> veren <style=cIsDamage>iki drone</style> konuşlandırın."
+    }
+}

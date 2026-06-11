@@ -34,7 +34,7 @@
         "SQUALL_SPECIAL_GOFORTHROAT_NAME": "В Горло!",
         "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Прикажите Шквалу многократно атаковать целевого врага для <style=cIsDamage>70% урона</style>. Каждая атака временно снижает <style=cIsDamage>броню</style> и <style=cIsUtility>восстанавливает 1%</style> батареи, удвоено при критических ударах. Этот навык может временно <style=cIsUtility>перегружать</style> батарею.",
         "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Следопыта, пройдите игру или уничтожьте город Муссон.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Следопыт: Мастерство"
     }
 }

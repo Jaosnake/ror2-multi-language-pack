@@ -1,0 +1,12 @@
+{
+    "RU": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Еретик <style=cIsUtility> движется быстрее</style> и может <style=cIsUtility> дважды взмахнуть крыльями</style> для увеличения высоты в воздухе.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Знак ереси",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Получите огромный прирост характеристик... <color=#FF7F7F>НО ваше здоровье со временем ухудшается.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Увеличьте <style=cIsHealing>health</style> на <style=cIsHealing>400%</style> и <style=cIsDamage>damage</style> на <style=cIsDamage>50%</style>. Уменьшите базовую регенерацию здоровья <style=cIsHealing></style> до</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Зарядите шар лезвий, который неоднократно наносит <style=cIsDamage>175% урона</style>. После задержки взорвите и <style=cIsDamage>root</style> всем врагам, нанеся <style=cIsDamage>700% урона</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Нанесение урона добавляет стек <style=cIsDamage>Ruin</style>. Активация навыка <style=cIsDamage> взрывает все стопки Руин</style> на неограниченном расстоянии, нанося <style=cIsDamage>300% урона</style> плюс <style=cIsDamage>120% урона</style> за каждую стопку <style=cIsDamage>Руина</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Сбегите с Луны как тайный выживший."
+    }
+}

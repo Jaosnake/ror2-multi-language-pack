@@ -9,6 +9,7 @@
         "HABIBI_RECOLOR_CYAN_NAME": "Блакитний",
         "HABIBI_RECOLOR_PURPLE_NAME": "Фіолетовий",
         "HABIBI_RECOLOR_PINK_NAME": "Рожевий",
-        "HABIBI_RECOLOR_BLACK_NAME": "Чорний"
+        "HABIBI_RECOLOR_BLACK_NAME": "Чорний",
+        "HABIBI_RECOLOR_WHITE_NAME": "Білий"
     }
 }

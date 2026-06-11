@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "최초의 숨결",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "대상 또는 주변의 <style=cIsUtility>공중</style> 적에게 점멸하여 빠르게 공격해 <style=cIsDamage>2x250% + 800% 피해</style>를 입힙니다. 6초간 추가 <style=cIsDamage>방어구 관통력</style>을 얻습니다.\n<color=#d299ff>SCEPTER: <style=cIsUtility>보조 스킬 쿨다운을 초기화합니다</style>. <color=#FFBF66>최초의 숨결</color>에 적중된 적은 <color=#FFBF66>휩쓰는 검격</color>으로 다시 대상 지정이 가능합니다.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Wanderer로 게임을 승리하거나 Monsoon에서 말살하세요."
     }
 }

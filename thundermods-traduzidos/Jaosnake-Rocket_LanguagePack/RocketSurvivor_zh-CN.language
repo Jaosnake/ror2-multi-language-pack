@@ -25,14 +25,14 @@
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_NAME": "火箭风暴",
         "MOFFEIN_ROCKET_BODY_SPECIAL_SCEPTER_DESCRIPTION": "立即<style=cIsDamage>发射10枚火箭弹</style>, 随后<style=cIsUtility>重装填你的武器</style>.",
         "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
-        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "As Rocket, reach and proceed through the Celestial Portal in 25 minutes or less.",
+        "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "作为火箭，在 25 分钟或更短的时间内到达并穿过天国之门。",
         "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
-        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "As Rocket, blast jump 10 times in a row without touching the ground.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "作为火箭，在不接触地面的情况下连续跳跃 10 次。",
         "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "庞巴迪",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "作为火箭队，击败比赛或消灭季风。",
         "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "游骑兵",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "As Rocket, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Typhoon difficulty requires Starstorm 2)</color>"
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "作为火箭，在台风或日食上击败游戏或消灭.\n<color=#8888>（台风难度需要星暴2）</color>"
     }
 }

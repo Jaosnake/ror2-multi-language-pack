@@ -1,6 +1,6 @@
 {
-    "fr": {
-        "KENKO_SEAMSTRESS_NAME": "Seamstress",
+    "FR": {
+        "KENKO_SEAMSTRESS_NAME": "Couturière",
         "KENKO_SEAMSTRESS_DESCRIPTION": "La Seamstress est une survivante mobile qui utilise sa santé pour infliger des dégâts. Elle gagne moins de dégâts de base par niveau, donc accumulez des objets de santé pour profiter de sa conversion de santé en dégâts.<color=#CCD3E0>",
         "KENKO_SEAMSTRESS_SUBTITLE": "La Jeune Fille en Lambeaux",
         "KENKO_SEAMSTRESS_LORE": "Peau pâle et fatigue. Signes d'une maladie se propageant parmi les enfants de la haute cour. Comme ils sont infortunés.\n\nUn nourrisson maladif, frêle et faible, pleure tout comme ses parents. Un destin tragique pour ces nobles vieillissants car elle est leur unique héritière. Avec un avenir incertain, son <style=cIsHealth>cœur</style> bat toujours.\n\nLa maladie est guérissable avec un cœur artificiel mais l'opération ne peut être pratiquée sur ceux qui n'ont pas atteint l'âge adulte. Rares sont ceux qui ont la chance de tomber dans cette fenêtre.\n\nUne adolescente alitée, sa santé déclinant rapidement. Elle s'accroche à la vie. Elle doit survivre une semaine de plus. Ne tenant qu'à un fil, son <color=#292525>cœur</color> bat toujours.\n\nBien qu'un cœur artificiel guérisse la maladie, le quotidien reste le même. Avec une maintenance fréquente et des risques de dysfonctionnement, s'aventurer loin de chez soi pourrait signifier la mort. Beaucoup se tournent vers des loisirs plus lents comme la pâtisserie et la couture mais tout le monde n'est pas satisfait de sa vie.\n\nUne couturière agitée, dotée de vitalité synthétique, méprise les murs dans lesquels elle réside. Elle ne veut rien avoir à faire avec sa noblesse. Elle l'attache à une vie monotone. Alors que l'obscurité s'installe, elle se cache dans un vaisseau civil. Remplie d'adrénaline, son <style=cIsUtility>cœur</style> bat toujours.\n\nBeaucoup de ceux qui s'enfuient reçoivent un retour à la réalité. La galaxie en dehors de la haute cour n'est pas le pays des merveilles dépeint dans les livres. Cela ressemble davantage à un conte de fées tragique.\n\nUne créature corrompue, en sursis. Comment cela a-t-il pu si mal tourner ? Le vaisseau qu'elle avait choisi — avalé par une faille créée par des diablotins qui désiraient la même évasion qu'elle. Soudain, une vague de sang se mêla au ciel cramoisi, chaque humain et diablotin fut tranché net. Alors que sa vision commençait à s'estomper, une silhouette bondit au loin tandis qu'une autre s'approchait silencieusement. Un murmure, une cible, une nouvelle vie. Son <color=#9B3737>cœur</color> bat toujours.",
@@ -13,7 +13,7 @@
         "KENKO_SEAMSTRESS_PASSIVE_NAME": "Elle a Faim",
         "KENKO_SEAMSTRESS_PASSIVE_DESCRIPTION": "Gagnez des <style=cIsDamage>dégâts de base</style> et de la <style=cIsHealing>guérison</style> selon la <style=cIsHealth>santé manquante</style>.",
         "KENKO_SEAMSTRESS_NEEDLE_NAME": "Cœur Touché par le Diablotin",
-        "KENKO_SEAMSTRESS_NEEDLE_DESCRIPTION": "Consommez des <color=#9B3737>Aiguilles</color> en sautant en l'air, vous permettant de <color=#9B3737>Clignoter</color> et de tirer un projectile infligeant <style=cIsDamage>40% de dégâts</style>.",
+        "KENKO_SEAMSTRESS_NEEDLE_DESCRIPTION": "Consommez <color=#9B3737>Needles</color> en sautant dans les airs en vous laissant <color=#9B3737>Blink</color> et tirez un projectile infligeant <style=cIsDamage>40 % de dégâts</style>.",
         "KENKO_SEAMSTRESS_PRIMARY_TRIM_NAME": "Tailler",
         "KENKO_SEAMSTRESS_PRIMARY_TRIM_DESCRIPTION": "<color=#9B3737>Impitoyable.</color> Tranche devant pour <style=cIsDamage>120% + 200% de dégâts</style>. Chaque 3e coup inflige <style=cIsDamage>150% + 200% de dégâts</style>.",
         "KENKO_SEAMSTRESS_PRIMARY_FLURRY_NAME": "Rafale",
@@ -31,8 +31,8 @@
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Saccage",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% PV</style>. Lancez un ciseau <color=#9B3737>Symbiotique</color> infligeant <style=cIsDamage>400% de dégâts</style>. Ramassez les ciseaux <color=#9B3737>Symbiotiques</color> pour trancher à <style=cIsDamage>200% de dégâts</style>.\n<color=#d299ff>SCEPTER : Votre arme <color=#9B3737>Symbiotique</color> n'a qu'un <style=cIsUtility>temps de ramassage de 1,5 seconde</style>.</color>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que couturière, terminez le jeu ou effacez la mousson.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Eclipse or higher."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "En tant que couturière, terminez le jeu ou effacez sur Eclipse ou supérieur."
     }
 }

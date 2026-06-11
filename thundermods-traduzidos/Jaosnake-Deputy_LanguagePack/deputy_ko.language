@@ -1,0 +1,19 @@
+{
+    "ko": {
+        "BOG_DEPUTY_BODY_NAME": "대리인",
+        "BOG_DEPUTY_BODY_SUBTITLE": "번개 정의",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Deputy는 쌍발 리볼버와 치명적인 발차기로 정의를 실현하는 극도로 공격적인 속도의 악마입니다.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "기본",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "끊임없는 추격",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "부관은 어떤 방향으로든 질주할 수 있습니다. 그녀의 스킬로 적을 공격하면 중첩 가능한 <style=cIsUtility>이동 속도</style> 버프가 부여됩니다.",
+        "PRIMARY_SHOOT_NAME": "슈어샷",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>민첩한</style>. <style=cIsDamage>150% 피해</style>를 위해 중거리 리볼버로 사격하세요.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>민첩한</style>. 리볼버 두 개를 던집니다. <style=cIsDamage>놀랍습니다</style>. 점프하여 아래에 있는 적을 쏘면 <style=cIsDamage>6x100% 피해</style>가 발생합니다.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>민첩한</style>. 약간 위쪽으로 기울일 수 있는 정확한 사격을 가합니다. <style=cIsDamage>150% 피해</style>를 처리합니다.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800% 피해</style>. <style=cIsUtility>킬을 하면 유틸리티 스킬 쿨다운이 재설정됩니다</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "공중으로 높이 도약하여 아래로 맹렬하게 총알을 발사해 <style=cIsDamage>150% 피해</style>를 선사합니다.",
+        "MASTERY_SKIN_NAME": "부관: 숙달",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..그래서 그녀는 엄청난 박수소리와 함께 떠났습니다.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..그래서 그녀는 사라졌고, 그녀의 공연은 마침내 끝났습니다."
+    }
+}

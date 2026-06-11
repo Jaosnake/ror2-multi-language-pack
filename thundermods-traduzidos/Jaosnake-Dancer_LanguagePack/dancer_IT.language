@@ -1,0 +1,21 @@
+{
+    "IT": {
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Nastro restrittivo",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "I nemici dotati di nastro sanguinano subendo il 50% di danni al secondo e non possono agire.",
+        "PRIMARY_SLASH_NAME": "Barra",
+        "PRIMARY_SLASH_DESCRIPTION": "Attacco in mischia con effetti basati sulla tua mira. (Passa il mouse per i dettagli)",
+        "PRIMARY_SLASH2_NAME": "Taglio",
+        "PRIMARY_SLASH2_DESCRIPTION": "Attacco in mischia con effetti basati sulla tua mira. (Passa il mouse per i dettagli)",
+        "UTILITY_PULL_NAME": "Tiro",
+        "UTILITY_PULL_DESCRIPTION": "Attira i nemici verso di te.",
+        "SPECIAL_RIBBON_LOCK_NAME": "Nastro vincolante",
+        "SPECIAL_RIBBON_LOCK_DESCRIPTION": "Applica il nastro adesivo a un nemico, impedendogli di agire e causare sanguinamento.",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Inserimento a terra, mira in avanti. Lanciati in avanti e infliggi <style=cIsDamage>180% di danni</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Inclinazione verso il basso</style><style=cSub>Ingresso da terra, mira verso il basso. Lancia i nemici verso l'alto e infligge <style=cIsDamage>200% di danni</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Aria in avanti</style><style=cSub>Ingresso aereo, mira in avanti. Colpo pesante che infligge <style=cIsDamage>180% di danni</style> e inchioda i nemici a terra, stordendoli e infliggendo fino a <style=cIsDamage>300% di danni</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>I nemici fasciati sanguinano per <style=cIsDamage>50% di danni al secondo</style> e non possono agire.",
+        "NDP_DANCER_BODY_SUBTITLE": "Danza mortale",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "NDP_DANCER_GOLD_SKIN_NAME": "D'oro"
+    }
+}

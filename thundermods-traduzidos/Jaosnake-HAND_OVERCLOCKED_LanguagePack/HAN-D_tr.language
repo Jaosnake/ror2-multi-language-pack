@@ -28,17 +28,17 @@
         "MOFFEIN_HAND_BODY_SPECIAL_SPEED_NAME": "DRONE - HIZ",
         "MOFFEIN_HAND_BODY_SPECIAL_SPEED_DESC": "Anlaşma sağlayan bir drone ateşleyin<style=cIsDamage>%270 hasar</style>Ve<style=cIsDamage>geçici olarak saldırı hızı sağlar</style>. Öldürmeler ve yakın dövüş saldırıları<style=cIsUtility>bekleme süresini azalt</style>.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_NAME": "Handyman",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Repair the robot janitor on Rallypoint Delta with an Escape Pod's Fuel Array.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDSURVIVORUNLOCK_DESCRIPTION": "Rallypoint Delta'daki robot hizmetliyi Kaçış Podunun Yakıt Dizini ile onarın.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_NAME": "HAN-D: Beatdown",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "Keep OVERCLOCK active for over 45 seconds.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDNEMESISFOCUSUNLOCK_DESCRIPTION": "OVERCLOCK'u 45 saniyeden fazla aktif tutun.",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_NAME": "HAN-D: Bonk!",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Flatten the final boss.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDHAMMERPRIMARYUNLOCK_DESCRIPTION": "Son patronu düzleştirin.",
         "MOFFEIN_HAND_BODY_MASTERY_SKIN_NAME": "ODUN",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_NAME": "HAN-D: Mastery",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION": "HAN-D olarak oyunu kazanın veya Muson'da yok edin.",
         "MOFFEIN_HAND_BODY_GRANDMASTERY_SKIN_NAME": "YENİDEN TRN",
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_NAME": "HAN-D: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION": "As HAN-D, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMETYPHOON_DESCRIPTION": "HAN-D olarak Typhoon veya Eclipse'te oyunu bitirin veya yok edin.\n<color=#8888>(Typhoon veya daha yüksek zorluk derecelerini sayar)</color>",
         "MOFFEIN_HAND_BODY_HOPOO_SKIN_NAME": "HO-POO"
     }
 }

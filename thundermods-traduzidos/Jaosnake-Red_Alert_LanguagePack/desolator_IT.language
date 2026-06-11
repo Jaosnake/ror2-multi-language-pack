@@ -33,10 +33,10 @@
         "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN": "<style=cIsHealing>Irradiante</style>. Gettare<style=cIsUtility>fino a 2</style>Bastoncini luminosi che coprono una vasta area di radiazioni<style=cIsUtility>11 secondi</style>, condotta<style=cIsDamage>15% di danni al secondo</style>.\n<color=#d299ff>SCETTRO: Esplode alla scadenza per<style=cIsDamage>Danno del 1600%.</style>.</color>",
         "KEYWORD_RADIATION_SPECIAL": "<style=cKeywordName>Irradiante</style><style=cSub>Ogni segno di spunta infligge<style=cIsDamage>Danno del 78%.</style>Sopra<style=cIsUtility>8 secondi</style>.</style>",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nei panni di Desolator, finisci il gioco o distruggi durante Monsoon.",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nei panni di Desolator, finisci il gioco o distruggi su Typhoon o Eclipse.\n<color=#8888>(Conta qualsiasi difficoltà Typhoon o superiore)</color>",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3."
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Trova e attiva i 3 irradiatori nella fase 3."
     }
 }

@@ -1,0 +1,26 @@
+{
+    "IT": {
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_NAME": "Morticista",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Il Mortician è un negromante da mischia lento ma robusto che eccelle nel controllare il territorio con il suo esercito di non morti.",
+        "BOG_MORRIS_BODY_SUBTITLE": "Non morti",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "...e così se ne andò, il suo triste dovere ancora inadempiuto.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..e così svanì, finalmente concessa la pace tanto desiderata.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Padronanza",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Offerta dell'anima",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "I ghoul <style=cIsUtility>attivano i loro effetti all'uccisione</style> quando vengono uccisi.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Colpo di pala",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Oscilla la tua pala per <style=cIsDamage>800% di danni</style>. Colpire ghoul e lapidi con la pala provoca <style=cIsUtility>lancio</style> per <style=cIsDamage>350% di danni</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Resuscitare morti",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Legame spirituale</style>. Evoca un ghoul a terra di fronte a te. I ghoul mordono e infliggono <style=cIsDamage>150% di danno</style> e sputano <style=cIsDamage>Pestilent</style> bile per <style=cIsDamage>100% di danno</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrificio",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Fai detonare</style> il ghoul bersaglio per <style=cIsDamage>700% di danni</style> e <style=cIsHealing>cura il 15% della tua salute massima</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Lapide",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Costruisci una lapide che genera un ghoul ogni <style=cIsUtility>10 secondi</style>. Ogni volta che un ghoul viene ucciso, la tomba genera un <style=cIsDamage>anima vendicativa</style> <style=cIsUtility>esplosivo</style> che spara contro un nemico vicino infliggendo <style=cIsDamage>350% di danno</style>.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Nei panni dell'impresario di pompe funebri, finisci il gioco o distruggi durante Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Imprenditore delle pompe funebri: maestria",
+        "BOG_GHOUL_BODY_NAME": "Ghoul",
+        "BOG_TOMBSTONE_BODY_NAME": "Lapide"
+    }
+}

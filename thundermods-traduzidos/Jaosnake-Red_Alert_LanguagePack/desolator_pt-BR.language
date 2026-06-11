@@ -23,10 +23,20 @@
         "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN": "<style=cIsHealing>Irradiante</style>. Arremesse <style=cIsUtility>até 2</style> Varetas Luminosas, que cobrem uma grande área de radiação por <style=cIsUtility>11 segundos</style>, causando <style=cIsDamage>15% de dano por segundo</style>.\n<color=#d299ff>CETRO: Explode ao expirar, causando <style=cIsDamage>1.600% de dano</style>.</color>",
         "KEYWORD_RADIATION_SPECIAL": "<style=cKeywordName>Irradiante</style><style=cSub>Cada tique inflige <style=cIsDamage>78% de dano</style> por <style=cIsUtility>8 segundos</style>.</style>",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Desolator, termine o jogo ou destrua em Monsoon.",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Como Desolator, vença o jogo ou destrua no Typhoon ou Eclipse.\n<color=#8888>(Conta qualquer dificuldade Typhoon ou superior)</color>",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3."
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Encontre e ative os 3 irradiadores no estágio 3.",
+        "HABIBI_DESOLATOR_BODY_PASSIVE_DESCRIPTION": "Os ataques do Desolator causam mais dano aos alvos <style=cIsHealing>Irradiated</style>: <style=cIsDamage>+0,04x</style> por pilha de <style=cIsHealing>Radiation</style>.",
+        "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_NAME": "Canhão Rad",
+        "HABIBI_DESOLATOR_BODY_PRIMARY_BEAM_DESCRIPTION": "<style=cIsHealing>Irradiando</style>. Atire em um inimigo com um feixe de radiação, causando <style=cIsDamage>80% de dano</style> e 3 pilhas de <style=cIsHealing>Radiation</style>.",
+        "KEYWORD_RADIATION_PRIMARY": "<style=cKeywordName>Irradiating</style><style=cSub>Inflige 3 pilhas de <style=cIsHealing>Radiation</style>, causando <style=cIsDamage>201% de dano</style> durante <style=cIsUtility>8 segundos</style>.</style>",
+        "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_NAME": "Terra Queimada",
+        "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_DESCRIPTION": "<style=cIsHealing>Irradiando</style>. Explodir uma área com <style=cIsDamage>320% de dano</style> e cobrir a área com radiação por <style=cIsUtility>2 segundos</style>. Inimigos em contato recebem <style=cIsDamage>20% de dano duas vezes por segundo</style>",
+        "KEYWORD_RADIATION_SECONDARY": "<style=cKeywordName>Irradiante</style><style=cSub><style=cIsHealth>Explosão inicial</style>: Inflige <style=cIsDamage>112% de dano</style> durante <style=cIsUtility>8 segundos</style>.\n<style=cIsHealth>Lingering Área</style>0__: Cada tick inflige</style>1__56% de dano</style>2__ durante</style>3__8 segundos</style>4__.</style>5__",
+        "HABIBI_DESOLATOR_BODY_UTILITY_AURA_NAME": "Reator",
+        "HABIBI_DESOLATOR_BODY_UTILITY_AURA_DESCRIPTION": "Por <style=cIsUtility>4 segundos</style>, <style=cIsDamage>Enfraquece</style> todos os inimigos próximos e ganha um impulso para <style=cIsUtility>velocidade de movimento</style> e <style=cIsUtility>armor</style>",
+        "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_NAME": "Espalhe a desgraça"
     }
 }

@@ -24,7 +24,7 @@
         "NEMFORCER_SECONDARY_BASH_NAME": "권세",
         "NEMFORCER_SECONDARY_BASH_DESCRIPTION": "<style=cIsUtility>차지업</style>를 한 다음 앞으로 돌진하여 <style=cIsDamage>라이징 어퍼컷을 발사합니다.</style> <style=cIsDamage>450%-2500% 데미지</style>. <style=cIsUtility>떨어지고 </style>를 내려다보는 동안 사용하면 대신 <style=cIsUtility>다운워드 슬램</style>를 수행할 수 있습니다.",
         "NEMFORCER_SECONDARY_SLAM_NAME": "지배(미니건)",
-        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION": "<style=cIsDamage>Stunning.</style> 미니건 자세에서 <style=cIsHealth>slam</style>가 망치를 격렬하게 내리쳐 <style=cIsDamage>600% 데미지를 가합니다.</style> 및 <style=cIsDamage>적중한 적들을 뒤로 밀쳐냅니다</style>. <style=cIsUtility>투사체를 폭발시킵니다.</style>",
+        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION": "<style=cIsDamage>놀랍습니다.</style> 미니건 자세에 있는 동안 망치를 격렬하게 <style=cIsHealth>슬램</style> 내리쳐 <style=cIsDamage>600%의 피해를 입히고</style> 및 <style=cIsDamage>밀어내는</style> 적들을 밀어냅니다. <style=cIsUtility>발사체를 폭발시킵니다.</style>",
         "NEMFORCER_UTILITY_GAS_NAME": "XM47 수류탄",
         "NEMFORCER_UTILITY_GAS_DESCRIPTION": "<style=cIsUtility>속도를 늦추고</style><style=cIsDamage>초당 200%의 피해를 입히고</style><style=cIsDamage>16초 동안 지속되는 <style=cIsUtility>부식성 가스구름 속으로 폭발하는 수류탄을 던지세요</style>.",
         "NEMFORCER_UTILITY_JUMP_NAME": "슈퍼 데디데 점프",
@@ -43,12 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "마인크래프트",
         "NEMFORCERBODY_FEM_SKIN_NAME": "스파이크",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "집행자로 몬순 이상의 날씨에 공허장을 안정화하고 집행자의 흔적을 물리치세요.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nemesis Enforcer로 게임을 승리하거나 Monsoon에서 말살하세요.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nemesis Enforcer로 Typhoon 또는 Eclipse에서 게임을이기거나 말멸하십시오.\n<color=#8888>(Typhoon 이상의 난이도 계산)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Nemesis Enforcer로 Dominance를 사용해 한 번에 5개의 발사체를 파괴하세요.",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer는 <style=cIsDamage>근접 공격</style>으로 적을 공격할 때 3초에 걸쳐 <style=cIsHealing>최대 체력</style>의 <style=cIsHealing>2%</style>을 재생합니다.",
+        "NEMFORCER_PROC_UPPERCUT": "어퍼컷",
+        "NEMFORCER_PROC_SLAM": "쾅",
+        "NEMFORCER_PROC_JAM": "잼"
     }
 }

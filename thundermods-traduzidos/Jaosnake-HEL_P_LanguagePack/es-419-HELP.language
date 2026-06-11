@@ -14,7 +14,7 @@
         "IMPERATIVE: NEUTRALIZE": "Imperativo: Neutralizar",
         "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 2 CHARGES.</style>": "Zap a un combatiente hostil para<style=cIsUtility>CHOQUE</style>ellos para<style=cIsDamage>30%</style>DAÑO.<style=cIsUtility>MANTENGA HASTA 2 CARGAS.</style>",
         "IMPERATIVE: FLEE": "Imperativo: Huir",
-        "DASH, GAINING <style=cIsHealing>25% BARRIER</style>, AND THEN ENTER AN <style=cIsUtility>ACCELERATED</style> STATE FOR THE NEXT <style=cIsDamage>7 SECONDS</style>.": "Dash, ganando<style=cIsHealing>25% BARRERA</style>y luego ingrese un<style=cIsUtility>ACELERADO</style>estado para el próximo<style=cIsDamage>7 SEGUNDOS</style>.",
+        "DASH, GAINING <style=cIsHealing>25% BARRIER</style>, AND THEN ENTER AN <style=cIsUtility>ACCELERATED</style> STATE FOR THE NEXT <style=cIsDamage>7 SECONDS</style>.": "Dash, ganando <style=cIsHealing>25% BARRIER</style>, y luego ingresa un estado <style=cIsUtility>ACCELERADO</style> durante los siguientes <style=cIsDamage>7 SECONDS</style>.",
         "IMPERATIVE: EXTERMINATE": "Imperativo: exterminar",
         "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Dispara una andanada de energía que<style=cIsHealth>DAÑA A LOS COMBATENTES HOSTILES</style>y<style=cIsHealing>SANA A LOS COMBATENTES AMISTOSOS</style>para<style=cIsDamage>5x800%</style>. <style=cIsUtility>MANTENGA HASTA 3 CARGAS.</style>"
     }

@@ -130,6 +130,17 @@
         "JAVANGLE_HOUSE_NULL_NAME": "Nulo",
         "JAVANGLE_HOUSE_NULL_DESCRIPTION": "Nao faz nada, nem recarrega.\nVoce conseguiu. Voce destruiu tudo. Voce reduziu a nada. E agora nada e tudo que resta.",
         "ARTIFACT_OF_WILDROOM_NAME": "Artefato do Wildroom",
-        "ARTIFACT_OF_WILDROOM_DESCRIPTION": "Invoca um Wildroom no inicio de cada estagio.\nWildroom nao pode mais se remover e agora afeta jogadores que nao sao The House."
+        "ARTIFACT_OF_WILDROOM_DESCRIPTION": "Invoca um Wildroom no inicio de cada estagio.\nWildroom nao pode mais se remover e agora afeta jogadores que nao sao The House.",
+        "JAVANGLE_HOUSE_BODY_NAME": "A casa",
+        "JAVANGLE_HOUSE_BODY_SUBTITLE": "O jogador insano",
+        "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House é um jogador maluco que confia na sorte para superar situações difíceis, usando dois misteriosos artefatos do destino: um revólver de 6 tiros chamado <style=cIsUtility>\"Roleta\"</style> e um baralho de cartas aparentemente amaldiçoado.",
+        "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Padrão",
+        "JAVANGLE_HOUSE_BODY_MASTERY_SKIN_NAME": "Domínio",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_NAME": "BulletArts: Vazio",
+        "JAVANGLE_HOUSE_BODY_PRIMARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um tiro aleatório carregado. Quando não restam tiros: não faz nada.",
+        "DEFAULT_SKIN_NAME": "Padrão",
+        "MASTERY_SKIN_NAME": "A Casa: Maestria",
+        "BODY_OUTRO_FLAVOR": "..e então ele foi embora, pregando peças no destino mais uma vez.",
+        "BODY_OUTRO_FAILURE": "..e então ele desapareceu, sua sorte finalmente acabou."
     }
 }

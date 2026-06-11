@@ -34,7 +34,7 @@
         "SQUALL_SPECIAL_GOFORTHROAT_NAME": "直取咽喉!",
         "SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "命令斯考尔反复攻击目标敌人,每次造成<style=cIsDamage>70%伤害</style>。每次攻击短暂降低<style=cIsDamage>护甲</style>并<style=cIsUtility>恢复1%</style>电池,暴击时效果翻倍。此技能可以短暂<style=cIsUtility>过载</style>电池。",
         "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "作为探路者，击败游戏或消灭季风。",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "探路者：精通"
     }
 }

@@ -31,8 +31,8 @@
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "壊滅",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>ライフ15%</style>。ハサミ<color=#9B3737>Symbiotic</color>を発射し、<style=cIsDamage>400%のダメージ</style>。<color=#9B3737>Symbiotic</color>なハサミを拾って切りつけ、<style=cIsDamage>200%のダメージ</style>。\n<color=#d299ff>セプター: <color=#9B3737>Symbiotic</color>武器の回収時間が<style=cIsUtility>1.5秒</style>のみ。</color>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "裁縫師として、ゲームに勝つか、モンスーンを全滅させてください。",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Eclipse or higher."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "裁縫師として、Eclipse 以上でゲームに勝つか消滅させてください。"
     }
 }

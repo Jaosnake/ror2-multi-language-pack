@@ -10,9 +10,9 @@
         "BOG_DEPUTY_BODY_PASSIVE_NAME": "Poursuite Implacable",
         "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "La Députée peut courir dans n'importe quelle direction. Toucher des ennemis avec ses compétences accorde un bonus de <style=cIsUtility>vitesse de déplacement</style> cumulable.",
         "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Tir Sûr",
-        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez avec des revolvers à portée moyenne pour <style=cIsDamage>150% de dégâts</style>.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tirez avec des revolvers à moyenne portée pour <style=cIsDamage>150 % de dégâts</style>.",
         "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Lance-Pierre",
-        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Lancez deux revolvers. Chaque revolver tirera sur un ennemi proche pour <style=cIsDamage>6x100% de dégâts</style>, puis explosera pour <style=cIsDamage>300% de dégâts</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Lancez deux revolvers. Chaque revolver tirera sur un ennemi proche pour <style=cIsDamage>6x100 % de dégâts</style>, puis explosera pour <style=cIsDamage>300 % de dégâts</style>.",
         "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Étoile Filante",
         "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Étourdissant</style>. Sautez en avant et tirez sur un ennemi en dessous de vous pour <style=cIsDamage>4x150% de dégâts</style>.",
         "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Brise-Crâne",
@@ -20,7 +20,7 @@
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Paradis de Balles",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Sautez haut dans les airs et tirez furieusement des balles vers le bas, chacune infligeant <style=cIsDamage>150% de dégâts</style>. Le nombre de tirs s'adapte à la vitesse d'attaque.",
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "En tant que député, terminez le jeu ou effacez la mousson.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "L'Adjoint : Maîtrise"
     }
 }

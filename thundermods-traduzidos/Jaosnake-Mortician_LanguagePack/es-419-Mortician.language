@@ -1,6 +1,6 @@
 {
     "es-419": {
-        "BOG_MORRIS_BODY_NAME": "Mortician",
+        "BOG_MORRIS_BODY_NAME": "Funerario",
         "BOG_MORRIS_BODY_DESCRIPTION": "El Mortician es un necromante cuerpo a cuerpo lento pero resistente que destaca en controlar territorio con su ejército de no-muertos.",
         "BOG_MORRIS_BODY_SUBTITLE": "No-Muerto",
         "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..y así se fue, su deber sombrío aún sin cumplir.",
@@ -15,12 +15,12 @@
         "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Vínculo Espiritual</style>. Genera un ghoul en el suelo frente a ti. Los ghouls muerden para <style=cIsDamage>150% de daño</style> y escupen bilis <style=cIsDamage>Pestilente</style> para <style=cIsDamage>100% de daño</style>.",
         "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrificio",
         "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Detona</style> al ghoul objetivo para <style=cIsDamage>700% de daño</style> y <style=cIsHealing>cura 15% de tu salud máxima</style>.",
-        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Tombstone",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Lápida sepulcral",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Erige una Tombstone que genera un ghoul cada <style=cIsUtility>10 segundos</style>. Cada vez que un ghoul es abatido, la tumba genera un <style=cIsDamage>alma vengativa</style> <style=cIsUtility>explosiva</style> que dispara a un enemigo cercano para <style=cIsDamage>350% de daño</style>.",
         "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery",
-        "BOG_GHOUL_BODY_NAME": "Ghoul",
-        "BOG_TOMBSTONE_BODY_NAME": "Tombstone"
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como funerario, completa el juego o destruye Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Funerario: Maestría",
+        "BOG_GHOUL_BODY_NAME": "Demonio necrófago",
+        "BOG_TOMBSTONE_BODY_NAME": "Lápida sepulcral"
     }
 }

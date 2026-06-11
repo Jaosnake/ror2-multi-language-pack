@@ -33,10 +33,10 @@
         "HABIBI_DESOLATOR_BODY_SPECIAL_SCEPTER_IRRADIATOR_DESCRIPTION_FUN": "<style=cIsHealing>ışınlama</style>. Fırlatmak<style=cIsUtility>2'ye kadar</style>Radyasyonda geniş bir alanı kaplayan Glow Stick'ler<style=cIsUtility>11 saniye</style>, işlem yapmak<style=cIsDamage>Saniyede %15 hasar</style>.\n<color=#d299ff>SCEPTER: Süresi dolduğunda patlar<style=cIsDamage>%1600 hasar</style>.</color>",
         "KEYWORD_RADIATION_SPECIAL": "<style=cKeywordName>ışınlama</style><style=cSub>Her tik,<style=cIsDamage>%78 hasar</style>üzerinde<style=cIsUtility>8 saniye</style>.</style>",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Desolator olarak oyunu bitirin veya Muson'u yok edin.",
         "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
-        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Desolator, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Desolator olarak Typhoon veya Eclipse'de oyunu bitirin veya yok edin.\n<color=#8888>(Typhoon veya daha yüksek tüm zorlukları sayar)</color>",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3."
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "3. aşamada 3 ışınlayıcıyı bulun ve etkinleştirin."
     }
 }

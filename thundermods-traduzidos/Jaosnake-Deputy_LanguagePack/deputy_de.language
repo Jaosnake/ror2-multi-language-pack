@@ -1,0 +1,19 @@
+{
+    "de": {
+        "BOG_DEPUTY_BODY_NAME": "Der Stellvertreter",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Blitzgerechtigkeit",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Die Deputy ist eine hyperaggressive Geschwindigkeitsdämonin, die mit ihren Zwillingsrevolvern und tödlichen Tritten für Gerechtigkeit sorgt.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Standard",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Unerbittliches Streben",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Der Stellvertreter kann in jede Richtung sprinten. Wenn sie Feinde mit ihren Fähigkeiten trifft, erhält sie einen stapelbaren <style=cIsUtility>Bewegungsgeschwindigkeit</style>-Buff.",
+        "PRIMARY_SHOOT_NAME": "Sicherer Schuss",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Schießen Sie mit Revolvern mittlerer Reichweite und verursachen Sie <style=cIsDamage>150 % Schaden</style>.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Wirf zwei Revolver. <style=cIsDamage>Stunning</style>. Springe und schieße auf einen Feind unter dir, um <style=cIsDamage>6x100 % Schaden</style> zu verursachen.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>Agile</style>. Feuern Sie einen präzisen Schuss ab, der leicht nach oben abgewinkelt werden kann. Verursacht <style=cIsDamage>150 % Schaden</style>.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800 % Schaden</style>. <style=cIsUtility>Kills setzen die Abklingzeit deiner Hilfsfähigkeit zurück</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "Springe hoch in die Luft und feuere wütend Kugeln nach unten, um <style=cIsDamage>150 % Schaden</style> zu verursachen.",
+        "MASTERY_SKIN_NAME": "Stellvertreter: Meisterschaft",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..und so ging sie unter tosendem Applaus.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..und so verschwand sie, ihr Auftritt war endlich zu Ende."
+    }
+}

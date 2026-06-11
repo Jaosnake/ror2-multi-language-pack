@@ -1,0 +1,12 @@
+{
+    "de": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Die Ketzerin <style=cIsUtility>bewegt sich schneller</style> und kann <style=cIsUtility>zweimal mit den Flügeln schlagen</style>, um in der Luft zusätzliche Höhe zu erreichen.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Malzeichen der Häresie",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Erhalten Sie einen massiven Statusschub... <color=#FF7F7F>ABER Ihre Gesundheit lässt mit der Zeit nach.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Erhöhen Sie <style=cIsHealing>health</style> um <style=cIsHealing>400 %</style> und <style=cIsDamage>damage</style> um <style=cIsDamage>50 %</style>. Reduzieren Sie die <style=cIsHealing>Basis-Gesundheitsregeneration</style> auf</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Lade eine Klingenkugel auf, die wiederholt <style=cIsDamage>175 % Schaden</style> verursacht. Explodieren Sie nach einer Verzögerung und verursachen Sie <style=cIsDamage>root</style> bei allen Feinden <style=cIsDamage>700 % Schaden</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Das Verursachen von Schaden fügt einen Stapel von <style=cIsDamage>Ruin</style> hinzu. Durch die Aktivierung der Fertigkeit <style=cIsDamage>werden alle Ruin-Stapel</style> in unbegrenzter Reichweite zur Explosion gebracht und verursachen <style=cIsDamage>300 % Schaden</style> plus <style=cIsDamage>120 % Schaden</style> pro Stapel von <style=cIsDamage>Ruin</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Entfliehen Sie als heimlicher Überlebender dem Mond."
+    }
+}

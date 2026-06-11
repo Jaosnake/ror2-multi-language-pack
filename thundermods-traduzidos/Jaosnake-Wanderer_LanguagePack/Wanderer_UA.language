@@ -1,6 +1,6 @@
 {
-    "ua": {
-        "KENKO_UNFORGIVEN_NAME": "Wanderer",
+    "UA": {
+        "KENKO_UNFORGIVEN_NAME": "Мандрівник",
         "KENKO_UNFORGIVEN_DESCRIPTION": "Мандрівник — це персонаж із низьким порогом входу та високою стелею майстерності, який може використовувати скасування анімацій для підтримки високого DPS.<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "Непрощений",
         "KENKO_UNFORGIVEN_LORE": "Якщо ти помер від Ясуо, тебе переграли. Це означає, що він повинен був розрахувати (і виконати) бій точно за своїми специфікаціями, враховуючи твої кулдауни та свої, позицію обох лісників, хвилі міньйонів і загальне 'відчуття' лінії (здібність, яку потрібно відточувати роками, можливо десятиліттями того, що ти називаєш просто 'геймінгом'). Справді, бути переможеним Ясуо — це усвідомити, що ти знайшов того, хто кращий за тебе, і як гравець, і як людина. Твоя мужність підвела тебе, але гравець за Ясуо — це тверда сталь — тверда, холодна, надійна — і поки він забезпечує першу кров, а ти тривожно чекаєш голосування про капітуляцію, його розум все ще працює на повну потужність, готуючи стратегії для майже нескінченної кількості можливостей. Я забираю свої LP, подбай про те, щоб наступного разу правильно зробити бани.",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Перший Подих",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Телепортуйтеся до вибраного або найближчого <style=cIsUtility>повітряного</style> ворога та швидко атакуйте, завдаючи <style=cIsDamage>2x250% + 800% шкоди</style>. Отримайте бонусне <style=cIsDamage>пробиття броні</style> на 6 секунд.\n<color=#d299ff>СКІПЕТР: <style=cIsUtility>Скиньте перезарядку вторинної навички</style>. Вороги, вражені <color=#FFBF66>First Breath</color>, можуть бути знову ціллю для <color=#FFBF66>Sweeping Blade</color>.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Як Мандрівник, пройдіть гру або знищіть на Monsoon."
     }
 }

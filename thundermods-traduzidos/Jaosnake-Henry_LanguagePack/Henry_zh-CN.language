@@ -1,6 +1,6 @@
 {
     "zh-CN": {
-        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_NAME": "亨利",
         "ROB_HENRY_BODY_DESCRIPTION": "Henry是一位熟练的战士,使用丰富的武器库击败敌人。<color=#CCD3E0>",
         "ROB_HENRY_BODY_SUBTITLE": "天选之人",
         "ROB_HENRY_BODY_LORE": "示例传说",
@@ -18,6 +18,6 @@
         "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "炸弹",
         "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "投掷炸弹造成<style=cIsDamage>1600%伤害</style>。",
         "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
-        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "As Henry, beat the game or obliterate on Monsoon."
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "作为亨利，击败游戏或消灭季风。"
     }
 }

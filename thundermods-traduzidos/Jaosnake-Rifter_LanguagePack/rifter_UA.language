@@ -1,0 +1,29 @@
+{
+    "UA": {
+        "BLAKE_RIFTER_NAME": "Рифтер",
+        "BLAKE_RIFTER_SUBTITLE": "Маніпулятор Rift",
+        "PRIMARY_GAUNTLET_RANGED": "Снарядний розлом",
+        "PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Стріляйте далекобійною тріщиною, завдаючи 500% шкоди.",
+        "SECONDARY_FRACTURE": "Перелом",
+        "SECONDARY_FRACTURE_DESCRIPTION": "<style=cIsDamage>Перелом</style>. Запустіть дальній розлом, завдаючи 75% шкоди, завдаючи до 5 розколів.",
+        "SECONDARY_FAULT_LINE": "Лінія розлому",
+        "SECONDARY_FAULT_LINE_DESCRIPTION": "<style=cIsDamage>Перелом</style>. Створіть лінію розлому, яка розбивається, завдаючи 700% шкоди.",
+        "UTILITY_SLIPSTREAM": "Габаритний струмінь",
+        "UTILITY_SLIPSTREAM_DESCRIPTION": "Телепортація на невелику відстань. Оновлює вторинний запас навичок.",
+        "UTILITY_CHAINED_WORLDS": "Прикуті світи",
+        "UTILITY_CHAINED_WORLDS_DESCRIPTION": "З'єднайте дві точки в просторі, створивши портал, який транспортує снаряди.",
+        "UTILITY_QUANTUM_RIFT": "Квантовий розрив",
+        "UTILITY_QUANTUM_RIFT_DESCRIPTION": "Відкрийте квантову тріщину, яка спотворює навколишній простір.",
+        "SPECIAL_TIMELOCK": "Блокування часу",
+        "SPECIAL_TIMELOCK_DESCRIPTION": "Фіксуйте час ворогів у зоні, заморожуючи їх на кілька секунд.",
+        "SPECIAL_RECURSION": "Рекурсія",
+        "SPECIAL_RECURSION_DESCRIPTION": "Відтворіть тріщину, викликавши її повторне відлуння через короткий проміжок часу.",
+        "PASSIVE_RIFT_BOOST": "Rift Boost",
+        "PASSIVE_RIFT_BOOST_DESCRIPTION": "Ваші розколини дають приріст швидкості руху під час проходження через них.",
+        "PASSIVE_RIFT_FRACTURE": "Рифтовий перелом",
+        "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Вороги, уражені тріщинами, розбиваються, збільшуючи завдану шкоду.",
+        "MASTERY_SKIN_NAME": "Rifter: Майстерність",
+        "BLAKE_NEM_RIFTER_NAME": "Немезида Рифтер",
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Пошкоджений розрив"
+    }
+}

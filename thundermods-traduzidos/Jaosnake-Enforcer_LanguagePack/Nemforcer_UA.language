@@ -3,7 +3,7 @@
         "NEMFORCER_NAME": "Nemesis Enforcer",
         "NEMFORCER_DESCRIPTION": "Nemesis Enforcer — це втілення відваги та сили, надприродного роду, до якого ніхто не ставиться легковажно.<color=#CCD3E0>\n\n< ! > Золотий молот може вразити багатьох ворогів одночасно.\n\n< ! > Використовуйте Домінування з висоти, щоб виконувати нищівні дії. удар.\n\n< ! > Обстріл із золотим мініганом є ключовим для знищення могутніх босів.\n\n< ! > Щити для кицьок.\n\n",
         "NEMFORCER_SUBTITLE": "Непідкупна тінь",
-        "NEMFORCER_LORE": "\nheavy tf2\n\n",
+        "NEMFORCER_LORE": "\nважкий tf2\n\n",
         "NEMFORCER_OUTRO_FLAVOR": "..і тому він пішов, з новознайденою силою для вшанування.",
         "NEMFORCER_OUTRO_FAILURE": "..і тому він повернувся, непомильний бастіон, справді увічнений.",
         "NEMFORCER_BOSS_NAME": "Ultra Nemesis Enforcer",
@@ -24,7 +24,7 @@
         "NEMFORCER_SECONDARY_BASH_NAME": "Домінування",
         "NEMFORCER_SECONDARY_BASH_DESCRIPTION": "<style=cIsUtility>Заряджайтеся</style>, а потім стрибніть вперед і використовуйте <style=cIsDamage>зростаючий аперкот</style> для <style=cIsDamage>450%-2500% шкоди</style>. Використовуйте, поки <style=cIsUtility>паде і дивиться вниз</style>, щоб виконати <style=cIsUtility>Удар вниз</style>.",
         "NEMFORCER_SECONDARY_SLAM_NAME": "Домінування (мініган)",
-        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION": "<style=cIsDamage>Stunning.</style> Перебуваючи в стойці міні-гармати, різко <style=cIsHealth>вдарте </style> своїм молотом, завдаючи <style=cIsDamage>600% шкоди</style> і <style=cIsDamage>відкидаючи </style> ворогів. <style=cIsUtility>Вибухає снарядами.</style>",
+        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION": "<style=cIsDamage>Приголомшливо.</style> Перебуваючи в стані міні-гармати, різко <style=cIsHealth>вдарте</style> молотком, завдаючи <style=cIsDamage>600% шкоди</style> і <style=cIsDamage>стукаючи back</style> вороги вдарили. <style=cIsUtility>Вибухає снаряди.</style>",
         "NEMFORCER_UTILITY_GAS_NAME": "Граната XM47",
         "NEMFORCER_UTILITY_GAS_DESCRIPTION": "Киньте гранату, яка вибухає в хмару <style=cIsUtility>корозійного газу</style>, яка <style=cIsUtility>сповільнюється</style> і завдає <style=cIsDamage>200% шкоди за секунду</style> і триває <style=cIsDamage>16 секунд</style>.",
         "NEMFORCER_UTILITY_JUMP_NAME": "Супер стрибок Dedede",
@@ -43,12 +43,16 @@
         "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
         "NEMFORCERBODY_FEM_SKIN_NAME": "Шипований",
         "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
-        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat Enforcer's Vestige.",
+        "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "У ролі Енфорсера під час мусонів або вище стабілізуйте Поля Порожнечі та здолайте Вестидж Енфорсера.",
         "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Mastery",
-        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Як Nemesis Enforcer, пройдіть гру або знищіть на Monsoon.",
         "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Grand Mastery",
-        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n<color=#8888>(Counts any difficulty Typhoon or higher)</color>",
+        "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Як Nemesis Enforcer, пройдіть гру або знищіть на Typhoon або Eclipse.\n<color=#8888>(Враховує будь-яку складність Typhoon або вище)</color>",
         "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Nemesis Enforcer: Demolition",
-        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
+        "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Як Nemesis Enforcer, знищіть 5 снарядів одночасно за допомогою Домінування.",
+        "NEMFORCER_PASSIVE_REWORK_DESCRIPTION": "Nemesis Enforcer відновлює <style=cIsHealing>2%</style> свого <style=cIsHealing>максимального здоров’я</style> протягом 3 с, коли вражає ворогів <style=cIsDamage>атак ближнього бою</style>.",
+        "NEMFORCER_PROC_UPPERCUT": "Аперкот",
+        "NEMFORCER_PROC_SLAM": "Слем",
+        "NEMFORCER_PROC_JAM": "Варення"
     }
 }

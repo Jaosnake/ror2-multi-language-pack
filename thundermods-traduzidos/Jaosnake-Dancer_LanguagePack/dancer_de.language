@@ -1,0 +1,21 @@
+{
+    "de": {
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Restriktives Klebeband",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Gegner mit Klebeband verursachen 50 % Schaden pro Sekunde und können nicht handeln.",
+        "PRIMARY_SLASH_NAME": "Schrägstrich",
+        "PRIMARY_SLASH_DESCRIPTION": "Nahkampfangriff mit Effekten basierend auf Ihrem Ziel. (Bewegen Sie den Mauszeiger für Details)",
+        "PRIMARY_SLASH2_NAME": "Schneiden",
+        "PRIMARY_SLASH2_DESCRIPTION": "Nahkampfangriff mit Effekten basierend auf Ihrem Ziel. (Bewegen Sie den Mauszeiger für Details)",
+        "UTILITY_PULL_NAME": "Ziehen",
+        "UTILITY_PULL_DESCRIPTION": "Ziehen Sie Feinde zu sich heran.",
+        "SPECIAL_RIBBON_LOCK_NAME": "Bindeband",
+        "SPECIAL_RIBBON_LOCK_DESCRIPTION": "Bringen Sie Klebeband an einem Feind an, um ihn daran zu hindern, zu handeln und Blutungen zu verursachen.",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Bodeneingabe, nach vorne zielen. Springe nach vorne und verursache <style=cIsDamage>180 % Schaden</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Abwärtsneigung</style><style=cSub>Bodeneingabe, nach unten zielen. Wirf Feinde nach oben und verursache <style=cIsDamage>200 % Schaden</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Forward Air</style><style=cSub>Lufteingabe, nach vorne zielen. Schwerer Schlag verursacht <style=cIsDamage>180 % Schaden</style> und drückt Feinde zu Boden, betäubt sie und verursacht bis zu <style=cIsDamage>300 % Schaden</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>Geklebte Feinde bluten für <style=cIsDamage>50 % Schaden pro Sekunde</style> und können nicht handeln.",
+        "NDP_DANCER_BODY_SUBTITLE": "Sterblicher Tanz",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Standard",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Golden"
+    }
+}

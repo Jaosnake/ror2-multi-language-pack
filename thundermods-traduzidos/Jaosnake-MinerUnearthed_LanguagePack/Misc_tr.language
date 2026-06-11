@@ -1,0 +1,11 @@
+{
+    "tr": {
+        "FATACRID_BODY_NAME": "Perro Grande",
+        "FATACRID_BODY_SUBTITLE": "(Forma Gigante)",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_NAME": "Direseeker",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE": "Takip Et ve Öldür",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_LORE": "Efsaneler, bir zamanlar Petrichor V'in yer altı kışlalarında dolaşan canavarca bir canavardan bahseder.\n\nHayatta kalanların en cesuru ve canavarların en kötüsü tarafından korkulan devasa canavarın rakipsiz olduğu ortaya çıktı. Cehennem ateşiyle yumuşatılmış, kan kırmızısı pulları vardı. Yanan sarı gözleri vardı ve o kadar yoğun bir parıltıya sahipti ki, yaratıkların en büyüğünün bile olduğu yerde durmasına neden oldu. için için yanan bir nefesi vardı ve metali bir anda eritecek kadar sıcaktı.\n\nSadece Providence'ı öldürebilecek kadar güçlü bir hayatta kalan tarafından durdurulduğunda canavarın sonunda eşiyle karşılaştığına inanılıyordu.\n\n<style=cIsHealth>Ta ki korkunç yüzünü bir kez daha gösterene kadar.</style>",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR": "..ve böylece yeni bir av aramak üzere oradan ayrıldı.",
+        "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME": "Varsayılan"
+    }
+}

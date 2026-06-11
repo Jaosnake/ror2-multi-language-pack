@@ -1,5 +1,5 @@
 {
-    "ru": {
+    "RU": {
         "KENKO_SEAMSTRESS_NAME": "Швея",
         "KENKO_SEAMSTRESS_DESCRIPTION": "Швея — мобильная выжившая, тратящая здоровье для нанесения урона. Она получает меньше базового урона за уровень, поэтому собирайте предметы на здоровье, чтобы воспользоваться конверсией здоровья в урон.<color=#CCD3E0>",
         "KENKO_SEAMSTRESS_SUBTITLE": "Истрёпанная Дева",
@@ -31,8 +31,8 @@
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Неистовство",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% HP</style>. Бросок <color=#9B3737>Симбиотических</color> ножниц, наносящих <style=cIsDamage>400% урона</style>. Подберите <color=#9B3737>Симбиотические</color> ножницы, чтобы нанести рубящий удар на <style=cIsDamage>200% урона</style>.\n<color=#d299ff>СКИПЕТР: Ваше <color=#9B3737>Симбиотическое</color> оружие имеет <style=cIsUtility>всего 1.5 сек. на подбор</style>.</color>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Играя за Швею, пройдите игру или уничтожьте игру в Муссоне.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Eclipse or higher."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Играя за Швею, пройдите игру или уничтожьте ее на уровне сложности «Затмение» или выше."
     }
 }

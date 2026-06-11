@@ -41,7 +41,11 @@
         "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "За Опустошителя, пройдите игру на Тифоне или Затмении.\n<color=#8888>(Считается любая сложность выше Тифона)</color>",
         "HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Опустошитель: Высшее Мастерство",
         "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Irradiators",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Find and activate the 3 irradiators in stage 3.",
-        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Иррадиаторы"
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Найдите и активируйте 3 облучателя на этапе 3.",
+        "HABIBI_DESOLATOR_BODY_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Иррадиаторы",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Mastery",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Desolator: Grand Mastery",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Играя за Опустошителя, пройдите игру или уничтожьте карту Муссон.",
+        "ACHIEVEMENT_HABIBI_DESOLATOR_BODY_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Играя за Desolator, пройдите игру или уничтожьте игру на Typhoon или Eclipse.\n<color=#8888> (учитывается любая сложность Typhoon или выше)</color>"
     }
 }

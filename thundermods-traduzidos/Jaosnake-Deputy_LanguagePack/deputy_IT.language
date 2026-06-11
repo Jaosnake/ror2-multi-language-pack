@@ -1,0 +1,19 @@
+{
+    "IT": {
+        "BOG_DEPUTY_BODY_NAME": "Il Vice",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Giustizia fulminea",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "La Vice è un demone della velocità iperaggressivo che dispensa giustizia con i suoi revolver gemelli e calci letali.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Predefinito",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Inseguimento incessante",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Il Vice può scattare in qualsiasi direzione. Colpire i nemici con le sue abilità garantisce un buff impilabile di <style=cIsUtility>velocità di movimento</style>.",
+        "PRIMARY_SHOOT_NAME": "Colpo sicuro",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara con revolver a medio raggio per <style=cIsDamage>150% di danni</style>.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Lancia due rivoltelle. <style=cIsDamage>Splendido</style>. Salta e spara a un nemico sotto di te per <style=cIsDamage>6x100% di danno</style>.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara un colpo preciso che può essere leggermente angolato verso l'alto. Infligge <style=cIsDamage>150% di danni</style>.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800% di danno</style>. <style=cIsUtility>Le uccisioni ripristinano il tempo di recupero delle tue abilità di utilità</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "Salta in aria e spara furiosamente proiettili verso il basso per <style=cIsDamage>150% di danno</style>.",
+        "MASTERY_SKIN_NAME": "Vice: Maestria",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..e così se ne andò, tra scroscianti applausi.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "...e così lei svanì, la sua esibizione finalmente giunta al termine."
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "ru": {
+    "RU": {
         "BOG_DEPUTY_BODY_NAME": "Делегатка",
         "BOG_DEPUTY_BODY_DESCRIPTION": "Делегатка — это гиперагрессивный демон скорости, который вершит правосудие с помощью своих парных револьверов и смертоносных ударов ногами.",
         "BOG_DEPUTY_BODY_SUBTITLE": "Молниеносное Правосудие",
@@ -20,7 +20,7 @@
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Пулевой Рай",
         "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Подпрыгните высоко в воздух и яростно стреляйте пулями вниз, каждая нанося <style=cIsDamage>150% урона</style>. Количество выстрелов масштабируется со скоростью атаки.",
         "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As The Deputy, beat the game or obliterate on Monsoon.",
-        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "The Deputy: Mastery"
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за депутата, пройдите игру или уничтожьте город Муссон.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Заместитель: Мастерство"
     }
 }

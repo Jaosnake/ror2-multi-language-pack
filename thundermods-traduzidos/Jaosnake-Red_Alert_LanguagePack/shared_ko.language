@@ -9,6 +9,7 @@
         "HABIBI_RECOLOR_CYAN_NAME": "청록색",
         "HABIBI_RECOLOR_PURPLE_NAME": "보라",
         "HABIBI_RECOLOR_PINK_NAME": "분홍색",
-        "HABIBI_RECOLOR_BLACK_NAME": "검은색"
+        "HABIBI_RECOLOR_BLACK_NAME": "검은색",
+        "HABIBI_RECOLOR_WHITE_NAME": "하얀색"
     }
 }

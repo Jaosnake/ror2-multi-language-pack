@@ -1,6 +1,6 @@
 {
     "es-419": {
-        "JAVANGLE_HOUSE_BODY_NAME": "The House",
+        "JAVANGLE_HOUSE_BODY_NAME": "la casa",
         "JAVANGLE_HOUSE_BODY_DESCRIPTION": "The House es un jugador insano que depende de su suerte para superar situaciones difíciles, usando dos misteriosos artefactos del destino: un revólver de 6 tiros llamado <style=cIsUtility>\"Ruleta\"</style> y un mazo de cartas aparentemente maldito.",
         "JAVANGLE_HOUSE_BODY_SUBTITLE": "El Jugador Loco",
         "JAVANGLE_HOUSE_BODY_DEFAULT_SKIN_NAME": "Predeterminado",
@@ -9,7 +9,7 @@
         "JAVANGLE_HOUSE_BODY_OUTRO_FAILURE": "..y así desapareció, su suerte finalmente se había acabado.",
         "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_NAME": "Tiro Estándar",
         "JAVANGLE_HOUSE_BODY_STANDARDSPREAD_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara un tiro aleatorio de tu revólver.",
-        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Full House",
+        "JAVANGLE_HOUSE_BODY_FULLHOUSE_NAME": "Casa llena",
         "JAVANGLE_HOUSE_BODY_FULLHOUSE_DESCRIPTION": "Dispara múltiples tiros del revólver a la vez.",
         "JAVANGLE_HOUSE_BODY_DIVINATION_NAME": "Adivinación",
         "JAVANGLE_HOUSE_BODY_DIVINATION_DESCRIPTION": "Predice la próxima carta del mazo para obtener ventaja.",

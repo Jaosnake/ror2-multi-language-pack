@@ -1,0 +1,23 @@
+{
+    "UA": {
+        "KENKO_CADET_NAME": "курсант",
+        "KENKO_CADET_SUBTITLE": "Універсальний стрілець",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Курсант: Спеціаліст",
+        "PRIMARY_SMG_NAME": "Пістолет-кулемет",
+        "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Стріляйте зі свого SMG, завдаючи <style=cIsDamage>60% шкоди</style> за постріл.",
+        "PRIMARY_SHOTGUN_NAME": "Дробовик",
+        "PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Стріляйте з рушниці, завдаючи <style=cIsDamage>100% шкоди</style>.",
+        "SECONDARY_GRENADE_NAME": "Граната",
+        "SECONDARY_GRENADE_DESCRIPTION": "Киньте гранату, яка завдає <style=cIsDamage>400% шкоди</style>.",
+        "SECONDARY_THROWGUN_NAME": "Кидок зброї",
+        "SECONDARY_THROWGUN_DESCRIPTION": "Киньте поточну зброю, щоб отримати <style=cIsDamage>600% шкоди</style>.",
+        "UTILITY_SLIDE_NAME": "слайд",
+        "UTILITY_SLIDE_DESCRIPTION": "Ковзайте в потрібному напрямку, <style=cIsUtility>перезаряджаючи</style> свою зброю миттєво.",
+        "UTILITY_ROLLOAD_NAME": "Тактичний бросок",
+        "UTILITY_ROLLOAD_DESCRIPTION": "Покотіться в напрямку, перезарядивши зброю.",
+        "SPECIAL_ECHO_NAME": "Ехо",
+        "SPECIAL_ECHO_DESCRIPTION": "Стріляйте звуковими дронами, які рикошетять між ворогами, завдаючи <style=cIsDamage>350% шкоди</style> і застосовуючи сповільнення.",
+        "SPECIAL_ULTRA_NAME": "Ультра",
+        "SPECIAL_ULTRA_DESCRIPTION": "Випустіть потужний енергетичний вибух, який завдає <style=cIsDamage>600% шкоди</style>."
+    }
+}

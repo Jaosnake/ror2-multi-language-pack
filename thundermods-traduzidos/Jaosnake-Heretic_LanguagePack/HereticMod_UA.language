@@ -1,0 +1,12 @@
+{
+    "UA": {
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Єретик <style=cIsUtility>рухається швидше</style> і може <style=cIsUtility>змахнути крилами двічі</style> для додаткової висоти в повітрі.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Знак Єресі",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Отримайте величезне підвищення характеристик... <color=#FF7F7F>АЛЕ ваше здоров’я з часом погіршується.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Збільште <style=cIsHealing>здоров'я</style> на <style=cIsHealing>400%</style> та <style=cIsDamage>шкоду</style> на <style=cIsDamage>50%</style>. Зменшити <style=cIsHealing>базове відновлення здоров’я</style> до</style>0__-6hp/s</style>1__.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Зарядіть кулю клинків, яка постійно завдає <style=cIsDamage>175% шкоди</style>. Після затримки вибухніть і <style=cIsDamage>викорініть</style> усіх ворогів, завдавши <style=cIsDamage>700% шкоди</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Нанесення шкоди додає стек <style=cIsDamage>Ruin</style>. Активація навички <style=cIsDamage>детонує всі стеки руїн</style> на необмеженій відстані, завдаючи <style=cIsDamage>300% шкоди</style> плюс <style=cIsDamage>120% шкоди</style> за один стек <style=cIsDamage>Руйн</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Втечіть від місяця як таємний вцілілий."
+    }
+}

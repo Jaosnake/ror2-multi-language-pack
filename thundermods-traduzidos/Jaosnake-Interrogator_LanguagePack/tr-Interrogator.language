@@ -1,0 +1,23 @@
+{
+    "tr": {
+        "KENKO_INTERROGATOR_NAME": "Sorgulayıcı",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Sorgulayıcı başkalarının acısından keyif alır. Müttefiklerinize zarar vermekle çok fazla eğlenmeyin... ya da eğlenin.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "İşkence Uzmanı",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..ve böylece daha fazla \"adalet\" uygulama arzusuyla ayrıldı.",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..ve böylece ortadan kaybolup suçlarının cezasını çekti.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Varsayılan",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Sorgulayıcı: Uzman",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "eziyet",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Sorgulayıcı müttefiklere ve düşmanlara vurabilir ve onlar tarafından vurulabilir. Sorgulayıcıya saldıran saldırganlar kalıcı olarak Suçlu olarak işaretlenir. Suçlu düşman başına %5 daha fazla hasar verir.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Acımasız Saldırı",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Sopanızı öne doğru sallayarak <style=cIsDamage>320% hasar</style>'e neden olun. Saldırıyı kaçırmak bunun yerine <style=cIsDamage>damage</style> acı çekmenize neden olur.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "kavga",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>%450 hasar</style> veren bir satır fırlatın. <style=cIsDamage>Assassin.</style> Satır hedefi öldürürse bölgedeki herkese Kanama ve Basınç uygular.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "tahrif etmek",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "İleriye doğru atılarak <style=cIsDamage>%390 hasar</style> verir ve vurulan hedeflere Suçluluk uygular.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Hükümlü",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Suçlu bir düşmanla 10 saniye boyunca düello yapın. Birincil öğeniz artık size isabet etmiyor ve isabet halinde bir miktar Suçlu yükü kazandırmıyor. Düello sırasında size verilen dış hasar engellenir, ancak hedefin yanı sıra diğer düşmanlara verilen hasar da engellenir.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Cezalandır",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Suçlu bir düşmanla 10 saniye boyunca düello yapın. Birincil öğeniz artık size isabet etmiyor ve isabet halinde bir miktar Suçlu yükü kazandırmıyor. Düello sırasında size verilen dış hasar engellenir, ancak diğer düşmanlara verilen hasar %75 azalır."
+    }
+}

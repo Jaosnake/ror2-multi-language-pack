@@ -1,0 +1,22 @@
+{
+    "es-ES": {
+        "NDP_DANCER_BODY_NAME": "Bailarín",
+        "NDP_DANCER_BODY_SUBTITLE": "Danza mortal",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Por defecto",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Dorado",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Cinta restrictiva",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Los enemigos con cinta sangran por un 50% de daño por segundo y no pueden actuar.</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Barra oblicua",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Ataque cuerpo a cuerpo con efectos basados ​​en tu puntería. (Pase el cursor para ver más detalles)</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Cortar",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Ataque cuerpo a cuerpo con efectos basados ​​en tu puntería. (Pase el cursor para ver más detalles)</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Jalar",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Atrae a los enemigos hacia ti.</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Cinta adhesiva",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Aplica cinta adhesiva a un enemigo, evitando que actúe y provoque sangrado.</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Jab</style><style=cSub>Entrada a tierra, apuntar hacia adelante. Lánzate hacia adelante e inflige <style=cIsDamage>180% de daño</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Inclinación hacia abajo</style><style=cSub>Entrada a tierra, apuntar hacia abajo. Lanza enemigos hacia arriba e inflige <style=cIsDamage>200% de daño</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Aire hacia adelante</style><style=cSub>Entrada de aire, apuntar hacia adelante. Golpe fuerte que inflige <style=cIsDamage>180% de daño</style> y fija a los enemigos en el suelo, aturde e inflige hasta <style=cIsDamage>300% de daño</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Tape</style><style=cSub>Los enemigos grabados sangran <style=cIsDamage>50% de daño por segundo</style> y no pueden actuar."
+    }
+}

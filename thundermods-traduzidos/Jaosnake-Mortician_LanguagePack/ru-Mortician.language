@@ -1,5 +1,5 @@
 {
-    "ru": {
+    "RU": {
         "BOG_MORRIS_BODY_NAME": "Мортициан",
         "BOG_MORRIS_BODY_DESCRIPTION": "Мортициан — это медленный, но крепкий некромант ближнего боя, который превосходно контролирует территорию с помощью своей армии нежити.",
         "BOG_MORRIS_BODY_SUBTITLE": "Нежить",
@@ -18,8 +18,8 @@
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Надгробие",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Воздвигните Надгробие, которое порождает гуля каждые <style=cIsUtility>10 секунд</style>. Когда гуля убивают, надгробие создаёт <style=cIsDamage>мстительную душу</style> <style=cIsUtility>взрывного</style> типа, которая стреляет в ближайшего врага, нанося <style=cIsDamage>350% урона</style>.",
         "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за гробовщика, пройдите игру или уничтожьте всех на карте «Муссон».",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Гробовщик: Мастерство",
         "BOG_GHOUL_BODY_NAME": "Гуль",
         "BOG_TOMBSTONE_BODY_NAME": "Надгробие"
     }

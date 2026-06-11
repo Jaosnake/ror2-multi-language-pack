@@ -9,6 +9,7 @@
         "HABIBI_RECOLOR_CYAN_NAME": "Camgöbeği",
         "HABIBI_RECOLOR_PURPLE_NAME": "Mor",
         "HABIBI_RECOLOR_PINK_NAME": "Pembe",
-        "HABIBI_RECOLOR_BLACK_NAME": "Siyah"
+        "HABIBI_RECOLOR_BLACK_NAME": "Siyah",
+        "HABIBI_RECOLOR_WHITE_NAME": "Beyaz"
     }
 }

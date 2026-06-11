@@ -1,0 +1,26 @@
+{
+    "UA": {
+        "BOG_DEPUTY_BODY_NAME": "Заступник",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Депутат — гіперагресивний швидкісний демон, який вершить правосуддя за допомогою своїх подвійних револьверів і смертоносних ударів ногами.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Блискавичне правосуддя",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..і ось вона пішла, під бурхливі оплески.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..і так вона зникла, її виступ нарешті закінчився.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "За замовчуванням",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Майстерність",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Невпинна гонитва",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Заступник може спринтувати в будь-якому напрямку. Удари по ворогам за допомогою її навичок надають бафф <style=cIsUtility>швидкості пересування</style>.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Впевнений постріл",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile</style>. Стріляйте з револьверів середньої дальності, завдаючи <style=cIsDamage>150% шкоди</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Слінг",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agile</style>. Кинути два револьвери. Кожен револьвер вистрілить у ворога поблизу, завдаючи <style=cIsDamage>6x100% шкоди</style>, а потім вибухне, завдаючи <style=cIsDamage>300% шкоди</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Падаюча зірка",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Приголомшливо</style>. Стрибни вперед і стріляй у ворога під собою, завдаючи <style=cIsDamage>4x150% шкоди</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Черелом",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Heavy</style>. <style=cIsUtility>Випад</style> і рикошетом від ворога, завдаючи <style=cIsDamage>800% шкоди</style>. <style=cIsUtility>Вбивства скидають час відновлення корисних навичок</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Куля Небеса",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Підстрибніть високо в повітря та люто стріляйте кулями вниз, завдаючи <style=cIsDamage>150% шкоди</style>. Кількість ударів залежить від швидкості атаки.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "The Deputy: Mastery",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Як заступник, пройдіть гру або знищіть на Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Заступник: Майстерність"
+    }
+}
