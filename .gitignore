@@ -6,3 +6,7 @@ Thumbs.db
 
 *.r2z
 thunderstore-upload-*/
+extracted-icons/
+thundermods-zips/
+translation-backups/
+tools/
