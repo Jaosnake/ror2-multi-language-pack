@@ -1,9 +1,9 @@
 # 🌍 Jaosnake-Sandswept_ptBR_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
-![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
+![Versão](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Vers%C3%A3o-1.0.2-blue)
+![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-obrigat%C3%B3rio-ff69b4)
 
-Tradução **pt-BR** para **Sandswept** by **SandsweptTeam**.
+Tradução **pt-BR** para **Sandswept**, feito por **SandsweptTeam**.
 
 > 🇧🇷 Este pacote contém somente a tradução **Português (Brasil)**.
 
@@ -11,16 +11,16 @@ Tradução **pt-BR** para **Sandswept** by **SandsweptTeam**.
 
 ---
 
-## 📦 Dependencies
-| Package | Version |
+## 📦 Dependências
+| Pacote | Versão |
 |---------|---------|
 | SandsweptTeam-Sandswept | `1.4.4` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
+## 🌐 Idioma
+| Bandeira | Idioma |
 |------|----------|
-| 🇧🇷 | Portuguese (Brazil) / Português (Brasil) |
+| 🇧🇷 | Português (Brasil) |
 
 ## 📥 Instalação Manual
 1. Instale **Sandswept** e **R2API_Language**.
@@ -30,13 +30,13 @@ Tradução **pt-BR** para **Sandswept** by **SandsweptTeam**.
 
 Este pacote contém apenas arquivos de tradução. Ele não modifica o código do Sandswept.
 
-## 👤 Credits
-| Role | Name |
+## 👤 Créditos
+| Função | Nome |
 |------|------|
-| Original Mod | [SandsweptTeam](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) |
+| Mod original | [SandsweptTeam](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) |
 | Tradução pt-BR, revisão e pacote | Jaosnake |
 
 ---
 
-## ☕ Support
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+## ☕ Apoie
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
