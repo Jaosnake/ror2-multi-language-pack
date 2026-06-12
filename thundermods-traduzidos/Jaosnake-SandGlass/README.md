@@ -49,7 +49,7 @@ You do **not** need this package if you do not use LookingGlass.
 4. The final path should contain:
 
 ```text
-BepInEx/plugins/Jaosnake-Sandswept_LookingGlass_LocalizationPatch/SandGlass.dll
+BepInEx/plugins/Jaosnake-SandGlass/SandGlass.dll
 ```
 
 ## Configuration
@@ -70,3 +70,4 @@ Available options:
 This is not a replacement for the Sandswept translation pack. It is an optional compatibility patch for LookingGlass.
 
 The main Sandswept language files translate the normal game text. This plugin handles the extra stat labels that LookingGlass builds separately in code.
+
