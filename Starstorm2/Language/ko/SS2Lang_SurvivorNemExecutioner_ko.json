@@ -1,22 +1,22 @@
 {
-  "strings": {
-    "SS2_NEMEXECUTIONER_BODY_NAME": "네메시스 이그제큐셔너",
-    "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "저주받은 페리맨",
-    "SS2_NEMEXECUTIONER_DESCRIPTION": "네메시스 이그제큐셔너는 더 큰 복지를 위해 길을 잃은 자들의 생명을 마무리 일격으로 앗아갑니다.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.\n\nThis mod was translated by: Jaosnake",
-    "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 미지의 세계로 사라지며.",
-    "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "...그리하여 그는 돌아왔다, 유산을 영원히 잃은 채로.",
-    "SS2_NEMEXECUTIONER_BODY_LORE": "무서운 D:",
-    "SS2_NEMEXECUTIONER_PRIMARY_NAME": "불알",
-    "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "볼 체인 번개",
-    "SS2_KEYWORD_BLEED": "<style=cKeywordName>출혈</style><style=cSub>3초에 걸쳐 <style=cIsDamage>240%</style>의 기본 피해를 줍니다. <i>출혈은 중첩됩니다.</i></style>",
-    "SS2_NEMEXECUTIONER_SECONDARY_NAME": "구울",
-    "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "구울은 맞으면 피를 흘린다.",
-    "SS2_NEMEXECUTIONER_UTILITY_NAME": "두려움",
-    "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "두려움의 구름",
-    "SS2_NEMEXECUTIONER_SPECIAL_NAME": "큰 낫",
-    "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>슬레이어.</style> 1500% scythe dash. heal nearby on kill. hold to increase distance ",
-    "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "으스스한 모드",
-    "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "비행 및 버프 및 처치 시 지속 시간",
-    "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
-  }
+    "strings": {
+        "SS2_NEMEXECUTIONER_BODY_NAME": "네메시스 이그제큐셔너",
+        "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "저주받은 페리맨",
+        "SS2_NEMEXECUTIONER_DESCRIPTION": "네메시스 이그제큐셔너는 더 큰 복지를 위해 길을 잃은 자들의 생명을 마무리 일격으로 앗아갑니다.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.",
+        "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 미지의 세계로 사라지며.",
+        "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "...그리하여 그는 돌아왔다, 유산을 영원히 잃은 채로.",
+        "SS2_NEMEXECUTIONER_BODY_LORE": "무서운 D:",
+        "SS2_NEMEXECUTIONER_PRIMARY_NAME": "불알",
+        "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "볼 체인 번개",
+        "SS2_KEYWORD_BLEED": "<style=cKeywordName>출혈</style><style=cSub>3초에 걸쳐 <style=cIsDamage>240%</style>의 기본 피해를 줍니다. <i>출혈은 중첩됩니다.</i></style>",
+        "SS2_NEMEXECUTIONER_SECONDARY_NAME": "구울",
+        "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "구울은 맞으면 피를 흘린다.",
+        "SS2_NEMEXECUTIONER_UTILITY_NAME": "두려움",
+        "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "두려움의 구름",
+        "SS2_NEMEXECUTIONER_SPECIAL_NAME": "큰 낫",
+        "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>슬레이어.</style> 1500% scythe dash. heal nearby on kill. hold to increase distance ",
+        "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "으스스한 모드",
+        "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "비행 및 버프 및 처치 시 지속 시간",
+        "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
+    }
 }
