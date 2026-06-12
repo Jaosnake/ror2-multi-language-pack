@@ -1,0 +1,12 @@
+{
+    "author": "Jaosnake",
+    "name": "Sandswept_LookingGlass_LocalizationPatch",
+    "description": "Localizes Sandswept LookingGlass item stat labels for Jaosnake language packs. Requires Sandswept and LookingGlass - translated by Jaosnake",
+    "dependencies": [
+        "SandsweptTeam-Sandswept-1.4.4",
+        "DropPod-LookingGlass-1.15.2",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ],
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+}
