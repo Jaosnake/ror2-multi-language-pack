@@ -6,7 +6,6 @@
 Multi-language translation pack for **Alloyed Armorer** by **TatertotticusSquad**.
 
 > 📝 The original mod package does not include prior non-English translations. All language coverage in this pack was created from scratch for this release.
-> Source check: the installed mod package and decompiled `ArmorerMod.blob` only expose English `Language.Add(...)` tokens, with no bundled language or translation folders.
 
 > 🇺🇦 Ukrainian language added because original mod does not include it.
 
