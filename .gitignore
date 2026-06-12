@@ -11,3 +11,7 @@ thundermods-zips/
 translation-backups/
 tools/
 uploaded/
+SESSION_HISTORY.md
+audit.py
+generate_readme.py
+list_locales.py
