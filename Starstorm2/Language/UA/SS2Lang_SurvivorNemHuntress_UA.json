@@ -1,20 +1,20 @@
 {
-  "strings": {
-    "SS2_NEMHUNTRESS2_BODY_NAME": "Немезис Мисливиця",
-    "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Хитрий Переслідувач",
-    "SS2_NEMHUNTRESS2_DESCRIPTION": "Немезис Мисливиця бореться з ворогами повільно, але нещадно, за допомогою свого смертоносного довгого лука та дворучного топірця.\n\n<color=#CCD3E0>< ! > Смерть не боїться себе.\n\nThis mod was translated by: Jaosnake",
-    "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..і так вони пішли, знайшовши новий дім далеко.",
-    "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..і так вони зникли, .",
-    "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Бойовий Візор",
-    "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Підсвічуйте <style=cIsDamage>Слабкі Місця</style> під час бою, по яких можна влучити стрілами для <style=cIsDamage>1.5x шкоди</style>.",
-    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Важкий Болт",
-    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Утримуйте для <style=cIsUtility>зарядки</style> та відпустіть, щоб випустити стрілу зі шкодою до <style=cIsDamage>400% шкоди</style>. <style=cIsUtility>Швидкість</style> стріли, <style=cIsDamage>шкода</style> та <style=cIsUtility>точність</style> масштабуються з рівнем заряду.",
-    "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Лазерний Топірець",
-    "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Розмахніться та киньте бумерангоподібний пронизливий топірець на <style=cIsDamage>240% шкоди</style>. Влучає <style=cIsDamage>5 разів за секунду</style> в повітрі.",
-    "SS2_KEYWORD_REARM": "<style=cKeywordName>Переоснащення</style><style=cSub>Додає 2 додаткові снаряди до наступного використання основної, до максимуму 7.",
-    "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Блимання фази",
-    "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Переоснащення</style>. <style=cIsUtility>Зникніть</style> та <style=cIsUtility>телепортуйтеся</style> на коротку відстань. Можна зберігати до <style=cIsUtility>3</style> зарядів.",
-    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Вибуховий Болт",
-    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Замініть стрілу наступного <style=cIsDamage>основного</style> пострілу на <style=cIsDamage>приголомшливу</style> стрілу, яка вибухає невдовзі після влучання, завдаючи <style=cIsDamage>400% шкоди</style>."
-  }
+    "strings": {
+        "SS2_NEMHUNTRESS2_BODY_NAME": "Немезис Мисливиця",
+        "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Хитрий Переслідувач",
+        "SS2_NEMHUNTRESS2_DESCRIPTION": "Немезис Мисливиця бореться з ворогами повільно, але нещадно, за допомогою свого смертоносного довгого лука та дворучного топірця.\n\n<color=#CCD3E0>< ! > Смерть не боїться себе.",
+        "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..і так вони пішли, знайшовши новий дім далеко.",
+        "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..і так вони зникли, .",
+        "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Бойовий Візор",
+        "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Підсвічуйте <style=cIsDamage>Слабкі Місця</style> під час бою, по яких можна влучити стрілами для <style=cIsDamage>1.5x шкоди</style>.",
+        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Важкий Болт",
+        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Утримуйте для <style=cIsUtility>зарядки</style> та відпустіть, щоб випустити стрілу зі шкодою до <style=cIsDamage>400% шкоди</style>. <style=cIsUtility>Швидкість</style> стріли, <style=cIsDamage>шкода</style> та <style=cIsUtility>точність</style> масштабуються з рівнем заряду.",
+        "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Лазерний Топірець",
+        "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Розмахніться та киньте бумерангоподібний пронизливий топірець на <style=cIsDamage>240% шкоди</style>. Влучає <style=cIsDamage>5 разів за секунду</style> в повітрі.",
+        "SS2_KEYWORD_REARM": "<style=cKeywordName>Переоснащення</style><style=cSub>Додає 2 додаткові снаряди до наступного використання основної, до максимуму 7.",
+        "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Блимання фази",
+        "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Переоснащення</style>. <style=cIsUtility>Зникніть</style> та <style=cIsUtility>телепортуйтеся</style> на коротку відстань. Можна зберігати до <style=cIsUtility>3</style> зарядів.",
+        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Вибуховий Болт",
+        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Замініть стрілу наступного <style=cIsDamage>основного</style> пострілу на <style=cIsDamage>приголомшливу</style> стрілу, яка вибухає невдовзі після влучання, завдаючи <style=cIsDamage>400% шкоди</style>."
+    }
 }
