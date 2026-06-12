@@ -14,7 +14,7 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
     [BepInDependency("com.TeamSandswept.Sandswept", "1.4.0")]
     public sealed class SandsweptLookingGlassLocalizationPatch : BaseUnityPlugin
     {
-        private const string PluginGuid = "com.jaosnake.sandsweptlookingglasslocalizationpatch";
+        private const string PluginGuid = "jaosnake.sandglass";
         private const string PluginName = "Sandswept LookingGlass Localization Patch";
         private const string PluginVersion = "1.0.0";
 
@@ -888,3 +888,4 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
         }
     }
 }
+
