@@ -2,10 +2,13 @@ using BepInEx;
 using BepInEx.Configuration;
 using RiskOfOptions;
 using RiskOfOptions.Options;
+using R2API;
 using RoR2;
 using System;
 using System.Globalization;
+using System.IO;
 using System.Reflection;
+using UnityEngine;
 
 namespace ForceUkrainianLanguage
 {
@@ -80,6 +83,7 @@ namespace ForceUkrainianLanguage
         {
             ModSettingsManager.SetModDescription(
                 "Forces Risk of Rain 2 to use the Ukrainian R2API.Language code. The game does not show Ukrainian in the vanilla language menu.");
+            TryRegisterRiskOfOptionsIcon();
 
             ModSettingsManager.AddOption(new CheckBoxOption(enablePlugin));
             ModSettingsManager.AddOption(new StringInputFieldOption(languageCode));
@@ -91,6 +95,45 @@ namespace ForceUkrainianLanguage
                 "Applies the current UAForce settings immediately. Restart the game if a mod only loads language files during startup.",
                 "Apply",
                 () => ApplyCurrentConfig("Risk Of Options button")));
+        }
+
+        private void TryRegisterRiskOfOptionsIcon()
+        {
+            try
+            {
+                var pluginDirectory = System.IO.Path.GetDirectoryName(Info.Location);
+                if (string.IsNullOrEmpty(pluginDirectory))
+                {
+                    return;
+                }
+
+                var iconPath = System.IO.Path.Combine(pluginDirectory, "icon.png");
+                if (!File.Exists(iconPath))
+                {
+                    Logger.LogInfo("Risk Of Options icon not found at " + iconPath + ".");
+                    return;
+                }
+
+                var texture = new Texture2D(2, 2, TextureFormat.RGBA32, false);
+                if (!ImageConversion.LoadImage(texture, File.ReadAllBytes(iconPath)))
+                {
+                    Logger.LogWarning("Could not load Risk Of Options icon from " + iconPath + ".");
+                    return;
+                }
+
+                texture.wrapMode = TextureWrapMode.Clamp;
+                var sprite = Sprite.Create(
+                    texture,
+                    new Rect(0f, 0f, texture.width, texture.height),
+                    new Vector2(0.5f, 0.5f),
+                    100f);
+
+                ModSettingsManager.SetModIcon(sprite);
+            }
+            catch (Exception ex)
+            {
+                Logger.LogWarning("Failed to register Risk Of Options icon: " + ex.Message);
+            }
         }
 
         private void TrySetConfiguredLanguage()
@@ -120,12 +163,7 @@ namespace ForceUkrainianLanguage
 
             try
             {
-                if (Language.FindLanguageByName(targetLanguage) == null)
-                {
-                    Logger.LogWarning("Language '" + targetLanguage + "' was not found. Make sure Ukrainian language packs are installed and loaded.");
-                    return;
-                }
-
+                EnsureLanguageExists(targetLanguage);
                 SetLanguage(targetLanguage);
                 Logger.LogInfo("Current language set to " + targetLanguage + " (" + reason + ").");
             }
@@ -160,6 +198,27 @@ namespace ForceUkrainianLanguage
 
             SetLanguage(restoreLanguage);
             Logger.LogInfo("UAForce is disabled. Restored language to " + restoreLanguage + " (" + reason + ").");
+        }
+
+        private void EnsureLanguageExists(string targetLanguage)
+        {
+            if (Language.FindLanguageByName(targetLanguage) != null)
+            {
+                return;
+            }
+
+            // R2API.Language can store custom language tokens, but RoR2 still needs
+            // an internal Language object before SetCurrentLanguage can switch to it.
+            LanguageAPI.Add("UAFORCE_LANGUAGE_MARKER", string.Empty, targetLanguage);
+
+            var getOrCreateLanguage = typeof(Language).GetMethod("GetOrCreateLanguage", BindingFlags.NonPublic | BindingFlags.Static);
+            if (getOrCreateLanguage == null)
+            {
+                throw new MissingMethodException("Could not find RoR2.Language.GetOrCreateLanguage(string).");
+            }
+
+            getOrCreateLanguage.Invoke(null, new object[] { targetLanguage });
+            Logger.LogInfo("Created custom language entry " + targetLanguage + ".");
         }
 
         private void SetLanguage(string targetLanguage)
