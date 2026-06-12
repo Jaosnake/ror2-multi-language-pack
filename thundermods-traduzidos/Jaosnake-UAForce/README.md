@@ -73,3 +73,6 @@ If the game is still in English:
 - Restart the game if the mod only loads language files during startup.
 
 If a specific item, skill, or menu is still in English, that text may not be exposed through R2API.Language, or that mod may not have a Ukrainian translation for that token yet.
+## Loading Time Note
+
+Installing additional plugins can slightly increase the game's loading time. This is normal.

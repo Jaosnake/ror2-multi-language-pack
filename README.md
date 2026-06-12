@@ -534,7 +534,7 @@ Community translation credits preserved from the original files include Kauzok, 
 
 ## ⏳ Note
 
-> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.
+> **Note**: Game loading times may increase slightly as additional language packs are processed during startup. Installing additional plugins can also slightly increase loading time. This is normal.
 
 ## 📜 License
 

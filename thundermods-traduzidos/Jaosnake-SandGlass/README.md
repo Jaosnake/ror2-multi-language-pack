@@ -70,5 +70,6 @@ Available options:
 This is not a replacement for the Sandswept translation pack. It is an optional compatibility patch for LookingGlass.
 
 The main Sandswept language files translate the normal game text. This plugin handles the extra stat labels that LookingGlass builds separately in code.
+## Loading Time Note
 
-
+Installing additional plugins can slightly increase the game's loading time. This is normal.
