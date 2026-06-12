@@ -387,6 +387,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` | Standalone Thunderstore-ready package |
 | Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` | Standalone Thunderstore-ready package |
 | SandGlass | SandsweptTeam-Sandswept + DropPod-LookingGlass | `thundermods-traduzidos/Jaosnake-SandGlass/` | Optional patch for LookingGlass stat labels |
+| UAForce | R2API.Language + Risk Of Options | `thundermods-traduzidos/Jaosnake-UAForce/` | Optional Ukrainian language enabler |
 | Alloyed Armorer Language Pack | TatertotticusSquad-Alloyed_Armorer | `thundermods-traduzidos/Jaosnake-Alloyed_Armorer_LanguagePack/` | R2API.Language token pack |
 | Additional mod translations | Multiple mods | `mods/` | One folder per mod |
 | Heretic Language Pack | Moffein-Heretic | `thundermods-traduzidos/Jaosnake-Heretic_LanguagePack/` | R2API.Language token pack |

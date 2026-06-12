@@ -1,0 +1,11 @@
+{
+    "author": "Jaosnake",
+    "name": "UAForce",
+    "description": "Adds an in-game toggle to force Ukrainian language for R2API.Language translation packs - translated by Jaosnake",
+    "dependencies": [
+        "RiskofThunder-R2API_Language-1.1.0",
+        "Rune580-Risk_Of_Options-2.8.5"
+    ],
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+}
