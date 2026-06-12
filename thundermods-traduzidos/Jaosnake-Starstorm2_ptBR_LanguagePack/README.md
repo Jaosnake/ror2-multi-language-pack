@@ -1,9 +1,9 @@
 # 🌍 Jaosnake-Starstorm2_ptBR_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
-![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
+![Versão](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Vers%C3%A3o-1.0.2-blue)
+![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-obrigat%C3%B3rio-ff69b4)
 
-Tradução **pt-BR** para **Starstorm 2** by **TeamMoonstorm**.
+Tradução **pt-BR** para **Starstorm 2**, feito por **TeamMoonstorm**.
 
 > 🇧🇷 Este pacote contém somente a tradução **Português (Brasil)**.
 
@@ -11,16 +11,16 @@ Tradução **pt-BR** para **Starstorm 2** by **TeamMoonstorm**.
 
 ---
 
-## 📦 Dependencies
-| Package | Version |
+## 📦 Dependências
+| Pacote | Versão |
 |---------|---------|
 | TeamMoonstorm-Starstorm2 | `0.6.38` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
+## 🌐 Idioma
+| Bandeira | Idioma |
 |------|----------|
-| 🇧🇷 | Portuguese (Brazil) / Português (Brasil) |
+| 🇧🇷 | Português (Brasil) |
 
 ## 📥 Instalação Manual
 1. Instale **Starstorm 2** e **R2API_Language**.
@@ -30,14 +30,14 @@ Tradução **pt-BR** para **Starstorm 2** by **TeamMoonstorm**.
 
 Este pacote contém apenas arquivos de tradução. Ele não modifica o código do Starstorm 2.
 
-## 👤 Credits
-| Role | Name |
+## 👤 Créditos
+| Função | Nome |
 |------|------|
-| Original Mod | [TeamMoonstorm](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
+| Mod original | [TeamMoonstorm](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
 | Primeira tradução pt-BR | Kauzok, Balorfist |
 | Conversão, revisão linha a linha e pacote | Jaosnake |
 
 ---
 
-## ☕ Support
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+## ☕ Apoie
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
