@@ -29,6 +29,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Superaquecimento: Masoquismo</style>Se Arsonista sair do Masoquismo devido ao acúmulo excessivo de calor, o Superaquecimento EX é aplicado, reduzindo sua Velocidade de Movimento e Dano para 70%. Cancelar ou deixar a habilidade seguir seu curso aplica Superaquecimento, reduzindo sua Velocidade de Ataque para 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "SUPERAQUECIMENTO!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ESFRIANDO...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SUPERAQUECIMENTO:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SUPERAQUECIMENTO:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromania",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resista a dano de fogo de todas as fontes. Converta um ataque que cause mais de <style=cIsDamage>30%</style> da vida total em <style=cIsDamage>50%</style> de dano de fogo ao longo do tempo.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania não afeta dano de queda, a menos que Fragilidade esteja ativa."
     }
 }

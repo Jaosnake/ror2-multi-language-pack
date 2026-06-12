@@ -22,6 +22,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Overheat: Masochism</style>If Arsonist leaves Masochism due to excessive heat buildup, EX Overheat is applied, reducing Movement Speed and Damage to 70%. Canceling or letting the skill run its course applies Overheat, reducing Attack Speed to 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "OVERHEAT!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "COOLING DOWN...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "OVERHEAT:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "OVERHEAT:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Pyromania",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resist fire damage from all sources. Convert one attack dealing greater than <style=cIsDamage>30%</style> of total health into <style=cIsDamage>50%</style> fire damage over time.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Pyromania does not affect fall damage unless Frailty is active."
     }
 }

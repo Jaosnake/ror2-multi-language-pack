@@ -1,0 +1,33 @@
+{
+    "IT": {
+        "HABIBI_CHRONO_NAME": "Legionario Chrono",
+        "HABIBI_CHRONO_DESCRIPTION": "Il Legionario Chrono manipola il tempo per sconvolgere il campo di battaglia.<color=#CCD3E0>\n\n< ! > È fortemente consigliato assegnare lo scatto ad ALT o al mouse, se possibile.\n\n< ! > Le bombe I.V.A.N. sono ottime per i danni ad area. Entra con un salto temporale, piazzane una ed esci.\n\n< ! > La Cronosfera può essere usata per muoversi, difendersi o raggruppare i nemici per farli esplodere meglio con le bombe.\n\n< ! > Anche se accumulare Malattia Chrono permette alla speciale di giustiziare i nemici, infliggere danni resta importante per portarli a quella soglia.\n\nMod originale di TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Arma temporale",
+        "HABIBI_CHRONO_LORE": "Mai Esistito",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..e così se ne andò, senza lasciare traccia.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..e così svanì, come se non fosse mai esistito.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Alternativo",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Già Lì",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Invece di scattare, salti nel tempo da un punto all'altro; poi resti <style=cIsUtility>disabilitato</style> per un breve periodo in base alla distanza.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Fucile Chrono",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Spara con un fucile che ferma il tempo, infliggendo <style=cIsDamage>200% di danno</style>. I nemici colpiti subiscono <style=cIsUtility>Malattia Chrono</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "I.V.A.N. Chrono",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Attacca una bomba a impulsi a un nemico. Dopo 3 secondi, esplode infliggendo <style=cIsDamage>500% di danno</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Cronosfera",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Evidenzia un'area, poi evidenziane una seconda. <style=cIsUtility>Tutte le unità</style> nella prima area vengono teletrasportate nella seconda.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Sfera di Sospensione",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Ferma il tempo</style> per nemici e proiettili per <style=cIsUtility>5 secondi</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Decostruzione",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Infliggi <style=cIsDamage>240% di danno</style> e applica <style=cIsUtility>Malattia Chrono</style> per 1 secondo. Se la salute di un nemico è sotto la soglia di <style=cIsUtility>Malattia Chrono</style>, svanisce dall'esistenza.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Annulla",
+        "HABIBI_CHRONO_CANCEL_DESC": "Annulla l'abilità attuale.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Fucile Chrono",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Fa svanire i nemici dall'esistenza.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Fucile Chrono",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Spara per infliggere <style=cIsDamage>200% di danno</style> e applicare <style=cIsUtility>Malattia Chrono</style> ai nemici.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Decostruzione",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Concentra il fucile per infliggere fino a <style=cIsDamage>360% di danno</style>. Un nemico sotto la soglia di <style=cIsUtility>Malattia Chrono</style> svanirà dall'esistenza.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Malattia Chrono",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "I nemici accumulano Malattia Chrono mentre sono dentro le cronosfere."
+    }
+}

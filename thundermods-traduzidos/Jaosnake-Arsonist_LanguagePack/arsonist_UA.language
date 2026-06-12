@@ -29,6 +29,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрів: Мазохізм</style>Якщо підпалювач залишає мазохізм через надмірне нагрівання, застосовується EX Overheat, що зменшує швидкість руху та шкоду до 70%. Якщо скасувати або залишити навичку на самоплив, застосовується перегрів, що знижує швидкість атаки до 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "ПЕРЕГРІВ!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ОХОЛОДЖЕННЯ...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРІВ: EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРІВ: EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Піроманія",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Опирайтеся шкоді від вогню з усіх джерел. Перетворюйте атаку, що завдає понад <style=cIsDamage>30%</style> загального здоров'я, на <style=cIsDamage>50%</style> шкоди від вогню з часом.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Піроманія не впливає на шкоду від падіння, якщо не активна Крихкість."
     }
 }

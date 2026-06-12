@@ -1,0 +1,33 @@
+{
+    "ja": {
+        "HABIBI_CHRONO_NAME": "クロノ・レジオネア",
+        "HABIBI_CHRONO_DESCRIPTION": "クロノ・レジオネアは時間操作で戦場をかき乱す。<color=#CCD3E0>\n\n< ! > 可能ならスプリントを ALT かマウスに割り当てることを強く推奨する。\n\n< ! > I.V.A.N. 爆弾は範囲ダメージに優れる。タイムスキップで入り、設置して離脱しよう。\n\n< ! > クロノスフィアは移動、防御、または爆弾でまとめて吹き飛ばすための敵の集約に使える。\n\n< ! > クロノシックネスを蓄積すると特殊で敵を処刑できるが、そのしきい値まで削るためにダメージを与えることも重要だ。\n\nOriginal mod by TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "時間銃",
+        "HABIBI_CHRONO_LORE": "存在しなかった者",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..そして彼は痕跡を残さず去った。",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..そして彼は、最初から存在しなかったかのように消えた。",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "オルタネイト",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "すでにそこに",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "スプリントの代わりに場所から場所へ時間跳躍する。その後、距離に応じて短時間<style=cIsUtility>無力化</style>される。",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "クロノガン",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "時間を止めるライフルを撃ち、<style=cIsDamage>200%のダメージ</style>を与える。命中した敵に<style=cIsUtility>クロノシックネス</style>を付与する。",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "クロノ I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "敵にパルス爆弾を取り付ける。3秒後、爆弾が爆発して<style=cIsDamage>500%のダメージ</style>を与える。",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "クロノスフィア",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "範囲を指定し、続けて二つ目の範囲を指定する。最初の範囲内の<style=cIsUtility>すべてのユニット</style>が二つ目の範囲へ転送される。",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "停止球",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "敵と投射物の<style=cIsUtility>時間を停止</style>させる。持続時間は<style=cIsUtility>5秒</style>。",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "分解",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "<style=cIsDamage>240%のダメージ</style>を与え、1秒間<style=cIsUtility>クロノシックネス</style>を付与する。敵の体力が<style=cIsUtility>クロノシックネス</style>のしきい値未満なら、存在ごと消滅する。",
+        "HABIBI_CHRONO_CANCEL_NAME": "キャンセル",
+        "HABIBI_CHRONO_CANCEL_DESC": "現在のスキルをキャンセルする。",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "クロノガン",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "敵を存在から消し去る。",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "クロノガン",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "撃って<style=cIsDamage>200%のダメージ</style>を与え、敵に<style=cIsUtility>クロノシックネス</style>を付与する。",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "分解",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "ライフルを集中させ、最大<style=cIsDamage>360%のダメージ</style>を与える。<style=cIsUtility>クロノシックネス</style>のしきい値未満の敵は存在から消滅する。",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "クロノシックネス",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "敵はクロノスフィア内にいる間、クロノシックネスを蓄積する。"
+    }
+}

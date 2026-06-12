@@ -22,6 +22,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>过热:受虐狂</style>如果纵火者因热量积累过多而退出受虐狂,则应用EX过热,将其移动速度和伤害降低至70%。取消或让技能自然结束会应用过热,将其攻击速度降低至50%。",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "过热!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "过热:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "过热:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "纵火狂热",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "抵抗所有来源的火焰伤害。将一次造成超过总生命值<style=cIsDamage>30%</style>的攻击转化为随时间造成的<style=cIsDamage>50%</style>火焰伤害。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "除非虚弱已生效，否则纵火狂热不会影响坠落伤害。"
     }
 }

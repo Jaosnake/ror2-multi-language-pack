@@ -36,6 +36,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Surchauffe: Masochisme</style>Si Arsoniste quitte Masochisme à cause d'un excès de chaleur, la Surchauffe EX est appliquée, réduisant sa Vitesse de Déplacement et ses Dégâts à 70%. Annuler ou laisser la compétence suivre son cours applique Surchauffe, réduisant sa Vitesse d'Attaque à 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "SURCHAUFFE!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "REFROIDISSEMENT...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SURCHAUFFE:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SURCHAUFFE:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Pyromanie",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Résiste aux dégâts de feu de toutes les sources. Convertit une attaque infligeant plus de <style=cIsDamage>30%</style> de la santé totale en <style=cIsDamage>50%</style> de dégâts de feu sur la durée.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Pyromanie n'affecte pas les dégâts de chute, sauf si Fragilité est active."
     }
 }

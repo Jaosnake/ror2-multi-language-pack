@@ -29,6 +29,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Sobrecalentamiento: Masoquismo</style>Si Arsonista sale de Masoquismo debido a acumulación excesiva de calor, se aplica Sobrecalentamiento EX, reduciendo su Velocidad de Movimiento y Daño al 70%. Cancelar o dejar que la habilidad siga su curso aplica Sobrecalentamiento, reduciendo su Velocidad de Ataque al 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "¡SOBRECALENTAMIENTO!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "¡ENFRIANDO...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "¡SOBRECALENTAMIENTO:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "¡SOBRECALENTAMIENTO:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromanía",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resiste el daño de fuego de todas las fuentes. Convierte un ataque que inflija más del <style=cIsDamage>30%</style> de la salud total en <style=cIsDamage>50%</style> de daño de fuego con el tiempo.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromanía no afecta el daño por caída a menos que Fragilidad esté activa."
     }
 }
