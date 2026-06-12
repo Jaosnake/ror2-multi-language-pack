@@ -386,6 +386,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 |---|---|---|---|
 | Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` | Standalone Thunderstore-ready package |
 | Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` | Standalone Thunderstore-ready package |
+| Alloyed Armorer Language Pack | TatertotticusSquad-Alloyed_Armorer | `thundermods-traduzidos/Jaosnake-Alloyed_Armorer_LanguagePack/` | R2API.Language token pack |
 | Additional mod translations | Multiple mods | `mods/` | One folder per mod |
 | Heretic Language Pack | Moffein-Heretic | `thundermods-traduzidos/Jaosnake-Heretic_LanguagePack/` | R2API.Language token pack |
 
@@ -525,7 +526,7 @@ Translations and packaging: **Jaosnake**
 
 PT-BR note: for **Starstorm 2** and **Sandswept**, Jaosnake reviewed every line and manually edited the PT-BR translation. Original credits are kept where applicable.
 
-Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Frosthex, HasteReapr, JavAngle, nayDPz, Paladin_Alliance, PopcornFactory, public_ParticleSystem, Risky_Lives, rob, SaucySquash, TeamCloudburst, TeamSillyGuy, The_Bozos, TheTimesweeper, toastyTeam, and tsuyoikenko.
+Original mod authors include TeamMoonstorm, SandsweptTeam, Bog, EnforcerGang, Frosthex, HasteReapr, JavAngle, nayDPz, Paladin_Alliance, PopcornFactory, public_ParticleSystem, Risky_Lives, rob, SaucySquash, TatertotticusSquad, TeamCloudburst, TeamSillyGuy, The_Bozos, TheTimesweeper, toastyTeam, and tsuyoikenko.
 
 Community translation credits preserved from the original files include Kauzok, Donitodorito, StyleMyk, Meteorite1014, Lecarde/lecarde, punch, Bagre, WockyTheWolf/JunJun_w, FyreBW/Fyrebw, Damglador, CaffeinePain, Juhnter, Lonerdev, JunJun_W, Hexxedude, tymmey, Dice, Nikto0o, Rody/FallenTroop,锅巴, and PlNK.
 
