@@ -1,0 +1,33 @@
+{
+    "de": {
+        "HABIBI_CHRONO_NAME": "Chrono-Legionär",
+        "HABIBI_CHRONO_DESCRIPTION": "Der Chrono-Legionär manipuliert die Zeit, um das Schlachtfeld durcheinanderzubringen.<color=#CCD3E0>\n\n< ! > Es wird dringend empfohlen, Sprint auf ALT oder die Maus zu legen, wenn möglich.\n\n< ! > I.V.A.N.-Bomben eignen sich hervorragend für Flächenschaden. Spring hinein, platziere eine und spring wieder heraus.\n\n< ! > Die Chronosphäre kann zur Bewegung, Verteidigung oder zum Gruppieren von Gegnern genutzt werden, damit Bomben sie besser erfassen.\n\n< ! > Während Chrono-Krankheit Gegner mit der Spezialfähigkeit ausführt, bleibt Schaden wichtig, um sie bis zu dieser Schwelle zu bringen.\n\nOriginalmod von TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Zeitwaffe",
+        "HABIBI_CHRONO_LORE": "Hat Nie Existiert",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..und so ging er, ohne eine Spur zu hinterlassen.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..und so verschwand er, als hätte er nie existiert.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Alternativ",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Schon Da",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Anstatt zu sprinten, springst du zeitlich von Ort zu Ort; danach bist du je nach Entfernung kurz <style=cIsUtility>deaktiviert</style>.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Chrono-Gewehr",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Feuere ein zeitstoppendes Gewehr für <style=cIsDamage>200% Schaden</style>. Getroffene Gegner erhalten <style=cIsUtility>Chrono-Krankheit</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "Chrono-I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Bringe eine Impulsbombe an einem Gegner an. Nach 3 Sekunden explodiert sie und verursacht <style=cIsDamage>500% Schaden</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Chronosphäre",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Markiere einen Bereich und danach einen zweiten. <style=cIsUtility>Alle Einheiten</style> im ersten Bereich werden in den zweiten teleportiert.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Suspend-Sphäre",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Stoppe die Zeit</style> für Gegner und Projektile für <style=cIsUtility>5 Sekunden</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Dekonstruktion",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Verursache <style=cIsDamage>240% Schaden</style> und wende 1 Sekunde lang <style=cIsUtility>Chrono-Krankheit</style> an. Liegt die Gesundheit eines Gegners unter der Schwelle von <style=cIsUtility>Chrono-Krankheit</style>, verschwindet er aus der Existenz.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Abbrechen",
+        "HABIBI_CHRONO_CANCEL_DESC": "Bricht die aktuelle Fähigkeit ab.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Chrono-Gewehr",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Lässt Gegner aus der Existenz verschwinden.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Chrono-Gewehr",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Feuere für <style=cIsDamage>200% Schaden</style> und wende <style=cIsUtility>Chrono-Krankheit</style> auf Gegner an.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Dekonstruktion",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Konzentriere dein Gewehr für bis zu <style=cIsDamage>360% Schaden</style>. Ein Gegner unter der Schwelle von <style=cIsUtility>Chrono-Krankheit</style> verschwindet aus der Existenz.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Chrono-Krankheit",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Gegner sammeln Chrono-Krankheit, während sie sich in Chronosphären befinden."
+    }
+}

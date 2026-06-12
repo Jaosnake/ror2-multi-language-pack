@@ -29,6 +29,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Überhitzung: Masochismus</style>Wenn Brandstifter aufgrund übermäßiger Hitzeentwicklung den Masochismus verlässt, wird EX-Überhitzung angewendet, wodurch Bewegungsgeschwindigkeit und Schaden auf 70 % reduziert werden. Wenn Sie die Fertigkeit abbrechen oder ablaufen lassen, wird Überhitzung angewendet, wodurch die Angriffsgeschwindigkeit auf 50 % verringert wird.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "ÜBERHITZEN!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "Abkühlung...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ÜBERHITZUNG:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ÜBERHITZUNG:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Pyromanie",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Widersteht Feuerschaden aus allen Quellen. Wandelt einen Angriff, der mehr als <style=cIsDamage>30%</style> der Gesamtgesundheit verursacht, in <style=cIsDamage>50%</style> Feuerschaden über Zeit um.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Pyromanie beeinflusst Fallschaden nicht, außer Gebrechlichkeit ist aktiv."
     }
 }

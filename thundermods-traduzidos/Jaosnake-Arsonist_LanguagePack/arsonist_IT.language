@@ -29,6 +29,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Surriscaldamento: masochismo</style>Se Arsonist abbandona il Masochismo a causa di un eccessivo accumulo di calore, viene applicato Surriscaldamento EX, riducendo la velocità di movimento e il danno al 70%. Annullare o lasciare che l'abilità faccia il suo corso applica Surriscaldamento, riducendo la velocità d'attacco al 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "SURRISCALDARE!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "RAFFREDDAMENTO...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SURRISCALDAMENTO: EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SURRISCALDAMENTO: EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromania",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resisti ai danni da fuoco da tutte le fonti. Converti un attacco che infligge più del <style=cIsDamage>30%</style> della salute totale in <style=cIsDamage>50%</style> di danni da fuoco nel tempo.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania non influenza i danni da caduta a meno che Fragilità non sia attiva."
     }
 }

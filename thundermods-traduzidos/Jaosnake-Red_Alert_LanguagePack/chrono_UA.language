@@ -1,0 +1,33 @@
+{
+    "UA": {
+        "HABIBI_CHRONO_NAME": "Хроно-легіонер",
+        "HABIBI_CHRONO_DESCRIPTION": "Хроно-легіонер маніпулює часом, щоб змінювати поле бою.<color=#CCD3E0>\n\n< ! > Рекомендовано призначити біг на ALT або кнопку миші, якщо можливо.\n\n< ! > Бомби I.V.A.N. чудові для шкоди по області. Стрибніть у часі всередину, встановіть одну й вийдіть.\n\n< ! > Хроносферу можна використовувати для руху, захисту або групування ворогів, щоб бомби краще їх підривали.\n\n< ! > Хоча накопичення Хроно-хвороби дозволяє спеціальній навичці страчувати ворогів, шкода все ще важлива, щоб довести їх до порогу.\n\nОригінальний мод: TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Зброя часу",
+        "HABIBI_CHRONO_LORE": "Ніколи Не Існував",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..і він пішов, не залишивши сліду.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..і він зник, наче ніколи не існував.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Альтернативний",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Уже Там",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Замість бігу ви стрибаєте в часі з місця на місце, після чого ненадовго стаєте <style=cIsUtility>знерухомленими</style> залежно від відстані.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Хроно-гвинтівка",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Вистріліть із гвинтівки, що зупиняє час, завдаючи <style=cIsDamage>200% шкоди</style>. Уражені вороги отримують <style=cIsUtility>Хроно-хворобу</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "Хроно I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Прикріпіть імпульсну бомбу до ворога. Через 3 секунди вона вибухає, завдаючи <style=cIsDamage>500% шкоди</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Хроносфера",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Позначте область, потім другу область. <style=cIsUtility>Усі одиниці</style> з першої області телепортуються до другої.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Сфера Стазису",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Зупиніть час</style> для ворогів і снарядів на <style=cIsUtility>5 секунд</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Деконструкція",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Завдайте <style=cIsDamage>240% шкоди</style> і накладіть <style=cIsUtility>Хроно-хворобу</style> на 1 секунду. Якщо здоров'я ворога нижче порогу <style=cIsUtility>Хроно-хвороби</style>, він зникає з існування.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Скасувати",
+        "HABIBI_CHRONO_CANCEL_DESC": "Скасовує поточну навичку.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Хроно-гвинтівка",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Стирає ворогів з існування.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Хроно-гвинтівка",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Стріляйте, завдаючи <style=cIsDamage>200% шкоди</style> і накладаючи на ворогів <style=cIsUtility>Хроно-хворобу</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Деконструкція",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Сфокусуйте гвинтівку, щоб завдати до <style=cIsDamage>360% шкоди</style>. Ворог нижче порогу <style=cIsUtility>Хроно-хвороби</style> зникне з існування.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Хроно-хвороба",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Вороги накопичують Хроно-хворобу, перебуваючи в хроносферах."
+    }
+}

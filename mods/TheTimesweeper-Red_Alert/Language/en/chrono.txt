@@ -1,0 +1,33 @@
+{
+    "en": {
+        "HABIBI_CHRONO_NAME": "Chrono Legionnaire",
+        "HABIBI_CHRONO_DESCRIPTION": "The Chrono Legionnaire uses manipulation of time to shake up the battlefield.<color=#CCD3E0>\n\n< ! > I highly recommend setting sprint to alt or on your mouse if you can.\n\n< ! > I.V.A.N. bombs are great for area damage. Blink in, place one, and blink out.\n\n< ! > Chronosphere can be used for movement, for defense, or for grouping up enemies to better be exploded by bombs.\n\n< ! > While building up Chrono Sickness executes enemies with special, dealing damage is still important to get them to that threshold.\n\nMod original by TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Time Gun",
+        "HABIBI_CHRONO_LORE": "Never Existed",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..and so he left, without a trace.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..and so he vanished, as if he never existed.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Alternate",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Already There",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Instead of sprinting, you time-skip from place to place, after which, you are <style=cIsUtility>disabled</style> for a short time based on distance.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Chrono Gun",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Fire a time-stopping rifle for <style=cIsDamage>200% damage</style>. Enemies hit are applied <style=cIsUtility>Chrono Sickness</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "Chrono I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Attach a pulse bomb to an enemy. After 3 seconds, the bomb explodes for <style=cIsDamage>500% damage</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Chronosphere",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Highlight an area, then highlight a second area. <style=cIsUtility>All units</style> in the first area are teleported to the second area.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Suspend Sphere",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Stop time</style> for enemies and projectiles for <style=cIsUtility>5 seconds</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Deconstructing",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Deal <style=cIsDamage>240% damage</style> and apply <style=cIsUtility>Chrono Sickness</style> over 1 second. If an enemy's health is below the <style=cIsUtility>Chrono Sickness</style> threshold, they vanish from existence.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Cancel",
+        "HABIBI_CHRONO_CANCEL_DESC": "Cancel the current skill.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Chrono Gun",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Makes enemies vanish from existence.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Chrono Gun",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Fire for <style=cIsDamage>200% damage</style> and apply <style=cIsUtility>Chrono Sickness</style> to enemies.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Deconstructing",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Focus your rifle for up to <style=cIsDamage>360% damage</style>. An enemy below the <style=cIsUtility>Chrono Sickness</style> threshold will vanish from existence.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Chrono Sickness",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Enemies build Chrono Sickness while inside chronospheres."
+    }
+}

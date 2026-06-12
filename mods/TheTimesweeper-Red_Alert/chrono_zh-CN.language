@@ -1,0 +1,33 @@
+{
+    "zh-CN": {
+        "HABIBI_CHRONO_NAME": "超时空军团兵",
+        "HABIBI_CHRONO_DESCRIPTION": "超时空军团兵操控时间来扰乱战场。<color=#CCD3E0>\n\n< ! > 如果可以，强烈建议把奔跑设置到 ALT 或鼠标按键。\n\n< ! > I.V.A.N. 炸弹很适合范围伤害。时间跳跃进去，放下一枚，然后撤出。\n\n< ! > 超时空球可用于移动、防御，或把敌人聚到一起，让炸弹更容易清场。\n\n< ! > 虽然累积超时空病可让特殊技能处决敌人，但仍需要造成伤害，把敌人压到阈值以下。\n\n原始模组作者：TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "时间武器",
+        "HABIBI_CHRONO_LORE": "从未存在",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..于是他离开了，没有留下任何痕迹。",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..于是他消失了，仿佛从未存在过。",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "替代",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "早已到达",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "你不会奔跑，而是在地点之间进行时间跳跃；随后会根据距离短暂<style=cIsUtility>失能</style>。",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "超时空枪",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "发射一把停止时间的步枪，造成<style=cIsDamage>200%伤害</style>。命中的敌人会被施加<style=cIsUtility>超时空病</style>。",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "超时空 I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "将一枚脉冲炸弹附着在敌人身上。3 秒后炸弹爆炸，造成<style=cIsDamage>500%伤害</style>。",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "超时空球",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "标记一个区域，然后标记第二个区域。第一个区域内的<style=cIsUtility>所有单位</style>会被传送到第二个区域。",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "悬停球",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "为敌人和投射物<style=cIsUtility>停止时间</style>，持续<style=cIsUtility>5秒</style>。",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "解构",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "造成<style=cIsDamage>240%伤害</style>并在 1 秒内施加<style=cIsUtility>超时空病</style>。如果敌人的生命值低于<style=cIsUtility>超时空病</style>阈值，它将从存在中消失。",
+        "HABIBI_CHRONO_CANCEL_NAME": "取消",
+        "HABIBI_CHRONO_CANCEL_DESC": "取消当前技能。",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "超时空枪",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "使敌人从存在中消失。",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "超时空枪",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "开火造成<style=cIsDamage>200%伤害</style>并对敌人施加<style=cIsUtility>超时空病</style>。",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "解构",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "集中步枪火力，最多造成<style=cIsDamage>360%伤害</style>。低于<style=cIsUtility>超时空病</style>阈值的敌人会从存在中消失。",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "超时空病",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "敌人在超时空球内会累积超时空病。"
+    }
+}

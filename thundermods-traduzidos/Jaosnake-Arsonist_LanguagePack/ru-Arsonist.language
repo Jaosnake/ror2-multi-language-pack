@@ -36,6 +36,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрев: Masochism</style>Если Арсонист выходит из Masochism из-за чрезмерного накопления тепла, применяется Перегрев EX, снижающий Скорость Передвижения и Урон до 70%. Отмена или завершение навыка применяет Перегрев, снижающий Скорость Атаки до 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "ПЕРЕГРЕВ!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ОХЛАЖДЕНИЕ...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРЕВ:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРЕВ:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Пиромания",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Сопротивляйтесь урону огнём из всех источников. Преобразуйте атаку, наносящую более <style=cIsDamage>30%</style> общего здоровья, в <style=cIsDamage>50%</style> урона огнём с течением времени.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Пиромания не влияет на урон от падения, если не активна Хрупкость."
     }
 }

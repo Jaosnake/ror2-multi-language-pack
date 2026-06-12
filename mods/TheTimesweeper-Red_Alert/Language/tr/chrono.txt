@@ -1,0 +1,33 @@
+{
+    "tr": {
+        "HABIBI_CHRONO_NAME": "Chrono Lejyoneri",
+        "HABIBI_CHRONO_DESCRIPTION": "Chrono Lejyoneri zamanı manipüle ederek savaş alanını altüst eder.<color=#CCD3E0>\n\n< ! > Mümkünse koşmayı ALT tuşuna veya fareye ataman önerilir.\n\n< ! > I.V.A.N. bombaları alan hasarı için harikadır. Zaman sıçramasıyla gir, bir tane yerleştir ve çık.\n\n< ! > Chronosphere hareket, savunma veya düşmanları bombalarla daha iyi patlatmak için gruplama amacıyla kullanılabilir.\n\n< ! > Chrono Sickness birikimi özel yetenekle düşmanları infaz etse de, onları bu eşiğe getirmek için hasar vermek hâlâ önemlidir.\n\nOrijinal mod: TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Zaman Silahı",
+        "HABIBI_CHRONO_LORE": "Hiç Var Olmadı",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..ve böylece iz bırakmadan gitti.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..ve böylece hiç var olmamış gibi yok oldu.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Alternatif",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Zaten Orada",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Koşmak yerine, bir yerden başka bir yere zamanda sıçrarsın; ardından mesafeye bağlı olarak kısa süreliğine <style=cIsUtility>devre dışı</style> kalırsın.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Chrono Silahı",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsDamage>%200 hasar</style> veren, zamanı durduran bir tüfek ateşle. İsabet alan düşmanlara <style=cIsUtility>Chrono Sickness</style> uygulanır.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "Chrono I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Bir düşmana darbe bombası tak. 3 saniye sonra bomba patlayarak <style=cIsDamage>%500 hasar</style> verir.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Chronosphere",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Bir alanı, sonra ikinci bir alanı işaretle. İlk alandaki <style=cIsUtility>tüm birimler</style> ikinci alana ışınlanır.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Askı Küresi",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "Düşmanlar ve mermiler için <style=cIsUtility>5 saniyeliğine</style> <style=cIsUtility>zamanı durdur</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Yapıbozum",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "<style=cIsDamage>%240 hasar</style> ver ve 1 saniye boyunca <style=cIsUtility>Chrono Sickness</style> uygula. Bir düşmanın canı <style=cIsUtility>Chrono Sickness</style> eşiğinin altındaysa varoluştan silinir.",
+        "HABIBI_CHRONO_CANCEL_NAME": "İptal",
+        "HABIBI_CHRONO_CANCEL_DESC": "Geçerli yeteneği iptal eder.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Chrono Silahı",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Düşmanları varoluştan siler.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Chrono Silahı",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "<style=cIsDamage>%200 hasar</style> vermek ve düşmanlara <style=cIsUtility>Chrono Sickness</style> uygulamak için ateş et.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Yapıbozum",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Tüfeğini odaklayarak en fazla <style=cIsDamage>%360 hasar</style> ver. <style=cIsUtility>Chrono Sickness</style> eşiğinin altındaki bir düşman varoluştan silinir.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Chrono Sickness",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Düşmanlar chronosphere içindeyken Chrono Sickness biriktirir."
+    }
+}

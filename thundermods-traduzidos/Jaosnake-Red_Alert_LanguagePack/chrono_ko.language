@@ -1,0 +1,33 @@
+{
+    "ko": {
+        "HABIBI_CHRONO_NAME": "크로노 군단병",
+        "HABIBI_CHRONO_DESCRIPTION": "크로노 군단병은 시간을 조작해 전장을 뒤흔듭니다.<color=#CCD3E0>\n\n< ! > 가능하다면 달리기를 ALT 또는 마우스 버튼에 배정하는 것을 권장합니다.\n\n< ! > I.V.A.N. 폭탄은 광역 피해에 뛰어납니다. 시간 도약으로 들어가 설치한 뒤 빠져나오십시오.\n\n< ! > 크로노스피어는 이동, 방어, 또는 적을 모아 폭탄으로 더 효과적으로 폭파하는 데 사용할 수 있습니다.\n\n< ! > 크로노 질병을 쌓으면 특수기로 적을 처형할 수 있지만, 그 임계치까지 적을 밀어붙이려면 피해를 주는 것도 중요합니다.\n\nOriginal mod by TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "시간총",
+        "HABIBI_CHRONO_LORE": "존재한 적 없음",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..그리고 그는 흔적도 없이 떠났습니다.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..그리고 그는 처음부터 존재하지 않았던 것처럼 사라졌습니다.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "대체",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "이미 그곳에",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "달리기 대신 지점 사이를 시간 도약합니다. 이후 이동 거리에 따라 짧은 시간 <style=cIsUtility>무력화</style>됩니다.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "크로노 건",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "시간을 멈추는 소총을 발사하여 <style=cIsDamage>200% 피해</style>를 줍니다. 적중한 적에게 <style=cIsUtility>크로노 질병</style>을 적용합니다.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "크로노 I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "적에게 펄스 폭탄을 부착합니다. 3초 후 폭탄이 폭발하여 <style=cIsDamage>500% 피해</style>를 줍니다.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "크로노스피어",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "한 영역을 지정한 뒤 두 번째 영역을 지정합니다. 첫 번째 영역의 <style=cIsUtility>모든 유닛</style>이 두 번째 영역으로 순간이동합니다.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "정지 구체",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "적과 투사체의 <style=cIsUtility>시간을 정지</style>시킵니다. 지속 시간은 <style=cIsUtility>5초</style>입니다.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "해체",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "<style=cIsDamage>240% 피해</style>를 주고 1초 동안 <style=cIsUtility>크로노 질병</style>을 적용합니다. 적의 체력이 <style=cIsUtility>크로노 질병</style> 임계치보다 낮으면 존재에서 사라집니다.",
+        "HABIBI_CHRONO_CANCEL_NAME": "취소",
+        "HABIBI_CHRONO_CANCEL_DESC": "현재 스킬을 취소합니다.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "크로노 건",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "적을 존재에서 사라지게 합니다.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "크로노 건",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "발사하여 <style=cIsDamage>200% 피해</style>를 주고 적에게 <style=cIsUtility>크로노 질병</style>을 적용합니다.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "해체",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "소총을 집중해 최대 <style=cIsDamage>360% 피해</style>를 줍니다. <style=cIsUtility>크로노 질병</style> 임계치보다 낮은 적은 존재에서 사라집니다.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "크로노 질병",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "적은 크로노스피어 안에 있는 동안 크로노 질병을 축적합니다."
+    }
+}

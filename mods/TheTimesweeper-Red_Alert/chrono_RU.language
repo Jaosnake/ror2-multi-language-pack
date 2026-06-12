@@ -1,0 +1,33 @@
+{
+    "RU": {
+        "HABIBI_CHRONO_NAME": "Хроно-легионер",
+        "HABIBI_CHRONO_DESCRIPTION": "Хроно-легионер манипулирует временем, чтобы менять ход боя.<color=#CCD3E0>\n\n< ! > Рекомендуется назначить бег на ALT или на кнопку мыши, если возможно.\n\n< ! > Бомбы I.V.A.N. отлично подходят для урона по области. Прыгните во времени внутрь, установите бомбу и уходите.\n\n< ! > Хроносфера помогает перемещаться, защищаться или группировать врагов, чтобы бомбы поражали их эффективнее.\n\n< ! > Хотя накопление Хроно-болезни позволяет специальной способности казнить врагов, урон всё равно важен, чтобы довести их до порога.\n\nОригинальный мод: TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Оружие времени",
+        "HABIBI_CHRONO_LORE": "Никогда Не Существовал",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..и он ушёл, не оставив следа.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..и он исчез, словно никогда не существовал.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Альтернативный",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Уже Там",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Вместо бега вы перемещаетесь скачками во времени, после чего ненадолго становитесь <style=cIsUtility>обездвижены</style> в зависимости от расстояния.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Хроно-ружьё",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Выстрелите из ружья, останавливающего время, нанося <style=cIsDamage>200% урона</style>. На поражённых врагов накладывается <style=cIsUtility>Хроно-болезнь</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "Хроно I.V.A.N.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Прикрепите импульсную бомбу к врагу. Через 3 секунды она взорвётся, нанося <style=cIsDamage>500% урона</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Хроносфера",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Выделите область, затем вторую область. <style=cIsUtility>Все юниты</style> из первой области телепортируются во вторую.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Сфера Стазиса",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Остановите время</style> для врагов и снарядов на <style=cIsUtility>5 секунд</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Деконструкция",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Нанесите <style=cIsDamage>240% урона</style> и наложите <style=cIsUtility>Хроно-болезнь</style> на 1 секунду. Если здоровье врага ниже порога <style=cIsUtility>Хроно-болезни</style>, он исчезает из существования.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Отмена",
+        "HABIBI_CHRONO_CANCEL_DESC": "Отменяет текущую способность.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Хроно-ружьё",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Стирает врагов из существования.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Хроно-ружьё",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Стреляйте, нанося <style=cIsDamage>200% урона</style> и накладывая на врагов <style=cIsUtility>Хроно-болезнь</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Деконструкция",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Сфокусируйте ружьё, чтобы нанести до <style=cIsDamage>360% урона</style>. Враг ниже порога <style=cIsUtility>Хроно-болезни</style> исчезнет из существования.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Хроно-болезнь",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Враги накапливают Хроно-болезнь, находясь внутри хроносфер."
+    }
+}

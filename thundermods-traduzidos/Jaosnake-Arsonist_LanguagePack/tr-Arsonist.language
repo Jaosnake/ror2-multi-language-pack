@@ -36,6 +36,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Aşırı Isınma: Mazoşizm</style>Eğer Kundakçı aşırı ısı birikmesi nedeniyle Mazoşizm'den ayrılırsa, EX Aşırı Isıtma uygulanarak Hareket Hızı ve Hasar %70'e düşürülür. Yeteneğin iptal edilmesi veya kendi seyrinde ilerlemesine izin verilmesi Aşırı Isınma uygulayarak Saldırı Hızını %50'ye düşürür.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "AŞIRI ISINMA!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "SOĞUYORUZ...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "AŞIRI ISINMA: EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "AŞIRI ISINMA: EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromani",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Tüm kaynaklardan gelen ateş hasarına diren. Toplam canın <style=cIsDamage>%30</style>'undan fazla hasar veren bir saldırıyı zamanla verilen <style=cIsDamage>%50</style> ateş hasarına dönüştür.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromani, Frailty etkin olmadığı sürece düşme hasarını etkilemez."
     }
 }

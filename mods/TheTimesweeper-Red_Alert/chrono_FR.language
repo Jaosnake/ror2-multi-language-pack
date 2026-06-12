@@ -1,0 +1,33 @@
+{
+    "FR": {
+        "HABIBI_CHRONO_NAME": "Légionnaire Chrono",
+        "HABIBI_CHRONO_DESCRIPTION": "Le Légionnaire Chrono manipule le temps pour bouleverser le champ de bataille.<color=#CCD3E0>\n\n< ! > Il est fortement conseillé d'assigner le sprint à ALT ou à la souris si possible.\n\n< ! > Les bombes I.V.A.N. sont excellentes pour les dégâts de zone. Entrez par saut temporel, posez-en une, puis repartez.\n\n< ! > La Chronosphère sert au déplacement, à la défense ou au regroupement d'ennemis pour mieux les faire exploser avec des bombes.\n\n< ! > Même si la Maladie Chrono permet d'exécuter les ennemis avec la spéciale, infliger des dégâts reste important pour les amener à ce seuil.\n\nMod original par TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Arme temporelle",
+        "HABIBI_CHRONO_LORE": "N'a Jamais Existé",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..et alors il partit, sans laisser de trace.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..et alors il disparut, comme s'il n'avait jamais existé.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Alternatif",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Déjà Là",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "Au lieu de sprinter, vous sautez dans le temps d'un endroit à l'autre, puis vous êtes <style=cIsUtility>désactivé</style> pendant un court instant selon la distance.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Fusil Chrono",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Tirez avec un fusil qui arrête le temps et inflige <style=cIsDamage>200% de dégâts</style>. Les ennemis touchés reçoivent <style=cIsUtility>Maladie Chrono</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "I.V.A.N. Chrono",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Fixez une bombe à impulsion sur un ennemi. Après 3 secondes, elle explose et inflige <style=cIsDamage>500% de dégâts</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Chronosphère",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Marquez une zone, puis une seconde. <style=cIsUtility>Toutes les unités</style> de la première zone sont téléportées vers la seconde.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Sphère de Suspension",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Arrêtez le temps</style> pour les ennemis et projectiles pendant <style=cIsUtility>5 secondes</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Déconstruction",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Infligez <style=cIsDamage>240% de dégâts</style> et appliquez <style=cIsUtility>Maladie Chrono</style> pendant 1 seconde. Si la santé d'un ennemi est sous le seuil de <style=cIsUtility>Maladie Chrono</style>, il disparaît de l'existence.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Annuler",
+        "HABIBI_CHRONO_CANCEL_DESC": "Annule la compétence actuelle.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Fusil Chrono",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Fait disparaître les ennemis de l'existence.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Fusil Chrono",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Tirez pour infliger <style=cIsDamage>200% de dégâts</style> et appliquer <style=cIsUtility>Maladie Chrono</style> aux ennemis.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Déconstruction",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Concentrez votre fusil pour infliger jusqu'à <style=cIsDamage>360% de dégâts</style>. Un ennemi sous le seuil de <style=cIsUtility>Maladie Chrono</style> disparaît de l'existence.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Maladie Chrono",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Les ennemis accumulent Maladie Chrono tant qu'ils sont dans les chronosphères."
+    }
+}

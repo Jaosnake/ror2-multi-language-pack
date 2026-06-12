@@ -1,0 +1,33 @@
+{
+    "es-ES": {
+        "HABIBI_CHRONO_NAME": "Legionario Chrono",
+        "HABIBI_CHRONO_DESCRIPTION": "El Legionario Chrono usa manipulación temporal para sacudir el campo de batalla.<color=#CCD3E0>\n\n< ! > Se recomienda asignar correr a ALT o al mouse si es posible.\n\n< ! > Las bombas I.V.A.N. son excelentes para daño en área. Entra con un salto temporal, coloca una y sal.\n\n< ! > La Cronosfera sirve para moverte, defenderte o agrupar enemigos para explotarlos mejor con bombas.\n\n< ! > Aunque la Enfermedad Chrono permite ejecutar enemigos con la especial, seguir causando daño es importante para llevarlos a ese umbral.\n\nMod original por TheTimesweeper",
+        "HABIBI_CHRONO_SUBTITLE": "Arma temporal",
+        "HABIBI_CHRONO_LORE": "Nunca Existió",
+        "HABIBI_CHRONO_OUTRO_FLAVOR": "..y entonces se fue, sin dejar rastro.",
+        "HABIBI_CHRONO_OUTRO_FAILURE": "..y entonces desapareció, como si nunca hubiera existido.",
+        "HABIBI_CHRONO_MASTERY_SKIN_NAME": "Alternativo",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_NAME": "Ya Está Ahí",
+        "HABIBI_CHRONO_PASSIVE_SPRINT_DESCRIPTION": "En lugar de correr, saltas en el tiempo de un lugar a otro; después quedas <style=cIsUtility>deshabilitado</style> durante un breve tiempo según la distancia.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_NAME": "Arma Chrono",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DESCRIPTION": "Dispara un rifle que detiene el tiempo e inflige <style=cIsDamage>200% de daño</style>. Los enemigos alcanzados reciben <style=cIsUtility>Enfermedad Chrono</style>.",
+        "HABIBI_CHRONO_SECONDARY_BOMB_NAME": "I.V.A.N. Chrono",
+        "HABIBI_CHRONO_SECONDARY_BOMB_DESCRIPTION": "Fija una bomba de pulso a un enemigo. Tras 3 segundos, explota e inflige <style=cIsDamage>500% de daño</style>.",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_NAME": "Cronosfera",
+        "HABIBI_CHRONO_UTILITY_CHRONOSPHERE_DESCRIPTION": "Marca un área y luego marca una segunda área. <style=cIsUtility>Todas las unidades</style> de la primera área se teletransportan a la segunda.",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_NAME": "Esfera de Suspensión",
+        "HABIBI_CHRONO_UTILITY_FREEZOSPHERE_DESCRIPTION": "<style=cIsUtility>Detén el tiempo</style> para enemigos y proyectiles durante <style=cIsUtility>5 segundos</style>.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_NAME": "Deconstrucción",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DESCRIPTION": "Inflige <style=cIsDamage>240% de daño</style> y aplica <style=cIsUtility>Enfermedad Chrono</style> durante 1 segundo. Si la salud de un enemigo está por debajo del umbral de <style=cIsUtility>Enfermedad Chrono</style>, desaparece de la existencia.",
+        "HABIBI_CHRONO_CANCEL_NAME": "Cancelar",
+        "HABIBI_CHRONO_CANCEL_DESC": "Cancela la habilidad actual.",
+        "HABIBI_CHRONO_DRIVER_GUN_NAME": "Arma Chrono",
+        "HABIBI_CHRONO_DRIVER_GUN_DESCRIPTION": "Hace que los enemigos desaparezcan de la existencia.",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_NAME": "Arma Chrono",
+        "HABIBI_CHRONO_PRIMARY_SHOOT_DRIVER_DESCRIPTION": "Dispara para infligir <style=cIsDamage>200% de daño</style> y aplicar <style=cIsUtility>Enfermedad Chrono</style> a los enemigos.",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_NAME": "Deconstrucción",
+        "HABIBI_CHRONO_SPECIAL_VANISH_DRIVER_DESCRIPTION": "Concentra tu rifle para infligir hasta <style=cIsDamage>360% de daño</style>. Un enemigo por debajo del umbral de <style=cIsUtility>Enfermedad Chrono</style> desaparecerá de la existencia.",
+        "HABIBI_CHRONO_ITEM_SICKNESS_NAME": "Enfermedad Chrono",
+        "HABIBI_CHRONO_ITEM_SICKNESS_DESCRIPTION": "Los enemigos acumulan Enfermedad Chrono mientras están dentro de cronosferas."
+    }
+}

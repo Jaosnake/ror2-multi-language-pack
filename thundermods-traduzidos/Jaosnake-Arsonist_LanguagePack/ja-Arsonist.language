@@ -36,6 +36,9 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>過熱:マゾヒズム</style>アーソニストが過剰な熱量蓄積によりマゾヒズムを離脱した場合、EX過熱が適用され、移動速度とダメージが70%に低下。キャンセルまたはスキルを完了させると過熱が適用され、攻撃速度が50%に低下。",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "過熱!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
-        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱:EX!"
+        "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "過熱:EX!",
+        "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "パイロマニア",
+        "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "あらゆる火炎ダメージに耐性を得る。最大体力の<style=cIsDamage>30%</style>を超える攻撃を、時間経過で与える<style=cIsDamage>50%</style>の火炎ダメージに変換する。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "虚弱が有効でない限り、パイロマニアは落下ダメージに影響しない。"
     }
 }
