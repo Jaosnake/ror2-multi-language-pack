@@ -1,0 +1,12 @@
+{
+    "en": {
+        "ITEM_FEATHERED_PLUME_NAME": "Feathered Plume",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Gain a temporary speed boost after taking damage.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Taking damage grants a temporary <style=cIsUtility>7% movement speed</style> boost that stacks <style=cIsUtility>3</style> times for <style=cIsUtility>5 seconds</style>. <style=cStack>(+3 stacks and +0.5s duration per stack)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Zenith Accelerator",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Hits grant attack speed, but low stacks reduce your attack speed.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Hitting enemies grants a temporary attack speed buff that increases attack speed by <style=cIsDamage>10%</style> per stack up to <style=cIsDamage>+300%</style> <style=cStack>(+100% per item)</style>, but you lose up to <style=cIsHealth>50%</style> attack speed <style=cStack>(+50% per item)</style> the closer you are to 0 stacks.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

@@ -25,6 +25,12 @@
         "BLAKE_RIFTER_SPECIAL_TIMELOCK": "시간 잠금",
         "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "특정 지역에 있는 적의 시간을 고정하여 몇 초 동안 얼립니다.",
         "BLAKE_NEM_RIFTER_NAME": "네메시스 리프터",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "타락한 균열"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "타락한 균열",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies at once!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Rifter로 Wandering Rift를 해제하세요."
     }
 }

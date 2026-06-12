@@ -31,5 +31,12 @@
         "SS2_REMUNERATION_TERMINAL_NAME": "Piédestal",
         "SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">Valider la transaction</link>",
         "SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">Quel est ton héritage ?</link>\n\nRien d'autre que de mesquines vengeances.\n\n<link=\"textShaky\">Quelle est ton identité ?</link>\n\nRien d'autre qu'un nom prononcé avec dégoût.\n\n<link=\"textShaky\">Que veux-tu ?</link>\n\nRien d'autre qu'un nouveau dessein.\n\n<link=\"textShaky\">De quoi as-tu besoin ?</link>\n\nRien d'autre que des armes en lesquelles j'ai confiance.\n\n<link=\"textShaky\">Alors, où iras-tu ?</link>\n\nPartout où tu me pousseras.\n\n<link=\"textShaky\">Et que feras-tu ?</link>\n\nTout ce que tu dis avoir besoin.\n\n<link=\"textShaky\">C'est tout, alors ?</link>\n\nSi tu le dis ainsi.\n\n<link=\"textShaky\">Alors va là-bas, et meurs.</link>\n\n...\n\nTant que tu me paies.\n\n"
+    },
+    "FR": {
+        "SS2_ITEM_HUNTERSSIGIL_DESC": "Après être resté immobile pendant 1 seconde, créez une zone de 8m qui confère à tous les alliés 30 d’armure (+15 par cumul) et 30% de dégâts (+15% par cumul). La zone dure jusqu’à ce que vous la quittiez.",
+        "SS2_ITEM_FIELDACCELERATOR_DESC": "Après avoir vaincu le boss du téléporteur, augmentez le rayon du téléporteur de 20% (+20% par cumul) et tuer des ennemis confère +1% de charge du téléporteur.",
+        "SS2_ITEM_BLOODTESTER_DESC": "Toutes les 30 secondes, récupérez rapidement 15 PV (+15 par cumul) pour chaque tranche de 25 pièces d’or possédées. S’adapte avec le temps.",
+        "SS2_ITEM_JETBOOTS_DESC": "Gagnez +1 saut supplémentaire qui enflamme les ennemis pour 500% de dégâts de base dans un rayon de 7,5m (+5m par cumul). Se recharge 5 secondes après l’atterrissage.",
+        "SS2_EQUIP_BACKTHRUSTER_DESC": "Pendant 8 secondes, accélérez rapidement jusqu’à 200% de vitesse de déplacement en vous déplaçant en ligne droite."
     }
 }

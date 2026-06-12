@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-trascrizione FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«Ho una strana spedizione qui. Vieni a vedere, so che ti piace questa roba.»\n\n«Un secondo, devo finire di fare le valigie. Descrivimelo e basta.»\n\n«Ebbene, quando l'ho preso in mano, ho avuto una strana sensazione. La stiva sembrava diversa, ma non ci ho pensato molto finché non ho guardato le mie membra. Mi ci è voluto un secondo per realizzare che stavo guardando attraverso il mio corpo, tipo, di cinque anni fa. Pazzo. L'ho lasciato cadere e tutto è tornato alla normalità.»\n\n«Surreale. Dovrò testarlo quando avrò finito. Sai di cosa si tratta?»\n\n«Il registro delle voci dice solo 'transistor'. Immagino di poterlo vedere, data la forma e tutto il resto, ma è enorme. Ha senso, considerando quello che fa. Chissà per cosa lo useranno.»\n\n«Cosa intendi con 'transistor'?»\n\n«Oh. Sai, quelle cose che fanno funzionare i computer.»\n\n«Beh, mia sorella lavora con la tecnologia, ma è un po' vago.»\n\n«Cosa?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Radar tascabile",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "I forzieri mimetizzati sono più facili da vedere e appaiono più spesso.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "I forzieri <style=cIsUtility>mimetizzati</style> sono più facili da vedere e generano {baseExtraCloakedChests} (+{stackExtraCloakedChests} per stack) più volte in ogni livello.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Migliora 2 oggetti casuali. L'attrezzatura si consuma con l'uso.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hiiii/hiiii/hiiiii/hiiiiii/hiiiiiii/hiiiiiiii/hiiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Completa un Santuario del Futuro senza saltare.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Spara razzi contro bersagli che lasciano pozze di napalm.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "Trova e attiva il <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> in <style=cDeath>{0}s!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Ottieni fino a <style=cIsUtility>{0} articoli</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Dash con piume strappate"
+        "SANDSWEPT_INPUT_FEATHER": "Dash con piume strappate",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Apri un forziere mimetizzato."
     }
 }

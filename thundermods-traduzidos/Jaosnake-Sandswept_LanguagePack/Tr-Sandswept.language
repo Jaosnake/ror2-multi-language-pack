@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transkripsiyon FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n «Burada garip bir sevkiyatım var. Gel bak, bu şeyleri sevdiğini biliyorum.»\n\n«Bir saniye, toparlanmayı bitirmem gerekiyor. Sadece bana tarif et.»\n\n«Peki, elime aldığımda tuhaf bir hisse kapıldım. Kargo ambarı farklı görünüyordu ama kendi uzuvlarıma bakana kadar bunun üzerinde pek durmadım. Beş yıl önceki bedenime baktığımı fark etmem bir saniyemi aldı. Deli. Onu düşürdüm ve her şey normale döndü.»\n\n«Gerçeküstü. İşim bittiğinde test etmem gerekecek. Ne olduğunu biliyor musunuz?»\n\n«Giriş günlüğünde yalnızca 'transistör' yazıyor. Sanırım şekline bakılırsa onu görebiliyorum ama çok büyük. Ne yaptığı göz önüne alındığında mantıklı. Bunu ne için kullanacaklarını merak ediyorum.»\n\n«'Transistör'den kastınız nedir?»\n\n«Oh. Bilirsin, bilgisayarların çalışmasını sağlayan şeyler.»\n\n«Eh, kız kardeşim teknolojiyle çalışıyor ama bu biraz belirsiz.»\n\n«Ne?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Cep Radarı",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Kamuflajlı sandıkların görülmesi daha kolaydır ve daha sık görülür.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>Kamuflajlı</style> sandıkların görülmesi daha kolaydır ve aşama başına 1 (yığın başına +1) ekstra kez ortaya çıkmaları garanti edilir.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "2 rastgele öğeyi yükseltir. Ekipman kullanıldıkça tüketilir.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hiii/hiiii/hiiiii/hiiiiiii/hiiiiiii/hiiiiiiii/hiiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Zıplamadan Gelecek Mabedini tamamla.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Napalm havuzlarından çıkan hedeflere roket atar.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "<style=cDeath>{0}'lerde <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>'yi bulun ve etkinleştirin!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "<style=cIsUtility>{0} öğeye kadar alın</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Yırtık Tüy Dash"
+        "SANDSWEPT_INPUT_FEATHER": "Yırtık Tüy Dash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Kamufle edilmiş bir sandık aç."
     }
 }

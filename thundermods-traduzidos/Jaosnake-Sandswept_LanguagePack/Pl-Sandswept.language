@@ -22,7 +22,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transkrypcja FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n «Mam tu dziwną przesyłkę. Przyjdź zobaczyć, wiem, że lubisz te rzeczy.»\n\n «Chwileczkę, muszę dokończyć pakowanie. Po prostu mi to opisz.»\n\n«No cóż, kiedy to podniosłem, miałem dziwne przeczucie. Ładownia wydawała się inna, ale nie myślałem o tym zbyt wiele, dopóki nie spojrzałem na własne kończyny. Zajęło mi sekundę, zanim zdałam sobie sprawę, że przeglądam swoje ciało, jakieś pięć lat temu. Zwariowany. Rzuciłem to i wszystko wróciło do normy.»\n\n «Surrealistyczne. Muszę to przetestować, kiedy skończę. Czy wiesz, co to jest?»\n\n «W dzienniku wpisów widnieje tylko \"tranzystor\". Chyba go widzę, biorąc pod uwagę kształt i w ogóle, ale jest ogromny. Ma to sens, biorąc pod uwagę to, co robi. Zastanawiam się, do czego go użyją.»\n\n «Co masz na myśli mówiąc o \"tranzystorze\"?»\n\n «Och. Wiesz, te rzeczy, które sprawiają, że komputery działają.»\n\n«Cóż, moja siostra zajmuje się technologią, ale to trochę niejasne.»\n\n «Co?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Kieszonkowy radar",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Zakamuflowane skrzynie są łatwiej widoczne i pojawiają się częściej.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Skrzynie <style=cIsUtility>Zakamuflowane </style> są lepiej widoczne i gwarantują, że spawnują 1 (+1 na stos) dodatkowe razy na etap.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -124,7 +124,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Ulepsza 2 losowe przedmioty. Sprzęt zużywa się w trakcie użytkowania.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hiii/hiiii/hiiiii/hiiiiiii/hiiiiiii/hiiiiiiiii/hiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Ukończ Kapliczkę Przyszłości bez skakania.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "ELITE_EQUIPMENT_MOTIVATING_LORE": "",
         "ELITE_EQUIPMENT_OSMIUM_PICKUP": "uzJ7tC6fFnk Be'come a/n a/spect o/f s/ing|ula/rity._ 3yd4myHf81E",
         "ELITE_EQUIPMENT_OSMIUM_DESCRIPTION": "uzJ7tC6fFnk Be'come a/n a/spect o/f s/ing|ula/rity._ 3yd4myHf81E",
-        "ELITE_EQUIPMENT_OSMIUM_LORE": ""
+        "ELITE_EQUIPMENT_OSMIUM_LORE": "",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Otwórz zakamuflowaną skrzynię."
     }
 }

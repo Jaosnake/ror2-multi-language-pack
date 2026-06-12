@@ -39,6 +39,16 @@
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SURRISCALDAMENTO: EX!",
         "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromania",
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resisti ai danni da fuoco da tutte le fonti. Converti un attacco che infligge più del <style=cIsDamage>30%</style> della salute totale in <style=cIsDamage>50%</style> di danni da fuoco nel tempo.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania non influenza i danni da caduta a meno che Fragilità non sia attiva."
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania non influenza i danni da caduta a meno che Fragilità non sia attiva.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on Typhoon (Starstorm 2 required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno (Inferno required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat a stage without overheating.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited."
     }
 }

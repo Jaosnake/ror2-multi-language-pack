@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transcripción FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«Tengo un envío extraño aquí. Ven a ver, sé que te gustan estas cosas.»\n\n«Un segundo, necesito terminar de hacer las maletas. Sólo descríbemelo.»\n\n«Bueno, cuando lo cogí, tuve una sensación extraña. La bodega de carga parecía diferente, pero no le di mucha importancia hasta que miré mis propias extremidades. Me tomó un segundo darme cuenta de que estaba mirando a través de mi cuerpo, como de hace cinco años. Loco. Se me cayó y todo volvió a la normalidad.»\n\n«Surrealista. Tendré que probarlo cuando termine. ¿Sabes qué es?»\n\n«El registro de entrada sólo dice 'transistor'. Supongo que puedo verlo, dada la forma y todo eso, pero es enorme. Tiene sentido, considerando lo que hace. Me pregunto para qué lo usarán.»\n\n«¿Qué quieres decir con 'transistor'?»\n\n«Oh. Ya sabes, esas cosas que hacen que las computadoras funcionen.»\n\n«Bueno, mi hermana trabaja con tecnología, pero eso es un poco vago.»\n\n«¿Qué?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Radar de bolsillo",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Los cofres camuflados son más fáciles de ver y aparecen con más frecuencia.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Los cofres <style=cIsUtility>Camouflaged</style> son más fáciles de ver y están garantizados para generar 1 (+1 por pila) veces adicionales por etapa.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Actualiza 2 elementos aleatorios. El equipo se consume con el uso.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hola/hiiii/hiiiii/hiiiiiii/hiiiiiii/hiiiiiii/hiiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Completa un Santuario del Futuro sin saltar.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Dispara cohetes a objetivos que dejan charcos de napalm.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "¡Encuentre y active el Teletransportador <style=cDeath><sprite name=\"TP\" tint=1></style> en <style=cDeath>{0}s!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Obtenga hasta artículos <style=cIsUtility>{0}</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Tablero de plumas rasgadas"
+        "SANDSWEPT_INPUT_FEATHER": "Tablero de plumas rasgadas",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Abre un cofre camuflado."
     }
 }

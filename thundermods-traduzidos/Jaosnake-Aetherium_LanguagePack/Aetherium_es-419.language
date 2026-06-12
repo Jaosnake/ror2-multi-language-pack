@@ -1,0 +1,12 @@
+{
+    "es-419": {
+        "ITEM_FEATHERED_PLUME_NAME": "Pluma emplumada",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Obtén un aumento temporal de velocidad al recibir daño.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Al recibir daño, obtienes un aumento temporal de <style=cIsUtility>7% de velocidad de movimiento</style> que se acumula <style=cIsUtility>3</style> veces durante <style=cIsUtility>5 segundos</style>. <style=cStack>(+3 acumulaciones y +0,5s de duración por acumulación)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Acelerador cenital",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Los golpes otorgan velocidad de ataque, pero con pocas acumulaciones pierdes velocidad de ataque.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Golpear enemigos otorga un beneficio temporal de velocidad de ataque que aumenta la velocidad en <style=cIsDamage>10%</style> por acumulación hasta <style=cIsDamage>+300%</style> <style=cStack>(+100% por objeto)</style>, pero pierdes hasta <style=cIsHealth>50%</style> de velocidad de ataque <style=cStack>(+50% por objeto)</style> cuanto más cerca estés de 0 acumulaciones.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

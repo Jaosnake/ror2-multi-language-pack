@@ -1,0 +1,12 @@
+{
+    "de": {
+        "ITEM_FEATHERED_PLUME_NAME": "Gefiederte Feder",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Erhalte nach erlittenem Schaden kurzzeitig mehr Bewegungsgeschwindigkeit.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Erlittener Schaden gewährt kurzzeitig <style=cIsUtility>7% Bewegungsgeschwindigkeit</style>, bis zu <style=cIsUtility>3</style> Stapel für <style=cIsUtility>5 Sekunden</style>. <style=cStack>(+3 Stapel und +0,5s Dauer pro Stapel)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Zenitbeschleuniger",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Treffer gewähren Angriffsgeschwindigkeit, aber wenige Stapel verringern sie.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Treffer gegen Gegner gewähren kurzzeitig Angriffsgeschwindigkeit: <style=cIsDamage>10%</style> pro Stapel bis <style=cIsDamage>+300%</style> <style=cStack>(+100% pro Gegenstand)</style>. Je näher du bei 0 Stapeln bist, desto mehr verlierst du, bis zu <style=cIsHealth>50%</style> Angriffsgeschwindigkeit <style=cStack>(+50% pro Gegenstand)</style>.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

@@ -41,7 +41,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "As Sorceress, maintain a flight speed of 70 m/s or higher for 2 seconds.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "As Sorceress, stay airborne for 30 seconds without landing."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "As Sorceress, stay airborne for 30 seconds without landing.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "en": {
         "FROSTHEX_ASTERIA_NAME": "Sorceress",
@@ -85,7 +87,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "As Sorceress, maintain a flight speed of 70 m/s or higher for 2 seconds.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "As Sorceress, stay airborne for 30 seconds without landing."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "As Sorceress, stay airborne for 30 seconds without landing.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "de": {
         "FROSTHEX_ASTERIA_NAME": "Zauberin",
@@ -129,7 +133,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Halten Sie als Zauberin 2 Sekunden lang eine Fluggeschwindigkeit von 70 m/s oder höher aufrecht.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Bleiben Sie als Zauberin 30 Sekunden lang in der Luft, ohne zu landen."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Bleiben Sie als Zauberin 30 Sekunden lang in der Luft, ohne zu landen.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "es-419": {
         "FROSTHEX_ASTERIA_NAME": "Hechicera",
@@ -173,7 +179,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Como Hechicera, mantén una velocidad de vuelo de 70 m/s o más durante 2 segundos.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Como Hechicera, mantente en el aire durante 30 segundos sin aterrizar."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Como Hechicera, mantente en el aire durante 30 segundos sin aterrizar.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "Como Sorceress, ten 10 Bustling Fungus al mismo tiempo (Rainstorm o superior)."
     },
     "FR": {
         "FROSTHEX_ASTERIA_NAME": "Sorcière",
@@ -217,7 +225,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "En tant que sorcière, maintenez une vitesse de vol de 70 m/s ou plus pendant 2 secondes.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "En tant que sorcière, restez en l'air pendant 30 secondes sans atterrir."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "En tant que sorcière, restez en l'air pendant 30 secondes sans atterrir.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "IT": {
         "FROSTHEX_ASTERIA_NAME": "Maga",
@@ -261,7 +271,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Come Strega, mantieni una velocità di volo di 70 m/s o superiore per 2 secondi.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Nei panni della Strega, rimani in volo per 30 secondi senza atterrare."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Nei panni della Strega, rimani in volo per 30 secondi senza atterrare.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "ja": {
         "FROSTHEX_ASTERIA_NAME": "魔術師",
@@ -305,7 +317,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "ソーサレスとして、70 m/s 以上の飛行速度を 2 秒間維持します。",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "ソーサレスとして、着陸せずに 30 秒間空中に留まります。"
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "ソーサレスとして、着陸せずに 30 秒間空中に留まります。",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "ko": {
         "FROSTHEX_ASTERIA_NAME": "마법사",
@@ -349,7 +363,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "소서리스로 2초 동안 70m/s 이상의 비행 속도를 유지하세요.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "소서리스로 착지하지 않고 30초 동안 공중에 떠 있으십시오."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "소서리스로 착지하지 않고 30초 동안 공중에 떠 있으십시오.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "pt-BR": {
         "FROSTHEX_ASTERIA_NAME": "Feiticeira",
@@ -396,7 +412,7 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Como Feiticeira, fique no ar por 30 segundos sem pousar.",
         "FROSTHEX_ASTERIA_FAE_SKIN_NAME": "<color=#9933CC>Fae</color>",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "Como Feiticeira, tenha 10 Fungos Agitados ao mesmo tempo (dificuldade Rainstorm ou superior)."
     },
     "RU": {
         "FROSTHEX_ASTERIA_NAME": "Волшебница",
@@ -440,7 +456,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Играя за Волшебницу, поддерживайте скорость полета 70 м/с или выше в течение 2 секунд.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Играя за Волшебницу, продержитесь в воздухе 30 секунд, не приземляясь."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Играя за Волшебницу, продержитесь в воздухе 30 секунд, не приземляясь.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "tr": {
         "FROSTHEX_ASTERIA_NAME": "büyücü",
@@ -484,7 +502,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Büyücü olarak 2 saniye boyunca 70 m/s veya daha yüksek uçuş hızını koruyun.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Büyücü olarak yere inmeden 30 saniye boyunca havada kalın."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Büyücü olarak yere inmeden 30 saniye boyunca havada kalın.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "UA": {
         "FROSTHEX_ASTERIA_NAME": "Чарівниця",
@@ -528,7 +548,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Як Чарівниця, підтримуйте швидкість польоту 70 м/с або вище протягом 2 секунд.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "У ролі чарівниці залишайтеся в повітрі протягом 30 секунд без приземлення."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "У ролі чарівниці залишайтеся в повітрі протягом 30 секунд без приземлення.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "zh-CN": {
         "FROSTHEX_ASTERIA_NAME": "巫婆",
@@ -572,7 +594,9 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_NAME": "Sorceress: Speed. Violence. Momentum.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "作为女巫,保持 70 m/s 或更高的飞行速度持续 2 秒。",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_NAME": "Sorceress: Can't Touch This",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "作为女巫,在空中停留 30 秒而不着陆。"
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "作为女巫,在空中停留 30 秒而不着陆。",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     },
     "es-ES": {
         "ACHIEVEMENT_FROSTHEX_ASTERIA_MASTERYACHIEVEMENT_NAME": "Sorceress: Mastery",
@@ -616,6 +640,8 @@
         "ACHIEVEMENT_FROSTHEX_ASTERIA_MASTERYACHIEVEMENT_DESCRIPTION": "Como Hechicera, completa el juego o destruye Monzón.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_ECLIPSEACHIEVEMENT_DESCRIPTION": "Como Hechicera, completa el juego en Eclipse 8.",
         "ACHIEVEMENT_FROSTHEX_ASTERIA_SPEEDACHIEVEMENT_DESCRIPTION": "Como Hechicera, mantén una velocidad de vuelo de 70 m/s o más durante 2 segundos.",
-        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Como Hechicera, mantente en el aire durante 30 segundos sin aterrizar."
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_AIRTIMEACHIEVEMENT_DESCRIPTION": "Como Hechicera, mantente en el aire durante 30 segundos sin aterrizar.",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_NAME": "Sorceress: A Tiny Village",
+        "ACHIEVEMENT_FROSTHEX_ASTERIA_FAEACHIEVEMENT_DESCRIPTION": "As Sorceress, hold 10 Bustling Fungus at once (Rainstorm or higher difficulty)."
     }
 }

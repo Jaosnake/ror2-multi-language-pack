@@ -1,0 +1,12 @@
+{
+    "pt-BR": {
+        "ITEM_FEATHERED_PLUME_NAME": "Pluma Emplumada",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Ganhe um aumento temporário de velocidade ao sofrer dano.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Ao sofrer dano, ganhe um aumento temporário de <style=cIsUtility>7% de velocidade de movimento</style> que acumula <style=cIsUtility>3</style> vezes por <style=cIsUtility>5 segundos</style>. <style=cStack>(+3 acúmulos e +0,5s de duração por acúmulo)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Acelerador Zênite",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Acertos concedem velocidade de ataque, mas poucos acúmulos reduzem sua velocidade de ataque.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Acertar inimigos concede um bônus temporário de velocidade de ataque que aumenta a velocidade em <style=cIsDamage>10%</style> por acúmulo até <style=cIsDamage>+300%</style> <style=cStack>(+100% por item)</style>, mas você perde até <style=cIsHealth>50%</style> de velocidade de ataque <style=cStack>(+50% por item)</style> quanto mais perto estiver de 0 acúmulos.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-轉錄 FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«我這裡收到了一批奇怪的貨物。來看看,我知道你喜歡這個東西。 »\n\n«一秒鐘,我要完成打包。給我描述一下吧。 »\n\n«嗯,當我拿起它的時候,我有一種奇怪的感覺。貨艙似乎有所不同,但我並沒有多想,直到我看了看自己的四肢。我花了一秒鐘才意識到我正在審視自己的身體,就像五年前一樣。瘋狂的。我把它扔掉,一切都恢復正常。 »\n\n«超現實。完成後我必須測試一下。你知道它是什麼嗎? »\n\n«條目日誌只說「電晶體」。考慮到它的形狀和其他一切,我想我能看到它,但它太大了。考慮到它的作用,這是有道理的。我想知道他們會用它做什麼。 »\n\n«「電晶體」是什麼意思? »\n\n«喔。你知道,那些讓電腦運作的東西。 »\n\n«嗯,我姊姊從事科技工作,但這有點模糊。 »\n\n«什麼? »",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "袖珍雷達",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "偽裝的箱子更容易被發現並且出現的頻率更高。",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>偽裝的</style>寶箱更容易看到,並且保證每個階段額外產生{baseExtraCloakedChests}(+{stackExtraCloakedChests}每層)。",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "升級 2 個隨機物品。設備在使用時會消耗。",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "嗨/嗨嗨/嗨嗨嗨/嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "不跳躍完成未來祭壇。",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "向離開凝固汽油彈池的目標發射火箭。",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "在<style=cDeath>{0}s中找到並啟動<style=cDeath>傳送器<sprite name=\"TP\" tint=1></style>! </style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "獲得<style=cIsUtility>{0}物品</style>。",
-        "SANDSWEPT_INPUT_FEATHER": "撕裂羽毛衝刺"
+        "SANDSWEPT_INPUT_FEATHER": "撕裂羽毛衝刺",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "打開一個偽裝箱。"
     }
 }

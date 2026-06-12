@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-транскрипція FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«У мене тут дивне відправлення. Ходіть подивіться, я знаю, що вам це подобається.»\n\n«Секундочку, мені потрібно закінчити пакування. Просто опишіть це мені.»\n\n«Ну, коли я взяв його в руки, у мене виникло дивне відчуття. Вантажний відсік здавався іншим, але я не думав про це, поки не подивився на власні кінцівки. Мені знадобилася секунда, щоб усвідомити, що я дивлюся крізь своє тіло, наче п'ять років тому. божевільний. Я кинув його, і все повернулося на круги своя.»\n\n«Сюрреалістично. Мені доведеться перевірити це, коли закінчу. Ви знаєте, що це?»\n\n«У журналі записів зазначено лише «транзистор». Я припускаю, що я можу це побачити, враховуючи форму та інше, але воно величезне. Має сенс, враховуючи, що він робить. Цікаво, для чого вони його використають.»\n\n«Що ви маєте на увазі «транзистор»?»\n\n«О. Знаєте, ті речі, які змушують комп'ютери працювати.»\n\n«Ну, моя сестра працює з технікою, але це трохи розпливчасто.»\n\n«Що?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Кишеньковий радар",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Закамуфльовані скрині легше побачити і з'являються частіше.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>Camouflaged</style> скрині легше побачити, і вони гарантовано породять 1 (+1 на стек) додаткові рази за етап.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Покращує 2 випадкових предмета. Обладнання витрачається при використанні.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "хііі/хііі/хііііі/хііііі/хііііііі/гііііііііі/гііііііііі/гііііііііііі",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Завершіть Святилище майбутнього без стрибків.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Стріляє ракетами по цілях, які залишають басейни напалму.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "Знайдіть і активуйте <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> у <style=cDeath>{0}s!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Отримайте до <style=cIsUtility>{0} предметів</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Torn Feather Dash"
+        "SANDSWEPT_INPUT_FEATHER": "Torn Feather Dash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Відкрийте замасковану скриню."
     }
 }

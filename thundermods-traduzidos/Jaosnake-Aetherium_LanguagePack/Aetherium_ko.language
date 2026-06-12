@@ -1,0 +1,12 @@
+{
+    "ko": {
+        "ITEM_FEATHERED_PLUME_NAME": "깃털 달린 깃",
+        "ITEM_FEATHERED_PLUME_PICKUP": "피해를 받으면 일시적으로 이동 속도가 증가합니다.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "피해를 받으면 <style=cIsUtility>5초</style> 동안 <style=cIsUtility>7% 이동 속도</style>가 증가하며 <style=cIsUtility>3</style>회 중첩됩니다. <style=cStack>(중첩당 +3 중첩 및 +0.5초 지속시간)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "천정 가속기",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "공격 적중 시 공격 속도가 증가하지만, 중첩이 낮으면 공격 속도가 감소합니다.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "적을 맞히면 중첩당 공격 속도가 <style=cIsDamage>10%</style> 증가하여 최대 <style=cIsDamage>+300%</style>까지 오르는 임시 강화 효과를 얻습니다 <style=cStack>(아이템당 +100%)</style>. 하지만 중첩이 0에 가까울수록 공격 속도를 최대 <style=cIsHealth>50%</style> 잃습니다 <style=cStack>(아이템당 +50%)</style>.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

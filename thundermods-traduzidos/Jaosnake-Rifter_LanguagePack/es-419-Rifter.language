@@ -25,6 +25,12 @@
         "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Bloqueo Temporal",
         "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Bloquea el tiempo de los enemigos en un área, congelándolos por unos segundos.",
         "BLAKE_NEM_RIFTER_NAME": "Némesis Rifter",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "Hendidura Corrompida"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Hendidura Corrompida",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "¡Teletransporta 10 o más enemigos a la vez!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Desbloquea Wandering Rift como Rifter."
     }
 }

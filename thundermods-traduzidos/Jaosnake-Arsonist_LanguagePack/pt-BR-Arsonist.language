@@ -39,6 +39,16 @@
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SUPERAQUECIMENTO:EX!",
         "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromania",
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resista a dano de fogo de todas as fontes. Converta um ataque que cause mais de <style=cIsDamage>30%</style> da vida total em <style=cIsDamage>50%</style> de dano de fogo ao longo do tempo.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania não afeta dano de queda, a menos que Fragilidade esteja ativa."
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania não afeta dano de queda, a menos que Fragilidade esteja ativa.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, vença o jogo ou oblitere em Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, vença o jogo no Eclipse 5 ou superior, OU vença no Typhoon (requer Starstorm 2).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, vença o jogo no Eclipse 8, OU vença no Inferno (requer Inferno).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, complete uma fase sem superaquecer.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mate um chefe do Teleportador enquanto ele está incendiado."
     }
 }

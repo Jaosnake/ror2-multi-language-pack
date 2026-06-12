@@ -39,6 +39,16 @@
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "오버히트:EX!",
         "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "방화광",
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "모든 출처의 화염 피해에 저항합니다. 총 체력의 <style=cIsDamage>30%</style>를 초과하는 공격을 시간에 걸쳐 주는 <style=cIsDamage>50%</style> 화염 피해로 전환합니다.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "방화광은 Frailty가 활성화되어 있지 않으면 낙하 피해에 영향을 주지 않습니다."
+        "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "방화광은 Frailty가 활성화되어 있지 않으면 낙하 피해에 영향을 주지 않습니다.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on Typhoon (Starstorm 2 required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno (Inferno required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat a stage without overheating.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited."
     }
 }

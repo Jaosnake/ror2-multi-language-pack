@@ -20,10 +20,10 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transcription FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n« J'ai un envoi étrange ici. Viens voir, je sais que tu aimes ce truc.»\n\n«Une seconde, je dois finir de faire mes valises. Décrivez-le-moi simplement.»\n\n«Eh bien, quand je l'ai ramassé, j'ai eu une sensation étrange. La soute semblait différente, mais je n'y pensais pas beaucoup jusqu'à ce que je regarde mes propres membres. Il m'a fallu une seconde pour réaliser que je regardais à travers mon corps, comme il y a cinq ans. Fou. Je l'ai laissé tomber et tout est revenu à la normale.»\n\n«Surréaliste. Je devrai le tester quand j'aurai fini. Savez-vous ce que c'est ?»\n\n«Le journal des entrées indique uniquement 'transistor'. Je suppose que je peux le voir, étant donné la forme et tout, mais c'est énorme. C'est logique, compte tenu de ce que cela fait. Je me demande à quoi ils vont l'utiliser. »\n\n « Que veux-tu dire par « transistor » ? »\n\n « Oh. Vous savez, ces choses qui font fonctionner les ordinateurs.»\n\n«Eh bien, ma sœur travaille dans la technologie, mais c'est un peu vague.»\n\n« Quoi ?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Radar de poche",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Les coffres camouflés sont plus faciles à voir et apparaissent plus souvent.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Les coffres <style=cIsUtility>Camouflaged</style> sont plus faciles à voir et sont garantis pour apparaître 1 (+1 par pile) fois supplémentaires par étape.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Les coffres camouflés sont plus faciles à voir et apparaissent 1 (+1 par cumul) fois supplémentaire garantie par étape.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
-        "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
+        "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Ouvrez un coffre camouflé.",
         "ITEM_SANDSWEPT_SILVER_CORD_NAME": "Cordon d'argent",
         "ITEM_SANDSWEPT_SILVER_CORD_PICKUP": "Gagnez un drone de choc. Les attaques de drones ont une chance de choquer les ennemis proches.",
         "ITEM_SANDSWEPT_SILVER_CORD_DESCRIPTION": "Obtenez un drone <style=cIsUtility>Shock</style>. Vos drones ont une chance de 7 % d'infliger des cibles <style=cIsUtility>shock</style> jusqu'à 2 (+1 par pile) infligeant des cibles 300% <style=cIsDamage>TOTAL DAMAGE</style>.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Améliore 2 objets aléatoires. L'équipement est consommé à l'usage.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hiii/hiiii/hiiiii/hiiiiii/hiiiiiii/hiiiiiii/hiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Terminez un sanctuaire du futur sans sauter.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Tire des roquettes sur des cibles qui quittent les mares de napalm.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "Recherchez et activez le <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> dans <style=cDeath>{0}s !</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Accédez aux articles <style=cIsUtility>{0}</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Tiret de plumes déchirées"
+        "SANDSWEPT_INPUT_FEATHER": "Tiret de plumes déchirées",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Ouvrez un coffre camouflé."
     }
 }

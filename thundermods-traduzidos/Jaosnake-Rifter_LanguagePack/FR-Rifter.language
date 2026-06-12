@@ -25,6 +25,12 @@
         "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Verrouillage Temporel",
         "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Verrouille le temps des ennemis dans une zone, les gelant pendant quelques secondes.",
         "BLAKE_NEM_RIFTER_NAME": "Némésis Rifter",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "Faille Corrompue"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Faille Corrompue",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies at once!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Débloquez Wandering Rift avec Rifter."
     }
 }

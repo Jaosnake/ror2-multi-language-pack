@@ -31,5 +31,12 @@
         "SS2_REMUNERATION_TERMINAL_NAME": "Pedestal",
         "SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">Concluir transação</link>",
         "SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">Qual o seu legado?</link>\n\nNada, além de pequena vingança.\n\n<link=\"textShaky\">Qual a sua identidade?</link>\n\nNada, além de um nome falado com desgosto.\n\n<link=\"textShaky\">O que você quer?</link>\n\nNada, além de um novo propósito.\n\n<link=\"textShaky\">O que você precisa?</link>\n\nNada, além das armas que confio.\n\n<link=\"textShaky\">Então, para onde você irá?</link>\n\nPara onde você me fizer ir.\n\n<link=\"textShaky\">Então, o que você fará?</link>\n\nQualquer coisa que você disser que precisa.\n\n<link=\"textShaky\">Isso é tudo então?</link>\n\nSe você está dizendo.\n\n<link=\"textShaky\">Então vá, e morra.</link>\n\n...\n\nContanto que você me pague.\n\n"
+    },
+    "pt-BR": {
+        "SS2_ITEM_HUNTERSSIGIL_DESC": "Após ficar parado por 1 segundo, crie uma zona de 8m que concede a todos os aliados 30 de armadura (+15 por acúmulo) e 30% de dano (+15% por acúmulo). A zona dura até você sair.",
+        "SS2_ITEM_FIELDACCELERATOR_DESC": "Após derrotar o chefe do Teleportador, aumente o raio do Teleportador em 20% (+20% por acúmulo) e matar inimigos concede +1% de carga do Teleportador.",
+        "SS2_ITEM_BLOODTESTER_DESC": "A cada 30 segundos, cure rapidamente 15 de vida (+15 por acúmulo) para cada 25 de ouro que você tiver. Escala com o tempo.",
+        "SS2_ITEM_JETBOOTS_DESC": "Ganhe +1 salto extra que incendeia inimigos, causando 500% de dano base em um raio de 7,5m (+5m por acúmulo). Recarrega 5 segundos após pousar.",
+        "SS2_EQUIP_BACKTHRUSTER_DESC": "Por 8 segundos, acelere rapidamente até 200% de velocidade de movimento ao se mover em linha reta."
     }
 }

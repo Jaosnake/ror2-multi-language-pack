@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transcription FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«여기에 이상한 배송물이 있습니다. 와 봐, 네가 이 물건을 좋아한다는 걸 알아.»\n\n«잠시만 기다리세요. 짐을 다 싸야 해요. 그냥 설명해주세요.»\n\n«글쎄, 집어 들었을 때 이상한 느낌이 들었습니다. 화물칸은 달라 보였지만 내 팔다리를 보기 전까지는 별로 그것에 대해 생각하지 않았습니다. 내가 5년 전처럼 내 몸을 들여다보고 있다는 것을 깨닫는 데 몇 초가 걸렸습니다. 미친. 떨어뜨리자 모든 것이 정상으로 돌아왔습니다.»\n\n«초현실적입니다. 완료되면 테스트해봐야겠네요. 그게 뭔지 아세요?»\n\n«항목 로그에는 '트랜지스터'라고만 적혀 있습니다. 모양이니 뭐니를 보면 볼 수 있을 것 같지만 크기가 엄청납니다. 그것이 무엇을 하는지 고려하면 말이 됩니다. 무슨 용도로 쓰일지 궁금하네요.»\n\n«'트랜지스터'란 무슨 뜻인가요?\"\n\n\"아. 아시다시피, 컴퓨터를 작동시키는 것들이요.»\nZ\n«글쎄요, 제 여동생이 기술 분야에서 일하지만 그건 좀 모호해요.»\n\n«뭐라고요?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "포켓 레이더",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "위장된 상자는 더 쉽게 보이고 더 자주 나타납니다.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>Camouflaged</style> 상자는 보기가 더 쉽고 스테이지당 {baseExtraCloakedChests}(스택당 +{stackExtraCloakedChests}) 추가 횟수를 생성하도록 보장됩니다.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "무작위 아이템 2개를 업그레이드합니다. 장비는 사용 시 소모됩니다.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hiii/hiiii/hiiiiii/hiiiiii/hiiiiiii/hiiiiiiiii/hiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "점프하지 않고 미래의 제단을 완료하세요.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "네이팜탄 웅덩이를 벗어나는 목표물에 로켓을 발사합니다.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "<style=cDeath>{0}s!</style>에서 <style=cDeath>텔레포터 <sprite name=\"TP\" tint=1></style>를 찾아 활성화하세요.",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "최대 <style=cIsUtility>{0} 아이템</style>를 얻으세요.",
-        "SANDSWEPT_INPUT_FEATHER": "찢어진 깃털 질주"
+        "SANDSWEPT_INPUT_FEATHER": "찢어진 깃털 질주",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "위장된 상자를 여세요."
     }
 }
