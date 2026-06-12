@@ -1,0 +1,12 @@
+{
+    "RU": {
+        "ITEM_FEATHERED_PLUME_NAME": "Оперённое перо",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Получите временное ускорение после получения урона.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Получение урона даёт временный бонус <style=cIsUtility>7% к скорости передвижения</style>, складывается <style=cIsUtility>3</style> раза на <style=cIsUtility>5 секунд</style>. <style=cStack>(+3 стака и +0,5с длительности за стак)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Зенитный ускоритель",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Попадания дают скорость атаки, но малое число стаков снижает её.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Попадания по врагам дают временный бонус скорости атаки: <style=cIsDamage>10%</style> за стак до <style=cIsDamage>+300%</style> <style=cStack>(+100% за предмет)</style>, но чем ближе вы к 0 стаков, тем больше теряете — до <style=cIsHealth>50%</style> скорости атаки <style=cStack>(+50% за предмет)</style>.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

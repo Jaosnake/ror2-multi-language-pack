@@ -1,0 +1,12 @@
+{
+    "tr": {
+        "ITEM_FEATHERED_PLUME_NAME": "Tüylü Telek",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Hasar aldığında geçici hız artışı kazan.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Hasar almak, <style=cIsUtility>5 saniye</style> boyunca <style=cIsUtility>3</style> kez birikebilen geçici <style=cIsUtility>%7 hareket hızı</style> verir. <style=cStack>(Yük başına +3 yük ve +0,5 sn süre)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Zenit Hızlandırıcı",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Vuruşlar saldırı hızı verir, ancak düşük yüklerde saldırı hızın azalır.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Düşmanlara vurmak, saldırı hızını yük başına <style=cIsDamage>%10</style> artıran ve <style=cIsDamage>+%300</style> sınırına ulaşan geçici bir güçlendirme verir <style=cStack>(eşya başına +%100)</style>; ancak 0 yüke yaklaştıkça <style=cIsHealth>%50</style> saldırı hızı kaybedersin <style=cStack>(eşya başına +%50)</style>.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

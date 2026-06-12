@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transcription FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«I've got a strange shipment here. Come see, I know you like this stuff.»\n\n«One second, I need to finish packing. Just describe it to me.»\n\n«Well, when I picked it up, I had a strange feeling. The cargo hold seemed different, but I didn't think much of it until I looked at my own limbs. It took me a second to realize I was looking through my body, like, from five years ago. Crazy. I dropped it and everything went back to normal.»\n\n«Surreal. I'll have to test it when I'm done. Do you know what it is?»\n\n«The entry log only says 'transistor'. I suppose I can see it, given the shape and all, but it's huge. Makes sense, considering what it does. I wonder what they'll use it for.»\n\n«What do you mean 'transistor'?»\n\n«Oh. You know, those things that make computers work.»\n\n«Well, my sister works with tech, but that's a bit vague.»\n\n«What?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Pocket Radar",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Camouflaged chests are easier to see and appear more often.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>Camouflaged</style> chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra times per stage.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Fires rockets at targets that leave napalm pools.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "Find and activate the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> in <style=cDeath>{0}s!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Get up to <style=cIsUtility>{0} items</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Torn Feather Dash"
+        "SANDSWEPT_INPUT_FEATHER": "Torn Feather Dash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest."
     }
 }

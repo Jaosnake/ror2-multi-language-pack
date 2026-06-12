@@ -2,7 +2,7 @@
     "strings": {
         "SS2_EQUIP_BACKTHRUSTER_NAME": "Propulseur arrière",
         "SS2_EQUIP_BACKTHRUSTER_PICKUP": "Accumulez de la vitesse en vous déplaçant en ligne droite.",
-        "SS2_EQUIP_BACKTHRUSTER_DESC": "Pendant {0} secondes, accumulez rapidement jusqu'à <style=cIsUtility>{1} vitesse de déplacement</style> lorsque vous vous déplacez en ligne droite.",
+        "SS2_EQUIP_BACKTHRUSTER_DESC": "Pendant 8 secondes, accélérez rapidement jusqu’à 200% de vitesse de déplacement en vous déplaçant en ligne droite.",
         "SS2_EQUIP_BACKTHRUSTER_LORE": "<style=cMono>Transcription audio complète à partir des échos du signal. Attribution de jetons génériques.</style>\n\nHOMME 1 : C'est une idée terrible, tu sais.\n[Métal cliquetant]\n\nHOMME 2 : Tu dis ça à propos de chaque idée que j'ai.\n\nHOMME 1 : Parce que toutes tes idées sont terribles.\n\n[Toussotement du moteur]\n\nHOMME 2 : Rrgh, oh, allez, quoi ! Tu fonctionnais très bien il y a juste une minute.\n\nHOMME 1 : Peut-être qu'il sait qu'il est attaché à ton dos, et non à une cargaison.\n\nHOMME 2 : Oh, bonne observation ! Je parie qu'il y a une sécurité quelconque dessus... Ah, la voilà.\n\n[click]\n\nHOMME 1 : Je... n'aurais pas dû dire quoi que ce soit.\n\nHOMME 2 : Non, c'est bon ! D'accord, fais-moi le décompte.\n\nHOMME 1 : Ugh... D'accord. Trois-\n\n[décollage du propulseur]\n\n<style=cMono>Fin de la transcription demandée.</style>",
         "SS2_EQUIP_CLOAKINGHEADBAND_NAME": "Serre-tête de camouflage",
         "SS2_EQUIP_CLOAKINGHEADBAND_PICKUP": "Devenez temporairement invisible et bénéficiez d'une augmentation de vitesse.",

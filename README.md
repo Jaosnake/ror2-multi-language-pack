@@ -6,6 +6,8 @@ Translation packs for several **Risk of Rain 2** mods, organized for GitHub, man
 
 ## Choose Your Language / Escolha seu Idioma
 
+> 🆕 **Aetherium_LanguagePack** added: missing item token overrides for Feathered Plume and Zenith Accelerator.
+
 [🇧🇷 Português Brasil](#-português-brasil) |
 [🇺🇸 English](#-english) |
 [🇺🇦 Українська](#-українська) |

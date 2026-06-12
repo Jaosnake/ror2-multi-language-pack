@@ -1,0 +1,12 @@
+{
+    "zh-CN": {
+        "ITEM_FEATHERED_PLUME_NAME": "羽饰之翎",
+        "ITEM_FEATHERED_PLUME_PICKUP": "受到伤害后获得临时速度提升。",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "受到伤害后获得临时<style=cIsUtility>7%移动速度</style>提升，可叠加<style=cIsUtility>3</style>次，持续<style=cIsUtility>5秒</style>。<style=cStack>（每层+3层上限并+0.5秒持续时间）</style>。",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "天顶加速器",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "命中会提供攻击速度，但低层数会降低攻击速度。",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "命中敌人会获得临时攻击速度增益，每层提高<style=cIsDamage>10%</style>攻击速度，最高<style=cIsDamage>+300%</style><style=cStack>（每件物品+100%）</style>；但越接近0层，损失越高，最多损失<style=cIsHealth>50%</style>攻击速度<style=cStack>（每件物品+50%）</style>。",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

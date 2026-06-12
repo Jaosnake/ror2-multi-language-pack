@@ -24,6 +24,12 @@
         "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Враги, поражённые разломами, накапливают осколки, увеличивая получаемый урон.",
         "MASTERY_SKIN_NAME": "Рифтер: Мастерство",
         "BLAKE_NEM_RIFTER_NAME": "Немезис Рифтер",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "Искажённый Разлом"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Искажённый Разлом",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies at once!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Разблокируйте Wandering Rift за Rifter."
     }
 }

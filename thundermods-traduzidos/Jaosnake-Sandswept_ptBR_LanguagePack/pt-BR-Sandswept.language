@@ -20,10 +20,10 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transcrição FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«Tenho uma remessa estranha aqui. Venha ver, eu sei que você gosta dessas coisas.»\n\n«Um segundo, preciso terminar de fazer as malas. Apenas descreva-o para mim.»\n\n«Bem, quando o peguei, tive uma sensação estranha. O compartimento de carga parecia diferente, mas não pensei muito nisso até olhar para meus próprios membros. Levei um segundo para perceber que estava olhando através do meu corpo, tipo, de cinco anos atrás. Louco. Deixei cair e tudo voltou ao normal.»\n\n«Surreal. Terei que testar quando terminar. Você sabe o que é?»\n\n«O log de entrada diz apenas 'transistor'. Suponho que consigo ver, dada a forma e tudo, mas é enorme. Faz sentido, considerando o que faz. Eu me pergunto para que eles vão usá-lo.»\n\n«O que você quer dizer com 'transistor'?»\n\n«Oh. Você sabe, aquelas coisas que fazem os computadores funcionar.»\n\n«Bem, minha irmã trabalha com tecnologia, mas isso é um pouco vago.»\n\n«O quê?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Radar de bolso",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Baús camuflados são mais fáceis de ver e aparecem com mais frequência.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Os baús <style=cIsUtility>Camouflaged</style> são mais fáceis de ver e garantem a geração de 1 (+1 por pilha) vezes extras por estágio.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Baús camuflados são mais fáceis de ver e têm geração garantida 1 (+1 por acúmulo) vez extra por estágio.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
-        "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
+        "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Abra um Baú Camuflado.",
         "ITEM_SANDSWEPT_SILVER_CORD_NAME": "Cordão de Prata",
         "ITEM_SANDSWEPT_SILVER_CORD_PICKUP": "Ganhe um drone de choque. Os ataques de drones têm chance de chocar os inimigos próximos.",
         "ITEM_SANDSWEPT_SILVER_CORD_DESCRIPTION": "Ganhe um Drone de Choque <style=cIsUtility></style>. Seus drones têm uma chance de 7% de causar <style=cIsUtility>shock</style> até 2 (+1 por pilha) em alvos, causando 300% <style=cIsDamage>TOTAL DAMAGE</style>.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Atualiza 2 itens aleatórios. O equipamento é consumido durante o uso.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "oi/oiiii/oiiiiii/oiiiiii/oiiiiii/oiiiiiiiii/oiiiiiiiii/oiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete um Santuário do Futuro sem pular.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Dispara foguetes contra alvos que saem de poças de napalm.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "Encontre e ative o Teletransportador <style=cDeath> <sprite name=\"TP\" tint=1></style> em <style=cDeath>{0}s!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Obtenha até itens <style=cIsUtility>{0}</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Traço de Pena Rasgada"
+        "SANDSWEPT_INPUT_FEATHER": "Traço de Pena Rasgada",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Abra um Baú Camuflado."
     }
 }

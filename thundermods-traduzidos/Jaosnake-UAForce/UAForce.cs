@@ -26,6 +26,7 @@ namespace ForceUkrainianLanguage
         private ConfigEntry<bool> onlyWhenSystemLocaleIsUkrainian;
         private ConfigEntry<string> fallbackLanguageCode;
         private string previousLanguageName;
+        private static readonly FieldInfo FallbackLanguageField = typeof(Language).GetField("fallbackLanguage", BindingFlags.NonPublic | BindingFlags.Instance);
 
         private void Awake()
         {
@@ -39,7 +40,7 @@ namespace ForceUkrainianLanguage
                 "General",
                 "LanguageCode",
                 "UA",
-                "Language code used by the Ukrainian R2API.Language packs.");
+                "Language code used by the Ukrainian R2API.Language packs. UA is automatically applied through the valid game culture uk-UA.");
 
             onlyWhenSystemLocaleIsUkrainian = Config.Bind(
                 "General",
@@ -82,7 +83,7 @@ namespace ForceUkrainianLanguage
         private void RegisterRiskOfOptions()
         {
             ModSettingsManager.SetModDescription(
-                "Forces Risk of Rain 2 to use the Ukrainian R2API.Language code. The game does not show Ukrainian in the vanilla language menu.");
+                "Forces mod translations to Ukrainian while keeping untranslated base-game text in English. The game does not show Ukrainian in the vanilla language menu.");
             TryRegisterRiskOfOptionsIcon();
 
             ModSettingsManager.AddOption(new CheckBoxOption(enablePlugin));
@@ -92,7 +93,7 @@ namespace ForceUkrainianLanguage
             ModSettingsManager.AddOption(new GenericButtonOption(
                 "Apply now",
                 "General",
-                "Applies the current UAForce settings immediately. Restart the game if a mod only loads language files during startup.",
+                "Applies the current UAForce settings immediately. It uses Ukrainian mod tokens and English for missing base-game text.",
                 "Apply",
                 () => ApplyCurrentConfig("Risk Of Options button")));
         }
@@ -155,17 +156,18 @@ namespace ForceUkrainianLanguage
                 return;
             }
 
-            var targetLanguage = languageCode.Value.Trim();
-            if (string.IsNullOrEmpty(targetLanguage))
+            var sourceLanguage = languageCode.Value.Trim();
+            if (string.IsNullOrEmpty(sourceLanguage))
             {
-                targetLanguage = "UA";
+                sourceLanguage = "UA";
             }
 
             try
             {
-                EnsureLanguageExists(targetLanguage);
-                SetLanguage(targetLanguage);
-                Logger.LogInfo("Current language set to " + targetLanguage + " (" + reason + ").");
+                var runtimeLanguage = GetRuntimeLanguageCode(sourceLanguage);
+                EnsureLanguageBridge(sourceLanguage, runtimeLanguage);
+                SetLanguage(runtimeLanguage);
+                Logger.LogInfo("Current language set to " + runtimeLanguage + " using " + sourceLanguage + " mod tokens (" + reason + ").");
             }
             catch (Exception ex)
             {
@@ -200,11 +202,42 @@ namespace ForceUkrainianLanguage
             Logger.LogInfo("UAForce is disabled. Restored language to " + restoreLanguage + " (" + reason + ").");
         }
 
-        private void EnsureLanguageExists(string targetLanguage)
+        private static string GetRuntimeLanguageCode(string sourceLanguage)
         {
-            if (Language.FindLanguageByName(targetLanguage) != null)
+            if (string.Equals(sourceLanguage, "UA", StringComparison.OrdinalIgnoreCase) ||
+                string.Equals(sourceLanguage, "ua", StringComparison.OrdinalIgnoreCase))
             {
-                return;
+                return "uk-UA";
+            }
+
+            return sourceLanguage;
+        }
+
+        private void EnsureLanguageBridge(string sourceLanguage, string runtimeLanguage)
+        {
+            var english = Language.FindLanguageByName("en") ?? Language.english;
+            var source = EnsureLanguageExists(sourceLanguage);
+            var runtime = EnsureLanguageExists(runtimeLanguage);
+
+            if (!string.Equals(sourceLanguage, runtimeLanguage, StringComparison.OrdinalIgnoreCase))
+            {
+                SetFallbackLanguage(runtime, source);
+                SetFallbackLanguage(source, english);
+                LanguageAPI.Add("UAFORCE_LANGUAGE_MARKER", string.Empty, runtimeLanguage);
+                Logger.LogInfo("Linked " + runtimeLanguage + " -> " + sourceLanguage + " -> en.");
+            }
+            else
+            {
+                SetFallbackLanguage(runtime, english);
+            }
+        }
+
+        private Language EnsureLanguageExists(string targetLanguage)
+        {
+            var language = Language.FindLanguageByName(targetLanguage);
+            if (language != null)
+            {
+                return language;
             }
 
             // R2API.Language can store custom language tokens, but RoR2 still needs
@@ -217,8 +250,19 @@ namespace ForceUkrainianLanguage
                 throw new MissingMethodException("Could not find RoR2.Language.GetOrCreateLanguage(string).");
             }
 
-            getOrCreateLanguage.Invoke(null, new object[] { targetLanguage });
+            language = (Language)getOrCreateLanguage.Invoke(null, new object[] { targetLanguage });
             Logger.LogInfo("Created custom language entry " + targetLanguage + ".");
+            return language;
+        }
+
+        private void SetFallbackLanguage(Language language, Language fallback)
+        {
+            if (language == null || fallback == null || FallbackLanguageField == null)
+            {
+                return;
+            }
+
+            FallbackLanguageField.SetValue(language, fallback);
         }
 
         private void SetLanguage(string targetLanguage)

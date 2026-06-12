@@ -1,0 +1,12 @@
+{
+    "FR": {
+        "ITEM_FEATHERED_PLUME_NAME": "Plume duveteuse",
+        "ITEM_FEATHERED_PLUME_PICKUP": "Gagnez un bonus temporaire de vitesse après avoir subi des dégâts.",
+        "ITEM_FEATHERED_PLUME_DESCRIPTION": "Subir des dégâts confère un bonus temporaire de <style=cIsUtility>7% de vitesse de déplacement</style>, cumulable <style=cIsUtility>3</style> fois pendant <style=cIsUtility>5 secondes</style>. <style=cStack>(+3 cumuls et +0,5s de durée par cumul)</style>.",
+        "ITEM_FEATHERED_PLUME_LORE": "",
+        "ITEM_ZENITH_ACCELERATOR_NAME": "Accélérateur zénithal",
+        "ITEM_ZENITH_ACCELERATOR_PICKUP": "Les coups accordent de la vitesse d’attaque, mais peu de cumuls la réduisent.",
+        "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Toucher des ennemis confère un bonus temporaire de vitesse d’attaque qui augmente celle-ci de <style=cIsDamage>10%</style> par cumul jusqu’à <style=cIsDamage>+300%</style> <style=cStack>(+100% par objet)</style>, mais vous perdez jusqu’à <style=cIsHealth>50%</style> de vitesse d’attaque <style=cStack>(+50% par objet)</style> plus vous êtes proche de 0 cumul.",
+        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+    }
+}

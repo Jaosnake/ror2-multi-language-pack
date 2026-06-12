@@ -24,6 +24,12 @@
         "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "Los enemigos golpeados por hendiduras acumulan fragmentación, aumentando el daño recibido.",
         "MASTERY_SKIN_NAME": "Rifter: Maestría",
         "BLAKE_NEM_RIFTER_NAME": "Némesis Rifter",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "Hendidura Corrompida"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Hendidura Corrompida",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "¡Teletransporta 10 o más enemigos a la vez!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Desbloquea Wandering Rift como Rifter."
     }
 }

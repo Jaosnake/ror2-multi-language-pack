@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-transcription FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«I've got a strange shipment here. Come see, I know you like this stuff.»\n\n«One second, I need to finish packing. Just describe it to me.»\n\n«Well, when I picked it up, I had a strange feeling. The cargo hold seemed different, but I didn't think much of it until I looked at my own limbs. It took me a second to realize I was looking through my body, like, from five years ago. Crazy. I dropped it and everything went back to normal.»\n\n«Surreal. I'll have to test it when I'm done. Do you know what it is?»\n\n«The entry log only says 'transistor'. I suppose I can see it, given the shape and all, but it's huge. Makes sense, considering what it does. I wonder what they'll use it for.»\n\n«What do you mean 'transistor'?»\n\n«Oh. You know, those things that make computers work.»\n\n«Well, my sister works with tech, but that's a bit vague.»\n\n«What?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "ポケットレーダー",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "偽装チェストは見やすくなり、出現頻度が高くなります。",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>カモフラージュされた</style>チェストは見やすくなり、ステージごとに1(+スタックごとに+1)の回数スポーンすることが保証されています。",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "ランダムなアイテムを2つアップグレードします。装備は使用すると消耗します。",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "ひぃぃ/ひぃぃぃ/ひぃぃぃぃ/ひぃぃぃぃ/ひぃぃぃぃぃ/ひぃぃぃぃぃぃ/ひぃぃぃぃぃぃ/ひぃぃぃぃぃぃぃ",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "ジャンプせずに未来の祭壇を完了する。",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "ナパーム弾が溜まる標的にロケット弾を発射します。",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "<style=cDeath>{0}s!</style> で <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> を見つけてアクティブ化します。",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "最大 <style=cIsUtility>{0} アイテム </style> を入手します。",
-        "SANDSWEPT_INPUT_FEATHER": "トーンフェザーダッシュ"
+        "SANDSWEPT_INPUT_FEATHER": "トーンフェザーダッシュ",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "カモフラージュされたチェストを開ける。"
     }
 }

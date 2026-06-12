@@ -24,6 +24,12 @@
         "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "균열에 맞은 적들은 산산조각이 나고 받는 피해가 증가합니다.",
         "MASTERY_SKIN_NAME": "리프터: 마스터리",
         "BLAKE_NEM_RIFTER_NAME": "네메시스 리프터",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "타락한 균열"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "타락한 균열",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies at once!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Rifter로 Wandering Rift를 해제하세요."
     }
 }

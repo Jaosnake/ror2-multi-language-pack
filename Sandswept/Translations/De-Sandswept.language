@@ -20,7 +20,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-Transkription FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n«Ich habe hier eine seltsame Lieferung. Kommen Sie und sehen Sie, ich weiß, dass Ihnen das Zeug gefällt.»\n\n«Eine Sekunde, ich muss mit dem Packen fertig sein. Beschreibe es mir einfach.»\n\n«Als ich es in die Hand nahm, hatte ich ein seltsames Gefühl. Der Frachtraum schien anders zu sein, aber ich dachte nicht viel darüber nach, bis ich meine eigenen Gliedmaßen betrachtete. Es dauerte eine Sekunde, bis mir klar wurde, dass ich durch meinen Körper blickte, der so aussah wie vor fünf Jahren. Verrückt. Ich ließ es fallen und alles war wieder normal.»\n\n«Surreal. Ich muss es testen, wenn ich fertig bin. Wissen Sie, was es ist?»\n\n«Im Eintragsprotokoll steht nur \"Transistor\". Angesichts der Form und allem kann ich es wohl sehen, aber es ist riesig. Macht Sinn, wenn man bedenkt, was es bewirkt. Ich frage mich, wofür sie es verwenden werden.»\n\n«Was meinst du mit \"Transistor\"?»\n\n«Oh. Weißt du, diese Dinge, die Computer zum Laufen bringen.»\n\n«Nun, meine Schwester arbeitet mit Technik, aber das ist ein bisschen vage.»\n\n«Was?»",
         "ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Taschenradar",
         "ITEM_SANDSWEPT_POCKET_RADAR_PICKUP": "Getarnte Truhen sind leichter zu erkennen und erscheinen häufiger.",
-        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "<style=cIsUtility>Getarnte</style>-Truhen sind leichter zu erkennen und spawnen garantiert {baseExtraCloakedChests} (+{stackExtraCloakedChests} pro Stapel) zusätzlich pro Stufe.",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
         "ITEM_SANDSWEPT_POCKET_RADAR_LORE": "",
         "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
         "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
@@ -141,7 +141,7 @@
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_DESCRIPTION": "Verbessert 2 zufällige Gegenstände. Die Ausrüstung wird bei Gebrauch verbraucht.",
         "EQUIPMENT_SANDSWEPT_LUCK_AS_A_CONSTANT_LORE": "hiii/hiiii/hiiiii/hiiiiii/hiiiiiii/hiiiiiiiii/hiiiiiiiii/hiiiiiiiiii",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Schließe einen Schrein der Zukunft ab, ohne zu springen.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_NAME": "Breach",
         "ACHIEVEMENT_ITEM_SANDSWEPT_HALLOWED_ICHOR_DESCRIPTION": "Complete the Primordial Teleporter without picking up any items on the stage.",
         "ACHIEVEMENT_ITEM_SANDSWEPT_SEQUENCED_FATE_NAME": "A Foolish Moon [...]",
@@ -286,6 +286,8 @@
         "SANDSWEPT_INFERNO_PICKUP": "Feuert Raketen auf Ziele ab, die Napalmlachen hinterlassen.",
         "SANDSWEPT_OBJECTIVE_CHARGE_TP_EARLY": "Finde und aktiviere den <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> in <style=cDeath>{0}s!</style>",
         "SANDSWEPT_OBJECTIVE_GET_UP_TO_X_ITEMS": "Erhalten Sie bis zu <style=cIsUtility>{0} Artikel</style>.",
-        "SANDSWEPT_INPUT_FEATHER": "Zerrissener Federstrich"
+        "SANDSWEPT_INPUT_FEATHER": "Zerrissener Federstrich",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Öffne eine getarnte Truhe."
     }
 }

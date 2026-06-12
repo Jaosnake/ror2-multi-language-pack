@@ -19,7 +19,7 @@
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Получите шанс 25% при убийстве сохранить дополнительный прыжок <style=cIsUtility></style>. Может хранить до 2 (+2 на стек) <style=cIsUtility>дополнительных прыжков</style>.",
         "ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_LORE": "<style=cMono>//--AUTO-транскрипция FROM UES CARGO HOLD 3 [REDACTED] --//</style>\n\n «У меня здесь странный груз. Посмотри, я знаю, что тебе это нравится.»\n\n«Одну секунду, мне нужно закончить собирать вещи. Просто опиши мне это». \n\n «Ну, когда я взял его в руки, у меня возникло странное чувство. Грузовой отсек казался другим, но я не особо задумывался об этом, пока не взглянул на свои конечности. Мне потребовалась секунда, чтобы осознать, что я смотрю сквозь свое тело, примерно пять лет назад. Сумасшедший. Я уронил его, и все вернулось на круги своя.»\n\n«Сюрреалистично. Мне придется протестировать это, когда я закончу. Вы знаете, что это такое?»\n\n«В журнале записей написано только «транзистор». Полагаю, я вижу его, учитывая форму и все такое, но он огромен. Имеет смысл, учитывая, что он делает. Интересно, для чего они его будут использовать». \n\n «Что ты имеешь в виду под словом «транзистор»?» \n\n «Ой. Знаете, те вещи, которые заставляют компьютеры работать.» \n\n «Ну, моя сестра работает с технологиями, но это немного расплывчато.» \n\n «Что?»",
         "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_NAME": "A Life's Epilogue",
-        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Complete a Shrine of the Future without jumping.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_TEMPORAL_TRANSISTOR_DESCRIPTION": "Завершите Святилище будущего, не прыгая.",
         "ITEM_SANDSWEPT_BLEEDING_WITNESS_NAME": "Кровоточащий свидетель",
         "ITEM_SANDSWEPT_BLEEDING_WITNESS_PICKUP": "Ваши эффекты постепенного урона исцеляют всех союзников.",
         "ITEM_SANDSWEPT_BLEEDING_WITNESS_DESCRIPTION": "8% шанс при попадании вызвать <style=cIsDamage>Кровоизлияние</style> в размере 360% базового урона. Ваши <style=cIsDamage>эффекты постепенного урона</style> <style=cIsHealing>heal</style> всем союзникам на 0.33% (+0.33% за стак) от их <style=cIsHealing>максимального здоровья</style>.",
@@ -255,6 +255,11 @@
         "ITEM_SANDSWEPT_TWISTED_WOUND_PICKUP": "Кристаллический знак твоей жадности.",
         "ITEM_SANDSWEPT_TWISTED_WOUND_DESCRIPTION": "Кристаллический знак твоей жадности.",
         "ITEM_SANDSWEPT_TWISTED_WOUND_LORE": "ОуО УуУ :333 >w< >_< <3 уууу ово <3 <3",
-        "SANDSWEPT_SWEPSWEP_NAME": "Подмети-подмети Сэнди"
+        "SANDSWEPT_SWEPSWEP_NAME": "Подмети-подмети Сэнди",
+        "ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Camouflaged chests are easier to see and are guaranteed to spawn 1 (+1 per stack) extra time per stage.",
+        "ACHIEVEMENT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_POCKET_RADAR_DESCRIPTION": "Open a Camouflaged Chest.",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_NAME": "Dark Flash",
+        "ACHIEVEMENT_ITEM_SANDSWEPT_POCKET_RADAR_DESCRIPTION": "Откройте замаскированный сундук."
     }
 }

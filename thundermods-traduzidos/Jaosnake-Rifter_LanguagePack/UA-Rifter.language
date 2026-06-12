@@ -25,6 +25,12 @@
         "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Блокування часу",
         "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "Фіксуйте час ворогів у зоні, заморожуючи їх на кілька секунд.",
         "BLAKE_NEM_RIFTER_NAME": "Немезида Рифтер",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "Пошкоджений розрив"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "Пошкоджений розрив",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies at once!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "Розблокуйте Wandering Rift за Rifter."
     }
 }

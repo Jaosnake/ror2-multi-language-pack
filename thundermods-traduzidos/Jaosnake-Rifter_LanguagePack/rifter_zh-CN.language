@@ -24,6 +24,12 @@
         "PASSIVE_RIFT_FRACTURE_DESCRIPTION": "被裂隙击中的敌人积累碎裂效果,增加受到的伤害。",
         "MASTERY_SKIN_NAME": "裂境者:精通",
         "BLAKE_NEM_RIFTER_NAME": "复仇女神裂境者",
-        "BLAKE_NEM_RIFTER_SUBTITLE": "腐化裂隙"
+        "BLAKE_NEM_RIFTER_SUBTITLE": "腐化裂隙",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: tangling reality",
+        "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies at once!",
+        "BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT": "Rifter: tangling reality",
+        "BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_NAME": "Rifter: Wandering Rift",
+        "ACHIEVEMENT_BLAKE_RIFTER_WANDERING_RIFT_ACHIEVEMENT_DESCRIPTION": "使用Rifter解锁Wandering Rift。"
     }
 }
