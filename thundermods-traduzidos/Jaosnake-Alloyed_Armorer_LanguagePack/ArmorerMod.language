@@ -77,11 +77,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Maschinenfluch",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Sende eine Welle Nanobots aus, die nahen Verbündeten Barriere und erhöhten Schaden gewährt. Lässt Schwermetall auf nahen Feinden detonieren, verursacht Schaden pro Stapel und blockiert Heilung bei geschwächten Zielen.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Schließe als Rüstungsschmied das Spiel ab oder lösche dich auf Monsun aus.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Schließe als Rüstungsschmied das Spiel ab oder lösche dich auf Taifun aus.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Nutze als Rüstungsschmied die Schadensabsorption von Legierter Wall, um mindestens 200% deiner Gesundheit zu heilen."
     },
     "es-419": {
         "Tatertotticus_Armorer_NAME": "Armero",
@@ -105,11 +105,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Maldición mecánica",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Envía una ola de nanobots que otorga barrera y aumento de daño a aliados cercanos. Detona Metal pesado en enemigos cercanos, causando daño por acumulación y aplicando Anticuración a objetivos debilitados.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Como Armero, vence el juego o consigue la obliteración en Monzón.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Como Armero, vence el juego o consigue la obliteración en Tifón.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Como Armero, usa la absorción de daño de Baluarte aleado para curar al menos un 200% de tu salud."
     },
     "es-ES": {
         "Tatertotticus_Armorer_NAME": "Armero",
@@ -133,11 +133,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Maldición mecánica",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Envía una ola de nanobots que otorga barrera y aumento de daño a aliados cercanos. Detona Metal pesado en enemigos cercanos, causando daño por acumulación y aplicando Anticuración a objetivos debilitados.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Como Armero, vence el juego o consigue la obliteración en Monzón.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Como Armero, vence el juego o consigue la obliteración en Tifón.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Como Armero, usa la absorción de daño de Baluarte aleado para curar al menos un 200% de tu salud."
     },
     "FR": {
         "Tatertotticus_Armorer_NAME": "Armurier",
@@ -161,11 +161,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Malédiction mécanique",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Envoyez une vague de nanorobots qui confère une barrière et un bonus de dégâts aux alliés proches. Fait exploser Métal lourd sur les ennemis proches, infligeant des dégâts par charge et appliquant Anti-soin aux cibles affaiblies.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "En tant qu’Armurier, terminez la partie ou oblitérez-vous en Mousson.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "En tant qu’Armurier, terminez la partie ou oblitérez-vous en Typhon.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "En tant qu’Armurier, utilisez l’absorption des dégâts de Rempart allié pour soigner au moins 200% de votre santé."
     },
     "IT": {
         "Tatertotticus_Armorer_NAME": "Armaiolo",
@@ -189,11 +189,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Maledizione meccanica",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Invia un’ondata di nanobot che conferisce barriera e bonus ai danni agli alleati vicini. Fa detonare Metallo pesante sui nemici vicini, infliggendo danni per accumulo e applicando Anti-cura ai bersagli indeboliti.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Come Armaiolo, completa il gioco o obliterati a Monsone.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Come Armaiolo, completa il gioco o obliterati a Tifone.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Come Armaiolo, usa l’assorbimento danni di Baluardo legato per curare almeno il 200% della tua salute."
     },
     "ja": {
         "Tatertotticus_Armorer_NAME": "アーマラー",
@@ -217,11 +217,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "マシンカース",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "ナノボットの波を放ち、近くの味方にバリアとダメージ上昇を与えます。近くの敵のヘビーメタルを爆発させ、スタックごとにダメージを与え、弱った対象に回復阻害を付与します。",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "アーマラーで、モンスーン難易度のゲームをクリアするか、オベリスクで消滅する。",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "アーマラーで、タイフーン難易度のゲームをクリアするか、オベリスクで消滅する。",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "アーマラーで、アロイドブルワークのダメージ吸収を使い、体力の200%以上を回復する。"
     },
     "ko": {
         "Tatertotticus_Armorer_NAME": "아머러",
@@ -245,11 +245,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "기계의 저주",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "나노봇의 파동을 내보내 근처 아군에게 보호막과 피해 증가를 부여합니다. 근처 적의 헤비 메탈을 폭발시켜 중첩마다 피해를 주고, 약화된 대상에게 치유 차단을 적용합니다.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "아머러로 몬순 난이도에서 게임을 클리어하거나 오벨리스크에서 소멸하십시오.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "아머러로 태풍 난이도에서 게임을 클리어하거나 오벨리스크에서 소멸하십시오.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "아머러로 합금 방벽의 피해 흡수를 사용해 체력의 최소 200%를 회복하십시오."
     },
     "pt-BR": {
         "Tatertotticus_Armorer_NAME": "Armadureiro",
@@ -273,11 +273,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Maldição Mecânica",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Envia uma onda de nanorrobôs, concedendo barreira e aumento de dano aos aliados próximos. Detona Metal Pesado nos inimigos próximos, causando dano por acúmulo e aplicando Anti-cura a alvos enfraquecidos.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Como Armadureiro, vença o jogo ou oblitere-se no Monção.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Como Armadureiro, vença o jogo ou oblitere-se no Tufão.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Como Armadureiro, use a absorção de dano do Baluarte de Liga para curar pelo menos 200% da sua vida."
     },
     "RU": {
         "Tatertotticus_Armorer_NAME": "Бронник",
@@ -301,11 +301,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Проклятие машины",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Выпустите волну наноботов, дающую ближайшим союзникам барьер и усиление урона. Детонирует Тяжёлый металл на ближайших врагах, нанося урон за каждый заряд и блокируя лечение ослабленных целей.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Играя за Бронника, пройдите игру или обнулитесь на Муссоне.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Играя за Бронника, пройдите игру или обнулитесь на Тайфуне.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Играя за Бронника, используйте поглощение урона Легированного бастиона, чтобы исцелить не менее 200% своего здоровья."
     },
     "tr": {
         "Tatertotticus_Armorer_NAME": "Zırhçı",
@@ -329,11 +329,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Makine Laneti",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Yakındaki müttefiklere bariyer ve hasar artışı veren bir nanobot dalgası gönder. Yakındaki düşmanların üzerindeki Ağır Metal’i patlatır, her birikim için hasar verir ve zayıflamış hedeflere İyileşme Engeli uygular.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Zırhçı olarak Muson zorluğunda oyunu bitir veya kendini yok et.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Zırhçı olarak Tayfun zorluğunda oyunu bitir veya kendini yok et.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Zırhçı olarak Alaşımlı Siper'in hasar emilimini kullanarak canının en az %200'ü kadar iyileş."
     },
     "UA": {
         "Tatertotticus_Armorer_NAME": "Броняр",
@@ -357,11 +357,11 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "Прокляття машини",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "Надішліть хвилю наноботів, що дає союзникам поруч бар’єр і посилення шкоди. Детонує Важкий метал на ворогах поруч, завдаючи шкоди за кожен заряд і накладаючи Антизцілення на ослаблені цілі.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "Граючи за Броняра, завершіть гру або обнуліться на Мусоні.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "Граючи за Броняра, завершіть гру або обнуліться на Тайфуні.",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "Граючи за Броняра, використайте поглинання шкоди Сплавного бастіону, щоб зцілити щонайменше 200% свого здоров’я."
     },
     "zh-CN": {
         "Tatertotticus_Armorer_NAME": "铸甲师",
@@ -385,10 +385,10 @@
         "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME": "机械诅咒",
         "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION": "释放一波纳米机器人，给予附近盟友屏障和伤害提升。引爆附近敌人身上的重金属，每层造成伤害，并对虚弱目标施加反治疗。",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME": "Armorer: Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION": "使用铸甲师，在季风难度下通关或于方尖碑处抹除自己。",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME": "Armorer: Grand Mastery",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "As Armorer, beat the game or obliterate on Typhoon",
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION": "使用铸甲师，在台风难度下通关或于方尖碑处抹除自己。",
         "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME": "Armorer: Repair Expert",
-        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "As Armorer, use Alloyed Bulwark's damage absorption to heal at least 200% of your health."
+        "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION": "使用铸甲师，利用合金壁垒的伤害吸收治疗至少相当于你200%生命值的血量。"
     }
 }
