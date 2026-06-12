@@ -57,7 +57,7 @@ BepInEx/plugins/Jaosnake-SandGlass/SandGlass.dll
 After the first launch, BepInEx can generate a config file:
 
 ```text
-BepInEx/config/com.jaosnake.sandsweptlookingglasslocalizationpatch.cfg
+BepInEx/config/jaosnake.sandglass.cfg
 ```
 
 Available options:
@@ -70,4 +70,5 @@ Available options:
 This is not a replacement for the Sandswept translation pack. It is an optional compatibility patch for LookingGlass.
 
 The main Sandswept language files translate the normal game text. This plugin handles the extra stat labels that LookingGlass builds separately in code.
+
 
