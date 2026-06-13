@@ -1,4 +1,4 @@
 ## 1.0.0
-- Added multi-language R2API.Language overrides for Aetherium.
-- Added translations for Feathered Plume and Zenith Accelerator item text.
-- Added translations for Shielding Core item and unlock text.
+- Added initial multi-language R2API.Language pack for Aetherium.
+- Added translations for all item, lunar item, equipment, artifact, elite, interactable, and unlock tokens exposed by the current Aetherium package and Thunderstore item list.
+- Kept achievement names in English while localizing unlock descriptions.
