@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Zenith Accelerator",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Hits grant attack speed, but low stacks reduce your attack speed.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Hitting enemies grants a temporary attack speed buff that increases attack speed by <style=cIsDamage>10%</style> per stack up to <style=cIsDamage>+300%</style> <style=cStack>(+100% per item)</style>, but you lose up to <style=cIsHealth>50%</style> attack speed <style=cStack>(+50% per item)</style> the closer you are to 0 stacks.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Shielding Core",
+        "ITEM_SHIELDING_CORE_PICKUP": "Gain armor while your shields are active.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Gain <style=cIsUtility>15</style> <style=cStack>(+10 per stack)</style> <style=cIsUtility>armor</style> while <style=cIsUtility>shields</style> are active. The first stack grants <style=cIsUtility>8%</style> of your maximum health as shield on pickup.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Have over half of your health as shields.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

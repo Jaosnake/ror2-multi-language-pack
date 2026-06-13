@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Accélérateur zénithal",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Les coups accordent de la vitesse d’attaque, mais peu de cumuls la réduisent.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Toucher des ennemis confère un bonus temporaire de vitesse d’attaque qui augmente celle-ci de <style=cIsDamage>10%</style> par cumul jusqu’à <style=cIsDamage>+300%</style> <style=cStack>(+100% par objet)</style>, mais vous perdez jusqu’à <style=cIsHealth>50%</style> de vitesse d’attaque <style=cStack>(+50% par objet)</style> plus vous êtes proche de 0 cumul.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Noyau de blindage",
+        "ITEM_SHIELDING_CORE_PICKUP": "Gagnez de l'armure tant que vos boucliers sont actifs.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Gagnez <style=cIsUtility>15</style> <style=cStack>(+10 par cumul)</style> d'<style=cIsUtility>armure</style> tant que les <style=cIsUtility>boucliers</style> sont actifs. Le premier cumul confère <style=cIsUtility>8%</style> de vos PV max sous forme de bouclier à l'obtention.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Ayez plus de la moitié de votre santé sous forme de boucliers.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

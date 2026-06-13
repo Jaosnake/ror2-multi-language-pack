@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Зенитный ускоритель",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Попадания дают скорость атаки, но малое число стаков снижает её.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Попадания по врагам дают временный бонус скорости атаки: <style=cIsDamage>10%</style> за стак до <style=cIsDamage>+300%</style> <style=cStack>(+100% за предмет)</style>, но чем ближе вы к 0 стаков, тем больше теряете — до <style=cIsHealth>50%</style> скорости атаки <style=cStack>(+50% за предмет)</style>.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Защитное ядро",
+        "ITEM_SHIELDING_CORE_PICKUP": "Получайте броню, пока активны ваши щиты.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Получайте <style=cIsUtility>15</style> <style=cStack>(+10 за стак)</style> <style=cIsUtility>брони</style>, пока активны <style=cIsUtility>щиты</style>. Первый стак при получении даёт <style=cIsUtility>8%</style> максимального здоровья в виде щита.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Имейте больше половины здоровья в виде щитов.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

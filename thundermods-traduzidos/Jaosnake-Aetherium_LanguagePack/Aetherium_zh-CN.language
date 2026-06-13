@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "天顶加速器",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "命中会提供攻击速度，但低层数会降低攻击速度。",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "命中敌人会获得临时攻击速度增益，每层提高<style=cIsDamage>10%</style>攻击速度，最高<style=cIsDamage>+300%</style><style=cStack>（每件物品+100%）</style>；但越接近0层，损失越高，最多损失<style=cIsHealth>50%</style>攻击速度<style=cStack>（每件物品+50%）</style>。",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "护盾核心",
+        "ITEM_SHIELDING_CORE_PICKUP": "护盾激活时获得护甲。",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "<style=cIsUtility>护盾</style>激活时获得<style=cIsUtility>15</style><style=cStack>（每层+10）</style><style=cIsUtility>护甲</style>。第一层在拾取时额外获得最大生命值<style=cIsUtility>8%</style>的护盾。",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "让你的护盾值超过生命值的一半。",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }
