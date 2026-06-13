@@ -10,6 +10,7 @@ extracted-icons/
 thundermods-zips/
 translation-backups/
 tools/
+tests/
 uploaded/
 SESSION_HISTORY.md
 audit.py
