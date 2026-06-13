@@ -31,12 +31,5 @@
         "SS2_REMUNERATION_TERMINAL_NAME": "Pedestal",
         "SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">Complete transaction</link>",
         "SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">What is your legacy?</link>\n\nNothing but petty vengeance.\n\n<link=\"textShaky\">What is your identity?</link>\n\nNothing but a name spoken in disgust.\n\n<link=\"textShaky\">What do you want?</link>\n\nNothing but a new purpose.\n\n<link=\"textShaky\">What do you need?</link>\n\nNothing but the weapons that I trust.\n\n<link=\"textShaky\">So, where will you go?</link>\n\nWherever you make me go.\n\n<link=\"textShaky\">Then, what will you do?</link>\n\nWhatever you say you need.\n\n<link=\"textShaky\">Is that all, then?</link>\n\nIf you say it so.\n\n<link=\"textShaky\">Then go there, and die.</link>\n\n...\n\nAs long as you're paying me."
-    },
-    "en": {
-        "SS2_ITEM_HUNTERSSIGIL_DESC": "After standing still for 1 second, create an 8m zone that grants all allies 30 armor (+15 per stack) and 30% damage (+15% per stack). The zone lasts until you leave it.",
-        "SS2_ITEM_FIELDACCELERATOR_DESC": "After defeating the Teleporter boss, increase the Teleporter radius by 20% (+20% per stack) and killing enemies grants +1% Teleporter charge.",
-        "SS2_ITEM_BLOODTESTER_DESC": "Every 30 seconds, rapidly heal 15 health (+15 per stack) for every 25 gold you have. Scales over time.",
-        "SS2_ITEM_JETBOOTS_DESC": "Gain +1 extra jump that ignites enemies for 500% base damage in a 7.5m radius (+5m per stack). Recharges 5 seconds after landing.",
-        "SS2_EQUIP_BACKTHRUSTER_DESC": "For 8 seconds, rapidly accelerate up to 200% movement speed while moving in a straight line."
     }
 }

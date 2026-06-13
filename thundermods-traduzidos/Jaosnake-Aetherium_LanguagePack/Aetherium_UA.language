@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Зенітний прискорювач",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Влучання дають швидкість атаки, але мала кількість стеків знижує її.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Влучання по ворогах дає тимчасовий бонус швидкості атаки: <style=cIsDamage>10%</style> за стек до <style=cIsDamage>+300%</style> <style=cStack>(+100% за предмет)</style>, але що ближче ви до 0 стеків, то більше втрачаєте — до <style=cIsHealth>50%</style> швидкості атаки <style=cStack>(+50% за предмет)</style>.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Ядро захисту",
+        "ITEM_SHIELDING_CORE_PICKUP": "Отримуйте броню, поки ваші щити активні.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Отримуйте <style=cIsUtility>15</style> <style=cStack>(+10 за стек)</style> <style=cIsUtility>броні</style>, поки <style=cIsUtility>щити</style> активні. Перший стек під час підбору дає <style=cIsUtility>8%</style> максимального здоров'я як щит.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Майте понад половину здоров'я у вигляді щитів.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

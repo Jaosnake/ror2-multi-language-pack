@@ -5,7 +5,7 @@
 
 Multi-language translation pack for **Aetherium** by **KomradeSpectre** - translated by **Jaosnake**.
 
-This pack adds R2API.Language overrides for Aetherium item text that appeared untranslated in-game, including **Feathered Plume** and **Zenith Accelerator**.
+This pack adds R2API.Language overrides for Aetherium item text that appeared untranslated in-game, including **Feathered Plume**, **Zenith Accelerator**, and **Shielding Core**.
 
 > 📝 No prior loose translation files were found for these Aetherium item tokens. This pack supplies the missing tokens externally through R2API.Language.
 

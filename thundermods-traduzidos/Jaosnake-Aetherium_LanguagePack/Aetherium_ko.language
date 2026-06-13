@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "천정 가속기",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "공격 적중 시 공격 속도가 증가하지만, 중첩이 낮으면 공격 속도가 감소합니다.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "적을 맞히면 중첩당 공격 속도가 <style=cIsDamage>10%</style> 증가하여 최대 <style=cIsDamage>+300%</style>까지 오르는 임시 강화 효과를 얻습니다 <style=cStack>(아이템당 +100%)</style>. 하지만 중첩이 0에 가까울수록 공격 속도를 최대 <style=cIsHealth>50%</style> 잃습니다 <style=cStack>(아이템당 +50%)</style>.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "보호막 핵",
+        "ITEM_SHIELDING_CORE_PICKUP": "보호막이 활성화된 동안 방어력을 얻습니다.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "<style=cIsUtility>보호막</style>이 활성화된 동안 <style=cIsUtility>15</style> <style=cStack>(중첩당 +10)</style> <style=cIsUtility>방어력</style>을 얻습니다. 첫 중첩은 획득 시 최대 체력의 <style=cIsUtility>8%</style>를 보호막으로 부여합니다.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "체력의 절반 이상을 보호막으로 보유하세요.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

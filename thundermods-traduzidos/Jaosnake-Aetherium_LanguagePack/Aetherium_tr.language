@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Zenit Hızlandırıcı",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Vuruşlar saldırı hızı verir, ancak düşük yüklerde saldırı hızın azalır.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Düşmanlara vurmak, saldırı hızını yük başına <style=cIsDamage>%10</style> artıran ve <style=cIsDamage>+%300</style> sınırına ulaşan geçici bir güçlendirme verir <style=cStack>(eşya başına +%100)</style>; ancak 0 yüke yaklaştıkça <style=cIsHealth>%50</style> saldırı hızı kaybedersin <style=cStack>(eşya başına +%50)</style>.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Kalkan Çekirdeği",
+        "ITEM_SHIELDING_CORE_PICKUP": "Kalkanların aktifken zırh kazan.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "<style=cIsUtility>Kalkanların</style> aktifken <style=cIsUtility>15</style> <style=cStack>(yük başına +10)</style> <style=cIsUtility>zırh</style> kazan. İlk yük, eşyayı aldığında azami canının <style=cIsUtility>%8</style> kadarını kalkan olarak verir.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Canının yarısından fazlasına kalkan olarak sahip ol.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

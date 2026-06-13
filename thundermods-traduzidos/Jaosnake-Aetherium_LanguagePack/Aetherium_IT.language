@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Acceleratore zenitale",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "I colpi danno velocità d’attacco, ma pochi accumuli la riducono.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Colpire i nemici concede un bonus temporaneo alla velocità d’attacco che aumenta del <style=cIsDamage>10%</style> per accumulo fino a <style=cIsDamage>+300%</style> <style=cStack>(+100% per oggetto)</style>, ma perdi fino al <style=cIsHealth>50%</style> di velocità d’attacco <style=cStack>(+50% per oggetto)</style> quanto più sei vicino a 0 accumuli.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Nucleo schermante",
+        "ITEM_SHIELDING_CORE_PICKUP": "Ottieni armatura mentre i tuoi scudi sono attivi.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Ottieni <style=cIsUtility>15</style> <style=cStack>(+10 per accumulo)</style> di <style=cIsUtility>armatura</style> mentre gli <style=cIsUtility>scudi</style> sono attivi. Il primo accumulo concede <style=cIsUtility>8%</style> della tua salute massima come scudo quando lo raccogli.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Avere più della metà della salute sotto forma di scudi.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

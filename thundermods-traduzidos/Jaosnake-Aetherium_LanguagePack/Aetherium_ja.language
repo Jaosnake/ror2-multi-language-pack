@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "ゼニス・アクセラレーター",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "命中すると攻撃速度が上がりますが、スタックが少ないと攻撃速度が低下します。",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "敵に命中すると一時的な攻撃速度バフを得ます。スタックごとに<style=cIsDamage>10%</style>上昇し、最大<style=cIsDamage>+300%</style><style=cStack>（アイテムごとに+100%）</style>。ただし0スタックに近いほど、最大<style=cIsHealth>50%</style>の攻撃速度を失います<style=cStack>（アイテムごとに+50%）</style>。",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "シールドコア",
+        "ITEM_SHIELDING_CORE_PICKUP": "シールドが有効な間、アーマーを得ます。",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "<style=cIsUtility>シールド</style>が有効な間、<style=cIsUtility>15</style><style=cStack>（スタックごとに+10）</style>の<style=cIsUtility>アーマー</style>を得ます。最初のスタックは取得時に最大体力の<style=cIsUtility>8%</style>をシールドとして付与します。",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "体力の半分以上をシールドにする。",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

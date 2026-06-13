@@ -1,7 +1,7 @@
 {
     "strings": {
-        "SS2_CHIRR_NAME": "Cantar",
-        "SS2_CHIRR_BODY_NAME": "Cantar",
+        "SS2_CHIRR_NAME": "Chirr",
+        "SS2_CHIRR_BODY_NAME": "Chirr",
         "SS2_CHIRR_BODY_SUBTITLE": "Espécie em Extinção",
         "SS2_CHIRR_DESCRIPTION": "Chirr é uma criatura mística que mantém uma conexão pura com o planeta e seus habitantes.<color=#CCD3E0>\n\n< ! > A habilidade de Chirr de correr enquanto plana a torna incrivelmente ágil no ar. Tente maximizar seu tempo no ar para se manter seguro e desviar de ataques.\n\n< ! > Veneno Suavizante cura aliados e causa dano a inimigos em uma área. Tente posicionar seu amigo- ou você- perto de grupos de inimigos para maximizar seu efeito.\n\n< ! > Abduzir é uma habilidade incrivelmente versátil que pode ser usada para dar um bônus aos seus aliados, voar para longe, agrupar inimigos, ou imobilizar um inimigo resistente.\n\n< ! > Vínculo Simbiótico permite você tornar inimigos abaixo de 50% de saúde em seus amigos, dando-lhes uma cópia do seu inventário. Seu amigo constantemente perde saúde ao longo do tempo, então é vital ajudá-lo com suas outras habilidades.</color>",
         "SS2_CHIRR_OUTRO_FLAVOR": "... e assim ela se foi, carregando uma nova vida em seu espírito.",
@@ -39,7 +39,7 @@
         "SS2_CHIRR_HEAL_DESCRIPTION": "Cure a si mesmo e aliados próximos em <style=cIsHealing>{0}% de sua saúde total</style> e <style=cIsHealing>{1}% a mais ao longo do tempo</style>.",
         "SS2_CHIRRHELPER_NAME": "Amizade de Chirr",
         "SS2_CHIRRHELPER_DESCRIPTION": "amigo dos insetos :)",
-        "SS2_BEASTMASTER_NAME": "Cantar",
+        "SS2_BEASTMASTER_NAME": "Chirr",
         "SS2_BEASTMASTER_SUBTITLE": "Espécie em Extinção"
     }
 }

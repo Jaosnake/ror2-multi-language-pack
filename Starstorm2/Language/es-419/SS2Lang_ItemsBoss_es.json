@@ -31,12 +31,5 @@
         "SS2_REMUNERATION_TERMINAL_NAME": "Pedestal",
         "SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">Completar transacción</link>",
         "SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">¿Cuál es tu legado?</link>\n\nNada más que venganza mezquina.\n\n<link=\"textShaky\">¿Cuál es tu identidad?</link>\n\nNada más que un nombre pronunciado con disgusto.\n\n<link=\"textShaky\">¿Qué quieres?</link>\n\nNada más que un nuevo propósito.\n\n<link=\"textShaky\">¿Qué necesitas?</link>\n\nNada más que las armas en las que confío.\n\n<link=\"textShaky\">Entonces, ¿a dónde irás?</link>\n\nDondequiera que me hagas ir.\n\n<link=\"textShaky\">Entonces, ¿qué harás?</link>\n\nTodo lo que digas que necesitas.\n\n<link=\"textShaky\">¿Eso es todo, entonces?</link>\n\nSi tú lo dices.\n\n<link=\"textShaky\">Entonces ve allí, y muere.</link>\n\n...\n\nMientras me pagues."
-    },
-    "es-419": {
-        "SS2_ITEM_HUNTERSSIGIL_DESC": "Tras permanecer quieto durante 1 segundo, crea una zona de 8m que otorga a todos los aliados 30 de armadura (+15 por acumulación) y 30% de daño (+15% por acumulación). La zona dura hasta que salgas de ella.",
-        "SS2_ITEM_FIELDACCELERATOR_DESC": "Tras derrotar al jefe del Teletransportador, aumenta el radio del Teletransportador un 20% (+20% por acumulación) y matar enemigos otorga +1% de carga del Teletransportador.",
-        "SS2_ITEM_BLOODTESTER_DESC": "Cada 30 segundos, cura rápidamente 15 de salud (+15 por acumulación) por cada 25 de oro que tengas. Escala con el tiempo.",
-        "SS2_ITEM_JETBOOTS_DESC": "Obtén +1 salto adicional que prende fuego a los enemigos e inflige 500% de daño base en un radio de 7,5m (+5m por acumulación). Se recarga 5 segundos después de aterrizar.",
-        "SS2_EQUIP_BACKTHRUSTER_DESC": "Durante 8 segundos, acelera rápidamente hasta 200% de velocidad de movimiento al moverte en línea recta."
     }
 }

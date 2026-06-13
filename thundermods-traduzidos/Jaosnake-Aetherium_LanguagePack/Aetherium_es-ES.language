@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Acelerador cenital",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Los golpes otorgan velocidad de ataque, pero con pocas acumulaciones pierdes velocidad de ataque.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Golpear enemigos otorga un beneficio temporal de velocidad de ataque que aumenta la velocidad en <style=cIsDamage>10%</style> por acumulación hasta <style=cIsDamage>+300%</style> <style=cStack>(+100% por objeto)</style>, pero pierdes hasta <style=cIsHealth>50%</style> de velocidad de ataque <style=cStack>(+50% por objeto)</style> cuanto más cerca estés de 0 acumulaciones.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Núcleo de blindaje",
+        "ITEM_SHIELDING_CORE_PICKUP": "Obtén armadura mientras tus escudos estén activos.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Obtén <style=cIsUtility>15</style> <style=cStack>(+10 por acumulación)</style> de <style=cIsUtility>armadura</style> mientras los <style=cIsUtility>escudos</style> estén activos. La primera acumulación otorga <style=cIsUtility>8%</style> de tu salud máxima como escudo al recogerlo.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Ten más de la mitad de tu salud como escudos.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

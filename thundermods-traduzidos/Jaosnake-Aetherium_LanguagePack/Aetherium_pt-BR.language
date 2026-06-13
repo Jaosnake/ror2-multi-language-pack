@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Acelerador Zênite",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Acertos concedem velocidade de ataque, mas poucos acúmulos reduzem sua velocidade de ataque.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Acertar inimigos concede um bônus temporário de velocidade de ataque que aumenta a velocidade em <style=cIsDamage>10%</style> por acúmulo até <style=cIsDamage>+300%</style> <style=cStack>(+100% por item)</style>, mas você perde até <style=cIsHealth>50%</style> de velocidade de ataque <style=cStack>(+50% por item)</style> quanto mais perto estiver de 0 acúmulos.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Núcleo de Blindagem",
+        "ITEM_SHIELDING_CORE_PICKUP": "Ganhe armadura enquanto seus escudos estiverem ativos.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Ganhe <style=cIsUtility>15</style> <style=cStack>(+10 por acúmulo)</style> de <style=cIsUtility>armadura</style> enquanto os <style=cIsUtility>escudos</style> estiverem ativos. O primeiro acúmulo concede <style=cIsUtility>8%</style> da sua vida máxima como escudo ao coletar.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Tenha mais da metade da sua vida como escudos.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }

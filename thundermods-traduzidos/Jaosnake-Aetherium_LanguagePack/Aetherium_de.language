@@ -7,6 +7,13 @@
         "ITEM_ZENITH_ACCELERATOR_NAME": "Zenitbeschleuniger",
         "ITEM_ZENITH_ACCELERATOR_PICKUP": "Treffer gewähren Angriffsgeschwindigkeit, aber wenige Stapel verringern sie.",
         "ITEM_ZENITH_ACCELERATOR_DESCRIPTION": "Treffer gegen Gegner gewähren kurzzeitig Angriffsgeschwindigkeit: <style=cIsDamage>10%</style> pro Stapel bis <style=cIsDamage>+300%</style> <style=cStack>(+100% pro Gegenstand)</style>. Je näher du bei 0 Stapeln bist, desto mehr verlierst du, bis zu <style=cIsHealth>50%</style> Angriffsgeschwindigkeit <style=cStack>(+50% pro Gegenstand)</style>.",
-        "ITEM_ZENITH_ACCELERATOR_LORE": ""
+        "ITEM_ZENITH_ACCELERATOR_LORE": "",
+        "ITEM_SHIELDING_CORE_NAME": "Abschirmungskern",
+        "ITEM_SHIELDING_CORE_PICKUP": "Erhalte Rüstung, solange deine Schilde aktiv sind.",
+        "ITEM_SHIELDING_CORE_DESCRIPTION": "Erhalte <style=cIsUtility>15</style> <style=cStack>(+10 pro Stapel)</style> <style=cIsUtility>Rüstung</style>, solange <style=cIsUtility>Schilde</style> aktiv sind. Der erste Stapel gewährt beim Aufheben <style=cIsUtility>8%</style> deiner maximalen Gesundheit als Schild.",
+        "ITEM_SHIELDING_CORE_LORE": "",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_NAME": "Shield Maiden",
+        "AETHERIUM_SHIELDING_CORE_ACHIEVEMENT_DESC": "Habe mehr als die Hälfte deiner Gesundheit als Schilde.",
+        "AETHERIUM_SHIELDING_CORE_UNLOCKABLE_NAME": "Shield Maiden"
     }
 }
