@@ -5,9 +5,9 @@
 
 Multi-language translation pack for **Aetherium** by **KomradeSpectre** - translated by **Jaosnake**.
 
-This pack adds R2API.Language overrides for Aetherium item text that appeared untranslated in-game, including **Feathered Plume**, **Zenith Accelerator**, and **Shielding Core**.
+This pack adds R2API.Language overrides for Aetherium items, lunar items, equipment, artifacts, elite equipment, interactables, and unlock text exposed by the mod.
 
-> 📝 No prior loose translation files were found for these Aetherium item tokens. This pack supplies the missing tokens externally through R2API.Language.
+> 📝 Aetherium did not include loose non-English language files for these tokens. This pack supplies external R2API.Language translations built from the mod tokens and the public Thunderstore item list.
 
 ---
 
@@ -33,6 +33,14 @@ This pack adds R2API.Language overrides for Aetherium item text that appeared un
 | 🇹🇷 | Turkish |
 | 🇺🇦 | Ukrainian ⚡ |
 | 🇨🇳 | Chinese (Simplified) |
+
+## ✅ Covered Content
+- Items: Feathered Plume, Nail Bomb, Bloodthirsty Shield, Engineers Toolbelt, Shark Teeth, Shielding Core, Blaster Sword, Inspiring Drone, Witches Ring.
+- Lunar items: Accursed Potion, Alien Magnet, Heart of the Void, Unstable Design, Weighted Anklet, Zenith Accelerator.
+- Equipment: Bell Totem, Jar Of Reshaping.
+- Artifacts: Leonids, Progression, Regression, Journey, Nightmare, Tyrant.
+- Elite/interactable text: Bloody Fealty, Sanguine modifier, Buff Brazier, Bell Totem inspect/context.
+- Achievement names stay in English; unlock descriptions are localized.
 
 ## 👤 Credits
 | Role | Name |
