@@ -1,0 +1,23 @@
+{
+    "eo": {
+        "ROB_HENRY_BODY_NAME": "Henry",
+        "ROB_HENRY_BODY_DESCRIPTION": "Henry estas lerta batalanto, kiu uzas vastan arsenalon de armiloj por faligi siajn malamikojn.<color=#CCD3E0>\n\n< ! > Glavo estas bona ĉiuflanka elekto, dum Boksaj Gantoj pli taŭgas por forte draŝi potencajn malamikojn.\n\n< ! > Pistolo estas potenca kontraŭaera ilo, kun malalta reŝarga tempo kaj alta damaĝo.\n\n< ! > Ruliĝo havas daŭrantan kirasan bonigon, kiu helpas uzi ĝin agreseme.\n\n< ! > Bombo povas facile forviŝi homamasojn.\n\n",
+        "ROB_HENRY_BODY_SUBTITLE": "La Elektito",
+        "ROB_HENRY_BODY_LORE": "ekzempla historio",
+        "ROB_HENRY_BODY_OUTRO_FLAVOR": "..kaj tiel li foriris, serĉante novan identecon.",
+        "ROB_HENRY_BODY_OUTRO_FAILURE": "..kaj tiel li malaperis, por ĉiam blanka folio.",
+        "ROB_HENRY_BODY_MASTERY_SKIN_NAME": "Alternativa",
+        "ROB_HENRY_BODY_PASSIVE_NAME": "Pasivo de Henry",
+        "ROB_HENRY_BODY_PASSIVE_DESCRIPTION": "Ekzempla teksto.",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_NAME": "Glavo",
+        "ROB_HENRY_BODY_PRIMARY_SLASH_DESCRIPTION": "<style=cIsUtility>Lerta.</style> Svingu antaŭen por <style=cIsDamage>280% da damaĝo</style>.",
+        "ROB_HENRY_BODY_SECONDARY_GUN_NAME": "Pistolo",
+        "ROB_HENRY_BODY_SECONDARY_GUN_DESCRIPTION": "<style=cIsUtility>Lerta.</style> Pafu per pistolo por <style=cIsDamage>420% da damaĝo</style>.",
+        "ROB_HENRY_BODY_UTILITY_ROLL_NAME": "Ruliĝo",
+        "ROB_HENRY_BODY_UTILITY_ROLL_DESCRIPTION": "Ruliĝu mallongan distancon, akirante <style=cIsUtility>300 kirason</style>. <style=cIsUtility>Vi ne povas esti trafita dum la ruliĝo.</style>",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_NAME": "Bombo",
+        "ROB_HENRY_BODY_SPECIAL_BOMB_DESCRIPTION": "Ĵetu bombon por <style=cIsDamage>1600% da damaĝo</style>.",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_NAME": "Henry: Mastery",
+        "ACHIEVEMENT_ROB_HENRY_MASTERYACHIEVEMENT_DESCRIPTION": "Kiel Henry, venku la ludon aŭ forviŝu vin en Monsoon."
+    }
+}
