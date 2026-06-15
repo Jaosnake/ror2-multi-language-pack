@@ -1,7 +1,7 @@
 {
     "strings": {
         "SS2_ITEM_AUGURY_NAME": "전조",
-        "SS2_ITEM_AUGURY_DESC": "<style=cIsHealth>최대 체력</style>의 <style=cIsHealth>{0}%</style>에 해당하는 <style=cIsHealth>피해</style>를 받으면 파괴적인 <color=#FFCCED>암전</color>을 일으켜, 그 안에 휘말린 모든 <style=cIsDamage>보스가 아닌 적</style>을 <style=cIsDamage>즉사</style>시킵니다.",
+        "SS2_ITEM_AUGURY_DESC": "<style=cIsHealth>최대 체력</style>의 <style=cIsHealth>600%</style>에 해당하는 <style=cIsHealth>피해</style>를 받으면 파괴적인 <color=#FFCCED>암전</color>을 일으켜, 그 안에 휘말린 모든 <style=cIsDamage>보스가 아닌 적</style>을 <style=cIsDamage>즉사</style>시킵니다.",
         "SS2_ITEM_AUGURY_PICKUP": "<link=\"textWavy\">그들이 들리나...? 오고 있어...</link>",
         "SS2_ITEM_AUGURY_LORE": "로어 제작 중",
         "SS2_ITEM_SCAVENGERSFORTUNE_NAME": "스캐빈저의 행운",
@@ -17,7 +17,7 @@
         "SS2_ITEM_SHACKLEDLAMP_DESC": "<style=cIsDamage>기본 공격을 5회 사용</style>할 때마다 <style=cIsDamage>기본 피해량의 200%</style><style=cStack>(+중첩당 200%)</style>만큼 피해를 주는 유령 들린 투사체를 발사합니다.",
         "SS2_ITEM_SHACKLEDLAMP_LORE": "\"실례합니다.\"\n\n\"네, 이쪽으로요. 물어볼 것이 있습니다.\"\n\n\"더 가까이 오세요.\"\n\n\"당신의 도움이 필요합니다. 당신 앞에 보이는 이 등불은, 더 위대한 존재의 부서진 조각일 뿐입니다.\"\n\n\"여정이요? 아, 네. 길겠지만 걱정 마세요. 당신이 가야 할 곳이라면 어디든 제가 인도할 것이고, 비록 위험으로 가득하겠지만, 제가 도와주지 못할 일은 없을 겁니다.\"\n\n\"흠? 당신에게 무슨 이득이 있냐고요?\"\n\n\"오, 두고 보면 알 겁니다. 당신의 보상은 상상하는 것보다 훨씬 클 테니까요. 제가 완전한 광채를 되찾으면, 당신을 보호해 드리죠. 안전하게 지켜주고, 따뜻하게 해주고, 강력하게 만들어 줄게요. 당신의 모든 걱정은 불타 사라질 겁니다. 멋지지 않나요?\"\n\n\"동의하신다고요? 좋습니다. 자, 어서 등불을 집으세요.\"\n\n\"우리에겐 긴 여정이 남았군요, 친구여.\"",
         "SS2_ITEM_STIRRINGSOUL_NAME": "꿈틀거리는 영혼",
-        "SS2_ITEM_STIRRINGSOUL_DESC": "처치된 몬스터가 <style=cIsUtility>영혼</style>을 남깁니다. 영혼을 주울 때 <style=cIsUtility>{0}%</style>의 확률로 <style=cIsUtility>아이템이 생성</style>됩니다 <style=cStack>(실패 시마다 확률 +{0}%, 성공 시 초기화)</style>.",
+        "SS2_ITEM_STIRRINGSOUL_DESC": "처치된 몬스터가 <style=cIsUtility>영혼</style>을 남깁니다. 영혼을 주울 때 <style=cIsUtility>0.5%</style>의 확률로 <style=cIsUtility>아이템이 생성</style>됩니다 <style=cStack>(실패 시마다 확률 +0.5%, 성공 시 초기화)</style>.",
         "SS2_ITEM_STIRRINGSOUL_PICKUP": "<link=\"textWavy\">나는 무엇을 위해 싸우는가?</link>",
         "SS2_ITEM_STIRRINGSOUL_LORE": "결의의 영혼...\n<link=\"textWavy\">...멈춰야 할 영혼.</link>\n흔들리지 않는 생존 의지...\n<link=\"textWavy\">...깜박이는 생존 의지.</link>\n\n자신의 정체성을 더럽힐 각오...\n<link=\"textWavy\">...자신의 기억을 더럽힐 각오.</link>\n자신의 문명을 희생할 각오...\n<link=\"textWavy\">...자신의 인간성을 희생할 각오.</link>\n\n살기 위해 어디까지 갈 것인가?\n<link=\"textWavy\">자신을 파멸시키기 위해 어디까지 갈 것인가?</link>\n탈출하기 위해 어디까지 갈 것인가?\n<link=\"textWavy\">파괴하기 위해 어디까지 갈 것인가?</link>\n\n모두 자기 보존이라는 이름 아래...\n<link=\"textWavy\">...모두 자기애라는 이름 아래.</link>\n모두 불확실한 희망을 위해...\n<link=\"textWavy\">...모두 헛된 가능성을 위해.</link>\n\n기회가 주어진다면 어떻게 될까?\n<link=\"textWavy\">아군이 주어진다면 어떻게 될까?</link>\n그들의 불꽃에 부채질한다면 어떻게 될까?\n<link=\"textWavy\">그들에게 헛된 희망을 준다면 어떻게 될까?</link>\n\n아마도 그들에게 기회를 줘야 할 것이다.\n<link=\"textWavy\">아마도 그들에게 힘을 줘야 할 것이다.</link>\n아마도 그들에게 제안을 해야 할 것이다.\n<link=\"textWavy\">아마도 그들을 먼저 차지해야 할 것이다.</link>",
         "SS2_ITEM_MOXIE_NAME": "<color=#FFCCED>배짱</color>",

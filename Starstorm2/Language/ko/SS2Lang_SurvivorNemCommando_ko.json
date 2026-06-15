@@ -26,7 +26,7 @@
         "SS2_NEMCOMMANDO_SPECIAL_BOSS_NAME": "결정타",
         "SS2_NEMCOMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>도려내기</style>. <style=cIsDamage>기절</style>. <style=cIsUtility>충전</style>한 후, 앞으로 <style=cIsUtility>돌진</style>하여 최대 <style=cIsDamage>6회</style>의 파괴적인 연속 베기를 가하며, 베기당 <style=cIsDamage>360%의 피해</style>를 줍니다.",
         "SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_NAME": "분기 사격",
-        "SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>기민함</style>. <style=cDeath>무력화</style>. <style=cIsUtility>충전</style>한 후, 최대 <style=cIsDamage>6회</style>의 <style=cIsDamage>4x70%의 피해</style>를 주는 폭발을 연사합니다. <style=cIsUtility>발사 횟수는 공격 속도에 따라 증가합니다</style>. \n<color=#d299ff>셉터: 추가로 {2}%의 피해를 주는 레이저를 최대 {0}개 발사합니다.</color>",
+        "SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Charge up</style>, then fire a barrage of up to <style=cIsDamage>6 blasts of 4x70%.</style>. <style=cIsUtility>The number of shots increases with attack speed</style>. \n<color=#d299ff>SCEPTER: Additionally fires up to {0} lasers which deal {2}% damage.</color>",
         "SS2_NEMCOMMANDO_SPECIAL_SCEPBOSS_NAME": "심판의 칼날",
         "SS2_NEMCOMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION": "<style=cIsDamage>도려내기</style>. <style=cIsUtility>충전</style>한 후, 앞으로 <style=cIsUtility>돌진</style>하여 최대 <style=cIsDamage>{0}회</style>의 파괴적인 연속 베기를 가하며, 각각 최대 <style=cIsDamage>{1}%의 피해</style>를 줍니다. <style=cIsUtility>베기 횟수는 공격 속도에 따라 증가합니다</style>. \n<color=#d299ff>셉터: 최대 충전 시, 잠시 사라졌다가 모든 타격을 한 번에 가합니다.</color>",
         "SS2_SKIN_NEMCOMMANDO_DEFAULT": "기본",
