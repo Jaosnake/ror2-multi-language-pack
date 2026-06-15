@@ -30,7 +30,7 @@
         "SS2_MIMIC_BODY_SUBTITLE": "O Mímico",
         "SS2_UNLOCKABLE_LOG_MIMIC": "Diário de bordo: Baú de segurança",
         "SS2_MIMIC_BODY_LORE": "\"Agora, eu gostaria de ver isso como uma experiência de aprendizado, considerando tudo. A biologia evolucionária tem um lugar curioso para o mimetismo, meu amigo — certas criaturas não procuram ser ameaçadoras ou convidativas por mérito próprio, mas sim por parecerem ser algo completamente diferente. Claro, a evolução ser aleatória significa que não é isso que estamos enfrentando —\"\n\n\"Também não é isso que estamos enfrentando porque —\"\n\n\"Não não, deixe-me terminar. Neste caso, temos um exemplo fascinante, não é? Uma máquina imitando outra máquina de uma forma tão animada, como forma de nos enganar para chegar perto — ora, é positivamente Wickleriano em design, não acha? Quem quer que tenha feito essa coisa realmente tinha dedicação, não acha?\"\n\n\"...Cara, ele só rouba coisas. Nada de especial nisso.\"\n\n\"A natureza é realmente linda, mesmo em um lugar como este.\"\n\n\"Cala a boca e vamos andando. Ugh, deus, por que eu tenho que ficar preso com esse cara?\"\n\n—Ecos de sinal, UES Contact Light",
-        "SS2_MIMIC_THEFT": "<style=cWorldEvent>{0} roubou {1} de {2}</color>",
+        "SS2_MIMIC_THEFT": "<style=cWorldEvent>{0} stole {2}'s {1}</color>",
         "SS2_HERO_BODY_NAME": "Sombra do Herói",
         "SS2_HERO_BODY_SUBTITLE": "Umbra do Baluarte",
         "SS2_BIGBROTHER_BODY_NAME": "Ultra Mithrix",

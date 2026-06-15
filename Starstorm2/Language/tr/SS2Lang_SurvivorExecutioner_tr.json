@@ -18,7 +18,7 @@
         "SS2_EXECUTIONER_SWINGAXE_NAME": "İyon Baltası",
         "SS2_EXECUTIONER_SWINGAXE_DESCRIPTION": "<style=cIsDamage>% hasar için baltanızı sallayın</style>. <style=cIsUtility>EHer İkincil yük, kalkanın maksimum sağlığının %4'ünü sağlar</style>.",
         "SS2_EXECUTIONER_IONGUN_NAME": "İyon Patlaması",
-        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "Her biri <style=cIsDamage>380% hasar</style> veren 5 mermiyi yaylım ateşi olarak boşaltın. <style=cIsUtility>Düşmanın gücüne bağlı olarak, öldürdüğünüz her düşman için mermileri yeniden stoklar</style>.",
+        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>Recharging.</style> Fire a barrage of ionized bullets, dealing <style=cIsDamage>{0}% damage</style> each. <style=cIsUtility>Up to 5 charges are fired at a time</style>.",
         "SS2_EXECUTIONER_IONBLAST_NAME": "İyon Patlaması",
         "SS2_EXECUTIONER_IONBLAST_DESCRIPTION": "<style=cIsDamage>% hasar</style> için ham iyon enerjisi patlaması yapın. Aynı anda birden fazla şarj kullanılarak <style=cIsUtility>şarj edilebilir</style>. <style=cIsUtility>Gücüne bağlı olarak öldürdüğünüz her düşman için şarjı yeniden stoklar</style>.",
         "SS2_EXECUTIONER_DASH_NAME": "Kalabalık Dağılımı",

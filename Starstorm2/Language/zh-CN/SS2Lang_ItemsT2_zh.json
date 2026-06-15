@@ -1,7 +1,7 @@
 {
     "strings": {
         "SS2_ITEM_CRYPTICSOURCE_NAME": "秘源棱晶",
-        "SS2_ITEM_CRYPTICSOURCE_DESC": "结束奔跑时,释放<style=cIsDamage>能量爆发</style>,对<style=cIsDamage>{0}米</style><style=cStack>(每层+{1}米)</style>范围内的敌人造成<style=cIsDamage>{2}%</style><style=cStack>(每层+{2}%)</style>基础伤害。",
+        "SS2_ITEM_CRYPTICSOURCE_DESC": "结束奔跑时,释放<style=cIsDamage>能量爆发</style>,对<style=cIsDamage>15米</style><style=cStack>(每层+3米)</style>范围内的敌人造成<style=cIsDamage>250%</style><style=cStack>(每层+250%)</style>基础伤害。",
         "SS2_ITEM_CRYPTICSOURCE_PICKUP": "奔跑会积蓄伤害性能量爆发。",
         "SS2_ITEM_FIELDACCELERATOR_NAME": "力场加速器",
         "SS2_ITEM_FIELDACCELERATOR_DESC": "击败传送器首领后，传送器半径提高20%（每层+20%），击杀敌人获得+1%传送器充能。",
@@ -17,10 +17,10 @@
         "SS2_ITEM_JETBOOTS_PICKUP": "获得爆炸性的跳跃能力!",
         "SS2_ITEM_JETBOOTS_LORE": "火神金属作坊尸检记录\n\n位置:火星,火神金属材料作坊\n位置状态:内部完全被火摧毁。\n伤亡:作坊主。\n现场报告\n\n我以为火灾的原因是熔炉或是烟头。就像其他的案例一样。作坊中有一堆旧的剑、盔甲、农具之类的器件。死者似乎是一个手工爱好者,后场有一些比较不常见的东西。\n\n其中不少是电动机和金属。他最初似乎在练习制作钟表。但他很快转向了需要发动机的项目,如老式割草机、摩托车和发电机。他最终开始研究推进系统。小型飞机、直升机、锈迹斑斑的老式喷气背包。似乎他还有未完工的项目,我们找到了这个装置。\n\n他绝对是有点天赋,他正在从零开始造一双火箭靴。火箭靴这种产品从未规模化生产过,在相同推力的情况下喷气背包往往更稳定更可靠。他应该也意识到了这点,这个靴子被造的格外坚固以提供保护,他也试图增加推力提高效率。结果就是能量累积,从他的脚下喷了出来。他的创造力(和欠缺的安全意识)让他送了命。\n\n周围地区没有受到影响,所以该建筑预计很快就能被翻修。靴子已经收缴送去研究并报废。作坊内的其余物品已经寄送给受害者的家属。\n\n我的报告到此结束。\n",
         "SS2_ITEM_LIGHTNINGONKILL_NAME": "Man-o'-War",
-        "SS2_ITEM_LIGHTNINGONKILL_DESC": "击杀敌人后,对<style=cIsDamage>{3}米</style><style=cStack>(每层+{4}米)</style>范围内最多<style=cIsDamage>{1}</style><style=cStack>(每层+{2})</style>个目标释放<style=cIsDamage>{0}%基础伤害</style>的<style=cIsDamage>电击</style>。",
+        "SS2_ITEM_LIGHTNINGONKILL_DESC": "On killing an enemy, create an <style=cIsDamage>electric discharge</style> for <style=cIsDamage>200% base damage</style> on up to <style=cIsDamage>3</style> <style=cStack>(+2 per stack)</style> targets within <style=cIsDamage>20m</style> <style=cStack>(+4m per stack)</style> meters.",
         "SS2_ITEM_LIGHTNINGONKILL_PICKUP": "击杀敌人时释放电击。",
         "SS2_ITEM_LOWQUALITYSPEAKERS_NAME": "低质量音响",
-        "SS2_ITEM_LOWQUALITYSPEAKERS_DESC": "受到伤害时有几率<style=cIsDamage>眩晕</style><style=cIsDamage>{0}米</style><style=cStack>(每层+{1}米)</style>半径内的敌人。基础几率为<style=cIsDamage>10%</style>,并在<style=cIsHealth>生命值较低时</style>增加。",
+        "SS2_ITEM_LOWQUALITYSPEAKERS_DESC": "受到伤害时有几率<style=cIsDamage>眩晕</style><style=cIsDamage>12米</style><style=cStack>(每层+6米)</style>半径内的敌人。基础几率为<style=cIsDamage>10%</style>,并在<style=cIsHealth>生命值较低时</style>增加。",
         "SS2_ITEM_LOWQUALITYSPEAKERS_PICKUP": "受到伤害时眩晕附近的敌人。",
         "SS2_ITEM_LOWQUALITYSPEAKERS_LORE": "退件:A-AMP 25瓦多功能音响\n单号:629********\n预计送达时间:2055年3月14日\n运送方式:优先\n送货地址:地球,双子城,安塞姆巷444号\n退货原因:\n\n抱歉打扰您,伙计。 但当我打开包装并插上电源测试时,音频听起来有些……模糊?有噪音?难以形容。 我猜它可能是在运输过程中受到了损坏, 幸好我买了保修。\n\n退款:\n退货:X",
         "SS2_ITEM_STRANGECAN_NAME": "奇怪的罐头",

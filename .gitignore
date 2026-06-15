@@ -1,5 +1,6 @@
 # Temp files
 *.pyc
+*.py
 __pycache__/
 .DS_Store
 Thumbs.db
@@ -13,6 +14,8 @@ tools/
 tests/
 uploaded/
 SESSION_HISTORY.md
+HANDOVER.md
+placeholder_audit*.md
 audit.py
 generate_readme.py
 list_locales.py
