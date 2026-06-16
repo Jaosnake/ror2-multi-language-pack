@@ -1,0 +1,21 @@
+{
+    "strings": {
+        "KEYWORD_POISON": "<style=cKeywordName>@</style>@H2@@ Fac damnum par <style=cIsDamage>10%</style> eorum maximam salutem supra 10 *. <i> Venenum non potest occidere inimicos. </i></style>",
+        "KEYWORD_RAPID_REGEN": "<style=cKeywordName>@@@@@@@ H 2@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@_5_5 Maxima quam de tua sanitate maxima.",
+        "KEYWORD_AGILE": "<style=cKeywordName>Agile</style>@H2@@ In arte sprinting adhiberi potest. </style>",
+        "KEYWORD_PERCENT_HP": "<style=cKeywordName>X%H1@@<style=cSub>@@@@@<style=cIsHealth>@@@@@@@@@@X____%mm% X%@</style>.</style>",
+        "KEYWORD_SONIC_BOOM": "<style=cKeywordName>Sonic Boom</style>@H2@@<style=cIsUtility> Pellit</style> Omnes inimicos ferientes. <style=cIsUtility> pellat te retro:</style> si aerium es.</style>.",
+        "KEYWORD_WEAK": "<style=cKeywordName>WAKEN</style>@H2@@ Reduce motum celeritatem ac damnum per <style=cIsDamage>40%</style>. Reducere arma ab <style=cIsDamage>20</style>.</style> .",
+        "KEYWORD_HEAVY": "<style=cKeywordName>Heavy</style><style=cSub> Disciplina plus damni facit quam citius movearis.</style>",
+        "KEYWORD_FREEZING": "<style=cKeywordName> Congelo hostes in loco. Vndc hostes illico interficiuntur <style=cIsHealth>@@@@@@@@@@@@@@@@@@@@@@@@@=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@>>",
+        "KEYWORD_STUNNING": "<style=cKeywordName>STUNNNING</style>@H2@@ Interrumpit inimicos et breviter eos stupefacit.",
+        "KEYWORD_EXPOSE": "<style=cKeywordName>@@</style><style=cSub>Hitting Expositae inimicos omnem sollertiam cooldowns in <style=cIsUtility>1.0s</style>@@<style=cIsDamage>@@@@@<style=cIsDamage>@@@@@@@@@@@______=_ faciendum quam etiam adiectis damnum</style>.",
+        "KEYWORD_SHOCKING": "<style=cKeywordName> Improbus</style>@H2@@ Interrumpit inimicos ac stupefacit. Stupor tollitur si scopus plus quam <style=cIsHealth>10%</style> eorum maximam valetudinem in damnis accipit.",
+        "KEYWORD_SLAYER": "<style=cKeywordName>Slayer</style>@H2@@@@@@@ H3@@3x@@H4@ pernicies contra inimicos salutis humiles.</style>",
+        "KEYWORD_SUPERBLEED": "<style=cKeywordName>Hemorrhage</style>@H2@@ Fac <style=cIsDamage>MM%</style> Turpe damnum super 15*. @@h5@@H5@H7@@@@@@@@ H",
+        "KEYWORD_IGNITE": "<style=cKeywordName>Ignite</style>@H2@@ Fac additamentum <style=cIsDamage>+50%</style> Totum damnum in tempore.",
+        "KEYWORD_WEAKPOINT": "<style=cKeywordName> Infirmum punctum</style>@H2@@ Sectiones inimicorum notantur ac continentes <style=cIsDamage> Infirmis Points</style>. Hitting a <style=cIsDamage> infirmam Point</style> spondet a <style=cIsDamage>Critical Strike</style>.",
+        "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Active Reload</style><style=cSub> Reload tuum railgun cum incendendo. A <style=cIsDamage> perfectum reload</style>@@@@@@@@@@@@@@@@@@@Paleianum.acendum._",
+        "KEYWORD_VOIDCORRUPTION": "<style=cKeywordName> Corruption</style><style=cSub> Lucrum Corruptionis damnum accipiendo, Ictus Criticis adhibendis, vel Items Vacuas tenentes. Sanando minuere corruptionem.</style>"
+    }
+}

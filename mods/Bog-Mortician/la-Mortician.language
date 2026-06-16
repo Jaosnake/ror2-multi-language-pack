@@ -1,0 +1,26 @@
+{
+    "la": {
+        "BOG_MORRIS_BODY_NAME": "Pollinctor",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Pollinctor est necromanticus comminus tardus sed firmus, qui exercitu suo mortuorum vivorum territorium regere excellit.",
+        "BOG_MORRIS_BODY_SUBTITLE": "Mortuus Vivus",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..atque ita discessit, officio suo lugubri nondum completo.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..atque ita evanuit, tandem pace quam tantum cupiverat donatus.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Defalta",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Magisterium",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Oblatio Animae",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghuli <style=cIsUtility>effectus suos mortis activant</style> cum occiduntur.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Ictus Palae",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Palam tuam vibra pro <style=cIsDamage>800% damno</style>. Ghulos et lapides sepulcrales pala feriens <style=cIsUtility>iactum</style> causat pro <style=cIsDamage>350% damno</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Mortuos Excita",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Vinculum Animae</style>. Ghulum in terra ante te evoca. Ghuli mordent pro <style=cIsDamage>150% damno</style> et bilem <style=cIsDamage>pestilentem</style> spuunt pro <style=cIsDamage>100% damno</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrificium",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "Ghulum destinatum <style=cIsHealth>displode</style> pro <style=cIsDamage>700% damno</style> et <style=cIsHealing>15% maximae valetudinis tuae sana</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Lapis Sepulcralis",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Erige Lapidem Sepulcralem qui ghulum singulis <style=cIsUtility>10 secundis</style> generat. Quotiens ghulus occiditur, sepulcrum <style=cIsDamage>animam ultricem</style> <style=cIsUtility>explosivam</style> generat quae hostem propinquum pro <style=cIsDamage>350% damno</style> petit.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pollinctor: Magisterium",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Ut Pollinctor, ludum vince aut te oblitera in Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pollinctor: Magisterium",
+        "BOG_GHOUL_BODY_NAME": "Ghulus",
+        "BOG_TOMBSTONE_BODY_NAME": "Lapis Sepulcralis"
+    }
+}

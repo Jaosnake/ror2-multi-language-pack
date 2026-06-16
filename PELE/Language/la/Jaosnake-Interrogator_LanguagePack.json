@@ -1,0 +1,24 @@
+{
+    "strings":  {
+                    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME":  "Rixa",
+                    "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION":  "Baculum tuum ante te vibra, 320% damnum faciens. Si impetus fallit, tu ipse 90% damnum pateris.",
+                    "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME":  "Damnare",
+                    "MASTERY_SKIN_NAME":  "Interrogator: Peritus",
+                    "KENKO_INTERROGATOR_OUTRO_FLAVOR":  "..atque ita discessit, avide plus \"iustitiae\" impositurus.",
+                    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME":  "Damnare (Scepter)",
+                    "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION":  "Reum hostem signa et eum per 10s duella. Hoc tempore, omne externum damnum negatur, etiam tuum. Ictus tuus primarius te iam ferire non potest, sed continuo Rei damni bonificat.",
+                    "KENKO_INTERROGATOR_PRIMARY_SWING_NAME":  "Ictus Saevus",
+                    "KENKO_INTERROGATOR_DESCRIPTION":  "Interrogator in dolore aliorum gaudet. Ne nimium gaudeas socios laedendo... vel gaude.\u003c/i\u003e",
+                    "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION":  "Ante te impelle 390% damnum faciens et Reatum in scopos ictus applicans.",
+                    "KENKO_INTERROGATOR_PASSIVE_NAME":  "Tormenta",
+                    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION":  "Cultrum iace qui 450% damnum facit. Si culter scopum necat, Haemorrhagiam et Pressuram in omnes in area applicat.",
+                    "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION":  "Interrogator socios et hostes ferire et ab eis feriri potest. Percussores qui Interrogatorem feriunt permanenter ut Rei signantur. Plus 50 damni basici pro quoque hoste Reo facit.",
+                    "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME":  "Falsifica",
+                    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION":  "Reum hostem signa et eum per 14s duella. Hoc tempore, omne externum damnum negatur. Ictus tuus primarius te iam ferire non potest, sed Rei damni bonificatum duplici efficacia aedificat.",
+                    "KENKO_INTERROGATOR_MASTERY_SKIN_NAME":  "Interrogator: Peritus",
+                    "KENKO_INTERROGATOR_NAME":  "Interrogator",
+                    "KENKO_INTERROGATOR_OUTRO_FAILURE":  "..atque ita evanuit, pro sceleribus suis punitus.",
+                    "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME":  "Defalta",
+                    "KENKO_INTERROGATOR_SUBTITLE":  "Peritus Tormentorum"
+                }
+}

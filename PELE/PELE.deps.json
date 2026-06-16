@@ -1,0 +1,35 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "PELE/1.0.0": {
+        "dependencies": {
+          "UnityEngine.Modules": "2019.4.26"
+        },
+        "runtime": {
+          "PELE.dll": {}
+        }
+      },
+      "UnityEngine.Modules/2019.4.26": {}
+    }
+  },
+  "libraries": {
+    "PELE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine.Modules/2019.4.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2d73AOFATaE0xsSY4qsK65CwT55e7g1myM7C5LMTdVRM57nAWpLWv8x/39uNHYjJQBnXqsQwsadk2H0xsyBsKA==",
+      "path": "unityengine.modules/2019.4.26",
+      "hashPath": "unityengine.modules.2019.4.26.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "strings":  {
+                    "CHAOS__M2":  "Egiszo",
+                    "CHAOS__SPEC":  "Makulita Fajroglob",
+                    "CHAOSANGELOID_CHAOS_NAME":  "Kaoso",
+                    "CHAOS__SPEC_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eEkbruligi\u003c/style\u003e. Sargxu flaman globon gxis \u003cstyle=cIsUtility\u003e10s\u003c/style\u003e, kiu donas \u003cstyle=cIsDamage\u003e400%-2000% damagxon\u003c/style\u003e kaj bruligas la teron donante \u003cstyle=cIsDamage\u003e10%\u003c/style\u003e de la damagxo sekunde. Sargxante almenaux \u003cstyle=cIsUtility\u003e5s\u003c/style\u003e igas Kaoso liberigi mortradion anstatauxe, donante \u003cstyle=cIsDamage\u003e2000% damagxon\u003c/style\u003e sekunde. Sargxante pli ol \u003cstyle=cIsUtility\u003e5s\u003c/style\u003e pliigas la dauron de la mortradia.",
+                    "CHAOS__F_DESCRIPTION":  "Auxtomate rexigas lastatempe mortigitan malamikon ene de 25m kiel miniono. Dauxras 3 minutojn.",
+                    "CHAOS__M1":  "Makulitaj Flamoj",
+                    "CHAOS__UTIL":  "Kimero",
+                    "CHAOS__M2_DESCRIPTION":  "Protektu kontraux cxia venanta damagxo.",
+                    "CHAOSANGELOID_CHAOS_FAIL":  "..kaj sxi malaperis, sopirante al pli da amo.",
+                    "CHAOS__F":  "Miniono, Levigxu!",
+                    "CHAOS__PASSIVE_DESCRIPTION":  "Skanas proksimajn estajxojn, elstarigante ilian lokon. Majstroj estas cxiam elstarigitaj. Elstarigitaj malamikoj ricevas \u003cstyle=cIsDamage\u003e20%\u003c/style\u003e pli da damagxo de Majstroj.",
+                    "CHAOS__M1_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eEkbruligi\u003c/style\u003e. Jetu fajroglobojn en rapida sinsekvo por \u003cstyle=cIsDamage\u003e220% damagxo\u003c/style\u003e.",
+                    "CHAOSANGELOID_CHAOS_OUTRO":  "..kaj sxi foriris, alia mondo perdita al amo.",
+                    "CHAOS__PASSIVE_NAME":  "Angeloid Tipo 2",
+                    "CHAOS__UTIL_DESCRIPTION":  "Rapide kuregi antauxen.",
+                    "CHAOSANGELOID_CHAOS_LORE":  "Deziri estas io mirinda—gxi estas cxiuj viaj esperoj kaj revoj kombinataj en unu penson.\nMultaj deziras ricxecon, trezorojn.\nAliaj deziras sanon.\nIuj deziras amon.\n\nSed kio se la deziro, kiun vi faras, igxas via pereo?\n\nKiam ajn vi amas ion, la momento kiam gxi vundas vin aux vi perdas gxin, gxi igxas doloro.\nDoloro ne cxesas. Gxi restas. Do… cxu doloro estas amo?\n\nMi pensas ke jes. Cxiu pasxo kiun mi faris en mia vojagxo kondukis al amo—tiom da amo.\nMi makulis la mondon per amo.\n\nMi deziras ke cxiu povus sperti gxin—cxiu planedo, ne nur la Tero, ne nur Synapse, ne nur mia Majstro.\n\nCxu vi akompos min en mia vojagxo?\nCxu vi helpos min makuli la mondon rugxe… kaj auxdi ilin tremi pro gxojo?\n\nLasu min ludi kun miaj pupoj denove.\nLiberigu min.\nIgxu mia Majstro.",
+                    "CHAOSBODY_DEFAULT_SKIN_NAME":  "Defaulta",
+                    "CHAOSANGELOID_CHAOS_DESCRIPTION":  " \u003cstyle=cSub\u003e\n\n\u003c ! \u003e \n\n\u003c ! \u003e \n\n\u003c ! \u003e \n\n\u003c ! \u003e \n\n",
+                    "CHAOSANGELOID_CHAOS_SUBTITLE":  "Angeloid Tipo Epsilono"
+                }
+}

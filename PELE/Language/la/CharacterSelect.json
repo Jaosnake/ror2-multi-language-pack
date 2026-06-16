@@ -1,0 +1,20 @@
+{
+    "strings": {
+        "CHARACTER_SELECT_TITLE": "Mores Selecta",
+        "CHARACTER_SELECT_SELECT_SURVIVOR": "Superstes eligere",
+        "SURVIVOR_OVERVIEW": "Overview",
+        "SURVIVOR_SKILLS": "Solers",
+        "SURVIVOR_LOADOUT": "Loadout",
+        "CHARACTER_SELECT_READY": "Paratus",
+        "CHARACTER_SELECT_LOCKED_IN": "Clausa in",
+        "LOADOUT_SKILL_PRIMARY": "Primarium",
+        "LOADOUT_SKILL_SECONDARY": "secundarium",
+        "LOADOUT_SKILL_UTILITY": "utilitas",
+        "LOADOUT_SKILL_SPECIAL": "Specialis",
+        "LOADOUT_SKILL_MISC": "Misc",
+        "LOADOUT_SKIN": "Cutis",
+        "CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT": "{0}\n\n{1}",
+        "RANDOM_VOTE_NAME": "Randomize",
+        "RANDOM_VOTE_DESCRIPTION": "Votum pro electionibus temere."
+    }
+}

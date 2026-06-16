@@ -1,0 +1,16 @@
+{
+    "eo": {
+        "KENKO_INTERROGATOR_NAME": "Interrogator",
+        "KENKO_INTERROGATOR_SUBTITLE": "Specialisto de Turmentado",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Turmentado",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "La Interrogator povas frapi kaj esti frapata de aliancanoj kaj malamikoj. Atakantoj kiuj frapas la Interrogator estas permanente markitaj kiel Kulpaj. Faras 50 pli da bazo-damagxo por cxiu Kulpa malamiko.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Svingu vian bastonon antauxen, kauxzante 320% damagxon. Maltrafi la atakon kauxzas ke vi anstatauxe suferas 90% damagxon.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Jxetu haketilon kiu kauxzas 450% damagxon. Se la haketilo mortigas la celon, aplikas Hemoraxion kaj Premon sur cxiujn en la areo.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Impulsu antauxen kauxzante 390% damagxon kaj aplikante Kulpon al trafitaj celoj.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Kondamni",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Marku Kulpan malamikon kaj dvobatigu ilin dum 10s. Dum tiu periodo, cxia ekstera damagxo estas neata, inkluzive de via propra. Via primara atako ne povas plu frapi vin, sed kontinue konstruas la Kulpan damagxo-bonuson.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Kondamni (Scepter)",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Marku Kulpan malamikon kaj dvobatigu ilin dum 14s. Dum tiu periodo, cxia ekstera damagxo estas neata. Via primara atako ne povas plu frapi vin, sed konstruas la Kulpan damagxo-bonuson per duobla efikeco.",
+        "MASTERY_SKIN_NAME": "Interrogator: Specialisto"
+    }
+}

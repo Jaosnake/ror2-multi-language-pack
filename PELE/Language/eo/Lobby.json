@@ -1,0 +1,8 @@
+{
+    "strings": {
+        "LOBBY_DEFAULT_NAME_FORMAT": "Vestiblo de {0}",
+        "LOBBY_CONTROL_PANEL_NAME": "Vestiblo",
+        "LOBBY_CONTROL_PANEL_LEAVE": "Forlasu Lobby",
+        "LOBBY_CONTROL_PANEL_CREATE": "Krei Vestiblon"
+    }
+}

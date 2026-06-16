@@ -1,0 +1,25 @@
+{
+    "strings":  {
+                    "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION":  "Телепортуйтеся до вибраного або найближчого \u003cstyle=cIsUtility\u003eповітряного\u003c/style\u003e ворога та швидко атакуйте, завдаючи \u003cstyle=cIsDamage\u003e2x250% + 800% шкоди\u003c/style\u003e. Отримайте бонусне \u003cstyle=cIsDamage\u003eпробиття броні\u003c/style\u003e на 6 секунд.\n\u003ccolor=#d299ff\u003eСКІПЕТР: \u003cstyle=cIsUtility\u003eСкиньте перезарядку вторинної навички\u003c/style\u003e. Вороги, вражені \u003ccolor=#FFBF66\u003eFirst Breath\u003c/color\u003e, можуть бути знову ціллю для \u003ccolor=#FFBF66\u003eSweeping Blade\u003c/color\u003e.\u003c/color\u003e",
+                    "KENKO_UNFORGIVEN_PASSIVE_NAME":  "Шлях Вітру",
+                    "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION":  "Рубайте перед собою, завдаючи \u003cstyle=cIsDamage\u003e240% шкоди\u003c/style\u003e.",
+                    "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION":  "Зробіть ривок до ворога, завдаючи \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e. Після кожного ривка наступний ривок завдасть додатково \u003cstyle=cIsDamage\u003e50% шкоди\u003c/style\u003e, до максимуму \u003cstyle=cIsDamage\u003e200% бонусної шкоди\u003c/style\u003e.",
+                    "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME":  "Альтернативний",
+                    "KENKO_UNFORGIVEN_DESCRIPTION":  "Мандрівник — це персонаж із низьким порогом входу та високою стелею майстерності, який може використовувати скасування анімацій для підтримки високого DPS.\u003ccolor=#CCD3E0\u003e",
+                    "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eШвидкий\u003c/style\u003e. Зробіть випад вперед, завдаючи \u003cstyle=cIsDamage\u003e260% шкоди\u003c/style\u003e. При влучанні отримайте заряд \u003ccolor=#FFBF66\u003eЗбору Бурі\u003c/color\u003e. При 2 зарядах ваш наступний \u003ccolor=#FFBF66\u003eSteel Tempest\u003c/color\u003e випустить торнадо, завдаючи \u003cstyle=cIsDamage\u003e400% шкоди\u003c/style\u003e.",
+                    "KENKO_UNFORGIVEN_LORE":  "Якщо ти помер від Ясуо, тебе переграли. Це означає, що він повинен був розрахувати (і виконати) бій точно за своїми специфікаціями, враховуючи твої кулдауни та свої, позицію обох лісників, хвилі міньйонів і загальне \u0027відчуття\u0027 лінії (здібність, яку потрібно відточувати роками, можливо десятиліттями того, що ти називаєш просто \u0027геймінгом\u0027). Справді, бути переможеним Ясуо — це усвідомити, що ти знайшов того, хто кращий за тебе, і як гравець, і як людина. Твоя мужність підвела тебе, але гравець за Ясуо — це тверда сталь — тверда, холодна, надійна — і поки він забезпечує першу кров, а ти тривожно чекаєш голосування про капітуляцію, його розум все ще працює на повну потужність, готуючи стратегії для майже нескінченної кількості можливостей. Я забираю свої LP, подбай про те, щоб наступного разу правильно зробити бани.",
+                    "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME":  "Перший Подих",
+                    "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME":  "Розмашистий Клинок",
+                    "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME":  "Швидкі Удари",
+                    "KENKO_UNFORGIVEN_OUTRO_FAILURE":  "..і так він зник, 0/10.",
+                    "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME":  "Сталевий Шторм",
+                    "KENKO_UNFORGIVEN_OUTRO_FLAVOR":  "..і так він пішов, 10/0.",
+                    "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION":  "Телепортуйтеся до вибраного або найближчого \u003cstyle=cIsUtility\u003eповітряного\u003c/style\u003e ворога та швидко атакуйте, завдаючи \u003cstyle=cIsDamage\u003e2x250% + 800% шкоди\u003c/style\u003e. Отримайте бонусне \u003cstyle=cIsDamage\u003eпробиття броні\u003c/style\u003e на 6 секунд.",
+                    "KENKO_UNFORGIVEN_NAME":  "Мандрівник",
+                    "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION":  "Як Мандрівник, пройдіть гру або знищіть на Monsoon.",
+                    "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION":  "Накопичуйте пасивний \u003cstyle=cIsHealing\u003eщит\u003c/style\u003e під час руху. При ударі на максимальних зарядах \u003cstyle=cIsHealing\u003eщит\u003c/style\u003e розбивається і надає \u003cstyle=cIsHealing\u003eбар\u0027єр\u003c/style\u003e. \u003cstyle=cIsDamage\u003eШанс критичного удару\u003c/style\u003e збільшується в \u003cstyle=cIsDamage\u003e1.5 рази\u003c/style\u003e.",
+                    "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME":  "Останній Подих",
+                    "KENKO_UNFORGIVEN_SUBTITLE":  "Непрощений",
+                    "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME":  "Wanderer: Mastery"
+                }
+}

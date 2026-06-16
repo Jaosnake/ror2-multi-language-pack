@@ -1,0 +1,30 @@
+{
+    "strings":  {
+                    "KENKO_BANSHEE_UTILITY_THRUST_NAME":  "Двигуни HDN",
+                    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION":  "Пройдіть етап, не торкаючись землі більше одного разу.",
+                    "KENKO_BANSHEE_PRIMARY_WISP_NAME":  "Ethereal Wisp",
+                    "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION":  "Кидайте гранату, яка створює нестабільну чорну діру. після\u003cstyle=cIsUtility\u003e2\u003c/style\u003eсекунд, чорна діра згортається\u003cstyle=cIsDamage\u003e700% шкоди\u003c/style\u003e.",
+                    "KENKO_BANSHEE_NAME":  "Банші",
+                    "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_DESCRIPTION":  "\u003ccolor=#ba8fff\u003eОмен\u003c/color\u003e. Коса лінія спереду для\u003cstyle=cIsDamage\u003e250% шкоди\u003c/style\u003e. Кожен 3-й слеш штовхає вас вперед і роздає в повітрі\u003cstyle=cIsDamage\u003e300% шкоди\u003c/style\u003e.",
+                    "KENKO_BANSHEE_SECONDARY_DIVE_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eАеродинамічний\u003c/style\u003e. Зануртеся у справу\u003cstyle=cIsDamage\u003e250% шкоди\u003c/style\u003eпри ударі.\u003cstyle=cIsHealth\u003eСпоживає\u003c/style\u003eвсе\u003cstyle=cIsUtility\u003eмайстерність\u003c/style\u003eзаряди зростають\u003cstyle=cIsDamage\u003eзавдана шкода\u003c/style\u003eза кожне спожите.",
+                    "KENKO_BANSHEE_PASSIVE_DESCRIPTION":  "Утримуючи клавішу «Стрибка», Банші зависає в повітрі. Під час наведення вашого\u003cstyle=cIsUtility\u003eПервинний навик\u003c/style\u003eнатомість стріляє віхтером, роздаючи\u003cstyle=cIsDamage\u003e200% шкоди\u003c/style\u003e.",
+                    "KENKO_BANSHEE_UTILITY_THRUST_DESCRIPTION":  "\u003ccolor=#ba8fff\u003eОмен\u003c/color\u003e. Тире в напрямку.",
+                    "KENKO_BANSHEE_DESCRIPTION":  "Banshee — це людина, що виживає в повітрі, яка відмінно вміє брати участь у ближньому бою та виходити з нього.\u003ccolor=#CCD3E0\u003e\n\n\u003c ! \u003eATK Umbrella повільно розмахується, і його не можна використовувати під час зависання, але це чудовий спосіб піднятися в повітря.\n\n\u003c ! \u003eСтворення запасів пікіруючої бомби перед її розв\u0027язуванням може завдати нищівної шкоди в її приємній точці.\n\n\u003c ! \u003eДвигуни HDN можуть значно підвищити рухливість Банші в повітрі - використовуйте їх економно, щоб ухилятися від смертоносних снарядів противника.\n\n\u003c ! \u003eГраната CAL чудово згруповує ворогів. Спробуйте націлити пікіруючу бомбу в центр, щоб отримати максимальну ефективність!\n\n",
+                    "KENKO_BANSHEE_SPECIAL_CALAMITAS_NAME":  "Граната CAL",
+                    "KENKO_BANSHEE_LORE":  "Оскільки інструменти стають зброєю, нові сили з\u0027являються в межах суворої ієрархії The House Beyonds, щоб «експериментувати» зі своїми новими технологіями. Серед цих сил Banshees домінують у повітряній зброї зі своїми FLT Umbrellas. Його руйнівні здібності нескінченні завдяки здатності викликати огоньки та руйнувати гравітацію. У майбутньому The House Beyond сподівається вдосконалити принципи дизайну, щоб підняти можливості своєї технології на Місяць.",
+                    "KENKO_BANSHEE_PASSIVE_NAME":  "Парасолька FLT",
+                    "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_NAME":  "Парасолька THRST",
+                    "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME":  "I\u0027m Mary Poppins Bitch!",
+                    "KENKO_BANSHEE_SUBTITLE":  "Провісник потойбічного дому",
+                    "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_NAME":  "ATK Umbrella",
+                    "KENKO_BANSHEE_OUTRO_FLAVOR":  "..і так вона пішла, її шепіт лунає крізь вічність.",
+                    "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_DESCRIPTION":  "\u003ccolor=#ba8fff\u003eОмен\u003c/color\u003e. Коса лінія спереду для\u003cstyle=cIsDamage\u003e250% шкоди\u003c/style\u003e. Кожен 3-й слеш штовхає вас у повітрі\u003cstyle=cIsDamage\u003e300% шкоди\u003c/style\u003e.",
+                    "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION":  "Киньте 3 гранати, які створюють нестабільні чорні діри.\u003c/style\u003e. після\u003cstyle=cIsUtility\u003e5\u003c/style\u003eсекунд, чорні діри руйнуються\u003cstyle=cIsDamage\u003e700% шкоди\u003c/style\u003e.",
+                    "KENKO_BANSHEE_UTILITY_SUPERTHRUST_NAME":  "EXP Рушій",
+                    "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME":  "Каламітас",
+                    "KENKO_BANSHEE_OUTRO_FAILURE":  "..і так вона зникла, охопивши оглушливу тишу.",
+                    "KENKO_BANSHEE_PRIMARY_WISP_DESCRIPTION":  "Стріляє вогнем для\u003cstyle=cIsDamage\u003e200% шкоди\u003c/style\u003e.",
+                    "KENKO_BANSHEE_UTILITY_SUPERTHRUST_DESCRIPTION":  "\u003ccolor=#ba8fff\u003eОмен\u003c/color\u003e. Тире в напрямку.\u003ccolor=#ba8fff\u003eОмен\u003c/color\u003eактивує додаткову\u003cstyle=cIsUtility\u003e4\u003c/style\u003eразів.",
+                    "KENKO_BANSHEE_SECONDARY_DIVE_NAME":  "пікіруюча бомба"
+                }
+}

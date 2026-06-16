@@ -1,0 +1,16 @@
+{
+    "strings": {
+        "DIFFICULTY_BAR_0": "Tre Facila",
+        "DIFFICULTY_BAR_1": "Facila",
+        "DIFFICULTY_BAR_2": "Meza",
+        "DIFFICULTY_BAR_3": "Malfacile",
+        "DIFFICULTY_BAR_4": "Tre Malmola",
+        "DIFFICULTY_BAR_5": "Freneza",
+        "DIFFICULTY_BAR_6": "Neeble",
+        "DIFFICULTY_BAR_7": "MI VIDAS VIN",
+        "DIFFICULTY_BAR_8": "MI VENAS POR VI",
+        "DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+        "STAGE_COUNT_FORMAT": "<style=cSub>Stage</style> {0}",
+        "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Lv.</style> {0}"
+    }
+}

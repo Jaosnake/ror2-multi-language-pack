@@ -1,0 +1,26 @@
+{
+    "eo": {
+        "BOG_DEPUTY_BODY_NAME": "La Deputito",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "La Deputito estas hiperagresema rapidodemono, kiu disdonas justicon per siaj duopaj revolveroj kaj mortigaj piedbatoj.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Fulmrapida Justico",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..kaj tiel sxi foriris, al la sono de fragora aplaudo.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..kaj tiel sxi malaperis, sxia spektaklo fine finigxinta.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Defauxlta",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Majstreco",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Senlaca Persekuto",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "La Deputito povas sprinti en ajna direkto. Trafi malamikojn per sxiaj kapabloj donas kumulebla<style=cIsUtility>movrapidecan</style> plifortigon.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Certa Pafo",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Pafu per mezdistancaj revolveroj por <style=cIsDamage>150% da damagxo</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Sxnurpafilo",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Jxetu du revolverojn. Cxiu revolvero pafos proksiman malamikon por <style=cIsDamage>6x100% da damagxo</style>, kaj poste eksplodos por <style=cIsDamage>300% da damagxo</style>.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Falanta Stelo",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Stupore</style>. Saltu antauxen kaj pafu malamikon sub vi por <style=cIsDamage>4x150% da damagxo</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Krani-Rompilo",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Peza</style>. <style=cIsUtility>Saltataku</style> kaj resaltu de malamiko, kauxzante <style=cIsDamage>800% da damagxo</style>. <style=cIsUtility>Mortigoj restarigas la resxargon de via lerteca kapablo</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Kuglo-Paradizo",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Saltu alte en la aeron kaj furioze pafu kuglojn malsupren, cxiu kauxzante <style=cIsDamage>150% da damagxo</style>. La nombro de pafoj skaligxas kun atakrapideco.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "La Deputito: Majstreco",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Kiel La Deputito, venku la ludon aux forvisxu vin en Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "La Deputito: Majstreco"
+    }
+}

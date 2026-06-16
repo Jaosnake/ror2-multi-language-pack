@@ -1,0 +1,8 @@
+{
+    "strings": {
+        "LOBBY_DEFAULT_NAME_FORMAT": "Лобі {0}",
+        "LOBBY_CONTROL_PANEL_NAME": "Вестибюль",
+        "LOBBY_CONTROL_PANEL_LEAVE": "Вийти з лобі",
+        "LOBBY_CONTROL_PANEL_CREATE": "Створити лобі"
+    }
+}

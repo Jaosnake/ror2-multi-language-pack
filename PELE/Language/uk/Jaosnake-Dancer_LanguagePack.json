@@ -1,0 +1,30 @@
+{
+    "strings":  {
+                    "KEYWORD_DANCER_RIBBON":  "\u003cstyle=cKeywordName\u003eTape\u003c/style\u003e\u003cstyle=cSub\u003eЗаписані вороги стікають кров’ю, завдаючи \u003cstyle=cIsDamage\u003e50% шкоди за секунду\u003c/style\u003e і не можуть діяти.",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME":  "Вирізати",
+                    "PRIMARY_SLASH2_DESCRIPTION":  "Атака ближнього бою з ефектами залежно від вашої мети. (Наведіть курсор, щоб дізнатися більше)",
+                    "NDP_DANCER_BODY_NAME":  "Танцівниця",
+                    "SPECIAL_RIBBON_LOCK_DESCRIPTION":  "Приклейте скотч до ворога, не дозволяючи йому діяти та викликати кровотечу.",
+                    "NDP_DANCER_GOLD_SKIN_NAME":  "Золотий",
+                    "NDP_DANCER_BODY_DEFAULT_SKIN_NAME":  "За замовчуванням",
+                    "PRIMARY_SLASH_NAME":  "Слеш",
+                    "UTILITY_PULL_DESCRIPTION":  "Тягніть ворогів до себе.",
+                    "UTILITY_PULL_NAME":  "Потягнути",
+                    "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION":  "Тягніть ворогів до себе.\u003c/i\u003e",
+                    "NDP_DANCER_BODY_SUBTITLE":  "Смертельний танець",
+                    "KEYWORD_DANCER_DOWNTILT":  "\u003cstyle=cKeywordName\u003eНахил вниз\u003c/style\u003e\u003cstyle=cSub\u003eНаземний вхід, націлитися вниз. Запускайте ворогів угору та завдавайте \u003cstyle=cIsDamage\u003e200% шкоди\u003c/style\u003e.",
+                    "PRIMARY_SLASH_DESCRIPTION":  "Атака ближнього бою з ефектами залежно від вашої мети. (Наведіть курсор, щоб дізнатися більше)",
+                    "NDP_DANCER_BODY_PASSIVE_DESCRIPTION":  "Вороги зі стрічкою стікають кров\u0027ю, завдаючи 50% шкоди за секунду, і не можуть діяти.",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH_NAME":  "Слеш",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION":  "Атака ближнього бою з ефектами залежно від вашої мети. (Наведіть курсор, щоб дізнатися більше)\u003c/i\u003e",
+                    "KEYWORD_DANCER_JAB":  "\u003cstyle=cKeywordName\u003eJab\u003c/style\u003e\u003cstyle=cSub\u003eНаземний вхід, цілься вперед. Робіть випад вперед і завдайте \u003cstyle=cIsDamage\u003e180% шкоди\u003c/style\u003e.",
+                    "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION":  "Приклейте скотч до ворога, не даючи йому діяти та викликати кровотечу.\u003c/i\u003e",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION":  "Атака ближнього бою з ефектами залежно від вашої мети. (Наведіть курсор, щоб дізнатися більше)\u003c/i\u003e",
+                    "NDP_DANCER_BODY_UTILITY_PULL_NAME":  "Потягнути",
+                    "SPECIAL_RIBBON_LOCK_NAME":  "Обв\u0027язуюча стрічка",
+                    "PRIMARY_SLASH2_NAME":  "Вирізати",
+                    "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME":  "Обв\u0027язуюча стрічка",
+                    "NDP_DANCER_BODY_PASSIVE_NAME":  "Обмежувальна стрічка",
+                    "KEYWORD_DANCER_FORWARDAIR":  "\u003cstyle=cKeywordName\u003eForward Air\u003c/style\u003e\u003cstyle=cSub\u003eAir вхід, націлитися вперед. Сильний удар завдає \u003cstyle=cIsDamage\u003e180% шкоди\u003c/style\u003e і притискає ворогів до землі, приголомшуючи та завдаючи до \u003cstyle=cIsDamage\u003e300% шкоди\u003c/style\u003e."
+                }
+}

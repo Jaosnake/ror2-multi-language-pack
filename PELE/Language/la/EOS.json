@@ -1,0 +1,22 @@
+{
+    "strings": {
+        "EOS_LINK_ACCOUNT": "Link Epic Ludi Ratio",
+        "EOS_NOT_LINKED_TITLE": "Epic Ludi Ratio non coniunctum",
+        "EOS_NOT_LINKED_MESSAGE": "Ludus crucis datus est, sed rationem ludi epici non habes coniunctum cum ratione vaporis tui. Torcular Retry ad rationes iterum nexus, vel Cancel ut inactivandi crucem-ludere et exire ludum.",
+        "EOS_RETRY_LOGIN": "Retry",
+        "EOS_DEACTIVATE_CROSSPLAY_RESTART": "Cancel",
+        "EOS_SERVER_BROWSER_INFO": "Showing only cross-play lobbies.",
+        "EOS_TOGGLE_POPUP_TITLE": "Sileo required",
+        "EOS_TOGGLE_POPUP_MESSAGE": "Ludus sileo requiritur ad mutationes fabulae ad effectum deducendi. Press Nunc claudere ludum vel postea pergere ludere.",
+        "EOS_TOGGLE_CLOSE_NOW": "Nunc",
+        "EOS_TOGGLE_CLOSE_LATER": "Postea",
+        "EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "MONITUM: Mutans occasum sileo lusum requiret.\n\nCrux-ludere permittit Vapor users ludere cum Epic Ludi users. Crux-fabula postulat te ut vaporem tuum rationi cum Epic Ludi ratione coniungas.\n\nCum crucis-fabula para, tantum lobbies videbis ex Ludis Epicis vel Vapor usores e transversis parandis.\n\nCum crucis-fabula debilis, tantum lobbies visurus es ab aliis usoribus vaporis qui crucis-ludere non paraverunt.",
+        "EOS_CANNOT_JOIN_STEAM_LOBBY_HEADER": "Join VESTIBULUM non potest",
+        "EOS_CANNOT_JOIN_STEAM_LOBBY_MESSAGE": "Vapor VESTIBULUM iungere non potuit, quia crucis-ludere efficax est.  Haec optio in menu uncinis toggled potest.",
+        "EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "VESTIBULUM quem conaris coniungere crucem-ludere requirit. Admitte crucem-ludere in occasus menu ad iungere VESTIBULUM (requirit a sileo)",
+        "EOS_INVALID_LOBBY_NO_CROSSPLAY_DESCRIPTION": "VESTIBULUM quem conaris coniungere has transversas debiles habet. Inactivare crucem-ludere in occasus menu ad iungere VESTIBULUM (requirit a sileo)",
+        "EOS_INVALID_LOBBY_CROSSPLAY_GO_TO_SETTINGS": "Ite ad Occasus",
+        "EOS_LINK_ACCOUNT_DESCRIPTION": "Ratio nexus vel creandi ludos Epicos permittit te vocare amicos tuos Epicos Stores et ab eis invitare.",
+        "OPTION_EOS_LINK_ACCOUNT": "Epic Ludi Ratio Link tuum"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "strings": {
+        "ECLIPSE_GAMEMODE_NAME": "Eclipse",
+        "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>Eclipse</style> lusus modus est qui addit positis provocationem adiectiua ad currendum tuum.\n\nQuotiens tu <style=cIsUtility> ludum</style> verberas, gradus Eclipsis tua <style=cIsUtility>@</style> semper auget cum illo superstite, usque ad maximum temporis temporis.",
+        "ECLIPSE_GAMEMODE_START": "Incipit Eclipse",
+        "ECLIPSE_1_NAME": "Eclipse (1)",
+        "ECLIPSE_2_NAME": "Eclipse (2)",
+        "ECLIPSE_3_NAME": "Eclipse (3)",
+        "ECLIPSE_4_NAME": "Eclipse (4)",
+        "ECLIPSE_5_NAME": "Eclipse (5)",
+        "ECLIPSE_6_NAME": "Eclipse (6)",
+        "ECLIPSE_7_NAME": "Eclipse (7)",
+        "ECLIPSE_8_NAME": "Eclipse (8)",
+        "ECLIPSE_1_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%</style>@H3@@",
+        "ECLIPSE_2_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_3_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3</mspace> confoederatio damni incurrit: <style=cIsHealth>+100% et letalis@@@</style>",
+        "ECLIPSE_4_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3</mspace> confoederatio damni incidit: <style=cIsHealth>+100% et letalis</style>\n<mspace=0.5em>(4</mspace> Inimicus Speed: <style=cIsHealth>+40%</style>@H9@@",
+        "ECLIPSE_5_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3</mspace> confoederatio damni incidit: <style=cIsHealth>+100% et letalis</style>\n<mspace=0.5em>(4</mspace> Inimicus Speed: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5</mspace> Socius Sanatio: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_6_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3</mspace> confoederatio damni incidit: <style=cIsHealth>+100% et letalis</style>\n<mspace=0.5em>(4</mspace> Inimicus Speed: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5</mspace> Socius Sanatio: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(6</mspace> Inimici Aurum Guttae: <style=cIsHealth>-20%</style>@H13@@",
+        "ECLIPSE_7_DESCRIPTION": "Incipit difficultas collocantur Monsoon.<style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3</mspace> confoederatio damni incidit: <style=cIsHealth>+100% et letalis</style>\n<mspace=0.5em>(4</mspace> Inimicus Speed: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5</mspace> Socius Sanatio: <style=cIsHealth>-50%@</style>\n<mspace=0.5em>(6</mspace> Inimici Aurum Guttae: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7</mspace> Hostes Cooldowns: <style=cIsHealth>-50%</style>@H15@@",
+        "ECLIPSE_8_DESCRIPTION": "\"Tu solus in luce celebras... quia concedam\". \n\nIncipit difficultas baseline Monsoon. <style=cSub>\n\n<mspace=0.5em>(1</mspace> Socius Satus: <style=cIsHealth>-50%@</style> \n<mspace=0.5em>(2</mspace> Radius teleporter: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3</mspace> confoederatio damni incidit: <style=cIsHealth>+100% et letalis</style> \n<mspace=0.5em>(4</mspace> Inimicus Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5</mspace> Socius Sanatio: <style=cIsHealth>-50%@</style> \n<mspace=0.5em>(6</mspace> Inimici Aurum Guttae: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7</mspace> Hostes Cooldowns: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8</mspace> Socii recipiunt damnum <style=cIsHealth> perpetuum damnum</style>@H17@@"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "strings": {
+        "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Promovere ad VESTIBULUM Dux",
+        "STEAM_COPY_LOBBY": "Effingo VESTIBULUM ad Clipboard",
+        "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Effingo tuum current VESTIBULUM ID ad Clipboard.",
+        "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "VESTIBULUM id copied ut clipboard.",
+        "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Iungere Clipboard VESTIBULUM",
+        "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "Joined VESTIBULUM ID.",
+        "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "Aliquam VESTIBULUM ID.",
+        "STEAM_LOBBY_PUBLIC": "Publica",
+        "STEAM_LOBBY_PRIVATE": "Privata",
+        "STEAM_LOBBY_FRIENDSONLY": "amici tantum",
+        "STEAM_LOBBY_INVISIBLE": "Invisibilis",
+        "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "Non in VESTIBULUM",
+        "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "Intrantes QuickPlay...",
+        "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "VESTIBULUM existentium investigatione ...",
+        "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} in lobby. Exspecto plures nisl...",
+        "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} in lobby. Deductis in: {2}",
+        "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Not in QuickPlay queue.",
+        "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Connectens ad exercitum...",
+        "STEAM_LOBBY_STATUS_STARTING_SERVER": "Satus servo...",
+        "STEAM_LOBBY_STATUS_GAME_STARTING": "Ludus incipiens...",
+        "STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Mismatch versionem",
+        "STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "VESTIBULUM iungere non potuit. Exercitus ludi currit in versione vel maior vel recentior quam tua.\nTuus={0}\nIstorum={1}"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "la": {
+        "NDP_DANCER_BODY_NAME": "Saltatrix",
+        "NDP_DANCER_BODY_SUBTITLE": "Saltatio Mortifera",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Defalta",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Aurea",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Vitta Restrictiva",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Hostes vitta vincti per secundum 50% damni sanguinant et agere non possunt.</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Caesura",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Impetus comminus cum effectibus secundum directionem tuam. (Supersede pro singulis)</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Incisura",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Impetus comminus cum effectibus secundum directionem tuam. (Supersede pro singulis)</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Tractus",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Hostes ad te trahe.</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Vitta Vinciens",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Vittam hosti applica, eum agere prohibens et sanguinationem causans.</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Ictus</style><style=cSub>Input terrestre, dirige antrorsum. Antrorsum salta et <style=cIsDamage>180% damnum</style> fac.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Ictus Inferus</style><style=cSub>Input terrestre, dirige deorsum. Hostes sursum eice et <style=cIsDamage>200% damnum</style> fac.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Ictus Aerius Anterior</style><style=cSub>Input aerium, dirige antrorsum. Gravis ictus <style=cIsDamage>180% damnum</style> faciens qui hostes ad terram affigit, stupefaciens et usque ad <style=cIsDamage>300% damnum</style> faciens.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Vitta</style><style=cSub>Hostes vitta vincti per secundum <style=cIsDamage>50% damni</style> sanguinant et agere non possunt."
+    }
+}

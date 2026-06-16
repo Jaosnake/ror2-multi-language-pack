@@ -1,0 +1,26 @@
+{
+    "strings": {
+        "ACTION_MOVE_HORIZONTAL": "Movere Horizontalis",
+        "ACTION_MOVE_VERTICAL": "Movere Vertical",
+        "ACTION_AIM_HORIZONTAL_MOUSE": "Aim vestibulum",
+        "ACTION_AIM_VERTICAL_MOUSE": "que Vertical",
+        "ACTION_AIM_HORIZONTAL_STICK": "Aim vestibulum",
+        "ACTION_AIM_VERTICAL_STICK": "que Vertical",
+        "ACTION_JUMP": "Salire",
+        "ACTION_SPRINT": "Toggle Sprint",
+        "ACTION_INTERACT": "Interact",
+        "ACTION_EQUIPMENT": "Activate Equipment",
+        "ACTION_PRIMARY_SKILL": "Prima Skill",
+        "ACTION_SECONDARY_SKILL": "Secundarium peritia",
+        "ACTION_UTILITY_SKILL": "Utilitas peritia",
+        "ACTION_SPECIAL_SKILL": "Specialis peritia",
+        "ACTION_INFO": "Info Screen",
+        "ACTION_PING": "Ping",
+        "ACTION_MOVE_VERTICAL_POSITIVE": "Promove",
+        "ACTION_MOVE_VERTICAL_NEGATIVE": "Regredi",
+        "ACTION_MOVE_HORIZONTAL_POSITIVE": "Movere dextram",
+        "ACTION_MOVE_HORIZONTAL_NEGATIVE": "Movere Reliquit",
+        "INPUT_KEYBOARD_UNBOUND": "[NO KB/M BINDING]",
+        "INPUT_GAMEPAD_UNBOUND": "[NO GAMEPAD OBLIGATIO]"
+    }
+}

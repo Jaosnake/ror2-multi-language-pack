@@ -1,0 +1,22 @@
+{
+    "la": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Machina Translationis Instaurata",
+        "BASTIAN_DESCRIPTION": "Machina localis, ad de pace cum corporibus planetarum alienarum adiuvandum fabricata. Propositum eius primum erat internuntium agere, ut planetis cum aere et temperaturis quae homo ordinarius tolerare non possit superesset. In navem UES Contact Light ut pars consilii necessitatis inducta est. Attamen, ad pugnam denuo programmata esse contigit, quamquam haec missio simplex portandi causae erat.",
+        "BASTIAN_NAME_EPIC": "Bastian Interpres, Machina 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian Interpres, Machina 4.I.N.K.",
+        "BASTIAN_OUTRO": "..atque ita discessit, munere suo tandem expleto.",
+        "BASTIAN_FAIL": "..atque ita deactivatus est, memoria eius in perpetuum deleta.",
+        "BASTIAN_M1": "Ictus Ionicus",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Comminus</style>. <style=cIsUtility>Agilis</style>. Hostes ante te feri pro <style=cIsDamage>250% damno</style>. <style=cIsUtility>Onera Ionica</style> aedificat. Damnum dimidiatur dum Evasivus.",
+        "BASTIAN_M2": "Glans Minuta",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Usque ad 5 glandes energiae iacula, quaeque pro <style=cIsDamage>250% damno</style>. <style=cIsUtility>Onera Ionica</style> aedificat. Stuporem non applicat dum Evasivus.",
+        "BASTIAN_UTIL": "Saltus Nanoticus",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Exerce</style> celerem impulsum in quamlibet directionem. <style=cIsUtility>Onera Ionica</style> aedificat.",
+        "BASTIAN_SPEC": "Explosio Architecti",
+        "BASTIAN_SPEC_DESCRIPTION": "Consume <style=cIsHealth>33% valetudinis praesentis</style> et <style=cIsUtility>omnia Onera Ionica</style> pro explosione ingenti <style=cIsDamage>500%-3,000% damni</style>. Post usum, per 10 secundas <color=#E9AFEA>Evasivus</color> fias.",
+        "BASTIAN_SPEC_KEYWORD": "Speciale",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Defalta",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Peritia"
+    }
+}

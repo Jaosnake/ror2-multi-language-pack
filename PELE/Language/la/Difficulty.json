@@ -1,0 +1,16 @@
+{
+    "strings": {
+        "DIFFICULTY_BAR_0": "Facillima",
+        "DIFFICULTY_BAR_1": "Securus",
+        "DIFFICULTY_BAR_2": "Medium",
+        "DIFFICULTY_BAR_3": "Hard",
+        "DIFFICULTY_BAR_4": "Valde durum",
+        "DIFFICULTY_BAR_5": "Insane",
+        "DIFFICULTY_BAR_6": "Impossibile",
+        "DIFFICULTY_BAR_7": "Te video",
+        "DIFFICULTY_BAR_8": "Venio ad te",
+        "DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+        "STAGE_COUNT_FORMAT": "<style=cSub>Stage@@H2@{0}",
+        "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Lv.@@H2@{0}"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "eo": {
+        "BASTIAN_NAME": "Bastian",
+        "BASTIAN_SUBTITLE": "Renovigita Tradukroboto",
+        "BASTIAN_DESCRIPTION": "Loka roboto, konstruita por helpi negoci interkonsentojn kun fremdaj planetaj korpoj. Gxia originala celo estis funkcii kiel perantilo, desegnita por survivi sur planedoj kun aero kaj temperaturoj, kiujn normala homo ne povus elteni. Gxi estis alportita sur la UES Contact Light kiel parto de kontingenta plano. Tamen, gxi finfine estis reprogramita por batalo, malgraux tio estante simpla preni-kaj-porti-misio.",
+        "BASTIAN_NAME_EPIC": "Bastian la Tradukisto, Modelo 4.I.N.K.",
+        "BASTIAN_ROO_DESCRIPTION": "Bastian la Tradukisto, Modelo 4.I.N.K.",
+        "BASTIAN_OUTRO": "..kaj tiel li foriris, sia funkcio fine plenumita.",
+        "BASTIAN_FAIL": "..kaj tiel li malaktivigxis, lia memoro por cxiam forigita.",
+        "BASTIAN_M1": "Jona Svingo",
+        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Proksimabatalo</style>. <style=cIsUtility>Lerta</style>. Batu malamikojn antauxen por <style=cIsDamage>250% damagxo</style>. Konstruas <style=cIsUtility>Jonajn Sxargojn</style>. Damagxo estas duonigita dum Evada.",
+        "BASTIAN_M2": "Mikro-Kuglo",
+        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Pafu gxis 5 energi-kuglojn, cxiu kauxzante <style=cIsDamage>250% damagxo</style>. Konstruas <style=cIsUtility>Jonajn Sxargojn</style>. Ne aplikas stunon dum Evada.",
+        "BASTIAN_UTIL": "Nano-Salto",
+        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Efektivigu</style> rapidan impulson en iu ajn direkto. Konstruas <style=cIsUtility>Jonajn Sxargojn</style>.",
+        "BASTIAN_SPEC": "Eksplodo de la Arkitekto",
+        "BASTIAN_SPEC_DESCRIPTION": "Elspenu <style=cIsHealth>33% de nuna sano</style> kaj <style=cIsUtility>cxiujn Jonajn Sxargojn</style> por masiva eksplodo de <style=cIsDamage>500%-3,000% damagxo</style>. Post uzo, farigxu <color=#E9AFEA>Evada</color> dum 10 sekundoj.",
+        "BASTIAN_SPEC_KEYWORD": "Speciala",
+        "BASTIANBODY_DEFAULT_SKIN_NAME": "Defauxlta",
+        "BASTIANBODY_MASTERY_SKIN_NAME": "Majstrajxo"
+    }
+}
