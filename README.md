@@ -23,7 +23,7 @@ Translation packs for several **Risk of Rain 2** mods, organized for GitHub, man
 [🇹🇼 中文繁體](#-中文繁體) |
 [🇹🇷 Türkçe](#-türkçe) |
 [🇻🇦 Lingua Latina](#-lingua-latina) |
-[🏳️‍🟩‍⭐‍🟩 Esperanto](#-esperanto)
+[🟩 Esperanto](#-esperanto)
 
 ## 🌐 Download By Language
 
@@ -292,7 +292,7 @@ PELE/Language/la/
 mods/<mod>/.../*_la.language
 ```
 
-### 🏳️‍🟩‍⭐‍🟩 Esperanto
+### 🟩 Esperanto
 
 Uzu lingvokodon `eo`.
 
