@@ -1,0 +1,16 @@
+{
+    "strings": {
+        "DIFFICULTY_BAR_0": "Дуже легко",
+        "DIFFICULTY_BAR_1": "легко",
+        "DIFFICULTY_BAR_2": "Середній",
+        "DIFFICULTY_BAR_3": "важко",
+        "DIFFICULTY_BAR_4": "Дуже важко",
+        "DIFFICULTY_BAR_5": "божевільний",
+        "DIFFICULTY_BAR_6": "Неможливо",
+        "DIFFICULTY_BAR_7": "Я БАЧУ ТЕБЕ",
+        "DIFFICULTY_BAR_8": "Я ЙДУ ПО ВАС",
+        "DIFFICULTY_BAR_9": "ХАХАХАХАХА",
+        "STAGE_COUNT_FORMAT": "<style=cSub>Стадія</style> {0}",
+        "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Lv.</style> {0}"
+    }
+}

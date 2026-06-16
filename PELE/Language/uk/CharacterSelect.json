@@ -1,0 +1,20 @@
+{
+    "strings": {
+        "CHARACTER_SELECT_TITLE": "Вибір персонажа",
+        "CHARACTER_SELECT_SELECT_SURVIVOR": "Виберіть Вижив",
+        "SURVIVOR_OVERVIEW": "Огляд",
+        "SURVIVOR_SKILLS": "Навички",
+        "SURVIVOR_LOADOUT": "Розвантаження",
+        "CHARACTER_SELECT_READY": "Готовий",
+        "CHARACTER_SELECT_LOCKED_IN": "Заблоковано",
+        "LOADOUT_SKILL_PRIMARY": "Первинний",
+        "LOADOUT_SKILL_SECONDARY": "Вторинний",
+        "LOADOUT_SKILL_UTILITY": "корисність",
+        "LOADOUT_SKILL_SPECIAL": "Особливий",
+        "LOADOUT_SKILL_MISC": "Різне",
+        "LOADOUT_SKIN": "Шкіра",
+        "CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT": "{0}\n\n{1}",
+        "RANDOM_VOTE_NAME": "Рандомізувати",
+        "RANDOM_VOTE_DESCRIPTION": "Голосуйте за випадкові варіанти."
+    }
+}

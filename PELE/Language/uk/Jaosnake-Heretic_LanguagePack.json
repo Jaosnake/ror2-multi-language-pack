@@ -1,0 +1,12 @@
+{
+    "strings":  {
+                    "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME":  "Unorthodoxy Risen",
+                    "MOFFEINHERETIC_STATBONUSITEM_DESC":  "Збільште \u003cstyle=cIsHealing\u003eздоров\u0027я\u003c/style\u003e на \u003cstyle=cIsHealing\u003e400%\u003c/style\u003e та \u003cstyle=cIsDamage\u003eшкоду\u003c/style\u003e на \u003cstyle=cIsDamage\u003e50%\u003c/style\u003e. Зменшити \u003cstyle=cIsHealing\u003eбазове відновлення здоров’я\u003c/style\u003e до\u003c/style\u003e0__-6hp/s\u003c/style\u003e1__.",
+                    "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION":  "Зарядіть кулю клинків, яка постійно завдає \u003cstyle=cIsDamage\u003e175% шкоди\u003c/style\u003e. Після затримки вибухніть і \u003cstyle=cIsDamage\u003eвикорініть\u003c/style\u003e усіх ворогів, завдавши \u003cstyle=cIsDamage\u003e700% шкоди\u003c/style\u003e.",
+                    "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION":  "Втечіть від місяця як таємний вцілілий.",
+                    "MOFFEINHERETIC_STATBONUSITEM_PICKUP":  "Отримайте величезне підвищення характеристик... \u003ccolor=#FF7F7F\u003eАЛЕ ваше здоров’я з часом погіршується.\u003c/color\u003e",
+                    "MOFFEINHERETIC_STATBONUSITEM_NAME":  "Знак Єресі",
+                    "MOFFEINHERETIC_PASSIVE_DESCRIPTION":  "Єретик \u003cstyle=cIsUtility\u003eрухається швидше\u003c/style\u003e і може \u003cstyle=cIsUtility\u003eзмахнути крилами двічі\u003c/style\u003e для додаткової висоти в повітрі.",
+                    "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION":  "Нанесення шкоди додає стек \u003cstyle=cIsDamage\u003eRuin\u003c/style\u003e. Активація навички \u003cstyle=cIsDamage\u003eдетонує всі стеки руїн\u003c/style\u003e на необмеженій відстані, завдаючи \u003cstyle=cIsDamage\u003e300% шкоди\u003c/style\u003e плюс \u003cstyle=cIsDamage\u003e120% шкоди\u003c/style\u003e за один стек \u003cstyle=cIsDamage\u003eРуйн\u003c/style\u003e."
+                }
+}

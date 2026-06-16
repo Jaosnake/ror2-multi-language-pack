@@ -1,0 +1,23 @@
+{
+    "strings": {
+        "ECLIPSE_GAMEMODE_NAME": "Затемнення",
+        "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>Eclipse</style> — це ігровий режим, який додає модифікатори складення завдання до вашого бігу.\n\nКожного разу, коли ви <style=cIsUtility>перемагаєте гру</style>, ваш рівень Eclipse <style=cIsUtility>назавжди підвищується</style> разом із тим, хто вижив, максимум у <style=cIsUtility>8</style> разів.",
+        "ECLIPSE_GAMEMODE_START": "Запустіть Eclipse",
+        "ECLIPSE_1_NAME": "Затемнення (1)",
+        "ECLIPSE_2_NAME": "Затемнення (2)",
+        "ECLIPSE_3_NAME": "Затемнення (3)",
+        "ECLIPSE_4_NAME": "Затемнення (4)",
+        "ECLIPSE_5_NAME": "Затемнення (5)",
+        "ECLIPSE_6_NAME": "Затемнення (6)",
+        "ECLIPSE_7_NAME": "Затемнення (7)",
+        "ECLIPSE_8_NAME": "Затемнення (8)",
+        "ECLIPSE_1_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_2_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_3_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Шкода від падіння союзника: <style=cIsHealth>+100% і летальний</style></style>",
+        "ECLIPSE_4_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Шкода від падіння союзника: <style=cIsHealth>+100% і летальний</style>\n<mspace=0.5em>(4)</mspace> Швидкість ворога: <style=cIsHealth>+40%</style></style>",
+        "ECLIPSE_5_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Шкода від падіння союзника: <style=cIsHealth>+100% і летальний</style>\n<mspace=0.5em>(4)</mspace> Швидкість ворога: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Лікування союзників: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_6_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Шкода від падіння союзника: <style=cIsHealth>+100% і летальний</style>\n<mspace=0.5em>(4)</mspace> Швидкість ворога: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Лікування союзників: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Золото ворога випадає: <style=cIsHealth>-20%</style></style>",
+        "ECLIPSE_7_DESCRIPTION": "Починається з базової рівня складності Monsoon.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Шкода від падіння союзника: <style=cIsHealth>+100% і летальний</style>\n<mspace=0.5em>(4)</mspace> Швидкість ворога: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Лікування союзників: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Золото ворога випадає: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> Перезарядка ворога: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_8_DESCRIPTION": "«Ти святкуєш тільки при світлі... бо я дозволяю». \n\nПочинається з базової складності Monsoon. <style=cSub>\n\n<mspace=0.5em>(1)</mspace> Здоров'я союзника на початку: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(2)</mspace> Радіус телепорту: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Шкода від падіння союзника: <style=cIsHealth>+100% і летальний</style> \n<mspace=0.5em>(4)</mspace> Швидкість ворога: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Лікування союзників: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Золото ворога випадає: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Перезарядка ворога: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Союзники отримують <style=cIsHealth>постійну шкоду</style></style>"
+    }
+}

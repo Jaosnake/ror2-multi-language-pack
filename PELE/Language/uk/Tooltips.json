@@ -1,0 +1,21 @@
+{
+    "strings": {
+        "TOOLTIP_TIME_DIFFICULTY": "Складність <i>ЗАВЖДИ</i> зростає з часом - грайте швидко!",
+        "TOOLTIP_EQUIPMENT": "<color=orange>Спорядження</color> — потужні, активовані предмети.",
+        "TOOLTIP_SPRINT": "Спринт, щоб обійти карту!",
+        "TOOLTIP_WIP_CONTENT_NAME": "Будується",
+        "TOOLTIP_WIP_CONTENT_DESCRIPTION": "Ця частина контенту все ще знаходиться в розробці. Повертайся швидше!",
+        "TOOLTIP_UNLOCK_LOG_NAME": "Запис у журналі розблоковано",
+        "TOOLTIP_UNLOCK_LOG_DESCRIPTION": "Цей запис тепер з’явиться в Журналі.",
+        "TOOLTIP_UNLOCK_ITEM_NAME": "Предмет розблоковано",
+        "TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "Цей предмет тепер буде випадковим чином з’являтися в прогонах.",
+        "TOOLTIP_UNLOCK_EQUIPMENT_NAME": "Обладнання розблоковано",
+        "TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "Тепер це обладнання буде випадковим чином з’являтися в прогонах.",
+        "TOOLTIP_UNLOCK_SURVIVOR_NAME": "Survivor Unlocked",
+        "TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "Цей Survivor тепер доступний.",
+        "TOOLTIP_UNLOCK_ARTIFACT_NAME": "Артефакт розблоковано",
+        "TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "Цей артефакт тепер доступний.",
+        "TOOLTIP_UNLOCK_GENERIC_NAME": "Розблоковано",
+        "TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "Цей вміст тепер доступний."
+    }
+}

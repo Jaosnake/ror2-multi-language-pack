@@ -1,0 +1,23 @@
+{
+    "strings":  {
+                    "CHAOS__M2":  "Aegis",
+                    "CHAOS__SPEC":  "Inquinatus Globus Igneus",
+                    "CHAOSANGELOID_CHAOS_NAME":  "Chaos",
+                    "CHAOS__SPEC_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eIncendere\u003c/style\u003e. Globo igneo custodi pro usque ad \u003cstyle=cIsUtility\u003e10s\u003c/style\u003e, qui \u003cstyle=cIsDamage\u003e400%-2000% damni\u003c/style\u003e infligit et terram urit \u003cstyle=cIsDamage\u003e10%\u003c/style\u003e damni per secundam inferens. Custodiens per \u003cstyle=cIsUtility\u003e5s\u003c/style\u003e minimum Chaos radium mortis loco emittere facit, \u003cstyle=cIsDamage\u003e2000% damni\u003c/style\u003e per secundam inferens. Custodiens ultra \u003cstyle=cIsUtility\u003e5s\u003c/style\u003e durationem radii mortis auget.",
+                    "CHAOS__F_DESCRIPTION":  "Hostem nuper occisum intra 25m ut minister ultro resuscitat. Duret 3 minutas.",
+                    "CHAOS__M1":  "Inquinati Ignis",
+                    "CHAOS__UTIL":  "Chimaera",
+                    "CHAOS__M2_DESCRIPTION":  "Ab omni damno incumbente protege.",
+                    "CHAOSANGELOID_CHAOS_FAIL":  "..et sic evanuit, plus amoris desiderans.",
+                    "CHAOS__F":  "Minister, Surge!",
+                    "CHAOS__PASSIVE_DESCRIPTION":  "Proximas entitates scrutatur, earum locum notans. Magistri semper notantur. Hostes notati \u003cstyle=cIsDamage\u003e20%\u003c/style\u003e plus damni a Magistris accipiunt.",
+                    "CHAOS__M1_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eIncendere\u003c/style\u003e. Globos igneos celeriter emitte pro \u003cstyle=cIsDamage\u003e220% damno\u003c/style\u003e.",
+                    "CHAOSANGELOID_CHAOS_OUTRO":  "..et sic abiit, altero mundo amori amisso.",
+                    "CHAOS__PASSIVE_NAME":  "Angeloides Genus 2",
+                    "CHAOS__UTIL_DESCRIPTION":  "Celeriter prorue.",
+                    "CHAOSANGELOID_CHAOS_LORE":  "Optare est res mira—omnes spes et somnia tua in unam cogitationem coniuncta.\nMulti divitias, opes optant.\nAlii valetudinem optant.\nNonnulli amorem optant.\n\nSed quid si optio tua exitium tuum fiat?\n\nCum aliquid amas, momento quo te laedit aut amittis, in dolorem vertitur.\nDolor non desinit. Haeret. Itaque… estne dolor amor?\n\nPuto ita esse. Omne gradum quem in itinere meo feci ad amorem duxit—tantum amoris.\nMundum amore inquinavi.\n\nOpto ut omnes id experiri possint—omnis planeta, non solum Tellus, non solum Synapse, non solum Magister meus.\n\nNum me in itinere meo comitaberis?\nNum me adiuvabis mundum rubro inquinare… et eos gaudio tremere audire?\n\nSine me cum puppis meis iterum ludere.\nLibera me.\nFias Magister meus.",
+                    "CHAOSBODY_DEFAULT_SKIN_NAME":  "Defecta",
+                    "CHAOSANGELOID_CHAOS_DESCRIPTION":  " \u003cstyle=cSub\u003e\n\n\u003c ! \u003e \n\n\u003c ! \u003e \n\n\u003c ! \u003e \n\n\u003c ! \u003e \n\n",
+                    "CHAOSANGELOID_CHAOS_SUBTITLE":  "Angeloides Genus Epsilon"
+                }
+}

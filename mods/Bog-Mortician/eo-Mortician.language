@@ -1,0 +1,26 @@
+{
+    "eo": {
+        "BOG_MORRIS_BODY_NAME": "Mortuldoktoro",
+        "BOG_MORRIS_BODY_DESCRIPTION": "La Mortuldoktoro estas malrapida sed fortika korpbatala nekromancisto, kiu elstaras en kontrolado de teritorio per sia armeo de senvivuloj.",
+        "BOG_MORRIS_BODY_SUBTITLE": "Senviva",
+        "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..kaj tiel li foriris, lia funebra devo ankoraux nerealigita.",
+        "BOG_MORRIS_BODY_OUTRO_FAILURE": "..kaj tiel li malaperis, fine ricevinte la pacon, kiun li tiom deziris.",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Defauxlta",
+        "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Majstreco",
+        "BOG_MORRIS_BODY_PASSIVE_NAME": "Anima Ofero",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Guloj <style=cIsUtility>ekigas siajn mortig-efikojn</style> kiam ili mortas.",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Sxovelfrapo",
+        "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Svingu vian sxovelilon por <style=cIsDamage>800% da damagxo</style>. Trafi gulojn kaj tombosxtonojn per via sxovelilo kauxzas <style=cIsUtility>lancxon</style> por <style=cIsDamage>350% da damagxo</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Levi Mortintojn",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Spirita Ligo</style>. Alvoku gulon sur la teron antaux vi. Guloj mordas por <style=cIsDamage>150% da damagxo</style> kaj kracxas <style=cIsDamage>pestan</style> galon por <style=cIsDamage>100% da damagxo</style>.",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Ofero",
+        "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Eksplodigu</style> la celitan gulon por <style=cIsDamage>700% da damagxo</style> kaj <style=cIsHealing>resanigxu je 15% de via maksimuma sano</style>.",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Tombosxtono",
+        "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Starigu Tombosxtonon, kiu generas gulon cxiun <style=cIsUtility>10 sekundojn</style>. Kiam gulo mortas, la tombo generas <style=cIsDamage>vengxeman animon</style> <style=cIsUtility>eksplodema</style>, kiu pafas al proksima malamiko por <style=cIsDamage>350% da damagxo</style>.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortuldoktoro: Majstreco",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Kiel Mortuldoktoro, venku la ludon aux forvisxu vin en Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortuldoktoro: Majstreco",
+        "BOG_GHOUL_BODY_NAME": "Gulo",
+        "BOG_TOMBSTONE_BODY_NAME": "Tombosxtono"
+    }
+}

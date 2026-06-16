@@ -1,0 +1,22 @@
+{
+    "strings":  {
+                    "BASTIAN_UTIL":  "Нано-весна",
+                    "BASTIAN_ROO_DESCRIPTION":  "Бастіан Перекладач, модель 4.І.Н.К.",
+                    "BASTIANBODY_MASTERY_SKIN_NAME":  "Майстерність",
+                    "BASTIAN_M2_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eспритний\u003c/style\u003e. Випустіть до 5 енергетичних куль, кожна з яких роздає\u003cstyle=cIsDamage\u003e250% шкоди\u003c/style\u003e. Будує\u003cstyle=cIsUtility\u003eІонні заряди\u003c/style\u003e. Не застосовує оглушення під час ухилення.",
+                    "BASTIAN_OUTRO":  "..і тому він пішов, нарешті виконавши свою функцію.",
+                    "BASTIAN_M1_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eРукопашний бій\u003c/style\u003e. \u003cstyle=cIsUtility\u003eспритний\u003c/style\u003e. Бити ворогів попереду\u003cstyle=cIsDamage\u003e250% шкоди\u003c/style\u003e. Будує\u003cstyle=cIsUtility\u003eІонні заряди\u003c/style\u003e. Під час ухилення шкода зменшується вдвічі.",
+                    "BASTIAN_M1":  "Іонна гойдалка",
+                    "BASTIAN_FAIL":  "..і тому він був деактивований, його пам\u0027ять стерта назавжди.",
+                    "BASTIAN_DESCRIPTION":  "Місцевий робот, створений для допомоги в угодах з іноземними планетарними тілами. Його первісна мета полягала в тому, щоб функціонувати як посередник, призначений для виживання на планетах з повітрям і температурами, які нормальна людина не може витримати. Його доставили на борт контактного світла ЄЕС як частину плану на випадок надзвичайних ситуацій. Однак в кінцевому підсумку його перепрограмували для бою, незважаючи на те, що це була проста місія «принеси та перенеси».",
+                    "BASTIAN_SUBTITLE":  "Оновлений робот-перекладач",
+                    "BASTIANBODY_DEFAULT_SKIN_NAME":  "За замовчуванням",
+                    "BASTIAN_M2":  "Мікро-куля",
+                    "BASTIAN_UTIL_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eВиконати\u003c/style\u003eшвидкий ривок у будь-якому напрямку. Будує\u003cstyle=cIsUtility\u003eІонні заряди\u003c/style\u003e.",
+                    "BASTIAN_SPEC":  "Вибух архітектора",
+                    "BASTIAN_SPEC_DESCRIPTION":  "витрачати\u003cstyle=cIsHealth\u003e33% поточного здоров\u0027я\u003c/style\u003eі\u003cstyle=cIsUtility\u003eвсі іонні заряди\u003c/style\u003eдля потужного вибуху\u003cstyle=cIsDamage\u003e500%-3000% шкоди\u003c/style\u003e. Після використання стати\u003ccolor=#E9AFEA\u003eУхильний\u003c/color\u003eпротягом 10 секунд.",
+                    "BASTIAN_NAME":  "Бастіан",
+                    "BASTIAN_NAME_EPIC":  "Бастіан Перекладач, модель 4.І.Н.К.",
+                    "BASTIAN_SPEC_KEYWORD":  "Особливий"
+                }
+}

@@ -1,0 +1,8 @@
+{
+    "strings": {
+        "DISCORD_RICHPRESENCE_STATE_IN_SINGLEPLAYER_GAME": "Одиночна гра",
+        "DISCORD_RICHPRESENCE_STATE_IN_LOBBY_GAME": "Гра в групі",
+        "DISCORD_RICHPRESENCE_STATE_IN_SERVER_GAME": "Гра на сервері",
+        "DISCORD_RICHPRESENCE_STATE_IN_LOBBY_MENU": "Створення групи"
+    }
+}

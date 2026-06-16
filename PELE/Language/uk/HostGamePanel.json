@@ -1,0 +1,27 @@
+{
+    "strings": {
+        "HOSTGAMEPANEL_TITLE": "Створіть багатокористувацьку гру",
+        "HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "Налаштування гри",
+        "HOSTGAMEPANEL_OPTION_SERVER_NAME": "Назва гри",
+        "HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION": "Назва вашої гри.",
+        "HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT": "Сервер прослуховування {0}",
+        "HOSTGAMEPANEL_OPTION_GAME_MODE": "Ігровий режим",
+        "HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION": "Режим гри, у який ви хочете грати.",
+        "HOSTGAMEPANEL_OPTION_PASSWORD": "Пароль",
+        "HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION": "Додатковий пароль для вашої гри. Гравці без пароля не зможуть приєднатися до вашої гри.",
+        "HOSTGAMEPANEL_MAX_PLAYERS": "Максимальна кількість гравців",
+        "HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION": "Максимальна кількість гравців, дозволена у вашій грі.",
+        "HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING": "Risk of Rain 2 розрахована максимум на 4 гравців. Це може негативно вплинути на продуктивність, пропускну здатність, стабільність і ігровий баланс.",
+        "HOSTGAMEPANEL_CUSTOM_TAGS": "Спеціальні теги",
+        "HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION": "Додаткові теги для вашої гри. Гравці можуть фільтрувати ваше лобі за допомогою тегів.",
+        "HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Дозволити голосування за правилами",
+        "HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "Чи дозволено гравцям голосувати за складність, артефакти тощо під час вибору персонажа.",
+        "HOSTGAMEPANEL_ALLOW_MULTIPLAYER_PAUSE": "Дозволити паузу для кількох гравців",
+        "HOSTGAMEPANEL_ALLOW_MULTIPLAYER_PAUSE_DESCRIPTION": "Чи дозволено гравцям призупиняти гру для себе, а також для інших гравців у лобі.",
+        "HOSTGAMEPANEL_LOBBY_TYPE": "Видимість лобі",
+        "HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Чи є гра загальнодоступною, приватною чи лише для друзів.\n\nДля відображення для інших користувачів має бути встановлено значення Public.",
+        "HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "Видимий для головного сервера",
+        "HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION": "Чи бачать гру інші гравці в браузері сервера.",
+        "HOSTGAMEPANEL_HOST": "Почати гру"
+    }
+}

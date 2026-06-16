@@ -1,0 +1,26 @@
+{
+    "strings": {
+        "ACTION_MOVE_HORIZONTAL": "Переміщення по горизонталі",
+        "ACTION_MOVE_VERTICAL": "Переміщення по вертикалі",
+        "ACTION_AIM_HORIZONTAL_MOUSE": "Ціль Горизонтально",
+        "ACTION_AIM_VERTICAL_MOUSE": "Цільтесь вертикально",
+        "ACTION_AIM_HORIZONTAL_STICK": "Ціль Горизонтально",
+        "ACTION_AIM_VERTICAL_STICK": "Цільтесь вертикально",
+        "ACTION_JUMP": "Стрибок",
+        "ACTION_SPRINT": "Перемкнути спринт",
+        "ACTION_INTERACT": "Взаємодіяти",
+        "ACTION_EQUIPMENT": "Активуйте обладнання",
+        "ACTION_PRIMARY_SKILL": "Первинний навик",
+        "ACTION_SECONDARY_SKILL": "Вторинний навик",
+        "ACTION_UTILITY_SKILL": "Утилітарні навички",
+        "ACTION_SPECIAL_SKILL": "Спеціальна майстерність",
+        "ACTION_INFO": "Інформаційний екран",
+        "ACTION_PING": "Пінг",
+        "ACTION_MOVE_VERTICAL_POSITIVE": "Рухайтеся вперед",
+        "ACTION_MOVE_VERTICAL_NEGATIVE": "Переміщення назад",
+        "ACTION_MOVE_HORIZONTAL_POSITIVE": "Рух праворуч",
+        "ACTION_MOVE_HORIZONTAL_NEGATIVE": "Рух ліворуч",
+        "INPUT_KEYBOARD_UNBOUND": "[БЕЗ ПРИВ'ЯЗКИ KB/M]",
+        "INPUT_GAMEPAD_UNBOUND": "[БЕЗ ПРИВ'ЯЗКИ ГЕЙМПАДУ]"
+    }
+}

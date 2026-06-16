@@ -21,7 +21,9 @@ Translation packs for several **Risk of Rain 2** mods, organized for GitHub, man
 [🇯🇵 日本語](#-日本語) |
 [🇨🇳 中文简体](#-中文简体) |
 [🇹🇼 中文繁體](#-中文繁體) |
-[🇹🇷 Türkçe](#-türkçe)
+[🇹🇷 Türkçe](#-türkçe) |
+[🇻🇦 Lingua Latina](#-lingua-latina) |
+[🏴 Esperanto](#-esperanto)
 
 ## 🌐 Download By Language
 
@@ -274,6 +276,38 @@ Sandswept/Translations/Tr-Sandswept.language
 mods/<mod>/.../tr/
 ```
 
+### 🇻🇦 Lingua Latina
+
+Utere codice linguae `la`.
+
+1. **Code -> Download ZIP** preme ut repositorium extrahas.
+2. ZIP extrahe.
+3. Exemplar fasciculi/moduli quod vis in `BepInEx/plugins/` copia.
+4. Elige **Lingua Latina** in ludo. (Opus est `PELE` modo ad linguam in menu seligendam.)
+
+Communes fasciculi:
+
+```text
+PELE/Language/la/
+mods/<mod>/.../*_la.language
+```
+
+### 🏴 Esperanto
+
+Uzu lingvokodon `eo`.
+
+1. Elŝutu la deponejon per **Code -> Download ZIP**.
+2. Malpaku la ZIP.
+3. Kopiu la deziratan pakaĵon/mod dosierujon al `BepInEx/plugins/`.
+4. Elektu **Esperanto** en la ludo. (Bezonas `PELE` mod por aperigi la lingvon en la menuo.)
+
+Oftaj dosieroj:
+
+```text
+PELE/Language/eo/
+mods/<mod>/.../*_eo.language
+```
+
 ## 📦 Quick Download
 
 For most players:
@@ -367,7 +401,7 @@ en, pt-BR, FR/fr, RU/ru, IT/it, de, ja, ko, tr, es-419, es-ES, zh-CN, zh-TW
 Custom/non-native IDs included for packs that support them:
 
 ```text
-UA, ua, pl
+UA, ua, pl, la, eo
 ```
 
 Important:
@@ -393,6 +427,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Alloyed Armorer Language Pack | TatertotticusSquad-Alloyed_Armorer | `thundermods-traduzidos/Jaosnake-Alloyed_Armorer_LanguagePack/` | R2API.Language token pack |
 | Additional mod translations | Multiple mods | `mods/` | One folder per mod |
 | Heretic Language Pack | Moffein-Heretic | `thundermods-traduzidos/Jaosnake-Heretic_LanguagePack/` | R2API.Language token pack |
+| PELE Language Enabler | Jaosnake-PELE | `PELE/` | Native la/eo/uk language enabler (BepInEx plugin) |
 
 ## 🧩 Mods In `mods/`
 
@@ -497,6 +532,13 @@ ror2-multi-language-pack/
 │  ├─ README.md
 │  ├─ icon.png
 │  └─ Translations/
+├─ PELE/
+│  ├─ PELE.dll
+│  ├─ manifest.json (create if needed)
+│  └─ Language/
+│     ├─ la/
+│     ├─ eo/
+│     └─ uk/
 ├─ mods/
 │  └─ <one folder per translated mod, copy into BepInEx/plugins>
 ├─ thundermods-traduzidos/

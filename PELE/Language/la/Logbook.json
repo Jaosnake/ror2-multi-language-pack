@@ -1,0 +1,27 @@
+{
+    "strings": {
+        "LOGBOOK": "LIBELLUS",
+        "LOGBOOK_CATEGORY_ITEMANDEQUIPMENT": "Item & Equipment",
+        "LOGBOOK_CATEGORY_ITEM": "Item",
+        "LOGBOOK_CATEGORY_EQUIPMENT": "Apparatus",
+        "LOGBOOK_CATEGORY_ACHIEVEMENTS": "Provocare",
+        "LOGBOOK_CATEGORY_MONSTER": "Monstrum",
+        "LOGBOOK_CATEGORY_STAGE": "Environment",
+        "LOGBOOK_CATEGORY_SURVIVOR": "Superstes",
+        "LOGBOOK_CATEGORY_FRAGMENT": "Fragment",
+        "LOGBOOK_CATEGORY_STATS": "Profile Stats",
+        "LOGBOOK_CATEGORY_MORGUE": "Currere Historia",
+        "LOGBOOK_UNLOCK_ITEM_LOG": "Hoc item in mundo reperies ut ingressum hoc aperias.",
+        "LOGBOOK_UNLOCK_ITEM_MONSTER": "Vincite hoc monstrum facultas aperiendi hunc ingressum iniuriarum.",
+        "LOGBOOK_UNLOCK_ITEM_STAGE": "Invenire et reparare Turrim Radar in scaena ad ingressum iniuriarum reserandum.",
+        "LOGBOOK_UNLOCK_ITEM_SURVIVOR": "Ludum verberabis cum hac superstes ad ingressum iniuriarum reserandum.",
+        "LOGBOOK_UNLOCK_ITEM_DRONE": "Hunc fucum conscribe in mundo ut hunc ingressum recludam.",
+        "LOGBOOK_UNLOCK_ITEM_FRAGMENT": "Hoc iniuriarum ingressum habet ignotam unlock condicionem.",
+        "LOGBOOK_HOVER_DESCRIPTION_FORMAT": "<mark=#{2}><b>[ {0} ]</b>\n\n</mark>@@H5@{1}</style>",
+        "LOGBOOK_ZOOMINOUT": "Retrahe in / E",
+        "LOGBOOK_ROTATE": "Rotate",
+        "LOGBOOK_PAN": "Pan",
+        "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_TITLE_FORMAT": "{0}",
+        "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Class:@T0@@</nobr>\n<nobr>Modo:@T1@@</nobr>\n<nobr> Ending: {2}</nobr>"
+    }
+}

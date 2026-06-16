@@ -1,0 +1,19 @@
+{
+    "la": {
+        "BOG_DEPUTY_BODY_NAME": "Vigil",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Iustitia Fulminis",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Vigil est daemon celeritatis hyperagressivus quae iustitiam suis gemellis revolveris et ictibus calcis mortiferis dispensat.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Defalta",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Persecutio Indefessa",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Vigil in quamlibet directionem currere potest. Hostes artibus suis feriens auget <style=cIsUtility>celeritatem motus</style> cumulabilem.",
+        "PRIMARY_SHOOT_NAME": "Ictus Certus",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Revolveris media distantia iacula pro <style=cIsDamage>150% damno</style>.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Duas revolveras iace. <style=cIsDamage>Stupefaciens</style>. Salta et hostem infra te iacula pro <style=cIsDamage>6x100% damno</style>.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Ictum praecisum iace, qui paulum sursum dirigi potest. <style=cIsDamage>150% damnum</style> facit.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800% damno</style>. <style=cIsUtility>Caedes moram artis utilitatis tuae restituunt</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "Alte in aerem salta et glandes deorsum furenter iace pro <style=cIsDamage>150% damno</style>.",
+        "MASTERY_SKIN_NAME": "Vigil: Magisterium",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..atque ita discessit, ad sonum plausus tonantis.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..atque ita evanuit, spectaculo suo tandem finito."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "strings": {
+        "KEYWORD_POISON": "<style=cKeywordName>Poisonous</style><style=cSub>Faga damaĝo egala al <style=cIsDamage>10%</style> de ilia maksimuma sano super 10s. <i>Veneno ne povas mortigi malamikojn.</i></style>",
+        "KEYWORD_RAPID_REGEN": "<style=cKeywordName>Regenerative</style><style=cSub>Sanigu por <style=cIsHealing>5%</style> de via maksimuma sano pli ol 0.5s.</style>",
+        "KEYWORD_AGILE": "<style=cKeywordName>Agile</style><style=cSub>La lerteco povas esti uzata dum sprintado.</style>",
+        "KEYWORD_PERCENT_HP": "<style=cKeywordName>X% HP</style><style=cSub>La kapablo kostas <style=cIsHealth>X% de via nuna sano</style>.</style>",
+        "KEYWORD_SONIC_BOOM": "<style=cKeywordName>Sonic Boom</style><style=cSub><style=cIsUtility>Puŝos</style> for ĉiuj malamikoj trafas. <style=cIsUtility>Puŝas vin malantaŭen</style> se vi estas aero.</style>",
+        "KEYWORD_WEAK": "<style=cKeywordName>Weaken</style><style=cSub>Malduktu movadrapidecon kaj damaĝon per <style=cIsDamage>40%</style>. Reduktu kirason per <style=cIsDamage>20</style>.</style>",
+        "KEYWORD_HEAVY": "<style=cKeywordName>Heavy</style><style=cSub>La lerteco faras pli da damaĝo ju pli rapide vi moviĝas.</style>",
+        "KEYWORD_FREEZING": "<style=cKeywordName>Freezing</style><style=cSub>Frestigu malamikojn surloke. Frostigitaj malamikoj estas <style=cIsHealth>tuj mortigitaj</style> se sub <style=cIsHealth>30%</style> sano.</style>",
+        "KEYWORD_STUNNING": "<style=cKeywordName>Stunning</style><style=cSub>Interrompas malamikojn kaj nelonge miregigas ilin.",
+        "KEYWORD_EXPOSE": "<style=cKeywordName>Eksponi</style><style=cSub>Trafi Ekspoziciajn malamikojn reduktas ĉiujn kapablecmalvarmojn je <style=cIsUtility>1.0s</style> kaj kaŭzas plian <style=cIsDamage>+350% da damaĝo</style>.",
+        "KEYWORD_SHOCKING": "<style=cKeywordName>Shocking</style><style=cSub>Interrompas malamikojn kaj miregigas ilin. La miregigo estas forigita se la celo prenas pli ol <style=cIsHealth>10%</style> de ilia maksimuma sano en damaĝo.",
+        "KEYWORD_SLAYER": "<style=cKeywordName>Slayer</style><style=cSub>Ofertas ĝis <style=cIsDamage>3x</style> damaĝon kontraŭ malfortaj sanaj malamikoj.</style>",
+        "KEYWORD_SUPERBLEED": "<style=cKeywordName>Hemorrhage</style><style=cSub>Interkonsento <style=cIsDamage>2000%</style> baza damaĝo pli ol 15s. <i>Hemoragio povas stakiĝi.</i></style>",
+        "KEYWORD_IGNITE": "<style=cKeywordName>Ignite</style><style=cSub>Fargu plian <style=cIsDamage>+50%</style> totalan damaĝon laŭlonge de la tempo.",
+        "KEYWORD_WEAKPOINT": "<style=cKeywordName>Weak Point</style><style=cSub>Sekcioj de malamikoj estas identigitaj kiel enhavantaj <style=cIsDamage>Weak Points</style>. Trafi <style=cIsDamage>Malforta Punkto</style> garantias <style=cIsDamage>Kritical Strike</style>.",
+        "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Aktiva Reŝargi</style><style=cSub>Reŝargi vian fervojpafilon post pafo. <style=cIsDamage>Perfekta reŝargi</style> kaŭzas plian <style=cIsDamage>+500% bazan damaĝon</style> ĉe via sekva pafo.",
+        "KEYWORD_VOIDCORRUPTION": "<style=cKeywordName>Corruption</style><style=cSub>Akiru Korupton ricevante damaĝon, farante Kritikajn Batojn aŭ tenante Malplenajn Erojn. Redukti Koruptecon per resanigo.</style>"
+    }
+}

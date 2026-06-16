@@ -1,0 +1,30 @@
+{
+    "strings":  {
+                    "Tatertotticus_Armorer_UTILITY_ROLL_NAME":  "Брухтовий прискорювач",
+                    "Tatertotticus_Armorer_DESCRIPTION":  "Броняр — умілий боєць, який використовує широкий арсенал, щоб знищувати ворогів.\u003ccolor=#CCD3E0\u003e\u003c ! \u003e Металевий бластер стабільно завдає шкоди на відстані й накладає Важкий метал.\n\n\u003c ! \u003e Уламкова гармата — потужна наступальна навичка з пробиттям і великою шкодою.\n\n\u003c ! \u003e Брухтовий прискорювач дає значне горизонтальне переміщення та велику область дії.\n\n\u003c ! \u003e Сплавний бастіон можна використати, щоб швидко врятуватися або створити захист.",
+                    "Tatertotticus_Armorer_PRIMARY_BLASTER_NAME":  "Металевий бластер",
+                    "Tatertotticus_Armorer_SUBTITLE":  "Винахідливий майстер",
+                    "Tatertotticus_Armorer_NAME":  "Броняр",
+                    "Tatertotticus_Armorer_PRIMARY_BLASTER_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eСпритність.\u003c/style\u003e Вистріліть снарядом, що завдає \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e і вибухає на \u003cstyle=cIsDamage\u003e75% шкоди\u003c/style\u003e.",
+                    "Tatertotticus_Armorer_UTILITY_ROLL_DESCRIPTION":  "Летіть уперед на нестабільних двигунах; уламки розлітаються навколо вас і завдають \u003cstyle=cIsDamage\u003e600% шкоди\u003c/style\u003e.",
+                    "Tatertotticus_Armorer_OUTRO_FLAVOR":  "..і так він пішов, шукаючи нову ідентичність.",
+                    "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_DESCRIPTION":  "Граючи за Броняра, завершіть гру або обнуліться на Тайфуні.",
+                    "Tatertotticus_Armorer_SPECIAL_BOMB_NAME":  "Сплавний бастіон",
+                    "Tatertotticus_Armorer_SECONDARY_GUN_NAME":  "Уламкова гармата",
+                    "Tatertotticus_Armorer_OUTRO_FAILURE":  "..і так він зник, назавжди лишившись чистим аркушем.",
+                    "Tatertotticus_Armorer_PASSIVE_DESCRIPTION":  "Атаки Броняра накладають на ворогів Важкий метал, зменшуючи їхню шкоду та швидкість руху. Отримуючи шкоду, ви накопичуєте Посилення, що збільшує броню та швидкість атаки.",
+                    "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_DESCRIPTION":  "Граючи за Броняра, використайте поглинання шкоди Сплавного бастіону, щоб зцілити щонайменше 200% свого здоров’я.",
+                    "Tatertotticus_Armorer_SPECIAL_BOMB_DESCRIPTION":  "Вивільніть спалах енергії, що завдає \u003cstyle=cIsDamage\u003e300% шкоди\u003c/style\u003e. Якщо невдовзі після цього ви отримаєте значну шкоду, отримайте максимум Посилення й зціліть усіх союзників поруч.",
+                    "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_NAME":  "Armorer: Mastery",
+                    "Tatertotticus_Armorer_SECONDARY_GUN_DESCRIPTION":  "Вистріліть пробивним лазером, що завдає \u003cstyle=cIsDamage\u003e500% шкоди\u003c/style\u003e. Витрачає заряди Посилення, щоб випустити додаткові промені.",
+                    "Tatertotticus_Armorer_LORE":  "Розшифрований запис, знайдений розвідувальним загоном:\r\n\r\n#1 «Не відставайте, ми майже його втратили. Здається, я трохи його пошкодив.»\r\n\r\n#2 «Я намагаюся, я просто... дуже втомився.»\r\n\r\n#3 «Що це взагалі було... майже схоже на одного з тих божевільних птахів...»\r\n\r\n#1 «Що? Ні за що. Це був ходячий шматок металу, мабуть якась несправна машина.»\r\n\r\n#3 «Кажу тобі, під усією тією механікою був птах!»\r\n\r\n#1 «Так, звісно, просто йдемо далі.»\r\n\r\nЧути гучний удар\r\n\r\n#3 «Чорт, Калем щойно впав...»\r\n\r\n#1 «То підніміть його, нам треба рухатися!»\r\n\r\n#3 «Він не встає; якась дивна металева кірка вкрила половину його костюма!»\r\n\r\nУдалині чути гучний металевий скрегіт, а потім дедалі сильніше гудіння\r\n\r\n#1 «Чорт»\r\n\r\nКінець запису ",
+                    "ACHIEVEMENT_TATERTOTTICUS_ARMORER_GRANDMASTERYACHIEVEMENT_NAME":  "Armorer: Grand Mastery",
+                    "Tatertotticus_Armorer_Phoenix":  "Фенікс",
+                    "Tatertotticus_Armorer_PASSIVE_NAME":  "Важкий метал",
+                    "Tatertotticus_Armorer_Quetzalcoatl":  "Кетцалькоатль",
+                    "Tatertotticus_Armorer_SPECIAL_VIRUS_NAME":  "Прокляття машини",
+                    "ACHIEVEMENT_TATERTOTTICUS_ARMORER_MASTERYACHIEVEMENT_DESCRIPTION":  "Граючи за Броняра, завершіть гру або обнуліться на Мусоні.",
+                    "ACHIEVEMENT_TATERTOTTICUS_ARMORER_HEALINGACHIEVEMENT_NAME":  "Armorer: Repair Expert",
+                    "Tatertotticus_Armorer_SPECIAL_VIRUS_DESCRIPTION":  "Надішліть хвилю наноботів, що дає союзникам поруч бар’єр і посилення шкоди. Детонує Важкий метал на ворогах поруч, завдаючи шкоди за кожен заряд і накладаючи Антизцілення на ослаблені цілі."
+                }
+}

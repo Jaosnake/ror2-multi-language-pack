@@ -1,0 +1,33 @@
+{
+    "strings":  {
+                    "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME":  "Майстерність",
+                    "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME":  "За замовчуванням",
+                    "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME":  "The Deputy: Mastery",
+                    "PRIMARY_SHOOT_NAME":  "Впевнений постріл",
+                    "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME":  "Черелом",
+                    "BOG_DEPUTY_BODY_NAME":  "Заступник",
+                    "MASTERY_SKIN_NAME":  "Заступник: Майстерність",
+                    "BOG_DEPUTY_BODY_OUTRO_FLAVOR":  "..і ось вона пішла, під бурхливі оплески.",
+                    "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME":  "Слінг",
+                    "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC":  "Як заступник, пройдіть гру або знищіть на Monsoon.",
+                    "PRIMARY_SHOOT_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eAgile\u003c/style\u003e. Стріляйте з револьверів середньої дальності, завдаючи \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME":  "Впевнений постріл",
+                    "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eHeavy\u003c/style\u003e. \u003cstyle=cIsUtility\u003eВипад\u003c/style\u003e і рикошетом від ворога, завдаючи \u003cstyle=cIsDamage\u003e800% шкоди\u003c/style\u003e. \u003cstyle=cIsUtility\u003eВбивства скидають час відновлення корисних навичок\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION":  "Підстрибніть високо в повітря та люто стріляйте кулями вниз, завдаючи \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e. Кількість ударів залежить від швидкості атаки.",
+                    "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eAgile\u003c/style\u003e. Кинути два револьвери. Кожен револьвер вистрілить у ворога поблизу, завдаючи \u003cstyle=cIsDamage\u003e6x100% шкоди\u003c/style\u003e, а потім вибухне, завдаючи \u003cstyle=cIsDamage\u003e300% шкоди\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION":  "Заступник може спринтувати в будь-якому напрямку. Удари по ворогам за допомогою її навичок надають бафф \u003cstyle=cIsUtility\u003eшвидкості пересування\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_OUTRO_FAILURE":  "..і так вона зникла, її виступ нарешті закінчився.",
+                    "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME":  "Заступник: Майстерність",
+                    "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eПриголомшливо\u003c/style\u003e. Стрибни вперед і стріляй у ворога під собою, завдаючи \u003cstyle=cIsDamage\u003e4x150% шкоди\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_SUBTITLE":  "Блискавичне правосуддя",
+                    "SPECIAL_SKULLBREAKER_DESCRIPTION":  "\u003cstyle=cIsDamage\u003e800% шкоди\u003c/style\u003e. \u003cstyle=cIsUtility\u003eВбивства скидають час відновлення корисних навичок\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME":  "Падаюча зірка",
+                    "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eAgile\u003c/style\u003e. Стріляйте з револьверів середньої дальності, завдаючи \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_PASSIVE_NAME":  "Невпинна гонитва",
+                    "UTILITY_SHOOTINGSTAR_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eAgile\u003c/style\u003e. Зробіть точний постріл, який можна трохи нахилити вгору. Завдає \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e.",
+                    "SECONDARY_SLING_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eAgile\u003c/style\u003e. Кинути два револьвери. \u003cstyle=cIsDamage\u003eПриголомшливо\u003c/style\u003e. Стрибайте та стріляйте у ворога під собою, щоб отримати \u003cstyle=cIsDamage\u003e6x100% шкоди\u003c/style\u003e.",
+                    "SPECIAL_BULLETHEAVEN_DESCRIPTION":  "Підстрибніть високо в повітря та люто стріляйте кулями вниз, завдаючи \u003cstyle=cIsDamage\u003e150% шкоди\u003c/style\u003e.",
+                    "BOG_DEPUTY_BODY_DESCRIPTION":  "Депутат — гіперагресивний швидкісний демон, який вершить правосуддя за допомогою своїх подвійних револьверів і смертоносних ударів ногами.",
+                    "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME":  "Куля Небеса"
+                }
+}

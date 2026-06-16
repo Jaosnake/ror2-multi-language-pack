@@ -1,0 +1,24 @@
+{
+    "strings":  {
+                    "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION":  "Змахніть палицею попереду, завдаючи 320% шкоди. Пропущення атаки призводить до того, що ви отримуєте 90% шкоди.",
+                    "KENKO_INTERROGATOR_OUTRO_FLAVOR":  "..і тому він пішов, бажаючи застосувати більше «справедливості».",
+                    "KENKO_INTERROGATOR_MASTERY_SKIN_NAME":  "Допитувач: спеціаліст",
+                    "MASTERY_SKIN_NAME":  "Допитувач: спеціаліст",
+                    "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME":  "Засуджений",
+                    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME":  "каторжник (скіпетр)",
+                    "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION":  "Позначте винного ворога та бийтеся з ним протягом 10 секунд. У цей період всі зовнішні пошкодження зводяться нанівець, в тому числі і власні. Ваша основна атака більше не може вразити вас, але постійно збільшує бонус до шкоди Guilty.",
+                    "KENKO_INTERROGATOR_PRIMARY_SWING_NAME":  "Брутальний удар",
+                    "KENKO_INTERROGATOR_DESCRIPTION":  "Допитувач упивається болем інших. Не надто веселіться, завдаючи шкоди своїм союзникам... або зробіть це.\u003c/i\u003e",
+                    "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION":  "Киньте вперед, завдаючи 390% шкоди та застосовуючи Guilty до уражених цілей.",
+                    "KENKO_INTERROGATOR_PASSIVE_NAME":  "Мучити",
+                    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION":  "Кидайте тесак, який завдає 450% шкоди. Якщо тесак вбиває ціль, застосовує кровоточивість і тиск на всіх у цій області.",
+                    "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION":  "Допитувач може вдарити і бути враженим союзниками та ворогами. Зловмисники, які вдарили по Допитувачу, назавжди позначаються як Винні. Завдайте більше 50 базової шкоди кожному Винному ворогу.",
+                    "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME":  "Фальсифікувати",
+                    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION":  "Позначте винного ворога та бийтеся з ним протягом 14 секунд. У цей період зводяться нанівець усі зовнішні пошкодження. Ваша основна атака більше не може вразити вас, але створює бонус до шкоди Guilty з подвійною ефективністю.",
+                    "KENKO_INTERROGATOR_OUTRO_FAILURE":  "..і тому він зник, покараний за свої злочини.",
+                    "KENKO_INTERROGATOR_SUBTITLE":  "Спеціаліст з мук",
+                    "KENKO_INTERROGATOR_NAME":  "Допитувач",
+                    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME":  "Сварка",
+                    "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME":  "За замовчуванням"
+                }
+}

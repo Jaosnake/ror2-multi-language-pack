@@ -1,0 +1,27 @@
+{
+    "strings": {
+        "HOSTGAMEPANEL_TITLE": "Multiplayer Ludus crea",
+        "HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "Ludus Occasus",
+        "HOSTGAMEPANEL_OPTION_SERVER_NAME": "Ludus nomen",
+        "HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION": "ludi nomen tuum.",
+        "HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT": "{0} Audi Servo",
+        "HOSTGAMEPANEL_OPTION_GAME_MODE": "Ludus Modus",
+        "HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION": "Ludus modus ludere vis.",
+        "HOSTGAMEPANEL_OPTION_PASSWORD": "Password",
+        "HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION": "Tessera libitum pro ludo tuo. Histriones sine tessera ad ludum tuum iungere non poterunt.",
+        "HOSTGAMEPANEL_MAX_PLAYERS": "Max Vestibulum",
+        "HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION": "Maximus numerus lusorum in ludo tuo permissus est.",
+        "HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING": "Periculum Pluviae 2 destinatur maximum 4 lusorum. Effectus, Sed, stabilitas, et statera lusoria negative affici possunt.",
+        "HOSTGAMEPANEL_CUSTOM_TAGS": "Custom Tags",
+        "HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION": "Optional tags for your game. Players can filter your lobby with tags.",
+        "HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Patitur dominare Voting",
+        "HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "Utrum histriones ad difficultatem, artificia suffragium permittantur, et magis in moribus selectis.",
+        "HOSTGAMEPANEL_ALLOW_MULTIPLAYER_PAUSE": "Patitur Multiplayer Pause",
+        "HOSTGAMEPANEL_ALLOW_MULTIPLAYER_PAUSE_DESCRIPTION": "Utrum lusores vel non permittantur sibi lusores, sicut alii lusores in VESTIBULUM.",
+        "HOSTGAMEPANEL_LOBBY_TYPE": "VESTIBULUM Visibilitas",
+        "HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Utrum ludus sit necne publicus, vel privatus, vel solus amicus.\n\nPublice apponi debet pro aliis usoribus proponendum.",
+        "HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "Visibilis ad Magister Servo",
+        "HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION": "Utrum ludus sit necne aliis histriones in suo Servo Pasco apparet.",
+        "HOSTGAMEPANEL_HOST": "Satus Ludus"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "strings": {
+        "TOOLTIP_TIME_DIFFICULTY": "Difficultas est <i>SEMPER</i> crescens tempore - celere ludere!",
+        "TOOLTIP_EQUIPMENT": "<color=orange> Equipment</color> potentes sunt, item reducitur.",
+        "TOOLTIP_SPRINT": "Sprint to get around the map!",
+        "TOOLTIP_WIP_CONTENT_NAME": "Sub Construction",
+        "TOOLTIP_WIP_CONTENT_DESCRIPTION": "Haec particula contenti adhuc in evolutione est. Cito redi!",
+        "TOOLTIP_UNLOCK_LOG_NAME": "LIBELLUS Entry Unlocked",
+        "TOOLTIP_UNLOCK_LOG_DESCRIPTION": "Hic ingressum nunc in Logbook apparebit.",
+        "TOOLTIP_UNLOCK_ITEM_NAME": "Item reserata",
+        "TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "This item will now passim in currit.",
+        "TOOLTIP_UNLOCK_EQUIPMENT_NAME": "Apparatu Unlocked",
+        "TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "Apparatum hoc nunc passim in fugit.",
+        "TOOLTIP_UNLOCK_SURVIVOR_NAME": "Superstes reserata",
+        "TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "Superstes nunc praesto est.",
+        "TOOLTIP_UNLOCK_ARTIFACT_NAME": "Artificium Unlocked",
+        "TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "Hoc artificium nunc in promptu est.",
+        "TOOLTIP_UNLOCK_GENERIC_NAME": "reserata",
+        "TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "Hoc contentus nunc praesto est."
+    }
+}

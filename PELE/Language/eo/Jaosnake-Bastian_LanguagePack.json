@@ -1,0 +1,22 @@
+{
+    "strings":  {
+                    "BASTIAN_UTIL":  "Nano-Salto",
+                    "BASTIAN_ROO_DESCRIPTION":  "Bastian la Tradukisto, Modelo 4.I.N.K.",
+                    "BASTIANBODY_MASTERY_SKIN_NAME":  "Majstrajxo",
+                    "BASTIAN_M2_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eLerta\u003c/style\u003e. Pafu gxis 5 energi-kuglojn, cxiu kauxzante \u003cstyle=cIsDamage\u003e250% damagxo\u003c/style\u003e. Konstruas \u003cstyle=cIsUtility\u003eJonajn Sxargojn\u003c/style\u003e. Ne aplikas stunon dum Evada.",
+                    "BASTIAN_OUTRO":  "..kaj tiel li foriris, sia funkcio fine plenumita.",
+                    "BASTIAN_M1_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eProksimabatalo\u003c/style\u003e. \u003cstyle=cIsUtility\u003eLerta\u003c/style\u003e. Batu malamikojn antauxen por \u003cstyle=cIsDamage\u003e250% damagxo\u003c/style\u003e. Konstruas \u003cstyle=cIsUtility\u003eJonajn Sxargojn\u003c/style\u003e. Damagxo estas duonigita dum Evada.",
+                    "BASTIAN_M1":  "Jona Svingo",
+                    "BASTIAN_FAIL":  "..kaj tiel li malaktivigxis, lia memoro por cxiam forigita.",
+                    "BASTIAN_DESCRIPTION":  "Loka roboto, konstruita por helpi negoci interkonsentojn kun fremdaj planetaj korpoj. Gxia originala celo estis funkcii kiel perantilo, desegnita por survivi sur planedoj kun aero kaj temperaturoj, kiujn normala homo ne povus elteni. Gxi estis alportita sur la UES Contact Light kiel parto de kontingenta plano. Tamen, gxi finfine estis reprogramita por batalo, malgraux tio estante simpla preni-kaj-porti-misio.",
+                    "BASTIAN_SUBTITLE":  "Renovigita Tradukroboto",
+                    "BASTIANBODY_DEFAULT_SKIN_NAME":  "Defauxlta",
+                    "BASTIAN_M2":  "Mikro-Kuglo",
+                    "BASTIAN_UTIL_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eEfektivigu\u003c/style\u003e rapidan impulson en iu ajn direkto. Konstruas \u003cstyle=cIsUtility\u003eJonajn Sxargojn\u003c/style\u003e.",
+                    "BASTIAN_SPEC":  "Eksplodo de la Arkitekto",
+                    "BASTIAN_SPEC_DESCRIPTION":  "Elspenu \u003cstyle=cIsHealth\u003e33% de nuna sano\u003c/style\u003e kaj \u003cstyle=cIsUtility\u003ecxiujn Jonajn Sxargojn\u003c/style\u003e por masiva eksplodo de \u003cstyle=cIsDamage\u003e500%-3,000% damagxo\u003c/style\u003e. Post uzo, farigxu \u003ccolor=#E9AFEA\u003eEvada\u003c/color\u003e dum 10 sekundoj.",
+                    "BASTIAN_NAME":  "Bastian",
+                    "BASTIAN_NAME_EPIC":  "Bastian la Tradukisto, Modelo 4.I.N.K.",
+                    "BASTIAN_SPEC_KEYWORD":  "Speciala"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "strings": {
+        "EOS_LINK_ACCOUNT": "Ligu Epic Games-Konton",
+        "EOS_NOT_LINKED_TITLE": "Konto de Epic Games Ne Ligita",
+        "EOS_NOT_LINKED_MESSAGE": "Kruc-ludado estis ebligita, sed vi ne havas Epic Games-konton ligitan al via Steam-konto. Premu Reprovi por ligi kontojn denove, aŭ Nuligi por malŝalti kruc-ludon kaj eliri la ludon.",
+        "EOS_RETRY_LOGIN": "Reprovi",
+        "EOS_DEACTIVATE_CROSSPLAY_RESTART": "Nuligi",
+        "EOS_SERVER_BROWSER_INFO": "Montrante nur transludajn vestiblojn.",
+        "EOS_TOGGLE_POPUP_TITLE": "Rekomenco Bezonata",
+        "EOS_TOGGLE_POPUP_MESSAGE": "Ludo-rekomenco estas postulata por ke transludaj ŝanĝoj ekvalidu. Premu Nun por fermi la ludon aŭ Poste por daŭrigi ludi.",
+        "EOS_TOGGLE_CLOSE_NOW": "Nun",
+        "EOS_TOGGLE_CLOSE_LATER": "Poste",
+        "EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "AVERTO: Ŝanĝi ĉi tiun agordon postulos rekomencon de la ludo.\n\nKruc-ludado permesas al uzantoj de Steam ludi kun uzantoj de Epic Games. Kruc-ludado postulas, ke vi ligu vian Steam-konton kun Epic Games-konto.\n\nKun kruc-ludado ebligita, vi nur vidos vestiblojn de Epic Games aŭ Steam-uzantoj kun kruc-ludado ebligita.\n\nKun kruc-ludado malebligita, vi nur vidos vestiblojn de aliaj Steam-uzantoj, kiuj ne ebligis kruc-ludon.",
+        "EOS_CANNOT_JOIN_STEAM_LOBBY_HEADER": "Ne Povas Aliĝi al Lobby",
+        "EOS_CANNOT_JOIN_STEAM_LOBBY_MESSAGE": "Ne eblas aliĝi al ne-interluda Steam-lobio ĉar kruc-ludado estas ebligita.  Ĉi tiu opcio povas esti ŝanĝita en la agorda menuo.",
+        "EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "La vestiblo al kiu vi provas aliĝi postulas krucludon. Ebligu kruc-ludon en la agorda menuo por aliĝi al la vestiblo (postulas rekomencon)",
+        "EOS_INVALID_LOBBY_NO_CROSSPLAY_DESCRIPTION": "La vestiblo al kiu vi provas aliĝi havas krucludon malŝaltita. Malebligu kruc-ludon en la agorda menuo por aliĝi al la vestiblo (postulas rekomencon)",
+        "EOS_INVALID_LOBBY_CROSSPLAY_GO_TO_SETTINGS": "Iru al Agordoj",
+        "EOS_LINK_ACCOUNT_DESCRIPTION": "Ligi aŭ krei Epic Games-Konton ebligas al vi inviti viajn amikojn de Epic Games Store kaj ricevi invitojn de ili.",
+        "OPTION_EOS_LINK_ACCOUNT": "Ligu vian Epic Games-Konton"
+    }
+}
