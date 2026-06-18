@@ -14,11 +14,14 @@ public class LanguageHotReload : IDisposable
     public event Action<string, string> OnTokenReloaded;
     public event Action<string> OnFileReloaded;
     public event Action<IEnumerable<string>> OnBatchReloaded;
+    public event Action OnBeforeReload;
+    public event Action OnAfterReload;
 
     public bool IsEnabled { get; private set; }
     public string WatchDirectory { get; private set; }
 
-    private FileSystemWatcher _watcher;
+    private FileSystemWatcher _languageWatcher;
+    private FileSystemWatcher _jsonWatcher;
     private readonly Dictionary<string, DateTime> _lastModified = new();
     private readonly Queue<string> _pending = new();
     private readonly object _lock = new();
@@ -29,7 +32,7 @@ public class LanguageHotReload : IDisposable
         if (IsEnabled) Disable();
         if (!Directory.Exists(directory))
         {
-            Debug.LogError($"[LanguageAPI] Diretório não encontrado: {directory}");
+            Debug.LogError($"[LanguageAPI] Diretorio nao encontrado: {directory}");
             return;
         }
 
@@ -37,23 +40,38 @@ public class LanguageHotReload : IDisposable
 
         try
         {
-            _watcher = new FileSystemWatcher(directory)
+            _languageWatcher = new FileSystemWatcher(directory)
             {
                 Filter = "*.language",
                 IncludeSubdirectories = true,
                 NotifyFilter = NotifyFilters.LastWrite | NotifyFilters.FileName
             };
 
-            _watcher.Changed += OnChanged;
-            _watcher.Created += OnChanged;
-            _watcher.Deleted += OnChanged;
-            _watcher.EnableRaisingEvents = true;
+            _languageWatcher.Changed += OnChanged;
+            _languageWatcher.Created += OnChanged;
+            _languageWatcher.Deleted += OnChanged;
+            _languageWatcher.EnableRaisingEvents = true;
+
+            var peleJsonDir = Path.Combine(directory, "PELE", "Language");
+            if (Directory.Exists(peleJsonDir))
+            {
+                _jsonWatcher = new FileSystemWatcher(peleJsonDir)
+                {
+                    Filter = "*.json",
+                    IncludeSubdirectories = true,
+                    NotifyFilter = NotifyFilters.LastWrite | NotifyFilters.FileName
+                };
+
+                _jsonWatcher.Changed += OnChanged;
+                _jsonWatcher.Created += OnChanged;
+                _jsonWatcher.Deleted += OnChanged;
+                _jsonWatcher.EnableRaisingEvents = true;
+            }
 
             _debounceTimer = new Timer(500) { AutoReset = false };
             _debounceTimer.Elapsed += (_, _) => ProcessPending();
 
             IsEnabled = true;
-            Debug.Log($"[LanguageAPI] Hot-Reload habilitado: {directory}");
         }
         catch (Exception ex)
         {
@@ -63,20 +81,33 @@ public class LanguageHotReload : IDisposable
 
     public void Disable()
     {
-        if (_watcher != null)
+        if (_languageWatcher != null)
         {
-            _watcher.Changed -= OnChanged;
-            _watcher.Created -= OnChanged;
-            _watcher.Deleted -= OnChanged;
-            _watcher.Dispose();
-            _watcher = null;
+            _languageWatcher.Changed -= OnChanged;
+            _languageWatcher.Created -= OnChanged;
+            _languageWatcher.Deleted -= OnChanged;
+            _languageWatcher.Dispose();
+            _languageWatcher = null;
+        }
+
+        if (_jsonWatcher != null)
+        {
+            _jsonWatcher.Changed -= OnChanged;
+            _jsonWatcher.Created -= OnChanged;
+            _jsonWatcher.Deleted -= OnChanged;
+            _jsonWatcher.Dispose();
+            _jsonWatcher = null;
         }
 
         _debounceTimer?.Stop();
         _debounceTimer?.Dispose();
         _debounceTimer = null;
 
-        lock (_lock) _pending.Clear();
+        lock (_lock)
+        {
+            _pending.Clear();
+            _lastModified.Clear();
+        }
         IsEnabled = false;
     }
 
@@ -91,7 +122,6 @@ public class LanguageHotReload : IDisposable
                 var lastWrite = File.GetLastWriteTime(e.FullPath);
                 if (_lastModified.TryGetValue(e.FullPath, out var prev) && prev == lastWrite)
                     return;
-
                 _lastModified[e.FullPath] = lastWrite;
             }
             catch
@@ -109,12 +139,15 @@ public class LanguageHotReload : IDisposable
 
     private void ProcessPending()
     {
+        if (!IsEnabled) return;
         List<string> files;
         lock (_lock)
         {
             files = new List<string>(_pending);
             _pending.Clear();
         }
+
+        OnBeforeReload?.Invoke();
 
         LanguageAPI.ClearAllTokens();
 
@@ -143,7 +176,7 @@ public class LanguageHotReload : IDisposable
             }
         }
 
-        Debug.Log($"[LanguageAPI] CLEAN completo: {count} tokens recarregados de {allFiles.Length} arquivos");
         OnBatchReloaded?.Invoke(allFiles);
+        OnAfterReload?.Invoke();
     }
 }

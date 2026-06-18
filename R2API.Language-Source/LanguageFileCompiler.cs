@@ -11,7 +11,7 @@ public class LanguageFileCompiler
     public void CompileLanguageFiles(string sourceDir, string outputDir)
     {
         if (!Directory.Exists(sourceDir))
-            throw new DirectoryNotFoundException($"Origem não encontrada: {sourceDir}");
+            throw new DirectoryNotFoundException($"Origem nao encontrada: {sourceDir}");
 
         if (!Directory.Exists(outputDir))
             Directory.CreateDirectory(outputDir);
@@ -40,7 +40,7 @@ public class LanguageFileCompiler
         }
 
         if (errors.Any())
-            throw new AggregateException("Erros na compilação:", errors.Select(e => new Exception(e)));
+            throw new AggregateException("Erros na compilacao:", errors.Select(e => new Exception(e)));
     }
 
     private static string CompileFile(string filePath)
@@ -50,9 +50,14 @@ public class LanguageFileCompiler
         sb.AppendLine($"// {Path.GetFileName(filePath)}");
         sb.AppendLine();
 
-        var tokens = LanguageFileHelper.ParseTokensFromFile(filePath);
-        foreach (var kvp in tokens)
-            sb.AppendLine($"{kvp.Key}={kvp.Value}");
+        var parsed = LanguageFileHelper.ParseTokensFromFile(filePath);
+
+        foreach (var langKvp in parsed)
+        {
+            var language = langKvp.Key;
+            foreach (var tokenKvp in langKvp.Value)
+                sb.AppendLine($"{language}.{tokenKvp.Key}={tokenKvp.Value}");
+        }
 
         return sb.ToString().TrimEnd();
     }
