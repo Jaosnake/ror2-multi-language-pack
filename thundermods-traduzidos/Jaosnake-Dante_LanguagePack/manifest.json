@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Dante_LanguagePack",
-    "description": "Multi-language translation pack for Dante by rob - translated by Jaosnake",
+    "description": "Multi-language translation pack for Dante by rob.",
     "dependencies": [
         "rob-Dante-0.0.71",
         "RiskofThunder-R2API_Language-1.1.0"

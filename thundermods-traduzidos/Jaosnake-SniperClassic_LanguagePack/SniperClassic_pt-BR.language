@@ -1,6 +1,6 @@
 {
     "pt-BR": {
-        "SNIPERCLASSIC_BODY_NAME": "Atirador",
+        "SNIPERCLASSIC_BODY_NAME": "Sniper",
         "SNIPERCLASSIC_BODY_SUBTITLE": "Olho de Águia",
         "SNIPERCLASSIC_OUTRO_FLAVOR": "... e assim eles se foram, ignorando o zumbido que continuava a ecoar.",
         "SNIPERCLASSIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "... e assim eles desapareceram, sem ao menos serem lembrados.",
@@ -34,13 +34,13 @@
         "SNIPERCLASSIC_BODY_LORE": "bio: Sniper nasceu com um poder especial, ele era mais forte que seus companheiros de tripulação na UES Contact Light. Ele serviu na província militar Risk of Rain e na batalha final contra Providência, até que Providência o afundou em trevas. No meio da batalha, ele foi morto pelo seu próprio drone Observador, e não me pergunte o porque. Além disso, capas são maneiras, dane-se você space_cowboy226, todo mundo sabe que você rouba todos os itens raros seu idiota\n\n<style=cIsHealing>gosta de: atirar, ser maneiro (no estilo gearbox), Pés-de-Cabra, o Ceifador (do jogo deadbolt), matar, morte, dubstep, cambalhotas, chroma key da razer, uma caçadora gostosa que se veste de forma inapropriada, chamarizes, o ceifador (agora da vida real), armas de raio, capas (do jeito descolado, não do frouxo)</style>\n\n<style=cIsHealth>não gosta: drones obsevadores, espíritos, elites poderosos, o Enforcer da UES -é isso mesmo executor vai se ferrar e pare de aparecer no meu deviantart seu merda-, Mithrix, plantinhas de escritório, space_cowboy226 (o maior idiota aí), chuva, vida, o Capitão, Vermes Sobrecarregados</style>\n\n<color=#FF0000>@risk_of_rainin_blood</color>",
         "SNIPERCLASSIC_MASTERY_SKIN_NAME": "Operativo",
         "SNIPERCLASSIC_GRANDMASTERY_SKIN_NAME": "Expedição",
-        "SNIPERCLASSIC_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sniper: Mastery",
+        "SNIPERCLASSIC_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sniper: Domínio",
         "SNIPERCLASSIC_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Sniper, vença o jogo ou aniquile em Monção.",
         "SNIPERCLASSIC_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sniper: Domínio",
-        "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sniper: Grand Mastery",
+        "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sniper: Grande Domínio",
         "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Sniper, vença o jogo ou aniquile em Tufão ou Eclipse.\n<color=#8888>(A dificuldade Tufão requer o mod Starstorm 2)</color>",
         "SNIPERCLASSIC_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sniper: Grande Domínio",
-        "SNIPERCLASSIC_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Spotted",
+        "SNIPERCLASSIC_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Na Mira",
         "SNIPERCLASSIC_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "Repare um Drone de Equipamento com um Radar Escaneador.",
         "SNIPERCLASSIC_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Na Mira"
     }

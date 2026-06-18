@@ -1,0 +1,22 @@
+{
+    "eo": {
+        "NDP_DANCER_BODY_NAME": "Dancistino",
+        "NDP_DANCER_BODY_SUBTITLE": "Mortiga Danco",
+        "NDP_DANCER_BODY_DEFAULT_SKIN_NAME": "Defauxlta",
+        "NDP_DANCER_GOLD_SKIN_NAME": "Ora",
+        "NDP_DANCER_BODY_PASSIVE_NAME": "Restrikta Bendo",
+        "NDP_DANCER_BODY_PASSIVE_DESCRIPTION": "Malamikoj kun bendo sangas je 50% damagxo po sekundo kaj ne povas agi.</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_NAME": "Trancxo",
+        "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION": "Korpa atako kun efikoj depende de via celado. (Sxovu muson por detaloj)</i>",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME": "Trancxeto",
+        "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION": "Korpa atako kun efikoj depende de via celado. (Sxovu muson por detaloj)</i>",
+        "NDP_DANCER_BODY_UTILITY_PULL_NAME": "Tiro",
+        "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION": "Tiru malamikojn al vi.</i>",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME": "Liganta Bendo",
+        "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION": "Aplikas bendon al malamiko, malebligante al gxi agi kaj kauxzante sangadon.</i>",
+        "KEYWORD_DANCER_JAB": "<style=cKeywordName>Bato</style><style=cSub>Tera enigo, celu antauxen. Saltu antauxen kaj kauxzu <style=cIsDamage>180% da damagxo</style>.",
+        "KEYWORD_DANCER_DOWNTILT": "<style=cKeywordName>Suba Bato</style><style=cSub>Tera enigo, celu malsupren. Jxetu malamikojn supren kaj kauxzu <style=cIsDamage>200% da damagxo</style>.",
+        "KEYWORD_DANCER_FORWARDAIR": "<style=cKeywordName>Antauxa Aera Bato</style><style=cSub>Aera enigo, celu antauxen. Peza frapo kauxzanta <style=cIsDamage>180% da damagxo</style> kaj alpinglas malamikojn al la tero, stuporigante kaj kauxzante gxis <style=cIsDamage>300% da damagxo</style>.",
+        "KEYWORD_DANCER_RIBBON": "<style=cKeywordName>Bendo</style><style=cSub>Bendigitaj malamikoj sangas je <style=cIsDamage>50% da damagxo po sekundo</style> kaj ne povas agi."
+    }
+}

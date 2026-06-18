@@ -20,5 +20,12 @@
         "SS2_ITEM_REMUNERATION_PICKUP": "<link=\"textWavy\">……代价是什么?……</link>",
         "SS2_ITEM_REMUNERATION_FAILURE": "<color=#f4adfa><link=\"textWavy\">何等铭心刻骨……</link></color>",
         "SS2_REMUNERATION_TERMINAL_NAME": "祭坛"
+    },
+    "zh-CN": {
+        "SS2_ITEM_HUNTERSSIGIL_DESC": "静止1秒后，生成一个8米区域，使所有友军获得30护甲（每层+15）和30%伤害（每层+15%）。离开区域前效果持续。",
+        "SS2_ITEM_FIELDACCELERATOR_DESC": "击败传送器首领后，传送器半径提高20%（每层+20%），击杀敌人获得+1%传送器充能。",
+        "SS2_ITEM_BLOODTESTER_DESC": "每30秒，根据你每拥有25金币快速恢复15生命值（每层+15）。随时间成长。",
+        "SS2_ITEM_JETBOOTS_DESC": "获得+1次额外跳跃，点燃7.5米范围内的敌人并造成500%基础伤害（每层+5米）。落地5秒后重新充能。",
+        "SS2_EQUIP_BACKTHRUSTER_DESC": "8秒内，沿直线移动时快速加速至200%移动速度。"
     }
 }

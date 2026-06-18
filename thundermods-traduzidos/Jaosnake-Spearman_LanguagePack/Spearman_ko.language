@@ -23,11 +23,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "창병의 창",
         "SPEARMAN_INTERACTABLE_CONTEXT": "근절",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "두개골에 박혀 있는 무기를 회수하세요.",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Spearman으로 게임에서 승리하거나 Monsoon에서 말살하세요.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "창병으로 Warriors Spear를 한 번 시전하여 적 10명을 처치하십시오.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
         "SPEARMAN_ALTM1": "전사의 자세",
         "SPEARMAN_ALTM1_DESCRIPTION": "창을 앞으로 찔러 <style=cIsDamage>400% 피해</style>를 입히고 바람 칼날을 던져 <style=cIsDamage>200% 피해</style>를 입힙니다."
     }

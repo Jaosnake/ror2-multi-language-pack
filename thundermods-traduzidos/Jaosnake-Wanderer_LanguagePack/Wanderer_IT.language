@@ -1,6 +1,6 @@
 {
-    "IT": {
-        "KENKO_UNFORGIVEN_NAME": "Vagabondo",
+    "it": {
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
         "KENKO_UNFORGIVEN_SUBTITLE": "L'Imperdonabile",
         "KENKO_UNFORGIVEN_LORE": "Se muori contro Yasuo, sei stato surclassato. Significa che ha dovuto calcolare (ed eseguire) il combattimento esattamente secondo le sue specifiche, tenendo conto dei tuoi cooldown e i suoi, la posizione di entrambi i jungler, le ondate di minion e il 'sentimento' generale della corsia (un'abilità che deve essere affinata attraverso anni, forse decenni di ciò che chiami semplicemente 'gaming'). In effetti, essere sconfitto da Yasuo significa rendersi conto di aver trovato il proprio migliore, sia come giocatore che come uomo. Il tuo coraggio ti ha abbandonato, ma il giocatore di Yasuo è acciaio massiccio -duro, freddo, affidabile- e mentre si assicura il primo sangue e tu attendi con ansia il voto di resa, la sua mente sta ancora operando a piena capacità preparando strategie per un numero quasi infinito di possibilità. Mi prendo i miei LP ora, assicurati di fare bene i tuoi ban la prossima volta.",
         "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..e così se ne andò, 10/0.",
@@ -19,7 +19,7 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Primo Respiro",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teletrasportati su un nemico <style=cIsUtility>in volo</style> selezionato o vicino e attacca rapidamente per <style=cIsDamage>2x250% + 800% di danno</style>. Ottieni <style=cIsDamage>penetrazione armatura</style> bonus per 6 secondi.\n<color=#d299ff>SCETTRO: <style=cIsUtility>Reimposta il tempo di recupero della tua secondaria</style>. I nemici colpiti da <color=#FFBF66>Primo Respiro</color> possono essere nuovamente bersagliati da <color=#FFBF66>Lama Radente</color>.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Nei panni del Vagabondo, finisci il gioco o distruggi durante Monsoon.",
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon.",
         "KENKO_UNFORGIVEN_DESCRIPTION": "Il Wanderer è un sopravvissuto con bassa soglia di abilità e alto potenziale che può usare le cancellazioni delle animazioni per mantenere alto il suo DPS.<color=#CCD3E0>"
     }
 }

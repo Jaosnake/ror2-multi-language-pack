@@ -1,0 +1,24 @@
+﻿{
+    "tr": {
+        "CHAOSANGELOID_CHAOS_NAME": "Kaos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Tip Epsilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..ve bÃ¶ylece gitti, bir dÃ¼nya daha aÅŸka kurban gitti.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..ve bÃ¶ylece kayboldu, daha fazla sevgi Ã¶zlemiyle.",
+        "CHAOSANGELOID_CHAOS_LORE": "Dilemek harika bir ÅŸey\u2014tÃ¼m umutlarÄ±nÄ±zÄ±n ve hayallerinizin tek bir dÃ¼ÅŸÃ¼ncede birleÅŸmesidir.\nBirÃ§ok kiÅŸi zenginlik, servet diler.\nDiÄŸerleri saÄŸlÄ±k diler.\nBazÄ±larÄ± sevgi diler.\n\nPeki ya dileÄŸiniz sizin sonunuz olursa?\n\nBir ÅŸeyi sevdiÄŸinizde, onun size zarar verdiÄŸi veya onu kaybettiÄŸiniz an, acÄ±ya dÃ¶nÃ¼ÅŸÃ¼r.\nAcÄ± durmaz. KalÄ±cÄ±dÄ±r. Peki\u2026 acÄ± aÅŸk mÄ±dÄ±r?\n\nBence Ã¶yle. YolculuÄŸumda attÄ±ÄŸÄ±m her adÄ±m aÅŸka gÃ¶tÃ¼rdÃ¼\u2014Ã§ok fazla aÅŸka.\nDÃ¼nyayÄ± aÅŸkla lekeledim.\n\nKeÅŸke herkes bunu deneyimleyebilseydi\u2014her gezegen, yalnÄ±zca DÃ¼nya deÄŸil, yalnÄ±zca Synapse deÄŸil, yalnÄ±zca Efendim deÄŸil.\n\nYolculuÄŸumda bana eÅŸlik eder misin?\nDÃ¼nyayÄ± kÄ±rmÄ±zÄ±ya boyamama ve sevinÃ§ten titrediklerini duymama yardÄ±m eder misin?\n\nBir kez daha bebeklerimle oynamama izin ver.\nBeni Ã¶zgÃ¼r bÄ±rak.\nEfendim ol.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Tip 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "YakÄ±ndaki varlÄ±klarÄ± tarar, konumlarÄ±nÄ± vurgular. Efendiler her zaman vurgulanÄ±r. Vurgulanan dÃ¼ÅŸmanlar, Efendilerden <style=cIsDamage>20%</style> daha fazla hasar alÄ±r.",
+        "CHAOS__M1": " lekeli Alevler",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>AteÅŸe Vermek</style>. HÄ±zlÄ± bir ÅŸekilde art arda ateÅŸ toplarÄ± fÄ±rlatarak <style=cIsDamage>220% hasar</style> verir.",
+        "CHAOS__M2": "Aegis",
+        "CHAOS__M2_DESCRIPTION": "Gelen tÃ¼m hasarlara karÅŸÄ± koru.",
+        "CHAOS__UTIL": "Chimaira",
+        "CHAOS__UTIL_DESCRIPTION": "HÄ±zla ileri atÄ±l.",
+        "CHAOS__SPEC": " lekeli AteÅŸ Topu",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>AteÅŸe Vermek</style>. <style=cIsUtility>10s</style> boyunca alevli bir kÃ¼re yÃ¼kleyin, <style=cIsDamage>400%-2000% hasar</style> verir ve yeri yakarak saniyede <style=cIsDamage>10%</style> hasar verir. En az <style=cIsUtility>5s</style> yÃ¼klemek, Kaos'un bunun yerine bir Ã¶lÃ¼m Ä±ÅŸÄ±nÄ± salmasÄ±na neden olur ve saniyede <style=cIsDamage>2000% hasar</style> verir. <style=cIsUtility>5s</style> Ã¼zerinde yÃ¼klemek Ã¶lÃ¼m Ä±ÅŸÄ±nÄ±nÄ±n sÃ¼resini artÄ±rÄ±r.",
+        "CHAOS__F": "Uşak, Yüksel!",
+        "CHAOS__F_DESCRIPTION": "25m icinde yakinda oldurulmus bir dusmani otomatik olarak usak olarak diriltir. 3 dakika surer.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "VarsayÄ±lan"
+    }
+}
+

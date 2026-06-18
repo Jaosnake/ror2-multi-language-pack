@@ -1,6 +1,6 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Носіть одночасно 4 прапори війни."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Carry 4 Warbanners at once."
+  }
 }

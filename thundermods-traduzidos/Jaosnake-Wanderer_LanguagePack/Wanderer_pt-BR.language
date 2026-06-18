@@ -1,6 +1,6 @@
 {
     "pt-BR": {
-        "KENKO_UNFORGIVEN_NAME": "Andarilho",
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
         "KENKO_UNFORGIVEN_DESCRIPTION": "O Wanderer é um sobrevivente de baixo piso de habilidade e alto teto que pode usar cancelamentos de animação para manter seu dano alto.<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "O Imperdoável",
         "KENKO_UNFORGIVEN_LORE": "se você morrer para o yasuo, você foi superado. significa que ele teve que calcular (e executar) a luta exatamente conforme suas especificações, levando em conta seus tempos de recarga e os dele, a posição de ambos os caçadores, as ondas de tropas e a sensação geral da rota (uma habilidade que precisa ser aprimorada por anos, talvez décadas do que você chama meramente de \"jogar\"). De fato, ser derrotado pelo yasuo é perceber que você encontrou seu superior, tanto como jogador quanto como homem. Sua coragem falhou, mas o jogador de yasuo é aço sólido -duro, frio, confiável- e enquanto ele garante o primeiro sangue e você aguarda ansiosamente pela votação de rendição, a mente dele ainda está operando em capacidade máxima preparando estratégias para um número quase infinito de possibilidades. Vou levar meus PDL agora, certifique-se de fazer seus banimentos corretamente da próxima vez.",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Primeiro Suspiro",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teleporta para um inimigo <style=cIsUtility>aéreo</style> próximo ou marcado e ataca rapidamente causando <style=cIsDamage>2x250% + 800% de dano</style>. Ganha <style=cIsDamage>penetração de armadura</style> bônus por 6 segundos.\n<color=#d299ff>CETRO: <style=cIsUtility>Redefine o tempo de recarga da sua habilidade secundária</style>. Inimigos atingidos pelo <color=#FFBF66>Primeiro Suspiro</color> podem ser alvos da <color=#FFBF66>Lâmina Varredora</color> novamente.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Wanderer, vença o jogo ou destrua em Monsoon."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

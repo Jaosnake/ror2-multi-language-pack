@@ -1,6 +1,6 @@
 {
-    "IT": {
-        "SPEARMAN_NAME": "Lanciere",
+    "it": {
+        "SPEARMAN_NAME": "Spearman",
         "SPEARMAN_SUBTITLE": "Dio di Petrichor",
         "SPEARMAN_LORE": "\"Sono un assassino. Non sono un 'Protettore'. Nessun 'Baluardo'. Ho passato tutta la mia vita ad allenarmi per combattere da quando siamo rimasti bloccati qui, e ho amato ogni secondo. Sono un sopravvissuto. Un guerriero. Non so nulla di questa vita che hai avuto, né mi interessa. Quello che so è che sta per finire.\"\n\n\"Tu.. mostro...\"\n\n\"Niente che non mi sia già stato detto prima.\"\n\nVoltò le spalle alla figura divina.\n\n\"Potrò anche essere un mostro, ma tu non sei altro che un falso dio. Nient'altro che un'altra tacca sull'asta della mia lancia. Un trofeo di cui intendo sorridere al ricordo dell'uccisione.\"\n\n\"Come...?\"\n\nIn silenzio, il guerriero si voltò di nuovo verso il dio ed entrò nella sua posizione finale. La sua lancia crepitò di vita, energia che sprizzava dalla sua punta.\n\n\"Sparisci.\"\n\nSferra il colpo finale, scuotendo il vecchio scafo malconcio della nave.\n\nC'è silenzio.\n\nLa nave si rianima con un ronzio. Riesce a vedere un vecchio alleato sul ponte, che armeggia con i controlli.\n\n\"No...\" ringhiò. \"Non ancora..\"\n\nSalta giù dalla nave e la guarda mentre parte.\n\n\"Ora sono io dio. Vediamo quanto durerà questo pianeta.\"\n\nmentre i suoi occhi vagano verso i vermi morti.",
         "SPEARMAN_OUTRO": "..e così se ne andò, dio di un pianeta agonizzante.",
@@ -22,11 +22,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "Lancia di Spearman",
         "SPEARMAN_INTERACTABLE_CONTEXT": "Sterminare",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Recupera l'arma conficcata nel teschio.",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Nei panni di Spearman, finisci il gioco o annienta durante Monsoon.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Nei panni di Lanciere, uccidi 10 nemici con un solo lancio di Lancia del Guerriero.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
         "SPEARMAN_DESCRIPTION": "Lo Spearman è un guerriero equilibrato che usa la sua lancia per infliggere danni devastanti da vicino e da lontano. Armato solo della sua fidata lancia, cerca il potere assoluto.",
         "SPEARMAN_ALTM1": "Postura del Guerriero",
         "SPEARMAN_ALTM1_DESCRIPTION": "Affondi la lancia in avanti infliggendo <style=cIsDamage>400% di danno</style> e lanci una lama di vento per <style=cIsDamage>200% di danno</style>."

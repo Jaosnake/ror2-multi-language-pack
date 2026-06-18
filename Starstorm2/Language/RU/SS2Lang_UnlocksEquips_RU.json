@@ -1,6 +1,6 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Носите с собой 4 боевых знамени одновременно."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Carry 4 Warbanners at once."
+  }
 }

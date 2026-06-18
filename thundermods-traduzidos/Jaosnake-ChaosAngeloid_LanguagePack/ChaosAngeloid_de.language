@@ -1,0 +1,24 @@
+﻿{
+    "de": {
+        "CHAOSANGELOID_CHAOS_NAME": "Chaos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Typ Epsilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..und so ging sie, eine weitere Welt verloren an die Liebe.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..und so verschwand sie, sich nach mehr Liebe sehnend.",
+        "CHAOSANGELOID_CHAOS_LORE": "WÃ¼nschen ist etwas Wunderbares\u2014es sind all deine Hoffnungen und TrÃ¤ume vereint in einem einzigen Gedanken.\nViele wÃ¼nschen sich Reichtum, SchÃ¤tze.\nAndere wÃ¼nschen sich Gesundheit.\nManche wÃ¼nschen sich Liebe.\n\nDoch was, wenn dein Wunsch zu deinem Untergang wird?\n\nWann immer du etwas liebst, wird es in dem Moment, in dem es dich verletzt oder du es verlierst, zu Schmerz.\nSchmerz hÃ¶rt nicht auf. Er bleibt. Also\u2026 ist Schmerz Liebe?\n\nIch denke schon. Jeder Schritt, den ich auf meiner Reise gemacht habe, fÃ¼hrte zur Liebe\u2014so viel Liebe.\nIch habe die Welt mit Liebe befleckt.\n\nIch wÃ¼nschte, jeder kÃ¶nnte es erfahren\u2014jeder Planet, nicht nur die Erde, nicht nur Synapse, nicht nur mein Meister.\n\nWirst du mich auf meiner Reise begleiten?\nWirst du mir helfen, die Welt rot zu fÃ¤rben\u2026 und sie vor Freude zittern zu hÃ¶ren?\n\nLass mich wieder mit meinen Puppen spielen.\nBefreie mich.\nWerde mein Meister.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Typ 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "Scannt nahe Wesen und hebt deren Position hervor. Meister sind jederzeit hervorgehoben. Hervorgehobene Feinde erleiden <style=cIsDamage>20%</style> mehr Schaden von Meistern.",
+        "CHAOS__M1": "Befleckte Flammen",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>EntzÃ¼nden</style>. Feuere schnell hintereinander FeuerbÃ¤lle fÃ¼r <style=cIsDamage>220% Schaden</style>.",
+        "CHAOS__M2": "Aegis",
+        "CHAOS__M2_DESCRIPTION": "SchÃ¼tze vor allem eingehenden Schaden.",
+        "CHAOS__UTIL": "Chimaira",
+        "CHAOS__UTIL_DESCRIPTION": "Schnell vorwÃ¤rts stÃ¼rmen.",
+        "CHAOS__SPEC": "Befleckter Feuerball",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>EntzÃ¼nden</style>. Lade einen flammenden Orb bis zu <style=cIsUtility>10s</style> auf, der <style=cIsDamage>400%-2000% Schaden</style> verursacht und den Boden verbrennt, der <style=cIsDamage>10%</style> des Schadens pro Sekunde zufÃ¼gt. Aufladen fÃ¼r mindestens <style=cIsUtility>5s</style> lÃ¤sst Chaos stattdessen einen Todesstrahl freisetzen, der <style=cIsDamage>2000% Schaden</style> pro Sekunde verursacht. Aufladen Ã¼ber <style=cIsUtility>5s</style> erhÃ¶ht die Dauer des Todesstrahls.",
+        "CHAOS__F": "Diener, Erhebe!",
+        "CHAOS__F_DESCRIPTION": "Erweckt automatisch einen kürzlich getöteten Feind innerhalb von 25m als Diener. Hält 3 Minuten.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Standard"
+    }
+}
+

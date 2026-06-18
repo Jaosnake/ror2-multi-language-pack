@@ -120,7 +120,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "次の攻撃を受け流す盾を出現させます。パリーに成功すると、攻撃者と近くの敵にショックを与えてダメージを与えます。",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "次の攻撃を<style=cIsHealing>受け流す<style=cIsHealing>シールド</style>を召喚します。パリーに成功すると、<style=cIsDamage>shock</style>、攻撃者と近くの敵に 2000% <style=cIsDamage>damage</style> のダメージを与えます。",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "故障した機器に関する転写。故障率 30% のガルバニック シールドのバッチについての船長と技術者の会話。",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "サンドスイーパー",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "周囲の砂を掃きます。",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "すべての敵を半径 20m 以内に押し込み、距離に応じて最大 6 秒間、最大 500% の <style=cIsDamage> ダメージ </style> と <style=cIsUtility> 驚異の </style> を与えます。",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "UESC の警察官と敬意の殿堂の管理人の間で行われた、ほうきとエリヤという名前の逃亡者に関する尋問の記録。",

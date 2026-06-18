@@ -12,7 +12,7 @@
         "CLOUDBURST_WYATT_PASSIVE_NAME": "Walkman",
         "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "In caso di colpo, ottieni uno stack di <style=cIsUtility>Groove</style>, garantendo <style=cIsUtility>20% di velocità di movimento</style> per stack. Diminuisce fuori dal combattimento.",
         "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "Scopa gravitazionale G22",
-        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Oscilla la tua scopa per <style=cIsDamage>100% di danni</style>. Ogni terzo colpo infligge <style=cIsDamage>200% di danno</style> e applica <style=cIsUtility>senza peso</style>.",
+        "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agile</style>. Oscilla la tua scopa per <style=cIsDamage>100% di danni</style>. Ogni terzo colpo infligge <style=cIsDamage>200% di danno</style> e applica <style=cIsUtility>senzapeso</style>.",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "Cestino",
         "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Aziona un verricello</s> Vola magicamente verso un nemico, colpiscilo per un danno <style=cIsDamage>300%</style> e <style=cIsDamage>puntalo</style>.",
         "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Fluire",
@@ -21,6 +21,6 @@
         "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Invia la tua unità <style=cIsUtility>MAID</style> a sfrecciare tra i nemici, infliggendo <style=cIsDamage>300% di danno</style> prima di fermarsi brevemente e tornare da te. Attiva di nuovo per barcollare verso lo <style=cIsUtility>MAID</style> ed esplodere per <style=cIsDamage>500% di danno</style>, applicando <style=cIsUtility>Weightless</style>.",
         "CLOUDBURST_WYATT_CLASSIC_SKIN": "Classico",
         "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
-        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Come Custode, finisci il gioco o distruggi durante Monsoon."
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "As Custodian, beat the game or obliterate on Monsoon."
     }
 }

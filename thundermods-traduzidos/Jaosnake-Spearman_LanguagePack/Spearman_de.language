@@ -1,6 +1,6 @@
 {
     "de": {
-        "SPEARMAN_NAME": "Speermann",
+        "SPEARMAN_NAME": "Spearman",
         "SPEARMAN_SUBTITLE": "Gott von Petrichor",
         "SPEARMAN_LORE": "\"Ich bin ein Mörder. Ich bin kein 'Beschützer'. Kein 'Bollwerk'. Ich habe mein ganzes Leben damit verbracht, für den Kampf zu trainieren, seit wir hier gestrandet sind, und ich habe jede Sekunde davon geliebt. Ich bin ein Überlebender. Ein Krieger. Ich weiß nichts von dem Leben, das ihr hattet, und es kümmert mich auch nicht. Was ich weiß, ist, dass es bald enden wird.\"\n\n\"Du.. Monster...\"\n\n\"Nichts, was ich nicht schon einmal genannt wurde.\"\n\nEr wandte der gottgleichen Gestalt den Rücken zu.\n\n\"Ich mag ein Monster sein, aber du bist nichts weiter als ein falscher Gott. Nichts weiter als eine weitere Kerbe am Schaft meines Speers. Eine Trophäe, bei deren Gedanken an den Tod ich lächeln werde.\"\n\n\"Wie...?\"\n\nSchweigend wandte sich der Krieger wieder dem Gott zu und nahm seine letzte Haltung ein. Sein Speer knisterte zum Leben, Energie sprühte von seiner Spitze.\n\n\"Hinfort.\"\n\nEr landet den letzten Schlag und erschüttert den angeschlagenen Rumpf des alten Schiffes.\n\nEs ist still.\n\nDas Schiff erwacht surrend zum Leben. Er kann einen alten Verbündeten auf der Brücke sehen, der an den Kontrollen herumfummelt.\n\n\"Nein...\" knurrte er. \"Noch nicht..\"\n\nEr springt vom Schiff und sieht zu, wie es aufbricht.\n\n\"Nun bin ich Gott. Mal sehen, wie lange dieser Planet überlebt.\"\n\nals sein Blick zu den toten Würmern schweift.",
         "SPEARMAN_OUTRO": "..und so ging er, Gott eines qualvollen Planeten.",
@@ -22,11 +22,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "Speermans Speer",
         "SPEARMAN_INTERACTABLE_CONTEXT": "Ausrotten",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Holen Sie sich die im Schädel eingebettete Waffe.",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Schlagen Sie als Speerkämpfer das Spiel oder vernichten Sie Monsun.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "Töte als Speerkämpfer 10 Feinde mit einem Einsatz von Kriegerspeer.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
         "SPEARMAN_DESCRIPTION": "Der Spearman ist ein ausgewogener Krieger, der seinen Speer verwendet, um verheerenden Schaden aus der Nähe und aus der Ferne zu verursachen. Nur mit seinem treuen Speer bewaffnet, strebt er nach absoluter Macht.",
         "SPEARMAN_ALTM1": "Kriegerhaltung",
         "SPEARMAN_ALTM1_DESCRIPTION": "Stoße den Speer nach vorne für <style=cIsDamage>400% Schaden</style> und wirf eine Windklinge für <style=cIsDamage>200% Schaden</style>."

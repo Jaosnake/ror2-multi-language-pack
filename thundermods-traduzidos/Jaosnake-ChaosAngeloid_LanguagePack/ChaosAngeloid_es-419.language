@@ -1,0 +1,24 @@
+﻿{
+    "es-419": {
+        "CHAOSANGELOID_CHAOS_NAME": "Caos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Tipo Ã‰psilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..y asÃ­ se fue, otro mundo perdido por amor.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..y asÃ­ desapareciÃ³, anhelando mÃ¡s amor.",
+        "CHAOSANGELOID_CHAOS_LORE": "Desear es algo maravilloso\u2014son todas tus esperanzas y sueÃ±os combinados en un solo pensamiento.\nMuchos desean riqueza, tesoros.\nOtros desean salud.\nAlgunos desean amor.\n\nÂ¿Pero quÃ© pasa si tu deseo se convierte en tu perdiciÃ³n?\n\nCada vez que amas algo, en el momento en que te lastima o lo pierdes, se convierte en dolor.\nEl dolor no se detiene. Persiste. Entonces\u2026 Â¿el dolor es amor?\n\nYo creo que sÃ­. Cada paso que he dado en mi viaje ha llevado al amor\u2014tanto amor.\nManchÃ© el mundo con amor.\n\nDeseo que todos puedan experimentarlo\u2014cada planeta, no solo la Tierra, no solo Synapse, no solo mi Amo.\n\nÂ¿Me acompaÃ±arÃ¡s en mi viaje?\nÂ¿Me ayudarÃ¡s a teÃ±ir el mundo de rojo\u2026 y escucharlos temblar de alegrÃ­a?\n\nDÃ©jame jugar con mis muÃ±ecas una vez mÃ¡s.\nLibÃ©rame.\nConviÃ©rtete en mi Amo.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Tipo 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "Escanea entidades cercanas, resaltando su ubicaciÃ³n. Los Amos estÃ¡n resaltados todo el tiempo. Los enemigos resaltados reciben <style=cIsDamage>20%</style> mÃ¡s daÃ±o de los Amos.",
+        "CHAOS__M1": "Llamas Manchadas",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>Encender</style>. Lanza bolas de fuego en sucesiÃ³n rÃ¡pida causando <style=cIsDamage>220% de daÃ±o</style>.",
+        "CHAOS__M2": "Ã‰gida",
+        "CHAOS__M2_DESCRIPTION": "Protege de todo el daÃ±o entrante.",
+        "CHAOS__UTIL": "Quimera",
+        "CHAOS__UTIL_DESCRIPTION": "Avanza rÃ¡pidamente.",
+        "CHAOS__SPEC": "Bola de Fuego Manchada",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>Encender</style>. Carga un orbe llameante hasta <style=cIsUtility>10s</style>, que causa <style=cIsDamage>400%-2000% de daÃ±o</style> y quema el suelo causando <style=cIsDamage>10%</style> del daÃ±o por segundo. Cargar durante al menos <style=cIsUtility>5s</style> hace que Caos libere un rayo de la muerte en su lugar, causando <style=cIsDamage>2000% de daÃ±o</style> por segundo. Cargar mÃ¡s de <style=cIsUtility>5s</style> aumenta la duraciÃ³n del rayo de la muerte.",
+        "CHAOS__F": "Esbirro, Levántate!",
+        "CHAOS__F_DESCRIPTION": "Resucita automaticamente a un enemigo recien muerto en un radio de 25m como esbirro. Dura 3 minutos.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Predeterminado"
+    }
+}
+

@@ -19,7 +19,7 @@
         "BOG_GHOUL_BODY_NAME": "Гуль",
         "BOG_TOMBSTONE_BODY_NAME": "Надгробие",
         "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за гробовщика, пройдите игру или уничтожьте всех на карте «Муссон».",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Гробовщик: Мастерство"
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery"
     }
 }

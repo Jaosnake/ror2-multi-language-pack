@@ -1,16 +1,16 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_CHIRR_NAME": "Competitive Exclusion Principle",
-        "SS2_ACHIEVEMENT_CHIRR_DESC": "엠피리언 엘리트를 처치하세요.",
-        "SS2_ACHIEVEMENT_CHIRR_MASTERY_NAME": "Chirr: Mastery",
-        "SS2_ACHIEVEMENT_CHIRR_MASTERY_DESC": "Chirr로 게임을 이기거나 Monsoon 이상의 난이도에서 말살하세요.",
-        "SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_NAME": "Chirr: Grand Mastery",
-        "SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_DESC": "Chirr로 게임을 이기거나 Typhoon 이상의 난이도에서 말살하세요.",
-        "SS2_ACHIEVEMENT_CHIRR_MAID_NAME": "Chirr: Cleaning Up",
-        "SS2_ACHIEVEMENT_CHIRR_MAID_DESC": "Chirr로 한 번의 실행으로 3개의 Lunar 아이템을 정화하십시오.",
-        "SS2_ACHIEVEMENT_CHIRR_HEADBUTT_NAME": "Chirr: Long Live the Queen",
-        "SS2_ACHIEVEMENT_CHIRR_HEADBUTT_DESCRIPTION": "Chirr로 지도 가장자리에서 딱정벌레 20마리를 던지십시오.",
-        "SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_NAME": "Chirr: Beastmaster",
-        "SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_DESCRIPTION": "Chirr로 아군을 절벽에서 던지고 아이템 20개를 폐기한 후 <style=cIsHealth>죽어</style>보세요."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_CHIRR_NAME": "Competitive Exclusion Principle",
+    "SS2_ACHIEVEMENT_CHIRR_DESC": "Slay an Empyrean elite.",
+    "SS2_ACHIEVEMENT_CHIRR_MASTERY_NAME": "Chirr: Mastery",
+    "SS2_ACHIEVEMENT_CHIRR_MASTERY_DESC": "As Chirr, beat the game or obliterate on Monsoon or harder.",
+    "SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_NAME": "Chirr: Grand Mastery",
+    "SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_DESC": "As Chirr, beat the game or obliterate on Typhoon or harder.",
+    "SS2_ACHIEVEMENT_CHIRR_MAID_NAME": "Chirr: Cleaning Up",
+    "SS2_ACHIEVEMENT_CHIRR_MAID_DESC": "As Chirr, cleanse three Lunar items in a single run.",
+    "SS2_ACHIEVEMENT_CHIRR_HEADBUTT_NAME": "Chirr: Long Live the Queen",
+    "SS2_ACHIEVEMENT_CHIRR_HEADBUTT_DESCRIPTION": "As Chirr, throw 20 beetles off the edge of the map.",
+    "SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_NAME": "Chirr: Beastmaster",
+    "SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_DESCRIPTION": "As Chirr, throw an ally off a cliff, scrap 20 items, then <style=cIsHealth>die</style>."
+  }
 }

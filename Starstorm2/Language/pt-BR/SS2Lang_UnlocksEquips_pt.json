@@ -1,6 +1,6 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Carregue 4 Warbanners de uma só vez."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Carry 4 Warbanners at once."
+  }
 }

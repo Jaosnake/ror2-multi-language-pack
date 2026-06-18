@@ -120,7 +120,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "Conjura un escudo que detendrá el próximo ataque. Si paras con éxito, electrocutarás y dañarás a tu atacante y a los enemigos cercanos.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "Conjura un <style=cIsHealing>shield</style> que <style=cIsHealing>parry</style> el próximo ataque. En una parada exitosa, <style=cIsDamage>shock</style> y daña a tu atacante y a los enemigos cercanos por 2000% <style=cIsDamage>damage</style>.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "Transcripción sobre equipo defectuoso. Diálogo entre capitán y técnico sobre un lote de escudos galvánicos con un índice de fallo del 30%.",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "El barrendero de arena",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "Barre la arena a tu alrededor.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "Empuja a todos los enemigos dentro del radio 20m, causando hasta 500% <style=cIsDamage>damage</style> y <style=cIsUtility>stunning</style> durante hasta 6 segundos según la distancia.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "Transcripción del interrogatorio entre un oficial de UESC y un cuidador del Salón de Reverencia, sobre una escoba y un fugitivo llamado Elijah.",

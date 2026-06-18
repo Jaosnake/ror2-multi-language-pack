@@ -1,22 +1,22 @@
 {
-    "strings": {
-        "SS2_NEMEXECUTIONER_BODY_NAME": "Nemesis Cellat",
-        "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Lanetlilerin Feribotçusu",
-        "SS2_NEMEXECUTIONER_DESCRIPTION": "The Nemesis Executioner takes away the lives of those who are lost in a coup de grace for what he envisions as the greater welfare.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.",
-        "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..ve böylece gitti, bilinmeyene doğru kayboldu.",
-        "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..ve böylece geri döndü, mirası sonsuza dek kaybolmuştu.",
-        "SS2_NEMEXECUTIONER_BODY_LORE": "korkutucu D:",
-        "SS2_NEMEXECUTIONER_PRIMARY_NAME": "toplar",
-        "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "top zincir yıldırım",
-        "SS2_KEYWORD_BLEED": "<style=cKeywordName>Kanama</style><style=cSub><style=cIsDamage>%240 </style> taban hasar verir. 3 saniye boyunca. <i>Kanama istiflenebilir.</i></style>",
-        "SS2_NEMEXECUTIONER_SECONDARY_NAME": "hortlaklar",
-        "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "gulyabaniler vurulduğunda kanar",
-        "SS2_NEMEXECUTIONER_UTILITY_NAME": "korku",
-        "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "korku bulutu",
-        "SS2_NEMEXECUTIONER_SPECIAL_NAME": "tırpan",
-        "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Slayer.</style> %1500 tırpan atılımı. Öldürdüğünüzde yakındakileri iyileştirin. mesafeyi artırmak için basılı tutun",
-        "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "ürkütücü mod",
-        "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "uçma ve güçlendirme ve öldürme süresi",
-        "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
-    }
+  "strings": {
+    "SS2_NEMEXECUTIONER_BODY_NAME": "Nemesis Cellat",
+    "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Lanetlilerin Feribotçusu",
+    "SS2_NEMEXECUTIONER_DESCRIPTION": "The Nemesis Executioner takes away the lives of those who are lost in a coup de grace for what he envisions as the greater welfare.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..ve böylece gitti, bilinmeyene doğru kayboldu.",
+    "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..ve böylece geri döndü, mirası sonsuza dek kaybolmuştu.",
+    "SS2_NEMEXECUTIONER_BODY_LORE": "korkutucu D:",
+    "SS2_NEMEXECUTIONER_PRIMARY_NAME": "toplar",
+    "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "top zincir yıldırım",
+    "SS2_KEYWORD_BLEED": "<style=cKeywordName>Kanama</style><style=cSub><style=cIsDamage>%240 </style> taban hasar verir. 3 saniye boyunca. <i>Kanama istiflenebilir.</i></style>",
+    "SS2_NEMEXECUTIONER_SECONDARY_NAME": "hortlaklar",
+    "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "gulyabaniler vurulduğunda kanar",
+    "SS2_NEMEXECUTIONER_UTILITY_NAME": "korku",
+    "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "korku bulutu",
+    "SS2_NEMEXECUTIONER_SPECIAL_NAME": "tırpan",
+    "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Slayer.</style> %1500 tırpan atılımı. Öldürdüğünüzde yakındakileri iyileştirin. mesafeyi artırmak için basılı tutun",
+    "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "ürkütücü mod",
+    "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "uçma ve güçlendirme ve öldürme süresi",
+    "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
+  }
 }

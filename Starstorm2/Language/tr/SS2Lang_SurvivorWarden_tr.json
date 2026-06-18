@@ -1,22 +1,22 @@
 {
-    "strings": {
-        "SS2_WARDEN_BODY_NAME": "Gardiyan",
-        "SS2_WARDEN_BODY_SUBTITLE": "Suçun yeni bir düşmanı var",
-        "SS2_WARDEN_DESCRIPTION": "The future of law enforcement. Warden is a ",
-        "SS2_WARDEN_OUTRO_FLAVOR": "..ve böylece umudun özüne kadar hırpalanmış halde gitti.",
-        "SS2_WARDEN_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, kalkanı parçalandı ve umudu tükendi.",
-        "SS2_WARDEN_BODY_LORE": "uzayda neden KORUYUCULAR var",
-        "SS2_WARDEN_PASSIVE_NAME": "Canlandırmak",
-        "SS2_WARDEN_PASSIVE_DESC": "Etrafınızda, yarıçapı içinde müttefikler sağlayan bir güçlendirme totemi bulunur IDK YET IT ISNT WORKING",
-        "SS2_WARDEN_PRIMARY_SWORD_NAME": "Aeonyum Kılıcı",
-        "SS2_WARDEN_PRIMARY_SWORD_DESC": "%X hasar için kılıcınızı savurun ve 3. vuruşta %X hasar için ileri doğru saplayın",
-        "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Engellemek",
-        "SS2_WARDEN_SECONDARY_SHIELD_DESC": "%X zırh kazanmayı ve %Y hareket hızı düşüşünü engellemek için kalkanınızı kaldırın. Etkinleştirmenin ilk 0,5 saniyesi içinde bir saldırıyı engellemek, saldırıyı savuşturur ve bir sonraki becerinizi güçlendirir. Birincil vuruşunuz bir kalkan darbesine dönüşür ve kalkanınızı tutarken zıplamak sizi yuvarlar.",
-        "SS2_WARDEN_SHIELD_BASH_NAME": "Bash",
-        "SS2_WARDEN_SHIELD_BASH_DESC": "<style=cIsDamage>%240 hasar için Shield Bash önünüzde</style> ve <style=cIsUtility> sersemleten </style> düşmanları vurur.",
-        "SS2_WARDEN_UTILITY_LEAP_NAME": "Çarpıcı Hücum",
-        "SS2_WARDEN_UTILITY_LEAP_DESC": "İleriye doğru dönün ve önden tekrar tekrar dilimleyin, her dilimle %<style=cIsDamage>240% hasar</style> verin.",
-        "SS2_WARDEN_SPECIAL_BANNER_NAME": "miting",
-        "SS2_WARDEN_SPECIAL_BANNER_DESC": "Düşmanları ve mermileri yavaşlatan, kendiniz ve müttefikleriniz için %<style=cIsUtility>X hareket hızı</style>, %<style=cIsDamage>Y saldırı hızı</style> sağlayan bir sancağı atlayın ve vurun."
-    }
+  "strings": {
+    "SS2_WARDEN_BODY_NAME": "Gardiyan",
+    "SS2_WARDEN_BODY_SUBTITLE": "Suçun yeni bir düşmanı var",
+    "SS2_WARDEN_DESCRIPTION": "The future of law enforcement. Warden is a \n\nThis mod was translated by: Jaosnake",
+    "SS2_WARDEN_OUTRO_FLAVOR": "..ve böylece umudun özüne kadar hırpalanmış halde gitti.",
+    "SS2_WARDEN_OUTRO_FAILURE": "..ve böylece ortadan kayboldu, kalkanı parçalandı ve umudu tükendi.",
+    "SS2_WARDEN_BODY_LORE": "uzayda neden KORUYUCULAR var",
+    "SS2_WARDEN_PASSIVE_NAME": "Canlandırmak",
+    "SS2_WARDEN_PASSIVE_DESC": "Etrafınızda, yarıçapı içinde müttefikler sağlayan bir güçlendirme totemi bulunur IDK YET IT ISNT WORKING",
+    "SS2_WARDEN_PRIMARY_SWORD_NAME": "Aeonyum Kılıcı",
+    "SS2_WARDEN_PRIMARY_SWORD_DESC": "%X hasar için kılıcınızı savurun ve 3. vuruşta %X hasar için ileri doğru saplayın",
+    "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Engellemek",
+    "SS2_WARDEN_SECONDARY_SHIELD_DESC": "%X zırh kazanmayı ve %Y hareket hızı düşüşünü engellemek için kalkanınızı kaldırın. Etkinleştirmenin ilk 0,5 saniyesi içinde bir saldırıyı engellemek, saldırıyı savuşturur ve bir sonraki becerinizi güçlendirir. Birincil vuruşunuz bir kalkan darbesine dönüşür ve kalkanınızı tutarken zıplamak sizi yuvarlar.",
+    "SS2_WARDEN_SHIELD_BASH_NAME": "Bash",
+    "SS2_WARDEN_SHIELD_BASH_DESC": "<style=cIsDamage>%240 hasar için Shield Bash önünüzde</style> ve <style=cIsUtility> sersemleten </style> düşmanları vurur.",
+    "SS2_WARDEN_UTILITY_LEAP_NAME": "Çarpıcı Hücum",
+    "SS2_WARDEN_UTILITY_LEAP_DESC": "İleriye doğru dönün ve önden tekrar tekrar dilimleyin, her dilimle %<style=cIsDamage>240% hasar</style> verin.",
+    "SS2_WARDEN_SPECIAL_BANNER_NAME": "miting",
+    "SS2_WARDEN_SPECIAL_BANNER_DESC": "Düşmanları ve mermileri yavaşlatan, kendiniz ve müttefikleriniz için %<style=cIsUtility>X hareket hızı</style>, %<style=cIsDamage>Y saldırı hızı</style> sağlayan bir sancağı atlayın ve vurun."
+  }
 }

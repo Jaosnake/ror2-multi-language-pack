@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "HUNK_LanguagePack",
-    "description": "Multi-language translation pack for HUNK by rob - translated by Jaosnake",
+    "description": "Multi-language translation pack for HUNK by rob.",
     "dependencies": [
         "rob-HUNK-1.5.1",
         "RiskofThunder-R2API_Language-1.1.0"

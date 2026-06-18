@@ -24,11 +24,11 @@
         "SS2_ITEM_LOWQUALITYSPEAKERS_PICKUP": "受到伤害时眩晕附近的敌人。",
         "SS2_ITEM_LOWQUALITYSPEAKERS_LORE": "退件:A-AMP 25瓦多功能音响\n单号:629********\n预计送达时间:2055年3月14日\n运送方式:优先\n送货地址:地球,双子城,安塞姆巷444号\n退货原因:\n\n抱歉打扰您,伙计。 但当我打开包装并插上电源测试时,音频听起来有些……模糊?有噪音?难以形容。 我猜它可能是在运输过程中受到了损坏, 幸好我买了保修。\n\n退款:\n退货:X",
         "SS2_ITEM_STRANGECAN_NAME": "奇怪的罐头",
-        "SS2_ITEM_STRANGECAN_DESC": "命中时有<style=cIsDamage>10%</style><style=cStack>（每层+5%）</style>几率<style=cIsDamage>使敌人中毒</style>，每秒造成<style=cIsDamage>50%伤害</style>。<style=cIsDamage>中毒</style>最多叠加10层。击杀敌人会按其<style=cIsDamage>中毒</style>层数每层<style=cIsHealing>治疗10</style><style=cStack>（每层+5）</style><style=cIsHealing>生命值</style>。",
+        "SS2_ITEM_STRANGECAN_DESC": "<style=cIsDamage>10%</style> <style=cStack>(+5% per stack)</style> chance on hit to <style=cIsDamage>intoxicate</style> an enemy, dealing <style=cIsDamage>50% damage per second</style>. <style=cIsDamage>Intoxicate</style> stacks up to 10 times. Killing enemies <style=cIsHealing>heals</style> for <style=cIsHealing>10</style> <style=cStack>(+5 per stack)</style> <style=cIsHealing>health</style> per stack of <style=cIsDamage>intoxicate</style>.",
         "SS2_ITEM_STRANGECAN_PICKUP": "概率致醉敌人,造成持续伤害。击杀致醉的敌人可回复生命。",
         "SS2_ITEM_STRANGECAN_LORE": "两个人瑟缩在冰窟的废墟堆里,其中一人冻得不停发抖。唯有的光亮来自将熄的篝火和几根噼啪作响的旧电线,几乎无法抵御刺骨的严寒。\n\n\"喂……\"他抬起头,眼中带着渺茫的希望,\"你觉得咱们真能离开这鬼地方吗?\"\n\n\"难说。\"她咬了一口刚翻出来的口粮。\n\n\"肯定有什么被我们漏掉了,对吧?总该有个还没想到的办法?\"他站起身,焦躁地来回踱步。\n\n\"或许吧。\"又是一口。\n\n\"说不定哪个残骸里还有能用的零件,或者现有的设备里有我们能修的故障?\"他眼中重燃光彩,越说越激动。\n\n\"很有可能。\"再咬一口。\n\n他突然停步,面露嫌恶:\"呃,你能不能别光顾着吃,帮忙想想办法?\"\n\n\"用不着操心。\"咀嚼声未停。\n\n嫌恶瞬间转为挫败与愤怒:\"凭什么不操心?!你难道不想离开这儿吗?!\"\n\n她叹了口气,将过头发:\"当然想。但也不必为鸡毛蒜皮紧张兮兮。咱们还活着,已经够走运了。\"\n\n\"嗯……你说得对……现在慌也没用……\"他神情缓和,目光垂向地面。\n\n\"明白就好。坐下歇着,让我这陈年存货给你暖暖身子。\"她递过罐头时,又咬了一口。\n",
         "SS2_ITEM_WATCHMETRONOME_NAME": "手表节拍器",
-        "SS2_ITEM_WATCHMETRONOME_DESC": "未疾跑时，积蓄最多<style=cIsUtility>100%</style>的<style=cIsUtility>疾跑速度</style>提升；疾跑时在<style=cIsUtility>3秒</style><style=cStack>（每层+2秒）</style>内衰减。生效期间，你可以在疾跑时使用技能。",
+        "SS2_ITEM_WATCHMETRONOME_DESC": "While not sprinting, charge up to a <style=cIsUtility>100%</style> increase to <style=cIsUtility>sprint speed</style> that decays over <style=cIsUtility>3s</style> <style=cStack>(+2s per stack)</style>. While active, your skills can be used while sprinting.",
         "SS2_ITEM_WATCHMETRONOME_PICKUP": "在不奔跑时为高速移动充能",
         "SS2_ITEM_WATCHMETRONOME_LORE": "运单:损坏的手表式节拍器\r\n单号:88******\r\n预计送达时间:04/14/2056\r\n运送方式:优先\r\n送货地址:金星,阿拉巴马,天景大道3号\r\n运单详情:嗨,这就是我跟您说过的那个节拍器。显然这玩意儿已经不正常好几个周了,我和孩子们都没法录音了,这个节拍器总是越走越快。我希望能快点修好,我听说入耳式节拍器带太久耳朵会受伤的。哦,还请小心处理,这个节拍器是我爸爸送我的礼物,对我来说意义重大。提前感谢您。\n",
         "SS2_ITEM_RAINBOWROOT_NAME": "虹彩源质"

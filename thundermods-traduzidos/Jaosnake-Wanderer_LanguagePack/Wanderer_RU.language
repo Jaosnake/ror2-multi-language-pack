@@ -1,5 +1,5 @@
 {
-    "RU": {
+    "ru": {
         "KENKO_UNFORGIVEN_NAME": "Странник",
         "KENKO_UNFORGIVEN_DESCRIPTION": "Странник — выживший с низким порогом входа и высоким пределом мастерства, способный использовать отмену анимаций для поддержания высокого ДПС.<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "Непрощённый",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Первый Вздох",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Мгновенное перемещение к выбранному или ближайшему <style=cIsUtility>воздушному</style> врагу с серией быстрых атак на <style=cIsDamage>2x250% + 800% урона</style>. Даёт бонусное <style=cIsDamage>пробивание брони</style> на 6 секунд.\n<color=#d299ff>СКИПЕТР: <style=cIsUtility>Сбрасывает кулдаун вторичного умения</style>. Враги, поражённые <color=#FFBF66>Первым Вздохом</color>, могут быть снова выбраны целью для <color=#FFBF66>Разящего Клинка</color>.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Играя за Странника, пройдите игру или уничтожьте всех на острове Муссон."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

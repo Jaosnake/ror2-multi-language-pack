@@ -23,11 +23,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "スピアマンの槍",
         "SPEARMAN_INTERACTABLE_CONTEXT": "根絶",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "頭蓋骨に埋め込まれた武器を回収します。",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "スピアマンとして、ゲームに勝つか、モンスーンで全滅させてください。",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "スピアマンとして、ウォリアーズ スピアの 1 回のキャストで 10 人の敵を倒す。",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
         "SPEARMAN_ALTM1": "戦士の構え",
         "SPEARMAN_ALTM1_DESCRIPTION": "槍を前方に突き出して<style=cIsDamage>400%のダメージ</style>を与え、風の刃を放って<style=cIsDamage>200%のダメージ</style>を与える。"
     }

@@ -31,5 +31,12 @@
         "SS2_REMUNERATION_TERMINAL_NAME": "Kaide",
         "SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">İşlemi tamamla</link>",
         "SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">Mirasınız nedir?</link>\n\nÖnemsiz intikamdan başka bir şey değil.\n\n<link=\"textShaky\">Kimliğiniz nedir?</link>\n\nAnlatılan bir isimden başka bir şey değil tiksinti.\n\n<link=\"textShaky\">Ne istiyorsun?</link>\n\nYeni bir amaçtan başka bir şey değil.\n\n<link=\"textShaky\">Neye ihtiyacın var?</link>\n\nBaşka bir şey yok güvendiğim silahlar.\n\n<link=\"textShaky\">Peki nereye gideceksin?</link>\n\nNereye gidersen git beni.\n\n<link=\"textShaky\">Sonra ne yapacaksın yap?</link>\n\nNeye ihtiyacın olduğunu söylersen.\n\n<link=\"textShaky\">Hepsi bu kadar mı o zaman?</link>\n\nEğer söylersen yani.\n\n<link=\"textShaky\">O halde oraya git ve öl.</link>\n\n...\n\nABana para ödediğin sürece."
+    },
+    "tr": {
+        "SS2_ITEM_HUNTERSSIGIL_DESC": "1 saniye hareketsiz kaldıktan sonra tüm müttefiklere 30 zırh (+15 yük başına) ve %30 hasar (+%15 yük başına) veren 8m’lik bir alan oluştur. Alan, içinden çıkana kadar sürer.",
+        "SS2_ITEM_FIELDACCELERATOR_DESC": "Işınlayıcı bossunu yendikten sonra Işınlayıcı yarıçapı %20 artar (+%20 yük başına) ve düşman öldürmek +%1 Işınlayıcı şarjı verir.",
+        "SS2_ITEM_BLOODTESTER_DESC": "Her 30 saniyede, sahip olduğun her 25 altın için hızla 15 can iyileştirir (+15 yük başına). Zamanla ölçeklenir.",
+        "SS2_ITEM_JETBOOTS_DESC": "Düşmanları 7,5m yarıçapta %500 taban hasarla yakan +1 ekstra sıçrama kazan (+5m yük başına). Yere indikten 5 saniye sonra yenilenir.",
+        "SS2_EQUIP_BACKTHRUSTER_DESC": "8 saniye boyunca düz bir çizgide hareket ederken hızla %200 hareket hızına kadar ivmelen."
     }
 }

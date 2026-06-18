@@ -105,7 +105,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "Przywołuje tarczę, która paruje następny atak. Po udanym parowaniu zaszokuj i zadaj obrażenia atakującemu oraz pobliskim wrogom.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "Przywołuje <style=cIsHealing>shield</style>, który <style=cIsHealing>parry</style> wykona następny atak. Po udanym parowaniu <style=cIsDamage>shock</style> zadaj atakującemu i pobliskim wrogom 2000% <style=cIsDamage>damage</style>.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "Zapis dotyczący wadliwego sprzętu. Dialog kapitana z technikiem na temat partii osłon galwanicznych o awaryjności 30%.",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "Zamiatacz piasku",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "Zamiata piasek wokół ciebie.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "Odpychaj wszystkich wrogów w promieniu 20m, zadając do 500% <style=cIsDamage>damage</style> i <style=cIsUtility>stunning</style> na maksymalnie 6 sekund w zależności od odległości.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "Zapis przesłuchania pomiędzy funkcjonariuszem UESC a dozorcą Sali Czci, w sprawie miotły i zbiega o imieniu Eliasz.",

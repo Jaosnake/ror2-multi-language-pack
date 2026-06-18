@@ -1,18 +1,18 @@
 {
-    "strings": {
-        "SS2_NEMBANDIT_NAME": "네메시스 밴디트",
-        "SS2_NEMBANDIT_SUBTITLE": "검게 변한 무법자",
-        "SS2_NEMBANDIT_DESCRIPTION": "네메시스 밴디트는 위장 기술을 통해 전략적으로 위치를 선정하여 적을 제압하고 무리를 처치합니다. \n\n<color=#CCD3E0>< ! > Show no mercy.",
-        "SS2_NEMBANDIT_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 단 한 점의 후회도 없이.",
-        "SS2_NEMBANDIT_OUTRO_FAILURE": "...그리하여 그는 돌아왔다, 마침내 운이 바닥난 채로.",
-        "SS2_NEMBANDIT_LORE": "응",
-        "SS2_NEMBANDIT_PRIMARY_NAME": "건슬링어",
-        "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "리볼버를 발사하여 <style=cIsDamage>220%의 피해</style>를 줍니다. 최대 6발까지 장전할 수 있습니다.",
-        "SS2_NEMBANDIT_SECONDARY_NAME": "다이너마이트 던지기",
-        "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "다이너마이트를 던져서 #초 후에 알아내세요",
-        "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "동전 던지기",
-        "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "그게 무슨 일인지 알지?",
-        "SS2_NEMBANDIT_SPECIAL_NAME": "튀김",
-        "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "산탄총을 발사하여 <style=cIsDamage>6x100%의 피해</style>를 줍니다. 처치 시 <style=cIsUtility>모든 재사용 대기시간이 초기화됩니다.</style>"
-    }
+  "strings": {
+    "SS2_NEMBANDIT_NAME": "네메시스 밴디트",
+    "SS2_NEMBANDIT_SUBTITLE": "검게 변한 무법자",
+    "SS2_NEMBANDIT_DESCRIPTION": "네메시스 밴디트는 위장 기술을 통해 전략적으로 위치를 선정하여 적을 제압하고 무리를 처치합니다. \n\n<color=#CCD3E0>< ! > Show no mercy.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMBANDIT_OUTRO_FLAVOR": "...그리하여 그는 떠났다, 단 한 점의 후회도 없이.",
+    "SS2_NEMBANDIT_OUTRO_FAILURE": "...그리하여 그는 돌아왔다, 마침내 운이 바닥난 채로.",
+    "SS2_NEMBANDIT_LORE": "응",
+    "SS2_NEMBANDIT_PRIMARY_NAME": "건슬링어",
+    "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "리볼버를 발사하여 <style=cIsDamage>220%의 피해</style>를 줍니다. 최대 6발까지 장전할 수 있습니다.",
+    "SS2_NEMBANDIT_SECONDARY_NAME": "다이너마이트 던지기",
+    "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "다이너마이트를 던져서 #초 후에 알아내세요",
+    "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "동전 던지기",
+    "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "그게 무슨 일인지 알지?",
+    "SS2_NEMBANDIT_SPECIAL_NAME": "튀김",
+    "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "산탄총을 발사하여 <style=cIsDamage>6x100%의 피해</style>를 줍니다. 처치 시 <style=cIsUtility>모든 재사용 대기시간이 초기화됩니다.</style>"
+  }
 }
