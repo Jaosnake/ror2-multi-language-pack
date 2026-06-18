@@ -1,0 +1,30 @@
+{
+    "strings":  {
+                    "KEYWORD_DANCER_RIBBON":  " param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cKeywordName param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Tape param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber')  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cSub param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Markitaj malamikoj sangumas, infiktante  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cIsDamage param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') 50% damagxon por sekundo param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber')  kaj ne povas agi.",
+                    "PRIMARY_SLASH_DESCRIPTION":  "Proksimbatala atako kun efikoj laux via celo. (Sxvebu por scii pli)",
+                    "NDP_DANCER_BODY_UTILITY_PULL_DESCRIPTION":  "Tiru malamikojn al vi. param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /i param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') ",
+                    "UTILITY_PULL_NAME":  "Tiro",
+                    "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_DESCRIPTION":  "Algluu glubendon al malamiko, malpermesante agadon kaj kauxzante sangadon. param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /i param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') ",
+                    "KEYWORD_DANCER_FORWARDAIR":  " param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cKeywordName param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Forward Air param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber')  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cSub param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Aera eniro, celu antauxen. Forta bato infliktas  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cIsDamage param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') 180% damagxon param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber')  kaj premas malamikojn al la grundo, stupofarante kaj infiktante gxis  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cIsDamage param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') 300% damagxon param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') .",
+                    "NDP_DANCER_BODY_SPECIAL_RIBBON_LOCK_NAME":  "Liganta Glubendo",
+                    "NDP_DANCER_BODY_SUBTITLE":  "Mortiga Danco",
+                    "PRIMARY_SLASH2_DESCRIPTION":  "Proksimbatala atako kun efikoj laux via celo. (Sxvebu por scii pli)",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH2_NAME":  "Trancxo",
+                    "NDP_DANCER_BODY_DEFAULT_SKIN_NAME":  "Defauxlta",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH_NAME":  "Fendo",
+                    "NDP_DANCER_BODY_NAME":  "Dancistino",
+                    "SPECIAL_RIBBON_LOCK_DESCRIPTION":  "Algluu glubendon al malamiko, malpermesante agadon kaj kauxzante sangadon.",
+                    "NDP_DANCER_GOLD_SKIN_NAME":  "Ora",
+                    "NDP_DANCER_BODY_UTILITY_PULL_NAME":  "Tiro",
+                    "SPECIAL_RIBBON_LOCK_NAME":  "Liganta Glubendo",
+                    "PRIMARY_SLASH2_NAME":  "Trancxo",
+                    "NDP_DANCER_BODY_PASSIVE_DESCRIPTION":  "Malamikoj kun glubendo sangumas, infiktante 50% damagxon por sekundo, kaj ne povas agi.",
+                    "KEYWORD_DANCER_JAB":  " param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cKeywordName param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Jab param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber')  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cSub param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Tera eniro, celu antauxen. Faru atakon antauxen kaj infliktu  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cIsDamage param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') 180% damagxon param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') .",
+                    "UTILITY_PULL_DESCRIPTION":  "Tiru malamikojn al vi.",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH_DESCRIPTION":  "Proksimbatala atako kun efikoj laux via celo. (Sxvebu por scii pli) param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /i param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') ",
+                    "KEYWORD_DANCER_DOWNTILT":  " param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cKeywordName param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Suba Klino param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber')  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cSub param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') Tera eniro, celu suben. Lancxu malamikojn supren kaj infliktu  param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') style=cIsDamage param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') 200% damagxon param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /style param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') .",
+                    "PRIMARY_SLASH_NAME":  "Fendo",
+                    "NDP_DANCER_BODY_PASSIVE_NAME":  "Retenanta Glubendo",
+                    "NDP_DANCER_BODY_PRIMARY_SLASH2_DESCRIPTION":  "Proksimbatala atako kun efikoj laux via celo. (Sxvebu por scii pli) param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') /i param($m) [char][int]::Parse($m.Groups[1].Value, 'HexNumber') "
+                }
+}

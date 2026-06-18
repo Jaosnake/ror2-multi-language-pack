@@ -1,0 +1,7 @@
+{
+    "strings":  {
+                    "VOID_SIGNAL_COMPLETE_RISKYMOD":  " param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') style=cWorldEvent param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') Profunda Vakua Signalo falis  param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') /style param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') {0}",
+                    "MOON_PILLAR_COMPLETE_RISKYMOD":  " param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') color=#c6d5ff param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') {0} forigita  param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') /color param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') {1}",
+                    "SHRINE_COMBAT_END_TRIAL_RISKYMOD":  " param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') style=cShrine param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') Shrine of Combat falis  param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') /style param($m) [char][int]::Parse($m.Value.Substring(2), 'HexNumber') {0}"
+                }
+}
