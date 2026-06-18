@@ -1,0 +1,26 @@
+﻿{
+
+  "SS2_NEMMANDO_NAME": "Nemesis Commando",
+  "SS2_NEMMANDO_SUBTITLE": "Lone Echo",
+  "SS2_NEMMANDO_DESCRIPTION": "The Nemesis Commando est a wildcard on the battlefield, capax of turning any situation ad suam favorem.\\n\\n<color=#CCD3E0>< ! > Blade of Cessation est risky sed potest build up a lot of damage per stacking Gouge.\\n\\n< ! > Distant Gash potest used to safely apply stacks of Gouge to groups of enemies - take advantage of its piercing!\\n\\n< ! > Proper balance of melee et ranged combat est key, et Tactical Roll grants high armor ad help enter et exit battles.\\n\\n< ! > Submission potest utilized sicut huge burst of damage, sive it be ad aid in an escape sive get the jump on an unsuspecting target.",
+  "SS2_NEMMANDO_OUTRO_FLAVOR": "..et sic abiit, newfound sense of humanitatis intra.",
+  "SS2_NEMMANDO_OUTRO_FAILURE": "..et sic rediit, concludens suum endless struggle.",
+  "SS2_NEMMANDO_LORE": "He lays to rest per fire, setting the weapons he carries intra an arm's reach. Checking his surroundings, sperans the cave he hid in would be satis shelter. Quidam would dicere, it isn't wise to be overly cautious. He would dicere, <color=#FFCCED>they haven't seen satis.</color>\\n\\nThe service pistol he got when he enlisted. Well used, dirtied, et loved. It's brought him per thick et thin, non matter which mission he took on. Quidam would dicere, only a fool would trust their weapon. He would dicere, <color=#FFCCED>your weapon est all you can trust.</color>\\n\\nThe blade of a fallen brother of war. Picked ex what he could scavenge of the last of humanity he's seen. Quidam would dicere, it keeps their spirits united. He would dicere, <color=#FFCCED>it's to keep their spirits ab joining pro as long as possible.</color>\\n\\nThe loads of cargo quod landed cum him. Each item picked ex a chest, keeping him alive in one way aut another. Dozens of shipments to anyone sed him. Quidam would dicere, they aren't his items to take. He would dicere, <color=#FFCCED>si he doesn't take them, tunc no one will.</color>\\n\\nThe glow of a violet light veniens ex deeper intra the cave. Calming, warming... beckoning. Welcoming him deeper et deeper, promittens safety. Quidam would dicere, what sounds too good to be true probably est. He would dicere, <color=#FFCCED>Faust erat a wise man.</color>",
+  "SS2_KEYWORD_REND": "<style=CKeywordName>Rending</style><style=cSub>Deals extra damage to Gouged enemies.",
+  "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Blade of Cessation",
+  "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agile.</style> Seca hostes pro <style=cIsDamage>{0}% vulnere</style>.",
+  "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Distant Gash",
+  "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agile.</style> Tene ad charge a piercing sword beam pro up to <style=cIsDamage>{0}% vulnere</style>.",
+  "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Single Tap",
+  "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> Puga tuum gun pro <style=cIsDamage>{0}% vulnere</style>.",
+  "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Tactical Roll",
+  "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>Roll</style> a short distance, adipiscens <style=cIsUtility>200 armaturam</style>.",
+  "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Submission",
+  "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Charge up</style>, tunc fire a barrage of up to <style=cIsDamage>6 blasts of 4x70%.</style> <style=cIsUtility>The number of shots increases cum attack speed</style>.",
+  "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Decisive Strike",
+  "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, tunc <style=cIsUtility>dash forward</style> et unleash a devastating barrage of up to <style=cIsDamage>{0} slashes</style> quod deal up to <style=cIsDamage>{1}% vulnere each</style>. <style=cIsUtility>The number of slashes increases cum attack speed</style>.",
+  "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME": "Subjunction",
+  "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Charge up</style>, tunc fire a barrage of up to <style=cIsDamage>6 blasts of 4x70%.</style>. <style=cIsUtility>The number of shots increases cum attack speed</style>. \\n<color=#d299ff>SCEPTER: Additionally fires up to {0} lasers quod deal {2}% vulnere.</color>",
+  "SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME": "Judgement Cut",
+  "SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, tunc <style=cIsUtility>dash forward</style> et unleash a devastating barrage of up to <style=cIsDamage>{0} slashes</style> quod deal up to <style=cIsDamage>{1}% vulnere each</style>. <style=cIsUtility>The number of slashes increases cum attack speed</style>. \\n<color=#d299ff>SCEPTER: At full charge, briefly vanish, tunc unleash all of your strikes at once.</color>"
+}

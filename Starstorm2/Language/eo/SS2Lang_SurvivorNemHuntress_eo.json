@@ -1,0 +1,19 @@
+﻿{
+
+  "SS2_NEMHUNTRESS2_BODY_NAME": "Nemesis Huntress",
+  "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Ruzkla CXasisto",
+  "SS2_NEMHUNTRESS2_DESCRIPTION": "La Nemesis Huntress engagxas kontraux malamikoj malrapide sed sensignoreme kun ilia mortiga longarko kaj duobla hakilo.\\n\\n<color=#CCD3E0>< ! > Morto ne timas sin mem.",
+  "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..kaj tiel ili foriris, trovis novan hejmon malproksime.",
+  "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..kaj tiel ili malaperis, .",
+  "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Batala Vizoro",
+  "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Emfazu <style=cIsDamage>Malfortajn Punktojn</style> dum en batalo, kiuj povas esti frapitaj kun cxiuj sagoj por <style=cIsDamage>1.5x damagxo</style>.",
+  "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Peza Bolto",
+  "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agila</style>. Tenu por <style=cIsUtility>sxargxi</style>, kaj malligu por pafi sagon por gxis <style=cIsDamage>400% damagxo</style>. Sago <style=cIsUtility>rapideco</style>, <style=cIsDamage>damagxo</style>, kaj <style=cIsUtility>precizeco</style> skALas kun sxargx-nivelo.",
+  "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Lasera Hakilo",
+  "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Svingu kaj jxetu bumerangantan, trabatantan hakilon por <style=cIsDamage>240% damagxo</style>. Frapas <style=cIsDamage>5 fojojn sekunde</style> dum en la aero.",
+  "SS2_KEYWORD_REARM": "<style=cKeywordName>Rearming</style><style=cSub>Aldonas 2 pliajn pafajxojn al la sekva uzo de unua, gxis maksimumo de 7.",
+  "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Faza Blink",
+  "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agila</style>. <style=cIsDamage>Rearming</style>. <style=cIsUtility>Malaperu</style> kaj <style=cIsUtility>teleportu</style> mallongan distancon. Povas stoki gxis <style=cIsUtility>3</style> sxargxojn.",
+  "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Eksploda Bolto",
+  "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Anstatauxigu la sagon de via sekva <style=cIsDamage>unua</style> per <style=cIsDamage>stuporiga</style> sago kiu eksplodas baldaux post frapo por <style=cIsDamage>400% damagxo</style>."
+}

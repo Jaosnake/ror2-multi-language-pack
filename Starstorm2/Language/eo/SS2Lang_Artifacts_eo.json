@@ -1,0 +1,14 @@
+﻿{
+
+  "SS2_ARTIFACT_COGNATION_NAME": "Artifiko de Kognacio",
+  "SS2_ARTIFACT_COGNATION_DESC": "Malamikoj lasas provizorajn duplikatojn post morto.",
+  "SS2_ARTIFACT_COGNATION_PREFIX": "Kognato {0}",
+  "SS2_ARTIFACT_DILUVIUM_NAME": "Artifiko de Diluvio",
+  "SS2_ARTIFACT_DILUVIUM_DESC": "CXiam sxtormas.",
+  "SS2_ARTIFACT_ADVERSITY_NAME": "Artifiko de Malamikeco",
+  "SS2_ARTIFACT_ADVERSITY_DESC": "Cxiu primordia teleportilo estas etera.",
+  "SS2_ARTIFACT_DEVIATION_NAME": "Artifiko de Devio",
+  "SS2_ARTIFACT_DEVIATION_DESC": "Elektu eron por cxiuj karakteroj antaux ol komenci teleportilan eventon.",
+  "SS2_ARTIFACT_HAVOC_NAME": "Artifiko de Hxavoko",
+  "SS2_ARTIFACT_HAVOC_DESC": "Eventoj okazas pli frue kaj pli ofte. SXtormoj estas konstantaj."
+}

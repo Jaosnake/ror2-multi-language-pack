@@ -1,0 +1,21 @@
+﻿{
+
+  "SS2_NEMEXECUTIONER_BODY_NAME": "Nemesis Executioner",
+  "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Ferryman of the Damned",
+  "SS2_NEMEXECUTIONER_DESCRIPTION": "The Nemesis Executioner takes away the lives of those who are lost in a coup de grace pro what he envisions sicut the greater welfare.\\n\\n<color=#CCD3E0>< ! > Death doesn't fear itself.",
+  "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..et sic abiit, fading into the unknown.",
+  "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..et sic rediit, legacy perdita in aeternum.",
+  "SS2_NEMEXECUTIONER_BODY_LORE": "scary D:",
+  "SS2_NEMEXECUTIONER_PRIMARY_NAME": "balls",
+  "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "ball chain lightning",
+  "SS2_KEYWORD_BLEED": "<style=cKeywordName>Bleed</style><style=cSub>Deal <style=cIsDamage>240%</style> base damage super 3s. <i>Bleed potest stack.</i></style>",
+  "SS2_NEMEXECUTIONER_SECONDARY_NAME": "ghouls",
+  "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "ghouls bleed on hit",
+  "SS2_NEMEXECUTIONER_UTILITY_NAME": "fear",
+  "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "fear cloud",
+  "SS2_NEMEXECUTIONER_SPECIAL_NAME": "scythe",
+  "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Slayer.</style> 1500% scythe dash. heal nearby on kill. tene ad augendum distance ",
+  "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "spooky mode",
+  "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "fly et buff et duration on kill",
+  "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
+}

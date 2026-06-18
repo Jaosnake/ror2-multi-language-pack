@@ -1,0 +1,26 @@
+﻿{
+
+  "SS2_EVENT_THUNDERSTORM_START": "<sprite name=\"CloudRight\">	 SXtormo alproksimigxas...",
+  "SS2_EVENT_THUNDERSTORM_END": "La nuboj komencas klarigxi...",
+  "SS2_EVENT_BLIZZARD_START": "<sprite name=\"CloudRight\">	 Negxsxtormo alproksimigxas...",
+  "SS2_EVENT_BLIZZARD_END": "La negxo komencas klarigxi...",
+  "SS2_EVENT_SANDSTORM_START": "<sprite name=\"CloudRight\">	 Sablosxtormo alproksimigxas...",
+  "SS2_EVENT_SANDSTORM_END": "La sablo komencas sidigxi...",
+  "SS2_EVENT_ASHSTORM_START": "<sprite name=\"CloudRight\">	 Cxindra sxtormo alproksimigxas...",
+  "SS2_EVENT_ASHSTORM_END": "La cindroj komencas sidigxi...",
+  "SS2_EVENT_TARSTORM_START": "<sprite name=\"CloudRight\">	 Pecxo plvas de la cxielo...",
+  "SS2_EVENT_TARSTORM_END": "La pecxo komencas sidigxi...",
+  "SS2_EVENT_FOG_START": "Densa nebulo amasigxas...",
+  "SS2_EVENT_FOG_END": "La nebulo klarigxas...",
+  "SS2_EVENT_GENERICNEMESIS_START": "Vi sentas minacantan cxeeston...</style>",
+  "SS2_EVENT_GENERICNEMESIS_END": "La mistera influo forvelkas...</style>",
+  "SS2_EVENT_EMPYREANSPAWN_START": "Potencxaj energioj komencas harmoniigxi...",
+  "SS2_EVENT_BLAZINGELITE_START": "La suno komencas brili...",
+  "SS2_EVENT_BLAZINGELITE_END": "La siblanta varmo disigxas...",
+  "SS2_EVENT_GLACIALELITE_START": "Glacia vento blovas en...",
+  "SS2_EVENT_GLACIALELITE_END": "La akra, malvarma aero sidigxas...",
+  "SS2_EVENT_OVERLOADINGELITE_START": "SXargxantaj energioj materialigxas...",
+  "SS2_EVENT_OVERLOADINGELITE_END": "La sxokaj sentoj foriras tiel rapide kiel ili venis...",
+  "SS2_EVENT_MENDINGELITE_START": "La planedo komencas sanigxi...",
+  "SS2_EVENT_MENDINGELITE_END": "Trankviligaj energioj forvelkas..."
+}

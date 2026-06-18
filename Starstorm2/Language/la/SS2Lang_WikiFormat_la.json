@@ -1,0 +1,4 @@
+﻿{
+
+  "SS2_WIKI_ITEM_FORMAT": "\\n[\"{0}\"] = {{\\n	Rarity = \"{1}\",\\n	Quote = \"{2}\",\\n	Desc = \"{3}\",\\n	Category = {{ \"{4}\" }},\\n	Unlock = \"{5}\",\\n	Corrupt = \"{6}\", \\n	Uncorrupt = \"{7}\",\\n	 ID = ,\\n	Stats = {{\\n		 {{\\n			Stat = \"\",\\n			Value = \"\",\\n			Stack = \"\",\\n			Add = \"\"\\n		}}\\n	}},\\n	LocalizationInternalName = \"{8}\"\\n	}}"
+}

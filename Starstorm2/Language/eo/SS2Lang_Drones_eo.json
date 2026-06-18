@@ -1,0 +1,18 @@
+﻿{
+
+  "SS2_DRONE_SHOCK_NAME": "SXoka Drono",
+  "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Rompita SXoka Drono",
+  "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Riparu SXokan Dronon",
+  "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>sxokas</style> proksimajn malamikojn, interrompante kaj stuporigante ilin.",
+  "SS2_DRONE_SHOCK_DESCRIPTION": "Kompanio acxetita per oro kiu sekvos la postvivanton proksime, <style=cIsUtility>sxokante</style> malamikojn, interrompante kaj stuporigante ilin.",
+  "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Pafas elektran blaston, farante <style=cIsDamage>100% damagxon</style> en areo kaj <style=cIsUtility>sxokante</style> malamikojn dum <style=cIsUtility>5 sekundoj</style>.",
+  "SS2_DRONE_CLONE_NAME": "Duobliganta Drono",
+  "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Rompita Duobliganta Drono",
+  "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Riparu Duobligantan Dronon",
+  "SS2_DRONE_CLONE_PICKUP": "Iam kaj iam <style=cIsUtility>duobligas</style> proksimajn erojn.",
+  "SS2_DRONE_CLONE_DESCRIPTION": "Kompanio acxetita per oro kiu sekvos la postvivanton proksime. <style=cIsUtility>Duobligas</style> proksimajn er-prenojn.",
+  "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Kanalas sur proksiman eron. Post kompletigo, kreas <style=cIsUtility>duobligajxon</style> de la ero.",
+  "SS2_DROIDDRONE_NAME": "Sekureca Drono",
+  "SS2_DROIDDRONE_PICKUP": "Pafas proksimajn malamikojn. <style=cIsUtility>Heredas elittipon</style> de la mortigita elito.",
+  "SS2_DROIDDRONE_DESCRIPTION": "Provizora kompanio kreita kiam tenante Droid Head kaj mortigante elitojn kiu sekvos la postvivanton proksime, pafante proksimajn malamikojn."
+}

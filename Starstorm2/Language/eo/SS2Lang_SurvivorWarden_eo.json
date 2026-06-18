@@ -1,0 +1,21 @@
+﻿{
+
+  "SS2_WARDEN_BODY_NAME": "Warden",
+  "SS2_WARDEN_BODY_SUBTITLE": "Krimo havas novan malamikon",
+  "SS2_WARDEN_DESCRIPTION": "La estonteco de jurtrudo. Warden estas ",
+  "SS2_WARDEN_OUTRO_FLAVOR": "..kaj tiel li foriris, batita al la kerno de espero.",
+  "SS2_WARDEN_OUTRO_FAILURE": "..kaj tiel li malaperis, sxildo sxirita kaj espero estingita.",
+  "SS2_WARDEN_BODY_LORE": "kial estas WARDEN-oj en spaco",
+  "SS2_WARDEN_PASSIVE_NAME": "Vigligi",
+  "SS2_WARDEN_PASSIVE_DESC": "Bufgardistaro cxirkauxas vin kiu donas al aliancanoj en gxia radiuso IDK YET IT ISNT WORKING",
+  "SS2_WARDEN_PRIMARY_SWORD_NAME": "Aeonium Klingo",
+  "SS2_WARDEN_PRIMARY_SWORD_DESC": "Svingu vian glavon por X% damagxo kun la 3-a frapo pikanta antauxen por X% damagxo",
+  "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Bloko",
+  "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Levu vian sxildon por bloki gajnante X% kirasxon, kaj Y% movrapida malpliigxo. Blokante atakon ene de la unuaj 0.5s de aktivigxo parias la atakon kaj povigas vian sekvan kapablon. Via unua farigxas sxilda bato kaj saltanta dum tenanta vian sxildon rulas vin anstatauxe.",
+  "SS2_WARDEN_SHIELD_BASH_NAME": "Bato",
+  "SS2_WARDEN_SHIELD_BASH_DESC": "SXilda Bato antaux vi por <style=cIsDamage>240% damagxo</style> kaj <style=cIsUtility>stuporigu</style> frapitajn malamikojn.",
+  "SS2_WARDEN_UTILITY_LEAP_NAME": "Frapanta Kurado",
+  "SS2_WARDEN_UTILITY_LEAP_DESC": "Turnigxu antauxen kaj trancxu antauxe ripete, farante <style=cIsDamage>240% damagxon</style> kun cxiu trancxo.",
+  "SS2_WARDEN_SPECIAL_BANNER_NAME": "Kunvoko",
+  "SS2_WARDEN_SPECIAL_BANNER_DESC": "Saltu kaj frapu standardon kiu malrapidigas malamikojn, pafajxojn, donas <style=cIsUtility>X% movrapidon</style>, <style=cIsDamage>Y% atakrapidon</style>, por vi mem kaj viaj aliancanoj."
+}

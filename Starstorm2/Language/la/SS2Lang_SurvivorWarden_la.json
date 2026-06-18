@@ -1,0 +1,21 @@
+﻿{
+
+  "SS2_WARDEN_BODY_NAME": "Warden",
+  "SS2_WARDEN_BODY_SUBTITLE": "Crime has a new enemy",
+  "SS2_WARDEN_DESCRIPTION": "The future of law enforcement. Warden est ",
+  "SS2_WARDEN_OUTRO_FLAVOR": "..et sic abiit, ad ipsam spei medullam percussus.",
+  "SS2_WARDEN_OUTRO_FAILURE": "..et sic evanuit, scuto fracto et spe extinguita.",
+  "SS2_WARDEN_BODY_LORE": "quare sunt WARDENs in spatio",
+  "SS2_WARDEN_PASSIVE_NAME": "Invigorate",
+  "SS2_WARDEN_PASSIVE_DESC": "A buff ward circumdat te quod praebet sociis in eius radio IDK YET IT ISNT WORKING",
+  "SS2_WARDEN_PRIMARY_SWORD_NAME": "Aeonium Blade",
+  "SS2_WARDEN_PRIMARY_SWORD_DESC": "Swing your sword pro X% vulnere cum the 3rd hit stabbing forward pro X% vulnere",
+  "SS2_WARDEN_SECONDARY_SHIELD_NAME": "Block",
+  "SS2_WARDEN_SECONDARY_SHIELD_DESC": "Leva scutum tuum ad bloccandum adipiscens X% armaturam, et Y% movement speed decrease. Bloccans an attack intra the first 0.5s of activation parries the attack et empowers tuam proximam peritiam. Tua primary fit a shield bash et jumping dum tenens tuum scutum rolls you instad.",
+  "SS2_WARDEN_SHIELD_BASH_NAME": "Bash",
+  "SS2_WARDEN_SHIELD_BASH_DESC": "Scutum Percute ante te pro <style=cIsDamage>240% vulnere</style> et <style=cIsUtility>stupefac</style> hostes percussos.",
+  "SS2_WARDEN_UTILITY_LEAP_NAME": "Striking Rush",
+  "SS2_WARDEN_UTILITY_LEAP_DESC": "Spin forward et slice in front repeatedly, infligens <style=cIsDamage>240% vulnere</style> cum each slice.",
+  "SS2_WARDEN_SPECIAL_BANNER_NAME": "Rally",
+  "SS2_WARDEN_SPECIAL_BANNER_DESC": "Leap et slam a banner quod slows down enemies, projectiles, grants <style=cIsUtility>X% movement speed</style>, <style=cIsDamage>Y% attack speed</style>, pro yourself et your allies."
+}

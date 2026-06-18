@@ -1,0 +1,11 @@
+﻿{
+
+  "SS2_ENGINEER_LASERFOCUS_NAME": "Lasera Fokuso",
+  "SS2_ENGINEER_LASERFOCUS_DESC": "Liberigu du radiojn de energio por <style=cIsDamage>2x150% damagxo</style>. Damagxo <style=cIsDamage>kreskas</style> ju <style=cIsUtility>pli longe celo estas fokusa</style>.",
+  "SS2_ENGINEER_RAPIDDISPLACEMENT_NAME": "Rapida Delokigxo",
+  "SS2_ENGINEER_RAPIDDISPLACEMENT_DESC": "<style=cIsDamage>Stuporiga</style>. <style=cIsUtility>Movigxu antauxen</style>, pusxante iujn ajn entojn en la vojo por <style=cIsDamage>200% damagxo</style>.",
+  "SS2_BANDIT_TRANQ_GUN_NAME": "Nokta Tempo",
+  "SS2_BANDIT_TRANQ_GUN_DESC": "Pafu trankviligan sagon por <style=cIsDamage>{0}% damagxo</style>, <style=cIsUtility>malrapide</style> kaj fine <style=cIsUtility>stuporigante</style> malamikojn. Povas havi gxis 4 sagxojn.",
+  "SS2_RAILGUNNER_ROLL_DESC": "Rulu mallongan distancon kaj plenumu perfektan resxargxon se resxargxanta.",
+  "SS2_RAILGUNNER_ROLL_NAME": "Taktika Rulo"
+}
