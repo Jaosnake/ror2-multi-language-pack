@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Reflection;
 using System.Collections;
+using System.Collections.Generic;
 using RoR2;
 using RoR2.UI;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 using Object = UnityEngine.Object;
 
 namespace R2API;
@@ -62,25 +64,23 @@ internal static class LanguagePauseButton
     private static void ShowLanguageDialog(PauseScreenController pause)
     {
         LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Select Language");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC",
+            "Choose a language below. The change applies immediately.\n\n" +
+            "[A / Enter] Select    [B / Esc] Cancel");
 
         var languages = LanguageNames.GetAvailableLanguages();
         foreach (var lang in languages)
-            LanguageAPI.AddOrUpdateToken($"LANG_SEL_{lang}", $"{lang} - {LanguageNames.GetFriendlyName(lang)}");
+            LanguageAPI.AddOrUpdateToken($"LANG_SEL_{lang}", LanguageNames.GetFriendlyName(lang));
 
         var dialog = SimpleDialogBox.Create();
         if (dialog == null) return;
 
         dialog.headerToken = new SimpleDialogBox.TokenParamsPair { token = "SWITCH_LANGUAGE_TITLE" };
-
-        var currentLang = Language.currentLanguageName;
+        dialog.descriptionToken = new SimpleDialogBox.TokenParamsPair { token = "SWITCH_LANGUAGE_DESC" };
 
         foreach (var lang in languages)
         {
             var captured = lang;
-            var label = lang == currentLang
-                ? $"LANG_SEL_{lang}"  // just show name, no "[ATIVO]" since token is reused
-                : $"LANG_SEL_{lang}";
-
             dialog.AddActionButton(() =>
             {
                 try
@@ -93,14 +93,48 @@ internal static class LanguagePauseButton
                     LanguagePlugin.Logger?.LogError("Falha ao trocar lingua: " + ex.Message);
                 }
                 Object.Destroy(dialog.gameObject);
-            }, label);
+            }, $"LANG_SEL_{lang}");
         }
+
+        dialog.gameObject.AddComponent<LanguageDialogCloseWatcher>();
 
         var mb = pause.GetComponent<MonoBehaviour>();
         if (mb != null)
             mb.StartCoroutine(DelayedGridLayout(dialog));
         else
             ApplyGridLayout(dialog);
+    }
+
+    private class LanguageDialogCloseWatcher : MonoBehaviour
+    {
+        private float _delay = 0.4f;
+        private SimpleDialogBox _dialog;
+        private bool _closing;
+
+        void Start()
+        {
+            _dialog = GetComponent<SimpleDialogBox>();
+        }
+
+        void Update()
+        {
+            if (_closing) return;
+            _delay -= Time.unscaledDeltaTime;
+            if (_delay > 0f) return;
+
+            if (Input.GetKeyDown(KeyCode.Escape) ||
+                Input.GetKeyDown(KeyCode.JoystickButton1))
+            {
+                _closing = true;
+                if (_dialog != null)
+                {
+                    var es = UnityEngine.EventSystems.EventSystem.current;
+                    if (es != null)
+                        es.SetSelectedGameObject(null);
+                    Object.Destroy(_dialog.gameObject);
+                }
+            }
+        }
     }
 
     private static IEnumerator DelayedGridLayout(SimpleDialogBox dialog)
@@ -141,7 +175,7 @@ internal static class LanguagePauseButton
 
             LayoutRebuilder.ForceRebuildLayoutImmediate(container);
 
-            FixGridNavigation(container);
+            WrapGridNavigation(container);
 
             LanguagePlugin.Logger?.LogInfo($"ApplyGridLayout: grid aplicado com {container.childCount} botoes");
         }
@@ -151,29 +185,31 @@ internal static class LanguagePauseButton
         }
     }
 
-    private static void FixGridNavigation(RectTransform container)
+    private static void WrapGridNavigation(RectTransform container)
     {
         var buttons = container.GetComponentsInChildren<MPButton>();
         if (buttons.Length == 0) return;
 
-        int columns = 3;
+        int cols = Mathf.Min(3, buttons.Length);
+        int rows = (buttons.Length + cols - 1) / cols;
+
         for (int i = 0; i < buttons.Length; i++)
         {
             var nav = new Navigation();
             nav.mode = Navigation.Mode.Explicit;
 
-            int row = i / columns;
-            int col = i % columns;
+            int col = i % cols;
+            int row = i / cols;
 
-            int left = col > 0 ? i - 1 : -1;
-            int right = col < columns - 1 && i + 1 < buttons.Length ? i + 1 : -1;
-            int up = row > 0 ? i - columns : -1;
-            int down = i + columns < buttons.Length ? i + columns : -1;
+            int left = col > 0 ? i - 1 : i + cols - 1;
+            int right = col < cols - 1 ? i + 1 : i - col;
+            int up = row > 0 ? i - cols : (rows - 1) * cols + Mathf.Min(col, buttons.Length - (rows - 1) * cols - 1);
+            int down = row < rows - 1 ? Mathf.Min(i + cols, buttons.Length - 1) : col;
 
-            if (left >= 0) nav.selectOnLeft = buttons[left];
-            if (right >= 0) nav.selectOnRight = buttons[right];
-            if (up >= 0) nav.selectOnUp = buttons[up];
-            if (down >= 0) nav.selectOnDown = buttons[down];
+            if (left >= 0 && left < buttons.Length) nav.selectOnLeft = buttons[left];
+            if (right >= 0 && right < buttons.Length) nav.selectOnRight = buttons[right];
+            if (up >= 0 && up < buttons.Length) nav.selectOnUp = buttons[up];
+            if (down >= 0 && down < buttons.Length) nav.selectOnDown = buttons[down];
 
             buttons[i].navigation = nav;
         }

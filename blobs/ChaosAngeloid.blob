@@ -1,0 +1,3033 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.Versioning;
+using System.Security;
+using System.Security.Permissions;
+using BepInEx;
+using BepInEx.Configuration;
+using EntityStates;
+using EntityStates.FlyingVermin.Mode;
+using EntityStates.Merc;
+using IL.RoR2;
+using KinematicCharacterController;
+using Mono.Cecil.Cil;
+using MonoMod.Cil;
+using On.RoR2;
+using R2API;
+using R2API.Utils;
+using Rewired.ComponentControls.Effects;
+using RoR2;
+using RoR2.Navigation;
+using RoR2.Projectile;
+using RoR2.Skills;
+using RoR2.UI;
+using TMPro;
+using ThreeEyedGames;
+using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.Networking;
+using UnityEngine.Rendering;
+
+[assembly: CompilationRelaxations(8)]
+[assembly: RuntimeCompatibility(WrapNonExceptionThrows = true)]
+[assembly: Debuggable(DebuggableAttribute.DebuggingModes.Default | DebuggableAttribute.DebuggingModes.DisableOptimizations | DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints | DebuggableAttribute.DebuggingModes.EnableEditAndContinue)]
+[assembly: TargetFramework(".NETStandard,Version=v2.1", FrameworkDisplayName = "")]
+[assembly: AssemblyCompany("ChaosAngeloid")]
+[assembly: AssemblyConfiguration("Debug")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
+[assembly: AssemblyProduct("ChaosAngeloid")]
+[assembly: AssemblyTitle("ChaosAngeloid")]
+[assembly: SecurityPermission(SecurityAction.RequestMinimum, SkipVerification = true)]
+[assembly: AssemblyVersion("1.0.0.0")]
+[module: UnverifiableCode]
+namespace ChaosAngeloid;
+
+internal class Assets
+{
+	public static AssetBundle MainAssetBundle;
+
+	public static T Load<T>(string name) where T : Object
+	{
+		return MainAssetBundle.LoadAsset<T>(name);
+	}
+
+	public static void PopulateAssets()
+	{
+		Assembly executingAssembly = Assembly.GetExecutingAssembly();
+		if ((Object)(object)MainAssetBundle == (Object)null)
+		{
+			using Stream stream = executingAssembly.GetManifestResourceStream("ChaosAngeloid.AssetBundle.chaosassets");
+			MainAssetBundle = AssetBundle.LoadFromStream(stream);
+		}
+		using Stream stream2 = executingAssembly.GetManifestResourceStream("ChaosAngeloid.ChaosAngeloid.bnk");
+		byte[] array = new byte[stream2.Length];
+		stream2.Read(array, 0, array.Length);
+		SoundBanks.Add(array);
+	}
+}
+internal class Behaviour : MonoBehaviour
+{
+	private CharacterBody body;
+
+	private BullseyeSearch search = new BullseyeSearch();
+
+	private SphereSearch sphereSearch = new SphereSearch();
+
+	private Indicator indicator;
+
+	private float stopwatch = 1f;
+
+	public HurtBox targetHurtbox;
+
+	public CharacterBody targetBody;
+
+	public GenericSkill masterSkill;
+
+	public CharacterBody master;
+
+	public Cloth cloth;
+
+	public GameObject orbEffect;
+
+	public float charge;
+
+	public Vector3 offset = new Vector3(0f, 10f, -30f);
+
+	public AimRequest request;
+
+	public float searchDistance = 250f;
+
+	public float searchAngle = 8f;
+
+	public float speed = 150f;
+
+	public float speedFactor = 0.08f;
+
+	private void Awake()
+	{
+		//IL_0019: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0023: Expected O, but got Unknown
+		body = ((Component)this).GetComponent<CharacterBody>();
+		indicator = new Indicator(((Component)this).gameObject, Prefabs.indicator);
+	}
+
+	private void Start()
+	{
+		//IL_000e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0013: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0021: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0032: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0033: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_005b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0060: Unknown result type (might be due to invalid IL or missing references)
+		indicator.active = true;
+		TeamMask none = TeamMask.none;
+		((TeamMask)(ref none)).AddTeam(body.teamComponent.teamIndex);
+		search.teamMaskFilter = none;
+		search.sortMode = (SortMode)3;
+		search.filterByLoS = true;
+		sphereSearch.mask = ((LayerIndex)(ref LayerIndex.entityPrecise)).mask;
+		sphereSearch.radius = 45f;
+		cloth = ((Component)((Component)body.modelLocator.modelTransform).GetComponent<ChildLocator>().FindChild("cloth")).GetComponent<Cloth>();
+	}
+
+	private void FixedUpdate()
+	{
+		//IL_0187: Unknown result type (might be due to invalid IL or missing references)
+		//IL_018c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0195: Unknown result type (might be due to invalid IL or missing references)
+		//IL_019a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01a7: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01ac: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0057: Unknown result type (might be due to invalid IL or missing references)
+		//IL_005c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00e2: Unknown result type (might be due to invalid IL or missing references)
+		stopwatch += Time.fixedDeltaTime;
+		if (stopwatch >= 0.1f)
+		{
+			stopwatch = 0f;
+			if (((NetworkBehaviour)body).hasAuthority)
+			{
+				Material val = null;
+				sphereSearch.origin = ((Component)this).transform.position;
+				HurtBox[] hurtBoxes = sphereSearch.RefreshCandidates().FilterCandidatesByDistinctHurtBoxEntities().GetHurtBoxes();
+				foreach (HurtBox val2 in hurtBoxes)
+				{
+					if ((Object)(object)((Component)val2.healthComponent).gameObject != (Object)(object)((Component)this).gameObject && (Object)(object)val2.healthComponent.body != (Object)(object)master)
+					{
+						if (((TeamMask)(ref search.teamMaskFilter)).HasTeam(val2.healthComponent.body.teamComponent.teamIndex))
+						{
+							val = Prefabs.allyHighlight;
+						}
+						else
+						{
+							val2.healthComponent.body.AddTimedBuff(Prefabs.masterDmgBuff, 0.25f);
+							val = Prefabs.enemyHighlight;
+						}
+						TemporaryOverlayBehaviour component = ((Component)val2.healthComponent).GetComponent<TemporaryOverlayBehaviour>();
+						if (!Object.op_Implicit((Object)(object)component))
+						{
+							component = ((Component)val2.healthComponent).gameObject.AddComponent<TemporaryOverlayBehaviour>();
+							component.AddOverlay(val);
+						}
+						else
+						{
+							component.Reset();
+						}
+					}
+				}
+			}
+			Ray aimRay = body.inputBank.GetAimRay();
+			search.searchOrigin = ((Ray)(ref aimRay)).origin;
+			search.searchDirection = ((Ray)(ref aimRay)).direction;
+			search.maxDistanceFilter = searchDistance;
+			search.maxAngleFilter = searchAngle;
+			search.RefreshCandidates();
+			search.FilterOutGameObject(((Component)this).gameObject);
+			targetHurtbox = search.GetResults().FirstOrDefault();
+			if (Object.op_Implicit((Object)(object)targetHurtbox))
+			{
+				if ((Object)(object)targetHurtbox.healthComponent.body != (Object)(object)master)
+				{
+					targetBody = targetHurtbox.healthComponent.body;
+					indicator.targetTransform = ((Component)targetHurtbox).transform;
+				}
+				else
+				{
+					indicator.targetTransform = null;
+				}
+			}
+			else
+			{
+				indicator.targetTransform = null;
+			}
+		}
+		if (Object.op_Implicit((Object)(object)cloth))
+		{
+			cloth.worldVelocityScale = 0.5f / (body.moveSpeed / body.baseMoveSpeed);
+			cloth.worldAccelerationScale = cloth.worldVelocityScale;
+		}
+	}
+}
+internal class ChargeProjectileBehaviour : MonoBehaviour
+{
+	private ProjectileController controller;
+
+	private ProjectileImpactExplosion explosion;
+
+	private ProjectileSimple simple;
+
+	private Collider collider;
+
+	private Behaviour behaviour;
+
+	private bool hasFired;
+
+	private float stopwatch;
+
+	public float maxSize = 3f;
+
+	private void Awake()
+	{
+		controller = ((Component)this).GetComponent<ProjectileController>();
+		explosion = ((Component)this).GetComponent<ProjectileImpactExplosion>();
+		simple = ((Component)this).GetComponent<ProjectileSimple>();
+		collider = ((Component)this).GetComponent<Collider>();
+	}
+
+	private void Start()
+	{
+		if (Object.op_Implicit((Object)(object)controller.owner))
+		{
+			behaviour = controller.owner.GetComponent<Behaviour>();
+		}
+	}
+
+	private void FixedUpdate()
+	{
+		//IL_0070: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0075: Unknown result type (might be due to invalid IL or missing references)
+		//IL_009a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00a4: Unknown result type (might be due to invalid IL or missing references)
+		if (!Object.op_Implicit((Object)(object)behaviour) && Object.op_Implicit((Object)(object)controller.owner))
+		{
+			behaviour = controller.owner.GetComponent<Behaviour>();
+		}
+		if (Object.op_Implicit((Object)(object)behaviour))
+		{
+			stopwatch += Time.fixedDeltaTime;
+			((Component)this).transform.localScale = Vector3.Lerp(((Component)this).transform.localScale, Vector3.one * Util.Remap(stopwatch, 0f, 6f, 1f, maxSize), 999f);
+		}
+	}
+}
+internal class EntityScanBehaviour : MonoBehaviour
+{
+}
+internal class HUDTracker : MonoBehaviour
+{
+	public GameObject skillRoot;
+
+	public GameObject sprintCluster;
+
+	public GameObject inventoryCluster;
+
+	public SkillIcon icon;
+
+	public MPEventSystemLocator mpLocator;
+
+	public HUD hud;
+
+	public Behaviour behaviour;
+
+	private bool hadBehaviour;
+
+	public HGTextMeshProUGUI text;
+
+	public string passiveKeybind = ((object)MainPlugin.masterKey.Value/*cast due to .constrained prefix*/).ToString();
+
+	private void Awake()
+	{
+		hud = ((Component)this).GetComponent<HUD>();
+	}
+
+	private void FixedUpdate()
+	{
+		//IL_011a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_011f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0152: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0157: Unknown result type (might be due to invalid IL or missing references)
+		if (!Object.op_Implicit((Object)(object)behaviour))
+		{
+			if (hadBehaviour && skillRoot.activeInHierarchy)
+			{
+				sprintCluster.SetActive(true);
+				skillRoot.gameObject.SetActive(false);
+			}
+			if (!Object.op_Implicit((Object)(object)hud) || !Object.op_Implicit((Object)(object)hud.targetBodyObject))
+			{
+				return;
+			}
+			behaviour = hud.targetBodyObject.GetComponent<Behaviour>();
+			if (Object.op_Implicit((Object)(object)behaviour) && Util.HasEffectiveAuthority(hud.targetBodyObject) && Object.op_Implicit((Object)(object)skillRoot) && Object.op_Implicit((Object)(object)sprintCluster) && Object.op_Implicit((Object)(object)mpLocator) && Object.op_Implicit((Object)(object)icon))
+			{
+				hadBehaviour = true;
+				if (Object.op_Implicit((Object)(object)sprintCluster))
+				{
+					sprintCluster.transform.localPosition = Vector2.op_Implicit(new Vector2(-474.0534f, -10.17963f));
+				}
+				if (Object.op_Implicit((Object)(object)inventoryCluster))
+				{
+					inventoryCluster.transform.localPosition = Vector2.op_Implicit(new Vector2(-555.6793f, -10.17968f));
+				}
+				icon.targetSkill = behaviour.masterSkill;
+				mpLocator.eventSystemProvider = ((Component)hud).GetComponent<MPEventSystemProvider>();
+				skillRoot.gameObject.SetActive(true);
+			}
+		}
+		else if (Object.op_Implicit((Object)(object)text) && ((TMP_Text)text).text != passiveKeybind)
+		{
+			((TMP_Text)text).text = passiveKeybind;
+		}
+	}
+}
+internal class MasterMarkBehaviour : MonoBehaviour
+{
+	public GameObject owner;
+
+	public CharacterBody ownerBody;
+
+	private CharacterBody body;
+
+	private TemporaryOverlayInstance overlay;
+
+	private void Start()
+	{
+		ownerBody = owner.GetComponent<CharacterBody>();
+		body = ((Component)this).GetComponent<CharacterBody>();
+		if (!Object.op_Implicit((Object)(object)body) || !Util.HasEffectiveAuthority(owner))
+		{
+			return;
+		}
+		Transform modelTransform = body.modelLocator.modelTransform;
+		if (Object.op_Implicit((Object)(object)modelTransform))
+		{
+			CharacterModel component = ((Component)modelTransform).GetComponent<CharacterModel>();
+			if (Object.op_Implicit((Object)(object)component))
+			{
+				overlay = TemporaryOverlayManager.AddOverlay(((Component)component).gameObject);
+				overlay.originalMaterial = Prefabs.masterHighlight;
+				overlay.duration = float.MaxValue;
+				overlay.destroyComponentOnEnd = true;
+				overlay.animateShaderAlpha = true;
+				overlay.alphaCurve = AnimationCurve.Constant(0f, 1f, 1f);
+				overlay.AddToCharacterModel(component);
+			}
+		}
+	}
+
+	private void FixedUpdate()
+	{
+		if (Object.op_Implicit((Object)(object)body) && NetworkServer.active && !body.HasBuff(Prefabs.masterMarkBuff))
+		{
+			body.AddBuff(Prefabs.masterMarkBuff);
+		}
+	}
+
+	private void OnDestroy()
+	{
+		if (overlay != null)
+		{
+			overlay.duration = 0f;
+		}
+		if (NetworkServer.active && Object.op_Implicit((Object)(object)body))
+		{
+			body.RemoveBuff(Prefabs.masterMarkBuff);
+		}
+	}
+}
+internal class ModelBehaviour : MonoBehaviour
+{
+	private uint ID;
+
+	private void OnEnable()
+	{
+		//IL_001e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0028: Expected O, but got Unknown
+		ID = AkSoundEngine.PostEvent("Play_ChaosAngeloid_Theme", ((Component)this).gameObject);
+		MusicController.LateUpdate += new Manipulator(MusicController_LateUpdate);
+	}
+
+	private void MusicController_LateUpdate(ILContext il)
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0008: Expected O, but got Unknown
+		ILCursor val = new ILCursor(il);
+		int num = default(int);
+		val.GotoNext(new Func<Instruction, bool>[1]
+		{
+			(Instruction i) => ILPatternMatchingExt.MatchStloc(i, ref num)
+		});
+		val.EmitDelegate<Func<bool, bool>>((Func<bool, bool>)((bool b) => true));
+	}
+
+	private void OnDisable()
+	{
+		//IL_0008: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0012: Expected O, but got Unknown
+		MusicController.LateUpdate -= new Manipulator(MusicController_LateUpdate);
+	}
+}
+internal class ScaleLineOverTime : MonoBehaviour
+{
+	public float stopwatch;
+
+	public float duration = 2.5f;
+
+	private LineRenderer line;
+
+	private float startingWidth;
+
+	private AnimationCurve curve
+	{
+		get
+		{
+			AnimationCurve val = AnimationCurve.EaseInOut(0f, 1f, 1f, 0f);
+			val.AddKey(0.85f, 1f);
+			return val;
+		}
+	}
+
+	private void Awake()
+	{
+		line = ((Component)this).GetComponent<LineRenderer>();
+		startingWidth = line.widthMultiplier;
+	}
+
+	private void FixedUpdate()
+	{
+		stopwatch += Time.fixedDeltaTime;
+		line.widthMultiplier = startingWidth * curve.Evaluate(stopwatch / duration);
+	}
+}
+internal class TemporaryOverlayBehaviour : MonoBehaviour
+{
+	private float stopwatch;
+
+	private TemporaryOverlayInstance overlay;
+
+	public bool temporary = true;
+
+	private AnimationCurve curve
+	{
+		get
+		{
+			AnimationCurve val = AnimationCurve.EaseInOut(0f, 1f, 1f, 0f);
+			val.AddKey(0.85f, 1f);
+			return val;
+		}
+	}
+
+	public void AddOverlay(Material mat)
+	{
+		ModelLocator component = ((Component)this).GetComponent<ModelLocator>();
+		if (Object.op_Implicit((Object)(object)component) && Object.op_Implicit((Object)(object)component.modelTransform))
+		{
+			CharacterModel component2 = ((Component)component.modelTransform).GetComponent<CharacterModel>();
+			if (Object.op_Implicit((Object)(object)component2))
+			{
+				overlay = TemporaryOverlayManager.AddOverlay(((Component)this).gameObject);
+				overlay.originalMaterial = mat;
+				overlay.animateShaderAlpha = temporary;
+				overlay.duration = 0.5f;
+				overlay.alphaCurve = curve;
+				overlay.destroyComponentOnEnd = true;
+				overlay.AddToCharacterModel(component2);
+			}
+		}
+	}
+
+	public void Reset()
+	{
+		overlay.stopwatch = 0f;
+		stopwatch = 0f;
+	}
+
+	private void FixedUpdate()
+	{
+		stopwatch += Time.fixedDeltaTime;
+		if (stopwatch >= 0.25f)
+		{
+			Object.Destroy((Object)(object)this);
+		}
+	}
+
+	private void OnDestroy()
+	{
+		if (!temporary && overlay == null)
+		{
+		}
+	}
+}
+internal class CharacterBodySetup
+{
+	internal const bool melee = false;
+
+	internal static GameObject baseBody = Prefabs.Load<GameObject>("RoR2/Base/Commando/CommandoBody.prefab");
+
+	internal static GameObject baseMaster;
+
+	internal const string SURVIVORNAME = "Chaos";
+
+	internal const string SURVIVORNAMEKEY = "CHAOS_";
+
+	internal static Color characterColor = Color32.op_Implicit(new Color32((byte)37, (byte)150, (byte)190, byte.MaxValue));
+
+	internal static void CreateCharacterBodies()
+	{
+		RegisterStates();
+		CreateSurvivorPrefab();
+	}
+
+	internal static void CreateSurvivorPrefab()
+	{
+		//IL_0006: Unknown result type (might be due to invalid IL or missing references)
+		GameObject val = CreateBodyPrefab("Chaos", characterColor, 100f, large: false, flying: true);
+		val.AddComponent<Behaviour>();
+		CharacterBody component = val.GetComponent<CharacterBody>();
+		component.mainRootSpeed = 0f;
+		component.baseMaxHealth = 110f;
+		component.levelMaxHealth = 35f;
+		component.baseRegen = 1.5f;
+		component.levelRegen = 0.2f;
+		component.baseMaxShield = 0f;
+		component.levelMaxShield = 0f;
+		component.baseMoveSpeed = 7f;
+		component.levelMoveSpeed = 0f;
+		component.baseAcceleration = 110f;
+		component.baseJumpPower = 15f;
+		component.levelJumpPower = 0f;
+		component.baseDamage = 12f;
+		component.levelDamage = 2.4f;
+		component.baseAttackSpeed = 1f;
+		component.levelAttackSpeed = 0f;
+		component.baseCrit = 1f;
+		component.levelCrit = 0f;
+		component.baseArmor = 0f;
+		component.levelArmor = 0f;
+		component.baseJumpCount = 1;
+		component.sprintingSpeedMultiplier = 1.45f;
+		component._defaultCrosshairPrefab = Prefabs.crosshair;
+		val.GetComponent<HealthComponent>().health = component.baseMaxHealth;
+		CreateSurvivorDef(val);
+		PassiveSetup(val);
+		PrimarySetup(val);
+		SecondarySetup(val);
+		UtilitySetup(val);
+		SpecialSetup(val);
+	}
+
+	internal static void CreateSurvivorDef(GameObject characterPrefab)
+	{
+		//IL_020c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0211: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0156: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0160: Unknown result type (might be due to invalid IL or missing references)
+		CharacterBody component = characterPrefab.GetComponent<CharacterBody>();
+		string text = ((Object)characterPrefab).name.Replace("Body", "");
+		string text2 = text.Replace(" ", "").ToUpper();
+		string text3 = " <style=cSub>\r\n\r\n< ! > \r\n\r\n< ! > \r\n\r\n< ! > \r\n\r\n< ! > \r\n\r\n";
+		string text4 = "..and so she left, another world lost to love.";
+		string text5 = "..and so she vanished, yearning for more love.";
+		string text6 = "Wishing is something amazing—it's all your hopes and dreams combined into a single thought.\r\nMany wish for wealth, riches.\r\nOthers wish for health.\r\nSome wish for love.\r\n\r\nBut what if the wish you make becomes your demise?\r\n\r\nWhenever you love something, the moment it hurts you or you lose it, it turns into pain.\r\nPain doesn’t stop. It lingers. So… is pain love?\r\n\r\nI think it is. Every step I’ve taken on my journey has led to love—so much love.\r\nI tainted the world with love.\r\n\r\nI wish everyone could experience it—every planet, not just Earth, not just Synapse, not just my Master.\r\n\r\nWill you accompany me on my journey?\r\nWill you help me taint the world in red… and hear them quiver in joy?\r\n\r\nLet me play with my dolls once more.\r\nSet me free.\r\nBecome my Master.";
+		LanguageAPI.Add("CHAOSANGELOID_" + text2 + "_DESCRIPTION", text3);
+		LanguageAPI.Add("CHAOSANGELOID_" + text2 + "_SUBTITLE", "Angeloid Type Epsilon");
+		LanguageAPI.Add("CHAOSANGELOID_" + text2 + "_OUTRO", text4);
+		LanguageAPI.Add("CHAOSANGELOID_" + text2 + "_FAIL", text5);
+		LanguageAPI.Add("CHAOSANGELOID_" + text2 + "_LORE", text6);
+		GameObject val = PrefabAPI.InstantiateClone(((Component)characterPrefab.GetComponent<ModelLocator>().modelBaseTransform).gameObject, text + "Display", false);
+		Animator componentInChildren = val.GetComponentInChildren<Animator>();
+		componentInChildren.runtimeAnimatorController = Assets.Load<RuntimeAnimatorController>("displayAnimator");
+		Object.Destroy((Object)(object)((Component)componentInChildren).GetComponent<HurtBoxGroup>());
+		Cloth component2 = ((Component)((Component)componentInChildren).GetComponent<ChildLocator>().FindChild("cloth")).GetComponent<Cloth>();
+		if (Object.op_Implicit((Object)(object)component2))
+		{
+			component2.worldVelocityScale = 0.5f;
+			component2.worldAccelerationScale = 0.5f;
+			component2.randomAcceleration = Vector3.right * 4f;
+		}
+		ChildLocator component3 = ((Component)componentInChildren).GetComponent<ChildLocator>();
+		((Component)component3.FindChild("displayEffect")).gameObject.SetActive(true);
+		((Component)component3.FindChild("idleEffectR")).gameObject.SetActive(false);
+		((Component)component3.FindChild("idleEffectL")).gameObject.SetActive(false);
+		((Component)componentInChildren).gameObject.AddComponent<ModelBehaviour>();
+		SurvivorDef val2 = ScriptableObject.CreateInstance<SurvivorDef>();
+		val2.cachedName = "CHAOSANGELOID_" + text2 + "_NAME";
+		val2.unlockableDef = null;
+		val2.descriptionToken = "CHAOSANGELOID_" + text2 + "_DESCRIPTION";
+		val2.primaryColor = component.bodyColor;
+		val2.bodyPrefab = characterPrefab;
+		val2.displayPrefab = val;
+		val2.outroFlavorToken = "CHAOSANGELOID_" + text2 + "_OUTRO";
+		val2.desiredSortPosition = 22f;
+		val2.mainEndingEscapeFailureFlavorToken = "CHAOSANGELOID_" + text2 + "_FAIL";
+		ContentAddition.AddSurvivorDef(val2);
+		GameObject val3 = PrefabAPI.InstantiateClone(Prefabs.Load<GameObject>("RoR2/Base/Commando/CommandoMonsterMaster.prefab"), text + "Master", true);
+		ContentAddition.AddMaster(val3);
+		CharacterMaster component4 = val3.GetComponent<CharacterMaster>();
+		component4.bodyPrefab = characterPrefab;
+	}
+
+	internal static void RegisterStates()
+	{
+		//IL_0003: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0013: Unknown result type (might be due to invalid IL or missing references)
+		//IL_001b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0023: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0033: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0043: Unknown result type (might be due to invalid IL or missing references)
+		bool flag = default(bool);
+		ContentAddition.AddEntityState<Primary>(ref flag);
+		ContentAddition.AddEntityState<Secondary>(ref flag);
+		ContentAddition.AddEntityState<Utility>(ref flag);
+		ContentAddition.AddEntityState<Special>(ref flag);
+		ContentAddition.AddEntityState<SpecialFire>(ref flag);
+		ContentAddition.AddEntityState<CharacterMain>(ref flag);
+		ContentAddition.AddEntityState<MeleeSkillState>(ref flag);
+		ContentAddition.AddEntityState<BasicMeleeSkillState>(ref flag);
+		ContentAddition.AddEntityState<PickMaster>(ref flag);
+	}
+
+	internal static void PassiveSetup(GameObject characterPrefab)
+	{
+		SkillLocator component = characterPrefab.GetComponent<SkillLocator>();
+		LanguageAPI.Add("CHAOS__PASSIVE_NAME", "Angeloid Type 2");
+		LanguageAPI.Add("CHAOS__PASSIVE_DESCRIPTION", "Scans nearby entities, highlighting their location. Masters are highlighted at all times. Hightlighted enemies take <style=cIsDamage>20%</style> increased damage from Masters.");
+		component.passiveSkill.enabled = true;
+		component.passiveSkill.skillNameToken = "CHAOS__PASSIVE_NAME";
+		component.passiveSkill.skillDescriptionToken = "CHAOS__PASSIVE_DESCRIPTION";
+		component.passiveSkill.icon = Assets.MainAssetBundle.LoadAsset<Sprite>("passive");
+	}
+
+	internal static void PrimarySetup(GameObject characterPrefab)
+	{
+		SkillLocator component = characterPrefab.GetComponent<SkillLocator>();
+		string text = "_M1";
+		LanguageAPI.Add("CHAOS_" + text, "Tainted Flames");
+		LanguageAPI.Add("CHAOS_" + text + "_DESCRIPTION", "<style=cIsDamage>Ignite</style>. Launch fireballs in quick succession for <style=cIsDamage>220% damage</style>.");
+		SkillDef skill = Utils.NewSkillDef<SkillDef>(typeof(Primary), "Weapon", 0, 0f, beginSkillCooldownOnSkillEnd: true, canceledFromSprinting: false, fullRestockOnAssign: true, (InterruptPriority)0, isCombatSkill: true, mustKeyPress: false, cancelSprintingOnActivation: true, 0, 0, 0, Assets.MainAssetBundle.LoadAsset<Sprite>("primary"), "CHAOS_" + text, "CHAOS_" + text + "_DESCRIPTION", new string[1] { "KEYWORD_IGNITE" });
+		component.primary = Utils.NewGenericSkill(characterPrefab, skill);
+	}
+
+	internal static void SecondarySetup(GameObject characterPrefab)
+	{
+		SkillLocator component = characterPrefab.GetComponent<SkillLocator>();
+		string text = "_M2";
+		LanguageAPI.Add("CHAOS_" + text, "Aegis");
+		LanguageAPI.Add("CHAOS_" + text + "_DESCRIPTION", "Protect from all incoming damage.");
+		SkillDef skill = Utils.NewSkillDef<SkillDef>(typeof(Secondary), "Weapon", 1, 8f, beginSkillCooldownOnSkillEnd: true, canceledFromSprinting: false, fullRestockOnAssign: false, (InterruptPriority)1, isCombatSkill: true, mustKeyPress: true, cancelSprintingOnActivation: false, 1, 1, 1, Assets.MainAssetBundle.LoadAsset<Sprite>("secondary"), "CHAOS_" + text, "CHAOS_" + text + "_DESCRIPTION", Array.Empty<string>());
+		component.secondary = Utils.NewGenericSkill(characterPrefab, skill);
+	}
+
+	internal static void UtilitySetup(GameObject characterPrefab)
+	{
+		SkillLocator component = characterPrefab.GetComponent<SkillLocator>();
+		string text = "_UTIL";
+		LanguageAPI.Add("CHAOS_" + text, "Chimaira");
+		LanguageAPI.Add("CHAOS_" + text + "_DESCRIPTION", "Quickly dash forward.");
+		SkillDef skill = Utils.NewSkillDef<SkillDef>(typeof(Utility), "Weapon", 1, 5f, beginSkillCooldownOnSkillEnd: true, canceledFromSprinting: false, fullRestockOnAssign: false, (InterruptPriority)1, isCombatSkill: true, mustKeyPress: true, cancelSprintingOnActivation: false, 1, 1, 1, Assets.MainAssetBundle.LoadAsset<Sprite>("utility"), "CHAOS_" + text, "CHAOS_" + text + "_DESCRIPTION", Array.Empty<string>());
+		component.utility = Utils.NewGenericSkill(characterPrefab, skill);
+	}
+
+	internal static void SpecialSetup(GameObject characterPrefab)
+	{
+		SkillLocator component = characterPrefab.GetComponent<SkillLocator>();
+		string text = "_SPEC";
+		LanguageAPI.Add("CHAOS_" + text, "Tainted Fireball");
+		LanguageAPI.Add("CHAOS_" + text + "_DESCRIPTION", "<style=cIsDamage>Ignite</style>. Charge a flaming orb for up to <style=cIsUtility>10s</style>, that deals <style=cIsDamage>400%-2000% damage</style> and burning the ground dealing <style=cIsDamage>10%</style> of the damage per second. Charging for at least <style=cIsUtility>5s</style> causes Chaos to release a death ray instead, dealing <style=cIsDamage>2000% damage</style> per second. Charging over <style=cIsUtility>5s</style> increases the duration of the death ray.");
+		SkillDef skill = Utils.NewSkillDef<SkillDef>(typeof(Special), "Weapon", 1, 8f, beginSkillCooldownOnSkillEnd: true, canceledFromSprinting: false, fullRestockOnAssign: false, (InterruptPriority)1, isCombatSkill: true, mustKeyPress: true, cancelSprintingOnActivation: false, 1, 1, 1, Assets.MainAssetBundle.LoadAsset<Sprite>("special"), "CHAOS_" + text, "CHAOS_" + text + "_DESCRIPTION", new string[1] { "KEYWORD_IGNITE" });
+		component.special = Utils.NewGenericSkill(characterPrefab, skill);
+		text = "_F";
+		LanguageAPI.Add("CHAOS_" + text, "Imprint");
+		LanguageAPI.Add("CHAOS_" + text + "_DESCRIPTION", "Imprint an ally as Chaos new master, granting them <style=cIsDamage>10% stats</style>");
+		skill = Utils.NewSkillDef<SkillDef>(typeof(PickMaster), "Weapon", 1, 30f, beginSkillCooldownOnSkillEnd: true, canceledFromSprinting: false, fullRestockOnAssign: false, (InterruptPriority)1, isCombatSkill: true, mustKeyPress: true, cancelSprintingOnActivation: false, 1, 1, 1, Assets.MainAssetBundle.LoadAsset<Sprite>("masterPick"), "CHAOS_" + text, "CHAOS_" + text + "_DESCRIPTION", Array.Empty<string>());
+		characterPrefab.GetComponent<Behaviour>().masterSkill = Utils.NewGenericSkill(characterPrefab, skill);
+	}
+
+	internal static GameObject CreateBodyPrefab(string characterName, Color bodyColor, float mass, bool large = false, bool flying = false)
+	{
+		//IL_00cc: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00d3: Expected O, but got Unknown
+		//IL_00fc: Unknown result type (might be due to invalid IL or missing references)
+		//IL_010e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0120: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0130: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0137: Expected O, but got Unknown
+		//IL_0161: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0173: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0185: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01a9: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01b6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_023d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0259: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02a3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02a4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_032a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_032f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_035c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0361: Unknown result type (might be due to invalid IL or missing references)
+		//IL_041b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_043b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0448: Unknown result type (might be due to invalid IL or missing references)
+		//IL_04dd: Unknown result type (might be due to invalid IL or missing references)
+		//IL_054f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0705: Unknown result type (might be due to invalid IL or missing references)
+		//IL_070a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0730: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0735: Unknown result type (might be due to invalid IL or missing references)
+		string text = characterName.Replace(" ", "");
+		string text2 = text.ToUpper();
+		LanguageAPI.Add("CHAOSANGELOID_" + text2 + "_NAME", characterName);
+		GameObject val = PrefabAPI.InstantiateClone(baseBody, text + "Body", true);
+		val.GetComponent<NetworkIdentity>().localPlayerAuthority = true;
+		Object.Destroy((Object)(object)((Component)val.transform.Find("ModelBase")).gameObject);
+		Object.Destroy((Object)(object)((Component)val.transform.Find("CameraPivot")).gameObject);
+		Object.Destroy((Object)(object)((Component)val.transform.Find("AimOrigin")).gameObject);
+		GameObject val2 = Assets.MainAssetBundle.LoadAsset<GameObject>(text + "Mdl");
+		val2.AddComponent<AnimationEvents>().soundCenter = val2;
+		GameObject val3 = new GameObject("ModelBase");
+		val3.transform.parent = val.transform;
+		val3.transform.localPosition = new Vector3(0f, -0.94f, 0f);
+		val3.transform.localRotation = Quaternion.identity;
+		val3.transform.localScale = Vector3.one;
+		GameObject val4 = new GameObject("AimOrigin");
+		val4.transform.parent = val3.transform;
+		val4.transform.localPosition = new Vector3(0f, 1.4f, 0f);
+		val4.transform.localRotation = Quaternion.identity;
+		val4.transform.localScale = Vector3.one;
+		Transform transform = val2.transform;
+		transform.parent = val3.transform;
+		transform.localPosition = Vector3.zero;
+		transform.localRotation = Quaternion.identity;
+		CharacterDirection component = val.GetComponent<CharacterDirection>();
+		component.targetTransform = val3.transform;
+		component.modelAnimator = val2.GetComponentInChildren<Animator>();
+		component.turnSpeed = 720f;
+		CharacterBody component2 = val.GetComponent<CharacterBody>();
+		((Object)component2).name = text + "Body";
+		component2.baseNameToken = "CHAOSANGELOID_" + text2 + "_NAME";
+		component2.subtitleNameToken = "CHAOSANGELOID_" + text2 + "_SUBTITLE";
+		component2.bodyFlags = (BodyFlags)16;
+		component2.aimOriginTransform = val4.transform;
+		component2.hullClassification = (HullClassification)(large ? 1 : 0);
+		Sprite val5 = Assets.MainAssetBundle.LoadAsset<Sprite>("portrait");
+		component2.portraitIcon = (Texture)(object)(Object.op_Implicit((Object)(object)val5) ? val5.texture : null);
+		component2.isChampion = false;
+		component2.currentVehicle = null;
+		component2.skinIndex = 0u;
+		component2.bodyColor = bodyColor;
+		HealthComponent component3 = val.GetComponent<HealthComponent>();
+		component3.health = component2.baseMaxHealth;
+		component3.shield = 0f;
+		component3.barrier = 0f;
+		CharacterMotor component4 = val.GetComponent<CharacterMotor>();
+		component4.walkSpeedPenaltyCoefficient = 1f;
+		component4.characterDirection = component;
+		component4.muteWalkMotion = false;
+		component4.mass = mass;
+		component4.airControl = 0.25f;
+		component4.disableAirControlUntilCollision = false;
+		component4.generateParametersOnAwake = true;
+		InputBankTest component5 = val.GetComponent<InputBankTest>();
+		component5.moveVector = Vector3.zero;
+		CameraTargetParams component6 = val.GetComponent<CameraTargetParams>();
+		component6.cameraParams = baseBody.GetComponent<CameraTargetParams>().cameraParams;
+		component6.cameraPivotTransform = null;
+		component6.recoil = Vector2.zero;
+		component6.dontRaycastToPivot = false;
+		ModelLocator component7 = val.GetComponent<ModelLocator>();
+		component7.modelTransform = transform;
+		component7.modelBaseTransform = val3.transform;
+		component7.dontReleaseModelOnDeath = false;
+		component7.autoUpdateModelTransform = true;
+		component7.dontDetatchFromParent = false;
+		component7.noCorpse = false;
+		component7.normalizeToFloor = false;
+		component7.preserveModel = false;
+		ChildLocator component8 = val2.GetComponent<ChildLocator>();
+		CharacterModel val6 = val2.AddComponent<CharacterModel>();
+		SkinnedMeshRenderer[] componentsInChildren = val2.GetComponentsInChildren<SkinnedMeshRenderer>();
+		List<RendererInfo> list = new List<RendererInfo>();
+		Material val7 = Prefabs.InstantiateDefaultSurvivorMaterial((Texture)(object)Assets.Load<Texture2D>("Chaos"));
+		val7.SetFloat("_Cull", 0f);
+		foreach (SkinnedMeshRenderer val8 in componentsInChildren)
+		{
+			((Renderer)val8).material = val7;
+			list.Add(new RendererInfo
+			{
+				renderer = (Renderer)(object)val8,
+				defaultMaterial = ((Renderer)val8).material,
+				defaultShadowCastingMode = (ShadowCastingMode)1,
+				ignoreOverlays = false
+			});
+		}
+		RendererInfo[] array = list.ToArray();
+		val6.body = component2;
+		val6.baseRendererInfos = array;
+		val6.autoPopulateLightInfos = true;
+		val6.temporaryOverlays = new List<TemporaryOverlayInstance>();
+		val6.mainSkinnedMeshRenderer = componentsInChildren[0];
+		LanguageAPI.Add(text2 + "BODY_DEFAULT_SKIN_NAME", "Default");
+		ModelSkinController val9 = val2.AddComponent<ModelSkinController>();
+		val9.skins = (SkinDef[])(object)new SkinDef[1] { Skins.CreateNewSkinDef(Utils.CreateNewSkinDefInfo(componentsInChildren, val2, text2 + "BODY_DEFAULT_SKIN_NAME", "base", array)) };
+		Collider[] componentsInChildren2 = val2.GetComponentsInChildren<Collider>();
+		HurtBoxGroup val10 = val2.AddComponent<HurtBoxGroup>();
+		List<HurtBox> list2 = new List<HurtBox>();
+		Collider[] array2 = componentsInChildren2;
+		foreach (Collider val11 in array2)
+		{
+			HurtBox val12 = ((Component)val11).gameObject.AddComponent<HurtBox>();
+			((Component)val12).gameObject.layer = LayerIndex.entityPrecise.intVal;
+			val12.healthComponent = component3;
+			val12.isBullseye = true;
+			val12.damageModifier = (DamageModifier)0;
+			val12.hurtBoxGroup = val10;
+			val12.indexInGroup = 0;
+			val10.mainHurtBox = val12;
+			val10.bullseyeCount = 1;
+			list2.Add(val12);
+		}
+		val10.hurtBoxes = list2.ToArray();
+		KinematicCharacterMotor component9 = val.GetComponent<KinematicCharacterMotor>();
+		component9.CharacterController = (ICharacterController)(object)component4;
+		component9.playerCharacter = true;
+		val.GetComponent<Interactor>().maxInteractionDistance = 3f;
+		val.GetComponent<InteractionDriver>().highlightInteractor = true;
+		SfxLocator component10 = val.GetComponent<SfxLocator>();
+		component10.deathSound = "Play_ui_player_death";
+		component10.barkSound = "";
+		component10.openSound = "";
+		component10.landingSound = (large ? "Play_gravekeeper_land" : "Play_char_land");
+		component10.fallDamageSound = "Play_char_land_fall_damage";
+		component10.aliveLoopStart = "";
+		component10.aliveLoopStop = "";
+		val.GetComponent<Rigidbody>().mass = mass;
+		FootstepHandler val13 = val2.AddComponent<FootstepHandler>();
+		val13.baseFootstepString = (large ? "Play_beetle_queen_step" : "Play_player_footstep");
+		val13.sprintFootstepOverrideString = "";
+		val13.enableFootstepDust = true;
+		val13.footstepDustPrefab = Prefabs.Load<GameObject>(large ? "RoR2/Base/Common/VFX/GenericHugeFootstepDust.prefab" : "RoR2/Base/Common/VFX/GenericFootstepDust.prefab");
+		GenericSkill[] componentsInChildren3 = val.GetComponentsInChildren<GenericSkill>();
+		foreach (GenericSkill val14 in componentsInChildren3)
+		{
+			Object.DestroyImmediate((Object)(object)val14);
+		}
+		if (flying)
+		{
+			Utils.NewStateMachine<GrantFlight>(val, "Flight");
+			component10.landingSound = "";
+			component10.fallDamageSound = "";
+		}
+		EntityStateMachine component11 = ((Component)component2).GetComponent<EntityStateMachine>();
+		component11.mainStateType = new SerializableEntityStateType(typeof(CharacterMain));
+		CharacterDeathBehavior component12 = val.GetComponent<CharacterDeathBehavior>();
+		component12.deathStateMachine = val.GetComponent<EntityStateMachine>();
+		component12.deathState = new SerializableEntityStateType(typeof(GenericCharacterDeath));
+		NetworkStateMachine component13 = ((Component)component2).GetComponent<NetworkStateMachine>();
+		component13.stateMachines = ((Component)component2).GetComponents<EntityStateMachine>();
+		ContentAddition.AddBody(val);
+		return val;
+	}
+}
+internal class Hook
+{
+	internal static void Hooks()
+	{
+		//IL_0008: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0012: Expected O, but got Unknown
+		//IL_001a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0024: Expected O, but got Unknown
+		//IL_002c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0036: Expected O, but got Unknown
+		RecalculateStatsAPI.GetStatCoefficients += new StatHookEventHandler(RecalculateStatsAPI_GetStatCoefficients);
+		HealthComponent.TakeDamage += new hook_TakeDamage(HealthComponent_TakeDamage);
+		CharacterMaster.TryReviveOnBodyDeath += new hook_TryReviveOnBodyDeath(CharacterMaster_TryReviveOnBodyDeath);
+	}
+
+	private static bool CharacterMaster_TryReviveOnBodyDeath(orig_TryReviveOnBodyDeath orig, CharacterMaster self, CharacterBody body)
+	{
+		bool flag = orig.Invoke(self, body);
+		if (!flag)
+		{
+			MasterMarkBehaviour component = ((Component)body).GetComponent<MasterMarkBehaviour>();
+			if (Object.op_Implicit((Object)(object)component) && Object.op_Implicit((Object)(object)component.ownerBody) && !component.ownerBody.HasBuff(Prefabs.rezCD))
+			{
+				component.ownerBody.AddTimedBuff(Prefabs.rezCD, 60f);
+				((MonoBehaviour)self).Invoke("RespawnExtraLife", 0.5f);
+				((MonoBehaviour)self).Invoke("PlayExtraLifeSFX", 0.25f);
+				component.ownerBody.healthComponent.Networkbarrier = 0f;
+				component.ownerBody.healthComponent.Networkshield = 0f;
+				component.ownerBody.healthComponent.Networkhealth = 1f;
+			}
+		}
+		return flag;
+	}
+
+	private static void RecalculateStatsAPI_GetStatCoefficients(CharacterBody sender, StatHookEventArgs args)
+	{
+		if (sender.HasBuff(Prefabs.armorBuff))
+		{
+			args.armorAdd += 150f;
+		}
+		if (sender.HasBuff(Prefabs.masterMarkBuff))
+		{
+			MasterMarkBehaviour component = ((Component)sender).GetComponent<MasterMarkBehaviour>();
+			if (Object.op_Implicit((Object)(object)component) && Object.op_Implicit((Object)(object)component.ownerBody))
+			{
+				float num = 0.1f;
+				args.baseHealthAdd += component.ownerBody.healthComponent.fullHealth * num;
+				args.baseRegenAdd += component.ownerBody.regen * num;
+				args.baseDamageAdd += component.ownerBody.damage * num;
+				args.baseMoveSpeedAdd += component.ownerBody.moveSpeed * num;
+				args.baseAttackSpeedAdd += component.ownerBody.attackSpeed * num;
+				args.critAdd += component.ownerBody.crit * num;
+			}
+		}
+	}
+
+	private static void HealthComponent_TakeDamage(orig_TakeDamage orig, HealthComponent self, DamageInfo damageInfo)
+	{
+		//IL_007d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0038: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0051: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0065: Unknown result type (might be due to invalid IL or missing references)
+		//IL_005d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_006a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_006f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_007a: Expected O, but got Unknown
+		//IL_013d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0147: Unknown result type (might be due to invalid IL or missing references)
+		//IL_014c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0151: Unknown result type (might be due to invalid IL or missing references)
+		if (self.body.HasBuff(Prefabs.shieldBuff))
+		{
+			damageInfo.damage = 0f;
+			damageInfo.procCoefficient = 0f;
+			damageInfo.rejected = true;
+			EffectManager.SpawnEffect(Prefabs.shieldBlockEffect, new EffectData
+			{
+				origin = damageInfo.position,
+				rotation = Util.QuaternionSafeLookRotation((damageInfo.force != Vector3.zero) ? damageInfo.force : Random.onUnitSphere)
+			}, true);
+		}
+		if (DamageAPI.HasModdedDamageType(damageInfo, Prefabs.laserDMG))
+		{
+			if (self.body.HasBuff(Prefabs.laserCD))
+			{
+				damageInfo.damage = 0f;
+				damageInfo.procCoefficient = 0f;
+				damageInfo.rejected = true;
+			}
+			else
+			{
+				self.body.AddTimedBuff(Prefabs.laserCD, 0.05f);
+			}
+		}
+		if (Object.op_Implicit((Object)(object)((Component)self).GetComponent<Behaviour>()))
+		{
+			damageInfo.damage *= 0.8f;
+		}
+		if (Object.op_Implicit((Object)(object)damageInfo.attacker))
+		{
+			if (Object.op_Implicit((Object)(object)damageInfo.attacker.GetComponent<Behaviour>()) && damageInfo.procCoefficient > 0f)
+			{
+				damageInfo.damageType |= DamageTypeCombo.op_Implicit((DamageType)128);
+			}
+			if (self.body.HasBuff(Prefabs.masterDmgBuff) && Object.op_Implicit((Object)(object)damageInfo.attacker.GetComponent<MasterMarkBehaviour>()))
+			{
+				damageInfo.damage *= 1.2f;
+			}
+		}
+		orig.Invoke(self, damageInfo);
+	}
+}
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInDependency(/*Could not decode attribute arguments.*/)]
+[BepInPlugin("com.Dragonyck.ChaosAngeloid", "ChaosAngeloid", "1.0.0")]
+[NetworkCompatibility(/*Could not decode attribute arguments.*/)]
+public class MainPlugin : BaseUnityPlugin
+{
+	public const string MODUID = "com.Dragonyck.ChaosAngeloid";
+
+	public const string MODNAME = "ChaosAngeloid";
+
+	public const string VERSION = "1.0.0";
+
+	internal const string MODKEY = "CHAOSANGELOID_";
+
+	internal static ConfigEntry<KeyCode> masterKey;
+
+	private void Awake()
+	{
+		masterKey = ((BaseUnityPlugin)this).Config.Bind<KeyCode>("General", "Master Keybind", (KeyCode)102, (ConfigDescription)null);
+		Assets.PopulateAssets();
+		Prefabs.CreatePrefabs();
+		CharacterBodySetup.CreateCharacterBodies();
+		Hook.Hooks();
+	}
+}
+internal class Prefabs
+{
+	internal static GameObject laserExplosion;
+
+	internal static GameObject laserHitEffect;
+
+	internal static GameObject laserEffect;
+
+	internal static GameObject laserEffectEnd;
+
+	internal static GameObject orbChargeEffect;
+
+	internal static GameObject orbProjectileGhost;
+
+	internal static GameObject orbProjectile;
+
+	internal static GameObject orbProjectileDotZone;
+
+	internal static GameObject orbProjectileExplosion;
+
+	internal static GameObject primaryProjectileImpact;
+
+	internal static GameObject primaryProjectileGhost;
+
+	internal static GameObject primaryProjectile;
+
+	internal static GameObject dashEffect;
+
+	internal static GameObject shieldEffect;
+
+	internal static GameObject indicator;
+
+	internal static GameObject shieldBlockEffect;
+
+	internal static GameObject primaryMuzzleEffect;
+
+	internal static GameObject masterSelectEffect;
+
+	internal static GameObject crosshair;
+
+	internal static ModdedDamageType laserDMG;
+
+	internal static BuffDef shieldBuff;
+
+	internal static BuffDef masterMarkBuff;
+
+	internal static BuffDef armorBuff;
+
+	internal static BuffDef laserCD;
+
+	internal static BuffDef rezCD;
+
+	internal static BuffDef masterDmgBuff;
+
+	internal static Material masterHighlight;
+
+	internal static Material allyHighlight;
+
+	internal static Material enemyHighlight;
+
+	internal static Material baseMaterial = Load<Material>("RoR2/Base/Commando/matCommandoDualies.mat");
+
+	internal static void CreatePrefabs()
+	{
+		//IL_0001: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0006: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0017: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0021: Expected O, but got Unknown
+		//IL_007b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0085: Expected O, but got Unknown
+		//IL_00e8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00f2: Expected O, but got Unknown
+		//IL_0126: Unknown result type (might be due to invalid IL or missing references)
+		//IL_012b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_019e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01a8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01e2: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01fe: Unknown result type (might be due to invalid IL or missing references)
+		//IL_021e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_023e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0255: Unknown result type (might be due to invalid IL or missing references)
+		//IL_026c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0283: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02cd: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02e0: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02ea: Expected O, but got Unknown
+		//IL_02fb: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0300: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0305: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0307: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0310: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0323: Unknown result type (might be due to invalid IL or missing references)
+		//IL_032d: Expected O, but got Unknown
+		//IL_033e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0343: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0348: Unknown result type (might be due to invalid IL or missing references)
+		//IL_034a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_050e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0518: Unknown result type (might be due to invalid IL or missing references)
+		//IL_06e3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0707: Unknown result type (might be due to invalid IL or missing references)
+		//IL_073b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0740: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0777: Unknown result type (might be due to invalid IL or missing references)
+		//IL_077c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_07a2: Unknown result type (might be due to invalid IL or missing references)
+		//IL_07ac: Expected O, but got Unknown
+		//IL_07c4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_07c9: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0811: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0818: Expected O, but got Unknown
+		//IL_0828: Unknown result type (might be due to invalid IL or missing references)
+		//IL_082d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0ad4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0b01: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0b1a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0b33: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0bac: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0bb1: Unknown result type (might be due to invalid IL or missing references)
+		laserDMG = DamageAPI.ReserveDamageType();
+		Material val = Load<Material>("RoR2/Base/artifactworld/matArtifactShellOverlay.mat");
+		masterHighlight = new Material(val);
+		masterHighlight.SetTexture("_RemapTex", (Texture)(object)Load<Texture2D>("RoR2/Base/Common/ColorRamps/texBehemothRamp.png"));
+		masterHighlight.SetFloat("_AlphaBoost", 6f);
+		masterHighlight.SetFloat("_FresnelPower", 0.66f);
+		masterHighlight.SetFloat("_ZTest", 8f);
+		allyHighlight = new Material(val);
+		allyHighlight.SetTexture("_RemapTex", (Texture)(object)Load<Texture2D>("RoR2/DLC3/computationalexchange/texCERampBlue.png"));
+		allyHighlight.SetFloat("_AlphaBoost", 6f);
+		allyHighlight.SetFloat("_FresnelPower", 0.66f);
+		allyHighlight.SetFloat("_ZTest", 8f);
+		enemyHighlight = new Material(Load<Material>("RoR2/InDev/matEcho.mat"));
+		enemyHighlight.SetTexture("_RemapTex", (Texture)(object)Load<Texture2D>("RoR2/DLC1/Common/ColorRamps/texRampBottledChaos.png"));
+		enemyHighlight.SetColor("_TintColor", Color32.op_Implicit(new Color32((byte)167, (byte)0, byte.MaxValue, (byte)180)));
+		enemyHighlight.SetFloat("_AlphaBoost", 3.5f);
+		enemyHighlight.SetFloat("_ZTest", 8f);
+		enemyHighlight.SetTexture("_MainTex", (Texture)(object)Load<Texture2D>("RoR2/Base/Common/TiledTextures/texCloudSkulls.png"));
+		enemyHighlight.SetTexture("_Cloud1Tex", (Texture)(object)Load<Texture2D>("RoR2/Base/Engi/texEngiShield.png"));
+		enemyHighlight.SetTextureScale("_Cloud1Tex", Vector2.one * 15f);
+		enemyHighlight.SetTexture("_Cloud2Tex", (Texture)null);
+		enemyHighlight.SetVector("_CutoffScroll", new Vector4(10f, 0.1f, 0.3f, 0.3f));
+		shieldBuff = Utils.NewBuffDef("Aegis", stack: false, hidden: false, Load<Sprite>("RoR2/Base/Common/texBuffGenericShield.tif"), CharacterBodySetup.characterColor);
+		masterMarkBuff = Utils.NewBuffDef("Imprint", stack: false, hidden: false, Assets.Load<Sprite>("masterBuff"), CharacterBodySetup.characterColor);
+		armorBuff = Utils.NewBuffDef("Pandora", stack: false, hidden: false, Load<Sprite>("RoR2/Base/EliteLunar/texBuffAffixLunar.tif"), CharacterBodySetup.characterColor);
+		laserCD = Utils.NewBuffDef("Laser CD", stack: false, hidden: true, null, Color.clear);
+		rezCD = Utils.NewBuffDef("Rez CD", stack: false, hidden: true, null, Color.clear);
+		masterDmgBuff = Utils.NewBuffDef("Revealed", stack: false, hidden: true, null, Color.clear);
+		crosshair = Instantiate(Assets.Load<GameObject>("Crosshair"), "Crosshair");
+		ChildLocator component = crosshair.GetComponent<ChildLocator>();
+		CrosshairController val2 = crosshair.AddComponent<CrosshairController>();
+		val2.spriteSpreadPositions = (SpritePosition[])(object)new SpritePosition[2]
+		{
+			new SpritePosition
+			{
+				target = (RectTransform)component.FindChild("nubR"),
+				onePosition = new Vector3(15f, 5f, 0f)
+			},
+			new SpritePosition
+			{
+				target = (RectTransform)component.FindChild("nubL"),
+				onePosition = new Vector3(-15f, 5f, 0f)
+			}
+		};
+		val2.maxSpreadAngle = 3f;
+		masterSelectEffect = Instantiate(Assets.Load<GameObject>("MasterSelectionEffect"), "MasterSelectEffect");
+		masterSelectEffect.AddComponent<DestroyOnTimer>().duration = 1f;
+		orbProjectileExplosion = Instantiate(Assets.Load<GameObject>("BigFireballExplosion"), "OrbProjectileExplosion");
+		Utils.RegisterEffect(orbProjectileExplosion, 0.6f, "Play_ChaosAngeloid_BigFireball_Explosion", applyScale: true);
+		laserExplosion = Instantiate(Assets.Load<GameObject>("LaserExplosion"), "LaserExplosion");
+		Utils.RegisterEffect(laserExplosion, 1f, "Play_ChaosAngeloid_Laser_Explosion");
+		laserHitEffect = Instantiate(Assets.Load<GameObject>("LaserHitEffect"), "LaserHitEffect");
+		Utils.RegisterEffect(laserHitEffect, 1f, "Play_ChaosAngeloid_Laser_Hit");
+		laserEffect = Instantiate(Assets.Load<GameObject>("LaserEffectLoop"), "LaserEffect");
+		ShakeEmitter val3 = Utils.CopyComponent<ShakeEmitter>(Load<GameObject>("RoR2/Base/Brother/BrotherSunderWaveGhost.prefab").GetComponent<ShakeEmitter>(), laserEffect);
+		laserEffectEnd = Instantiate(Assets.Load<GameObject>("LaserEffectEnd"), "LaserEffectEnd");
+		ChildLocator component2 = laserEffectEnd.GetComponent<ChildLocator>();
+		LineRenderer[] componentsInChildren = ((Component)component2.FindChild("lines")).GetComponentsInChildren<LineRenderer>();
+		foreach (LineRenderer val4 in componentsInChildren)
+		{
+			((Component)val4).gameObject.AddComponent<ScaleLineOverTime>().duration = 0.4f;
+		}
+		laserEffectEnd.AddComponent<DestroyOnTimer>().duration = 1f;
+		GameObject obj = Assets.Load<GameObject>("BigFireball");
+		orbChargeEffect = Instantiate(obj, "OrbChargeEffect");
+		Transform child = orbChargeEffect.transform.GetChild(0);
+		((Component)child).transform.localScale = Vector3.one * 6f;
+		Utils.AddScaleComponent(((Component)child).gameObject, 5f, AnimationCurve.EaseInOut(0f, 0.12f, 1f, 1f));
+		dashEffect = Instantiate(Assets.Load<GameObject>("DashEffect"), "DashEffect");
+		primaryProjectileImpact = Instantiate(Assets.Load<GameObject>("FireballHit"), "PrimaryProjectileImpact");
+		Utils.RegisterEffect(primaryProjectileImpact, 2f, "Play_ChaosAngeloid_Fireball_Hit");
+		shieldEffect = Instantiate(Assets.Load<GameObject>("OrbEffect"), "ShieldEffect");
+		indicator = Instantiate(Assets.Load<GameObject>("TargetIndicator"), "TargetIndicator");
+		primaryMuzzleEffect = Instantiate(Assets.Load<GameObject>("FireballMuzzle"), "PrimaryMuzzleEffect");
+		Utils.RegisterEffect(primaryMuzzleEffect, 1f);
+		shieldBlockEffect = Instantiate("RoR2/Base/Bear/BearProc.prefab", "ShieldBlockEffect");
+		((TMP_Text)shieldBlockEffect.GetComponentInChildren<TextMeshPro>()).text = "NEGATED";
+		Object.Destroy((Object)(object)shieldBlockEffect.GetComponentInChildren<LanguageTextMeshController>());
+		Utils.RegisterEffect(shieldBlockEffect, -1f, "Play_ChaosAngeloid_Orb_Block");
+		primaryProjectileGhost = Instantiate(Assets.Load<GameObject>("Fireball"), "PrimaryProjectileGhost");
+		primaryProjectileGhost.AddComponent<ProjectileGhostController>();
+		primaryProjectile = Instantiate("RoR2/Base/Lemurian/Fireball.prefab", "PrimaryProjectile", registerNetwork: true);
+		Object.Destroy((Object)(object)primaryProjectile.GetComponent<ProjectileSingleTargetImpact>());
+		primaryProjectile.GetComponent<ProjectileController>().ghostPrefab = primaryProjectileGhost;
+		ProjectileImpactExplosion val5 = primaryProjectile.AddComponent<ProjectileImpactExplosion>();
+		val5.impactEffect = primaryProjectileImpact;
+		((ProjectileExplosion)val5).blastDamageCoefficient = 1f;
+		((ProjectileExplosion)val5).blastRadius = 2f;
+		((ProjectileExplosion)val5).blastAttackerFiltering = (AttackerFiltering)2;
+		val5.lifetime = 5f;
+		val5.destroyOnEnemy = true;
+		val5.destroyOnWorld = true;
+		((ProjectileExplosion)val5).falloffModel = (FalloffModel)0;
+		ContentAddition.AddProjectile(primaryProjectile);
+		orbProjectileDotZone = Instantiate("RoR2/Base/LunarExploder/LunarExploderProjectileDotZone.prefab", "OrbProjectileDotZone", registerNetwork: true);
+		orbProjectileDotZone.GetComponent<ProjectileDamage>().damageType = DamageTypeCombo.op_Implicit((DamageType)128);
+		ProjectileDotZone component3 = orbProjectileDotZone.GetComponent<ProjectileDotZone>();
+		component3.fireFrequency = 4f;
+		component3.damageCoefficient = 0.25f;
+		component3.lifetime = 3f;
+		component3.forceVector = Vector3.zero;
+		component3.overlapProcCoefficient = 0.5f;
+		Decal componentInChildren = orbProjectileDotZone.GetComponentInChildren<Decal>();
+		componentInChildren.Material = new Material(componentInChildren.Material);
+		componentInChildren.Material.SetColor("_Color", Color32.op_Implicit(new Color32((byte)0, (byte)0, byte.MaxValue, byte.MaxValue)));
+		componentInChildren.Material.SetTexture("_RemapTex", (Texture)(object)Load<Texture2D>("RoR2/Base/Common/ColorRamps/texRampItemInfection.png"));
+		componentInChildren.Material.SetFloat("_DecalDstBlend", 10f);
+		Material val6 = new Material(Load<Material>("RoR2/Base/LunarGolem/matLunarGolemExplosion.mat"));
+		val6.SetColor("_TintColor", Color32.op_Implicit(new Color32((byte)0, (byte)0, (byte)119, byte.MaxValue)));
+		val6.SetTexture("_RemapTex", (Texture)(object)Load<Texture2D>("RoR2/Base/Common/ColorRamps/texRampLightning.png"));
+		val6.SetFloat("_DstBlend", 10f);
+		ParticleSystemRenderer[] componentsInChildren2 = orbProjectileDotZone.GetComponentsInChildren<ParticleSystemRenderer>();
+		foreach (ParticleSystemRenderer val7 in componentsInChildren2)
+		{
+			switch (((Object)val7).name)
+			{
+			case "Fire, Stretched":
+			case "Fire, Billboard":
+				((Renderer)val7).material = val6;
+				break;
+			case "Spores":
+				((Component)val7).gameObject.SetActive(false);
+				break;
+			}
+		}
+		ContentAddition.AddProjectile(orbProjectileDotZone);
+		orbProjectileGhost = Instantiate(obj, "OrbProjectileGhost");
+		orbProjectileGhost.AddComponent<ProjectileGhostController>();
+		VFXAttributes val8 = orbProjectileGhost.AddComponent<VFXAttributes>();
+		val8.DoNotCullPool = true;
+		val8.DoNotPool = true;
+		orbProjectile = Instantiate("RoR2/Base/LemurianBruiser/LemurianBigFireball.prefab", "OrbProjectile", registerNetwork: true);
+		orbProjectile.GetComponent<ProjectileController>().ghostPrefab = orbProjectileGhost;
+		orbProjectile.GetComponent<ProjectileSimple>().desiredForwardSpeed = 45f;
+		ProjectileImpactExplosion component4 = orbProjectile.GetComponent<ProjectileImpactExplosion>();
+		component4.impactEffect = orbProjectileExplosion;
+		((ProjectileExplosion)component4).childrenCount = 1;
+		((ProjectileExplosion)component4).fireChildren = true;
+		((ProjectileExplosion)component4).childrenDamageCoefficient = 0.1f;
+		((ProjectileExplosion)component4).childrenInheritDamageType = false;
+		((ProjectileExplosion)component4).childrenProjectilePrefab = orbProjectileDotZone;
+		ContentAddition.AddProjectile(primaryProjectile);
+		GameObject val9 = Load<GameObject>("RoR2/Base/UI/HUDSimple.prefab");
+		Object.DontDestroyOnLoad((Object)(object)val9);
+		HUDTracker hUDTracker = val9.AddComponent<HUDTracker>();
+		Transform val10 = val9.GetComponent<HUD>().mainUIPanel.transform.Find("SpringCanvas");
+		if (!Object.op_Implicit((Object)(object)val10))
+		{
+			return;
+		}
+		Transform val11 = val10.Find("BottomRightCluster");
+		if (!Object.op_Implicit((Object)(object)val11))
+		{
+			return;
+		}
+		Transform val12 = val11.Find("Scaler");
+		if (!Object.op_Implicit((Object)(object)val12))
+		{
+			return;
+		}
+		Transform val13 = val12.Find("SprintCluster");
+		if (Object.op_Implicit((Object)(object)val13))
+		{
+			hUDTracker.sprintCluster = ((Component)val13).gameObject;
+		}
+		Transform val14 = val12.Find("InventoryCluster");
+		if (Object.op_Implicit((Object)(object)val14))
+		{
+			hUDTracker.inventoryCluster = ((Component)val14).gameObject;
+		}
+		Transform val15 = val12.Find("Skill1Root");
+		if (Object.op_Implicit((Object)(object)val15))
+		{
+			hUDTracker.skillRoot = Object.Instantiate<GameObject>(((Component)val15).gameObject);
+			((Transform)(RectTransform)hUDTracker.skillRoot.transform).SetParent(val15.parent);
+			hUDTracker.skillRoot.transform.localPosition = new Vector3(-340.0792f, -51.6797f, 0f);
+			hUDTracker.skillRoot.transform.rotation = val15.rotation;
+			hUDTracker.skillRoot.transform.localScale = val15.localScale;
+			hUDTracker.icon = hUDTracker.skillRoot.GetComponent<SkillIcon>();
+			hUDTracker.mpLocator = hUDTracker.skillRoot.GetComponentInChildren<MPEventSystemLocator>();
+			((Behaviour)hUDTracker.skillRoot.GetComponentInChildren<InputBindingDisplayController>()).enabled = false;
+			((TMP_Text)Array.Find(hUDTracker.skillRoot.GetComponentsInChildren<HGTextMeshProUGUI>(), (HGTextMeshProUGUI x) => ((Object)x).name == "SkillKeyText")).text = ((object)MainPlugin.masterKey.Value/*cast due to .constrained prefix*/).ToString();
+			hUDTracker.skillRoot.SetActive(false);
+		}
+	}
+
+	internal static T Load<T>(string path)
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0007: Unknown result type (might be due to invalid IL or missing references)
+		return Addressables.LoadAssetAsync<T>((object)path).WaitForCompletion();
+	}
+
+	internal static GameObject Instantiate(string path, string name, bool registerNetwork = false)
+	{
+		return PrefabAPI.InstantiateClone(Load<GameObject>(path), name, registerNetwork);
+	}
+
+	internal static GameObject Instantiate(GameObject obj, string name, bool registerNetwork = false)
+	{
+		return PrefabAPI.InstantiateClone(obj, name, registerNetwork);
+	}
+
+	public static Material InstantiateDefaultSurvivorMaterial(Texture tex)
+	{
+		//IL_0006: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000c: Expected O, but got Unknown
+		//IL_001d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003b: Unknown result type (might be due to invalid IL or missing references)
+		Material val = new Material(baseMaterial);
+		if (Object.op_Implicit((Object)(object)val))
+		{
+			val.SetColor("_Color", Color.white);
+			val.SetTexture("_MainTex", tex);
+			val.SetColor("_EmColor", Color.black);
+			val.SetFloat("_EmPower", 0f);
+			val.SetTexture("_EmTex", (Texture)null);
+			val.SetFloat("_NormalStrength", 1f);
+			val.SetTexture("_NormalTex", (Texture)null);
+			return val;
+		}
+		return val;
+	}
+
+	public static Material InstantiateDefaultSurvivorMaterial(Color color, Texture tex, Color emColor, float emPower, Texture emTex, float normStr, Texture normTex)
+	{
+		//IL_0006: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000c: Expected O, but got Unknown
+		//IL_001d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0037: Unknown result type (might be due to invalid IL or missing references)
+		Material val = new Material(baseMaterial);
+		if (Object.op_Implicit((Object)(object)val))
+		{
+			val.SetColor("_Color", color);
+			val.SetTexture("_MainTex", tex);
+			val.SetColor("_EmColor", emColor);
+			val.SetFloat("_EmPower", emPower);
+			val.SetTexture("_EmTex", emTex);
+			val.SetFloat("_NormalStrength", 1f);
+			val.SetTexture("_NormalTex", normTex);
+			return val;
+		}
+		return val;
+	}
+}
+internal class BasicMeleeSkillState : BaseSkillState
+{
+	private float duration = 0.2f;
+
+	private Vector3 dir;
+
+	private OverlapAttack attack;
+
+	private float damageCoefficient = 4.2f;
+
+	private GameObject hitEffectPrefab = null;
+
+	private bool parried;
+
+	public Animator animator;
+
+	private uint ID;
+
+	private string hitboxGroupName = "";
+
+	public override void OnEnter()
+	{
+		((BaseState)this).OnEnter();
+		animator = ((EntityState)this).GetModelAnimator();
+		if (!animator.GetBool("slide"))
+		{
+			((BaseState)this).StartAimMode(1f, true);
+		}
+		((EntityState)this).PlayAnimation("LeftArm, Override", "MeleeAttack");
+		AkSoundEngine.PostEvent(ID, ((EntityState)this).gameObject);
+		attack = ((BaseState)this).InitMeleeOverlap(damageCoefficient, hitEffectPrefab, ((EntityState)this).GetModelTransform(), hitboxGroupName);
+	}
+
+	public override void FixedUpdate()
+	{
+		((EntityState)this).FixedUpdate();
+		if (((EntityState)this).isAuthority)
+		{
+			attack.Fire((List<HurtBox>)null);
+		}
+		if (((EntityState)this).fixedAge >= duration && ((EntityState)this).isAuthority)
+		{
+			((EntityState)this).outer.SetNextStateToMain();
+		}
+	}
+
+	public override void OnExit()
+	{
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)1;
+	}
+}
+internal class CharacterMain : GenericCharacterMain
+{
+	private Behaviour behaviour;
+
+	private Vector3 rootMotion => Vector3.up * ((BaseState)this).moveSpeedStat / 2f * Time.fixedDeltaTime;
+
+	public override void OnEnter()
+	{
+		((GenericCharacterMain)this).OnEnter();
+		behaviour = ((EntityState)this).GetComponent<Behaviour>();
+	}
+
+	public override void FixedUpdate()
+	{
+		//IL_001b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0098: Unknown result type (might be due to invalid IL or missing references)
+		//IL_009e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00a3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00a8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00c8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00ce: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00d3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00d8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00dd: Unknown result type (might be due to invalid IL or missing references)
+		((GenericCharacterMain)this).FixedUpdate();
+		if (!((EntityState)this).isAuthority)
+		{
+			return;
+		}
+		if (Input.GetKeyDown(MainPlugin.masterKey.Value) && Object.op_Implicit((Object)(object)behaviour.targetHurtbox) && (Object)(object)behaviour.targetBody != (Object)(object)behaviour.master)
+		{
+			behaviour.masterSkill.ExecuteIfReady();
+		}
+		if (!((BaseState)this).isGrounded)
+		{
+			if (((EntityState)this).inputBank.jump.down)
+			{
+				CharacterMotor characterMotor = ((EntityState)this).characterMotor;
+				characterMotor.rootMotion += rootMotion;
+			}
+			else if (Input.GetKey((KeyCode)306))
+			{
+				CharacterMotor characterMotor2 = ((EntityState)this).characterMotor;
+				characterMotor2.rootMotion += -rootMotion;
+			}
+		}
+	}
+}
+internal class MeleeSkillState : BaseSkillState
+{
+	public float attackDuration;
+
+	private bool hopped;
+
+	private bool hasSwung;
+
+	public bool isInHitPause;
+
+	public float hitPauseDuration;
+
+	public float hopVelocity;
+
+	public float hitPauseTimer;
+
+	public float stopwatch;
+
+	public HitStopCachedState hitStopCachedState;
+
+	public OverlapAttack overlapAttack;
+
+	public bool hasHit;
+
+	private bool hasAnimParameter;
+
+	private float attackSpeedScaling;
+
+	public Animator animator;
+
+	public int attackIndex = 1;
+
+	public virtual float baseAttackDuration => 0f;
+
+	public virtual float earlyExitDurationPercentage => 0f;
+
+	public virtual float damageCoefficient => 0f;
+
+	public virtual float forceMagnitude => 440f;
+
+	public virtual float rootMotionSpeed => 25f;
+
+	public virtual float baseHopVelocity => 4f;
+
+	public virtual string layerName => "Gesture, Override";
+
+	public virtual string animationStateName => "";
+
+	public virtual string animParameter => "M1";
+
+	public virtual string hitBoxGroupName => "";
+
+	public virtual string hitBoxActiveParameter => "Curve";
+
+	public virtual string swingMuzzle => "";
+
+	public virtual GameObject swingEffectPrefab => null;
+
+	public virtual bool hopOnHit => true;
+
+	public virtual bool rootMotion => false;
+
+	public virtual bool rootMotionWhileHitting => false;
+
+	public virtual string swingSound => "";
+
+	public virtual DamageType damageType => (DamageType)0;
+
+	public virtual DamageColorIndex damageColor => (DamageColorIndex)0;
+
+	public virtual Vector3 bonusForce => Vector3.zero;
+
+	public virtual GameObject hitEffectPrefab => null;
+
+	public virtual bool crossfade => false;
+
+	public virtual bool finisher => attackIndex == 2;
+
+	public override void OnSerialize(NetworkWriter writer)
+	{
+		((BaseSkillState)this).OnSerialize(writer);
+		writer.Write(attackIndex);
+	}
+
+	public override void OnDeserialize(NetworkReader reader)
+	{
+		((BaseSkillState)this).OnDeserialize(reader);
+		attackIndex = reader.ReadInt32();
+	}
+
+	public override void OnEnter()
+	{
+		//IL_00b4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00b9: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00be: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).OnEnter();
+		attackSpeedScaling = Math.Min(((BaseState)this).attackSpeedStat, 6f);
+		attackDuration = baseAttackDuration / attackSpeedScaling;
+		hitPauseDuration = GroundLight.hitPauseDuration / attackSpeedScaling;
+		hopVelocity = baseHopVelocity / attackSpeedScaling;
+		animator = ((EntityState)this).GetModelAnimator();
+		animator.SetFloat(hitBoxActiveParameter, 0f);
+		overlapAttack = ((BaseState)this).InitMeleeOverlap(damageCoefficient, hitEffectPrefab, ((EntityState)this).GetModelTransform(), hitBoxGroupName);
+		overlapAttack.pushAwayForce = 1f;
+		overlapAttack.damageType = DamageTypeCombo.op_Implicit(damageType);
+		hasAnimParameter = !Utility.IsNullOrWhiteSpace(animParameter);
+		if (hasAnimParameter && !Utility.IsNullOrWhiteSpace(animationStateName))
+		{
+			if (crossfade)
+			{
+				((EntityState)this).PlayAnimation("Additive, Override", animationStateName, animParameter, attackDuration, 0f);
+				((EntityState)this).PlayCrossfade(layerName, animationStateName, animParameter, attackDuration, 0.1f);
+			}
+			else
+			{
+				((EntityState)this).PlayAnimation(layerName, animationStateName, animParameter, attackDuration, 0f);
+			}
+		}
+	}
+
+	public virtual Vector3 rootMotionDirection()
+	{
+		//IL_0007: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000f: Unknown result type (might be due to invalid IL or missing references)
+		return ((EntityState)this).characterDirection.forward;
+	}
+
+	public override void FixedUpdate()
+	{
+		//IL_0030: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00f6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00fb: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0104: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0109: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0111: Unknown result type (might be due to invalid IL or missing references)
+		//IL_011b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0120: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0125: Unknown result type (might be due to invalid IL or missing references)
+		((EntityState)this).FixedUpdate();
+		if (((EntityState)this).isAuthority)
+		{
+			bool flag = FireMeleeAttack(overlapAttack, animator, hitBoxActiveParameter, forceMagnitude, bonusForce);
+			hasHit = flag || hasHit;
+			if (hasHit)
+			{
+				if (hopOnHit && !((EntityState)this).characterMotor.isGrounded && !hopped)
+				{
+					((BaseState)this).SmallHop(((EntityState)this).characterMotor, hopVelocity);
+					hopped = true;
+				}
+				if (!rootMotionWhileHitting && !isInHitPause && hasAnimParameter)
+				{
+					isInHitPause = true;
+				}
+			}
+			if (animator.GetFloat(hitBoxActiveParameter) > 0.1f && rootMotion && !isInHitPause)
+			{
+				Vector3 val = rootMotionDirection();
+				CharacterMotor characterMotor = ((EntityState)this).characterMotor;
+				characterMotor.rootMotion += val * rootMotionSpeed * Time.fixedDeltaTime;
+			}
+			if (hitPauseTimer >= hitPauseDuration && isInHitPause)
+			{
+				isInHitPause = false;
+				animator.speed = 1f;
+			}
+			if (!isInHitPause)
+			{
+				stopwatch += Time.fixedDeltaTime;
+			}
+			else
+			{
+				hitPauseTimer += Time.fixedDeltaTime;
+				animator.speed = 0f;
+			}
+			if (stopwatch >= attackDuration * earlyExitDurationPercentage)
+			{
+				if (((EntityState)this).inputBank.skill1.down)
+				{
+					SetState();
+				}
+				if (stopwatch >= attackDuration)
+				{
+					BaseSkillState val2 = StateOverride();
+					if (val2 != null)
+					{
+						((EntityState)this).outer.SetNextState((EntityState)(object)val2);
+					}
+					else
+					{
+						((EntityState)this).outer.SetNextStateToMain();
+					}
+					return;
+				}
+			}
+		}
+		if (animator.GetFloat(hitBoxActiveParameter) >= 0.11f && !hasSwung)
+		{
+			hasSwung = true;
+			AkSoundEngine.PostEvent(swingSound, ((EntityState)this).gameObject);
+			if (Object.op_Implicit((Object)(object)swingEffectPrefab) && !Utility.IsNullOrWhiteSpace(swingMuzzle))
+			{
+				EffectManager.SimpleMuzzleFlash(swingEffectPrefab, ((EntityState)this).gameObject, swingMuzzle, false);
+			}
+			float num = 4.2f;
+			((BaseState)this).AddRecoil(-0.1f * num, 0.1f * num, -1f * num, 1f * num);
+		}
+	}
+
+	public bool FireMeleeAttack(OverlapAttack attack, Animator animator, string mecanimHitboxActiveParameter, float forceMagnitude, Vector3 bonusForce)
+	{
+		//IL_0042: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0035: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0049: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0050: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0055: Unknown result type (might be due to invalid IL or missing references)
+		bool result = false;
+		if (Object.op_Implicit((Object)(object)animator) && animator.GetFloat(mecanimHitboxActiveParameter) > 0.1f)
+		{
+			attack.forceVector = (Object.op_Implicit((Object)(object)((EntityState)this).characterDirection) ? ((EntityState)this).characterDirection.forward : ((EntityState)this).transform.forward) * forceMagnitude + bonusForce;
+			result = attack.Fire((List<HurtBox>)null);
+		}
+		return result;
+	}
+
+	public virtual void SetState()
+	{
+	}
+
+	public virtual BaseSkillState StateOverride()
+	{
+		return null;
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)1;
+	}
+}
+internal class PickMaster : BaseSkillState
+{
+	private float duration = 0.65f;
+
+	private Behaviour behaviour;
+
+	public override void OnEnter()
+	{
+		//IL_00dc: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00e1: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).OnEnter();
+		((BaseState)this).StartAimMode(2f, false);
+		behaviour = ((EntityState)this).GetComponent<Behaviour>();
+		if (Object.op_Implicit((Object)(object)behaviour.master))
+		{
+			Object.Destroy((Object)(object)((Component)behaviour.master).GetComponent<TemporaryOverlayBehaviour>());
+			Object.Destroy((Object)(object)((Component)behaviour.master).GetComponent<MasterMarkBehaviour>());
+		}
+		behaviour.master = behaviour.targetHurtbox.healthComponent.body;
+		((Component)behaviour.master).gameObject.AddComponent<MasterMarkBehaviour>().owner = ((EntityState)this).gameObject;
+		TemporaryOverlayBehaviour temporaryOverlayBehaviour = ((Component)behaviour.master).gameObject.AddComponent<TemporaryOverlayBehaviour>();
+		temporaryOverlayBehaviour.temporary = false;
+		temporaryOverlayBehaviour.AddOverlay(Prefabs.masterHighlight);
+		Object.Instantiate<GameObject>(Prefabs.masterSelectEffect, behaviour.master.footPosition, Quaternion.identity).transform.parent = behaviour.master.transform;
+		((EntityState)this).PlayAnimation("FullBody, Override", "Bow", "F", duration, 0f);
+		if (((EntityState)this).isAuthority)
+		{
+			AkSoundEngine.PostEvent("Play_ChaosAngeloid_Master_Select", ((EntityState)this).gameObject);
+		}
+		if (((NetworkBehaviour)behaviour.master).hasAuthority)
+		{
+			AkSoundEngine.PostEvent("Play_ChaosAngeloid_Master_Select", ((Component)behaviour.master).gameObject);
+		}
+	}
+
+	public override void FixedUpdate()
+	{
+		((EntityState)this).FixedUpdate();
+		if (((EntityState)this).fixedAge >= duration && ((EntityState)this).isAuthority)
+		{
+			((EntityState)this).outer.SetNextStateToMain();
+		}
+	}
+
+	public override void OnExit()
+	{
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)2;
+	}
+}
+internal class Primary : BaseSkillState
+{
+	private float fireRate = 0.35f;
+
+	private float damageCoefficient = 2.2f;
+
+	private float stopwatch;
+
+	private bool hasFired;
+
+	private string[] muzzles;
+
+	private int fireCount;
+
+	private Animator animator;
+
+	public override void OnEnter()
+	{
+		((BaseState)this).OnEnter();
+		animator = ((EntityState)this).GetModelAnimator();
+		animator.SetBool("SkillOver", false);
+		((BaseState)this).StartAimMode(2f, false);
+		muzzles = new string[6] { "wingMuzzle1", "wingMuzzle2", "wingMuzzle3", "wingMuzzle4", "wingMuzzle5", "wingMuzzle6" };
+		((EntityState)this).PlayAnimation("FullBody, Override", "Primary", "M1", fireRate / ((BaseState)this).attackSpeedStat, 0f);
+	}
+
+	private void Fire()
+	{
+		//IL_00d8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00dd: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00eb: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00f2: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00f7: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0121: Unknown result type (might be due to invalid IL or missing references)
+		//IL_012b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0130: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).StartAimMode(2f, false);
+		string text = "hand.l";
+		if (hasFired)
+		{
+			text = muzzles[fireCount];
+		}
+		hasFired = true;
+		fireCount++;
+		if (fireCount >= muzzles.Length)
+		{
+			fireCount = 0;
+		}
+		Behaviour component = ((EntityState)this).GetComponent<Behaviour>();
+		float num = 0.6f;
+		((BaseState)this).AddRecoil(-1f * num, -1.5f * num, -0.25f * num, 0.25f * num);
+		((EntityState)this).characterBody.AddSpreadBloom(0.6f);
+		AkSoundEngine.PostEvent("Play_ChaosAngeloid_Fireball_Cast", ((EntityState)this).gameObject);
+		EffectManager.SimpleMuzzleFlash(Prefabs.primaryMuzzleEffect, ((EntityState)this).gameObject, text, false);
+		if (((EntityState)this).isAuthority)
+		{
+			Ray aimRay = ((BaseState)this).GetAimRay();
+			ProjectileManager.instance.FireProjectile(Prefabs.primaryProjectile, ((Ray)(ref aimRay)).origin, Quaternion.LookRotation(((Ray)(ref aimRay)).direction), ((EntityState)this).gameObject, ((BaseState)this).damageStat * damageCoefficient, 500f, ((BaseState)this).RollCrit(), (DamageColorIndex)0, (GameObject)null, -1f, (DamageTypeCombo?)(DamageTypeCombo.GenericPrimary | DamageTypeCombo.op_Implicit((DamageType)128)));
+		}
+	}
+
+	public override void FixedUpdate()
+	{
+		((EntityState)this).FixedUpdate();
+		stopwatch += Time.fixedDeltaTime;
+		if (stopwatch >= fireRate / ((BaseState)this).attackSpeedStat)
+		{
+			stopwatch = 0f;
+			Fire();
+		}
+		if (((EntityState)this).isAuthority && hasFired && !((BaseSkillState)this).IsKeyDownAuthority())
+		{
+			((EntityState)this).outer.SetNextStateToMain();
+		}
+	}
+
+	public override void OnExit()
+	{
+		animator.SetBool("SkillOver", true);
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)1;
+	}
+}
+internal class PrimaryMelee : MeleeSkillState
+{
+	public override float baseAttackDuration => 0.9f;
+
+	public override float earlyExitDurationPercentage => 0.95f;
+
+	public override string layerName => "Gesture, Override";
+
+	public override string animationStateName => "Attack" + attackIndex;
+
+	public override string animParameter => "M1";
+
+	public override string hitBoxGroupName => "Punch";
+
+	public override float forceMagnitude => 250f;
+
+	public override float damageCoefficient => 2.5f;
+
+	public override string swingSound => "";
+
+	public override float baseHopVelocity => 6f;
+
+	public override GameObject hitEffectPrefab => null;
+
+	public override string swingMuzzle => animationStateName + "Muzzle";
+
+	public override bool crossfade => true;
+
+	public override GameObject swingEffectPrefab => null;
+
+	public override DamageType damageType => DamageTypeCombo.op_Implicit(DamageTypeCombo.GenericPrimary);
+
+	public override void OnSerialize(NetworkWriter writer)
+	{
+		base.OnSerialize(writer);
+		writer.Write(attackIndex);
+	}
+
+	public override void OnDeserialize(NetworkReader reader)
+	{
+		base.OnDeserialize(reader);
+		attackIndex = reader.ReadInt32();
+	}
+
+	public override void OnEnter()
+	{
+		base.OnEnter();
+		((BaseState)this).StartAimMode(2f, false);
+	}
+
+	public override void SetState()
+	{
+		if (!finisher)
+		{
+			PrimaryMelee primaryMelee = new PrimaryMelee();
+			primaryMelee.attackIndex = attackIndex + 1;
+			((EntityState)this).outer.SetNextState((EntityState)(object)primaryMelee);
+		}
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)1;
+	}
+}
+internal class Secondary : BaseSkillState
+{
+	private GameObject effect;
+
+	private Animator animator;
+
+	private uint ID;
+
+	public override void OnEnter()
+	{
+		//IL_007f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0084: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).OnEnter();
+		animator = ((EntityState)this).GetModelAnimator();
+		animator.SetBool("SkillOver", false);
+		((EntityState)this).PlayCrossfade("FullBody, Override", "Secondary", 0.25f);
+		if (NetworkServer.active)
+		{
+			((EntityState)this).characterBody.AddBuff(Prefabs.shieldBuff);
+		}
+		ID = AkSoundEngine.PostEvent("Play_ChaosAngeloid_Orb", ((EntityState)this).gameObject);
+		effect = Object.Instantiate<GameObject>(Prefabs.shieldEffect, ((BaseState)this).FindModelChild("center").position, Quaternion.identity);
+		effect.transform.parent = ((EntityState)this).transform;
+	}
+
+	public override void FixedUpdate()
+	{
+		((EntityState)this).FixedUpdate();
+		if ((((EntityState)this).isAuthority && !((BaseSkillState)this).IsKeyDownAuthority()) || ((ButtonState)(ref ((EntityState)this).inputBank.skill3)).justPressed)
+		{
+			((EntityState)this).outer.SetNextStateToMain();
+		}
+	}
+
+	public override void OnExit()
+	{
+		AkSoundEngine.PostEvent("Play_ChaosAngeloid_Orb_End", ((EntityState)this).gameObject);
+		AkSoundEngine.StopPlayingID(ID);
+		animator.SetBool("SkillOver", true);
+		if (Object.op_Implicit((Object)(object)effect))
+		{
+			EntityState.Destroy((Object)(object)effect);
+		}
+		((EntityState)this).GetModelAnimator().SetTrigger("trigger");
+		if (NetworkServer.active)
+		{
+			((EntityState)this).characterBody.RemoveBuff(Prefabs.shieldBuff);
+		}
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)2;
+	}
+}
+internal class Special : BaseSkillState
+{
+	private float duration = 10f;
+
+	private Transform muzzle1;
+
+	private Transform muzzle2;
+
+	private Behaviour behaviour;
+
+	private uint ID;
+
+	public override void OnEnter()
+	{
+		//IL_006e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0073: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00b4: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).OnEnter();
+		duration /= ((BaseState)this).attackSpeedStat;
+		((BaseState)this).StartAimMode(duration + 1f, false);
+		muzzle1 = ((BaseState)this).FindModelChild("orbMuzzle1");
+		muzzle2 = ((BaseState)this).FindModelChild("orbMuzzle2");
+		behaviour = ((EntityState)this).GetComponent<Behaviour>();
+		behaviour.orbEffect = Object.Instantiate<GameObject>(Prefabs.orbChargeEffect, muzzle1.position, Quaternion.identity);
+		((EntityState)this).PlayAnimation("FullBody, Override", "Special", "Special", 0.5f, 0f);
+		behaviour.request = ((EntityState)this).cameraTargetParams.RequestAimWithData(behaviour.offset, 5f, 0.5f);
+		ID = AkSoundEngine.PostEvent("Play_ChaosAngeloid_BigFireball", ((EntityState)this).gameObject);
+	}
+
+	public override void FixedUpdate()
+	{
+		//IL_0048: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0053: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0065: Unknown result type (might be due to invalid IL or missing references)
+		((EntityState)this).FixedUpdate();
+		((BaseState)this).StartAimMode(2f, false);
+		behaviour.charge = Mathf.Clamp01(((EntityState)this).fixedAge / duration);
+		behaviour.orbEffect.transform.position = Vector3.Lerp(muzzle1.position, muzzle2.position, ((EntityState)this).fixedAge / duration);
+		if (((EntityState)this).isAuthority && ((EntityState)this).fixedAge >= 0.5f && !((BaseSkillState)this).IsKeyDownAuthority())
+		{
+			((EntityState)this).outer.SetNextState((EntityState)(object)new SpecialFire());
+		}
+		else if (((EntityState)this).fixedAge >= duration && ((EntityState)this).isAuthority)
+		{
+			((EntityState)this).outer.SetNextState((EntityState)(object)new SpecialFire());
+		}
+	}
+
+	public override void OnExit()
+	{
+		AkSoundEngine.StopPlayingID(ID);
+		if (((EntityState)this).outer.destroying)
+		{
+			if (Object.op_Implicit((Object)(object)((EntityState)this).cameraTargetParams))
+			{
+				behaviour.request.Dispose();
+			}
+			((EntityState)this).PlayAnimation("FullBody, Override", "Special_End", "Special", 0.25f, 0f);
+			if (Object.op_Implicit((Object)(object)behaviour.orbEffect))
+			{
+				EntityState.Destroy((Object)(object)behaviour.orbEffect);
+			}
+		}
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0003: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0006: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)9;
+	}
+}
+internal class SpecialFire : BaseSkillState
+{
+	private float duration;
+
+	private float startup = 0.65f;
+
+	private Behaviour behaviour;
+
+	private bool laser;
+
+	private Vector3 orbPos;
+
+	private Transform laserMuzzle;
+
+	private Transform orbMuzzle3;
+
+	private bool hasFired;
+
+	private GameObject laserEffect;
+
+	private float stopwatch = 1f;
+
+	private float fireRate = 0.25f;
+
+	private bool isCrit;
+
+	private uint ID;
+
+	private Vector3 direction;
+
+	private EffectIndex hitEffectIndex;
+
+	public override void OnEnter()
+	{
+		//IL_008d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0092: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01b3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01d2: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00c8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00cd: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00d4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00d9: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00dc: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00e1: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0256: Unknown result type (might be due to invalid IL or missing references)
+		//IL_025b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0268: Unknown result type (might be due to invalid IL or missing references)
+		//IL_026f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0274: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02c7: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02d1: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02d6: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).OnEnter();
+		behaviour = ((EntityState)this).GetComponent<Behaviour>();
+		float charge = behaviour.charge;
+		laser = charge >= 0.5f;
+		duration = (laser ? (Util.Remap(charge, 0f, 1f, 3.5f, 8f) + startup) : (0.4f / ((BaseState)this).attackSpeedStat));
+		((BaseState)this).StartAimMode(duration, false);
+		orbPos = behaviour.orbEffect.transform.position;
+		orbMuzzle3 = ((BaseState)this).FindModelChild("orbMuzzle3");
+		isCrit = ((BaseState)this).RollCrit();
+		if (laser)
+		{
+			hitEffectIndex = EffectCatalog.FindEffectIndexFromPrefab(Prefabs.laserHitEffect);
+			Ray aimRay = ((BaseState)this).GetAimRay();
+			direction = ((Ray)(ref aimRay)).direction;
+			laserMuzzle = ((BaseState)this).FindModelChild("laserMuzzle");
+			startup /= ((BaseState)this).attackSpeedStat;
+			fireRate /= ((BaseState)this).attackSpeedStat;
+			((EntityState)this).PlayAnimation("FullBody, Override", "Special_Fire", "Special", duration, 0f);
+			if (NetworkServer.active)
+			{
+				((EntityState)this).characterBody.AddBuff(Prefabs.armorBuff);
+			}
+			ID = AkSoundEngine.PostEvent("Play_ChaosAngeloid_Laser", ((EntityState)this).gameObject);
+			return;
+		}
+		AkSoundEngine.PostEvent("Play_ChaosAngeloid_BigFireball_Fire", ((EntityState)this).gameObject);
+		((EntityState)this).PlayAnimation("FullBody, Override", "Special_End", "Special", duration, 0f);
+		Prefabs.orbProjectileGhost.transform.localScale = Vector3.one * Util.Remap(charge, 0f, 0.5f, 1f, 6f);
+		((ProjectileExplosion)Prefabs.orbProjectile.GetComponent<ProjectileImpactExplosion>()).blastRadius = Util.Remap(charge, 0f, 0.5f, 6f, 30f);
+		float num = 3f;
+		((BaseState)this).AddRecoil(-1f * num, -1.5f * num, -0.25f * num, 0.25f * num);
+		((EntityState)this).characterBody.AddSpreadBloom(3f);
+		if (((EntityState)this).isAuthority)
+		{
+			Ray aimRay2 = ((BaseState)this).GetAimRay();
+			ProjectileManager.instance.FireProjectile(Prefabs.orbProjectile, orbPos, Quaternion.LookRotation(((Ray)(ref aimRay2)).direction), ((EntityState)this).gameObject, ((BaseState)this).damageStat * Util.Remap(charge, 0f, 0.5f, 4f, 20f), Util.Remap(charge, 0f, 1f, 700f, 2500f), isCrit, (DamageColorIndex)0, (GameObject)null, -1f, (DamageTypeCombo?)(DamageTypeCombo.GenericSpecial | DamageTypeCombo.op_Implicit((DamageType)128)));
+		}
+		EntityState.Destroy((Object)(object)behaviour.orbEffect);
+	}
+
+	public override void Update()
+	{
+		//IL_0024: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0029: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002c: Unknown result type (might be due to invalid IL or missing references)
+		((EntityState)this).Update();
+		if (Object.op_Implicit((Object)(object)laserEffect))
+		{
+			Transform transform = laserEffect.transform;
+			Ray aimRay = ((BaseState)this).GetAimRay();
+			transform.forward = ((Ray)(ref aimRay)).direction;
+		}
+	}
+
+	public override void FixedUpdate()
+	{
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0030: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0033: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0043: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0048: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01db: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01e0: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0084: Unknown result type (might be due to invalid IL or missing references)
+		//IL_008f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00a1: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02db: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02e1: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02e6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02f7: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01f2: Unknown result type (might be due to invalid IL or missing references)
+		//IL_01f7: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0203: Unknown result type (might be due to invalid IL or missing references)
+		//IL_020b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0216: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0219: Unknown result type (might be due to invalid IL or missing references)
+		//IL_021e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0223: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0225: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0230: Unknown result type (might be due to invalid IL or missing references)
+		//IL_023c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0243: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0244: Unknown result type (might be due to invalid IL or missing references)
+		//IL_024e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0253: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0258: Unknown result type (might be due to invalid IL or missing references)
+		//IL_025d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0268: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0274: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0276: Unknown result type (might be due to invalid IL or missing references)
+		//IL_027b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0281: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0286: Unknown result type (might be due to invalid IL or missing references)
+		//IL_028b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0296: Unknown result type (might be due to invalid IL or missing references)
+		//IL_029d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02a3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02a8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02ad: Unknown result type (might be due to invalid IL or missing references)
+		//IL_02ba: Expected O, but got Unknown
+		//IL_02bc: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00e4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00ea: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00ef: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00f2: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00f7: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0317: Unknown result type (might be due to invalid IL or missing references)
+		//IL_031e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0323: Unknown result type (might be due to invalid IL or missing references)
+		//IL_033f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0344: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0347: Unknown result type (might be due to invalid IL or missing references)
+		//IL_034c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0351: Unknown result type (might be due to invalid IL or missing references)
+		//IL_035d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_035f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0364: Unknown result type (might be due to invalid IL or missing references)
+		//IL_036c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0378: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0383: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0384: Unknown result type (might be due to invalid IL or missing references)
+		//IL_038e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0393: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0398: Unknown result type (might be due to invalid IL or missing references)
+		//IL_039d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_039f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03a4: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03a6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03ab: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03b0: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03bb: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03c6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03c8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03cd: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03d4: Expected O, but got Unknown
+		//IL_03d6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_03e3: Unknown result type (might be due to invalid IL or missing references)
+		((EntityState)this).FixedUpdate();
+		((BaseState)this).StartAimMode(2f, false);
+		if (laser)
+		{
+			Vector3 val = direction;
+			Ray aimRay = ((BaseState)this).GetAimRay();
+			direction = Vector3.Lerp(val, ((Ray)(ref aimRay)).direction, 5f * Time.fixedDeltaTime);
+			if (!hasFired)
+			{
+				if (Object.op_Implicit((Object)(object)behaviour.orbEffect))
+				{
+					behaviour.orbEffect.transform.position = Vector3.Lerp(orbPos, orbMuzzle3.position, ((EntityState)this).fixedAge / startup);
+				}
+				if (((EntityState)this).fixedAge >= startup)
+				{
+					hasFired = true;
+					Transform val2 = ((BaseState)this).FindModelChild("center");
+					GameObject obj = Prefabs.laserEffect;
+					Vector3 position = val2.position;
+					aimRay = ((BaseState)this).GetAimRay();
+					laserEffect = Object.Instantiate<GameObject>(obj, position, Quaternion.LookRotation(((Ray)(ref aimRay)).direction));
+					laserEffect.transform.parent = ((EntityState)this).transform;
+					if (Object.op_Implicit((Object)(object)behaviour.orbEffect))
+					{
+						EntityState.Destroy((Object)(object)behaviour.orbEffect);
+					}
+				}
+			}
+			else
+			{
+				stopwatch += Time.fixedDeltaTime;
+				if (stopwatch >= fireRate)
+				{
+					stopwatch = 0f;
+					float num = 2.5f / ((BaseState)this).attackSpeedStat;
+					((BaseState)this).AddRecoil(-1f * num, -1.5f * num, -0.25f * num, 0.25f * num);
+					((EntityState)this).characterBody.AddSpreadBloom(0.8f);
+					float num2 = ((BaseState)this).damageStat * 5f;
+					Ray aimRay2 = ((BaseState)this).GetAimRay();
+					if (((EntityState)this).isAuthority)
+					{
+						BulletAttack val3 = new BulletAttack
+						{
+							owner = ((EntityState)this).gameObject,
+							damage = num2,
+							procCoefficient = 0.5f,
+							origin = ((Ray)(ref aimRay2)).origin,
+							aimVector = direction,
+							maxDistance = 800f,
+							bulletCount = 1u,
+							damageType = (DamageTypeCombo.GenericSpecial | DamageTypeCombo.op_Implicit((DamageType)128)),
+							force = 250f,
+							isCrit = isCrit,
+							falloffModel = (FalloffModel)1,
+							hitMask = ((LayerIndex)(ref LayerIndex.entityPrecise)).mask,
+							radius = 3f,
+							smartCollision = true,
+							stopperMask = ((LayerIndex)(ref LayerIndex.world)).mask,
+							hitEffectPrefab = Prefabs.laserHitEffect
+						};
+						DamageAPI.AddModdedDamageType(val3, Prefabs.laserDMG);
+						val3.Fire();
+					}
+					RaycastHit val4 = default(RaycastHit);
+					if (Physics.Raycast(new Ray(laserEffect.transform.position, direction), ref val4, 800f, LayerMask.op_Implicit(((LayerIndex)(ref LayerIndex.world)).mask)))
+					{
+						EffectManager.SimpleEffect(Prefabs.laserExplosion, ((RaycastHit)(ref val4)).point, Quaternion.LookRotation(((RaycastHit)(ref val4)).normal), false);
+						if (((EntityState)this).isAuthority)
+						{
+							BlastAttack val5 = new BlastAttack
+							{
+								position = ((RaycastHit)(ref val4)).point,
+								attacker = ((EntityState)this).gameObject,
+								attackerFiltering = (AttackerFiltering)2,
+								baseDamage = num2,
+								crit = isCrit,
+								baseForce = 250f,
+								damageType = (DamageTypeCombo.GenericSpecial | DamageTypeCombo.op_Implicit((DamageType)128)),
+								falloffModel = (FalloffModel)0,
+								impactEffect = hitEffectIndex,
+								radius = 18f,
+								procCoefficient = 0.5f,
+								teamIndex = ((BaseState)this).GetTeam()
+							};
+							DamageAPI.AddModdedDamageType(val5, Prefabs.laserDMG);
+							val5.Fire();
+						}
+					}
+				}
+			}
+		}
+		if (((EntityState)this).isAuthority && ((EntityState)this).fixedAge >= duration)
+		{
+			((EntityState)this).outer.SetNextStateToMain();
+		}
+	}
+
+	public override void OnExit()
+	{
+		//IL_009d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00a3: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00a8: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00ac: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00b1: Unknown result type (might be due to invalid IL or missing references)
+		if (Object.op_Implicit((Object)(object)((EntityState)this).cameraTargetParams))
+		{
+			behaviour.request.Dispose();
+		}
+		if (laser)
+		{
+			AkSoundEngine.StopPlayingID(ID);
+			AkSoundEngine.PostEvent("Play_ChaosAngeloid_Laser_End", ((EntityState)this).gameObject);
+			if (NetworkServer.active)
+			{
+				((EntityState)this).characterBody.RemoveBuff(Prefabs.armorBuff);
+			}
+			((EntityState)this).GetModelAnimator().SetTrigger("trigger");
+		}
+		if (Object.op_Implicit((Object)(object)laserEffect))
+		{
+			Transform val = ((BaseState)this).FindModelChild("center");
+			GameObject laserEffectEnd = Prefabs.laserEffectEnd;
+			Vector3 position = val.position;
+			Ray aimRay = ((BaseState)this).GetAimRay();
+			GameObject val2 = Object.Instantiate<GameObject>(laserEffectEnd, position, Quaternion.LookRotation(((Ray)(ref aimRay)).direction));
+			val2.transform.parent = ((EntityState)this).transform;
+			EntityState.Destroy((Object)(object)laserEffect);
+		}
+		if (Object.op_Implicit((Object)(object)behaviour.orbEffect))
+		{
+			EntityState.Destroy((Object)(object)behaviour.orbEffect);
+		}
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)2;
+	}
+}
+internal class Utility : BaseSkillState
+{
+	private float duration = 0.35f;
+
+	private AnimationCurve curve = AnimationCurve.EaseInOut(0f, 1f, 1f, 0f);
+
+	private AnimationCurve curve2;
+
+	private float speed;
+
+	private Behaviour behaviour;
+
+	private AimRequest request;
+
+	private Animator animator;
+
+	private uint ID;
+
+	private GameObject dashEffect;
+
+	public override void OnEnter()
+	{
+		//IL_011e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0123: Unknown result type (might be due to invalid IL or missing references)
+		//IL_013e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0178: Unknown result type (might be due to invalid IL or missing references)
+		((BaseState)this).OnEnter();
+		behaviour = ((EntityState)this).GetComponent<Behaviour>();
+		behaviour.cloth.enabled = false;
+		curve2 = (curve2 = AnimationCurve.EaseInOut(0f, 1f, 1f, behaviour.speedFactor));
+		speed = behaviour.speed * Math.Max(1f, ((EntityState)this).characterBody.moveSpeed / ((EntityState)this).characterBody.baseMoveSpeed);
+		((EntityState)this).characterBody.isSprinting = true;
+		animator = ((EntityState)this).GetModelAnimator();
+		animator.SetBool("SkillOver", false);
+		((EntityState)this).PlayAnimation("FullBody, Override", "BufferEmpty");
+		((EntityState)this).PlayAnimation("Body", "Dash", "Utility", duration, 0f);
+		AkSoundEngine.PostEvent("Play_ChaosAngeloid_Dash", ((EntityState)this).gameObject);
+		ID = AkSoundEngine.PostEvent("Play_ChaosAngeloid_Dash_Loop", ((EntityState)this).gameObject);
+		Transform val = ((BaseState)this).FindModelChild("center");
+		dashEffect = Object.Instantiate<GameObject>(Prefabs.dashEffect, val.position, Quaternion.identity, val);
+		dashEffect.transform.localRotation = Quaternion.identity;
+		request = ((EntityState)this).cameraTargetParams.RequestAimType((AimType)2);
+		((EntityState)this).characterBody.SetAimTimer(0f);
+		((EntityState)this).characterDirection.forward = ((EntityState)this).inputBank.moveVector;
+	}
+
+	public override void FixedUpdate()
+	{
+		//IL_001a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0030: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0057: Unknown result type (might be due to invalid IL or missing references)
+		//IL_005c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0061: Unknown result type (might be due to invalid IL or missing references)
+		((EntityState)this).FixedUpdate();
+		if (((EntityState)this).isAuthority)
+		{
+			CharacterMotor characterMotor = ((EntityState)this).characterMotor;
+			characterMotor.rootMotion += ((EntityState)this).characterDirection.forward * speed * curve2.Evaluate(((EntityState)this).fixedAge / duration) * Time.fixedDeltaTime;
+		}
+		if (((EntityState)this).isAuthority && !((BaseSkillState)this).IsKeyDownAuthority())
+		{
+			((EntityState)this).outer.SetNextStateToMain();
+		}
+	}
+
+	public override void OnExit()
+	{
+		if (Object.op_Implicit((Object)(object)dashEffect))
+		{
+			EntityState.Destroy((Object)(object)dashEffect);
+		}
+		AkSoundEngine.StopPlayingID(ID);
+		animator.SetBool("SkillOver", true);
+		if (Object.op_Implicit((Object)(object)((EntityState)this).cameraTargetParams))
+		{
+			request.Dispose();
+		}
+		behaviour.cloth.enabled = true;
+		((EntityState)this).OnExit();
+	}
+
+	public override InterruptPriority GetMinimumInterruptPriority()
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0005: Unknown result type (might be due to invalid IL or missing references)
+		return (InterruptPriority)2;
+	}
+}
+internal static class Extensions
+{
+	public static GameObject NewSyringe(this GameObject g, params Material[] m)
+	{
+		((Renderer)g.GetComponentsInChildren<MeshRenderer>(false)[0]).material = m[0];
+		((Renderer)g.GetComponent<TrailRenderer>()).material = m[1];
+		((Renderer)g.GetComponent<ParticleSystemRenderer>()).material = m[2];
+		return g;
+	}
+
+	public static Material SwapTexture(this Material m, Texture2D t)
+	{
+		m.mainTexture = (Texture)(object)t;
+		return m;
+	}
+
+	public static GameObject SwapMaterials(this GameObject g, Material[] m)
+	{
+		Renderer[] componentsInChildren = g.GetComponentsInChildren<Renderer>();
+		for (int i = 0; i < componentsInChildren.Length; i++)
+		{
+			if (Object.op_Implicit((Object)(object)m[i]))
+			{
+				componentsInChildren[i].material = m[i];
+			}
+		}
+		return g;
+	}
+
+	public static float Mult(this float f, float mult = 100f)
+	{
+		return f * mult;
+	}
+
+	public static Color ToRGB255(this Color c, string title, string body)
+	{
+		//IL_0001: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0019: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002d: Unknown result type (might be due to invalid IL or missing references)
+		return new Color(c.r / 255f, c.g / 255f, c.b / 255f);
+	}
+
+	public static void SetStrings(this TooltipProvider t, string title, string body)
+	{
+		t.overrideTitleText = title;
+		t.overrideBodyText = body;
+	}
+}
+internal class Utils
+{
+	internal static void RecolorEffect(GameObject obj, Color color)
+	{
+		//IL_008c: Unknown result type (might be due to invalid IL or missing references)
+		if (!Object.op_Implicit((Object)(object)obj))
+		{
+			return;
+		}
+		OmniEffect component = obj.GetComponent<OmniEffect>();
+		if (Object.op_Implicit((Object)(object)component))
+		{
+			Object.DestroyImmediate((Object)(object)obj.GetComponent<OmniEffect>());
+		}
+		Renderer[] componentsInChildren = obj.GetComponentsInChildren<Renderer>(Object.op_Implicit((Object)(object)component));
+		for (int i = 0; i < componentsInChildren.Length; i++)
+		{
+			((Component)componentsInChildren[i]).gameObject.SetActive(true);
+			if (Object.op_Implicit((Object)(object)componentsInChildren[i].material) && componentsInChildren[i].material.HasProperty("_TintColor"))
+			{
+				componentsInChildren[i].material.SetColor("_TintColor", color);
+			}
+		}
+	}
+
+	public static Vector3 FindNearestNodePosition(Vector3 targetPosition, GraphType nodeGraphType)
+	{
+		//IL_0009: Unknown result type (might be due to invalid IL or missing references)
+		//IL_000f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0010: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0026: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002d: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0032: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0034: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0039: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004a: Expected O, but got Unknown
+		//IL_0045: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004f: Expected O, but got Unknown
+		//IL_0061: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0066: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0084: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0085: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0089: Unknown result type (might be due to invalid IL or missing references)
+		SpawnCard val = ScriptableObject.CreateInstance<SpawnCard>();
+		val.hullSize = (HullClassification)1;
+		val.nodeGraphType = nodeGraphType;
+		val.prefab = Prefabs.Load<GameObject>("RoR2/Base/Common/DirectorSpawnProbeHelperPrefab.prefab");
+		Vector3 result = targetPosition;
+		GameObject val2 = DirectorCore.instance.TrySpawnObject(new DirectorSpawnRequest(val, new DirectorPlacementRule
+		{
+			placementMode = (PlacementMode)3,
+			position = targetPosition
+		}, RoR2Application.rng));
+		if (Object.op_Implicit((Object)(object)val2))
+		{
+			result = val2.transform.position;
+		}
+		if (Object.op_Implicit((Object)(object)val2))
+		{
+			Object.Destroy((Object)(object)val2);
+		}
+		Object.Destroy((Object)(object)val);
+		return result;
+	}
+
+	public static Vector3 GetForwardDirection(Vector3 dir)
+	{
+		//IL_0001: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0007: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0008: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0009: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0041: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0042: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0020: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0031: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0036: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0039: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0045: Unknown result type (might be due to invalid IL or missing references)
+		Vector2 val = Util.Vector3XZToVector2XY(dir);
+		if (val != Vector2.zero)
+		{
+			((Vector2)(ref val)).Normalize();
+			Vector3 val2 = new Vector3(val.x, 0f, val.y);
+			return ((Vector3)(ref val2)).normalized;
+		}
+		return dir;
+	}
+
+	public static void PlayAnimation(GameObject g, string layerName, string animationStateName)
+	{
+		Animator component = g.GetComponent<Animator>();
+		if (Object.op_Implicit((Object)(object)component))
+		{
+			int layerIndex = component.GetLayerIndex(layerName);
+			component.speed = 1f;
+			component.Update(0f);
+			component.PlayInFixedTime(animationStateName, layerIndex, 0f);
+		}
+	}
+
+	public static void PlayAnimation(GameObject g, string layerName, string animationStateName, string playbackRateParam, float duration)
+	{
+		//IL_005c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0061: Unknown result type (might be due to invalid IL or missing references)
+		Animator component = g.GetComponent<Animator>();
+		if (Object.op_Implicit((Object)(object)component))
+		{
+			component.speed = 1f;
+			component.Update(0f);
+			int layerIndex = component.GetLayerIndex(layerName);
+			component.SetFloat(playbackRateParam, 1f);
+			component.PlayInFixedTime(animationStateName, layerIndex, 0f);
+			component.Update(0f);
+			AnimatorStateInfo currentAnimatorStateInfo = component.GetCurrentAnimatorStateInfo(layerIndex);
+			float length = ((AnimatorStateInfo)(ref currentAnimatorStateInfo)).length;
+			component.SetFloat(playbackRateParam, length / duration);
+		}
+	}
+
+	public static void AnimatorPlayAnimation(Animator modelAnimator, string layerName, string animationStateName)
+	{
+		int layerIndex = modelAnimator.GetLayerIndex(layerName);
+		modelAnimator.speed = 1f;
+		modelAnimator.Update(0f);
+		modelAnimator.PlayInFixedTime(animationStateName, layerIndex, 0f);
+	}
+
+	public static void AnimatorPlayAnimation(Animator modelAnimator, string layerName, string animationStateName, string playbackRateParam, float duration)
+	{
+		//IL_004a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004f: Unknown result type (might be due to invalid IL or missing references)
+		modelAnimator.speed = 1f;
+		modelAnimator.Update(0f);
+		int layerIndex = modelAnimator.GetLayerIndex(layerName);
+		modelAnimator.SetFloat(playbackRateParam, 1f);
+		modelAnimator.PlayInFixedTime(animationStateName, layerIndex, 0f);
+		modelAnimator.Update(0f);
+		AnimatorStateInfo currentAnimatorStateInfo = modelAnimator.GetCurrentAnimatorStateInfo(layerIndex);
+		float length = ((AnimatorStateInfo)(ref currentAnimatorStateInfo)).length;
+		modelAnimator.SetFloat(playbackRateParam, length / duration);
+	}
+
+	public static SkillDef NewSkillDef<T>(Type activationState, string activationStateMachineName, int baseMaxStock, float baseRechargeInterval, bool beginSkillCooldownOnSkillEnd, bool canceledFromSprinting, bool fullRestockOnAssign, InterruptPriority interruptPriority, bool isCombatSkill, bool mustKeyPress, bool cancelSprintingOnActivation, int rechargeStock, int requiredStock, int stockToConsume, Sprite icon, string skillName, string skillDescriptionToken, params string[] keywordTokens) where T : SkillDef
+	{
+		//IL_000e: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0013: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0069: Unknown result type (might be due to invalid IL or missing references)
+		//IL_006b: Unknown result type (might be due to invalid IL or missing references)
+		T val = ScriptableObject.CreateInstance<T>();
+		((SkillDef)val).activationState = new SerializableEntityStateType(activationState);
+		((SkillDef)val).activationStateMachineName = activationStateMachineName;
+		((SkillDef)val).baseMaxStock = baseMaxStock;
+		((SkillDef)val).baseRechargeInterval = baseRechargeInterval;
+		((SkillDef)val).beginSkillCooldownOnSkillEnd = beginSkillCooldownOnSkillEnd;
+		((SkillDef)val).canceledFromSprinting = canceledFromSprinting;
+		((SkillDef)val).fullRestockOnAssign = fullRestockOnAssign;
+		((SkillDef)val).interruptPriority = interruptPriority;
+		((SkillDef)val).isCombatSkill = isCombatSkill;
+		((SkillDef)val).mustKeyPress = mustKeyPress;
+		((SkillDef)val).cancelSprintingOnActivation = cancelSprintingOnActivation;
+		((SkillDef)val).rechargeStock = rechargeStock;
+		((SkillDef)val).requiredStock = requiredStock;
+		((SkillDef)val).stockToConsume = stockToConsume;
+		((SkillDef)val).icon = icon;
+		((SkillDef)val).skillDescriptionToken = skillDescriptionToken;
+		((SkillDef)val).skillName = skillName;
+		((SkillDef)val).skillNameToken = ((SkillDef)val).skillName;
+		((SkillDef)val).keywordTokens = keywordTokens;
+		ContentAddition.AddSkillDef((SkillDef)(object)val);
+		return (SkillDef)(object)val;
+	}
+
+	public static Color HexTo10(string hexColor)
+	{
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_002f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0034: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0035: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0036: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0039: Unknown result type (might be due to invalid IL or missing references)
+		char[] array = hexColor.ToCharArray();
+		return new Color((float)(array[0] + array[1]), (float)(array[2] + array[3]), (float)(array[4] + array[5]), 255f) / 255f;
+	}
+
+	public static EntityStateMachine NewStateMachine<T>(GameObject obj, string customName) where T : EntityState
+	{
+		//IL_0021: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0022: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0028: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0029: Unknown result type (might be due to invalid IL or missing references)
+		SerializableEntityStateType val = default(SerializableEntityStateType);
+		((SerializableEntityStateType)(ref val))..ctor(typeof(T));
+		EntityStateMachine val2 = obj.AddComponent<EntityStateMachine>();
+		val2.customName = customName;
+		val2.initialStateType = val;
+		val2.mainStateType = val;
+		return val2;
+	}
+
+	public static GenericSkill NewGenericSkill(GameObject obj, SkillDef skill)
+	{
+		//IL_0031: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0049: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0053: Expected O, but got Unknown
+		//IL_0054: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0055: Unknown result type (might be due to invalid IL or missing references)
+		GenericSkill val = obj.AddComponent<GenericSkill>();
+		SkillFamily val2 = ScriptableObject.CreateInstance<SkillFamily>();
+		val2.variants = (Variant[])(object)new Variant[1];
+		val._skillFamily = val2;
+		SkillFamily skillFamily = val.skillFamily;
+		Variant[] variants = skillFamily.variants;
+		Variant val3 = new Variant
+		{
+			skillDef = skill
+		};
+		((Variant)(ref val3)).viewableNode = new Node(skill.skillNameToken, false, (Node)null);
+		variants[0] = val3;
+		ContentAddition.AddSkillFamily(skillFamily);
+		return val;
+	}
+
+	public static void AddAlt(SkillFamily skillFamily, SkillDef SkillDef)
+	{
+		//IL_0029: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0041: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004b: Expected O, but got Unknown
+		//IL_004c: Unknown result type (might be due to invalid IL or missing references)
+		//IL_004d: Unknown result type (might be due to invalid IL or missing references)
+		Array.Resize(ref skillFamily.variants, skillFamily.variants.Length + 1);
+		Variant[] variants = skillFamily.variants;
+		int num = skillFamily.variants.Length - 1;
+		Variant val = new Variant
+		{
+			skillDef = SkillDef
+		};
+		((Variant)(ref val)).viewableNode = new Node(SkillDef.skillNameToken, false, (Node)null);
+		variants[num] = val;
+	}
+
+	public static BuffDef NewBuffDef(string name, bool stack, bool hidden, Sprite sprite, Color color)
+	{
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0027: Unknown result type (might be due to invalid IL or missing references)
+		BuffDef val = ScriptableObject.CreateInstance<BuffDef>();
+		((Object)val).name = name;
+		val.canStack = stack;
+		val.isHidden = hidden;
+		val.iconSprite = sprite;
+		val.buffColor = color;
+		ContentAddition.AddBuffDef(val);
+		return val;
+	}
+
+	public static ObjectScaleCurve AddScaleComponent(GameObject target, float timeMax, AnimationCurve overallCurve)
+	{
+		ObjectScaleCurve val = target.AddComponent<ObjectScaleCurve>();
+		val.useOverallCurveOnly = true;
+		val.timeMax = timeMax;
+		val.overallCurve = overallCurve;
+		return val;
+	}
+
+	public static ObjectScaleCurve AddScaleComponent(GameObject target, float timeMax)
+	{
+		ObjectScaleCurve val = target.AddComponent<ObjectScaleCurve>();
+		val.useOverallCurveOnly = true;
+		val.timeMax = timeMax;
+		val.overallCurve = AnimationCurve.Linear(0f, 0f, 1f, 1f);
+		return val;
+	}
+
+	public static RotateAroundAxis AddRotationComponent(GameObject target, float speed, RotationAxis axis)
+	{
+		//IL_0019: Unknown result type (might be due to invalid IL or missing references)
+		RotateAroundAxis val = target.AddComponent<RotateAroundAxis>();
+		val.speed = (Speed)2;
+		val.fastRotationSpeed = speed;
+		val.rotateAroundAxis = axis;
+		return val;
+	}
+
+	public static AnimateShaderAlpha AddShaderAlphaComponent(GameObject target, float timeMax, AnimationCurve curve, bool destroyOnEnd = true, bool disableOnEnd = false)
+	{
+		AnimateShaderAlpha val = target.AddComponent<AnimateShaderAlpha>();
+		val.timeMax = timeMax;
+		val.alphaCurve = curve;
+		val.destroyOnEnd = destroyOnEnd;
+		val.disableOnEnd = disableOnEnd;
+		return val;
+	}
+
+	internal static Sprite CreateSprite(Texture2D tex)
+	{
+		//IL_001a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0029: Unknown result type (might be due to invalid IL or missing references)
+		return Sprite.Create(tex, new Rect(0f, 0f, (float)((Texture)tex).width, (float)((Texture)tex).height), new Vector2(0.5f, 0.5f), 128f);
+	}
+
+	internal static SkinDefInfo CreateNewSkinDefInfo(SkinnedMeshRenderer[] childList, GameObject rootObject, string skinName, string objectToEnable, RendererInfo[] rendererInfos, UnlockableDef unlockableDef = null)
+	{
+		//IL_0003: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0089: Unknown result type (might be due to invalid IL or missing references)
+		//IL_008a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_008d: Unknown result type (might be due to invalid IL or missing references)
+		return new SkinDefInfo
+		{
+			BaseSkins = Array.Empty<SkinDef>(),
+			MinionSkinReplacements = (MinionSkinReplacement[])(object)new MinionSkinReplacement[0],
+			ProjectileGhostReplacements = (ProjectileGhostReplacement[])(object)new ProjectileGhostReplacement[0],
+			GameObjectActivations = (GameObjectActivation[])(object)new GameObjectActivation[0],
+			Icon = Assets.MainAssetBundle.LoadAsset<Sprite>("skinIcon"),
+			MeshReplacements = (MeshReplacement[])(object)new MeshReplacement[0],
+			Name = skinName,
+			NameToken = skinName,
+			RendererInfos = rendererInfos,
+			RootObject = rootObject,
+			UnlockableDef = unlockableDef
+		};
+	}
+
+	internal static T CopyComponent<T>(T original, GameObject destination) where T : Component
+	{
+		Type type = ((object)original).GetType();
+		Component val = destination.AddComponent(type);
+		FieldInfo[] fields = type.GetFields();
+		FieldInfo[] array = fields;
+		foreach (FieldInfo fieldInfo in array)
+		{
+			fieldInfo.SetValue(val, fieldInfo.GetValue(original));
+		}
+		return (T)(object)((val is T) ? val : null);
+	}
+
+	public static Sprite CreateSpriteFromTexture(Texture2D texture)
+	{
+		//IL_0025: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0034: Unknown result type (might be due to invalid IL or missing references)
+		if (Object.op_Implicit((Object)(object)texture))
+		{
+			return Sprite.Create(texture, new Rect(0f, 0f, (float)((Texture)texture).width, (float)((Texture)texture).height), new Vector2(0.5f, 0.5f));
+		}
+		return null;
+	}
+
+	public static GameObject FindInActiveObjectByName(string name)
+	{
+		//IL_000f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0015: Invalid comparison between Unknown and I4
+		Transform[] array = Resources.FindObjectsOfTypeAll<Transform>();
+		for (int i = 0; i < array.Length; i++)
+		{
+			if ((int)((Object)array[i]).hideFlags == 0 && ((Object)array[i]).name == name)
+			{
+				return ((Component)array[i]).gameObject;
+			}
+		}
+		return null;
+	}
+
+	public static void CreateHitboxes(string name, Transform parent, Vector3[] sizes, Vector3[] positions)
+	{
+		//IL_0034: Unknown result type (might be due to invalid IL or missing references)
+		//IL_003a: Expected O, but got Unknown
+		//IL_004f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0060: Unknown result type (might be due to invalid IL or missing references)
+		//IL_006a: Unknown result type (might be due to invalid IL or missing references)
+		//IL_006f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0082: Unknown result type (might be due to invalid IL or missing references)
+		HitBoxGroup val = ((Component)parent).gameObject.AddComponent<HitBoxGroup>();
+		val.groupName = name;
+		List<HitBox> list = new List<HitBox>();
+		for (int i = 0; i < sizes.Length; i++)
+		{
+			GameObject val2 = new GameObject(name + (i + 1));
+			val2.transform.SetParent(parent);
+			val2.transform.localPosition = positions[i];
+			val2.transform.localRotation = Quaternion.Euler(Vector3.forward * 45f);
+			val2.transform.localScale = sizes[i];
+			HitBox item = val2.AddComponent<HitBox>();
+			val2.layer = LayerIndex.projectile.intVal;
+			list.Add(item);
+		}
+		val.hitBoxes = list.ToArray();
+	}
+
+	public static GameObject CreateHitbox(string name, Transform parent, Vector3 scale, Vector3 localPosition)
+	{
+		//IL_0002: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0008: Expected O, but got Unknown
+		//IL_001b: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0028: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0032: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0037: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0048: Unknown result type (might be due to invalid IL or missing references)
+		GameObject val = new GameObject(name);
+		val.transform.SetParent(parent);
+		val.transform.localPosition = localPosition;
+		val.transform.localRotation = Quaternion.Euler(Vector3.forward * 45f);
+		val.transform.localScale = scale;
+		HitBoxGroup val2 = ((Component)parent).gameObject.AddComponent<HitBoxGroup>();
+		HitBox val3 = val.AddComponent<HitBox>();
+		val.layer = LayerIndex.projectile.intVal;
+		val2.hitBoxes = (HitBox[])(object)new HitBox[1] { val3 };
+		val2.groupName = name;
+		return val;
+	}
+
+	internal static EffectComponent RegisterEffect(GameObject effect, float duration, string soundName = "", bool applyScale = false, bool parentToReferencedTransform = true, bool positionAtReferencedTransform = true)
+	{
+		//IL_00a6: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0097: Unknown result type (might be due to invalid IL or missing references)
+		EffectComponent val = effect.GetComponent<EffectComponent>();
+		if (!Object.op_Implicit((Object)(object)val))
+		{
+			val = effect.AddComponent<EffectComponent>();
+		}
+		if (duration != -1f)
+		{
+			DestroyOnTimer component = effect.GetComponent<DestroyOnTimer>();
+			if (!Object.op_Implicit((Object)(object)component))
+			{
+				effect.AddComponent<DestroyOnTimer>().duration = duration;
+			}
+			else
+			{
+				component.duration = duration;
+			}
+		}
+		if (!Object.op_Implicit((Object)(object)effect.GetComponent<NetworkIdentity>()))
+		{
+			effect.AddComponent<NetworkIdentity>();
+		}
+		if (!Object.op_Implicit((Object)(object)effect.GetComponent<VFXAttributes>()))
+		{
+			effect.AddComponent<VFXAttributes>().vfxPriority = (VFXPriority)2;
+		}
+		val.applyScale = applyScale;
+		val.effectIndex = (EffectIndex)(-1);
+		val.parentToReferencedTransform = parentToReferencedTransform;
+		val.positionAtReferencedTransform = positionAtReferencedTransform;
+		val.soundName = soundName;
+		ContentAddition.AddEffect(effect);
+		return val;
+	}
+
+	public static Material FindMaterial(string name)
+	{
+		//IL_000f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0015: Invalid comparison between Unknown and I4
+		Material[] array = Resources.FindObjectsOfTypeAll<Material>();
+		for (int i = 0; i < array.Length; i++)
+		{
+			if ((int)((Object)array[i]).hideFlags == 0 && ((Object)array[i]).name == name)
+			{
+				return array[i];
+			}
+		}
+		return null;
+	}
+}

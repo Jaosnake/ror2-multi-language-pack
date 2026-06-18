@@ -63,4 +63,16 @@
       <Private>False</Private>
     </Reference>
   </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ukrainianfont">
+      <LogicalName>R2API.Language.ukrainianfont</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <Target Name="DeployAfterBuild" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetPath)" DestinationFiles="$([MSBuild]::NormalizePath('$(MSBuildProjectDirectory)', 'R2API.Language.dll'))" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFiles="C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins\R2API\R2API.Language.dll" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFiles="C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins\R2API\R2API.Language\R2API.Language.dll" />
+  </Target>
 </Project>
