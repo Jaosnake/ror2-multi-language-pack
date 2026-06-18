@@ -10,7 +10,7 @@ internal static class LanguageFileHelper
     public static string[] GetLanguageFiles(string directory)
     {
         if (!Directory.Exists(directory))
-            throw new DirectoryNotFoundException($"Diretório não encontrado: {directory}");
+            throw new DirectoryNotFoundException($"Diretorio nao encontrado: {directory}");
 
         return Directory.GetFiles(directory, "*.language", SearchOption.AllDirectories);
     }
@@ -36,15 +36,13 @@ internal static class LanguageFileHelper
             var langObj = json[langKey];
             if (langObj == null) continue;
 
-            var languageName = langKey;
-            if (languageName == "strings")
-                languageName = "generic";
-
+            var langName = langKey == "strings" ? "generic" : langKey;
             var tokens = new Dictionary<string, string>();
+
             foreach (var tokenKey in langObj.Keys)
                 tokens[tokenKey] = langObj[tokenKey].Value;
 
-            result[languageName] = tokens;
+            result[langName] = tokens;
         }
 
         return result;
@@ -74,9 +72,7 @@ internal static class LanguageFileHelper
                 tokens[key] = val;
         }
 
-        var result = new Dictionary<string, Dictionary<string, string>>();
-        result[language] = tokens;
-        return result;
+        return new Dictionary<string, Dictionary<string, string>> { { language, tokens } };
     }
 
     internal static string DetectLanguageFromFileName(string filePath)
@@ -86,10 +82,12 @@ internal static class LanguageFileHelper
 
         if (name.EndsWith("_eo")) return "eo";
         if (name.EndsWith("_la")) return "la";
+        if (name.EndsWith("_uk")) return "uk";
+
         if (name.EndsWith("_pt-BR")) return "pt-BR";
         if (name.EndsWith("_en")) return "en";
         if (name.EndsWith("_de")) return "de";
-        if (name.EndsWith("_fr")) return "FR";
+        if (name.EndsWith("_fr")) return "fr";
         if (name.EndsWith("_es")) return "es-ES";
 
         return "generic";

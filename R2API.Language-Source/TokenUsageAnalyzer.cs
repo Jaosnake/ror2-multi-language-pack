@@ -12,24 +12,23 @@ public class TokenUsageAnalyzer
     {
         var defined = GetAllTokenNames(directory);
         var used = GetTokensReferencedInCode(directory);
-        return defined.Except(used).ToList();
+        return defined.Except(used, StringComparer.OrdinalIgnoreCase).ToList();
     }
 
     public List<string> FindBrokenReferences(string directory)
     {
         var defined = GetAllTokenNames(directory);
         var used = GetTokensReferencedInCode(directory);
-        return used.Except(defined).ToList();
+        return used.Except(defined, StringComparer.OrdinalIgnoreCase).ToList();
     }
 
     public Dictionary<string, int> GetTokenUsageStats(string directory)
     {
         var defined = GetAllTokenNames(directory);
-        var stats = new Dictionary<string, int>();
+        var stats = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
         foreach (var t in defined) stats[t] = 0;
 
-        var codeFiles = LanguageFileHelper.GetCodeFiles(directory);
-        foreach (var file in codeFiles)
+        foreach (var file in LanguageFileHelper.GetCodeFiles(directory))
         {
             try
             {
@@ -48,14 +47,16 @@ public class TokenUsageAnalyzer
 
     private HashSet<string> GetAllTokenNames(string directory)
     {
-        var tokens = new HashSet<string>();
-        var files = LanguageFileHelper.GetLanguageFiles(directory);
+        var tokens = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
 
-        foreach (var file in files)
+        foreach (var file in LanguageFileHelper.GetLanguageFiles(directory))
         {
             var parsed = LanguageFileHelper.ParseTokensFromFile(file);
-            foreach (var key in parsed.Keys)
-                tokens.Add(key);
+            foreach (var langKvp in parsed)
+            {
+                foreach (var tokenName in langKvp.Value.Keys)
+                    tokens.Add(tokenName);
+            }
         }
 
         return tokens;
@@ -63,10 +64,9 @@ public class TokenUsageAnalyzer
 
     private HashSet<string> GetTokensReferencedInCode(string directory)
     {
-        var referenced = new HashSet<string>();
-        var codeFiles = LanguageFileHelper.GetCodeFiles(directory);
+        var referenced = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
 
-        foreach (var file in codeFiles)
+        foreach (var file in LanguageFileHelper.GetCodeFiles(directory))
         {
             try
             {

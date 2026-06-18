@@ -60,23 +60,6 @@ public class LanguageFileValidator
         return true;
     }
 
-    public List<string> GetErrors(string fileContent)
-    {
-        var errors = new List<string>();
-        var lines = fileContent.Split('\n');
-        for (int i = 0; i < lines.Length; i++)
-        {
-            var line = lines[i].Trim();
-            var lineNumber = i + 1;
-            if (string.IsNullOrWhiteSpace(line) || IsCommentLine(line)) continue;
-            if (!IsValidTokenLine(line))
-            {
-                errors.Add($"Linha {lineNumber}: Sintaxe inválida: '{line}'");
-            }
-        }
-        return errors;
-    }
-
     private bool IsCommentLine(string line) => Regex.IsMatch(line, COMMENT_PATTERN);
     private bool IsValidTokenLine(string line) => Regex.IsMatch(line, TOKEN_PATTERN);
     private bool IsValidTokenName(string tokenName) => Regex.IsMatch(tokenName, "^[A-Za-z0-9_.]+$") && !tokenName.StartsWith("//");

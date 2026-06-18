@@ -10,22 +10,29 @@ public class DuplicateTokenDetector
     public List<DuplicateEntry> FindDuplicateTokens(string directory)
     {
         var files = LanguageFileHelper.GetLanguageFiles(directory);
-        var tokenCounts = new Dictionary<string, List<string>>();
+        var tokenFiles = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
 
         foreach (var file in files)
         {
-            var tokens = LanguageFileHelper.ParseTokensFromFile(file);
+            var parsed = LanguageFileHelper.ParseTokensFromFile(file);
             var fileName = Path.GetFileName(file);
 
-            foreach (var key in tokens.Keys)
+            foreach (var langKvp in parsed)
             {
-                if (!tokenCounts.ContainsKey(key))
-                    tokenCounts[key] = new List<string>();
-                tokenCounts[key].Add(fileName);
+                foreach (var tokenName in langKvp.Value.Keys)
+                {
+                    if (!tokenFiles.TryGetValue(tokenName, out var list))
+                    {
+                        list = new List<string>();
+                        tokenFiles[tokenName] = list;
+                    }
+                    if (!list.Contains(fileName))
+                        list.Add(fileName);
+                }
             }
         }
 
-        return tokenCounts
+        return tokenFiles
             .Where(kvp => kvp.Value.Count > 1)
             .Select(kvp => new DuplicateEntry
             {
@@ -38,7 +45,8 @@ public class DuplicateTokenDetector
 
     public bool HasDuplicates(string tokenName, string directory)
     {
-        return FindDuplicateTokens(directory).Any(d => d.TokenName == tokenName);
+        return FindDuplicateTokens(directory).Any(d =>
+            d.TokenName.Equals(tokenName, StringComparison.OrdinalIgnoreCase));
     }
 }
 
