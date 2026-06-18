@@ -1,0 +1,4 @@
+﻿{
+
+  "SS2_WIKI_ITEM_FORMAT": "\\n[\"{0}\"] = {{\\n	Malofteco = \"{1}\",\\n	Citajxo = \"{2}\",\\n	Desc = \"{3}\",\\n	Kategorio = {{ \"{4}\" }},\\n	Malsxlosi = \"{5}\",\\n	Korupti = \"{6}\", \\n	Malkorupti = \"{7}\",\\n	 ID = ,\\n	Statistiko = {{\\n		 {{\\n			Stat = \"\",\\n			Valoro = \"\",\\n			Stako = \"\",\\n			Aldoni = \"\"\\n		}}\\n	}},\\n	LocalizationInternalName = \"{8}\"\\n	}}"
+}

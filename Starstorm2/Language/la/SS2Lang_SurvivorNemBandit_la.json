@@ -1,0 +1,17 @@
+﻿{
+
+  "SS2_NEMBANDIT_NAME": "Nemesis Bandit",
+  "SS2_NEMBANDIT_SUBTITLE": "Blackened Outlaw",
+  "SS2_NEMBANDIT_DESCRIPTION": "Nemesis Bandit carefully positions himself per camouflage technology ad wrangle hostes et cull turbas. \\n\\n<color=#CCD3E0>< ! > Show no mercy.",
+  "SS2_NEMBANDIT_OUTRO_FLAVOR": "..et sic abiit, cum absolute nullis paenitentiis.",
+  "SS2_NEMBANDIT_OUTRO_FAILURE": "..et sic rediit, fortuna tandem expleta.",
+  "SS2_NEMBANDIT_LORE": "yehaw",
+  "SS2_NEMBANDIT_PRIMARY_NAME": "Gunslinger",
+  "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Puga revolver shot pro <style=cIsDamage>220% vulnere</style>. Potest habere usque ad 6 bullets.",
+  "SS2_NEMBANDIT_SECONDARY_NAME": "Dynamite Toss",
+  "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "toss dynamite figure out #s later",
+  "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Coin Toss",
+  "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "you know what it does",
+  "SS2_NEMBANDIT_SPECIAL_NAME": "Splatter",
+  "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Puga shotgun burst pro <style=cIsDamage>6x100% vulnere</style>. Kills <style=cIsUtility>reset omnes tuos cooldowns.</style>"
+}

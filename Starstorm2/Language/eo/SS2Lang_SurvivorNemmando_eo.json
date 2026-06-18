@@ -1,0 +1,26 @@
+﻿{
+
+  "SS2_NEMMANDO_NAME": "Nemesis Commando",
+  "SS2_NEMMANDO_SUBTITLE": "Soleca Ehxoo",
+  "SS2_NEMMANDO_DESCRIPTION": "La Nemesis Commando estas sovagxkarto sur la batalkampo, kapabla turni ajnan situacion al sia favoro.\\n\\n<color=#CCD3E0>< ! > Blade of Cessation estas riska sed povas amasigi multon da damagxo per stakigado de Gouge.\\n\\n< ! > Distant Gash povas esti uzata por sekure apliki stakojn de Gouge al grupoj de malamikoj - eluzu gxian trabaton!\\n\\n< ! > GXusta ekvilibrigo de proksima kaj malproksima batalo estas sxlosila, kaj Tactical Roll donas altan kirasxon por helpi eniri kaj eliri batalojn.\\n\\n< ! > Submission povas esti utiligita kiel enorma eksplodo de damagxo, cxu gxi estu por helpi en eskapo aux por salti sur nesuspektantan celon.",
+  "SS2_NEMMANDO_OUTRO_FLAVOR": "..kaj tiel li foriris, novtrovita sento de homeco ene.",
+  "SS2_NEMMANDO_OUTRO_FAILURE": "..kaj tiel li revenis, finigxanta sian senfinan batalon.",
+  "SS2_NEMMANDO_LORE": "Li kusxas por ripozo apud fajro, metante la armilojn kiujn li portas ene de brakatingo. Kontrolante sian cxirkauxajxon, esperante ke la kaverno en kiu li kasxis sin estus suficxa sxirmito. Iuj dirus, gxi ne estas sage esti tro antauxzorga. Li dirus, <color=#FFCCED>ili ne vidis suficxe.</color>\\n\\nLa serva pistolo kiun li ricevis kiam li enlistigxis. Bone uzita, malpurigita, kaj amata. GXi alportis lin tra diko kaj maldiko, ne grave kiun mision li entreprenis. Iuj dirus, nur malsagxulo fidas sian armilon. Li dirus, <color=#FFCCED>via armilo estas cxio kion vi povas fidi.</color>\\n\\nLa klingo de falinta frato de milito. Prenita de kio li povis sxtoli de la lasto de homeco kiun li vidis. Iuj dirus, gxi tenas iliajn spiritojn unuigitajn. Li dirus, <color=#FFCCED>gxi estas por teni iliajn spiritojn de kunigxxado tiom longe kiom eble.</color>\\n\\nLa sargoj da kargxo kiuj alterigxis kun li. Cxiu ero prenita de kesto, tenante lin viva unu manieron aux alian. Dekduoj da sxxipadoj al iu ajn krom li. Iuj dirus, ili ne estas liaj eroj por preni. Li dirus, <color=#FFCCED>se li ne prenas ilin, tiam neniu faros.</color>\\n\\nLa brilo de viola lumo venanta de pli profunde ene de la kaverno. Trankviliganta, varmiganta... alloganta. Bonveniganta lin pli kaj pli profunde, promesante sekurecon. Iuj dirus, kio sonas tro bona por esti vera versxajne estas. Li dirus, <color=#FFCCED>Faust estis sagxa viro.</color>",
+  "SS2_KEYWORD_REND": "<style=CKeywordName>Rending</style><style=cSub>Faru plian damagxon al Gouged malamikoj.",
+  "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Klingo de CXesigo",
+  "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agila.</style> Trancxu malamikojn por <style=cIsDamage>{0}% damagxo</style>.",
+  "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Malproksima Trancxo",
+  "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agila.</style> Tenu por sxargxi trabatantan glavo-radian por gxis <style=cIsDamage>{0}% damagxo</style>.",
+  "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Unu Frapo",
+  "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agila.</style> <style=cDeath>Rending.</style> Pafu vian pafilon por <style=cIsDamage>{0}% damagxo</style>.",
+  "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Taktika Rulo",
+  "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "<style=cIsUtility>Rulu</style> mallongan distancon, gajnante <style=cIsUtility>200 kirasxon</style>.",
+  "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Submeto",
+  "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Agila.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Sxargxu</style>, tiam pafu salvo de gxis <style=cIsDamage>6 blastoj de 4x70%.</style> <style=cIsUtility>La nombro de pafoj pliigxas kun atakrapido</style>.",
+  "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Decidia Frapo",
+  "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Sxargxu</style>, tiam <style=cIsUtility>kuru antauxen</style> kaj mallan cxu detruan salvo de gxis <style=cIsDamage>{0} trancxoj</style> kiuj faras gxis <style=cIsDamage>{1}% damagxo cxiu</style>. <style=cIsUtility>La nombro de trancxoj pliigxas kun atakrapido</style>.",
+  "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME": "Subjunkcio",
+  "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>Agila.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Sxargxu</style>, tiam pafu salvo de gxis <style=cIsDamage>6 blastoj de 4x70%.</style>. <style=cIsUtility>La nombro de pafoj pliigxas kun atakrapido</style>. \\n<color=#d299ff>SCEPTRO: Aldone pafas gxis {0} laserojn kiuj faras {2}% damagxon.</color>",
+  "SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME": "Jugxa Trancxo",
+  "SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Sxargxu</style>, tiam <style=cIsUtility>kuru antauxen</style> kaj mallan cxu detruan salvo de gxis <style=cIsDamage>{0} trancxoj</style> kiuj faras gxis <style=cIsDamage>{1}% damagxo cxiu</style>. <style=cIsUtility>La nombro de trancxoj pliigxas kun atakrapido</style>. \\n<color=#d299ff>SCEPTRO: Je plena sxargxo, nedaure malaperu, tiam mallan cxu cxiujn viajn frapojn samtempe.</color>"
+}

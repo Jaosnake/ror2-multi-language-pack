@@ -1,0 +1,17 @@
+﻿{
+
+  "SS2_NEMBANDIT_NAME": "Nemesis Bandit",
+  "SS2_NEMBANDIT_SUBTITLE": "Nigrigita Eksterlegxulo",
+  "SS2_NEMBANDIT_DESCRIPTION": "La Nemesis Bandit zorge poziciigxas sin per kamaufla tehxnologio por diplomi malamikojn kaj celi homamasojn. \\n\\n<color=#CCD3E0>< ! > Montru neniun kompaton.",
+  "SS2_NEMBANDIT_OUTRO_FLAVOR": "..kaj tiel li foriris, kun absolute neniuj bedauxroj.",
+  "SS2_NEMBANDIT_OUTRO_FAILURE": "..kaj tiel li revenis, bonsxanco fine elcxerpigxanta.",
+  "SS2_NEMBANDIT_LORE": "jehaw",
+  "SS2_NEMBANDIT_PRIMARY_NAME": "Pafisto",
+  "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "Pafu revolveran paafon por <style=cIsDamage>220% damagxo</style>. Povas havi gxis 6 kuglojn.",
+  "SS2_NEMBANDIT_SECONDARY_NAME": "Dinamita jxeto",
+  "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "jxetu dinamiton elpensxi #s poste",
+  "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Monero jxeto",
+  "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "vi scias kion gxi faras",
+  "SS2_NEMBANDIT_SPECIAL_NAME": "Splash",
+  "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "Pafu pafilan salvon por <style=cIsDamage>6x100% damagxo</style>. Mortigoj <style=cIsUtility>restartigas cxiujn viajn malvarmigxojn.</style>"
+}

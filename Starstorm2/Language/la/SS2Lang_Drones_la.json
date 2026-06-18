@@ -1,0 +1,18 @@
+﻿{
+
+  "SS2_DRONE_SHOCK_NAME": "Shock Drone",
+  "SS2_DRONE_SHOCK_INTERACTABLE_NAME": "Broken Shock Drone",
+  "SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT": "Repara Shock Drone",
+  "SS2_DRONE_SHOCK_PICKUP": "<style=cIsUtility>Shocks</style> proximos hostes, interrumpens et stupefaciens eos.",
+  "SS2_DRONE_SHOCK_DESCRIPTION": "Comes emptus auro qui sequetur superstitem prope, <style=cIsUtility>shocking</style> hostes, interrumpens et stupefaciens eos.",
+  "SS2_DRONE_SHOCK_SKILL_DESCRIPTION": "Pugnat electric blast, infligens <style=cIsDamage>100% vulnus</style> in area et <style=cIsUtility>shocking</style> hostes pro <style=cIsUtility>5 secundis</style>.",
+  "SS2_DRONE_CLONE_NAME": "Duplicator Drone",
+  "SS2_DRONE_CLONE_INTERACTABLE_NAME": "Broken Duplicator Drone",
+  "SS2_DRONE_CLONE_INTERACTABLE_CONTEXT": "Repara Duplicator Drone",
+  "SS2_DRONE_CLONE_PICKUP": "Occasionally <style=cIsUtility>duplicates</style> proximos items.",
+  "SS2_DRONE_CLONE_DESCRIPTION": "Comes emptus auro qui sequetur superstitem prope. <style=cIsUtility>Duplicates</style> proximos item pickups.",
+  "SS2_DRONE_CLONE_SKILL_DESCRIPTION": "Channels on nearby item. Upon completion, creat <style=cIsUtility>duplicate</style> rei.",
+  "SS2_DROIDDRONE_NAME": "Security Drone",
+  "SS2_DROIDDRONE_PICKUP": "Shoots proximos hostes. <style=cIsUtility>Inherits elite type</style> occisi elitus.",
+  "SS2_DROIDDRONE_DESCRIPTION": "Temperarius comes creatus quando tenens Droid Head et interficiendo elites qui sequetur superstitem prope, pugnando proximos hostes."
+}

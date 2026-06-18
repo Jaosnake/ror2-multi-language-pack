@@ -1,0 +1,27 @@
+﻿{
+
+  "SS2_KNIGHT_BODY_NAME": "Kavaliro",
+  "SS2_KNIGHT_BODY_SUBTITLE": "Regxa Gvardio",
+  "SS2_KNIGHT_DESCRIPTION": "La Kavaliro estas lerta spertulo en proksima batalo, duelanta kaj paranta malamikojn kun preciza tempo kaj ekzekuto.\\n\\n<color=#CCD3E0>< ! > parry.",
+  "SS2_KNIGHT_OUTRO_FLAVOR": "..kaj tiel li foriris, batita al la kerno de espero.",
+  "SS2_KNIGHT_OUTRO_FAILURE": "..kaj tiel li malaperis, sxildo sxirita kaj espero estingita.",
+  "SS2_KNIGHT_BODY_LORE": "kial estas kavaliroj en spaco",
+  "SS2_KNIGHT_PASSIVE_NAME": "Vigligi",
+  "SS2_KNIGHT_PASSIVE_DESC": "Bufgardistaro cxirkauxas vin kiu donas al aliancanoj en gxia radiuso <style=cIsDamage>20% atakrapidon</style> kaj <style=cIsDamage>20% damagxon</style>.",
+  "SS2_KNIGHT_PRIMARY_SWORD_NAME": "Aeonium Klingo",
+  "SS2_KNIGHT_PRIMARY_SWORD_DESC": "Trancxu antauxen por <style=cIsDamage>200% damagxo</style>. Cxiu tria frapo pikas antauxen por <style=cIsDamage>400% damagxo</style>. Dum blokado, batale malamikojn por <style=cIsDamage>400% damagxo</style>.",
+  "SS2_KNGIHT_PRIMARY_SWORD_UPRGADE_TOOLTIP": "<style=cKeywordName><color=#fa78f3>Empowered</color></style><style=cSub>Kuru antauxen, kaj frapu por <style=cIsDamage>3x400% damagxo</style>.</style>",
+  "SS2_KEYWORD_PARRY": "<style=cKeywordName>Parry</style><style=cSub>Bloku envenantan baton por <style=cIsUtility>stuporigi</style> kaj fari <style=cIsDamage>350% damagxon</style> al cxiuj malamikoj cxirkaux vi. Vi ankaux farigxas <style=cIsUtility>imuna al damagxo</style> por 1 sekundo.</style>",
+  "SS2_KEYWORD_EMPOWERING": "<style=cKeywordName>Empowering</style><style=cSub><color=#fa78f3>Plibonigxas</color> vian sekvan kapablan uzon.</style>",
+  "SS2_KNIGHT_SECONDARY_SHIELD_NAME": "Bloko",
+  "SS2_KNIGHT_SECONDARY_SHIELD_DESC": "Levu vian sxildon, gajnante <style=cIsUtility>400 kirasxon</style>. Uzu antaux envenanta frapo por <style=cIsDamage>pari</style> gxin kaj <color=#fa78f3>Empower</color> vian sekvan kapablon.",
+  "SS2_KNIGHT_SECONDARY_SHIELD_DESC2": "Levu vian sxildon, gajnante <style=cIsUtility>400 kirasxon</style> kaj anstatauxigante vian salton per <style=cIsUtility>rulo</style>. Uzu antaux envenanta frapo por <style=cIsDamage>pari</style> gxin kaj <color=#fa78f3>Empower</color> vian sekvan kapablon.",
+  "SS2_KNIGHT_SHIELD_BASH_NAME": "Bato",
+  "SS2_KNIGHT_SHIELD_BASH_DESC": "SXilda Bato antaux vi por <style=cIsDamage>240% damagxo</style> kaj <style=cIsUtility>stuporigu</style> frapitajn malamikojn.",
+  "SS2_KNIGHT_UTILITY_LEAP_NAME": "Frapanta Kurado",
+  "SS2_KNIGHT_UTILITY_LEAP_DESC": "Kuru antauxen, turnigxanta kaj trancxanta ripete por <style=cIsDamage>120% damagxo</style> po frapo. La nombro de frapoj skALas kun atakrapido.",
+  "SS2_KNIGHT_UTILITY_LEAP_UPGRADE_TOOLTIP": "<style=cKeywordName><color=#fa78f3>Empowered</color></style><style=cSub>Vojagxu pli malproksimen, farante <style=cIsDamage>200% damagxon</style> po frapo.</style>",
+  "SS2_KNIGHT_SPECIAL_BANNER_NAME": "Kunvoko",
+  "SS2_KNIGHT_SPECIAL_BANNER_DESC": "Enfosu standardon en la tero por <style=cIsDamage>750% damagxo</style>. Proksimaj aliancanoj <style=cIsDamage>punas</style> malamikojn kun iliaj atakoj, reduktante ilian kirasxon kaj <style=cIsHealing>restarigxante sanon</style>.",
+  "SS2_KNIGHT_SPECIAL_BANNER_UPGRADE_TOOLTIP": "<style=cKeywordName><color=#fa78f3>Empowered</color></style><style=cSub>Krome donas <style=cIsUtility>X% barieron</style>.</style>"
+}

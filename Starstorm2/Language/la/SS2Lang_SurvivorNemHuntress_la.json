@@ -1,0 +1,19 @@
+﻿{
+
+  "SS2_NEMHUNTRESS2_BODY_NAME": "Nemesis Huntress",
+  "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Cunning Stalker",
+  "SS2_NEMHUNTRESS2_DESCRIPTION": "The Nemesis Huntress engages contra enemies slowly sed ruthlessly cum eorum deadly longbow et double headed hatchet.\\n\\n<color=#CCD3E0>< ! > Death doesn't fear itself.",
+  "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..et sic abierunt, finding a new home far away.",
+  "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..et sic evanuerunt, .",
+  "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Combat Visor",
+  "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Highlight <style=cIsDamage>Weak Points</style> while in combat, quae potest struck cum all arrows pro <style=cIsDamage>1.5x vulnere</style>.",
+  "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Heavy Bolt",
+  "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Tene ad <style=cIsUtility>charge</style>, et dimitte ad fire an arrow pro up to <style=cIsDamage>400% vulnere</style>. Arrow <style=cIsUtility>velocity</style>, <style=cIsDamage>damage</style>, et <style=cIsUtility>accuracy</style> scale cum charge level.",
+  "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Laser Hatchet",
+  "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Swing et throw a boomeranging, piercing hatchet pro <style=cIsDamage>240% vulnere</style>. Hits <style=cIsDamage>5 times per second</style> while in the air.",
+  "SS2_KEYWORD_REARM": "<style=cKeywordName>Rearming</style><style=cSub>Adds 2 more projectiles to the next use of primary, usque ad maximum of 7.",
+  "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Phase Blink",
+  "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Rearming</style>. <style=cIsUtility>Disappear</style> et <style=cIsUtility>teleport</style> a short distance. Potest condere usque ad <style=cIsUtility>3</style> charges.",
+  "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Explosive Bolt",
+  "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Swap the arrow of your next <style=cIsDamage>primary</style> cum a <style=cIsDamage>stunning</style> arrow quod explodes shortly post impact pro <style=cIsDamage>400% vulnere</style>."
+}

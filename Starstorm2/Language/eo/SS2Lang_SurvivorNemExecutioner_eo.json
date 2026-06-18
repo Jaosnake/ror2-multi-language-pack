@@ -1,0 +1,21 @@
+﻿{
+
+  "SS2_NEMEXECUTIONER_BODY_NAME": "Nemesis Executioner",
+  "SS2_NEMEXECUTIONER_BODY_SUBTITLE": "Pramisto de la Damnitaj",
+  "SS2_NEMEXECUTIONER_DESCRIPTION": "La Nemesis Executioner forprenas la vivojn de tiuj kiuj estas perditaj en mortobato por kio li vidas kiel la pli granda bonfarto.\\n\\n<color=#CCD3E0>< ! > Morto ne timas sin mem.",
+  "SS2_NEMEXECUTIONER_OUTRO_FLAVOR": "..kaj tiel li foriris, forvelkanta en la nekonata.",
+  "SS2_NEMEXECUTIONER_OUTRO_FAILURE": "..kaj tiel li revenis, heredajxo perdita eterne.",
+  "SS2_NEMEXECUTIONER_BODY_LORE": "timiga D:",
+  "SS2_NEMEXECUTIONER_PRIMARY_NAME": "pilkoj",
+  "SS2_NEMEXECUTIONER_PRIMARY_DESCRIPTION": "pilka cxena fulmo",
+  "SS2_KEYWORD_BLEED": "<style=cKeywordName>Bleed</style><style=cSub>Faru <style=cIsDamage>240%</style> bazan damagxon super 3s. <i>Bleed povas stakigxi.</i></style>",
+  "SS2_NEMEXECUTIONER_SECONDARY_NAME": "ghouls",
+  "SS2_NEMEXECUTIONER_SECONDARY_DESCRIPTION": "ghouls sangxas je frapo",
+  "SS2_NEMEXECUTIONER_UTILITY_NAME": "timo",
+  "SS2_NEMEXECUTIONER_UTILITY_DESCRIPTION": "timo nubo",
+  "SS2_NEMEXECUTIONER_SPECIAL_NAME": "rikilo",
+  "SS2_NEMEXECUTIONER_SPECIAL_DESCRIPTION": "<style=cIsDamage>Slayer.</style> 1500% rikilokuro. sanigu proksime je mortigo. tenu por pliigi distancon ",
+  "SS2_NEMEXECUTIONER_SPECIAL_ALT_NAME": "timiga modo",
+  "SS2_NEMEXECUTIONER_SPECIAL_ALT_DESCRIPTION": "flugu kaj bufu kaj dauxro je mortigo",
+  "SS2_GHOUL_BODY_NAME": "AHHHHHHHHHH!!!!!!!!"
+}

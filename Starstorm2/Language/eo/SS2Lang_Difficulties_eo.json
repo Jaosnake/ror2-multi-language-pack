@@ -1,0 +1,26 @@
+﻿{
+
+  "SS2_DIFFICULTY_DELUGE_NAME": "Diluvo",
+  "SS2_DIFFICULTY_DELUGE1_NAME": "Diluvo +1",
+  "SS2_DIFFICULTY_DELUGE2_NAME": "Diluvo +2",
+  "SS2_DIFFICULTY_DELUGE3_NAME": "Diluvo +3",
+  "SS2_DIFFICULTY_TEMPEST_NAME": "Tempesto",
+  "SS2_DIFFICULTY_TEMPEST1_NAME": "Tempesto +1",
+  "SS2_DIFFICULTY_TEMPEST2_NAME": "Tempesto +2",
+  "SS2_DIFFICULTY_TEMPEST3_NAME": "Tempesto +3",
+  "SS2_DIFFICULTY_CYCLONE_NAME": "Ciklono",
+  "SS2_DIFFICULTY_CYCLONE1_NAME": "Ciklono +1",
+  "SS2_DIFFICULTY_CYCLONE2_NAME": "Ciklono +2",
+  "SS2_DIFFICULTY_CYCLONE3_NAME": "Ciklono +3",
+  "SS2_DIFFICULTY_TYPHOON_NAME": "Tajfuno",
+  "SS2_DIFFICULTY_TYPHOON_DESC": "Maksimuma defio. La mondo estas kosxmaro, kaj postvivo estas nur iluzio. Neniuj havas tion kion gxi bezonas.<style=cStack>\\n\\n>San-Regenero de Ludanto: <style=cIsHealth>-40%</style>\\n>Skalado de Malfacilajxo: <style=cIsHealth>+75%</style>\\n>Limo de Monstra Apero: <style=cIsHealth>+100%</style>\\n>Rapido de Monstra Apero: <style=cIsHealth>+25%</style>\\n>Oraj kaj Spertaj Rekompencoj: <style=cisHealth>-20%</style>",
+  "SS2_DIFFICULTY_SUPERTYPHOON_NAME": "Super Tajfuno",
+  "SS2_DIFFICULTY_SUPERTYPHOON1_NAME": "Super Tajfuno +1",
+  "SS2_DIFFICULTY_SUPERTYPHOON2_NAME": "Super Tajfuno +2",
+  "SS2_DIFFICULTY_SUPERTYPHOON3_NAME": "Super Tajfuno +3",
+  "SS2_DIFFICULTY_CATACLYSM_NAME": "Kataklismo",
+  "SS2_DIFFICULTY_ARMAGEDDON_NAME": "Armagedono",
+  "SS2_DIFFICULTY_ARMAGEDDON1_NAME": "Armagedono +1",
+  "SS2_DIFFICULTY_ARMAGEDDON2_NAME": "Armagedono +2",
+  "SS2_DIFFICULTY_ARMAGEDDON3_NAME": "Armagedono +3"
+}
