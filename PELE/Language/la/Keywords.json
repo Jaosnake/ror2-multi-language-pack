@@ -1,4 +1,4 @@
-﻿{
+{
     "strings":  {
                     "KEYWORD_POISON":  "\u003cstyle=cKeywordName\u003e@\u003c/style\u003e@H2@@ Fac damnum par \u003cstyle=cIsDamage\u003e10%\u003c/style\u003e eorum maximam salutem supra 10 *. \u003ci\u003e Venenum non potest occidere inimicos. \u003c/i\u003e\u003c/style\u003e",
                     "KEYWORD_RAPID_REGEN":  "\u003cstyle=cKeywordName\u003eRegeneratio Rapida\u003c/style\u003e\u003cstyle=cSub\u003e Restituit 5% tuae valetudinis maximae.\u003c/style\u003e",
