@@ -1,6 +1,6 @@
 {
-    "strings": {
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "한 번에 4개의 전쟁 깃발을 운반하십시오."
-    }
+  "strings": {
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Flagbearer",
+    "SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Carry 4 Warbanners at once."
+  }
 }

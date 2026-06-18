@@ -1,0 +1,24 @@
+﻿{
+    "FR": {
+        "CHAOSANGELOID_CHAOS_NAME": "Chaos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Type Epsilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..et ainsi elle partit, un monde de plus perdu par amour.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..et ainsi elle disparut, aspirant Ã  plus d'amour.",
+        "CHAOSANGELOID_CHAOS_LORE": "Souhaiter est quelque chose d'incroyable\u2014ce sont tous vos espoirs et rÃªves combinÃ©s en une seule pensÃ©e.\nBeaucoup souhaitent la richesse, les trÃ©sors.\nD'autres souhaitent la santÃ©.\nCertains souhaitent l'amour.\n\nMais si votre souhait devenait votre perte ?\n\nChaque fois que vous aimez quelque chose, au moment oÃ¹ cela vous blesse ou vous le perdez, cela se transforme en douleur.\nLa douleur ne s'arrÃªte pas. Elle persiste. Alors\u2026 la douleur est-elle de l'amour ?\n\nJe pense que oui. Chaque pas que j'ai fait dans mon voyage a menÃ© Ã  l'amour\u2014tant d'amour.\nJ'ai souillÃ© le monde d'amour.\n\nJe souhaite que tout le monde puisse le ressentir\u2014chaque planÃ¨te, pas seulement la Terre, pas seulement Synapse, pas seulement mon MaÃ®tre.\n\nM'accompagnerez-vous dans mon voyage ?\nM'aiderez-vous Ã  teindre le monde en rouge\u2026 et les entendre frÃ©mir de joie ?\n\nLaissez-moi jouer avec mes poupÃ©es une fois de plus.\nLibÃ©rez-moi.\nDevenez mon MaÃ®tre.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Type 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "Scannes les entitÃ©s proches, signalant leur emplacement. Les MaÃ®tres sont toujours signalÃ©s. Les ennemis signalÃ©s subissent <style=cIsDamage>20%</style> de dÃ©gÃ¢ts supplÃ©mentaires de la part des MaÃ®tres.",
+        "CHAOS__M1": "Flammes SouillÃ©es",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>Enflammer</style>. Lancez des boules de feu en succession rapide infligeant <style=cIsDamage>220% de dÃ©gÃ¢ts</style>.",
+        "CHAOS__M2": "Ã‰gide",
+        "CHAOS__M2_DESCRIPTION": "ProtÃ¨ge de tous les dÃ©gÃ¢ts entrants.",
+        "CHAOS__UTIL": "ChimÃ¨re",
+        "CHAOS__UTIL_DESCRIPTION": "Foncez rapidement vers l'avant.",
+        "CHAOS__SPEC": "Boule de Feu SouillÃ©e",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>Enflammer</style>. Chargez un orbe enflammÃ© jusqu'Ã  <style=cIsUtility>10s</style>, qui inflige <style=cIsDamage>400%-2000% de dÃ©gÃ¢ts</style> et brÃ»le le sol infligeant <style=cIsDamage>10%</style> des dÃ©gÃ¢ts par seconde. Charger pendant au moins <style=cIsUtility>5s</style> fait libÃ©rer un rayon de la mort par Chaos Ã  la place, infligeant <style=cIsDamage>2000% de dÃ©gÃ¢ts</style> par seconde. Charger au-delÃ  de <style=cIsUtility>5s</style> augmente la durÃ©e du rayon de la mort.",
+        "CHAOS__F": "Sbire, Lève-toi!",
+        "CHAOS__F_DESCRIPTION": "Ressuscite automatiquement un ennemi récemment tué dans un rayon de 25m comme sbire. Dure 3 minutes.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Par dÃ©faut"
+    }
+}
+

@@ -1,6 +1,6 @@
 {
-    "FR": {
-        "SPEARMAN_NAME": "Lancier",
+    "fr": {
+        "SPEARMAN_NAME": "Spearman",
         "SPEARMAN_DESCRIPTION": "Le Spearman est un guerrier équilibré qui utilise sa lance pour infliger des dégâts dévastateurs au corps à corps comme à distance. Maniant uniquement sa fidèle lance, il recherche le pouvoir absolu.",
         "SPEARMAN_SUBTITLE": "Dieu de Petrichor",
         "SPEARMAN_LORE": "\"Je suis un tueur. Je ne suis pas un 'Protecteur'. Pas un 'Rempart'. J'ai passé toute ma vie à m'entraîner au combat depuis que nous sommes coincés ici, et j'en ai aimé chaque seconde. Je suis un survivant. Un guerrier. Je ne sais rien de cette vie que tu as menée, et je m'en fiche. Ce que je sais, c'est qu'elle est sur le point de s'achever.\"\n\n\"Espèce de.. monstre...\"\n\n\"Rien qu'on ne m'ait déjà dit.\"\n\nIl tourna le dos à la figure divine.\n\n\"Je suis peut-être un monstre, mais tu n'es rien de plus qu'un faux dieu. Rien de plus qu'une autre encoche sur le manche de ma lance. Un trophée dont je sourirai au souvenir du meurtre.\"\n\n\"Comment...?\"\n\nEn silence, le guerrier se retourna vers le dieu et prit sa posture finale. Sa lance crépita de vie, de l'énergie jaillissant de sa pointe.\n\n\"Disparais.\"\n\nIl porte le coup final, secouant la coque abîmée du vieux vaisseau.\n\nC'est calme.\n\nLe vaisseau reprend vie dans un bourdonnement. Il aperçoit un vieil allié sur la passerelle, manipulant maladroitement les commandes.\n\n\"Non...\" grogna-t-il. \"Pas encore..\"\n\nIl saute du vaisseau et le regarde partir.\n\n\"Maintenant, c'est moi le dieu. Voyons combien de temps cette planète survivra.\"\n\ntandis que son regard dérive vers les vers morts.",
@@ -23,11 +23,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "Lance du Spearman",
         "SPEARMAN_INTERACTABLE_CONTEXT": "Éradiquer",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Récupérez l'arme incrustée dans le crâne.",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "En tant que Spearman, terminez le jeu ou effacez Monsoon.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "En tant que Spearman, tuez 10 ennemis en un seul lancer de Warriors Spear.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
         "SPEARMAN_ALTM1": "Posture du Guerrier",
         "SPEARMAN_ALTM1_DESCRIPTION": "Plantez la lance vers l'avant infligeant <style=cIsDamage>400% de dégâts</style> et lancez une lame de vent pour <style=cIsDamage>200% de dégâts</style>."
     }

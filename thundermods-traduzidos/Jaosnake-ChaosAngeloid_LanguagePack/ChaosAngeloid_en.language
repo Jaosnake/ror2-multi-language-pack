@@ -1,0 +1,24 @@
+﻿{
+    "en": {
+        "CHAOSANGELOID_CHAOS_NAME": "Chaos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Type Epsilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..and so she left, another world lost to love.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..and so she vanished, yearning for more love.",
+        "CHAOSANGELOID_CHAOS_LORE": "Wishing is something amazing\u2014it's all your hopes and dreams combined into a single thought.\nMany wish for wealth, riches.\nOthers wish for health.\nSome wish for love.\n\nBut what if the wish you make becomes your demise?\n\nWhenever you love something, the moment it hurts you or you lose it, it turns into pain.\nPain doesn't stop. It lingers. So\u2026 is pain love?\n\nI think it is. Every step I've taken on my journey has led to love\u2014so much love.\nI tainted the world with love.\n\nI wish everyone could experience it\u2014every planet, not just Earth, not just Synapse, not just my Master.\n\nWill you accompany me on my journey?\nWill you help me taint the world in red\u2026 and hear them quiver in joy?\n\nLet me play with my dolls once more.\nSet me free.\nBecome my Master.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Type 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "Scans nearby entities, highlighting their location. Masters are highlighted at all times. Highlighted enemies take <style=cIsDamage>20%</style> increased damage from Masters.",
+        "CHAOS__M1": "Tainted Flames",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>Ignite</style>. Launch fireballs in quick succession for <style=cIsDamage>220% damage</style>.",
+        "CHAOS__M2": "Aegis",
+        "CHAOS__M2_DESCRIPTION": "Protect from all incoming damage.",
+        "CHAOS__UTIL": "Chimaira",
+        "CHAOS__UTIL_DESCRIPTION": "Quickly dash forward.",
+        "CHAOS__SPEC": "Tainted Fireball",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>Ignite</style>. Charge a flaming orb for up to <style=cIsUtility>10s</style>, that deals <style=cIsDamage>400%-2000% damage</style> and burning the ground dealing <style=cIsDamage>10%</style> of the damage per second. Charging for at least <style=cIsUtility>5s</style> causes Chaos to release a death ray instead, dealing <style=cIsDamage>2000% damage</style> per second. Charging over <style=cIsUtility>5s</style> increases the duration of the death ray.",
+        "CHAOS__F": "Minion, Arise!",
+        "CHAOS__F_DESCRIPTION": "Automatically resurrects a recently killed enemy within 25m as a minion. Lasts 3 minutes.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Default"
+    }
+}
+

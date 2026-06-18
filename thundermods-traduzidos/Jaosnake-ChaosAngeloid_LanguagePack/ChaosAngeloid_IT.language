@@ -1,0 +1,24 @@
+﻿{
+    "IT": {
+        "CHAOSANGELOID_CHAOS_NAME": "Chaos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Tipo Epsilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..e cosÃ¬ se ne andÃ², un altro mondo perso per amore.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..e cosÃ¬ svanÃ¬, desiderando piÃ¹ amore.",
+        "CHAOSANGELOID_CHAOS_LORE": "Desiderare Ã¨ qualcosa di straordinario\u2014sono tutte le tue speranze e i tuoi sogni combinati in un unico pensiero.\nMolti desiderano ricchezza, tesori.\nAltri desiderano salute.\nAlcuni desiderano amore.\n\nMa se il tuo desiderio diventasse la tua rovina?\n\nOgni volta che ami qualcosa, nel momento in cui ti ferisce o lo perdi, si trasforma in dolore.\nIl dolore non si ferma. Persiste. Allora\u2026 il dolore Ã¨ amore?\n\nIo penso di sÃ¬. Ogni passo che ho fatto nel mio viaggio ha portato all'amore\u2014cosÃ¬ tanto amore.\nHo macchiato il mondo d'amore.\n\nVorrei che tutti potessero provarlo\u2014ogni pianeta, non solo la Terra, non solo Synapse, non solo il mio Maestro.\n\nMi accompagnerai nel mio viaggio?\nMi aiuterai a tingere il mondo di rosso\u2026 e sentirli tremare di gioia?\n\nLasciami giocare con le mie bambole ancora una volta.\nLiberami.\nDiventa il mio Maestro.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Tipo 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "Scansiona le entitÃ  vicine, evidenziando la loro posizione. I Maestri sono sempre evidenziati. I nemici evidenziati subiscono <style=cIsDamage>20%</style> di danno in piÃ¹ dai Maestri.",
+        "CHAOS__M1": "Fiamme Macchiate",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>Infiammare</style>. Lancia palle di fuoco in rapida successione per <style=cIsDamage>220% di danno</style>.",
+        "CHAOS__M2": "Egida",
+        "CHAOS__M2_DESCRIPTION": "Proteggi da tutto il danno in arrivo.",
+        "CHAOS__UTIL": "Chimera",
+        "CHAOS__UTIL_DESCRIPTION": "Scatta rapidamente in avanti.",
+        "CHAOS__SPEC": "Palla di Fuoco Macchiata",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>Infiammare</style>. Carica un orbe fiammeggiante fino a <style=cIsUtility>10s</style>, che infligge <style=cIsDamage>400%-2000% di danno</style> e brucia il terreno infliggendo <style=cIsDamage>10%</style> del danno al secondo. Caricare per almeno <style=cIsUtility>5s</style> fa rilasciare a Chaos un raggio della morte invece, infliggendo <style=cIsDamage>2000% di danno</style> al secondo. Caricare oltre <style=cIsUtility>5s</style> aumenta la durata del raggio della morte.",
+        "CHAOS__F": "Servitore, Sorgi!",
+        "CHAOS__F_DESCRIPTION": "Resuscita automaticamente un nemico ucciso di recente entro 25m come servitore. Dura 3 minuti.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Predefinito"
+    }
+}
+

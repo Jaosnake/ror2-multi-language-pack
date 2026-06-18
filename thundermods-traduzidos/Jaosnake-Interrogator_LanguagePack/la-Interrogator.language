@@ -1,0 +1,23 @@
+{
+    "la": {
+        "KENKO_INTERROGATOR_NAME": "Interrogator",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Interrogator in dolore aliorum gaudet. Ne nimium gaudeas socios laedendo... vel gaude.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Peritus Tormentorum",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..atque ita discessit, avide plus \"iustitiae\" impositurus.",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..atque ita evanuit, pro sceleribus suis punitus.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Defalta",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogator: Peritus",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Tormenta",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Interrogator socios et hostes ferire et ab eis feriri potest. Percussores qui Interrogatorem feriunt permanenter ut Rei signantur. 5% plus damni pro quoque hoste Reo facit.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Ictus Saevus",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Baculum tuum ante te vibra, <style=cIsDamage>320% damnum</style> faciens. Si impetus fallit, tu ipse <style=cIsDamage>damnum</style> pateris.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Rixa",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Cultrum iace qui <style=cIsDamage>450% damnum</style> facit. <style=cIsDamage>Interfector.</style> Si culter scopum necat, Haemorrhagiam et Pressuram in omnes in area applicat.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsifica",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Ante te impelle <style=cIsDamage>390% damnum</style> faciens et Reatum in scopos ictus applicans.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Damnare",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Reum hostem per 10 secundas duella. Ictus tuus primarius te iam non ferit et in ictu cumulatum Reatus dat. Per duellum, damnum externum tibi negatur, sed damnum aliis hostibus praeter scopum etiam negatur.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Puni",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Reum hostem per 10 secundas duella. Ictus tuus primarius te iam non ferit et in ictu cumulatum Reatus dat. Per duellum, damnum externum tibi negatur, sed damnum aliis hostibus 75% minuitur."
+    }
+}

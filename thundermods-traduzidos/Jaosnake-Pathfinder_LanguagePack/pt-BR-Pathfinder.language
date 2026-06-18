@@ -1,12 +1,12 @@
 {
     "pt-BR": {
-        "BOG_PATHFINDER_BODY_NAME": "Desbravador",
+        "BOG_PATHFINDER_BODY_NAME": "Pathfinder",
         "BOG_PATHFINDER_BODY_DESCRIPTION": "O Pathfinder é um escaramuçador astuto e evasivo que luta ao lado de seu falcão robô, Squall.",
         "BOG_PATHFINDER_BODY_SUBTITLE": "Caçador Interplanetário",
         "BOG_PATHFINDER_BODY_OUTRO_FLAVOR": "..e assim eles partiram, como os novos reis da cadeia alimentar.",
         "BOG_PATHFINDER_BODY_OUTRO_FAILURE": "..e assim eles desapareceram, perdidos para sempre na natureza selvagem e indiferente.",
         "BOG_PATHFINDER_BODY_DEFAULT_SKIN_NAME": "Padrão",
-        "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Caçador de talentos",
+        "BOG_PATHFINDER_BODY_MASTERY_SKIN_NAME": "Headhunter",
         "BOG_PATHFINDER_BODY_PASSIVE_NAME": "Falcoeiro",
         "BOG_PATHFINDER_BODY_PASSIVE_DESCRIPTION": "Você é acompanhado pelo seu falcão robô, Squall. Squall herda <style=cIsDamage>a maioria</style> de seus itens e é imune a dano, mas funciona com uma <style=cIsUtility>bateria</style>.",
         "BOG_PATHFINDER_BODY_PRIMARY_THRUST_NAME": "Investida",
@@ -28,7 +28,7 @@
         "BOG_PATHFINDER_BODY_SPECIAL_FOLLOW_DESCRIPTION": "Traga Squall de volta para perto de você e ative o <color=#00FF00>Modo Seguir</color>, fazendo com que ele fique próximo a você.",
         "BOG_PATHFINDER_BODY_SPECIAL_CANCEL_NAME": "Cancelar Modo de Comando",
         "BOG_PATHFINDER_BODY_SPECIAL_CANCEL_DESCRIPTION": "Cancela o Modo de Comando.",
-        "BOG_SQUALL_BODY_NAME": "Tempestade",
+        "BOG_SQUALL_BODY_NAME": "Squall",
         "BOG_SQUALL_BODY_DEFAULT_SKIN_NAME": "Padrão",
         "BOG_SQUALL_BODY_MASTERY_SKIN_NAME": "Maestria",
         "BOG_SQUALL_PRIMARY_GUNS_NAME": "Metralhadoras",
@@ -40,7 +40,7 @@
         "BOG_SQUALL_SPECIAL_GOFORTHROAT_NAME": "Vá para a Garganta!",
         "BOG_SQUALL_SPECIAL_GOFORTHROAT_DESCRIPTION": "Ordene Squall a atacar repetidamente o inimigo alvo para <style=cIsDamage>70% de dano</style>. Cada ataque reduz brevemente a <style=cIsDamage>armadura</style> e <style=cIsUtility>regenera 1%</style> de bateria, dobrado em Acertos Críticos. Esta habilidade pode brevemente <style=cIsUtility>sobrecarregar</style> a bateria.",
         "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pathfinder: Mastery",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Pathfinder, vença o jogo ou destrua em Monsoon.",
-        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Desbravador: Maestria"
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Pathfinder, beat the game or obliterate on Monsoon.",
+        "BOG_PATHFINDER_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pathfinder: Mastery"
     }
 }

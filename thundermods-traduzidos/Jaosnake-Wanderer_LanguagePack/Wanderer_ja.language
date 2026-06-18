@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "ファーストブレス",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "対象または近くの<style=cIsUtility>空中</style>の敵にブリンクし、<style=cIsDamage>2x250% + 800%のダメージ</style>の連続攻撃を行う。6秒間<style=cIsDamage>アーマー貫通</style>ボーナスを得る。\n<color=#d299ff>セプター: <style=cIsUtility>セカンダリのクールダウンをリセットする</style>。<color=#FFBF66>ファーストブレス</color>の命中した敵は再び<color=#FFBF66>薙ぎ払い</color>の対象にできる。</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "放浪者として、ゲームに勝つかモンスーンを全滅させてください。"
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

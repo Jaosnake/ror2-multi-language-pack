@@ -120,7 +120,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "Beschwört einen Schild, der den nächsten Angriff abwehrt. Bei einer erfolgreichen Parade versetzen Sie Ihrem Angreifer und den Gegnern in der Nähe einen Schock und fügen ihm Schaden zu.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "Beschwört einen <style=cIsHealing>Schild</style>, der den nächsten Angriff <style=cIsHealing>parry</style> durchführt. Bei einer erfolgreichen Parade verursachst du einen <style=cIsDamage>Schock</style> und fügst deinem Angreifer und Gegnern in der Nähe 2000% <style=cIsDamage>damage</style> Schaden zu.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "Transkript über fehlerhafte Ausrüstung. Dialog zwischen Kapitän und Techniker über eine Charge galvanischer Abschirmungen mit einer Ausfallrate von 30 %.",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "Der Sandkehrer",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "Fegt den Sand um dich herum.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "Treibe alle Feinde im Umkreis von 20m voran und füge je nach Entfernung bis zu 500 % <style=cIsDamage>Schaden</style> und <style=cIsUtility>betäubende</style> für bis zu 6 Sekunden zu.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "Abschrift eines Verhörs zwischen einem UESC-Offizier und einem Hausmeister der Hall of Reverence über einen Besen und einen Flüchtling namens Elijah.",

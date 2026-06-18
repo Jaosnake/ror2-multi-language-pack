@@ -1,6 +1,6 @@
 {
-    "UA": {
-        "SPEARMAN_NAME": "Списоносець",
+    "ua": {
+        "SPEARMAN_NAME": "Spearman",
         "SPEARMAN_DESCRIPTION": "Списоносець — це збалансований воїн, який використовує свій спис для завдання нищівної шкоди зблизька та здалеку. Володіючи лише своїм вірним списом, він прагне абсолютної влади.",
         "SPEARMAN_SUBTITLE": "Бог Петріхору",
         "SPEARMAN_LORE": "Колись давно на випалених землях Петріхору жив воїн, що палав незгасною люттю. Він бачив жорстокість богів, нескінченний цикл божественних істот, що гнобили слабких. Наодинці він вирушив убити бога, викувавши спис, що пронизує плоть і розриває душу. Битва сколихнула світи, але врешті-решт кров божественного пролилася на землю. З того дня він став відомий як бог планети, що сама мучить існування.",
@@ -23,11 +23,11 @@
         "SPEARMAN_INTERACTABLE_NAME": "Спис Списоносця",
         "SPEARMAN_INTERACTABLE_CONTEXT": "Знищити",
         "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_NAME": "A Planet of Agony",
-        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Візьміть зброю, закладену в череп.",
+        "ACHIEVEMENT_SPEARMAN_SURVIVORUNLOCKABLE_DESCRIPTION": "Retrieve the weapon embedded in the skull.",
         "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_NAME": "Spearman: Mastery",
-        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "Як Списоносець, пройдіть гру або знищіть на Monsoon.",
+        "ACHIEVEMENT_SPEARMAN_MASTERYUNLOCKABLE_DESCRIPTION": "As Spearman, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_NAME": "Spearman: To Know Strength",
-        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "У ролі Списоносця вбийте 10 ворогів за один прийом Списа воїнів.",
+        "ACHIEVEMENT_SPEARMAN_SECONDARYALTUNLOCKABLE_DESCRIPTION": "As Spearman, kill 10 enemies in one cast of Warriors Spear.",
         "SPEARMAN_ALTM1": "Стійка Воїна",
         "SPEARMAN_ALTM1_DESCRIPTION": "Зробіть випад списом вперед, завдаючи <style=cIsDamage>400% шкоди</style>, та викиньте лезо вітру на <style=cIsDamage>200% шкоди</style>."
     }

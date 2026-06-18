@@ -1,0 +1,19 @@
+{
+    "eo": {
+        "BOG_DEPUTY_BODY_NAME": "La Deputito",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Fulmrapida Justico",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "La Deputito estas hiperagresema rapidodemono, kiu disdonas justicon per siaj duopaj revolveroj kaj mortigaj piedbatoj.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Defauxlta",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Senlaca Persekuto",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "La Deputito povas sprinti en ajna direkto. Trafi malamikojn per sxiaj kapabloj donas kumulebla<style=cIsUtility>movrapidecan</style> plifortigon.",
+        "PRIMARY_SHOOT_NAME": "Certa Pafo",
+        "PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Pafu per mezdistancaj revolveroj por <style=cIsDamage>150% da damagxo</style>.",
+        "SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Jxetu du revolverojn. <style=cIsDamage>Stupore</style>. Saltu kaj pafu malamikon sub vi por <style=cIsDamage>6x100% da damagxo</style>.",
+        "UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Pafu precizan pafon, kiu povas esti iom angulita supren. Kauxzas <style=cIsDamage>150% da damagxo</style>.",
+        "SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsDamage>800% da damagxo</style>. <style=cIsUtility>Mortigoj restarigas la resxargon de via lerteca kapablo</style>.",
+        "SPECIAL_BULLETHEAVEN_DESCRIPTION": "Saltu alte en la aeron kaj furioze pafu kuglojn malsupren por <style=cIsDamage>150% da damagxo</style>.",
+        "MASTERY_SKIN_NAME": "Deputito: Majstreco",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..kaj tiel sxi foriris, al la sono de fragora aplaudo.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..kaj tiel sxi malaperis, sxia spektaklo fine finigxinta."
+    }
+}

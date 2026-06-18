@@ -120,7 +120,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "召喚出盾牌來格擋下一次攻擊。成功招架後,會對攻擊者和附近的敵人造成衝擊和傷害。",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "召喚一個 <style=cIsHealing>shield</style>,它將在下一次攻擊中使用 <style=cIsHealing>parry</style>。成功招架後,<style=cIsDamage>震擊</style>並對攻擊者和附近的敵人造成2000% <style=cIsDamage>傷害</style>的傷害。",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "有關故障設備的記錄。船長和技術員關於一批故障率 30% 的電鍍屏蔽的對話。",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "掃沙機",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "掃除你周圍的沙子。",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "推動 20m 半徑內的所有敵人,根據距離造成最多 500% <style=cIsDamage> 傷害 </style> 和 <style=cIsUtility> 眩暈 </style> 持續 6 秒。",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "UESC 警官與尊敬堂管理員之間的審訊筆錄,內容涉及一把掃帚和一名名叫以利亞的逃犯。",

@@ -1,6 +1,6 @@
 {
-    "FR": {
-        "KENKO_UNFORGIVEN_NAME": "Vagabond",
+    "fr": {
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
         "KENKO_UNFORGIVEN_DESCRIPTION": "Le Wanderer est un survivant facile à prendre en main mais difficile à maîtriser qui peut utiliser des annulations d'animation pour maintenir ses DPS élevés.<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "L'Impitoyable",
         "KENKO_UNFORGIVEN_LORE": "Si tu meurs contre Yasuo, tu t'es fait surclasser. Cela signifie qu'il a dû calculer (et exécuter) le combat exactement selon ses spécifications, en tenant compte de tes temps de recharge et des siens, de la position des deux junglers, des vagues de sbires et du 'ressenti' général de la voie (une compétence qui doit être aiguisée au fil d'années, voire de décennies de ce que tu appelles simplement 'gaming'). En effet, être vaincu par Yasuo, c'est réaliser que tu as trouvé ton maître, à la fois en tant que joueur et en tant qu'homme. Ton courage t'a fait défaut, mais le joueur de Yasuo est d'acier massif -dur, froid, fiable- et alors qu'il s'assure le premier sang et que tu attends anxieusement le vote de reddition, son esprit fonctionne encore à pleine capacité, préparant des stratégies pour un nombre quasi infini de possibilités. Je vais prendre mes LP maintenant, assure-toi de bien faire tes bans la prochaine fois.",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Premier Souffle",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Téléportez-vous vers un ennemi <style=cIsUtility>aérien</style> ciblé ou proche et attaquez rapidement pour <style=cIsDamage>2x250% + 800% de dégâts</style>. Gagnez un bonus de <style=cIsDamage>pénétration d'armure</style> pendant 6 secondes.\n<color=#d299ff>SCEPTER : <style=cIsUtility>Réinitialise le temps de recharge de votre compétence secondaire</style>. Les ennemis touchés par <color=#FFBF66>Premier Souffle</color> peuvent être ciblés par <color=#FFBF66>Lame Balayante</color> à nouveau.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que Wanderer, terminez le jeu ou effacez la mousson."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

@@ -120,7 +120,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "Bir sonraki saldırıyı savuşturacak bir kalkan yaratır. Başarılı bir savuşturma sonrasında saldırganınıza ve yakındaki düşmanlara şok verin ve hasar verin.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "Bir sonraki saldırıyı <style=cIsHealing>parry</style> yapacak bir <style=cIsHealing>shield</style> yaratır. Başarılı savuşturma sonrasında, <style=cIsDamage>şok</style> ve saldıran kişiye ve yakındaki düşmanlara 2000% <style=cIsDamage>damage</style> kadar hasar verin.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "Arızalı ekipman hakkında transkript. Kaptan ve teknisyen arasında %30 arıza oranına sahip bir grup galvanik kalkan hakkında diyalog.",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "Kum Süpürgesi",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "Etrafınızdaki kumları süpürür.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "20m yarıçapındaki tüm düşmanları iterek, mesafeye bağlı olarak 6 saniyeye kadar %<style=cIsDamage>hasar</style> ve <style=cIsUtility>sersemletme</style> verin.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "Bir UESC memuru ile Saygı Salonunun bekçisi arasında bir süpürge ve Elijah adında bir kaçak hakkında yapılan sorgulamanın metni.",

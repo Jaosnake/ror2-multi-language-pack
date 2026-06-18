@@ -1,7 +1,7 @@
 {
     "author": "Jaosnake",
     "name": "Enforcer_LanguagePack",
-    "description": "Multi-language translation pack for Enforcer by EnforcerGang - translated by Jaosnake",
+    "description": "Multi-language translation pack for Enforcer by EnforcerGang.",
     "dependencies": [
         "EnforcerGang-Enforcer-3.11.9",
         "RiskofThunder-R2API_Language-1.1.0"

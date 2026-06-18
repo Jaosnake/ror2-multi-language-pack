@@ -1,11 +1,11 @@
 {
-    "author": "Jaosnake",
-    "name": "Wanderer_LanguagePack",
-    "description": "Multi-language translation pack for Wanderer by tsuyoikenko - translated by Jaosnake",
-    "dependencies": [
-        "tsuyoikenko-Wanderer-0.8.9",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+    "author":  "Jaosnake",
+    "name":  "Wanderer_LanguagePack",
+    "description":  "Multi-language translation pack for Wanderer by tsuyoikenko.",
+    "dependencies":  [
+                         "tsuyoikenko-Wanderer-0.8.9",
+                         "RiskofThunder-R2API_Language-1.1.0"
+                     ],
+    "version_number": "1.0.1",
+    "website_url":  "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

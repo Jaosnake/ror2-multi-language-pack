@@ -1,0 +1,26 @@
+{
+    "la": {
+        "BOG_DEPUTY_BODY_NAME": "Vigil",
+        "BOG_DEPUTY_BODY_DESCRIPTION": "Vigil est daemon celeritatis hyperagressivus quae iustitiam suis gemellis revolveris et ictibus calcis mortiferis dispensat.",
+        "BOG_DEPUTY_BODY_SUBTITLE": "Iustitia Fulminis",
+        "BOG_DEPUTY_BODY_OUTRO_FLAVOR": "..atque ita discessit, ad sonum plausus tonantis.",
+        "BOG_DEPUTY_BODY_OUTRO_FAILURE": "..atque ita evanuit, spectaculo suo tandem finito.",
+        "BOG_DEPUTY_BODY_DEFAULT_SKIN_NAME": "Defalta",
+        "BOG_DEPUTY_BODY_MASTERY_SKIN_NAME": "Magisterium",
+        "BOG_DEPUTY_BODY_PASSIVE_NAME": "Persecutio Indefessa",
+        "BOG_DEPUTY_BODY_PASSIVE_DESCRIPTION": "Vigil in quamlibet directionem currere potest. Hostes artibus suis feriens auget <style=cIsUtility>celeritatem motus</style> cumulabilem.",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_NAME": "Ictus Certus",
+        "BOG_DEPUTY_BODY_PRIMARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Revolveris media distantia iacula pro <style=cIsDamage>150% damno</style>.",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_NAME": "Funda",
+        "BOG_DEPUTY_BODY_SECONDARY_SLING_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Duas revolveras iace. Quaeque revolvera hostem propinquum pro <style=cIsDamage>6x100% damno</style> petet, deinde pro <style=cIsDamage>300% damno</style> explodet.",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_NAME": "Stella Cadens",
+        "BOG_DEPUTY_BODY_UTILITY_SHOOTINGSTAR_DESCRIPTION": "<style=cIsDamage>Stupefaciens</style>. Ante salta et hostem infra te iacula pro <style=cIsDamage>4x150% damno</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_NAME": "Cranii Fractor",
+        "BOG_DEPUTY_BODY_SPECIAL_SKULLBREAKER_DESCRIPTION": "<style=cIsUtility>Gravis</style>. <style=cIsUtility>Impetum fac</style> et ab hoste resili, <style=cIsDamage>800% damnum</style> faciens. <style=cIsUtility>Caedes moram artis utilitatis tuae restituunt</style>.",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_NAME": "Paradisus Glandium",
+        "BOG_DEPUTY_BODY_SPECIAL_BULLETHEAVEN_DESCRIPTION": "Alte in aerem salta et glandes deorsum furenter iace, quaeque <style=cIsDamage>150% damnum</style> faciens. Numerus ictuum cum celeritate impetus crescit.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Vigil: Magisterium",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Ut Vigil, ludum vince aut te oblitera in Monsoon.",
+        "BOG_DEPUTY_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Vigil: Magisterium"
+    }
+}

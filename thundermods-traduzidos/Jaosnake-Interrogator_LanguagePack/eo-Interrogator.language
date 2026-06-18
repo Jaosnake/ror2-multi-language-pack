@@ -1,0 +1,23 @@
+{
+    "eo": {
+        "KENKO_INTERROGATOR_NAME": "Interrogator",
+        "KENKO_INTERROGATOR_DESCRIPTION": "La Interrogator revelas en la doloro de aliaj. Ne havu tro da plezuro vundante viajn aliancanojn... aux jes.</i>",
+        "KENKO_INTERROGATOR_SUBTITLE": "Specialisto de Turmentado",
+        "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..kaj tiel li foriris, avida apliki pli da \"justeco\".",
+        "KENKO_INTERROGATOR_OUTRO_FAILURE": "..kaj tiel li malaperis, punita pro siaj krimoj.",
+        "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "Defauxlta",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogator: Specialisto",
+        "KENKO_INTERROGATOR_PASSIVE_NAME": "Turmentado",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "La Interrogator povas frapi kaj esti frapata de aliancanoj kaj malamikoj. Atakantoj kiuj frapas la Interrogator estas permanente markitaj kiel Kulpaj. Faras 5% pli da damagxo por cxiu Kulpa malamiko.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "Kruela Bato",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "Svingu vian bastonon antauxen, kauxzante <style=cIsDamage>320% damagxo</style>. Maltrafi la atakon kauxzas ke vi anstatauxe suferas <style=cIsDamage>damagxon</style>.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "Kverelo",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "Jxetu haketilon kiu kauxzas <style=cIsDamage>450% damagxo</style>. <style=cIsDamage>Mortiganto.</style> Se la haketilo mortigas la celon, aplikas Hemoraxion kaj Premon sur cxiujn en la areo.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "Falsigi",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "Impulsu antauxen kauxzante <style=cIsDamage>390% damagxo</style> kaj aplikante Kulpon al trafitaj celoj.",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "Kondamni",
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "Dvobatigu Kulpan malamikon dum 10 sekundoj. Via primara ne plu frapas vin kaj donas stako de Kulpo cxe trafo. Dum la dvobato, ekstera damagxo al vi estas neata, sed damagxo al aliaj malamikoj krom la celo ankaux estas neata.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "Puni",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "Dvobatigu Kulpan malamikon dum 10 sekundoj. Via primara ne plu frapas vin kaj donas stako de Kulpo cxe trafo. Dum la dvobato, ekstera damagxo al vi estas neata, sed damagxo al aliaj malamikoj estas reduktita je 75%."
+    }
+}

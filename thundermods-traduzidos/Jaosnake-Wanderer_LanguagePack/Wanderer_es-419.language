@@ -1,6 +1,6 @@
 {
     "es-419": {
-        "KENKO_UNFORGIVEN_NAME": "Vagabundo",
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
         "KENKO_UNFORGIVEN_DESCRIPTION": "El Wanderer es un sobreviviente de bajo piso de habilidad y alto techo que puede usar cancelaciones de animación para mantener su daño alto.<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "El Imperdonable",
         "KENKO_UNFORGIVEN_LORE": "si mueres contra yasuo, fuiste superado. significa que él tuvo que calcular (y ejecutar) la pelea exactamente según sus especificaciones, teniendo en cuenta tus tiempos de recarga y los suyos, la posición de ambos junglas, las oleadas de súbditos y la sensación general del carril (una habilidad que debe perfeccionarse durante años, tal vez décadas de lo que llamas meramente \"jugar\"). De hecho, ser derrotado por yasuo es darte cuenta de que has encontrado a tu superior, tanto como jugador como hombre. Tu temple falló, pero el jugador de yasuo es acero sólido -duro, frío, confiable- y mientras él asegura la primera sangre y tú esperas ansiosamente la votación de rendición, su mente aún opera a plena capacidad preparando estrategias para un número casi infinito de posibilidades. Me llevaré mis PL ahora, asegúrate de hacer tus baneos correctamente la próxima vez.",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Primer Aliento",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teletranspórtate a un enemigo <style=cIsUtility>aéreo</style> cercano o marcado y ataca rápidamente causando <style=cIsDamage>2x250% + 800% de daño</style>. Gana <style=cIsDamage>penetración de armadura</style> adicional por 6 segundos.\n<color=#d299ff>CETRO: <style=cIsUtility>Restablece el tiempo de recarga de tu habilidad secundaria</style>. Los enemigos golpeados por <color=#FFBF66>Primer Aliento</color> pueden ser objetivos de <color=#FFBF66>Hoja Barredora</color> nuevamente.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Como Wanderer, completa el juego o destruye Monsoon."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

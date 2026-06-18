@@ -31,5 +31,12 @@
         "SS2_REMUNERATION_TERMINAL_NAME": "받침대",
         "SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">거래 완료</link>",
         "SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">너의 유산은 무엇인가?</link>\n\n사소한 복수심뿐.\n\n<link=\"textShaky\">너의 정체성은 무엇인가?</link>\n\n혐오스럽게 불리는 이름뿐.\n\n<link=\"textShaky\">무엇을 원하는가?</link>\n\n새로운 목적뿐.\n\n<link=\"textShaky\">무엇이 필요한가?</link>\n\n내가 믿는 무기들뿐.\n\n<link=\"textShaky\">그렇다면, 어디로 갈 것인가?</link>\n\n네가 가게 만드는 곳으로.\n\n<link=\"textShaky\">그리고, 무엇을 할 것인가?</link>\n\n네가 필요하다고 말하는 것은 무엇이든.\n\n<link=\"textShaky\">그게 전부인가?</link>\n\n네가 그렇다면.\n\n<link=\"textShaky\">그럼 그곳으로 가서, 죽어라.</link>\n\n...\n\n돈만 준다면야."
+    },
+    "ko": {
+        "SS2_ITEM_HUNTERSSIGIL_DESC": "1초 동안 가만히 있으면 8m 구역을 생성하여 모든 아군에게 방어력 30(+중첩당 15)과 피해량 30%(+중첩당 15%)를 부여합니다. 구역은 벗어날 때까지 유지됩니다.",
+        "SS2_ITEM_FIELDACCELERATOR_DESC": "텔레포터 보스를 처치하면 텔레포터 반경이 20%(+중첩당 20%) 증가하고, 적 처치 시 텔레포터 충전량이 +1% 증가합니다.",
+        "SS2_ITEM_BLOODTESTER_DESC": "30초마다 보유한 금화 25당 체력을 빠르게 15(+중첩당 15) 회복합니다. 시간이 지날수록 증가합니다.",
+        "SS2_ITEM_JETBOOTS_DESC": "7.5m 반경의 적을 불태워 기본 피해량의 500%를 주는 추가 점프 +1회를 얻습니다(+중첩당 5m). 착지 후 5초 뒤 재충전됩니다.",
+        "SS2_EQUIP_BACKTHRUSTER_DESC": "8초 동안 직선으로 이동할 때 이동 속도가 빠르게 최대 200%까지 증가합니다."
     }
 }

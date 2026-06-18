@@ -1,0 +1,23 @@
+﻿{
+    "pt-BR": {
+        "CHAOSANGELOID_CHAOS_NAME": "Caos",
+        "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Tipo Épsilon",
+        "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
+        "CHAOSANGELOID_CHAOS_OUTRO": "..e então ela partiu, mais um mundo perdido para o amor.",
+        "CHAOSANGELOID_CHAOS_FAIL": "..e então ela desapareceu, ansiando por mais amor.",
+        "CHAOSANGELOID_CHAOS_LORE": "Desejar é algo incrível\u2014são todas as suas esperanças e sonhos combinados em um único pensamento.\nMuitos desejam riqueza, tesouros.\nOutros desejam saúde.\nAlguns desejam amor.\n\nMas e se o seu desejo se tornar a sua ruína?\n\nSempre que você ama algo, no momento em que isso te machuca ou você o perde, se transforma em dor.\nA dor não para. Ela persiste. Então\u2026 a dor é amor?\n\nEu acho que sim. Cada passo que dei em minha jornada levou ao amor\u2014tanto amor.\nEu manchei o mundo com amor.\n\nEu desejo que todos pudessem experimentá-lo\u2014cada planeta, não apenas a Terra, não apenas Synapse, não apenas meu Mestre.\n\nVocê me acompanhará em minha jornada?\nVocê me ajudará a tingir o mundo de vermelho\u2026 e ouvi-los tremer de alegria?\n\nDeixe-me brincar com minhas bonecas mais uma vez.\nLiberte-me.\nTorne-se meu Mestre.",
+        "CHAOS__PASSIVE_NAME": "Angeloid Tipo 2",
+        "CHAOS__PASSIVE_DESCRIPTION": "Escaneia entidades próximas, destacando sua localização. Mestres são destacados o tempo todo. Inimigos destacados recebem <style=cIsDamage>20%</style> mais dano dos Mestres.",
+        "CHAOS__M1": "Chamas Manchadas",
+        "CHAOS__M1_DESCRIPTION": "<style=cIsDamage>Inflamar</style>. Lance bolas de fogo em sucessão rápida causando <style=cIsDamage>220% de dano</style>.",
+        "CHAOS__M2": "Égide",
+        "CHAOS__M2_DESCRIPTION": "Protege de todo dano recebido.",
+        "CHAOS__UTIL": "Quimera",
+        "CHAOS__UTIL_DESCRIPTION": "Avança rapidamente.",
+        "CHAOS__SPEC": "Bola de Fogo Manchada",
+        "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>Inflamar</style>. Carregue um orbe flamejante por até <style=cIsUtility>10s</style>, que causa <style=cIsDamage>400%-2000% de dano</style> e queima o chão causando <style=cIsDamage>10%</style> do dano por segundo. Carregar por pelo menos <style=cIsUtility>5s</style> faz com que Caos libere um raio da morte, causando <style=cIsDamage>2000% de dano</style> por segundo. Carregar além de <style=cIsUtility>5s</style> aumenta a duração do raio da morte.",
+        "CHAOS__F": "Capanga, Levante-se!",
+        "CHAOS__F_DESCRIPTION": "Ressuscita automaticamente um inimigo morto recentemente num raio de 25m como capanga. Dura 3 minutos.",
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Padrão"
+    }
+}

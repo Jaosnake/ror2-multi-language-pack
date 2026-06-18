@@ -1,5 +1,5 @@
 {
-    "strings": {
-        "SS2_WIKI_ITEM_FORMAT": "\n[\"{0}\"] = {{\n Rareté = \"{1}\",\n Quote = \"{2}\",\n Desc = \"{3}\",\n Catégorie = {{ \"{4}\" }},\n Déverrouillage = \"{5}\",\n Corrompu = \"{6}\", \n Non Corrompu = \"{7}\",\n ID = ,\n Stats = {{\n {{\n\t\t\tStat = \"\",\n\t\t\tValue = \"\",\n\t\t\tStack = \"\",\n\t\t\tAdd = \"\"\n\t\t}}\n }},\n LocalisationInternalName = \"{8}\" \n }}"
-    }
+  "strings": {
+    "SS2_WIKI_ITEM_FORMAT": "\n[\"{0}\"] = {{\n Rareté = \"{1}\",\n Quote = \"{2}\",\n Desc = \"{3}\",\n Catégorie = {{ \"{4}\" }},\n Déverrouillage = \"{5}\",\n Corrompu = \"{6}\", \n Non Corrompu = \"{7}\",\n ID = ,\n Stats = {{\n {{\n\t\t\tStat = \"\",\n\t\t\tValue = \"\",\n\t\t\tStack = \"\",\n\t\t\tAdd = \"\"\n\t\t}}\n }},\n LocalisationInternalName = \"{8}\" \n }}"
+  }
 }

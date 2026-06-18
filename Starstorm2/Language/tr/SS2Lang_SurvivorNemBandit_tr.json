@@ -1,18 +1,18 @@
 {
-    "strings": {
-        "SS2_NEMBANDIT_NAME": "Düşman Haydut",
-        "SS2_NEMBANDIT_SUBTITLE": "Karartılmış Kanun Kaçağı",
-        "SS2_NEMBANDIT_DESCRIPTION": "The Nemesis Bandit carefully positions himself via camouflage technology to wrangle foes and cull crowds. \n\n<color=#CCD3E0>< ! > Show no mercy.",
-        "SS2_NEMBANDIT_OUTRO_FLAVOR": "..ve böylece hiçbir pişmanlık duymadan gitti.",
-        "SS2_NEMBANDIT_OUTRO_FAILURE": "..ve böylece geri döndü, sonunda şansı yaver gitti.",
-        "SS2_NEMBANDIT_LORE": "evet",
-        "SS2_NEMBANDIT_PRIMARY_NAME": "Silahşör",
-        "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "<style=cIsDamage>%220 hasar için bir tabanca atışı yapın</style>. 6 mermiye kadar tutabilir.",
-        "SS2_NEMBANDIT_SECONDARY_NAME": "Dinamit Atışı",
-        "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "dinamit fırlat #sn sonra çöz",
-        "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Yazı-tura",
-        "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "ne yaptığını biliyorsun",
-        "SS2_NEMBANDIT_SPECIAL_NAME": "sıçramak",
-        "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "<style=cIsDamage>6x%100 hasar</style> için bir av tüfeği patlaması yapın. <style=cIsUtility>'yi öldürürseniz tüm bekleme sürelerinizi sıfırlar.</style>"
-    }
+  "strings": {
+    "SS2_NEMBANDIT_NAME": "Düşman Haydut",
+    "SS2_NEMBANDIT_SUBTITLE": "Karartılmış Kanun Kaçağı",
+    "SS2_NEMBANDIT_DESCRIPTION": "The Nemesis Bandit carefully positions himself via camouflage technology to wrangle foes and cull crowds. \n\n<color=#CCD3E0>< ! > Show no mercy.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMBANDIT_OUTRO_FLAVOR": "..ve böylece hiçbir pişmanlık duymadan gitti.",
+    "SS2_NEMBANDIT_OUTRO_FAILURE": "..ve böylece geri döndü, sonunda şansı yaver gitti.",
+    "SS2_NEMBANDIT_LORE": "evet",
+    "SS2_NEMBANDIT_PRIMARY_NAME": "Silahşör",
+    "SS2_NEMBANDIT_PRIMARY_DESCRIPTION": "<style=cIsDamage>%220 hasar için bir tabanca atışı yapın</style>. 6 mermiye kadar tutabilir.",
+    "SS2_NEMBANDIT_SECONDARY_NAME": "Dinamit Atışı",
+    "SS2_NEMBANDIT_SECONDARY_DESCRIPTION": "dinamit fırlat #sn sonra çöz",
+    "SS2_NEMBANDIT_SECONDARY_ALT_NAME": "Yazı-tura",
+    "SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION": "ne yaptığını biliyorsun",
+    "SS2_NEMBANDIT_SPECIAL_NAME": "sıçramak",
+    "SS2_NEMBANDIT_SPECIAL_DESCRIPTION": "<style=cIsDamage>6x%100 hasar</style> için bir av tüfeği patlaması yapın. <style=cIsUtility>'yi öldürürseniz tüm bekleme sürelerinizi sıfırlar.</style>"
+  }
 }

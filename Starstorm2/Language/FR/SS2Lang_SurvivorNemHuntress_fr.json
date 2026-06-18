@@ -1,20 +1,20 @@
 {
-    "strings": {
-        "SS2_NEMHUNTRESS2_BODY_NAME": "Chasseresse Némésis",
-        "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Traqueuse rusée",
-        "SS2_NEMHUNTRESS2_DESCRIPTION": "La Chasseresse Némésis engage le combat contre les ennemis lentement mais impitoyablement avec son arc long mortel et sa hachette à double tranchant.\n\n<color=#CCD3E0>< ! > La mort ne se craint pas elle-même.",
-        "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..et ainsi ils partirent, trouvant un nouveau foyer loin.",
-        "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..et ainsi ils disparurent, .",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Viseur de combat",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Surlignez les <style=cIsDamage>Points faibles</style> en combat, qui peuvent être touchés avec toutes les flèches pour <style=cIsDamage>1,5x de dégâts</style>.",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Carreau lourd",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Maintenez pour <style=cIsUtility>charger</style>, puis relâchez pour tirer une flèche pour jusqu'à <style=cIsDamage>400% de dégâts</style>. La <style=cIsUtility>vélocité</style>, les <style=cIsDamage>dégâts</style> et la <style=cIsUtility>précision</style> de la flèche augmentent avec le niveau de charge.",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Hachette laser",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Balancez et lancez une hachette boomerang perforante pour <style=cIsDamage>240% de dégâts</style>. Touche <style=cIsDamage>5 fois par seconde</style> en l'air.",
-        "SS2_KEYWORD_REARM": "<style=cKeywordName>Réarmement</style><style=cSub>Ajoute 2 projectiles supplémentaires à la prochaine utilisation de l'attaque principale, jusqu'à un maximum de 7.",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Saut de phase",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Réarmement</style>. <style=cIsUtility>Disparaissez</style> et <style=cIsUtility>téléportez</style>-vous sur une courte distance. Peut stocker jusqu'à <style=cIsUtility>3</style> charges.",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Carreau explosif",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Échangez la flèche de votre prochaine <style=cIsDamage>attaque principale</style> avec une flèche <style=cIsDamage>étourdissante</style> qui explose peu après l'impact pour <style=cIsDamage>400% de dégâts</style>."
-    }
+  "strings": {
+    "SS2_NEMHUNTRESS2_BODY_NAME": "Chasseresse Némésis",
+    "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "Traqueuse rusée",
+    "SS2_NEMHUNTRESS2_DESCRIPTION": "La Chasseresse Némésis engage le combat contre les ennemis lentement mais impitoyablement avec son arc long mortel et sa hachette à double tranchant.\n\n<color=#CCD3E0>< ! > La mort ne se craint pas elle-même.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "..et ainsi ils partirent, trouvant un nouveau foyer loin.",
+    "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "..et ainsi ils disparurent, .",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "Viseur de combat",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "Surlignez les <style=cIsDamage>Points faibles</style> en combat, qui peuvent être touchés avec toutes les flèches pour <style=cIsDamage>1,5x de dégâts</style>.",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "Carreau lourd",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>Agile</style>. Maintenez pour <style=cIsUtility>charger</style>, puis relâchez pour tirer une flèche pour jusqu'à <style=cIsDamage>400% de dégâts</style>. La <style=cIsUtility>vélocité</style>, les <style=cIsDamage>dégâts</style> et la <style=cIsUtility>précision</style> de la flèche augmentent avec le niveau de charge.",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "Hachette laser",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "Balancez et lancez une hachette boomerang perforante pour <style=cIsDamage>240% de dégâts</style>. Touche <style=cIsDamage>5 fois par seconde</style> en l'air.",
+    "SS2_KEYWORD_REARM": "<style=cKeywordName>Réarmement</style><style=cSub>Ajoute 2 projectiles supplémentaires à la prochaine utilisation de l'attaque principale, jusqu'à un maximum de 7.",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "Saut de phase",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>Agile</style>. <style=cIsDamage>Réarmement</style>. <style=cIsUtility>Disparaissez</style> et <style=cIsUtility>téléportez</style>-vous sur une courte distance. Peut stocker jusqu'à <style=cIsUtility>3</style> charges.",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "Carreau explosif",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "Échangez la flèche de votre prochaine <style=cIsDamage>attaque principale</style> avec une flèche <style=cIsDamage>étourdissante</style> qui explose peu après l'impact pour <style=cIsDamage>400% de dégâts</style>."
+  }
 }

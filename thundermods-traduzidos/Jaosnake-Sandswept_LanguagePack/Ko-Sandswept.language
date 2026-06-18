@@ -120,7 +120,7 @@
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_PICKUP": "다음 공격을 막아낼 방패를 생성합니다. 패리에 성공하면 공격자와 근처의 적에게 충격을 주고 피해를 입힙니다.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_DESCRIPTION": "다음 공격을 <style=cIsHealing>패리</style>하는 <style=cIsHealing>방패</style>를 생성합니다. 성공적으로 패리하면 <style=cIsDamage>충격</style>가 발생하고 공격자와 주변 적에게 2000% <style=cIsDamage>damage</style> 피해를 입힙니다.",
         "EQUIPMENT_SANDSWEPT_GALVANIC_CELL_SHIELD_LORE": "결함이 있는 장비에 대한 기록입니다. 고장률이 30%인 갈바닉 쉴드 배치에 대한 선장과 기술자 간의 대화입니다.",
-        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "모래 스위퍼",
+        "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_NAME": "The Sand Sweeper",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_PICKUP": "주변의 모래를 쓸어냅니다.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_DESCRIPTION": "20m 반경 내의 모든 적을 밀어내어 거리에 따라 최대 500% <style=cIsDamage>damage</style> 및 <style=cIsUtility>stunning</style>를 최대 6초 동안 처리합니다.",
         "EQUIPMENT_SANDSWEPT_THE_SAND_SWEEPER_LORE": "빗자루와 엘리야라는 도망자에 관해 UESC 장교와 존경의 전당 관리인 사이의 심문 기록입니다.",

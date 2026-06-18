@@ -1,6 +1,6 @@
 {
     "tr": {
-        "KENKO_UNFORGIVEN_NAME": "Avare",
+        "KENKO_UNFORGIVEN_NAME": "Wanderer",
         "KENKO_UNFORGIVEN_DESCRIPTION": "Wanderer, animasyon iptallerini kullanarak DPS'ini yüksek tutabilen düşük beceri tabanı yüksek beceri tavanı olan bir kurtulandır.<color=#CCD3E0>",
         "KENKO_UNFORGIVEN_SUBTITLE": "Affedilmeyen",
         "KENKO_UNFORGIVEN_LORE": "Yasuo'ya karşı ölürsen, alt edilmişsindir. Bu, senin bekleme sürelerini ve kendininkileri, her iki ormancının konumunu, minyon dalgalarını ve koridorun genel 'hissini' (sadece 'oyunculuk' dediğin şeyin yıllar, belki on yıllar boyunca bilenmesi gereken bir yetenek) hesaba katarak, dövüşü tam olarak kendi şartlarına göre hesaplaması (ve uygulaması) gerektiği anlamına gelir. Gerçekten de, Yasuo tarafından yenilmek, hem bir oyuncu hem de bir insan olarak senden üstün olanı bulduğunu fark etmektir. Cesaretin seni yarı yolda bıraktı, ama Yasuo oyuncusu sağlam çeliktir -sert, soğuk, güvenilir- ve o ilk kanı alıp sen endişeyle teslim oylamasını beklerken, zihni hala tam kapasiteyle, neredeyse sonsuz sayıda olasılık için stratejiler hazırlamaktadır. LP'imi şimdi alıyorum, bir dahaki sefere yasaklamalarını düzgün yap.",
@@ -20,6 +20,6 @@
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "İlk Nefes",
         "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Hedeflenen veya yakındaki <style=cIsUtility>havadaki</style> bir düşmana ışınlan ve hızla saldırarak <style=cIsDamage>2x%250 + %800 hasar</style> ver. 6 saniyeliğine bonus <style=cIsDamage>zırh delme</style> kazan.\n<color=#d299ff>SCEPTER: <style=cIsUtility>İkincil becerinin bekleme süresini sıfırla</style>. <color=#FFBF66>First Breath</color> tarafından vurulan düşmanlar <color=#FFBF66>Sweeping Blade</color> tarafından tekrar hedeflenebilir.</color>",
         "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Gezgin olarak oyunu bitirin veya Muson'u yok edin."
+        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "As Wanderer, beat the game or obliterate on Monsoon."
     }
 }

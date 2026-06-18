@@ -1,6 +1,6 @@
 {
-    "strings": {
-        "SS2_DUT_NAME": "DU-T(SS2测试版。非常粗糙的原型)",
-        "SS2_DUT_DESCRIPTION": "说真的,这是DU-T的早期粗糙原型,请作为新鲜事物享受,但它有很多BUG。"
-    }
+  "strings": {
+    "SS2_DUT_NAME": "DU-T(SS2测试版。非常粗糙的原型)",
+    "SS2_DUT_DESCRIPTION": "说真的,这是DU-T的早期粗糙原型,请作为新鲜事物享受,但它有很多BUG。\n\nThis mod was translated by: Jaosnake"
+  }
 }

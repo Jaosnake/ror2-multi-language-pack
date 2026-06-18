@@ -21,6 +21,6 @@
         "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "<style=cIsUtility>MAID</style> 유닛을 <style=cIsDamage>300% 데미지</style>로 적을 뚫고 지나가게 한 후 잠시 멈추고 돌아오십시오. 다시 활성화하면 <style=cIsUtility>MAID</style>를 향해 감아올라 <style=cIsDamage>500% 데미지</style>로 폭발하여 <style=cIsUtility>Weightless</style>를 적용합니다.",
         "CLOUDBURST_WYATT_CLASSIC_SKIN": "권위 있는",
         "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Mastery",
-        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "관리자로서 게임을 승리하거나 몬순에서 말살하세요."
+        "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "As Custodian, beat the game or obliterate on Monsoon."
     }
 }

@@ -1,20 +1,20 @@
 {
-    "strings": {
-        "SS2_NEMHUNTRESS2_BODY_NAME": "네메시스 헌트리스",
-        "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "교활한 스토커",
-        "SS2_NEMHUNTRESS2_DESCRIPTION": "네메시스 헌트리스는 치명적인 장궁과 양날 도끼로 적을 천천히 그러나 무자비하게 상대합니다.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.",
-        "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "...그리하여 그들은 떠났다, 머나먼 곳에 새 둥지를 찾아서.",
-        "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "...그리하여 그들은 사라졌다, .",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "전투용 바이저",
-        "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "전투 중 <style=cIsDamage>약점</style>이 강조 표시되며, 모든 화살로 명중 시 <style=cIsDamage>1.5배의 피해</style>를 줍니다.",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "헤비 볼트",
-        "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>민첩</style>. 길게 눌러 <style=cIsUtility>차지</style>한 후 발사하여 최대 <style=cIsDamage>400%의 피해</style>를 주는 화살을 발사합니다. 화살의 <style=cIsUtility>속도</style>, <style=cIsDamage>피해량</style>, <style=cIsUtility>정확도</style>는 충전 단계에 비례합니다.",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "레이저 해칫",
-        "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "부메랑처럼 돌아오는 관통형 손도끼를 휘둘러 던져 <style=cIsDamage>240%의 피해</style>를 줍니다. 공중에 있는 동안 <style=cIsDamage>초당 5회</style> 타격합니다.",
-        "SS2_KEYWORD_REARM": "<style=cKeywordName>재무장</style><style=cSub>다음 기본 공격 사용 시 발사체가 2개 추가되며, 최대 7개까지 증가합니다.",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "페이즈 블링크",
-        "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>민첩</style>. <style=cIsDamage>재무장</style>. <style=cIsUtility>사라진</style> 후 짧은 거리를 <style=cIsUtility>순간이동</style>합니다. 최대 <style=cIsUtility>3</style>회 충전 가능합니다.",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "폭발 볼트",
-        "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "다음 <style=cIsDamage>기본 공격</style>의 화살을 <style=cIsDamage>기절</style>시키는 화살로 교체하여, 명중 직후 폭발하며 <style=cIsDamage>400%의 피해</style>를 줍니다."
-    }
+  "strings": {
+    "SS2_NEMHUNTRESS2_BODY_NAME": "네메시스 헌트리스",
+    "SS2_NEMHUNTRESS2_BODY_SUBTITLE": "교활한 스토커",
+    "SS2_NEMHUNTRESS2_DESCRIPTION": "네메시스 헌트리스는 치명적인 장궁과 양날 도끼로 적을 천천히 그러나 무자비하게 상대합니다.\n\n<color=#CCD3E0>< ! > Death doesn't fear itself.\n\nThis mod was translated by: Jaosnake",
+    "SS2_NEMHUNTRESS2_OUTRO_FLAVOR": "...그리하여 그들은 떠났다, 머나먼 곳에 새 둥지를 찾아서.",
+    "SS2_NEMHUNTRESS2_OUTRO_FAILURE": "...그리하여 그들은 사라졌다, .",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_NAME": "전투용 바이저",
+    "SS2_NEMESIS_HUNTRESS_PASSIVE_DESC": "전투 중 <style=cIsDamage>약점</style>이 강조 표시되며, 모든 화살로 명중 시 <style=cIsDamage>1.5배의 피해</style>를 줍니다.",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME": "헤비 볼트",
+    "SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC": "<style=cIsUtility>민첩</style>. 길게 눌러 <style=cIsUtility>차지</style>한 후 발사하여 최대 <style=cIsDamage>400%의 피해</style>를 주는 화살을 발사합니다. 화살의 <style=cIsUtility>속도</style>, <style=cIsDamage>피해량</style>, <style=cIsUtility>정확도</style>는 충전 단계에 비례합니다.",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_NAME": "레이저 해칫",
+    "SS2_NEMESIS_HUNTRESS_SECONDARY_DESC": "부메랑처럼 돌아오는 관통형 손도끼를 휘둘러 던져 <style=cIsDamage>240%의 피해</style>를 줍니다. 공중에 있는 동안 <style=cIsDamage>초당 5회</style> 타격합니다.",
+    "SS2_KEYWORD_REARM": "<style=cKeywordName>재무장</style><style=cSub>다음 기본 공격 사용 시 발사체가 2개 추가되며, 최대 7개까지 증가합니다.",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_NAME": "페이즈 블링크",
+    "SS2_NEMESIS_HUNTRESS_UTILITY_DESC": "<style=cIsUtility>민첩</style>. <style=cIsDamage>재무장</style>. <style=cIsUtility>사라진</style> 후 짧은 거리를 <style=cIsUtility>순간이동</style>합니다. 최대 <style=cIsUtility>3</style>회 충전 가능합니다.",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME": "폭발 볼트",
+    "SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC": "다음 <style=cIsDamage>기본 공격</style>의 화살을 <style=cIsDamage>기절</style>시키는 화살로 교체하여, 명중 직후 폭발하며 <style=cIsDamage>400%의 피해</style>를 줍니다."
+  }
 }
