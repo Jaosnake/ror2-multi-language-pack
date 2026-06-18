@@ -1,4 +1,4 @@
-﻿{
+{
     "strings":  {
                     "PLAYER_KILLED_MESSAGE":  "\u003cstyle=cEvent\u003e{0} a \u0027{1}\u0027\u003c/color\u003e interficitur.",
                     "PLAYER_DIED_MESSAGE":  "\u003cstyle=cEvent\u003e{0} mortuus est.\u003c/color\u003e",
