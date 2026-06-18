@@ -65,6 +65,9 @@ public sealed class LanguagePlugin : BaseUnityPlugin
     {
         LanguageAPI.SetHooks();
 
+        ReloadPeleJsonFiles();
+        Logger.LogInfo("PELE JSONs carregados no startup (" + GetPeleTokenCount() + " tokens)");
+
         var pluginPath = BepInEx.Paths.PluginPath;
         LanguageAPI.EnableHotReload(pluginPath);
 
@@ -266,5 +269,37 @@ public sealed class LanguagePlugin : BaseUnityPlugin
         var asm = Assembly.GetExecutingAssembly();
         return asm.GetManifestResourceStream("R2API.Language." + resourceName)
             ?? asm.GetManifestResourceStream("PELE." + resourceName);
+    }
+
+    private static int GetPeleTokenCount()
+    {
+        try
+        {
+            var peleDir = System.IO.Path.Combine(BepInEx.Paths.PluginPath, "PELE", "Language");
+            if (!Directory.Exists(peleDir)) return 0;
+
+            int total = 0;
+            foreach (var langDir in Directory.GetDirectories(peleDir))
+            {
+                var langCode = System.IO.Path.GetFileName(langDir);
+                if (string.IsNullOrEmpty(langCode)) continue;
+
+                foreach (var jsonFile in Directory.GetFiles(langDir, "*.json"))
+                {
+                    var content = File.ReadAllText(jsonFile);
+                    var json = SimpleJSON.JSON.Parse(content);
+                    if (json == null) continue;
+
+                    foreach (var key in json.Keys)
+                    {
+                        var val = json[key].Value;
+                        if (val != null)
+                            total++;
+                    }
+                }
+            }
+            return total;
+        }
+        catch { return 0; }
     }
 }
