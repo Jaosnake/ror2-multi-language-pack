@@ -64,7 +64,15 @@ public static partial class LanguageAPI
     private static void LoadLanguageFilesFromPluginFolder()
     {
         foreach (var path in Directory.GetFiles(Paths.PluginPath, "*.language", SearchOption.AllDirectories))
+        {
+            var dirName = System.IO.Path.GetDirectoryName(path);
+            if (dirName != null && dirName.Contains("Jaosnake-"))
+            {
+                Log?.LogDebug("Skipado (paco Jaosnake): " + System.IO.Path.GetFileName(dirName));
+                continue;
+            }
             AddPath(path);
+        }
     }
 
     internal static void UnsetHooks()
