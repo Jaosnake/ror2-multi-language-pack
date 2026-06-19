@@ -25,6 +25,8 @@ public sealed class LanguagePlugin : BaseUnityPlugin
     private static readonly string[] CustomLangs = { "la", "eo", "uk" };
     private static readonly string[] CultureFallbackLangs = { "la", "eo" };
     private static TMP_FontAsset _cachedFont;
+    private static AssetBundle _cachedFontBundle;
+    private static TMP_FontAsset _vanillaDefaultFont;
 
     private Harmony _harmony;
     private Action<List<string>> _collectLanguageRootFoldersHandler;
@@ -319,9 +321,11 @@ public sealed class LanguagePlugin : BaseUnityPlugin
     [HarmonyPatch(typeof(HGTextMeshProUGUI), "OnCurrentLanguageChanged")]
     private static void OnLanguageChanged()
     {
+        _vanillaDefaultFont ??= HGTextMeshProUGUI.defaultLanguageFont;
+
         var customFont = GetCustomFontForCurrentLanguage();
-        if (customFont != null)
-            HGTextMeshProUGUI.defaultLanguageFont = customFont;
+        HGTextMeshProUGUI.defaultLanguageFont = customFont ?? _vanillaDefaultFont;
+        ApplyCurrentFontToActiveText();
     }
 
     private static TMP_FontAsset GetCustomFontForCurrentLanguage()
@@ -338,21 +342,58 @@ public sealed class LanguagePlugin : BaseUnityPlugin
 
         try
         {
-            var stream = TryGetResourceStream(resourceName);
-            if (stream == null) return null;
-
-            using (stream)
+            if (_cachedFontBundle == null)
             {
-                var bundle = AssetBundle.LoadFromStream(stream);
-                if (bundle == null) return null;
-                var font = bundle.LoadAsset<TMP_FontAsset>("Assets/PELE-Font.asset");
-                if (font != null) _cachedFont = font;
-                return font;
+                var stream = TryGetResourceStream(resourceName);
+                if (stream == null)
+                {
+                    Logger?.LogWarning("TryLoadFont: recurso embutido nao encontrado: " + resourceName);
+                    return null;
+                }
+
+                using (stream)
+                    _cachedFontBundle = AssetBundle.LoadFromStream(stream);
+
+                if (_cachedFontBundle == null)
+                {
+                    Logger?.LogWarning("TryLoadFont: AssetBundle retornou null: " + resourceName);
+                    return null;
+                }
             }
+
+            var font = _cachedFontBundle.LoadAsset<TMP_FontAsset>("Assets/PELE-Font.asset")
+                ?? _cachedFontBundle.LoadAsset<TMP_FontAsset>("PELE-Font")
+                ?? _cachedFontBundle.LoadAsset<TMP_FontAsset>("ukrainianfont")
+                ?? _cachedFontBundle.LoadAllAssets<TMP_FontAsset>().FirstOrDefault();
+
+            if (font == null)
+            {
+                Logger?.LogWarning("TryLoadFont: TMP_FontAsset nao encontrado no bundle '" + resourceName + "'");
+                return null;
+            }
+
+            _cachedFont = font;
+            Logger?.LogInfo("Fonte ucraniana carregada: " + font.name);
+            return _cachedFont;
         }
-        catch
+        catch (Exception ex)
         {
+            Logger?.LogWarning("TryLoadFont falhou: " + ex.Message);
             return null;
+        }
+    }
+
+    private static void ApplyCurrentFontToActiveText()
+    {
+        var font = HGTextMeshProUGUI.defaultLanguageFont;
+        if (font == null) return;
+
+        foreach (var text in Resources.FindObjectsOfTypeAll<HGTextMeshProUGUI>())
+        {
+            if (text == null) continue;
+            if (!text.gameObject.scene.IsValid()) continue;
+            text.font = font;
+            text.SetAllDirty();
         }
     }
 

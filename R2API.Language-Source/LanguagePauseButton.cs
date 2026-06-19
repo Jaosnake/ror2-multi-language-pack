@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using RoR2;
 using RoR2.UI;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
@@ -78,6 +79,12 @@ internal static class LanguagePauseButton
         }
         try
         {
+            if (Language.LanguageConVar.instance != null)
+            {
+                Language.LanguageConVar.instance.SetString(lang);
+                return;
+            }
+
             _setCurrentLanguageMethod.Invoke(null, new object[] { lang });
         }
         catch (Exception ex)
@@ -93,14 +100,16 @@ internal static class LanguagePauseButton
     {
         LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Select Language");
         LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC",
-            "Choose a language below. The change applies immediately.\n\n" +
-            "[A / Enter] Select    [B / Esc] Cancel");
+            "Choose a language below. The change applies immediately.");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Cancel");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Apply");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Cancel");
 
         var languages = LanguageNames.GetAvailableLanguages();
         foreach (var lang in languages)
             LanguageAPI.AddOrUpdateToken($"LANG_SEL_{lang}", LanguageNames.GetFriendlyName(lang));
 
-        var dialog = SimpleDialogBox.Create();
+        var dialog = SimpleDialogBox.Create(EventSystem.current as MPEventSystem);
         if (dialog == null) return;
 
         dialog.headerToken      = new SimpleDialogBox.TokenParamsPair { token = "SWITCH_LANGUAGE_TITLE" };
@@ -112,11 +121,14 @@ internal static class LanguagePauseButton
             dialog.AddActionButton(() =>
             {
                 SetLanguage(captured);
-                Object.Destroy(dialog.gameObject);
-            }, $"LANG_SEL_{lang}");
+            }, $"LANG_SEL_{lang}", destroyDialog: true);
         }
 
-        dialog.gameObject.AddComponent<LanguageDialogCloseWatcher>();
+        dialog.AddCancelButton("SWITCH_LANGUAGE_CANCEL");
+
+        var watcherHost = dialog.rootObject != null ? dialog.rootObject : dialog.gameObject;
+        var watcher = watcherHost.AddComponent<LanguageDialogCloseWatcher>();
+        watcher.dialog = dialog;
 
         var mb = pause.GetComponent<MonoBehaviour>();
         if (mb != null)
@@ -128,13 +140,8 @@ internal static class LanguagePauseButton
     private class LanguageDialogCloseWatcher : MonoBehaviour
     {
         private float _delay = 0.4f;
-        private SimpleDialogBox _dialog;
+        public SimpleDialogBox dialog;
         private bool _closing;
-
-        void Start()
-        {
-            _dialog = GetComponent<SimpleDialogBox>();
-        }
 
         void Update()
         {
@@ -146,10 +153,16 @@ internal static class LanguagePauseButton
                 Input.GetKeyDown(KeyCode.JoystickButton1))
             {
                 _closing = true;
-                if (_dialog != null)
-                    Object.Destroy(_dialog.gameObject);
+                CloseDialog(dialog);
             }
         }
+    }
+
+    private static void CloseDialog(SimpleDialogBox dialog)
+    {
+        if (dialog == null) return;
+        var target = dialog.rootObject != null ? dialog.rootObject : dialog.gameObject;
+        Object.Destroy(target);
     }
 
     private static IEnumerator DelayedGridLayout(SimpleDialogBox dialog)
@@ -189,6 +202,7 @@ internal static class LanguagePauseButton
 
             LayoutRebuilder.ForceRebuildLayoutImmediate(container);
             WrapGridNavigation(container);
+            AddInputLegend(dialog);
 
             LanguagePlugin.Logger?.LogInfo($"ApplyGridLayout: grid aplicado com {container.childCount} botoes");
         }
@@ -229,5 +243,70 @@ internal static class LanguagePauseButton
 
             buttons[i].navigation = nav;
         }
+    }
+
+    private static void AddInputLegend(SimpleDialogBox dialog)
+    {
+        if (dialog?.buttonContainer == null) return;
+
+        var parent = dialog.buttonContainer.parent as RectTransform;
+        if (parent == null) return;
+        if (parent.Find("PELELanguageInputLegend") != null) return;
+
+        var legend = new GameObject("PELELanguageInputLegend", typeof(RectTransform), typeof(HorizontalLayoutGroup));
+        var legendRect = legend.GetComponent<RectTransform>();
+        legendRect.SetParent(parent, false);
+        legendRect.anchorMin = new Vector2(1f, 0f);
+        legendRect.anchorMax = new Vector2(1f, 0f);
+        legendRect.pivot = new Vector2(1f, 0f);
+        legendRect.anchoredPosition = new Vector2(-8f, 8f);
+        legendRect.sizeDelta = new Vector2(260f, 34f);
+
+        var layout = legend.GetComponent<HorizontalLayoutGroup>();
+        layout.spacing = 12f;
+        layout.childForceExpandHeight = false;
+        layout.childForceExpandWidth = false;
+
+        AddLegendItem(legendRect, "UISubmit", "SWITCH_LANGUAGE_APPLY_HINT");
+        AddLegendItem(legendRect, "UICancel", "SWITCH_LANGUAGE_CANCEL_HINT");
+    }
+
+    private static void AddLegendItem(RectTransform parent, string actionName, string textToken)
+    {
+        var item = new GameObject(actionName + "Legend", typeof(RectTransform), typeof(HorizontalLayoutGroup));
+        var itemRect = item.GetComponent<RectTransform>();
+        itemRect.SetParent(parent, false);
+        itemRect.sizeDelta = new Vector2(120f, 30f);
+
+        var layout = item.GetComponent<HorizontalLayoutGroup>();
+        layout.spacing = 5f;
+        layout.childForceExpandHeight = false;
+        layout.childForceExpandWidth = false;
+
+        var glyphObject = new GameObject("Glyph", typeof(RectTransform), typeof(HGTextMeshProUGUI));
+        var glyphRect = glyphObject.GetComponent<RectTransform>();
+        glyphRect.SetParent(itemRect, false);
+        glyphRect.sizeDelta = new Vector2(28f, 28f);
+
+        var glyphText = glyphObject.GetComponent<HGTextMeshProUGUI>();
+        glyphText.fontSize = 18f;
+        glyphText.alignment = TextAlignmentOptions.Center;
+
+        var glyph = glyphObject.AddComponent<InputBindingDisplayController>();
+        glyph.actionName = actionName;
+        glyph.useExplicitInputSource = false;
+
+        var labelObject = new GameObject("Label", typeof(RectTransform), typeof(HGTextMeshProUGUI), typeof(LanguageTextMeshController));
+        var labelRect = labelObject.GetComponent<RectTransform>();
+        labelRect.SetParent(itemRect, false);
+        labelRect.sizeDelta = new Vector2(78f, 28f);
+
+        var labelText = labelObject.GetComponent<HGTextMeshProUGUI>();
+        labelText.fontSize = 14f;
+        labelText.alignment = TextAlignmentOptions.MidlineLeft;
+        labelText.enableWordWrapping = false;
+
+        var lang = labelObject.GetComponent<LanguageTextMeshController>();
+        lang.token = textToken;
     }
 }
