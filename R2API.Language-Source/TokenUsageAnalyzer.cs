@@ -8,24 +8,29 @@ namespace R2API;
 
 public class TokenUsageAnalyzer
 {
+    // Matches Language.GetLocalizedStringByToken("TOKEN") and GetLocalizedStringByToken("TOKEN").
+    private static readonly Regex TokenRefRegex = new(
+        @"(?:Language\.)?GetLocalizedStringByToken\(""([^""]+)""\)",
+        RegexOptions.Compiled);
+
     public List<string> FindUnusedTokens(string directory)
     {
-        var defined = GetAllTokenNames(directory);
-        var used = GetTokensReferencedInCode(directory);
+        var defined  = GetAllTokenNames(directory);
+        var used     = GetTokensReferencedInCode(directory);
         return defined.Except(used, StringComparer.OrdinalIgnoreCase).ToList();
     }
 
     public List<string> FindBrokenReferences(string directory)
     {
         var defined = GetAllTokenNames(directory);
-        var used = GetTokensReferencedInCode(directory);
+        var used    = GetTokensReferencedInCode(directory);
         return used.Except(defined, StringComparer.OrdinalIgnoreCase).ToList();
     }
 
     public Dictionary<string, int> GetTokenUsageStats(string directory)
     {
         var defined = GetAllTokenNames(directory);
-        var stats = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+        var stats   = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
         foreach (var t in defined) stats[t] = 0;
 
         foreach (var file in LanguageFileHelper.GetCodeFiles(directory))
@@ -48,15 +53,20 @@ public class TokenUsageAnalyzer
     private HashSet<string> GetAllTokenNames(string directory)
     {
         var tokens = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        string[] files;
+        try { files = LanguageFileHelper.GetLanguageFiles(directory); }
+        catch { return tokens; }
 
-        foreach (var file in LanguageFileHelper.GetLanguageFiles(directory))
+        foreach (var file in files)
         {
-            var parsed = LanguageFileHelper.ParseTokensFromFile(file);
-            foreach (var langKvp in parsed)
+            try
             {
-                foreach (var tokenName in langKvp.Value.Keys)
-                    tokens.Add(tokenName);
+                var parsed = LanguageFileHelper.ParseTokensFromFile(file);
+                foreach (var langKvp in parsed)
+                    foreach (var tokenName in langKvp.Value.Keys)
+                        tokens.Add(tokenName);
             }
+            catch { }
         }
 
         return tokens;
@@ -71,8 +81,7 @@ public class TokenUsageAnalyzer
             try
             {
                 var content = File.ReadAllText(file);
-                var matches = Regex.Matches(content, @"Language\.GetLocalizedStringByToken\(""([^""]+)""\)");
-                foreach (Match m in matches)
+                foreach (Match m in TokenRefRegex.Matches(content))
                     if (m.Groups.Count > 1)
                         referenced.Add(m.Groups[1].Value);
             }

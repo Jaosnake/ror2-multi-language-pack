@@ -9,7 +9,7 @@ public class ModInstallationWizard
     public void CreateModStructure(string modPath)
     {
         if (string.IsNullOrWhiteSpace(modPath))
-            throw new ArgumentException("Caminho inválido");
+            throw new ArgumentException("Caminho invalido", nameof(modPath));
 
         Directory.CreateDirectory(modPath);
 
@@ -24,20 +24,21 @@ public class ModInstallationWizard
         var langDir = Path.Combine(modPath, "Language");
         Directory.CreateDirectory(langDir);
 
-        var enPath = Path.Combine(langDir, "en-US.language");
-        if (!File.Exists(enPath))
-            File.WriteAllText(enPath, "EXAMPLE_TOKEN = \"Example text\"\n");
+        WriteIfAbsent(Path.Combine(langDir, "en.language"),
+            "EXAMPLE_TOKEN = \"Example text\"\n");
 
-        var ptPath = Path.Combine(langDir, "pt-BR.language");
-        if (!File.Exists(ptPath))
-            File.WriteAllText(ptPath, "EXAMPLE_TOKEN = \"Texto de exemplo\"\n");
+        WriteIfAbsent(Path.Combine(langDir, "pt-BR.language"),
+            "EXAMPLE_TOKEN = \"Texto de exemplo\"\n");
 
         Debug.Log($"[LanguageAPI] Arquivos de idioma criados em: {langDir}");
     }
 
     public void GenerateBasicLanguageFile(string modName, string modPath)
     {
-        var langDir = Path.Combine(modPath, "Language");
+        if (string.IsNullOrWhiteSpace(modName))
+            throw new ArgumentException("Nome do mod invalido", nameof(modName));
+
+        var langDir  = Path.Combine(modPath, "Language");
         Directory.CreateDirectory(langDir);
 
         var safeName = modName.Replace(" ", "_").ToUpperInvariant();
@@ -46,9 +47,15 @@ public class ModInstallationWizard
         File.WriteAllText(filePath,
 $@"// {modName}
 MOD_{safeName}_NAME = ""{modName}""
-MOD_{safeName}_DESCRIPTION = ""Descrição do {modName}""
+MOD_{safeName}_DESCRIPTION = ""Descricao do {modName}""
 ");
 
         Debug.Log($"[LanguageAPI] Arquivo gerado: {filePath}");
+    }
+
+    private static void WriteIfAbsent(string path, string content)
+    {
+        if (!File.Exists(path))
+            File.WriteAllText(path, content);
     }
 }

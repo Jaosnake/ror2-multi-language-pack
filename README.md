@@ -427,6 +427,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Additional mod translations | Multiple mods | `mods/` | One folder per mod |
 | Heretic Language Pack | Moffein-Heretic | `thundermods-traduzidos/Jaosnake-Heretic_LanguagePack/` | R2API.Language token pack |
 | PELE Language Enabler | Jaosnake-PELE | `PELE/` | Native la/eo/uk language enabler (BepInEx plugin) |
+| PELE R2API.Language fork | RiskofThunder-R2API_Language | `R2API.Language-Source/` | Source for the tested PELE-aware loader and hot reload fork |
 
 ## 🧩 Mods In `mods/`
 
@@ -538,6 +539,12 @@ ror2-multi-language-pack/
 │     ├─ la/
 │     ├─ eo/
 │     └─ uk/
+├─ R2API.Language-Source/
+│  ├─ README.md
+│  ├─ R2API.Language.csproj
+│  └─ *.cs
+├─ _build/
+│  └─ R2API.Language.dll
 ├─ mods/
 │  └─ <one folder per translated mod, copy into BepInEx/plugins>
 ├─ thundermods-traduzidos/

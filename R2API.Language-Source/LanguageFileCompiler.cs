@@ -16,7 +16,7 @@ public class LanguageFileCompiler
         if (!Directory.Exists(outputDir))
             Directory.CreateDirectory(outputDir);
 
-        var files = LanguageFileHelper.GetLanguageFiles(sourceDir);
+        var files  = LanguageFileHelper.GetLanguageFiles(sourceDir);
         var errors = new List<string>();
 
         foreach (var file in files)
@@ -24,9 +24,9 @@ public class LanguageFileCompiler
             try
             {
                 var compiled = CompileFile(file);
-                var relPath = Path.GetRelativePath(sourceDir, file);
-                var outPath = Path.Combine(outputDir, relPath + ".compiled");
-                var outDir = Path.GetDirectoryName(outPath);
+                var relPath  = Path.GetRelativePath(sourceDir, file);
+                var outPath  = Path.Combine(outputDir, relPath + ".compiled");
+                var outDir   = Path.GetDirectoryName(outPath);
 
                 if (!Directory.Exists(outDir))
                     Directory.CreateDirectory(outDir);
@@ -39,7 +39,7 @@ public class LanguageFileCompiler
             }
         }
 
-        if (errors.Any())
+        if (errors.Count > 0)
             throw new AggregateException("Erros na compilacao:", errors.Select(e => new Exception(e)));
     }
 
@@ -51,7 +51,6 @@ public class LanguageFileCompiler
         sb.AppendLine();
 
         var parsed = LanguageFileHelper.ParseTokensFromFile(filePath);
-
         foreach (var langKvp in parsed)
         {
             var language = langKvp.Key;

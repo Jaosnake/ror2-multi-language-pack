@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Timers;
+using System.Threading;
+using Timer = System.Timers.Timer;
 using UnityEngine;
 
 namespace R2API;
@@ -24,8 +25,11 @@ public class LanguageHotReload : IDisposable
     private FileSystemWatcher _jsonWatcher;
     private readonly Dictionary<string, DateTime> _lastModified = new();
     private readonly Queue<string> _pending = new();
-    private readonly object _lock = new();
+    private readonly object _pendingLock = new();
     private Timer _debounceTimer;
+
+    // Captured lazily on first use from the main Unity thread.
+    private SynchronizationContext _unityContext;
 
     public void Enable(string directory)
     {
@@ -35,6 +39,9 @@ public class LanguageHotReload : IDisposable
             Debug.LogError($"[LanguageAPI] Diretorio nao encontrado: {directory}");
             return;
         }
+
+        // Capture Unity sync context here — called from OnEnable which runs on the main thread.
+        _unityContext = SynchronizationContext.Current;
 
         WatchDirectory = directory;
 
@@ -46,7 +53,6 @@ public class LanguageHotReload : IDisposable
                 IncludeSubdirectories = true,
                 NotifyFilter = NotifyFilters.LastWrite | NotifyFilters.FileName
             };
-
             _languageWatcher.Changed += OnChanged;
             _languageWatcher.Created += OnChanged;
             _languageWatcher.Deleted += OnChanged;
@@ -61,7 +67,6 @@ public class LanguageHotReload : IDisposable
                     IncludeSubdirectories = true,
                     NotifyFilter = NotifyFilters.LastWrite | NotifyFilters.FileName
                 };
-
                 _jsonWatcher.Changed += OnChanged;
                 _jsonWatcher.Created += OnChanged;
                 _jsonWatcher.Deleted += OnChanged;
@@ -81,8 +86,11 @@ public class LanguageHotReload : IDisposable
 
     public void Disable()
     {
+        IsEnabled = false; // Set first so ProcessPending bails out quickly if racing.
+
         if (_languageWatcher != null)
         {
+            _languageWatcher.EnableRaisingEvents = false;
             _languageWatcher.Changed -= OnChanged;
             _languageWatcher.Created -= OnChanged;
             _languageWatcher.Deleted -= OnChanged;
@@ -92,6 +100,7 @@ public class LanguageHotReload : IDisposable
 
         if (_jsonWatcher != null)
         {
+            _jsonWatcher.EnableRaisingEvents = false;
             _jsonWatcher.Changed -= OnChanged;
             _jsonWatcher.Created -= OnChanged;
             _jsonWatcher.Deleted -= OnChanged;
@@ -103,19 +112,18 @@ public class LanguageHotReload : IDisposable
         _debounceTimer?.Dispose();
         _debounceTimer = null;
 
-        lock (_lock)
+        lock (_pendingLock)
         {
             _pending.Clear();
             _lastModified.Clear();
         }
-        IsEnabled = false;
     }
 
     public void Dispose() => Disable();
 
     private void OnChanged(object sender, FileSystemEventArgs e)
     {
-        lock (_lock)
+        lock (_pendingLock)
         {
             try
             {
@@ -126,6 +134,7 @@ public class LanguageHotReload : IDisposable
             }
             catch
             {
+                // File may be locked/deleted mid-event; skip it.
                 return;
             }
 
@@ -140,43 +149,47 @@ public class LanguageHotReload : IDisposable
     private void ProcessPending()
     {
         if (!IsEnabled) return;
+
         List<string> files;
-        lock (_lock)
+        lock (_pendingLock)
         {
             files = new List<string>(_pending);
             _pending.Clear();
         }
 
-        OnBeforeReload?.Invoke();
+        if (files.Count == 0) return;
 
-        LanguageAPI.ClearAllTokens();
-
-        var count = 0;
-        var allFiles = LanguageFileHelper.GetLanguageFiles(WatchDirectory);
-        foreach (var file in allFiles)
+        // Fire OnBeforeReload BEFORE modifying any token state.
+        void FireEvents()
         {
-            try
+            try { OnBeforeReload?.Invoke(); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnBeforeReload: " + ex.Message); }
+
+            LanguageAPI.ClearAllTokens();
+
+            var allFiles = LanguageFileHelper.GetLanguageFiles(WatchDirectory);
+            foreach (var file in allFiles)
             {
-                var langTokens = LanguageFileHelper.ParseTokensFromFile(file);
-                foreach (var kvp in langTokens)
+                try
                 {
-                    var language = kvp.Key;
-                    foreach (var token in kvp.Value)
-                    {
-                        LanguageAPI.AddOrUpdateToken(token.Key, token.Value, language);
-                        OnTokenReloaded?.Invoke(token.Key, token.Value);
-                        count++;
-                    }
+                    var langTokens = LanguageFileHelper.ParseTokensFromFile(file);
+                    foreach (var kvp in langTokens)
+                        foreach (var token in kvp.Value)
+                            LanguageAPI.AddOrUpdateToken(token.Key, token.Value, kvp.Key);
                 }
-                OnFileReloaded?.Invoke(file);
+                catch (Exception ex)
+                {
+                    Debug.LogError($"[LanguageAPI] Erro ao recarregar {file}: {ex.Message}");
+                }
             }
-            catch (Exception ex)
-            {
-                Debug.LogError($"[LanguageAPI] Erro ao recarregar {file}: {ex.Message}");
-            }
+
+            try { OnAfterReload?.Invoke(); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnAfterReload: " + ex.Message); }
+            try { OnBatchReloaded?.Invoke(files); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnBatchReloaded: " + ex.Message); }
         }
 
-        OnBatchReloaded?.Invoke(allFiles);
-        OnAfterReload?.Invoke();
+        var ctx = _unityContext;
+        if (ctx != null)
+            ctx.Post(_ => FireEvents(), null);
+        else
+            FireEvents();
     }
 }

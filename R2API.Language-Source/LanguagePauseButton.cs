@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection;
 using System.Collections;
 using System.Collections.Generic;
@@ -15,10 +15,17 @@ internal static class LanguagePauseButton
 {
     private static bool _hooksActive;
 
+    // Cache SetCurrentLanguage reflection once.
+    private static MethodInfo _setCurrentLanguageMethod;
+
     internal static void Init()
     {
         if (_hooksActive) return;
         _hooksActive = true;
+
+        _setCurrentLanguageMethod = typeof(Language).GetMethod("SetCurrentLanguage",
+            BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.Public);
+
         On.RoR2.UI.PauseScreenController.Awake += OnPauseAwake;
     }
 
@@ -43,8 +50,9 @@ internal static class LanguagePauseButton
             var newButton = Object.Instantiate(firstButton, panel.GetChild(0));
             newButton.name = "LanguageSwitcherButton";
 
-            var ctrl = newButton.GetComponentInChildren<RoR2.UI.LanguageTextMeshController>();
+            var ctrl = newButton.GetComponentInChildren<LanguageTextMeshController>();
             if (ctrl != null) Object.DestroyImmediate(ctrl);
+
             var oldText = newButton.GetComponentInChildren<HGTextMeshProUGUI>();
             if (oldText != null)
                 oldText.text = "Language";
@@ -58,6 +66,26 @@ internal static class LanguagePauseButton
         catch (Exception ex)
         {
             LanguagePlugin.Logger?.LogError("Falha no botao de idiomas: " + ex.Message);
+        }
+    }
+
+    private static void SetLanguage(string lang)
+    {
+        if (_setCurrentLanguageMethod == null)
+        {
+            LanguagePlugin.Logger?.LogError("SetCurrentLanguage method not found via reflection");
+            return;
+        }
+        try
+        {
+            _setCurrentLanguageMethod.Invoke(null, new object[] { lang });
+        }
+        catch (Exception ex)
+        {
+            var msg = ex.InnerException?.Message ?? ex.Message;
+            var stack = ex.InnerException?.StackTrace ?? ex.StackTrace;
+            LanguagePlugin.Logger?.LogError("Falha ao trocar lingua para '" + lang + "': " + msg);
+            LanguagePlugin.Logger?.LogError("  Stack: " + stack);
         }
     }
 
@@ -75,7 +103,7 @@ internal static class LanguagePauseButton
         var dialog = SimpleDialogBox.Create();
         if (dialog == null) return;
 
-        dialog.headerToken = new SimpleDialogBox.TokenParamsPair { token = "SWITCH_LANGUAGE_TITLE" };
+        dialog.headerToken      = new SimpleDialogBox.TokenParamsPair { token = "SWITCH_LANGUAGE_TITLE" };
         dialog.descriptionToken = new SimpleDialogBox.TokenParamsPair { token = "SWITCH_LANGUAGE_DESC" };
 
         foreach (var lang in languages)
@@ -83,15 +111,7 @@ internal static class LanguagePauseButton
             var captured = lang;
             dialog.AddActionButton(() =>
             {
-                try
-                {
-                    var method = typeof(Language).GetMethod("SetCurrentLanguage", BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.Public);
-                    method?.Invoke(null, new object[] { captured });
-                }
-                catch (Exception ex)
-                {
-                    LanguagePlugin.Logger?.LogError("Falha ao trocar lingua: " + ex.Message);
-                }
+                SetLanguage(captured);
                 Object.Destroy(dialog.gameObject);
             }, $"LANG_SEL_{lang}");
         }
@@ -127,12 +147,7 @@ internal static class LanguagePauseButton
             {
                 _closing = true;
                 if (_dialog != null)
-                {
-                    var es = UnityEngine.EventSystems.EventSystem.current;
-                    if (es != null)
-                        es.SetSelectedGameObject(null);
                     Object.Destroy(_dialog.gameObject);
-                }
             }
         }
     }
@@ -161,20 +176,18 @@ internal static class LanguagePauseButton
             }
 
             var grid = container.gameObject.AddComponent<GridLayoutGroup>();
-            grid.constraint = GridLayoutGroup.Constraint.FixedColumnCount;
+            grid.constraint      = GridLayoutGroup.Constraint.FixedColumnCount;
             grid.constraintCount = 3;
-            grid.cellSize = new Vector2(200, 40);
-            grid.spacing = new Vector2(8, 6);
-            grid.startAxis = GridLayoutGroup.Axis.Horizontal;
+            grid.cellSize        = new Vector2(200, 40);
+            grid.spacing         = new Vector2(8, 6);
+            grid.startAxis       = GridLayoutGroup.Axis.Horizontal;
 
-            var csf = container.GetComponent<ContentSizeFitter>();
-            if (csf == null)
-                csf = container.gameObject.AddComponent<ContentSizeFitter>();
-            csf.verticalFit = ContentSizeFitter.FitMode.PreferredSize;
+            var csf = container.GetComponent<ContentSizeFitter>()
+                   ?? container.gameObject.AddComponent<ContentSizeFitter>();
+            csf.verticalFit   = ContentSizeFitter.FitMode.PreferredSize;
             csf.horizontalFit = ContentSizeFitter.FitMode.PreferredSize;
 
             LayoutRebuilder.ForceRebuildLayoutImmediate(container);
-
             WrapGridNavigation(container);
 
             LanguagePlugin.Logger?.LogInfo($"ApplyGridLayout: grid aplicado com {container.childCount} botoes");
@@ -195,21 +208,24 @@ internal static class LanguagePauseButton
 
         for (int i = 0; i < buttons.Length; i++)
         {
-            var nav = new Navigation();
-            nav.mode = Navigation.Mode.Explicit;
+            var nav = new Navigation { mode = Navigation.Mode.Explicit };
 
             int col = i % cols;
             int row = i / cols;
 
-            int left = col > 0 ? i - 1 : i + cols - 1;
+            int left  = col > 0 ? i - 1 : i + cols - 1;
             int right = col < cols - 1 ? i + 1 : i - col;
-            int up = row > 0 ? i - cols : (rows - 1) * cols + Mathf.Min(col, buttons.Length - (rows - 1) * cols - 1);
-            int down = row < rows - 1 ? Mathf.Min(i + cols, buttons.Length - 1) : col;
+            int up    = row > 0
+                ? i - cols
+                : (rows - 1) * cols + Mathf.Min(col, buttons.Length - (rows - 1) * cols - 1);
+            int down  = row < rows - 1
+                ? Mathf.Min(i + cols, buttons.Length - 1)
+                : col;
 
-            if (left >= 0 && left < buttons.Length) nav.selectOnLeft = buttons[left];
+            if (left  >= 0 && left  < buttons.Length) nav.selectOnLeft  = buttons[left];
             if (right >= 0 && right < buttons.Length) nav.selectOnRight = buttons[right];
-            if (up >= 0 && up < buttons.Length) nav.selectOnUp = buttons[up];
-            if (down >= 0 && down < buttons.Length) nav.selectOnDown = buttons[down];
+            if (up    >= 0 && up    < buttons.Length) nav.selectOnUp    = buttons[up];
+            if (down  >= 0 && down  < buttons.Length) nav.selectOnDown  = buttons[down];
 
             buttons[i].navigation = nav;
         }
