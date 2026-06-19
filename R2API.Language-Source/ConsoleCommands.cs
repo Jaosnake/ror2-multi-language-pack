@@ -22,7 +22,7 @@ internal static class ConsoleCommands
         On.RoR2.Console.InitConVarsCoroutine -= OnConsoleInit;
     }
 
-    private static System.Collections.IEnumerator OnConsoleInit(On.RoR2.Console.orig_InitConVarsCoroutine orig, RoR2.Console self)
+    private static IEnumerator OnConsoleInit(On.RoR2.Console.orig_InitConVarsCoroutine orig, RoR2.Console self)
     {
         yield return orig(self);
         RegisterCommands();
@@ -36,58 +36,71 @@ internal static class ConsoleCommands
         var console = RoR2.Console.instance;
         if (console == null) return;
 
-        var catalogField = typeof(RoR2.Console).GetField("concommandCatalog", BindingFlags.Instance | BindingFlags.NonPublic);
+        var catalogField = typeof(RoR2.Console).GetField("concommandCatalog",
+            BindingFlags.Instance | BindingFlags.NonPublic);
         if (catalogField == null)
         {
-            LanguagePlugin.Logger.LogWarning("concommandCatalog field not found via reflection");
+            LanguagePlugin.Logger?.LogWarning("concommandCatalog field not found via reflection");
             return;
         }
 
         var conCommandType = typeof(RoR2.Console).GetNestedType("ConCommand", BindingFlags.NonPublic);
         if (conCommandType == null)
         {
-            LanguagePlugin.Logger.LogWarning("ConCommand nested type not found");
+            LanguagePlugin.Logger?.LogWarning("ConCommand nested type not found");
             return;
         }
 
         var catalog = catalogField.GetValue(console) as System.Collections.IDictionary;
         if (catalog == null)
         {
-            LanguagePlugin.Logger.LogWarning("concommandCatalog is null");
+            LanguagePlugin.Logger?.LogWarning("concommandCatalog is null");
             return;
         }
 
-        var flagsField = conCommandType.GetField("flags");
+        var flagsField    = conCommandType.GetField("flags");
         var helpTextField = conCommandType.GetField("helpText");
-        var actionField = conCommandType.GetField("action", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+        var actionField   = conCommandType.GetField("action",
+            BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+
         if (actionField == null)
         {
-            LanguagePlugin.Logger.LogWarning("ConCommand.action field not found");
+            LanguagePlugin.Logger?.LogWarning("ConCommand.action field not found");
             return;
         }
-        var delegateType = actionField.FieldType;
 
-        var asm = Assembly.GetExecutingAssembly();
-        foreach (var type in asm.GetTypes())
+        var delegateType = actionField.FieldType;
+        int registered = 0;
+
+        foreach (var type in Assembly.GetExecutingAssembly().GetTypes())
         {
             foreach (var method in type.GetMethods(BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic))
             {
                 var attr = method.GetCustomAttribute<ConCommandAttribute>();
                 if (attr == null) continue;
 
-                var cmd = Activator.CreateInstance(conCommandType);
-                flagsField.SetValue(cmd, attr.flags);
-                helpTextField.SetValue(cmd, attr.helpText);
-                actionField.SetValue(cmd, Delegate.CreateDelegate(delegateType, method));
-
-                catalog[attr.commandName.ToLower()] = cmd;
+                try
+                {
+                    var cmd = Activator.CreateInstance(conCommandType);
+                    flagsField?.SetValue(cmd, attr.flags);
+                    helpTextField?.SetValue(cmd, attr.helpText);
+                    actionField.SetValue(cmd, Delegate.CreateDelegate(delegateType, method));
+                    catalog[attr.commandName.ToLower()] = cmd;
+                    registered++;
+                }
+                catch (Exception ex)
+                {
+                    LanguagePlugin.Logger?.LogWarning($"Falha ao registrar comando '{attr.commandName}': {ex.Message}");
+                }
             }
         }
 
-        LanguagePlugin.Logger.LogInfo("Console commands registered: /reloadlang, /langdebug, /langstatus");
+        if (registered > 0)
+            LanguagePlugin.Logger?.LogInfo($"Console commands registered ({registered}): /reloadlang, /langdebug, /langstatus");
     }
 
-    [ConCommand(commandName = "reloadlang", flags = ConVarFlags.None, helpText = "Recarrega todos os arquivos de idioma (.language + PELE/Language JSONs)")]
+    [ConCommand(commandName = "reloadlang", flags = ConVarFlags.None,
+        helpText = "Recarrega todos os arquivos de idioma (.language + PELE/Language JSONs)")]
     private static void CC_ReloadLang(ConCommandArgs args)
     {
         LanguageAPI.InvalidateDiskCache();
@@ -96,26 +109,28 @@ internal static class ConsoleCommands
         Debug.Log("[R2API.Language] /reloadlang: todos os arquivos recarregados.");
     }
 
-    [ConCommand(commandName = "langdebug", flags = ConVarFlags.None, helpText = "Alterna a janela de debug do R2API.Language")]
+    [ConCommand(commandName = "langdebug", flags = ConVarFlags.None,
+        helpText = "Alterna a janela de debug do R2API.Language")]
     private static void CC_LangDebug(ConCommandArgs args)
     {
         LanguageDebugUI.Toggle();
         Debug.Log("[R2API.Language] /langdebug: janela de debug alternada.");
     }
 
-    [ConCommand(commandName = "langstatus", flags = ConVarFlags.None, helpText = "Exibe o status atual do R2API.Language no console")]
+    [ConCommand(commandName = "langstatus", flags = ConVarFlags.None,
+        helpText = "Exibe o status atual do R2API.Language no console")]
     private static void CC_LangStatus(ConCommandArgs args)
     {
-        var langs = string.Join(", ", LanguagePlugin.GetRegisteredCustomLangs());
+        var langs    = string.Join(", ", LanguagePlugin.GetRegisteredCustomLangs());
         var fallback = string.Join(", ", LanguagePlugin.GetFallbackLangs());
-        var current = Language.currentLanguageName;
+        var current  = Language.currentLanguageName;
         var apiTokens = LanguageAPI.GetTotalCustomTokens();
         var langFiles = LanguageAPI.GetLanguageFileCount();
         var peleFiles = LanguageAPI.GetPeleJsonFileCount();
         var peleLangs = string.Join(", ", LanguageAPI.GetPeleLanguageFolders());
-        var reload = LanguageAPI.IsHotReloadEnabled ? "ativo" : "inativo";
+        var reload    = LanguageAPI.IsHotReloadEnabled ? "ativo" : "inativo";
 
-        Debug.Log($"[R2API.Language] === Status ===");
+        Debug.Log("[R2API.Language] === Status ===");
         Debug.Log($"  Current language: {current}");
         Debug.Log($"  Custom langs: {langs}");
         Debug.Log($"  Fallback (en): {fallback}");
@@ -124,6 +139,6 @@ internal static class ConsoleCommands
         Debug.Log($"  PELE JSON files: {peleFiles}");
         Debug.Log($"  PELE language folders: {peleLangs}");
         Debug.Log($"  API tokens: {apiTokens}");
-        Debug.Log($"[R2API.Language] ===============");
+        Debug.Log("[R2API.Language] ===============");
     }
 }

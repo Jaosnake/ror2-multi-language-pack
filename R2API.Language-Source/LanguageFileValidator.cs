@@ -7,41 +7,42 @@ namespace R2API;
 
 public class LanguageFileValidator
 {
-    private const string TOKEN_PATTERN = @"^[A-Za-z0-9_.]+=";
-    private const string COMMENT_PATTERN = "^//.*";
+    private static readonly Regex TokenPattern   = new(@"^[A-Za-z0-9_.]+\s*=", RegexOptions.Compiled);
+    private static readonly Regex CommentPattern = new(@"^\s*//",               RegexOptions.Compiled);
+    private static readonly Regex TokenNameRegex = new(@"^[A-Za-z0-9_.]+$",    RegexOptions.Compiled);
 
     public ValidationResult ValidateFile(string filePath)
     {
         if (!File.Exists(filePath))
-        {
-            return ValidationResult.Error($"Arquivo não encontrado: {filePath}");
-        }
+            return ValidationResult.Error($"Arquivo nao encontrado: {filePath}");
 
         var content = File.ReadAllLines(filePath);
-        var errors = new List<string>();
+        var errors   = new List<string>();
         var warnings = new List<string>();
 
         for (int i = 0; i < content.Length; i++)
         {
-            var line = content[i];
+            var line       = content[i];
             var lineNumber = i + 1;
 
             if (string.IsNullOrWhiteSpace(line)) continue;
-            if (IsCommentLine(line)) continue;
-            if (!IsValidTokenLine(line))
-            {
-                errors.Add($"Linha {lineNumber}: Sintaxe inválida: '{line}'");
-            }
+            if (CommentPattern.IsMatch(line))    continue;
+
+            // Allow JSON opening/closing braces for multi-language JSON files.
+            var trimmed = line.Trim();
+            if (trimmed == "{" || trimmed == "}") continue;
+
+            if (!TokenPattern.IsMatch(trimmed))
+                errors.Add($"Linha {lineNumber}: Sintaxe invalida: '{line}'");
+
             if (HasPotentialIssues(line))
-            {
-                warnings.Add($"Linha {lineNumber}: Possível problema: '{line}'");
-            }
+                warnings.Add($"Linha {lineNumber}: Possivel problema de espacos: '{line}'");
         }
 
         return new ValidationResult
         {
-            IsValid = errors.Count == 0,
-            Errors = errors,
+            IsValid  = errors.Count == 0,
+            Errors   = errors,
             Warnings = warnings,
             FilePath = filePath
         };
@@ -50,37 +51,29 @@ public class LanguageFileValidator
     public bool ValidateTokenSyntax(string token)
     {
         if (string.IsNullOrWhiteSpace(token)) return false;
-        var parts = token.Split('=');
-        if (parts.Length != 2) return false;
-        var tokenName = parts[0].Trim();
-        var tokenValue = parts[1].Trim();
-        if (string.IsNullOrWhiteSpace(tokenName)) return false;
-        if (!IsValidTokenName(tokenName)) return false;
-        if (string.IsNullOrWhiteSpace(tokenValue)) return false;
-        return true;
+        var eqIdx = token.IndexOf('=');
+        if (eqIdx < 1) return false;
+        var tokenName  = token.Substring(0, eqIdx).Trim();
+        var tokenValue = token.Substring(eqIdx + 1).Trim();
+        return !string.IsNullOrWhiteSpace(tokenName)
+            && !string.IsNullOrWhiteSpace(tokenValue)
+            && IsValidTokenName(tokenName);
     }
 
-    private bool IsCommentLine(string line) => Regex.IsMatch(line, COMMENT_PATTERN);
-    private bool IsValidTokenLine(string line) => Regex.IsMatch(line, TOKEN_PATTERN);
-    private bool IsValidTokenName(string tokenName) => Regex.IsMatch(tokenName, "^[A-Za-z0-9_.]+$") && !tokenName.StartsWith("//");
+    private static bool IsValidTokenName(string tokenName)
+        => TokenNameRegex.IsMatch(tokenName) && !tokenName.StartsWith("//");
 
-    private bool HasPotentialIssues(string line)
-    {
-        if (line.Contains("  ")) return true;
-        if (line.StartsWith(" ") || line.EndsWith(" ")) return true;
-        return false;
-    }
+    private static bool HasPotentialIssues(string line)
+        => line.Contains("  ") || line.StartsWith(" ") || line.EndsWith(" ");
 }
 
 public class ValidationResult
 {
-    public bool IsValid { get; set; }
-    public List<string> Errors { get; set; } = new List<string>();
+    public bool IsValid    { get; set; }
+    public List<string> Errors   { get; set; } = new List<string>();
     public List<string> Warnings { get; set; } = new List<string>();
     public string FilePath { get; set; }
 
     public static ValidationResult Error(string message)
-    {
-        return new ValidationResult { IsValid = false, Errors = new List<string> { message } };
-    }
+        => new ValidationResult { IsValid = false, Errors = new List<string> { message } };
 }

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -14,9 +14,9 @@ namespace R2API;
 
 public static partial class LanguageAPI
 {
-    public const string PluginGUID = "jaosnake.r2api.language";
+    public const string PluginGUID = "com.bepis.r2api.language";
     public const string PluginName = "R2API.Language (Jaosnake fork)";
-    public const string PluginVersion = "2.0.0";
+    public const string PluginVersion = "2.1.1";
 
     public static bool Loaded => true;
 
@@ -25,7 +25,7 @@ public static partial class LanguageAPI
     private static readonly Dictionary<string, Dictionary<string, string>> CustomLanguage = new(StringComparer.OrdinalIgnoreCase);
     private static readonly Dictionary<string, Dictionary<string, string>> OverlayLanguage = new(StringComparer.OrdinalIgnoreCase);
     private static readonly List<LanguageOverlay> temporaryOverlays = new();
-    private static readonly ReaderWriterLockSlim _rwLock = new();
+    private static readonly ReaderWriterLockSlim _rwLock = new(LockRecursionPolicy.NoRecursion);
     private static LanguageHotReload _hotReload;
 
     private static Dictionary<string, int> _peleTokenCountCache;
@@ -44,21 +44,12 @@ public static partial class LanguageAPI
     internal static void SetHooks()
     {
         if (_hooksEnabled) return;
+        _hooksEnabled = true;
 
-        try
-        {
-            _hooksEnabled = true;
-            LoadLanguageFilesFromPluginFolder();
-        }
-        finally
-        {
-            _hooksEnabled = false;
-        }
+        LoadLanguageFilesFromPluginFolder();
 
         On.RoR2.Language.GetLocalizedStringByToken += Language_GetLocalizedStringByToken;
         On.RoR2.Language.TokenIsRegistered += Language_TokenIsRegistered;
-
-        _hooksEnabled = true;
     }
 
     private static void LoadLanguageFilesFromPluginFolder()
@@ -76,10 +67,8 @@ public static partial class LanguageAPI
 
     internal static void DisposeLock()
     {
-        if (_rwLock != null)
-        {
-            _rwLock.Dispose();
-        }
+        // Static API state can still be touched by hooks during shutdown. Keep the
+        // lock alive for the AppDomain lifetime instead of disposing a singleton.
     }
 
     private static bool TryGetToken(Dictionary<string, Dictionary<string, string>> dict, string lang, string token, out string value)
@@ -392,19 +381,24 @@ public static partial class LanguageAPI
             _rwLock.EnterWriteLock();
             try
             {
-                foreach (var item in readOnlyOverlays)
-                {
-                    if (!OverlayLanguage.TryGetValue(item.lang, out var langDict))
-                    {
-                        langDict = new Dictionary<string, string>();
-                        OverlayLanguage[item.lang] = langDict;
-                    }
-                    langDict[item.key] = item.value;
-                }
+                ApplyUnderLock();
             }
             finally
             {
                 _rwLock.ExitWriteLock();
+            }
+        }
+
+        private void ApplyUnderLock()
+        {
+            foreach (var item in readOnlyOverlays)
+            {
+                if (!OverlayLanguage.TryGetValue(item.lang, out var langDict))
+                {
+                    langDict = new Dictionary<string, string>();
+                    OverlayLanguage[item.lang] = langDict;
+                }
+                langDict[item.key] = item.value;
             }
         }
 
@@ -418,7 +412,7 @@ public static partial class LanguageAPI
             {
                 OverlayLanguage.Clear();
                 foreach (var item in temporaryOverlays)
-                    item.Apply();
+                    item.ApplyUnderLock();
             }
             finally
             {
@@ -638,7 +632,7 @@ public static partial class LanguageAPI
                     try
                     {
                         var json = SimpleJSON.JSON.Parse(File.ReadAllText(jsonFile));
-                        if (json != null) count += json.Keys.Count();
+                        if (json != null) count += CountPeleJsonTokens(json);
                     }
                     catch (Exception ex)
                     {
@@ -656,6 +650,34 @@ public static partial class LanguageAPI
         _peleTokenCountCache = result;
         _peleTokenCacheTime = DateTime.UtcNow;
         return result;
+    }
+
+    private static int CountPeleJsonTokens(JSONNode json)
+    {
+        if (json == null) return 0;
+
+        var strings = json["strings"];
+        if (strings != null && strings.Count > 0)
+            return CountTokenObject(strings);
+
+        return CountTokenObject(json, skipManifestKeys: true);
+    }
+
+    private static int CountTokenObject(JSONNode node, bool skipManifestKeys = false)
+    {
+        int count = 0;
+        foreach (var key in node.Keys)
+        {
+            if (skipManifestKeys && string.Equals(key, "language", StringComparison.OrdinalIgnoreCase))
+                continue;
+            if (skipManifestKeys && string.Equals(key, "strings", StringComparison.OrdinalIgnoreCase))
+                continue;
+            if (key.StartsWith("_", StringComparison.Ordinal))
+                continue;
+            if (node[key] != null && node[key].Count == 0)
+                count++;
+        }
+        return count;
     }
 
     internal static bool IsHotReloadEnabled => _hotReload?.IsEnabled ?? false;

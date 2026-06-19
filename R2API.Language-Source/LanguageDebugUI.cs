@@ -25,8 +25,15 @@ internal class LanguageDebugUI : MonoBehaviour
 
     private List<DuplicateEntry> _duplicates;
     private bool _duplicatesDirty = true;
+    private bool _scanning;
+    private readonly Queue<Action> _mainThreadQueue = new();
+
+    // Error count is re-computed only when refreshed explicitly, not on every frame.
     private int _errorCount = -1;
     private bool _errorCountDirty = true;
+
+    // Cache SetCurrentLanguage so the Languages tab doesn't reflect every frame.
+    private static MethodInfo _setCurrentLanguageMethod;
 
     internal static void Create()
     {
@@ -34,6 +41,9 @@ internal class LanguageDebugUI : MonoBehaviour
         var go = new GameObject("LanguageDebugUI", typeof(LanguageDebugUI));
         DontDestroyOnLoad(go);
         _instance = go.GetComponent<LanguageDebugUI>();
+
+        _setCurrentLanguageMethod = typeof(Language).GetMethod("SetCurrentLanguage",
+            BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.Public);
     }
 
     internal static void DestroyInstance()
@@ -65,12 +75,15 @@ internal class LanguageDebugUI : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.F6))
             _visible = !_visible;
+
+        ProcessMainThreadQueue();
     }
 
     private void OnGUI()
     {
         if (!_visible) return;
-        _windowRect = GUILayout.Window(999, _windowRect, DrawWindow, "R2API.Language Debug", GUILayout.MinWidth(400), GUILayout.MinHeight(200));
+        _windowRect = GUILayout.Window(999, _windowRect, DrawWindow, "R2API.Language Debug",
+            GUILayout.MinWidth(400), GUILayout.MinHeight(200));
     }
 
     private void DrawWindow(int _)
@@ -80,14 +93,13 @@ internal class LanguageDebugUI : MonoBehaviour
         switch (_activeTab)
         {
             case 0: DrawLanguagesTab(); break;
-            case 1: DrawPeleTab(); break;
-            case 2: DrawModsTab(); break;
-            case 3: DrawStatusTab(); break;
+            case 1: DrawPeleTab();      break;
+            case 2: DrawModsTab();      break;
+            case 3: DrawStatusTab();    break;
             case 4: DrawDuplicatesTab(); break;
         }
         GUILayout.EndScrollView();
 
-        var newRect = GUILayoutUtility.GetLastRect();
         if (Event.current.type == EventType.MouseUp)
             SaveWindowRect();
         GUI.DragWindow();
@@ -102,14 +114,28 @@ internal class LanguageDebugUI : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+    private void InvokeSetCurrentLanguage(string lang)
+    {
+        if (_setCurrentLanguageMethod == null)
+        {
+            LanguagePlugin.Logger?.LogError("SetCurrentLanguage method not found");
+            return;
+        }
+        try { _setCurrentLanguageMethod.Invoke(null, new object[] { lang }); }
+        catch (Exception ex) { LanguagePlugin.Logger?.LogError("Falha ao trocar lingua: " + (ex.InnerException?.Message ?? ex.Message)); }
+    }
+
     private void DrawLanguagesTab()
     {
         GUILayout.Label("Linguas registradas no jogo — clique Ativar para trocar:", GUI.skin.label);
         var current = Language.currentLanguageName;
         var gameLangs = LanguageNames.GetAvailableLanguages();
         if (gameLangs.Count == 0)
+        {
             GUILayout.Label("  (nenhuma)");
+        }
         else
+        {
             foreach (var lang in gameLangs)
             {
                 var name = LanguageNames.GetFriendlyName(lang);
@@ -118,16 +144,10 @@ internal class LanguageDebugUI : MonoBehaviour
                 if (lang == current)
                     GUILayout.Label("[ATIVO]", GUILayout.Width(60));
                 else if (GUILayout.Button("Ativar", GUILayout.Width(60)))
-                {
-                    try
-                    {
-                        var method = typeof(Language).GetMethod("SetCurrentLanguage", BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.Public);
-                        if (method != null) method.Invoke(null, new object[] { lang });
-                    }
-                    catch (Exception ex) { LanguagePlugin.Logger?.LogError("Falha ao trocar lingua: " + ex.Message); }
-                }
+                    InvokeSetCurrentLanguage(lang);
                 GUILayout.EndHorizontal();
             }
+        }
 
         GUILayout.Space(10);
         GUILayout.Label("Tokens customizados por lingua (API):", GUI.skin.label);
@@ -204,12 +224,6 @@ internal class LanguageDebugUI : MonoBehaviour
         GUILayout.Label($"  .language: {LanguageAPI.GetLanguageFileCount()}");
         GUILayout.Label($"  .json:     {LanguageAPI.GetPeleJsonFileCount()}");
         GUILayout.Label($"  Tokens:    {LanguageAPI.GetTotalCustomTokens()}");
-
-        if (_errorCountDirty)
-        {
-            _errorCount = CountFileErrors();
-            _errorCountDirty = false;
-        }
         GUILayout.Label($"  Erros de sintaxe: {(_errorCount >= 0 ? _errorCount.ToString() : "?")}");
 
         GUILayout.Space(5);
@@ -222,7 +236,8 @@ internal class LanguageDebugUI : MonoBehaviour
         {
             LanguageAPI.InvalidateDiskCache();
             LanguageAPI.RefreshDiskCache();
-            _errorCountDirty = true;
+            _errorCount = CountFileErrors();
+            _errorCountDirty = false;
             _duplicatesDirty = true;
         }
 
@@ -231,7 +246,8 @@ internal class LanguageDebugUI : MonoBehaviour
             LanguageAPI.InvalidateDiskCache();
             LanguageAPI.ReloadAllLanguageFiles(BepInEx.Paths.PluginPath);
             LanguagePlugin.ReloadPeleJsonFiles();
-            _errorCountDirty = true;
+            _errorCount = CountFileErrors();
+            _errorCountDirty = false;
             _duplicatesDirty = true;
         }
 
@@ -241,18 +257,39 @@ internal class LanguageDebugUI : MonoBehaviour
 
     private void DrawDuplicatesTab()
     {
-        if (_duplicatesDirty)
+        if (_duplicatesDirty && !_scanning)
         {
-            try
+            _scanning = true;
+            _duplicates = null;
+            System.Threading.ThreadPool.QueueUserWorkItem(_ =>
             {
-                _duplicates = new DuplicateTokenDetector().FindDuplicateTokens(BepInEx.Paths.PluginPath);
-            }
-            catch (Exception ex)
-            {
-                GUILayout.Label("Erro ao escanear: " + ex.Message);
-                return;
-            }
-            _duplicatesDirty = false;
+                try
+                {
+                    var result = new DuplicateTokenDetector().FindDuplicateTokens(BepInEx.Paths.PluginPath);
+                    _mainThreadQueue.Enqueue(() =>
+                    {
+                        _duplicates = result;
+                        _duplicatesDirty = false;
+                        _scanning = false;
+                    });
+                }
+                catch (Exception ex)
+                {
+                    _mainThreadQueue.Enqueue(() =>
+                    {
+                        _duplicates = new List<DuplicateEntry>();
+                        _duplicatesDirty = false;
+                        _scanning = false;
+                        Debug.LogError("Erro ao escanear duplicatas: " + ex.Message);
+                    });
+                }
+            });
+        }
+
+        if (_scanning)
+        {
+            GUILayout.Label("Escaneando arquivos .language...");
+            return;
         }
 
         if (_duplicates == null || _duplicates.Count == 0)
@@ -264,12 +301,25 @@ internal class LanguageDebugUI : MonoBehaviour
         GUILayout.Label($"{_duplicates.Count} token(s) duplicado(s):", GUI.skin.label);
         GUILayout.Space(5);
 
-        foreach (var dup in _duplicates.OrderByDescending(d => d.Count))
+        int maxShow = Math.Min(_duplicates.Count, 50);
+        foreach (var dup in _duplicates.OrderByDescending(d => d.Count).Take(maxShow))
         {
-            GUILayout.Label($"  {dup.TokenName} ({dup.Count}x)");
+            var langTag = string.IsNullOrEmpty(dup.Language) ? "" : $"[{dup.Language}] ";
+            GUILayout.Label($"  {langTag}{dup.TokenName} ({dup.Count}x)");
             foreach (var f in dup.Files)
                 GUILayout.Label("      " + f);
             GUILayout.Space(3);
+        }
+        if (_duplicates.Count > 50)
+            GUILayout.Label($"  ... e mais {_duplicates.Count - 50} token(s)");
+    }
+
+    private void ProcessMainThreadQueue()
+    {
+        while (_mainThreadQueue.Count > 0)
+        {
+            try { _mainThreadQueue.Dequeue()?.Invoke(); }
+            catch (Exception ex) { Debug.LogError("Error processing main thread queue: " + ex.Message); }
         }
     }
 
@@ -289,5 +339,4 @@ internal class LanguageDebugUI : MonoBehaviour
         catch { }
         return total;
     }
-
 }
