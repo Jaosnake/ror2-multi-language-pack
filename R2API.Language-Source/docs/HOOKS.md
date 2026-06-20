@@ -151,7 +151,7 @@ Contrato:
 Risco:
 - Se ficar barulhento demais, o log perde utilidade para diagnostico real.
 
-## LanguagePauseButton.cs
+## LanguagePauseMenu.cs
 
 ### `On.RoR2.UI.PauseScreenController.Awake`
 

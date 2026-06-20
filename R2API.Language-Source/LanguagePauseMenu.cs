@@ -12,7 +12,7 @@ using Object = UnityEngine.Object;
 
 namespace R2API;
 
-internal static class LanguagePauseButton
+internal static class LanguagePauseMenu
 {
     private static bool _hooksActive;
 

@@ -33,9 +33,9 @@ Arquivos alvo:
   - contagem de tokens PELE
 
 - `LanguagePauseMenu.cs`
-  - status: parcial
-  - manter/renomear `LanguagePauseButton`
-  - deixar somente UI pause/dialogo/legenda
+  - status: feito
+  - antigo `LanguagePauseButton` renomeado
+  - responsavel somente por UI pause/dialogo/legenda
 
 Regra: mover codigo sem alterar comportamento primeiro. Refatorar logica depois.
 
