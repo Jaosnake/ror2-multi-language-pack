@@ -21,6 +21,9 @@ readme = "./README.md"
 outdir = "./build"
 
 [[build.copy]]
+# Keep this path compatible with RiskofThunder-R2API_Language.
+# PELE replaces R2API.Language.dll; it must not be installed side-by-side
+# as another DLL with the same BepInEx GUID.
 source = "./ReleaseOutput"
 target = "./plugins/R2API.Language"
 

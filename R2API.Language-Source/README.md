@@ -22,6 +22,40 @@ No repositorio, esses arquivos estao em:
 ../PELE/Language/
 ```
 
+## Importante: substitui R2API.Language
+
+Este pacote **nao deve ser instalado lado a lado** com outro
+`R2API.Language.dll`.
+
+O PELE usa o mesmo GUID do `R2API.Language` original:
+
+```text
+com.bepis.r2api.language
+```
+
+Isso e intencional. O objetivo e substituir a DLL do pacote
+`RiskofThunder-R2API_Language`, mantendo compatibilidade com mods que dependem
+de R2API.Language, mas adicionando o carregamento JSON, idiomas customizados,
+hot reload e suporte de fonte do PELE.
+
+Instale/deploy somente neste caminho:
+
+```text
+BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
+```
+
+Nao coloque outra copia em:
+
+```text
+BepInEx/plugins/R2API.Language.dll
+BepInEx/plugins/PELE/R2API.Language.dll
+BepInEx/plugins/<qualquer outra pasta>/R2API.Language.dll
+```
+
+Se duas DLLs com o mesmo GUID forem carregadas, o BepInEx pode resolver o
+plugin errado, carregar hooks duplicados ou quebrar a ordem de inicializacao.
+O log correto deve mostrar apenas uma ocorrencia de `R2API.Language.dll`.
+
 ## Estado funcional salvo
 
 Versao de release inicial testada no jogo em 2026-06-20:
