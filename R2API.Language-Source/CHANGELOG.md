@@ -2,6 +2,7 @@
 
 ## 1.0.0 - PELE initial release
 
+- Ships as a replacement for `RiskofThunder-R2API_Language`'s `R2API.Language.dll`, not as a second side-by-side plugin.
 - Adds PELE JSON language loading from `BepInEx/plugins/PELE/Language/<lang>/*.json`.
 - Gives PELE translations priority over normal mod/game language fallbacks when a token exists in PELE.
 - Adds custom language support for Latin (`la`), Esperanto (`eo`), and Ukrainian (`uk`).
