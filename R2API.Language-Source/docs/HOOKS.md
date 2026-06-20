@@ -48,6 +48,8 @@ Risco:
 - Se registrar tarde demais, `LanguageConVar` pode tentar carregar `pt-BR` ou
   custom languages antes da pasta existir e cair para `en`.
 
+## CustomLanguageRegistration.cs
+
 ### `HarmonyPostfix Language.FindLanguageByName`
 
 Objetivo: criar `Language` para idiomas customizados (`la`, `eo`, `uk`) quando
