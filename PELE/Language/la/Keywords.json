@@ -1,21 +1,21 @@
 {
-    "strings":  {
-                    "KEYWORD_POISON":  "\u003cstyle=cKeywordName\u003e@\u003c/style\u003e@H2@@ Fac damnum par \u003cstyle=cIsDamage\u003e10%\u003c/style\u003e eorum maximam salutem supra 10 *. \u003ci\u003e Venenum non potest occidere inimicos. \u003c/i\u003e\u003c/style\u003e",
-                    "KEYWORD_RAPID_REGEN":  "\u003cstyle=cKeywordName\u003eRegeneratio Rapida\u003c/style\u003e\u003cstyle=cSub\u003e Restituit 5% tuae valetudinis maximae.\u003c/style\u003e",
-                    "KEYWORD_AGILE":  "\u003cstyle=cKeywordName\u003eAgile\u003c/style\u003e@H2@@ In arte sprinting adhiberi potest. \u003c/style\u003e",
-                    "KEYWORD_PERCENT_HP":  "\u003cstyle=cKeywordName\u003eX% PV\u003c/style\u003e\u003cstyle=cSub\u003e\u003cstyle=cIsHealth\u003eX% de valetudine tua maxima.\u003c/style\u003e\u003c/style\u003e",
-                    "KEYWORD_SONIC_BOOM":  "\u003cstyle=cKeywordName\u003eSonic Boom\u003c/style\u003e@H2@@\u003cstyle=cIsUtility\u003e Pellit\u003c/style\u003e Omnes inimicos ferientes. \u003cstyle=cIsUtility\u003e pellat te retro:\u003c/style\u003e si aerium es.\u003c/style\u003e.",
-                    "KEYWORD_WEAK":  "\u003cstyle=cKeywordName\u003eWAKEN\u003c/style\u003e@H2@@ Reduce motum celeritatem ac damnum per \u003cstyle=cIsDamage\u003e40%\u003c/style\u003e. Reducere arma ab \u003cstyle=cIsDamage\u003e20\u003c/style\u003e.\u003c/style\u003e .",
-                    "KEYWORD_HEAVY":  "\u003cstyle=cKeywordName\u003eHeavy\u003c/style\u003e\u003cstyle=cSub\u003e Disciplina plus damni facit quam citius movearis.\u003c/style\u003e",
-                    "KEYWORD_FREEZING":  "\u003cstyle=cKeywordName\u003eGlacians\u003c/style\u003e\u003cstyle=cSub\u003e Congelat hostes in loco. Hostes glaciati ad valetudinem nullam interficiuntur.\u003c/style\u003e",
-                    "KEYWORD_STUNNING":  "\u003cstyle=cKeywordName\u003eSTUNNNING\u003c/style\u003e@H2@@ Interrumpit inimicos et breviter eos stupefacit.",
-                    "KEYWORD_EXPOSE":  "\u003cstyle=cKeywordName\u003eExpositio\u003c/style\u003e\u003cstyle=cSub\u003eFeriens hostes expositos omnem tempus refrigerationis artium tuarum per \u003cstyle=cIsUtility\u003e1.0s\u003c/style\u003e minuit, \u003cstyle=cIsDamage\u003edamnum additionale\u003c/style\u003e faciendum.\u003c/style\u003e",
-                    "KEYWORD_SHOCKING":  "\u003cstyle=cKeywordName\u003e Improbus\u003c/style\u003e@H2@@ Interrumpit inimicos ac stupefacit. Stupor tollitur si scopus plus quam \u003cstyle=cIsHealth\u003e10%\u003c/style\u003e eorum maximam valetudinem in damnis accipit.",
-                    "KEYWORD_SLAYER":  "\u003cstyle=cKeywordName\u003eNecator\u003c/style\u003e\u003cstyle=cSub\u003e Facit \u003cstyle=cIsDamage\u003e3x\u003c/style\u003e damni contra hostes valetudinis humilis.\u003c/style\u003e",
-                    "KEYWORD_SUPERBLEED":  "\u003cstyle=cKeywordName\u003eHemorrhagia\u003c/style\u003e\u003cstyle=cSub\u003e Facit \u003cstyle=cIsDamage\u003edamnum turpe\u003c/style\u003e per 15 secundas.\u003c/style\u003e",
-                    "KEYWORD_IGNITE":  "\u003cstyle=cKeywordName\u003eIgnite\u003c/style\u003e@H2@@ Fac additamentum \u003cstyle=cIsDamage\u003e+50%\u003c/style\u003e Totum damnum in tempore.",
-                    "KEYWORD_WEAKPOINT":  "\u003cstyle=cKeywordName\u003e Infirmum punctum\u003c/style\u003e@H2@@ Sectiones inimicorum notantur ac continentes \u003cstyle=cIsDamage\u003e Infirmis Points\u003c/style\u003e. Hitting a \u003cstyle=cIsDamage\u003e infirmam Point\u003c/style\u003e spondet a \u003cstyle=cIsDamage\u003eCritical Strike\u003c/style\u003e.",
-                    "KEYWORD_ACTIVERELOAD":  "\u003cstyle=cKeywordName\u003eRecharga Activa\u003c/style\u003e\u003cstyle=cSub\u003e Recharga tuum railgun cum incendendo. Recharga perfecta damnum auget.\u003c/style\u003e",
-                    "KEYWORD_VOIDCORRUPTION":  "\u003cstyle=cKeywordName\u003e Corruption\u003c/style\u003e\u003cstyle=cSub\u003e Lucrum Corruptionis damnum accipiendo, Ictus Criticis adhibendis, vel Items Vacuas tenentes. Sanando minuere corruptionem.\u003c/style\u003e"
-                }
+  "strings": {
+    "KEYWORD_POISON": "Fac damnum par 10% eorum maximam salutem supra 10 *. Venenum non potest occidere inimicos.",
+    "KEYWORD_RAPID_REGEN": "<style=cKeywordName>Regeneratio Rapida</style><style=cSub> Restituit 5% tuae valetudinis maximae.</style>",
+    "KEYWORD_AGILE": "Agile In arte sprinting adhiberi potest.",
+    "KEYWORD_PERCENT_HP": "<style=cKeywordName>X% PV</style><style=cSub><style=cIsHealth>X% de valetudine tua maxima.</style></style>",
+    "KEYWORD_SONIC_BOOM": "Sonic Boom Pellit Omnes inimicos ferientes. pellat te retro: si aerium es..",
+    "KEYWORD_WEAK": "WAKEN Reduce motum celeritatem ac damnum per 40%. Reducere arma ab 20..",
+    "KEYWORD_HEAVY": "<style=cKeywordName>Heavy</style><style=cSub> Disciplina plus damni facit quam citius movearis.</style>",
+    "KEYWORD_FREEZING": "<style=cKeywordName>Glacians</style><style=cSub> Congelat hostes in loco. Hostes glaciati ad valetudinem nullam interficiuntur.</style>",
+    "KEYWORD_STUNNING": "STUNNNING Interrumpit inimicos et breviter eos stupefacit.",
+    "KEYWORD_EXPOSE": "<style=cKeywordName>Expositio</style><style=cSub>Feriens hostes expositos omnem tempus refrigerationis artium tuarum per <style=cIsUtility>1.0s</style> minuit, <style=cIsDamage>damnum additionale</style> faciendum.</style>",
+    "KEYWORD_SHOCKING": "Improbus Interrumpit inimicos ac stupefacit. Stupor tollitur si scopus plus quam 10% eorum maximam valetudinem in damnis accipit.",
+    "KEYWORD_SLAYER": "<style=cKeywordName>Necator</style><style=cSub> Facit <style=cIsDamage>3x</style> damni contra hostes valetudinis humilis.</style>",
+    "KEYWORD_SUPERBLEED": "<style=cKeywordName>Hemorrhagia</style><style=cSub> Facit <style=cIsDamage>damnum turpe</style> per 15 secundas.</style>",
+    "KEYWORD_IGNITE": "Ignite Fac additamentum +50% Totum damnum in tempore.",
+    "KEYWORD_WEAKPOINT": "Infirmum punctum Sectiones inimicorum notantur ac continentes Infirmis Points. Hitting a infirmam Point spondet a Critical Strike.",
+    "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Recharga Activa</style><style=cSub> Recharga tuum railgun cum incendendo. Recharga perfecta damnum auget.</style>",
+    "KEYWORD_VOIDCORRUPTION": "<style=cKeywordName> Corruption</style><style=cSub> Lucrum Corruptionis damnum accipiendo, Ictus Criticis adhibendis, vel Items Vacuas tenentes. Sanando minuere corruptionem.</style>"
+  }
 }

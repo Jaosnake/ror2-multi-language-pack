@@ -1,4 +1,4 @@
-﻿{
+{
     "eo": {
         "CHAOSANGELOID_CHAOS_NAME": "Kaoso",
         "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloid Tipo Epsilono",
@@ -18,7 +18,7 @@
         "CHAOS__SPEC_DESCRIPTION": "<style=cIsDamage>Ekbruligi</style>. Sargxu flaman globon gxis <style=cIsUtility>10s</style>, kiu donas <style=cIsDamage>400%-2000% damagxon</style> kaj bruligas la teron donante <style=cIsDamage>10%</style> de la damagxo sekunde. Sargxante almenaux <style=cIsUtility>5s</style> igas Kaoso liberigi mortradion anstatauxe, donante <style=cIsDamage>2000% damagxon</style> sekunde. Sargxante pli ol <style=cIsUtility>5s</style> pliigas la dauron de la mortradia.",
         "CHAOS__F": "Miniono, Levigxu!",
         "CHAOS__F_DESCRIPTION": "Auxtomate rexigas lastatempe mortigitan malamikon ene de 25m kiel miniono. Dauxras 3 minutojn.",
-        "CHAOSBODY_DEFAULT_SKIN_NAME": "Defaŭlta"
+        "CHAOSBODY_DEFAULT_SKIN_NAME": "Defauxlta"
     }
 }
 

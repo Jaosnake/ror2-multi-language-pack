@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ITEM_ARMEDBACKPACK_NAME": "Armed Backpack",
   "SS2_ITEM_ARMEDBACKPACK_DESC": "Chance on taking damage to fire a missile pro <style=cIsDamage>400%</style> <style=cStack>(+400% per stack)</style> base damage. Chance scales cum damage taken.",
   "SS2_ITEM_ARMEDBACKPACK_PICKUP": "Fire a missile on taking heavy damage.",

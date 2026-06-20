@@ -1,14 +1,13 @@
-﻿{
-
-  "SS2_EVENT_THUNDERSTORM_START": "<sprite name=\"CloudRight\">	 A storm is approaching...",
+{
+  "SS2_EVENT_THUNDERSTORM_START": "<sprite name=\"CloudRight\">     A storm is approaching...",
   "SS2_EVENT_THUNDERSTORM_END": "The clouds begin to clear...",
-  "SS2_EVENT_BLIZZARD_START": "<sprite name=\"CloudRight\">	 A snowstorm is approaching..",
+  "SS2_EVENT_BLIZZARD_START": "<sprite name=\"CloudRight\">     A snowstorm is approaching..",
   "SS2_EVENT_BLIZZARD_END": "The snow begins to clear...",
-  "SS2_EVENT_SANDSTORM_START": "<sprite name=\"CloudRight\">	 A sandstorm is approaching...",
+  "SS2_EVENT_SANDSTORM_START": "<sprite name=\"CloudRight\">     A sandstorm is approaching...",
   "SS2_EVENT_SANDSTORM_END": "The sand begins to settle...",
-  "SS2_EVENT_ASHSTORM_START": "<sprite name=\"CloudRight\">	 An ash storm is approaching...",
+  "SS2_EVENT_ASHSTORM_START": "<sprite name=\"CloudRight\">     An ash storm is approaching...",
   "SS2_EVENT_ASHSTORM_END": "The ashes begins to settle...",
-  "SS2_EVENT_TARSTORM_START": "<sprite name=\"CloudRight\">	 Tar rains down from the sky...",
+  "SS2_EVENT_TARSTORM_START": "<sprite name=\"CloudRight\">     Tar rains down from the sky...",
   "SS2_EVENT_TARSTORM_END": "The tar begins to settle...",
   "SS2_EVENT_FOG_START": "A thick fog builds up...",
   "SS2_EVENT_FOG_END": "The fog clears...",

@@ -1,23 +1,23 @@
 {
-    "strings": {
-        "ARTIFACT_DEVOTION_NAME": "Artificium Devotionis",
-        "ARTIFACT_DEVOTION_DESCRIPTION": "Fucos repone Ova Lemuriaca fractis. Offerre an item lucrari sectatores.",
-        "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_NAME": "Iudicium Devotionis",
-        "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_DESCRIPTION": "Perficere tentationem devotionis.",
-        "ARTIFACT_DELUSION_NAME": "Artificium Delusionis",
-        "ARTIFACT_DELUSION_DESCRIPTION": "Periculum tuum items post peractam teleporti eventum in experimento memoriae, ut plura items consequaris.",
-        "ACHIEVEMENT_OBTAINARTIFACTDELUSION_NAME": "Iudicium Delusionis",
-        "ACHIEVEMENT_OBTAINARTIFACTDELUSION_DESCRIPTION": "Perficere Tentatio Delusionis.",
-        "MAP_LAKES_TITLE": "Verdant Falls",
-        "MAP_LAKES_SUBTITLE": "Humus Nulla",
-        "MAP_LAKES_LORE": "<style=cMono>\nWelcome to DataScraper (v3.5.16 - beta ramus)\nmemoriae radendo $...eri.\n$ resolvendo... feci.\n$ pectentes ad data pertinentes... fieri.\nPerfice!\nLocorum audio transcriptiones...\n</style>\n\nDies 02\nTota dies Garret exsecrationes nostras de amittendo navi, itinere, onere. Ex his quae audivi de hac tellure, peius esse potuit. Xenobiologus noster in plantis superstites nos studere amaverat. Quodammodo signum Excelsi aulae hoc inferni foramen lustrat. Tractus videtur, sed spero hoc modo spectant et sunt animi liberales.\nPer probationem et errorem deteximus plantam edulissimam - foeda sunt cruda, sed post aestum tolerabiles sunt eorumque odor - odor tam dulcis ac potens, qui filtras nostras imbuit. Admonet me fraga. Sole calescit.\nSaltem vivimus.\n\nDies 03\nOs meum amarum gustat nisi ego edo. Idem tradit Garret, paranoia eius in dies crescit. Iurat videt succum pharetram et currentis quoties has plantas truncabimus aperturas.\n\nDies 07\nUt sis honestus incipio curare.\nLassiores quotidie.\nTetrum stomachus dolet noctu.\nQuidni suspicamur cibum nisi quid aliud electionis habemus?\nCutis mea ad colorem aurantiacum habet... fortasse visio mea est.\nTotum nuper dulcedo suci est olfacio.\nOro me non aegrotare.\nOdissem Garret aliquid recte esse.\n\ndies VIII\nVivimus.\nSpe plenus sum.\nPrinceps aula speculator... an quaesitor dixit? Quicquid est, castra repperit. Aliquantulus acutus circa margines sed cibum nobis dedit. omne morsum sapiebam. Dixit se tutum non esse noctu peregrinari et ex hoc pulmentum mane nos educet.\nSubterraneis.\nCum veros escis.\n\nKelvin ex.",
-        "LEMURIAN_EGG_NAME": "Lemurian Egg",
-        "LEMURIAN_EGG_CONTEXT": "Offer Item",
-        "LEMURIAN_EGG_POPUP_TEXT": "<b>Egg</b>\n<i>@H3@@< size=75%> Lucrum sectatorem offerens item!</size></style></i>",
-        "DELUSION_MEMORYGAME_PROMPT": "Memento sapienter",
-        "DELUSION_MEMORYGAME_HEADER": "Memento sapienter",
-        "UNLOCKABLE_LOG_STAGES_LAKES": "Environment Log: Verdant Falls",
-        "BAZAAR_SEER_LAKES": "<style=cWorldEvent> Somnis dulces fructus, et amara promissiones.</style>",
-        "MERC_SKIN_ALT3_NAME": "Vinctus"
-    }
+  "strings": {
+    "ARTIFACT_DEVOTION_NAME": "Artificium Devotionis",
+    "ARTIFACT_DEVOTION_DESCRIPTION": "Fucos repone Ova Lemuriaca fractis. Offerre an item lucrari sectatores.",
+    "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_NAME": "Iudicium Devotionis",
+    "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_DESCRIPTION": "Perficere tentationem devotionis.",
+    "ARTIFACT_DELUSION_NAME": "Artificium Delusionis",
+    "ARTIFACT_DELUSION_DESCRIPTION": "Periculum tuum items post peractam teleporti eventum in experimento memoriae, ut plura items consequaris.",
+    "ACHIEVEMENT_OBTAINARTIFACTDELUSION_NAME": "Iudicium Delusionis",
+    "ACHIEVEMENT_OBTAINARTIFACTDELUSION_DESCRIPTION": "Perficere Tentatio Delusionis.",
+    "MAP_LAKES_TITLE": "Verdant Falls",
+    "MAP_LAKES_SUBTITLE": "Humus Nulla",
+    "MAP_LAKES_LORE": "<style=cMono>\nWelcome to DataScraper (v3.5.16 - beta ramus)\nmemoriae radendo $...eri.\n$ resolvendo... feci.\n$ pectentes ad data pertinentes... fieri.\nPerfice!\nLocorum audio transcriptiones...\n</style>\n\nDies 02\nTota dies Garret exsecrationes nostras de amittendo navi, itinere, onere. Ex his quae audivi de hac tellure, peius esse potuit. Xenobiologus noster in plantis superstites nos studere amaverat. Quodammodo signum Excelsi aulae hoc inferni foramen lustrat. Tractus videtur, sed spero hoc modo spectant et sunt animi liberales.\nPer probationem et errorem deteximus plantam edulissimam - foeda sunt cruda, sed post aestum tolerabiles sunt eorumque odor - odor tam dulcis ac potens, qui filtras nostras imbuit. Admonet me fraga. Sole calescit.\nSaltem vivimus.\n\nDies 03\nOs meum amarum gustat nisi ego edo. Idem tradit Garret, paranoia eius in dies crescit. Iurat videt succum pharetram et currentis quoties has plantas truncabimus aperturas.\n\nDies 07\nUt sis honestus incipio curare.\nLassiores quotidie.\nTetrum stomachus dolet noctu.\nQuidni suspicamur cibum nisi quid aliud electionis habemus?\nCutis mea ad colorem aurantiacum habet... fortasse visio mea est.\nTotum nuper dulcedo suci est olfacio.\nOro me non aegrotare.\nOdissem Garret aliquid recte esse.\n\ndies VIII\nVivimus.\nSpe plenus sum.\nPrinceps aula speculator... an quaesitor dixit? Quicquid est, castra repperit. Aliquantulus acutus circa margines sed cibum nobis dedit. omne morsum sapiebam. Dixit se tutum non esse noctu peregrinari et ex hoc pulmentum mane nos educet.\nSubterraneis.\nCum veros escis.\n\nKelvin ex.",
+    "LEMURIAN_EGG_NAME": "Lemurian Egg",
+    "LEMURIAN_EGG_CONTEXT": "Offer Item",
+    "LEMURIAN_EGG_POPUP_TEXT": "Egg\nLucrum sectatorem offerens item!",
+    "DELUSION_MEMORYGAME_PROMPT": "Memento sapienter",
+    "DELUSION_MEMORYGAME_HEADER": "Memento sapienter",
+    "UNLOCKABLE_LOG_STAGES_LAKES": "Environment Log: Verdant Falls",
+    "BAZAAR_SEER_LAKES": "<style=cWorldEvent> Somnis dulces fructus, et amara promissiones.</style>",
+    "MERC_SKIN_ALT3_NAME": "Vinctus"
+  }
 }
