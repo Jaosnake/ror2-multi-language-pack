@@ -173,8 +173,15 @@ public class LanguageHotReload : IDisposable
                 {
                     var langTokens = LanguageFileHelper.ParseTokensFromFile(file);
                     foreach (var kvp in langTokens)
+                    {
                         foreach (var token in kvp.Value)
+                        {
                             LanguageAPI.AddOrUpdateToken(token.Key, token.Value, kvp.Key);
+                            try { OnTokenReloaded?.Invoke(kvp.Key, token.Key); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnTokenReloaded: " + ex.Message); }
+                        }
+                    }
+
+                    try { OnFileReloaded?.Invoke(file); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnFileReloaded: " + ex.Message); }
                 }
                 catch (Exception ex)
                 {

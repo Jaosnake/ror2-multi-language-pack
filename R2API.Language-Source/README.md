@@ -152,6 +152,7 @@ R2API.Language-Source/
 ├─ LanguagePlugin.cs
 ├─ CustomLanguageRegistration.cs
 ├─ CyrillicFontSupport.cs
+├─ LanguagePauseMenu.cs
 ├─ PeleJsonLoader.cs
 ├─ PeleStartupDiagnostics.cs
 ├─ LanguageAPI.cs

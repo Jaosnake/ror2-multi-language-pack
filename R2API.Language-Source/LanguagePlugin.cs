@@ -24,7 +24,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
         Logger.LogInfo("R2API.Language (Jaosnake fork) inicializado!");
 
         LanguageDebugUI.Create();
-        LanguagePauseButton.Init();
+        LanguagePauseMenu.Init();
         ConsoleCommands.Init();
 
         _collectLanguageRootFoldersHandler = folders =>
@@ -83,7 +83,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
         Language.collectLanguageRootFolders -= _collectLanguageRootFoldersHandler;
         LanguageHotReload.Instance.OnAfterReload -= OnHotReloadCompleted;
         LanguageDebugUI.DestroyInstance();
-        LanguagePauseButton.Cleanup();
+        LanguagePauseMenu.Cleanup();
         ConsoleCommands.Cleanup();
         _harmony?.UnpatchSelf();
     }

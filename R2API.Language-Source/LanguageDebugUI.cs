@@ -30,7 +30,6 @@ internal class LanguageDebugUI : MonoBehaviour
 
     // Error count is re-computed only when refreshed explicitly, not on every frame.
     private int _errorCount = -1;
-    private bool _errorCountDirty = true;
 
     // Cache SetCurrentLanguage so the Languages tab doesn't reflect every frame.
     private static MethodInfo _setCurrentLanguageMethod;
@@ -237,7 +236,6 @@ internal class LanguageDebugUI : MonoBehaviour
             LanguageAPI.InvalidateDiskCache();
             LanguageAPI.RefreshDiskCache();
             _errorCount = CountFileErrors();
-            _errorCountDirty = false;
             _duplicatesDirty = true;
         }
 
@@ -247,7 +245,6 @@ internal class LanguageDebugUI : MonoBehaviour
             LanguageAPI.ReloadAllLanguageFiles(BepInEx.Paths.PluginPath);
             LanguagePlugin.ReloadPeleJsonFiles();
             _errorCount = CountFileErrors();
-            _errorCountDirty = false;
             _duplicatesDirty = true;
         }
 
