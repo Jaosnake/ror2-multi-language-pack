@@ -43,7 +43,7 @@ internal static class CustomLanguageRegistration
         if (langObj == null) return;
         dict[__0] = langObj;
         __result = langObj;
-        LanguagePlugin.Logger?.LogInfo("Lazy-registrado: " + __0);
+        LanguagePlugin.LogVerbose("Lazy-registrado: " + __0);
     }
 
     private static Dictionary<string, Language> GetLanguagesByName()
@@ -92,7 +92,7 @@ internal static class CustomLanguageRegistration
                 setFolders?.Invoke(langObj, new object[] { new[] { subPath } });
 
             var finalName = nameField != null ? (string)nameField.GetValue(langObj) : "(field not found)";
-            LanguagePlugin.Logger?.LogInfo("CreateLanguage: '" + lang + "' ok (nameField='" + finalName + "')");
+            LanguagePlugin.LogVerbose("CreateLanguage: '" + lang + "' ok (nameField='" + finalName + "')");
             return langObj;
         }
         catch (Exception ex)
@@ -135,7 +135,7 @@ internal static class CustomLanguageRegistration
                 ?.GetValue(null) as Action;
             evt?.Invoke();
 
-            LanguagePlugin.Logger?.LogInfo("SetCurrentLanguage interceptado: '" + newCurrentLanguageName + "' (CultureInfo='" + CultureInfo.CurrentCulture.Name + "')");
+            LanguagePlugin.LogVerbose("SetCurrentLanguage interceptado: '" + newCurrentLanguageName + "' (CultureInfo='" + CultureInfo.CurrentCulture.Name + "')");
         }
         catch (Exception ex)
         {

@@ -15,7 +15,6 @@ Validar em `BepInEx/LogOutput.log`:
 
 - `Loading [R2API.Language (Jaosnake fork) ...]`
 - `R2API.Language (Jaosnake fork) inicializado!`
-- `Pasta PELE/Language registrada: ...`
 - `PELE/Language encontrado: ...`
 - `Tokens PELE por idioma: la=..., eo=..., uk=...`
 - `PELE/Fonts/cyrillicfont encontrado.`
@@ -59,6 +58,7 @@ Validar:
 
 ## Debug UI
 
+- Confirmar `EnableDebugMenu=true` no config do BepInEx antes de testar.
 - Pressionar `F6`.
 - Confirmar que a janela aparece.
 - Testar troca de idioma pela janela.
