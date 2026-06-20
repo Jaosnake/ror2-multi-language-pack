@@ -2,7 +2,7 @@
   "name": "PELE",
   "version_number": "1.0.0",
   "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-  "description": "Plugin for Enhanced Language Extension: a PELE fork of R2API.Language with JSON language packs, custom languages, hot reload, and Ukrainian font support.",
+  "description": "P.E.L.E adds custom languages, JSON packs, hot reload, and font support to R2API.Language.",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2109",
     "RiskofThunder-HookGenPatcher-1.2.3",
