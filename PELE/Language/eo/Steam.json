@@ -1,11 +1,11 @@
 {
     "strings": {
-        "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Antaŭenigi al Lobia Gvidanto",
+        "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Antauxenigi al Lobia Gvidanto",
         "STEAM_COPY_LOBBY": "Kopiu Vestiblo al Tondujo",
         "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Kopiu vian nunan Lobian ID al via Tondujo.",
         "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "Kopiita vestiblo ID al tondujo.",
-        "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Aliĝu al Clipboard Lobby",
-        "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "Aliĝis al Lobby ID.",
+        "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Aligxu al Clipboard Lobby",
+        "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "Aligxis al Lobby ID.",
         "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "Nevalida Lobia ID.",
         "STEAM_LOBBY_PUBLIC": "Publiko",
         "STEAM_LOBBY_PRIVATE": "Privata",
@@ -13,14 +13,14 @@
         "STEAM_LOBBY_INVISIBLE": "Nevidebla",
         "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "Ne en vestiblo",
         "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "Enirante QuickPlay...",
-        "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "Serĉante ekzistantan vestiblon...",
+        "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "Sercxante ekzistantan vestiblon...",
         "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} en vestiblo. Atendante pliajn ludantojn...",
-        "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} en vestiblo. Lanĉo en: {2}",
+        "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} en vestiblo. Lancxo en: {2}",
         "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Ne en QuickPlay-vico.",
         "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Konektante al gastiganto...",
         "STEAM_LOBBY_STATUS_STARTING_SERVER": "Komencante servilon...",
-        "STEAM_LOBBY_STATUS_GAME_STARTING": "Ludo komenciĝas...",
+        "STEAM_LOBBY_STATUS_GAME_STARTING": "Ludo komencigxas...",
         "STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Miskongruo de versio",
-        "STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Ne eblis aliĝi al la vestiblo. La gastiganto de la ludo funkcias en versio, kiu estas aŭ pli malnova aŭ pli nova ol via.\nVia={0}\nIlia={1}"
+        "STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Ne eblis aligxi al la vestiblo. La gastiganto de la ludo funkcias en versio, kiu estas aux pli malnova aux pli nova ol via.\nVia={0}\nIlia={1}"
     }
 }
