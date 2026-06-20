@@ -1,132 +1,98 @@
-# R2API.Language - Jaosnake PELE fork
+# PELE - Plugin for Enhanced Language Extension
 
-Esta pasta guarda a versao funcional do fork de `R2API.Language` usado pelo
-PELE. O objetivo deste fork e manter o carregamento normal de `.language` dos
-mods e, ao mesmo tempo, habilitar idiomas customizados do PELE via JSON:
+PELE is a Risk of Rain 2 language extension built on a customized
+`R2API.Language`. It keeps normal `.language` loading support and adds PELE JSON
+language packs, custom in-game languages, hot reload, and bundled Ukrainian font
+support.
 
-```text
-eo - Esperanto
-la - Latin
-uk - Ukrainian
-```
+## Important: This Replaces R2API.Language
 
-As traducoes ficam fora deste projeto de codigo, em:
-
-```text
-BepInEx/plugins/PELE/Language/<idioma>/*.json
-```
-
-No repositorio, esses arquivos estao em:
-
-```text
-../PELE/Language/
-```
-
-## Importante: substitui R2API.Language
-
-Este pacote **nao deve ser instalado lado a lado** com outro
+PELE is **not** a second language plugin to install side-by-side with the normal
 `R2API.Language.dll`.
 
-O PELE usa o mesmo GUID do `R2API.Language` original:
+This fork intentionally keeps the original BepInEx plugin GUID:
 
 ```text
 com.bepis.r2api.language
 ```
 
-Isso e intencional. O objetivo e substituir a DLL do pacote
-`RiskofThunder-R2API_Language`, mantendo compatibilidade com mods que dependem
-de R2API.Language, mas adicionando o carregamento JSON, idiomas customizados,
-hot reload e suporte de fonte do PELE.
+That is required so mods that depend on `R2API.Language` keep working while PELE
+adds its own behavior on top.
 
-Instale/deploy somente neste caminho:
+Only one `R2API.Language.dll` must be loaded by BepInEx. The intended target is:
 
 ```text
 BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
 ```
 
-Nao coloque outra copia em:
+Do **not** install another copy in paths like:
 
 ```text
 BepInEx/plugins/R2API.Language.dll
 BepInEx/plugins/PELE/R2API.Language.dll
-BepInEx/plugins/<qualquer outra pasta>/R2API.Language.dll
+BepInEx/plugins/SomeOtherFolder/R2API.Language.dll
 ```
 
-Se duas DLLs com o mesmo GUID forem carregadas, o BepInEx pode resolver o
-plugin errado, carregar hooks duplicados ou quebrar a ordem de inicializacao.
-O log correto deve mostrar apenas uma ocorrencia de `R2API.Language.dll`.
+If two DLLs with the same GUID are loaded, BepInEx may pick the wrong plugin,
+run duplicate hooks, or initialize language systems in the wrong order.
 
-## Estado funcional salvo
+## Features
 
-Versao de release inicial testada no jogo em 2026-06-20:
+- Loads PELE JSON files from `BepInEx/plugins/PELE/Language/<language>/*.json`.
+- Gives PELE translations priority over normal game/mod language fallbacks when
+  the same token exists in PELE.
+- Supports custom language codes:
+  - `la` - Latin
+  - `eo` - Esperanto
+  - `uk` - Ukrainian
+- Adds a pause-menu `Language` button.
+- Supports keyboard/mouse and controller hints in the language dialog.
+- Supports F5 hot reload for `.language` files and PELE JSON files.
+- Includes native Cyrillic font support for Ukrainian, without requiring
+  `AnotherOneCyrillicFont`.
+- Provides optional debug UI through `EnableDebugMenu=true`.
 
-- BepInEx carrega `R2API.Language (Jaosnake fork) 1.0.0`.
-- Startup carregou `23828` tokens do PELE.
-- O menu do jogo aceitou troca para `eo`, `la` e `uk`.
-- `eo` e `la` usam `CultureInfo("en")` como fallback.
-- `uk` usa `CultureInfo("uk")`.
-- Hot reload manual por `F5` fica ativo por padrao.
-- Janela de debug do PELE abre por `F6` somente se `EnableDebugMenu=true`.
+## Translation File Layout
 
-## O que este fork corrige
+PELE translations live outside the DLL:
 
-- Evita DLL duplicada: o build so substitui a DLL original de
-  `RiskofThunder-R2API_Language`.
-- Intercepta `Language.SetCurrentLanguage` para idiomas customizados.
-- Cria instancias de `Language` com o nome real do idioma, em vez de criar
-  `en` e tentar alterar campos internos depois. Essa responsabilidade fica em
-  `CustomLanguageRegistration.cs`.
-- Le JSON do PELE tanto em formato plano quanto no formato nativo do RoR2
-  atraves de `PeleJsonLoader.cs`:
+```text
+BepInEx/plugins/PELE/Language/<language>/*.json
+```
+
+The repository stores them here:
+
+```text
+PELE/Language/
+```
+
+Supported JSON format:
 
 ```json
 {
   "strings": {
-    "TOKEN": "Texto"
+    "TOKEN_NAME": "Translated text"
   }
 }
 ```
 
-- Ignora metadados como `language`, `strings` e chaves iniciadas por `_` na
-  contagem de tokens.
-- Remove deadlock no overlay de linguagem ao evitar reentrada no mesmo
-  `ReaderWriterLockSlim`.
-- Mantem o lock estatico vivo no shutdown para evitar erro tardio de unload.
-- Aplica suporte nativo a fonte cirilica via `CyrillicFontSupport.cs`, usando
-  primeiro `BepInEx/plugins/PELE/Fonts/cyrillicfont`.
-- Valida no startup os arquivos esperados do PELE via
-  `PeleStartupDiagnostics.cs`.
+Flat JSON token objects are also supported. Metadata keys such as `language`,
+`strings`, and keys starting with `_` are ignored as translation tokens.
 
-## Build local
+## Translation Priority
 
-Requisitos esperados nesta maquina:
+When Risk of Rain 2 asks for a token, PELE resolves it in this order:
 
-```text
-Risk of Rain 2:
-C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2
+1. Temporary overlay tokens.
+2. PELE/custom language tokens.
+3. The original game or mod language system.
 
-r2modman profile:
-C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default
-```
+That means PELE wins when it has the same token. Existing mod translation packs
+remain useful as fallback data when PELE does not provide a token.
 
-Compilar:
+## Configuration
 
-```powershell
-dotnet build C:\Users\Jaosnake\Desktop\PELE_Project\github_repo_latest\R2API.Language-Source\R2API.Language.csproj -c Release
-```
-
-O `.csproj` tem um alvo `DeployAfterBuild` que copia a DLL gerada para:
-
-```text
-BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
-```
-
-Isto e intencional. Nao coloque outra copia de `R2API.Language.dll` solta em
-`BepInEx/plugins`, porque BepInEx pode resolver dois plugins com o mesmo GUID.
-
-## Configuracao de release
-
-O arquivo BepInEx gerado para este plugin permite:
+BepInEx generates the config file for this plugin. The release defaults are:
 
 ```ini
 [PELE]
@@ -135,33 +101,40 @@ EnableDebugMenu = false
 EnableVerboseLogging = false
 ```
 
-- `EnableHotReload`: mantem F5 e watcher de arquivos ativos.
-- `EnableDebugMenu`: habilita a janela F6. Para release publica, o padrao e
-  `false`.
-- `EnableVerboseLogging`: habilita logs extras de hooks/layout. Para release
-  publica, o padrao e `false`.
+- `EnableHotReload`: enables F5 reload and file watcher reload.
+- `EnableDebugMenu`: enables the F6 PELE debug window.
+- `EnableVerboseLogging`: enables extra hook/layout diagnostic logs.
 
-## Artefatos de release
+## Manual Installation
 
-Para publicacao/empacotamento, a pasta usada pelo `thunderstore.toml` e:
-
-```text
-ReleaseOutput/
-├─ R2API.Language.dll
-└─ ukrainianfont
-```
-
-`bin/`, `obj/` e `_build/` sao locais e nao entram no pacote.
-
-## Como validar no log
-
-Abra:
+1. Install the normal R2API package set required by your mod profile.
+2. Replace the existing `R2API.Language.dll` at:
 
 ```text
-BepInEx/LogOutput.log
+BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
 ```
 
-Procure por:
+3. Copy the PELE folder to:
+
+```text
+BepInEx/plugins/PELE/
+```
+
+The `PELE` folder should contain data only:
+
+```text
+PELE/
+├─ Fonts/
+└─ Language/
+```
+
+It should **not** contain an old `PELE.dll`, `PELE.deps.json`, or `PELE.pdb`.
+Those files belonged to an older standalone PELE plugin and must not be shipped
+with this release.
+
+4. Start the game and check `BepInEx/LogOutput.log`.
+
+Expected log markers:
 
 ```text
 Loading [R2API.Language (Jaosnake fork) 1.0.0]
@@ -174,13 +147,52 @@ PELE JSONs carregados no startup (... tokens)
 Hot-Reload habilitado! Pressione F5 para recarregar manualmente.
 ```
 
-Se aparecer outro `R2API.Language.dll` carregando antes/depois deste fork,
-remova a copia duplicada e deixe somente a DLL no pacote
-`RiskofThunder-R2API_Language`.
+## Thunderstore Package Structure
 
-## Documentacao tecnica
+Thunderstore requires these files at the root of the package zip:
 
-Antes de refatorar hooks ou UI, leia:
+```text
+icon.png
+README.md
+manifest.json
+```
+
+This release also includes:
+
+```text
+CHANGELOG.md
+plugins/
+```
+
+The icon is a PNG file at exactly `256x256`.
+
+## Build
+
+Local build command:
+
+```powershell
+dotnet build C:\Users\Jaosnake\Desktop\PELE_Project\github_repo_latest\R2API.Language-Source\R2API.Language.csproj -c Release
+```
+
+The project deploy target copies the generated DLL to the active r2modman
+profile's `RiskofThunder-R2API_Language` folder. This is intentional and keeps
+the runtime profile from loading duplicate `R2API.Language.dll` files.
+
+## Release Artifacts
+
+`ReleaseOutput/` contains the files used for the package payload:
+
+```text
+ReleaseOutput/
+├─ R2API.Language.dll
+└─ ukrainianfont
+```
+
+`bin/`, `obj/`, `_build/`, and local test zips are not part of the package.
+
+## Technical Documentation
+
+Before changing hooks or UI behavior, read:
 
 ```text
 docs/HOOKS.md
@@ -188,28 +200,5 @@ docs/MANUAL_TESTS.md
 docs/STABILIZATION_PLAN.md
 ```
 
-- `HOOKS.md` explica cada hook/patch e o contrato que ele precisa preservar.
-- `MANUAL_TESTS.md` e o checklist de regressao manual no jogo.
-- `STABILIZATION_PLAN.md` define a ordem segura para separar arquivos e limpar
-  responsabilidades.
-
-## Estrutura
-
-```text
-R2API.Language-Source/
-├─ R2API.Language.csproj
-├─ LanguagePlugin.cs
-├─ CustomLanguageRegistration.cs
-├─ CyrillicFontSupport.cs
-├─ LanguagePauseMenu.cs
-├─ PeleJsonLoader.cs
-├─ PeleStartupDiagnostics.cs
-├─ LanguageAPI.cs
-├─ LanguageDebugUI.cs
-├─ LanguageHotReload.cs
-├─ LanguageNames.cs
-├─ docs/
-├─ *.cs
-├─ ukrainianfont
-└─ README.md
-```
+These files document the hook contracts, manual regression checklist, and
+stabilization rules for future PELE changes.

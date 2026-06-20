@@ -3,8 +3,8 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "RiskofThunder"
-name = "R2API_Language"
+namespace = "Jaosnake"
+name = "PELE"
 versionNumber = "1.0.0"
 description = "PELE fork of R2API.Language with JSON language loading, custom languages, hot reload, and embedded Ukrainian font support."
 websiteUrl = "https://github.com/Jaosnake/ror2-multi-language-pack"
@@ -21,11 +21,11 @@ readme = "./README.md"
 outdir = "./build"
 
 [[build.copy]]
-# Keep this path compatible with RiskofThunder-R2API_Language.
-# PELE replaces R2API.Language.dll; it must not be installed side-by-side
-# as another DLL with the same BepInEx GUID.
+# Keep this path compatible with RiskofThunder-R2API_Language. PELE replaces
+# R2API.Language.dll; it must not be installed side-by-side as another DLL with
+# the same BepInEx GUID.
 source = "./ReleaseOutput"
-target = "./plugins/R2API.Language"
+target = "./plugins/RiskofThunder-R2API_Language/R2API.Language"
 
 [[build.copy]]
 source = "../PELE"
