@@ -1,6 +1,6 @@
-# PELE - Plugin for Enhanced Language Extension
+# P.E.L.E - Plugin for Enhanced Language Extension
 
-PELE is a language expansion layer for Risk of Rain 2. It was created because
+P.E.L.E is a language expansion layer for Risk of Rain 2. It was created because
 the base game was never designed around community-made languages like
 Ukrainian, Esperanto, Latin, or any future custom language a translation team
 may want to add.
@@ -13,23 +13,23 @@ one coherent language pack. Ukrainian exposed that problem first: Cyrillic text
 can work, but the game still needs help registering the language, showing it in
 the UI, loading the right tokens, and refreshing everything without restarting.
 
-PELE solves that by replacing the language module with a customized
-`R2API.Language` fork that still supports existing mods, while adding a PELE
+P.E.L.E solves that by replacing the language module with a customized
+`R2API.Language` fork that still supports existing mods, while adding a P.E.L.E
 translation pipeline on top.
 
-## What PELE Adds
+## What P.E.L.E Adds
 
 - Custom language registration for:
   - `uk` - Ukrainian
   - `eo` - Esperanto
   - `la` - Latin
-- PELE JSON translation packs loaded from
+- P.E.L.E JSON translation packs loaded from
   `BepInEx/plugins/PELE/Language/<language>/*.json`.
-- Translation priority for PELE tokens when the same token exists in another
+- Translation priority for P.E.L.E tokens when the same token exists in another
   language pack.
 - A main-menu language selector that can show custom languages.
 - A pause-menu `Language` button with keyboard, mouse, and controller hints.
-- F5 hot reload for PELE JSON files and normal `.language` files.
+- F5 hot reload for P.E.L.E JSON files and normal `.language` files.
 - Native Ukrainian/Cyrillic font support, without requiring
   `AnotherOneCyrillicFont`.
 - Startup checks for missing folders, missing font data, and duplicate language
@@ -37,30 +37,30 @@ translation pipeline on top.
 
 ## Why Esperanto and Latin?
 
-Ukrainian is the main practical target: it proves that PELE can support a
+Ukrainian is the main practical target: it proves that P.E.L.E can support a
 language the base game does not handle cleanly by itself.
 
 Esperanto and Latin are the first experimental custom languages shipped with
-PELE. They are useful test languages because they are not base-game languages,
+P.E.L.E. They are useful test languages because they are not base-game languages,
 they force the language menu and loader to behave like a real extension system,
 and they give translators a repeatable way to test mod support beyond the
 official language list.
 
-In this release, PELE ships the first three-language custom test set:
+In this release, P.E.L.E ships the first three-language custom test set:
 
 ```text
 Ukrainian + Esperanto + Latin
 ```
 
-The package includes every PELE translation file currently shipped in this
+The package includes every P.E.L.E translation file currently shipped in this
 repository, even for mods you do not have installed. Risk of Rain 2 only uses
 tokens when the matching game content or mod asks for them, so keeping all packs
-together is intentional: you can install a supported mod later and its PELE
+together is intentional: you can install a supported mod later and its P.E.L.E
 translations are already there.
 
 ## Important: This Replaces R2API.Language
 
-PELE is **not** a second language plugin to install next to the normal
+P.E.L.E is **not** a second language plugin to install next to the normal
 `R2API.Language.dll`.
 
 This package is meant to replace the DLL from:
@@ -69,14 +69,14 @@ This package is meant to replace the DLL from:
 RiskofThunder-R2API_Language
 ```
 
-PELE intentionally keeps the original BepInEx plugin GUID:
+P.E.L.E intentionally keeps the original BepInEx plugin GUID:
 
 ```text
 com.bepis.r2api.language
 ```
 
 That is required so mods that depend on `R2API.Language` keep working normally.
-To BepInEx and to other mods, PELE is still the language API they expect; it
+To BepInEx and to other mods, P.E.L.E is still the language API they expect; it
 just has extra language support built in.
 
 Only one `R2API.Language.dll` must be loaded. The intended path is:
@@ -106,16 +106,30 @@ BepInEx/plugins/PELE/
 
 It must not contain an old `PELE.dll`, `PELE.deps.json`, or `PELE.pdb`.
 
+## Dependencies
+
+Thunderstore installs these dependencies automatically:
+
+```text
+bbepis-BepInExPack
+RiskofThunder-HookGenPatcher
+RiskofThunder-R2API_Core
+```
+
+`RiskofThunder-R2API_Language` is not listed as a separate dependency because
+P.E.L.E provides the replacement `R2API.Language.dll` itself. Installing another
+copy of `R2API.Language.dll` side-by-side can cause duplicate plugin loading.
+
 ## Included Three-Language Mod Support
 
-The mods below have PELE translation packs for all three custom languages in
+The mods below have P.E.L.E translation packs for all three custom languages in
 this release: Ukrainian, Esperanto, and Latin.
 
-"Complete PELE support" here means this package includes matching PELE JSON
+"Complete P.E.L.E support" here means this package includes matching P.E.L.E JSON
 files for `uk`, `eo`, and `la` for that mod. It does not mean the original mod
 author officially ships those languages.
 
-This list was checked against the PELE language files in this GitHub repository,
+This list was checked against the P.E.L.E language files in this GitHub repository,
 not against the mods currently installed in a local r2modman profile.
 
 | Mod | Thunderstore | Ukrainian | Esperanto | Latin |
@@ -161,14 +175,14 @@ not against the mods currently installed in a local r2modman profile.
 
 ## How Translation Priority Works
 
-When Risk of Rain 2 asks for a token, PELE resolves it in this order:
+When Risk of Rain 2 asks for a token, P.E.L.E resolves it in this order:
 
 1. Temporary overlay tokens.
-2. PELE custom-language tokens.
+2. P.E.L.E custom-language tokens.
 3. The normal game or mod language system.
 
-That means PELE wins when it has the same token. Existing mod translation packs
-remain useful as fallback data when PELE does not provide a token.
+That means P.E.L.E wins when it has the same token. Existing mod translation packs
+remain useful as fallback data when P.E.L.E does not provide a token.
 
 ## Manual Installation
 
@@ -211,12 +225,12 @@ EnableVerboseLogging = false
 ```
 
 - `EnableHotReload`: enables F5 reload and file watcher reload.
-- `EnableDebugMenu`: enables the F6 PELE debug window.
+- `EnableDebugMenu`: enables the F6 P.E.L.E debug window.
 - `EnableVerboseLogging`: enables extra hook and layout diagnostic logs.
 
 ## Translation File Layout
 
-PELE translations live outside the DLL:
+P.E.L.E translations live outside the DLL:
 
 ```text
 BepInEx/plugins/PELE/Language/<language>/*.json
@@ -258,4 +272,4 @@ docs/STABILIZATION_PLAN.md
 ```
 
 These files document hook contracts, manual regression testing, and the
-stabilization rules for future PELE changes.
+stabilization rules for future P.E.L.E changes.
