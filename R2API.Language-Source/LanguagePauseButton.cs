@@ -42,6 +42,8 @@ internal static class LanguagePauseButton
         orig(self);
         try
         {
+            RegisterUiTokens();
+
             var panel = self.mainPanel;
             if (panel == null || panel.childCount == 0) return;
 
@@ -52,11 +54,12 @@ internal static class LanguagePauseButton
             newButton.name = "LanguageSwitcherButton";
 
             var ctrl = newButton.GetComponentInChildren<LanguageTextMeshController>();
-            if (ctrl != null) Object.DestroyImmediate(ctrl);
+            if (ctrl != null)
+                ctrl.token = "PELE_LANGUAGE_BUTTON";
 
             var oldText = newButton.GetComponentInChildren<HGTextMeshProUGUI>();
             if (oldText != null)
-                oldText.text = "Language";
+                oldText.text = Language.GetString("PELE_LANGUAGE_BUTTON");
 
             var hgButton = newButton.GetComponent<HGButton>();
             hgButton.onClick = new Button.ButtonClickedEvent();
@@ -68,6 +71,67 @@ internal static class LanguagePauseButton
         {
             LanguagePlugin.Logger?.LogError("Falha no botao de idiomas: " + ex.Message);
         }
+    }
+
+    private static void RegisterUiTokens()
+    {
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Language");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Idioma", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Lingua", "la");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Lingvo", "eo");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Мова", "uk");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Sprache", "de");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Idioma", "es-ES");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Idioma", "es-419");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Langue", "fr");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Lingua", "it");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "言語", "ja");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "언어", "ko");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Язык", "ru");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "Dil", "tr");
+        LanguageAPI.AddOrUpdateToken("PELE_LANGUAGE_BUTTON", "语言", "zh-CN");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Select Language");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Selecionar idioma", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Elige linguam", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Elekti lingvon", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Вибрати мову", "uk");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC", "Choose a language below. The change applies immediately.");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC", "Escolha um idioma abaixo. A troca e aplicada imediatamente.", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC", "Elige linguam infra. Mutatio statim fit.", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC", "Elektu lingvon sube. La sxangxo validas tuj.", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC", "Оберіть мову нижче. Зміна застосовується одразу.", "uk");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Cancel");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Cancelar", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Abrogare", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Nuligi", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Скасувати", "uk");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Apply");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Aplicar", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Applicare", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Apliki", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Застосувати", "uk");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Cancel");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Cancelar", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Abrogare", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Nuligi", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Скасувати", "uk");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_MOUSE_APPLY_HINT", "Left click");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_MOUSE_APPLY_HINT", "Clique esquerdo", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_MOUSE_APPLY_HINT", "Clic sinistro", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_MOUSE_APPLY_HINT", "Maldekstra klako", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_MOUSE_APPLY_HINT", "Ліва кнопка", "uk");
+
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_ESC_HINT", "Esc");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_ESC_HINT", "Esc", "pt-BR");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_ESC_HINT", "Esc", "la");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_ESC_HINT", "Esc", "eo");
+        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_ESC_HINT", "Esc", "uk");
     }
 
     private static void SetLanguage(string lang)
@@ -98,12 +162,7 @@ internal static class LanguagePauseButton
 
     private static void ShowLanguageDialog(PauseScreenController pause)
     {
-        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_TITLE", "Select Language");
-        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_DESC",
-            "Choose a language below. The change applies immediately.");
-        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL", "Cancel");
-        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_APPLY_HINT", "Apply");
-        LanguageAPI.AddOrUpdateToken("SWITCH_LANGUAGE_CANCEL_HINT", "Cancel");
+        RegisterUiTokens();
 
         var languages = LanguageNames.GetAvailableLanguages();
         foreach (var lang in languages)
@@ -123,8 +182,6 @@ internal static class LanguagePauseButton
                 SetLanguage(captured);
             }, $"LANG_SEL_{lang}", destroyDialog: true);
         }
-
-        dialog.AddCancelButton("SWITCH_LANGUAGE_CANCEL");
 
         var watcherHost = dialog.rootObject != null ? dialog.rootObject : dialog.gameObject;
         var watcher = watcherHost.AddComponent<LanguageDialogCloseWatcher>();
@@ -200,9 +257,9 @@ internal static class LanguagePauseButton
             csf.verticalFit   = ContentSizeFitter.FitMode.PreferredSize;
             csf.horizontalFit = ContentSizeFitter.FitMode.PreferredSize;
 
+            AddInputLegend(dialog);
             LayoutRebuilder.ForceRebuildLayoutImmediate(container);
             WrapGridNavigation(container);
-            AddInputLegend(dialog);
 
             LanguagePlugin.Logger?.LogInfo($"ApplyGridLayout: grid aplicado com {container.childCount} botoes");
         }
@@ -214,13 +271,18 @@ internal static class LanguagePauseButton
 
     private static void WrapGridNavigation(RectTransform container)
     {
-        var buttons = container.GetComponentsInChildren<MPButton>();
-        if (buttons.Length == 0) return;
+        var buttons = new List<MPButton>();
+        foreach (var button in container.GetComponentsInChildren<MPButton>())
+        {
+            if (button.GetComponentInParent<LanguageInputLegendController>() != null) continue;
+            buttons.Add(button);
+        }
+        if (buttons.Count == 0) return;
 
-        int cols = Mathf.Min(3, buttons.Length);
-        int rows = (buttons.Length + cols - 1) / cols;
+        int cols = Mathf.Min(3, buttons.Count);
+        int rows = (buttons.Count + cols - 1) / cols;
 
-        for (int i = 0; i < buttons.Length; i++)
+        for (int i = 0; i < buttons.Count; i++)
         {
             var nav = new Navigation { mode = Navigation.Mode.Explicit };
 
@@ -231,15 +293,15 @@ internal static class LanguagePauseButton
             int right = col < cols - 1 ? i + 1 : i - col;
             int up    = row > 0
                 ? i - cols
-                : (rows - 1) * cols + Mathf.Min(col, buttons.Length - (rows - 1) * cols - 1);
+                : (rows - 1) * cols + Mathf.Min(col, buttons.Count - (rows - 1) * cols - 1);
             int down  = row < rows - 1
-                ? Mathf.Min(i + cols, buttons.Length - 1)
+                ? Mathf.Min(i + cols, buttons.Count - 1)
                 : col;
 
-            if (left  >= 0 && left  < buttons.Length) nav.selectOnLeft  = buttons[left];
-            if (right >= 0 && right < buttons.Length) nav.selectOnRight = buttons[right];
-            if (up    >= 0 && up    < buttons.Length) nav.selectOnUp    = buttons[up];
-            if (down  >= 0 && down  < buttons.Length) nav.selectOnDown  = buttons[down];
+            if (left  >= 0 && left  < buttons.Count) nav.selectOnLeft  = buttons[left];
+            if (right >= 0 && right < buttons.Count) nav.selectOnRight = buttons[right];
+            if (up    >= 0 && up    < buttons.Count) nav.selectOnUp    = buttons[up];
+            if (down  >= 0 && down  < buttons.Count) nav.selectOnDown  = buttons[down];
 
             buttons[i].navigation = nav;
         }
@@ -247,41 +309,52 @@ internal static class LanguagePauseButton
 
     private static void AddInputLegend(SimpleDialogBox dialog)
     {
-        if (dialog?.buttonContainer == null) return;
+        var container = dialog?.buttonContainer;
+        if (container == null) return;
+        if (container.Find("PELELanguageInputLegend") != null) return;
 
-        var parent = dialog.buttonContainer.parent as RectTransform;
-        if (parent == null) return;
-        if (parent.Find("PELELanguageInputLegend") != null) return;
-
-        var legend = new GameObject("PELELanguageInputLegend", typeof(RectTransform), typeof(HorizontalLayoutGroup));
+        var legend = new GameObject("PELELanguageInputLegend", typeof(RectTransform), typeof(HorizontalLayoutGroup), typeof(LanguageInputLegendController));
         var legendRect = legend.GetComponent<RectTransform>();
-        legendRect.SetParent(parent, false);
-        legendRect.anchorMin = new Vector2(1f, 0f);
-        legendRect.anchorMax = new Vector2(1f, 0f);
-        legendRect.pivot = new Vector2(1f, 0f);
-        legendRect.anchoredPosition = new Vector2(-8f, 8f);
-        legendRect.sizeDelta = new Vector2(260f, 34f);
+        legendRect.SetParent(container, false);
+        legendRect.sizeDelta = new Vector2(616f, 42f);
+
+        var legendLayout = legend.AddComponent<LayoutElement>();
+        legendLayout.minWidth = 616f;
+        legendLayout.preferredWidth = 616f;
+        legendLayout.minHeight = 42f;
+        legendLayout.preferredHeight = 42f;
+        legendLayout.flexibleWidth = 0f;
+        legendLayout.flexibleHeight = 0f;
 
         var layout = legend.GetComponent<HorizontalLayoutGroup>();
-        layout.spacing = 12f;
+        layout.spacing = 58f;
+        layout.padding = new RectOffset(8, 0, 8, 0);
         layout.childForceExpandHeight = false;
         layout.childForceExpandWidth = false;
 
-        AddLegendItem(legendRect, "UISubmit", "SWITCH_LANGUAGE_APPLY_HINT");
-        AddLegendItem(legendRect, "UICancel", "SWITCH_LANGUAGE_CANCEL_HINT");
+        var controller = legend.GetComponent<LanguageInputLegendController>();
+        controller.eventSystem = EventSystem.current as MPEventSystem;
+        controller.applyGlyph = AddLegendItem(legendRect, "UISubmit", "SWITCH_LANGUAGE_MOUSE_APPLY_HINT", "SWITCH_LANGUAGE_APPLY_HINT");
+        controller.cancelGlyph = AddLegendItem(legendRect, "UICancel", "SWITCH_LANGUAGE_ESC_HINT", "SWITCH_LANGUAGE_CANCEL_HINT");
     }
 
-    private static void AddLegendItem(RectTransform parent, string actionName, string textToken)
+    private static InputBindingDisplayController AddLegendItem(RectTransform parent, string actionName, string keyToken, string textToken)
     {
         var item = new GameObject(actionName + "Legend", typeof(RectTransform), typeof(HorizontalLayoutGroup));
         var itemRect = item.GetComponent<RectTransform>();
         itemRect.SetParent(parent, false);
-        itemRect.sizeDelta = new Vector2(120f, 30f);
+        itemRect.sizeDelta = new Vector2(270f, 30f);
 
         var layout = item.GetComponent<HorizontalLayoutGroup>();
-        layout.spacing = 5f;
+        layout.spacing = 7f;
         layout.childForceExpandHeight = false;
         layout.childForceExpandWidth = false;
+
+        var itemLayout = item.AddComponent<LayoutElement>();
+        itemLayout.minWidth = 270f;
+        itemLayout.preferredWidth = 270f;
+        itemLayout.minHeight = 30f;
+        itemLayout.preferredHeight = 30f;
 
         var glyphObject = new GameObject("Glyph", typeof(RectTransform), typeof(HGTextMeshProUGUI));
         var glyphRect = glyphObject.GetComponent<RectTransform>();
@@ -294,12 +367,26 @@ internal static class LanguagePauseButton
 
         var glyph = glyphObject.AddComponent<InputBindingDisplayController>();
         glyph.actionName = actionName;
-        glyph.useExplicitInputSource = false;
+        glyph.useExplicitInputSource = true;
+        glyph.explicitInputSource = MPEventSystem.InputSource.Gamepad;
+
+        var keyObject = new GameObject("KeyFallback", typeof(RectTransform), typeof(HGTextMeshProUGUI), typeof(LanguageTextMeshController));
+        var keyRect = keyObject.GetComponent<RectTransform>();
+        keyRect.SetParent(itemRect, false);
+        keyRect.sizeDelta = new Vector2(158f, 28f);
+
+        var keyText = keyObject.GetComponent<HGTextMeshProUGUI>();
+        keyText.fontSize = 14f;
+        keyText.alignment = TextAlignmentOptions.MidlineLeft;
+        keyText.enableWordWrapping = false;
+
+        var keyLang = keyObject.GetComponent<LanguageTextMeshController>();
+        keyLang.token = keyToken;
 
         var labelObject = new GameObject("Label", typeof(RectTransform), typeof(HGTextMeshProUGUI), typeof(LanguageTextMeshController));
         var labelRect = labelObject.GetComponent<RectTransform>();
         labelRect.SetParent(itemRect, false);
-        labelRect.sizeDelta = new Vector2(78f, 28f);
+        labelRect.sizeDelta = new Vector2(76f, 28f);
 
         var labelText = labelObject.GetComponent<HGTextMeshProUGUI>();
         labelText.fontSize = 14f;
@@ -308,5 +395,34 @@ internal static class LanguagePauseButton
 
         var lang = labelObject.GetComponent<LanguageTextMeshController>();
         lang.token = textToken;
+
+        return glyph;
+    }
+
+    private class LanguageInputLegendController : MonoBehaviour
+    {
+        public MPEventSystem eventSystem;
+        public InputBindingDisplayController applyGlyph;
+        public InputBindingDisplayController cancelGlyph;
+
+        private void Update()
+        {
+            var gamepad = eventSystem != null && eventSystem.currentInputSource == MPEventSystem.InputSource.Gamepad;
+            SetGlyphVisible(applyGlyph, gamepad);
+            SetGlyphVisible(cancelGlyph, gamepad);
+        }
+
+        private static void SetGlyphVisible(InputBindingDisplayController glyph, bool visible)
+        {
+            if (glyph == null) return;
+
+            var glyphText = glyph.GetComponent<HGTextMeshProUGUI>();
+            if (glyphText != null)
+                glyphText.enabled = visible;
+
+            var fallback = glyph.transform.parent.Find("KeyFallback");
+            if (fallback != null)
+                fallback.gameObject.SetActive(!visible);
+        }
     }
 }

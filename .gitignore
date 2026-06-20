@@ -4,6 +4,26 @@
 __pycache__/
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Local/editor files
+.vscode/
+.idea/
+*.iml
+*.tmp
+*.temp
+*.cache
+*.swp
+
+# Logs and local environment
+*.log
+.env
+.env.*
+!.env.example
+
+# .NET build output
+bin/
+obj/
 
 *.r2z
 *.zip
