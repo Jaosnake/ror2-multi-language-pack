@@ -16,7 +16,7 @@ public static partial class LanguageAPI
 {
     public const string PluginGUID = "com.bepis.r2api.language";
     public const string PluginName = "R2API.Language (Jaosnake fork)";
-    public const string PluginVersion = "1.0.0";
+    public const string PluginVersion = "2.0.0";
 
     public static bool Loaded => true;
 
