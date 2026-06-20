@@ -41,7 +41,8 @@ Versao testada no jogo em 2026-06-19:
 - Intercepta `Language.SetCurrentLanguage` para idiomas customizados.
 - Cria instancias de `Language` com o nome real do idioma, em vez de criar
   `en` e tentar alterar campos internos depois.
-- Le JSON do PELE tanto em formato plano quanto no formato nativo do RoR2:
+- Le JSON do PELE tanto em formato plano quanto no formato nativo do RoR2
+  atraves de `PeleJsonLoader.cs`:
 
 ```json
 {
@@ -56,6 +57,10 @@ Versao testada no jogo em 2026-06-19:
 - Remove deadlock no overlay de linguagem ao evitar reentrada no mesmo
   `ReaderWriterLockSlim`.
 - Mantem o lock estatico vivo no shutdown para evitar erro tardio de unload.
+- Aplica suporte nativo a fonte cirilica via `CyrillicFontSupport.cs`, usando
+  primeiro `BepInEx/plugins/PELE/Fonts/cyrillicfont`.
+- Valida no startup os arquivos esperados do PELE via
+  `PeleStartupDiagnostics.cs`.
 
 ## Build local
 
@@ -108,6 +113,10 @@ Procure por:
 ```text
 Loading [R2API.Language (Jaosnake fork) 2.1.1]
 R2API.Language (Jaosnake fork) inicializado!
+PELE/Language encontrado: ...
+Tokens PELE por idioma: la=..., eo=..., uk=...
+PELE/Fonts/cyrillicfont encontrado.
+DLL R2API.Language unica detectada.
 PELE JSONs carregados no startup (... tokens)
 Hot-Reload habilitado! Pressione F5 para recarregar manualmente.
 SetCurrentLanguage interceptado: 'eo'
@@ -119,16 +128,35 @@ Se aparecer outro `R2API.Language.dll` carregando antes/depois deste fork,
 remova a copia duplicada e deixe somente a DLL no pacote
 `RiskofThunder-R2API_Language`.
 
+## Documentacao tecnica
+
+Antes de refatorar hooks ou UI, leia:
+
+```text
+docs/HOOKS.md
+docs/MANUAL_TESTS.md
+docs/STABILIZATION_PLAN.md
+```
+
+- `HOOKS.md` explica cada hook/patch e o contrato que ele precisa preservar.
+- `MANUAL_TESTS.md` e o checklist de regressao manual no jogo.
+- `STABILIZATION_PLAN.md` define a ordem segura para separar arquivos e limpar
+  responsabilidades.
+
 ## Estrutura
 
 ```text
 R2API.Language-Source/
 ├─ R2API.Language.csproj
 ├─ LanguagePlugin.cs
+├─ CyrillicFontSupport.cs
+├─ PeleJsonLoader.cs
+├─ PeleStartupDiagnostics.cs
 ├─ LanguageAPI.cs
 ├─ LanguageDebugUI.cs
 ├─ LanguageHotReload.cs
 ├─ LanguageNames.cs
+├─ docs/
 ├─ *.cs
 ├─ ukrainianfont
 └─ README.md

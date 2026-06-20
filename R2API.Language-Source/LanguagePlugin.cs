@@ -9,11 +9,7 @@ using BepInEx;
 using BepInEx.Logging;
 using HarmonyLib;
 using RoR2;
-using RoR2.UI;
-using SimpleJSON;
-using TMPro;
 using UnityEngine;
-using Object = UnityEngine.Object;
 
 namespace R2API;
 
@@ -24,9 +20,6 @@ public sealed class LanguagePlugin : BaseUnityPlugin
 
     private static readonly string[] CustomLangs = { "la", "eo", "uk" };
     private static readonly string[] CultureFallbackLangs = { "la", "eo" };
-    private static TMP_FontAsset _cachedFont;
-    private static AssetBundle _cachedFontBundle;
-    private static TMP_FontAsset _vanillaDefaultFont;
 
     private Harmony _harmony;
     private Action<List<string>> _collectLanguageRootFoldersHandler;
@@ -54,7 +47,9 @@ public sealed class LanguagePlugin : BaseUnityPlugin
 
         try
         {
-            _harmony = Harmony.CreateAndPatchAll(typeof(LanguagePlugin), "jaosnake.r2api.language");
+            _harmony = new Harmony("jaosnake.r2api.language");
+            _harmony.PatchAll(typeof(LanguagePlugin));
+            _harmony.PatchAll(typeof(CyrillicFontSupport));
             Logger.LogInfo("Harmony patches aplicados");
         }
         catch (Exception ex)
@@ -66,9 +61,10 @@ public sealed class LanguagePlugin : BaseUnityPlugin
     private void OnEnable()
     {
         LanguageAPI.SetHooks();
+        PeleStartupDiagnostics.LogOnce();
 
         ReloadPeleJsonFiles();
-        Logger.LogInfo("PELE JSONs carregados no startup (" + GetPeleTokenCount() + " tokens)");
+        Logger.LogInfo("PELE JSONs carregados no startup (" + PeleJsonLoader.CountTokens() + " tokens)");
 
         var pluginPath = BepInEx.Paths.PluginPath;
         LanguageAPI.EnableHotReload(pluginPath);
@@ -116,75 +112,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
 
     public static void ReloadPeleJsonFiles()
     {
-        LanguageAPI.InvalidateDiskCache();
-        try
-        {
-            var peleDir = System.IO.Path.Combine(BepInEx.Paths.PluginPath, "PELE", "Language");
-            if (!Directory.Exists(peleDir)) return;
-
-            foreach (var langDir in Directory.GetDirectories(peleDir))
-            {
-                var langCode = System.IO.Path.GetFileName(langDir);
-                if (string.IsNullOrEmpty(langCode)) continue;
-
-                foreach (var jsonFile in Directory.GetFiles(langDir, "*.json"))
-                {
-                    try
-                    {
-                        var content = File.ReadAllText(jsonFile);
-                        var json = JSON.Parse(content);
-                        if (json == null) continue;
-
-                        AddJsonTokens(json, langCode);
-                    }
-                    catch (Exception ex)
-                    {
-                        Logger.LogError("Erro ao recarregar " + jsonFile + ": " + ex.Message);
-                    }
-                }
-            }
-        }
-        catch (Exception ex)
-        {
-            Logger.LogError("Erro em ReloadPeleJsonFiles: " + ex.Message);
-        }
-    }
-
-    private static int AddJsonTokens(JSONNode json, string langCode)
-    {
-        if (json == null) return 0;
-
-        var strings = json["strings"];
-        if (strings != null && strings.Count > 0)
-            return AddTokenObject(strings, langCode);
-
-        return AddTokenObject(json, langCode, skipManifestKeys: true);
-    }
-
-    private static int AddTokenObject(JSONNode node, string langCode, bool skipManifestKeys = false)
-    {
-        int count = 0;
-        foreach (var key in node.Keys)
-        {
-            if (skipManifestKeys && string.Equals(key, "language", StringComparison.OrdinalIgnoreCase))
-                continue;
-            if (skipManifestKeys && string.Equals(key, "strings", StringComparison.OrdinalIgnoreCase))
-                continue;
-            if (key.StartsWith("_", StringComparison.Ordinal))
-                continue;
-
-            var valueNode = node[key];
-            if (valueNode == null || valueNode.Count > 0)
-                continue;
-
-            var val = valueNode.Value;
-            if (val == null)
-                continue;
-
-            LanguageAPI.AddOrUpdateToken(key, val, langCode);
-            count++;
-        }
-        return count;
+        PeleJsonLoader.Reload();
     }
 
     [HarmonyPostfix]
@@ -317,145 +245,4 @@ public sealed class LanguagePlugin : BaseUnityPlugin
         return false;
     }
 
-    [HarmonyPostfix]
-    [HarmonyPatch(typeof(HGTextMeshProUGUI), "OnCurrentLanguageChanged")]
-    private static void OnLanguageChanged()
-    {
-        _vanillaDefaultFont ??= HGTextMeshProUGUI.defaultLanguageFont;
-
-        var customFont = GetCustomFontForCurrentLanguage();
-        HGTextMeshProUGUI.defaultLanguageFont = customFont ?? _vanillaDefaultFont;
-        ApplyCurrentFontToActiveText();
-    }
-
-    private static TMP_FontAsset GetCustomFontForCurrentLanguage()
-    {
-        var current = Language.currentLanguageName;
-        if (current == null) return null;
-        if (!"uk".Equals(current, StringComparison.OrdinalIgnoreCase)) return null;
-        return TryLoadFont("ukrainianfont");
-    }
-
-    private static TMP_FontAsset TryLoadFont(string resourceName)
-    {
-        if (_cachedFont != null) return _cachedFont;
-
-        try
-        {
-            if (_cachedFontBundle == null)
-            {
-                var stream = TryGetResourceStream(resourceName);
-                if (stream == null)
-                {
-                    Logger?.LogWarning("TryLoadFont: recurso embutido nao encontrado: " + resourceName);
-                    return null;
-                }
-
-                using (stream)
-                    _cachedFontBundle = AssetBundle.LoadFromStream(stream);
-
-                if (_cachedFontBundle == null)
-                {
-                    Logger?.LogWarning("TryLoadFont: AssetBundle retornou null: " + resourceName);
-                    return null;
-                }
-            }
-
-            var font = _cachedFontBundle.LoadAsset<TMP_FontAsset>("Assets/PELE-Font.asset")
-                ?? _cachedFontBundle.LoadAsset<TMP_FontAsset>("PELE-Font")
-                ?? _cachedFontBundle.LoadAsset<TMP_FontAsset>("ukrainianfont")
-                ?? _cachedFontBundle.LoadAllAssets<TMP_FontAsset>().FirstOrDefault();
-
-            if (font == null)
-            {
-                Logger?.LogWarning("TryLoadFont: TMP_FontAsset nao encontrado no bundle '" + resourceName + "'");
-                return null;
-            }
-
-            _cachedFont = font;
-            Logger?.LogInfo("Fonte ucraniana carregada: " + font.name);
-            return _cachedFont;
-        }
-        catch (Exception ex)
-        {
-            Logger?.LogWarning("TryLoadFont falhou: " + ex.Message);
-            return null;
-        }
-    }
-
-    private static void ApplyCurrentFontToActiveText()
-    {
-        var font = HGTextMeshProUGUI.defaultLanguageFont;
-        if (font == null) return;
-
-        foreach (var text in Resources.FindObjectsOfTypeAll<HGTextMeshProUGUI>())
-        {
-            if (text == null) continue;
-            if (!text.gameObject.scene.IsValid()) continue;
-            text.font = font;
-            text.SetAllDirty();
-        }
-    }
-
-    private static Stream TryGetResourceStream(string resourceName)
-    {
-        var asm = Assembly.GetExecutingAssembly();
-        return asm.GetManifestResourceStream("R2API.Language." + resourceName)
-            ?? asm.GetManifestResourceStream("PELE." + resourceName);
-    }
-
-    private static int GetPeleTokenCount()
-    {
-        try
-        {
-            var peleDir = System.IO.Path.Combine(BepInEx.Paths.PluginPath, "PELE", "Language");
-            if (!Directory.Exists(peleDir)) return 0;
-
-            int total = 0;
-            foreach (var langDir in Directory.GetDirectories(peleDir))
-            {
-                var langCode = System.IO.Path.GetFileName(langDir);
-                if (string.IsNullOrEmpty(langCode)) continue;
-
-                foreach (var jsonFile in Directory.GetFiles(langDir, "*.json"))
-                {
-                    var content = File.ReadAllText(jsonFile);
-                    var json = SimpleJSON.JSON.Parse(content);
-                    if (json == null) continue;
-
-                    total += CountJsonTokens(json);
-                }
-            }
-            return total;
-        }
-        catch { return 0; }
-    }
-
-    private static int CountJsonTokens(JSONNode json)
-    {
-        if (json == null) return 0;
-
-        var strings = json["strings"];
-        if (strings != null && strings.Count > 0)
-            return CountTokenObject(strings);
-
-        return CountTokenObject(json, skipManifestKeys: true);
-    }
-
-    private static int CountTokenObject(JSONNode node, bool skipManifestKeys = false)
-    {
-        int total = 0;
-        foreach (var key in node.Keys)
-        {
-            if (skipManifestKeys && string.Equals(key, "language", StringComparison.OrdinalIgnoreCase))
-                continue;
-            if (skipManifestKeys && string.Equals(key, "strings", StringComparison.OrdinalIgnoreCase))
-                continue;
-            if (key.StartsWith("_", StringComparison.Ordinal))
-                continue;
-            if (node[key] != null && node[key].Count == 0)
-                total++;
-        }
-        return total;
-    }
 }
