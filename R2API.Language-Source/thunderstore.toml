@@ -5,9 +5,9 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "RiskofThunder"
 name = "R2API_Language"
-versionNumber = "1.1.0"
-description = "API for modifying the language localisation of the game"
-websiteUrl = "https://github.com/risk-of-thunder/R2API"
+versionNumber = "1.0.0"
+description = "PELE fork of R2API.Language with JSON language loading, custom languages, hot reload, and embedded Ukrainian font support."
+websiteUrl = "https://github.com/Jaosnake/ror2-multi-language-pack"
 containsNsfwContent = false
 
 [package.dependencies]
@@ -16,13 +16,17 @@ RiskofThunder-HookGenPatcher = "1.2.3"
 RiskofThunder-R2API_Core = "1.0.0"
 
 [build]
-icon = "../icon.png"
+icon = "./icon.png"
 readme = "./README.md"
 outdir = "./build"
 
 [[build.copy]]
 source = "./ReleaseOutput"
 target = "./plugins/R2API.Language"
+
+[[build.copy]]
+source = "../PELE"
+target = "./plugins/PELE"
 
 [publish]
 repository = "https://thunderstore.io"

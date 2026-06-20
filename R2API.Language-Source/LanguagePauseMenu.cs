@@ -261,7 +261,7 @@ internal static class LanguagePauseMenu
             LayoutRebuilder.ForceRebuildLayoutImmediate(container);
             WrapGridNavigation(container);
 
-            LanguagePlugin.Logger?.LogInfo($"ApplyGridLayout: grid aplicado com {container.childCount} botoes");
+            LanguagePlugin.LogVerbose($"ApplyGridLayout: grid aplicado com {container.childCount} botoes");
         }
         catch (Exception ex)
         {

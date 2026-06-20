@@ -113,6 +113,12 @@ internal static class ConsoleCommands
         helpText = "Alterna a janela de debug do R2API.Language")]
     private static void CC_LangDebug(ConCommandArgs args)
     {
+        if (!LanguagePlugin.EnableDebugMenu)
+        {
+            Debug.Log("[R2API.Language] /langdebug: EnableDebugMenu=false no config.");
+            return;
+        }
+
         LanguageDebugUI.Toggle();
         Debug.Log("[R2API.Language] /langdebug: janela de debug alternada.");
     }

@@ -24,15 +24,15 @@ No repositorio, esses arquivos estao em:
 
 ## Estado funcional salvo
 
-Versao testada no jogo em 2026-06-19:
+Versao de release inicial testada no jogo em 2026-06-20:
 
-- BepInEx carregou `R2API.Language (Jaosnake fork) 2.1.1`.
+- BepInEx carrega `R2API.Language (Jaosnake fork) 1.0.0`.
 - Startup carregou `23828` tokens do PELE.
 - O menu do jogo aceitou troca para `eo`, `la` e `uk`.
 - `eo` e `la` usam `CultureInfo("en")` como fallback.
 - `uk` usa `CultureInfo("uk")`.
-- Hot reload manual por `F5` fica ativo.
-- Janela de debug do PELE abre por `F6`.
+- Hot reload manual por `F5` fica ativo por padrao.
+- Janela de debug do PELE abre por `F6` somente se `EnableDebugMenu=true`.
 
 ## O que este fork corrige
 
@@ -90,16 +90,34 @@ BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
 Isto e intencional. Nao coloque outra copia de `R2API.Language.dll` solta em
 `BepInEx/plugins`, porque BepInEx pode resolver dois plugins com o mesmo GUID.
 
-## Arquivo precompilado
+## Configuracao de release
 
-Depois do build, mantenha uma copia versionada em:
+O arquivo BepInEx gerado para este plugin permite:
 
-```text
-../_build/R2API.Language.dll
+```ini
+[PELE]
+EnableHotReload = true
+EnableDebugMenu = false
+EnableVerboseLogging = false
 ```
 
-Essa copia serve como artefato rapido para recuperar a versao funcional sem
-recompilar.
+- `EnableHotReload`: mantem F5 e watcher de arquivos ativos.
+- `EnableDebugMenu`: habilita a janela F6. Para release publica, o padrao e
+  `false`.
+- `EnableVerboseLogging`: habilita logs extras de hooks/layout. Para release
+  publica, o padrao e `false`.
+
+## Artefatos de release
+
+Para publicacao/empacotamento, a pasta usada pelo `thunderstore.toml` e:
+
+```text
+ReleaseOutput/
+├─ R2API.Language.dll
+└─ ukrainianfont
+```
+
+`bin/`, `obj/` e `_build/` sao locais e nao entram no pacote.
 
 ## Como validar no log
 
@@ -112,7 +130,7 @@ BepInEx/LogOutput.log
 Procure por:
 
 ```text
-Loading [R2API.Language (Jaosnake fork) 2.1.1]
+Loading [R2API.Language (Jaosnake fork) 1.0.0]
 R2API.Language (Jaosnake fork) inicializado!
 PELE/Language encontrado: ...
 Tokens PELE por idioma: la=..., eo=..., uk=...
@@ -120,9 +138,6 @@ PELE/Fonts/cyrillicfont encontrado.
 DLL R2API.Language unica detectada.
 PELE JSONs carregados no startup (... tokens)
 Hot-Reload habilitado! Pressione F5 para recarregar manualmente.
-SetCurrentLanguage interceptado: 'eo'
-SetCurrentLanguage interceptado: 'la'
-SetCurrentLanguage interceptado: 'uk'
 ```
 
 Se aparecer outro `R2API.Language.dll` carregando antes/depois deste fork,

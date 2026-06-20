@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using BepInEx;
+using BepInEx.Configuration;
 using BepInEx.Logging;
 using HarmonyLib;
 using RoR2;
@@ -13,17 +14,25 @@ namespace R2API;
 public sealed class LanguagePlugin : BaseUnityPlugin
 {
     internal static new ManualLogSource Logger { get; set; }
+    internal static bool EnableDebugMenu => _enableDebugMenu?.Value ?? false;
+    internal static bool EnableVerboseLogging => _enableVerboseLogging?.Value ?? false;
+    internal static bool EnableHotReload => _enableHotReload?.Value ?? true;
 
     private Harmony _harmony;
     private Action<List<string>> _collectLanguageRootFoldersHandler;
+    private static ConfigEntry<bool> _enableDebugMenu;
+    private static ConfigEntry<bool> _enableVerboseLogging;
+    private static ConfigEntry<bool> _enableHotReload;
 
     private void Awake()
     {
         Logger = base.Logger;
         LanguageAPI.Log = Logger;
+        BindConfig();
         Logger.LogInfo("R2API.Language (Jaosnake fork) inicializado!");
 
-        LanguageDebugUI.Create();
+        if (EnableDebugMenu)
+            LanguageDebugUI.Create();
         LanguagePauseMenu.Init();
         ConsoleCommands.Init();
 
@@ -33,7 +42,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
             if (Directory.Exists(pelePath))
             {
                 folders.Add(pelePath);
-                Logger.LogInfo("Pasta PELE/Language registrada: " + pelePath);
+                LogVerbose("Pasta PELE/Language registrada: " + pelePath);
             }
         };
         Language.collectLanguageRootFolders += _collectLanguageRootFoldersHandler;
@@ -44,7 +53,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
             _harmony.PatchAll(typeof(LanguagePlugin));
             _harmony.PatchAll(typeof(CustomLanguageRegistration));
             _harmony.PatchAll(typeof(CyrillicFontSupport));
-            Logger.LogInfo("Harmony patches aplicados");
+            LogVerbose("Harmony patches aplicados");
         }
         catch (Exception ex)
         {
@@ -60,12 +69,18 @@ public sealed class LanguagePlugin : BaseUnityPlugin
         ReloadPeleJsonFiles();
         Logger.LogInfo("PELE JSONs carregados no startup (" + PeleJsonLoader.CountTokens() + " tokens)");
 
-        var pluginPath = BepInEx.Paths.PluginPath;
-        LanguageAPI.EnableHotReload(pluginPath);
+        if (EnableHotReload)
+        {
+            var pluginPath = BepInEx.Paths.PluginPath;
+            LanguageAPI.EnableHotReload(pluginPath);
+            LanguageHotReload.Instance.OnAfterReload += OnHotReloadCompleted;
 
-        LanguageHotReload.Instance.OnAfterReload += OnHotReloadCompleted;
-
-        Logger.LogInfo("Hot-Reload habilitado! Pressione F5 para recarregar manualmente.");
+            Logger.LogInfo("Hot-Reload habilitado! Pressione F5 para recarregar manualmente.");
+        }
+        else
+        {
+            Logger.LogInfo("Hot-Reload desabilitado por config.");
+        }
     }
 
     private void OnDisable()
@@ -90,7 +105,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F5))
+        if (EnableHotReload && Input.GetKeyDown(KeyCode.F5))
         {
             Logger.LogInfo("F5 pressionado! Recarregando todas as linguagens...");
             LanguageAPI.ReloadAllLanguageFiles(BepInEx.Paths.PluginPath);
@@ -113,4 +128,30 @@ public sealed class LanguagePlugin : BaseUnityPlugin
     internal static string[] GetFallbackLangs() => CustomLanguageRegistration.GetFallbackLangs();
     public static string FixCultureName(string name) => CustomLanguageRegistration.FixCultureName(name);
 
+    internal static void LogVerbose(string message)
+    {
+        if (EnableVerboseLogging)
+            Logger?.LogInfo(message);
+    }
+
+    private void BindConfig()
+    {
+        _enableHotReload = Config.Bind(
+            "PELE",
+            "EnableHotReload",
+            true,
+            "Enable F5/manual and file watcher language reload.");
+
+        _enableDebugMenu = Config.Bind(
+            "PELE",
+            "EnableDebugMenu",
+            false,
+            "Enable the F6 PELE debug window.");
+
+        _enableVerboseLogging = Config.Bind(
+            "PELE",
+            "EnableVerboseLogging",
+            false,
+            "Enable extra diagnostic logs for PELE hooks and UI layout.");
+    }
 }
