@@ -1,23 +1,23 @@
 {
-    "strings": {
-        "ARTIFACT_DEVOTION_NAME": "Artefakto de Sindonemo",
-        "ARTIFACT_DEVOTION_DESCRIPTION": "Anstataŭigi rompitajn virabelojn per Lemuriaj Ovoj. Proponu objekton por gajni sekvantojn.",
-        "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_NAME": "Provo de Sindonemo",
-        "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_DESCRIPTION": "Kompletigu la Provon de Sindonemo.",
-        "ARTIFACT_DELUSION_NAME": "Artefakto de Iluzio",
-        "ARTIFACT_DELUSION_DESCRIPTION": "Risku viajn erojn post kompletigado de la teletransportista evento en testo de memoro por akiri pliajn erojn.",
-        "ACHIEVEMENT_OBTAINARTIFACTDELUSION_NAME": "Provo de Delusion",
-        "ACHIEVEMENT_OBTAINARTIFACTDELUSION_DESCRIPTION": "Kompletigu la Provon de Iluzio.",
-        "MAP_LAKES_TITLE": "Verdaj Akvofaloj",
-        "MAP_LAKES_SUBTITLE": "Grundo Nulo",
-        "MAP_LAKES_LORE": "<style=cMono>\nBonvenon al DataScraper (v3.5.16 - beta branĉo)\n$ Skrapanta memoro... farita.\n$ Solvado... farita.\n$ Kombasado por koncernaj datumoj... farita.\nKompleta!\nEligante lokajn sontransskribojn...\n</style>\n\nTago 02\nLa tutan tagon Garret malbenas pri perdo de nia ŝipo, nia vojo, nia kargo. Laŭ tio, kion mi aŭdis pri ĉi tiu planedo, ĝi povus esti pli malbona. Ni pluvivas per plantoj, kiujn nia ksenobiologo ŝatintus studi. Ia Altkortuma signalo esploras ĉi tiun inferan truon. Ŝajnas streĉa, sed mi esperas, ke ili aspektas tiel kaj sentas sin malavara.\nPer provo kaj eraro, ni malkovris la plej manĝeblan planton - ili estas abomenindaj krudaj, sed post brulado ili estas tolereblaj, kaj ilia odoro - odoro tiel dolĉa kaj potenca, ke ĝi saturas niajn filtrilojn. Memorigas min pri fragoj. Varmiĝis en la suno.\nAlmenaŭ ni vivas.\n\nTago 03\nMia buŝo gustas amara krom se mi manĝas. Garret raportas la samon, lia paranojo kreskas ĉiutage. Li ĵuras, ke li vidas la sukon tremi kaj resalti ĉiun fojon kiam ni hakas malfermas ĉi tiujn plantojn.\n\nTago 07\nVerdire mi komencas zorgi.\nPli elĉerpita ĉiutage.\nTeruraj stomakdoloroj nokte.\nKompreneble ni suspektas la manĝaĵon sed kian alian elekton ni havas?\nMia haŭto havas oranĝan nuancon... eble ĝi estas mia vizio.\nĈio, kion mi lastatempe flaras, estas la dolĉeco de la suko.\nMi preĝas, ke mi ne malsaniĝas.\nMi malamus, ke Garret pravas pri io.\n\nTago 08\nNi vivas.\nMi estas plena de espero.\nAltkortuma skolto... aŭ ĉu ŝi diris serĉanto? Kia ajn ŝi estas, trovis nian tendaron. Iom akre ĉirkaŭ la randoj sed donis al ni iom da manĝaĵo. Mi gustumis ĉiun mordon. Ŝi diris, ke ne estas sekure vojaĝi nokte kaj elkondukos nin el ĉi tiu malordo matene.\nSubtera.\nKun vera manĝaĵo por manĝi.\n\nKelvin eksteren.",
-        "LEMURIAN_EGG_NAME": "Lemuria Ovo",
-        "LEMURIAN_EGG_CONTEXT": "Oferto Ero",
-        "LEMURIAN_EGG_POPUP_TEXT": "<b>Lemuria Ovo</b>\n<i><style=cSub><size=75%>Akiru sekvanton proponante objekton!</size></style></i>",
-        "DELUSION_MEMORYGAME_PROMPT": "Memoru Saĝe",
-        "DELUSION_MEMORYGAME_HEADER": "Memoru Saĝe",
-        "UNLOCKABLE_LOG_STAGES_LAKES": "Media Protokolo: Verdanta Akvofaloj",
-        "BAZAAR_SEER_LAKES": "<style=cWorldEvent>Vi revas pri dolĉaj fruktoj, kaj amaraj promesoj.</style>",
-        "MERC_SKIN_ALT3_NAME": "La Kaptito"
-    }
+  "strings": {
+    "ARTIFACT_DEVOTION_NAME": "Artefakto de Sindonemo",
+    "ARTIFACT_DEVOTION_DESCRIPTION": "Anstatauxigi rompitajn virabelojn per Lemuriaj Ovoj. Proponu objekton por gajni sekvantojn.",
+    "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_NAME": "Provo de Sindonemo",
+    "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_DESCRIPTION": "Kompletigu la Provon de Sindonemo.",
+    "ARTIFACT_DELUSION_NAME": "Artefakto de Iluzio",
+    "ARTIFACT_DELUSION_DESCRIPTION": "Risku viajn erojn post kompletigado de la teletransportista evento en testo de memoro por akiri pliajn erojn.",
+    "ACHIEVEMENT_OBTAINARTIFACTDELUSION_NAME": "Provo de Delusion",
+    "ACHIEVEMENT_OBTAINARTIFACTDELUSION_DESCRIPTION": "Kompletigu la Provon de Iluzio.",
+    "MAP_LAKES_TITLE": "Verdaj Akvofaloj",
+    "MAP_LAKES_SUBTITLE": "Grundo Nulo",
+    "MAP_LAKES_LORE": "<style=cMono>\nBonvenon al DataScraper (v3.5.16 - beta brancxo)\n$ Skrapanta memoro... farita.\n$ Solvado... farita.\n$ Kombasado por koncernaj datumoj... farita.\nKompleta!\nEligante lokajn sontransskribojn...\n</style>\n\nTago 02\nLa tutan tagon Garret malbenas pri perdo de nia sxipo, nia vojo, nia kargo. Laux tio, kion mi auxdis pri cxi tiu planedo, gxi povus esti pli malbona. Ni pluvivas per plantoj, kiujn nia ksenobiologo sxatintus studi. Ia Altkortuma signalo esploras cxi tiun inferan truon. Sxajnas strecxa, sed mi esperas, ke ili aspektas tiel kaj sentas sin malavara.\nPer provo kaj eraro, ni malkovris la plej mangxeblan planton - ili estas abomenindaj krudaj, sed post brulado ili estas tolereblaj, kaj ilia odoro - odoro tiel dolcxa kaj potenca, ke gxi saturas niajn filtrilojn. Memorigas min pri fragoj. Varmigxis en la suno.\nAlmenaux ni vivas.\n\nTago 03\nMia busxo gustas amara krom se mi mangxas. Garret raportas la samon, lia paranojo kreskas cxiutage. Li jxuras, ke li vidas la sukon tremi kaj resalti cxiun fojon kiam ni hakas malfermas cxi tiujn plantojn.\n\nTago 07\nVerdire mi komencas zorgi.\nPli elcxerpita cxiutage.\nTeruraj stomakdoloroj nokte.\nKompreneble ni suspektas la mangxajxon sed kian alian elekton ni havas?\nMia hauxto havas orangxan nuancon... eble gxi estas mia vizio.\nCxio, kion mi lastatempe flaras, estas la dolcxeco de la suko.\nMi pregxas, ke mi ne malsanigxas.\nMi malamus, ke Garret pravas pri io.\n\nTago 08\nNi vivas.\nMi estas plena de espero.\nAltkortuma skolto... aux cxu sxi diris sercxanto? Kia ajn sxi estas, trovis nian tendaron. Iom akre cxirkaux la randoj sed donis al ni iom da mangxajxo. Mi gustumis cxiun mordon. Sxi diris, ke ne estas sekure vojagxi nokte kaj elkondukos nin el cxi tiu malordo matene.\nSubtera.\nKun vera mangxajxo por mangxi.\n\nKelvin eksteren.",
+    "LEMURIAN_EGG_NAME": "Lemuria Ovo",
+    "LEMURIAN_EGG_CONTEXT": "Oferto Ero",
+    "LEMURIAN_EGG_POPUP_TEXT": "<b>Lemuria Ovo</b>\n<i><style=cSub><size=75%>Akiru sekvanton proponante objekton!</size></style></i>",
+    "DELUSION_MEMORYGAME_PROMPT": "Memoru Sagxe",
+    "DELUSION_MEMORYGAME_HEADER": "Memoru Sagxe",
+    "UNLOCKABLE_LOG_STAGES_LAKES": "Media Protokolo: Verdanta Akvofaloj",
+    "BAZAAR_SEER_LAKES": "<style=cWorldEvent>Vi revas pri dolcxaj fruktoj, kaj amaraj promesoj.</style>",
+    "MERC_SKIN_ALT3_NAME": "La Kaptito"
+  }
 }

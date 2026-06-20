@@ -1,11 +1,11 @@
-﻿{
+{
     "la": {
         "CHAOSANGELOID_CHAOS_NAME": "Chaos",
         "CHAOSANGELOID_CHAOS_SUBTITLE": "Angeloides Genus Epsilon",
         "CHAOSANGELOID_CHAOS_DESCRIPTION": " <style=cSub>\n\n< ! > \n\n< ! > \n\n< ! > \n\n< ! > \n\n",
         "CHAOSANGELOID_CHAOS_OUTRO": "..et sic abiit, altero mundo amori amisso.",
         "CHAOSANGELOID_CHAOS_FAIL": "..et sic evanuit, plus amoris desiderans.",
-        "CHAOSANGELOID_CHAOS_LORE": "Optare est res mira\u2014omnes spes et somnia tua in unam cogitationem coniuncta.\nMulti divitias, opes optant.\nAlii valetudinem optant.\nNonnulli amorem optant.\n\nSed quid si optio tua exitium tuum fiat?\n\nCum aliquid amas, momento quo te laedit aut amittis, in dolorem vertitur.\nDolor non desinit. Haeret. Itaque\u2026 estne dolor amor?\n\nPutō ita esse. Omne gradum quem in itinere meo feci ad amorem duxit\u2014tantum amoris.\nMundum amore inquinavi.\n\nOpto ut omnes id experiri possint\u2014omnis planeta, non solum Tellus, non solum Synapse, non solum Magister meus.\n\nNum me in itinere meo comitaberis?\nNum me adiuvabis mundum rubro inquinare\u2026 et eos gaudio tremere audire?\n\nSine me cum puppis meis iterum ludere.\nLibera me.\nFias Magister meus.",
+        "CHAOSANGELOID_CHAOS_LORE": "Optare est res mira\u2014omnes spes et somnia tua in unam cogitationem coniuncta.\nMulti divitias, opes optant.\nAlii valetudinem optant.\nNonnulli amorem optant.\n\nSed quid si optio tua exitium tuum fiat?\n\nCum aliquid amas, momento quo te laedit aut amittis, in dolorem vertitur.\nDolor non desinit. Haeret. Itaque\u2026 estne dolor amor?\n\nPuto ita esse. Omne gradum quem in itinere meo feci ad amorem duxit\u2014tantum amoris.\nMundum amore inquinavi.\n\nOpto ut omnes id experiri possint\u2014omnis planeta, non solum Tellus, non solum Synapse, non solum Magister meus.\n\nNum me in itinere meo comitaberis?\nNum me adiuvabis mundum rubro inquinare\u2026 et eos gaudio tremere audire?\n\nSine me cum puppis meis iterum ludere.\nLibera me.\nFias Magister meus.",
         "CHAOS__PASSIVE_NAME": "Angeloides Genus 2",
         "CHAOS__PASSIVE_DESCRIPTION": "Proximas entitates scrutatur, earum locum notans. Magistri semper notantur. Hostes notati <style=cIsDamage>20%</style> plus damni a Magistris accipiunt.",
         "CHAOS__M1": "Inquinati Ignis",

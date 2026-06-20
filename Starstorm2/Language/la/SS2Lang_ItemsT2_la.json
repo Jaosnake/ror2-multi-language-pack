@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ITEM_BLASTKNUCKLES_NAME": "Blast Knuckles",
   "SS2_ITEM_BLASTKNUCKLES_DESC": "Hits from your <style=cIsUtility>skills</style> intra <style=cIsDamage>13m</style> also <style=cIsDamage>blast</style> enemies in a cone pro <style=cIsDamage>400%</style> <style=cStack>(+400% per stack)</style> base damage. You can hold up to <style=cIsUtility>5</style> charges et reload a charge every <style=cIsUtility>5</style> seconds.",
   "SS2_ITEM_BLASTKNUCKLES_PICKUP": "Your attacks create explosions at close range.",

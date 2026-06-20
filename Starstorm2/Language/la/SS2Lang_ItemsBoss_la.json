@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ITEM_AUGURY_NAME": "Augury",
   "SS2_ITEM_AUGURY_DESC": "Upon recieving <style=cIsHealth>600%</style> of your <style=cIsHealth>maximum health</style> in <style=cIsHealth>damage</style>, unleash a devastating <color=#FFCCED>blackout</color>, <style=cIsDamage>instantly killing</style> all <style=cIsDamage>non-Boss enemies</style> caught in it.",
   "SS2_ITEM_AUGURY_PICKUP": "<link=\"textWavy\">Can you hear them...? They're coming...</link>",

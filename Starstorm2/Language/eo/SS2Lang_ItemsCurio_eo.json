@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ITEM_BLEEDOUT_NAME": "Sangeluo",
   "SS2_ITEM_BLEEDOUT_PICKUP": "Je morto, anstatauxe eniru sangeluan staton. Resxargxas kun tempo.",
   "SS2_ITEM_BLEEDOUT_DESC": "Je ricevado de <style=cIsHealth>mortiga damagxo</style>, anstatauxe sangelu por <style=cIsHealth>100%</style> de via <style=cIsHealth>maksimuma sano</style>. Resxargxas cxiujn <style=cIsUtility>4</style> minutojn <style=cStack>(-20% po stako)</style>.",

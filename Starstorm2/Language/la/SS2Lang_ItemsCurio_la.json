@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ITEM_BLEEDOUT_NAME": "Bleedout",
   "SS2_ITEM_BLEEDOUT_PICKUP": "Upon dying, instead enter a bleedout state. Recharges over time.",
   "SS2_ITEM_BLEEDOUT_DESC": "Upon taking <style=cIsHealth>lethal damage</style>, instead bleed out pro <style=cIsHealth>100%</style> of your <style=cIsHealth>maximum health</style>. Recharges every <style=cIsUtility>4</style> minutes <style=cStack>(-20% per stack)</style>.",

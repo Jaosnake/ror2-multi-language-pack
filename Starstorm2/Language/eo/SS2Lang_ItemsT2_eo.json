@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ITEM_BLASTKNUCKLES_NAME": "Blastaj Pugnobatoj",
   "SS2_ITEM_BLASTKNUCKLES_DESC": "Frapoj de viaj <style=cIsUtility>kapabloj</style> ene de <style=cIsDamage>13m</style> ankaux <style=cIsDamage>blastas</style> malamikojn en konuso por <style=cIsDamage>400%</style> <style=cStack>(+400% po stako)</style> baza damagxo. Vi povas havi gxis <style=cIsUtility>5</style> sxargxojn kaj resxargxi sxargxon cxiujn <style=cIsUtility>5</style> sekundojn.",
   "SS2_ITEM_BLASTKNUCKLES_PICKUP": "Viaj atakoj kreas eksplodojn je proksima distanco.",

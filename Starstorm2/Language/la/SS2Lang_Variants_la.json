@@ -1,5 +1,4 @@
-﻿{
-
+{
   "SS2_ENGINEER_LASERFOCUS_NAME": "Laser Focus",
   "SS2_ENGINEER_LASERFOCUS_DESC": "Release two beams of energy pro <style=cIsDamage>2x150% vulnere</style>. Damage <style=cIsDamage>increases</style> <style=cIsUtility>longer a target is focused upon</style>.",
   "SS2_ENGINEER_RAPIDDISPLACEMENT_NAME": "Rapid Displacement",
