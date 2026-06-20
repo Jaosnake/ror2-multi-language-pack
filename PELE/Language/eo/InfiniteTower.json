@@ -1,7 +1,7 @@
 {
     "strings": {
         "INFINITETOWER_GAMEMODE_NAME": "Simulacro",
-        "INFINITETOWER_GAMEMODE_DESCRIPTION": "<style=cWorldEvent>Simulacrum</style> estas arkada ludreĝimo, kiu sendas senliman nombron da malfacilaj ondoj de monstroj kontraŭ ludantoj.\n\nĈi tio estas reproduktaĵo.\nĈi tio estas reproduktaĵo.\nĈi tio estas reproduktaĵo.",
+        "INFINITETOWER_GAMEMODE_DESCRIPTION": "<style=cWorldEvent>Simulacrum</style> estas arkada ludregximo, kiu sendas senliman nombron da malfacilaj ondoj de monstroj kontraux ludantoj.\n\nCxi tio estas reproduktajxo.\nCxi tio estas reproduktajxo.\nCxi tio estas reproduktajxo.",
         "INFINITETOWER_GAMEMODE_START": "Ekzekuti",
         "INFINITE_TOWER_ENEMIES_REMAINING": "Restantaj malamikoj:",
         "INFINITE_TOWER_ENEMY_COUNTER": "{0}",
@@ -24,16 +24,16 @@
         "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WEAKASSKNEES": "<style=cWorldEvent>[AVERTO] Reprodukti batalteston kun <style=cArtifact>Frailty</style> augment..</style>",
         "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WISPONDEATH": "<style=cWorldEvent>[AVERTO] Reprodukti batalteston kun <style=cArtifact>Soul</style> augment..</style>",
         "INFINITETOWER_WAVE_BEGIN_ARTIFACT_ENIGMA": "<style=cWorldEvent>[AVERTO] Reprodukti batalteston kun <style=cArtifact>Enigma</style> augment..</style>",
-        "PORTAL_INFINITETOWER_OPEN": "<style=cWorldEvent>Reproduktado finiĝis.  Antaŭeniri al sekva simulado.</style>",
+        "PORTAL_INFINITETOWER_OPEN": "<style=cWorldEvent>Reproduktado finigxis.  Antauxeniri al sekva simulado.</style>",
         "INFINITETOWER_WAVE_COUNTER": "Ondo {0}",
-        "INFINITETOWER_WAVE_DESCRIPTION_DEFAULT": "Venku ĉiujn malamikojn.",
+        "INFINITETOWER_WAVE_DESCRIPTION_DEFAULT": "Venku cxiujn malamikojn.",
         "INFINITETOWER_WAVE_COUNTER_BOSS": "Ondo {0} - ​​Estro",
         "INFINITETOWER_WAVE_DESCRIPTION_BOSS": "Malamikoj estas pli fortaj kaj pli multaj.",
         "INFINITETOWER_WAVE_COUNTER_BOSS_LUNAR": "Ondo {0} - ​​Estro Pliigo de la Luno",
         "INFINITETOWER_WAVE_DESCRIPTION_BOSS_LUNAR": "Malamikoj estas pli fortaj, pli multaj, kaj garantiitaj esti Lunaj.",
         "INFINITETOWER_WAVE_COUNTER_BOSS_VOID": "Ondo {0} - ​​Estro Pliigo de la Malpleno",
         "INFINITETOWER_WAVE_DESCRIPTION_BOSS_VOID": "Malamikoj estas pli fortaj, pli multnombraj, kaj garantiitaj esti Malplenoj.",
-        "INFINITETOWER_WAVE_COUNTER_BOSS_SCAV": "Ondo {0} - ​​Estro Pliigo de la Kadavromanĝanto",
+        "INFINITETOWER_WAVE_COUNTER_BOSS_SCAV": "Ondo {0} - ​​Estro Pliigo de la Kadavromangxanto",
         "INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV": "Venku la Scavenger por speciala rekompenco.",
         "INFINITETOWER_WAVE_COUNTER_BOSS_BROTHER": "Ondo {0} - ​​Estro Pliigo de Mithrix",
         "INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER": "Venku Mithrix por speciala rekompenco.",
@@ -56,6 +56,6 @@
         "INFINITE_TOWER_SAFE_WARD_CONTEXT": "Komencu Taksadon",
         "PORTAL_INFINITETOWER_NAME": "Senfina Portalo",
         "PORTAL_INFINITETOWER_CONTEXT": "Eniru Senfinan Portalon",
-        "INFINITETOWER_SUDDEN_DEATH": "La Fokuso komencas ŝanceliĝi.."
+        "INFINITETOWER_SUDDEN_DEATH": "La Fokuso komencas sxanceligxi.."
     }
 }

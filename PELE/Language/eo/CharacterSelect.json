@@ -4,17 +4,17 @@
         "CHARACTER_SELECT_SELECT_SURVIVOR": "Elektu Pluvivanton",
         "SURVIVOR_OVERVIEW": "Superrigardo",
         "SURVIVOR_SKILLS": "Kapabloj",
-        "SURVIVOR_LOADOUT": "Ŝarĝo",
+        "SURVIVOR_LOADOUT": "Sxargxo",
         "CHARACTER_SELECT_READY": "Preta",
-        "CHARACTER_SELECT_LOCKED_IN": "Enŝlosita",
+        "CHARACTER_SELECT_LOCKED_IN": "Ensxlosita",
         "LOADOUT_SKILL_PRIMARY": "Primara",
         "LOADOUT_SKILL_SECONDARY": "Sekundara",
         "LOADOUT_SKILL_UTILITY": "Utilo",
         "LOADOUT_SKILL_SPECIAL": "Speciala",
         "LOADOUT_SKILL_MISC": "Misc",
-        "LOADOUT_SKIN": "Haŭto",
+        "LOADOUT_SKIN": "Hauxto",
         "CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT": "{0}\n\n{1}",
         "RANDOM_VOTE_NAME": "Randomize",
-        "RANDOM_VOTE_DESCRIPTION": "Voĉdonu por hazardaj elektoj."
+        "RANDOM_VOTE_DESCRIPTION": "Vocxdonu por hazardaj elektoj."
     }
 }

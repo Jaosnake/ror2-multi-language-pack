@@ -356,12 +356,13 @@ internal static class LanguagePauseButton
         itemLayout.minHeight = 30f;
         itemLayout.preferredHeight = 30f;
 
-        var glyphObject = new GameObject("Glyph", typeof(RectTransform), typeof(HGTextMeshProUGUI));
+        var glyphObject = new GameObject("Glyph", typeof(RectTransform));
+        glyphObject.SetActive(false);
         var glyphRect = glyphObject.GetComponent<RectTransform>();
         glyphRect.SetParent(itemRect, false);
         glyphRect.sizeDelta = new Vector2(28f, 28f);
 
-        var glyphText = glyphObject.GetComponent<HGTextMeshProUGUI>();
+        var glyphText = glyphObject.AddComponent<HGTextMeshProUGUI>();
         glyphText.fontSize = 18f;
         glyphText.alignment = TextAlignmentOptions.Center;
 
@@ -369,32 +370,37 @@ internal static class LanguagePauseButton
         glyph.actionName = actionName;
         glyph.useExplicitInputSource = true;
         glyph.explicitInputSource = MPEventSystem.InputSource.Gamepad;
+        glyphObject.SetActive(true);
 
-        var keyObject = new GameObject("KeyFallback", typeof(RectTransform), typeof(HGTextMeshProUGUI), typeof(LanguageTextMeshController));
+        var keyObject = new GameObject("KeyFallback", typeof(RectTransform));
+        keyObject.SetActive(false);
         var keyRect = keyObject.GetComponent<RectTransform>();
         keyRect.SetParent(itemRect, false);
         keyRect.sizeDelta = new Vector2(158f, 28f);
 
-        var keyText = keyObject.GetComponent<HGTextMeshProUGUI>();
+        var keyText = keyObject.AddComponent<HGTextMeshProUGUI>();
         keyText.fontSize = 14f;
         keyText.alignment = TextAlignmentOptions.MidlineLeft;
         keyText.enableWordWrapping = false;
 
-        var keyLang = keyObject.GetComponent<LanguageTextMeshController>();
+        var keyLang = keyObject.AddComponent<LanguageTextMeshController>();
         keyLang.token = keyToken;
+        keyObject.SetActive(true);
 
-        var labelObject = new GameObject("Label", typeof(RectTransform), typeof(HGTextMeshProUGUI), typeof(LanguageTextMeshController));
+        var labelObject = new GameObject("Label", typeof(RectTransform));
+        labelObject.SetActive(false);
         var labelRect = labelObject.GetComponent<RectTransform>();
         labelRect.SetParent(itemRect, false);
         labelRect.sizeDelta = new Vector2(76f, 28f);
 
-        var labelText = labelObject.GetComponent<HGTextMeshProUGUI>();
+        var labelText = labelObject.AddComponent<HGTextMeshProUGUI>();
         labelText.fontSize = 14f;
         labelText.alignment = TextAlignmentOptions.MidlineLeft;
         labelText.enableWordWrapping = false;
 
-        var lang = labelObject.GetComponent<LanguageTextMeshController>();
+        var lang = labelObject.AddComponent<LanguageTextMeshController>();
         lang.token = textToken;
+        labelObject.SetActive(true);
 
         return glyph;
     }
