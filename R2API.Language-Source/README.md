@@ -35,6 +35,24 @@ translation pipeline on top.
 - Startup checks for missing folders, missing font data, and duplicate language
   DLLs.
 
+## Screenshots
+
+Main menu language selector:
+
+![P.E.L.E main menu language selector](https://raw.githubusercontent.com/Jaosnake/ror2-multi-language-pack/main/R2API.Language-Source/docs/screenshots/main-menu-esperanto.png)
+
+Pause-menu language dialog:
+
+![P.E.L.E pause language dialog](https://raw.githubusercontent.com/Jaosnake/ror2-multi-language-pack/main/R2API.Language-Source/docs/screenshots/pause-language-menu.png)
+
+Character select in Esperanto:
+
+![P.E.L.E character select in Esperanto](https://raw.githubusercontent.com/Jaosnake/ror2-multi-language-pack/main/R2API.Language-Source/docs/screenshots/character-select-esperanto.png)
+
+Character select in Ukrainian:
+
+![P.E.L.E character select in Ukrainian](https://raw.githubusercontent.com/Jaosnake/ror2-multi-language-pack/main/R2API.Language-Source/docs/screenshots/character-select-ukrainian.png)
+
 ## Why Esperanto and Latin?
 
 Ukrainian is the main practical target: it proves that P.E.L.E can support a
