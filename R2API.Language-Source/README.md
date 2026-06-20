@@ -76,6 +76,20 @@ tokens when the matching game content or mod asks for them, so keeping all packs
 together is intentional: you can install a supported mod later and its P.E.L.E
 translations are already there.
 
+## Jaosnake Language Packs
+
+P.E.L.E is designed to work alongside my existing Risk of Rain 2 translation
+packs. Those packs remain fully supported and are still recommended for the
+other languages they already cover.
+
+You can find them here:
+
+[Jaosnake packages on Thunderstore](https://thunderstore.io/c/riskofrain2/p/Jaosnake/)
+
+This P.E.L.E package does not replace, modify, or invalidate that work. Existing
+Jaosnake language packs can continue to receive their own updates independently,
+and future updates to those packages are not tied to this P.E.L.E release.
+
 ## Important: This Replaces R2API.Language
 
 P.E.L.E is **not** a second language plugin to install next to the normal
