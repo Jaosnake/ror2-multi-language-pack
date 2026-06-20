@@ -21,10 +21,10 @@ Arquivos alvo:
   - aplicacao/restauracao de fonte
 
 - `CustomLanguageRegistration.cs`
-  - status: pendente
-  - mover `FindLanguageByNamePostfix`
-  - mover criacao de `Language`
-  - mover `SetCurrentLanguagePrefix`
+  - status: feito
+  - `FindLanguageByNamePostfix`
+  - criacao de `Language`
+  - `SetCurrentLanguagePrefix`
 
 - `PeleJsonLoader.cs`
   - status: feito

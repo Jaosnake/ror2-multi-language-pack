@@ -40,7 +40,8 @@ Versao testada no jogo em 2026-06-19:
   `RiskofThunder-R2API_Language`.
 - Intercepta `Language.SetCurrentLanguage` para idiomas customizados.
 - Cria instancias de `Language` com o nome real do idioma, em vez de criar
-  `en` e tentar alterar campos internos depois.
+  `en` e tentar alterar campos internos depois. Essa responsabilidade fica em
+  `CustomLanguageRegistration.cs`.
 - Le JSON do PELE tanto em formato plano quanto no formato nativo do RoR2
   atraves de `PeleJsonLoader.cs`:
 
@@ -149,6 +150,7 @@ docs/STABILIZATION_PLAN.md
 R2API.Language-Source/
 ├─ R2API.Language.csproj
 ├─ LanguagePlugin.cs
+├─ CustomLanguageRegistration.cs
 ├─ CyrillicFontSupport.cs
 ├─ PeleJsonLoader.cs
 ├─ PeleStartupDiagnostics.cs
