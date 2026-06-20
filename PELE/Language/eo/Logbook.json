@@ -1,9 +1,9 @@
 {
     "strings": {
         "LOGBOOK": "Loglibro",
-        "LOGBOOK_CATEGORY_ITEMANDEQUIPMENT": "Ero & Ekipajxo",
+        "LOGBOOK_CATEGORY_ITEMANDEQUIPMENT": "Ero & Ekipaĵo",
         "LOGBOOK_CATEGORY_ITEM": "Ero",
-        "LOGBOOK_CATEGORY_EQUIPMENT": "Ekipajxo",
+        "LOGBOOK_CATEGORY_EQUIPMENT": "Ekipaĵo",
         "LOGBOOK_CATEGORY_ACHIEVEMENTS": "Defio",
         "LOGBOOK_CATEGORY_MONSTER": "Monstro",
         "LOGBOOK_CATEGORY_STAGE": "Medio",
@@ -11,17 +11,17 @@
         "LOGBOOK_CATEGORY_FRAGMENT": "Fragmento",
         "LOGBOOK_CATEGORY_STATS": "Profilaj Statoj",
         "LOGBOOK_CATEGORY_MORGUE": "Kuru Historion",
-        "LOGBOOK_UNLOCK_ITEM_LOG": "Trovu cxi tiun objekton en la mondo por malsxlosi cxi tiun protokolon.",
-        "LOGBOOK_UNLOCK_ITEM_MONSTER": "Venku cxi tiun monstron por sxanco malsxlosi cxi tiun protokolon.",
-        "LOGBOOK_UNLOCK_ITEM_STAGE": "Trovu kaj riparu Radaran Turon en la scenejo por malsxlosi cxi tiun registron.",
-        "LOGBOOK_UNLOCK_ITEM_SURVIVOR": "Batu la ludon kun cxi tiu pluvivanto por malsxlosi cxi tiun protokolon.",
-        "LOGBOOK_UNLOCK_ITEM_DRONE": "Varbu cxi tiun virabilon en la mondo por malsxlosi cxi tiun protokolon.",
-        "LOGBOOK_UNLOCK_ITEM_FRAGMENT": "Cxi tiu protokolo havas nekonatan malsxlosan kondicxon.",
+        "LOGBOOK_UNLOCK_ITEM_LOG": "Trovu ĉi tiun objekton en la mondo por malŝlosi ĉi tiun protokolon.",
+        "LOGBOOK_UNLOCK_ITEM_MONSTER": "Venku ĉi tiun monstron por ŝanco malŝlosi ĉi tiun protokolon.",
+        "LOGBOOK_UNLOCK_ITEM_STAGE": "Trovu kaj riparu Radaran Turon en la scenejo por malŝlosi ĉi tiun registron.",
+        "LOGBOOK_UNLOCK_ITEM_SURVIVOR": "Batu la ludon kun ĉi tiu pluvivanto por malŝlosi ĉi tiun protokolon.",
+        "LOGBOOK_UNLOCK_ITEM_DRONE": "Varbu ĉi tiun virabilon en la mondo por malŝlosi ĉi tiun protokolon.",
+        "LOGBOOK_UNLOCK_ITEM_FRAGMENT": "Ĉi tiu protokolo havas nekonatan malŝlosan kondiĉon.",
         "LOGBOOK_HOVER_DESCRIPTION_FORMAT": "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
         "LOGBOOK_ZOOMINOUT": "Zomi en/Malproksimigi",
         "LOGBOOK_ROTATE": "Rotacii",
         "LOGBOOK_PAN": "Pan",
         "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_TITLE_FORMAT": "{0}",
-        "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Klaso: {0}</nobr>\n<nobr>Regximo: {1}</nobr>\n<nobr>Fino: {2}</nobr>"
+        "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Klaso: {0}</nobr>\n<nobr>Reĝimo: {1}</nobr>\n<nobr>Fino: {2}</nobr>"
     }
 }

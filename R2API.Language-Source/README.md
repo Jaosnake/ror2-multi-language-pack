@@ -156,6 +156,7 @@ not against the mods currently installed in a local r2modman profile.
 | Sniper Classic | [EnforcerGang-SniperClassic](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/) | Yes | Yes | Yes |
 | Sorceress | [Frosthex-SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) | Yes | Yes | Yes |
 | Spearman | [SaucySquash-Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) | Yes | Yes | Yes |
+| Starstorm 2 | [TeamMoonstorm-Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) | Yes | Yes | Yes |
 | Wanderer | [tsuyoikenko-Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) | Yes | Yes | Yes |
 
 ## How Translation Priority Works

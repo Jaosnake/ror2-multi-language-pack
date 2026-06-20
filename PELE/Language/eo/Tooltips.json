@@ -1,21 +1,21 @@
 {
     "strings": {
-        "TOOLTIP_TIME_DIFFICULTY": "Malfacilajxo estas <i>CxIAM</i> pliigxanta kun la tempo - ludu rapide!",
-        "TOOLTIP_EQUIPMENT": "<color=orange>Ekipajxo</color> estas potencaj, aktivigitaj eroj.",
-        "TOOLTIP_SPRINT": "Sprint por cxirkauxiri la mapon!",
+        "TOOLTIP_TIME_DIFFICULTY": "Malfacilaĵo estas <i>ĈIAM</i> pliiĝanta kun la tempo - ludu rapide!",
+        "TOOLTIP_EQUIPMENT": "<color=orange>Ekipaĵo</color> estas potencaj, aktivigitaj eroj.",
+        "TOOLTIP_SPRINT": "Sprint por ĉirkaŭiri la mapon!",
         "TOOLTIP_WIP_CONTENT_NAME": "Sub Konstruo",
-        "TOOLTIP_WIP_CONTENT_DESCRIPTION": "Cxi tiu enhavo ankoraux estas evoluanta. Revenu baldaux!",
-        "TOOLTIP_UNLOCK_LOG_NAME": "Loglibro-Eniro Malsxlosita",
-        "TOOLTIP_UNLOCK_LOG_DESCRIPTION": "Cxi tiu enskribo nun aperos en la Loglibro.",
-        "TOOLTIP_UNLOCK_ITEM_NAME": "Ero Malsxlosita",
-        "TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "Cxi tiu objekto nun hazarde aperos en kuroj.",
-        "TOOLTIP_UNLOCK_EQUIPMENT_NAME": "Ekipajxo Malsxlosita",
-        "TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "Cxi tiu ekipajxo nun hazarde aperos en kuroj.",
-        "TOOLTIP_UNLOCK_SURVIVOR_NAME": "Pluvivanto Malsxlosita",
-        "TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "Cxi tiu Pluvivanto nun haveblas.",
-        "TOOLTIP_UNLOCK_ARTIFACT_NAME": "Artefakto Malsxlosita",
-        "TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "Cxi tiu Artefakto nun haveblas.",
-        "TOOLTIP_UNLOCK_GENERIC_NAME": "Malsxlosita",
-        "TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "Cxi tiu enhavo nun disponeblas."
+        "TOOLTIP_WIP_CONTENT_DESCRIPTION": "Ĉi tiu enhavo ankoraŭ estas evoluanta. Revenu baldaŭ!",
+        "TOOLTIP_UNLOCK_LOG_NAME": "Loglibro-Eniro Malŝlosita",
+        "TOOLTIP_UNLOCK_LOG_DESCRIPTION": "Ĉi tiu enskribo nun aperos en la Loglibro.",
+        "TOOLTIP_UNLOCK_ITEM_NAME": "Ero Malŝlosita",
+        "TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "Ĉi tiu objekto nun hazarde aperos en kuroj.",
+        "TOOLTIP_UNLOCK_EQUIPMENT_NAME": "Ekipaĵo Malŝlosita",
+        "TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "Ĉi tiu ekipaĵo nun hazarde aperos en kuroj.",
+        "TOOLTIP_UNLOCK_SURVIVOR_NAME": "Pluvivanto Malŝlosita",
+        "TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "Ĉi tiu Pluvivanto nun haveblas.",
+        "TOOLTIP_UNLOCK_ARTIFACT_NAME": "Artefakto Malŝlosita",
+        "TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "Ĉi tiu Artefakto nun haveblas.",
+        "TOOLTIP_UNLOCK_GENERIC_NAME": "Malŝlosita",
+        "TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "Ĉi tiu enhavo nun disponeblas."
     }
 }
