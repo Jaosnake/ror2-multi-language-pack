@@ -317,3 +317,12 @@ docs/STABILIZATION_PLAN.md
 
 These files document hook contracts, manual regression testing, and the
 stabilization rules for future P.E.L.E changes.
+
+## Questions and Support
+
+For questions, suggestions, bug reports, or translation feedback, please open an
+issue on GitHub:
+
+[Jaosnake/ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack)
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'J4C520MHIB');kofiwidget2.draw();</script>
