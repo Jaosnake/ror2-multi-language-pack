@@ -148,9 +148,9 @@ It must not contain an old `PELE.dll`, `PELE.deps.json`, or `PELE.pdb`.
 Thunderstore installs these dependencies automatically:
 
 ```text
-bbepis-BepInExPack
-RiskofThunder-HookGenPatcher
-RiskofThunder-R2API_Core
+bbepis-BepInExPack-5.4.2121
+RiskofThunder-HookGenPatcher-1.2.9
+RiskofThunder-R2API_Core-5.3.0
 ```
 
 `RiskofThunder-R2API_Language` is not listed as a separate dependency because
