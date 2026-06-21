@@ -166,49 +166,56 @@ this release: Ukrainian, Esperanto, and Latin.
 files for `uk`, `eo`, and `la` for that mod. It does not mean the original mod
 author officially ships those languages.
 
-This list was checked against the P.E.L.E language files in this GitHub repository,
-not against the mods currently installed in a local r2modman profile.
+This list was checked against the P.E.L.E language files in this GitHub
+repository, not against the mods currently installed in a local r2modman
+profile.
 
-| Mod | Thunderstore | Ukrainian | Esperanto | Latin |
-| --- | --- | --- | --- | --- |
-| Alloyed Armorer | [TatertotticusSquad-Alloyed_Armorer](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/) | Yes | Yes | Yes |
-| Arsonist | [PopcornFactory-Arsonist_Mod](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Arsonist_Mod/) | Yes | Yes | Yes |
-| Assassin | [HasteReapr-AssassinMod](https://thunderstore.io/c/riskofrain2/p/HasteReapr/AssassinMod/) | Yes | Yes | Yes |
-| Banshee | [tsuyoikenko-Banshee](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Banshee/) | Yes | Yes | Yes |
-| Bastian | [TeamSillyGuy-Bastian](https://thunderstore.io/c/riskofrain2/p/TeamSillyGuy/Bastian/) | Yes | Yes | Yes |
-| Belmont | [rob-Belmont](https://thunderstore.io/c/riskofrain2/p/rob/Belmont/) | Yes | Yes | Yes |
-| Chaos Angeloid | [DragonycksModdingComms-Chaos](https://thunderstore.io/c/riskofrain2/p/DragonycksModdingComms/Chaos/) | Yes | Yes | Yes |
-| Cloudburst | [TeamCloudburst-Cloudburst](https://thunderstore.io/c/riskofrain2/p/TeamCloudburst/Cloudburst/) | Yes | Yes | Yes |
-| Dancer | [nayDPz-Dancer](https://thunderstore.io/c/riskofrain2/p/nayDPz/Dancer/) | Yes | Yes | Yes |
-| Dante | [rob-Dante](https://thunderstore.io/c/riskofrain2/p/rob/Dante/) | Yes | Yes | Yes |
-| Deputy | [Bog-Deputy](https://thunderstore.io/c/riskofrain2/p/Bog/Deputy/) | Yes | Yes | Yes |
-| Driver | [public_ParticleSystem-Driver](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Driver/) | Yes | Yes | Yes |
-| Enforcer | [EnforcerGang-Enforcer](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Enforcer/) | Yes | Yes | Yes |
-| HAND OVERCLOCKED | [EnforcerGang-HAND_OVERCLOCKED](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/) | Yes | Yes | Yes |
-| HEL P | [rob-HEL_P](https://thunderstore.io/c/riskofrain2/p/rob/HEL_P/) | Yes | Yes | Yes |
-| Henry | [TheTimesweeper-HenryMod](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/HenryMod/) | Yes | Yes | Yes |
-| Heretic | [Moffein-Heretic](https://thunderstore.io/c/riskofrain2/p/Moffein/Heretic/) | Yes | Yes | Yes |
-| HUNK | [rob-HUNK](https://thunderstore.io/c/riskofrain2/p/rob/HUNK/) | Yes | Yes | Yes |
-| Interrogator | [tsuyoikenko-Interrogator](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Interrogator/) | Yes | Yes | Yes |
-| Lee Hyperreal | [PopcornFactory-Lee_Hyperreal](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Lee_Hyperreal/) | Yes | Yes | Yes |
-| Miner Unearthed | [EnforcerGang-MinerUnearthed](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/MinerUnearthed/) | Yes | Yes | Yes |
-| Mortician | [Bog-Mortician](https://thunderstore.io/c/riskofrain2/p/Bog/Mortician/) | Yes | Yes | Yes |
-| Myst | [JavAngle-Myst](https://thunderstore.io/c/riskofrain2/p/JavAngle/Myst/) | Yes | Yes | Yes |
-| Paladin | [Paladin_Alliance-PaladinMod](https://thunderstore.io/c/riskofrain2/p/Paladin_Alliance/PaladinMod/) | Yes | Yes | Yes |
-| Pathfinder | [Bog-Pathfinder](https://thunderstore.io/c/riskofrain2/p/Bog/Pathfinder/) | Yes | Yes | Yes |
-| Pilot | [EnforcerGang-Pilot](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/) | Yes | Yes | Yes |
-| Ravager | [public_ParticleSystem-Ravager](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Ravager/) | Yes | Yes | Yes |
-| Red Alert | [TheTimesweeper-Red_Alert](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/Red_Alert/) | Yes | Yes | Yes |
-| Rifter | [toastyTeam-Rifter](https://thunderstore.io/c/riskofrain2/p/toastyTeam/Rifter/) | Yes | Yes | Yes |
-| RiskyTweaks | [Risky_Lives-RiskyTweaks](https://thunderstore.io/c/riskofrain2/p/Risky_Lives/RiskyTweaks/) | Yes | Yes | Yes |
-| Rocket | [EnforcerGang-Rocket](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Rocket/) | Yes | Yes | Yes |
-| Sandswept | [SandsweptTeam-Sandswept](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) | Yes | Yes | Yes |
-| Seamstress | [tsuyoikenko-Seamstress](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Seamstress/) | Yes | Yes | Yes |
-| Sniper Classic | [EnforcerGang-SniperClassic](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/) | Yes | Yes | Yes |
-| Sorceress | [Frosthex-SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) | Yes | Yes | Yes |
-| Spearman | [SaucySquash-Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) | Yes | Yes | Yes |
-| Starstorm 2 | [TeamMoonstorm-Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) | Yes | Yes | Yes |
-| Wanderer | [tsuyoikenko-Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) | Yes | Yes | Yes |
+All mods listed below include P.E.L.E JSON support for:
+
+```text
+Ukrainian (uk) | Esperanto (eo) | Latin (la)
+```
+
+| Mod | Thunderstore package |
+| --- | --- |
+| Alloyed Armorer | [TatertotticusSquad / Alloyed_Armorer](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/) |
+| Arsonist | [PopcornFactory / Arsonist_Mod](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Arsonist_Mod/) |
+| Assassin | [HasteReapr / AssassinMod](https://thunderstore.io/c/riskofrain2/p/HasteReapr/AssassinMod/) |
+| Banshee | [tsuyoikenko / Banshee](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Banshee/) |
+| Bastian | [TeamSillyGuy / Bastian](https://thunderstore.io/c/riskofrain2/p/TeamSillyGuy/Bastian/) |
+| Belmont | [rob / Belmont](https://thunderstore.io/c/riskofrain2/p/rob/Belmont/) |
+| Chaos Angeloid | [DragonycksModdingComms / Chaos](https://thunderstore.io/c/riskofrain2/p/DragonycksModdingComms/Chaos/) |
+| Cloudburst | [TeamCloudburst / Cloudburst](https://thunderstore.io/c/riskofrain2/p/TeamCloudburst/Cloudburst/) |
+| Dancer | [nayDPz / Dancer](https://thunderstore.io/c/riskofrain2/p/nayDPz/Dancer/) |
+| Dante | [rob / Dante](https://thunderstore.io/c/riskofrain2/p/rob/Dante/) |
+| Deputy | [Bog / Deputy](https://thunderstore.io/c/riskofrain2/p/Bog/Deputy/) |
+| Driver | [public_ParticleSystem / Driver](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Driver/) |
+| Enforcer | [EnforcerGang / Enforcer](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Enforcer/) |
+| HAND OVERCLOCKED | [EnforcerGang / HAND_OVERCLOCKED](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/) |
+| HEL P | [rob / HEL_P](https://thunderstore.io/c/riskofrain2/p/rob/HEL_P/) |
+| Henry | [TheTimesweeper / HenryMod](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/HenryMod/) |
+| Heretic | [Moffein / Heretic](https://thunderstore.io/c/riskofrain2/p/Moffein/Heretic/) |
+| HUNK | [rob / HUNK](https://thunderstore.io/c/riskofrain2/p/rob/HUNK/) |
+| Interrogator | [tsuyoikenko / Interrogator](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Interrogator/) |
+| Lee Hyperreal | [PopcornFactory / Lee_Hyperreal](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Lee_Hyperreal/) |
+| Miner Unearthed | [EnforcerGang / MinerUnearthed](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/MinerUnearthed/) |
+| Mortician | [Bog / Mortician](https://thunderstore.io/c/riskofrain2/p/Bog/Mortician/) |
+| Myst | [JavAngle / Myst](https://thunderstore.io/c/riskofrain2/p/JavAngle/Myst/) |
+| Paladin | [Paladin_Alliance / PaladinMod](https://thunderstore.io/c/riskofrain2/p/Paladin_Alliance/PaladinMod/) |
+| Pathfinder | [Bog / Pathfinder](https://thunderstore.io/c/riskofrain2/p/Bog/Pathfinder/) |
+| Pilot | [EnforcerGang / Pilot](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/) |
+| Ravager | [public_ParticleSystem / Ravager](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Ravager/) |
+| Red Alert | [TheTimesweeper / Red_Alert](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/Red_Alert/) |
+| Rifter | [toastyTeam / Rifter](https://thunderstore.io/c/riskofrain2/p/toastyTeam/Rifter/) |
+| RiskyTweaks | [Risky_Lives / RiskyTweaks](https://thunderstore.io/c/riskofrain2/p/Risky_Lives/RiskyTweaks/) |
+| Rocket | [EnforcerGang / Rocket](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Rocket/) |
+| Sandswept | [SandsweptTeam / Sandswept](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) |
+| Seamstress | [tsuyoikenko / Seamstress](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Seamstress/) |
+| Sniper Classic | [EnforcerGang / SniperClassic](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/) |
+| Sorceress | [Frosthex / SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) |
+| Spearman | [SaucySquash / Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) |
+| Starstorm 2 | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
+| Wanderer | [tsuyoikenko / Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) |
 
 ## How Translation Priority Works
 
