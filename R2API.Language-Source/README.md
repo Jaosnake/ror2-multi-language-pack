@@ -325,4 +325,7 @@ issue on GitHub:
 
 [Jaosnake/ror2-multi-language-pack](https://github.com/Jaosnake/ror2-multi-language-pack)
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'J4C520MHIB');kofiwidget2.draw();</script>
+---
+
+## ☕ Support
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
