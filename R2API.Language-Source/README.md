@@ -111,10 +111,10 @@ That is required so mods that depend on `R2API.Language` keep working normally.
 To BepInEx and to other mods, P.E.L.E is still the language API they expect; it
 just has extra language support built in.
 
-The Thunderstore package starts at version `1.0.0`, but the internal BepInEx
-plugin version is `2.0.0`. That is intentional: it ensures P.E.L.E wins over the
-upstream `RiskofThunder-R2API_Language 1.1.0` if both DLLs are present during a
-manual r2modman test install.
+The Thunderstore package version follows normal Thunderstore releases, while the
+internal BepInEx plugin version is `2.0.0`. That is intentional: it ensures
+P.E.L.E wins over the upstream `RiskofThunder-R2API_Language 1.1.0` if both DLLs
+are present during a manual r2modman test install.
 
 Only one `R2API.Language.dll` must be loaded. The intended path is:
 
