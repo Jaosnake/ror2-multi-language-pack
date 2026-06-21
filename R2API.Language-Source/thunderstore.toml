@@ -5,8 +5,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Jaosnake"
 name = "PELE"
-versionNumber = "1.0.0"
-description = "P.E.L.E adds custom languages, JSON packs, hot reload, and font support to R2API.Language."
+versionNumber = "1.0.1"
+description = "P.E.L.E adds native Ukrainian, Esperanto, and Latin support, JSON packs, hot reload, and full R2API.Language compatibility."
 websiteUrl = "https://github.com/Jaosnake/ror2-multi-language-pack"
 containsNsfwContent = false
 

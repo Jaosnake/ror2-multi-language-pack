@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - Package metadata update
+
+- Updates the Thunderstore package description to clearly mention native Ukrainian, Esperanto, and Latin support.
+- Keeps the internal BepInEx plugin version at `2.0.0` so P.E.L.E continues replacing `RiskofThunder-R2API_Language` safely.
+
 ## 1.0.0 - P.E.L.E initial release
 
 - Ships as a replacement for `RiskofThunder-R2API_Language`'s `R2API.Language.dll`, not as a second side-by-side plugin.
