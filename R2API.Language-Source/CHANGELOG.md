@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 - README cleanup
+
+- TOO MUCH STUFF IN README LOL GO TO WIKI.
+
 ## 1.0.1 - Package metadata update
 
 - Updates the Thunderstore package description to clearly mention native Ukrainian, Esperanto, and Latin support.
