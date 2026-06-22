@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.3 - README cleanup
+## 1.0.2 - README cleanup
 
 - TOO MUCH STUFF IN README LOL GO TO WIKI.
 
