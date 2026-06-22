@@ -1,6 +1,6 @@
 {
   "name": "PELE",
-  "version_number": "1.0.1",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
   "description": "P.E.L.E adds native Ukrainian, Esperanto, and Latin support, JSON packs, hot reload, and full R2API.Language compatibility.",
   "dependencies": [

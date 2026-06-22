@@ -1,37 +1,24 @@
 # P.E.L.E - Plugin for Enhanced Language Extension
 
-P.E.L.E is a language expansion layer for Risk of Rain 2. It was created because
-the base game was never designed around community-made languages like
-Ukrainian, Esperanto, Latin, or any future custom language a translation team
-may want to add.
+P.E.L.E expands Risk of Rain 2 language support beyond the game's built-in
+language list. It adds native support for Ukrainian, Esperanto, and Latin while
+remaining compatible with mods that already depend on `R2API.Language`.
 
-Risk of Rain 2 can load many official languages, and many mods already use
-`R2API.Language` for normal `.language` files. The problem starts when a
-language is not part of the game's original language list, needs extra glyphs,
-needs a menu entry, or needs translations from many different mods to behave as
-one coherent language pack. Ukrainian exposed that problem first: Cyrillic text
-can work, but the game still needs help registering the language, showing it in
-the UI, loading the right tokens, and refreshing everything without restarting.
-
-P.E.L.E solves that by replacing the language module with a customized
-`R2API.Language` fork that still supports existing mods, while adding a P.E.L.E
-translation pipeline on top.
+It was created because custom community languages need more than translated
+text files: they need menu entries, font support, reliable token loading, and a
+way to keep many mod translations working as one coherent language pack.
 
 ## What P.E.L.E Adds
 
-- Custom language registration for:
-  - `uk` - Ukrainian
-  - `eo` - Esperanto
-  - `la` - Latin
-- P.E.L.E JSON translation packs loaded from
-  `BepInEx/plugins/PELE/Language/<language>/*.json`.
-- Translation priority for P.E.L.E tokens when the same token exists in another
-  language pack.
-- A main-menu language selector that can show custom languages.
-- A pause-menu `Language` button with keyboard, mouse, and controller hints.
+- Native custom language support for Ukrainian (`uk`), Esperanto (`eo`), and
+  Latin (`la`).
+- P.E.L.E JSON translation packs for the base game and supported mods.
+- Priority loading for P.E.L.E translations when another pack has the same
+  token.
+- Main-menu and pause-menu language selection.
+- Keyboard, mouse, and controller hints in the language menu.
 - F5 hot reload for P.E.L.E JSON files and normal `.language` files.
-- Native Ukrainian/Cyrillic font support, without requiring
-  `AnotherOneCyrillicFont`.
+- Built-in Ukrainian/Cyrillic font support.
 - Startup checks for missing folders, missing font data, and duplicate language
   DLLs.
 
@@ -53,99 +40,30 @@ Character select in Ukrainian:
 
 ![P.E.L.E character select in Ukrainian](https://raw.githubusercontent.com/Jaosnake/ror2-multi-language-pack/main/R2API.Language-Source/docs/screenshots/character-select-ukrainian.png)
 
-## Why Esperanto and Latin?
+## Why These Languages?
 
-Ukrainian is the main practical target: it proves that P.E.L.E can support a
-language the base game does not handle cleanly by itself.
+Ukrainian is the main practical target because it needs clean custom-language
+registration and Cyrillic font support. Esperanto and Latin are the first
+experimental custom languages shipped with P.E.L.E, useful for testing the
+loader, menus, and mod translation support outside the official language list.
 
-Esperanto and Latin are the first experimental custom languages shipped with
-P.E.L.E. They are useful test languages because they are not base-game languages,
-they force the language menu and loader to behave like a real extension system,
-and they give translators a repeatable way to test mod support beyond the
-official language list.
+This package includes every P.E.L.E translation file currently shipped in the
+repository, even for mods you do not have installed. Risk of Rain 2 only uses a
+token when matching game or mod content asks for it.
 
-In this release, P.E.L.E ships the first three-language custom test set:
+## Important
 
-```text
-Ukrainian + Esperanto + Latin
-```
+P.E.L.E replaces the `R2API.Language.dll` provided by
+`RiskofThunder-R2API_Language`. It keeps the same BepInEx plugin GUID so mods
+that depend on `R2API.Language` continue to work normally.
 
-The package includes every P.E.L.E translation file currently shipped in this
-repository, even for mods you do not have installed. Risk of Rain 2 only uses
-tokens when the matching game content or mod asks for them, so keeping all packs
-together is intentional: you can install a supported mod later and its P.E.L.E
-translations are already there.
-
-## Jaosnake Language Packs
-
-P.E.L.E is designed to work alongside my existing Risk of Rain 2 translation
-packs. Those packs remain fully supported and are still recommended for the
-other languages they already cover.
-
-You can find them here:
-
-[Jaosnake packages on Thunderstore](https://thunderstore.io/c/riskofrain2/p/Jaosnake/)
-
-This P.E.L.E package does not replace, modify, or invalidate that work. Existing
-Jaosnake language packs can continue to receive their own updates independently,
-and future updates to those packages are not tied to this P.E.L.E release.
-
-## Important: This Replaces R2API.Language
-
-P.E.L.E is **not** a second language plugin to install next to the normal
-`R2API.Language.dll`.
-
-This package is meant to replace the DLL from:
-
-```text
-RiskofThunder-R2API_Language
-```
-
-P.E.L.E intentionally keeps the original BepInEx plugin GUID:
-
-```text
-com.bepis.r2api.language
-```
-
-That is required so mods that depend on `R2API.Language` keep working normally.
-To BepInEx and to other mods, P.E.L.E is still the language API they expect; it
-just has extra language support built in.
-
-The Thunderstore package version follows normal Thunderstore releases, while the
-internal BepInEx plugin version is `2.0.0`. That is intentional: it ensures
-P.E.L.E wins over the upstream `RiskofThunder-R2API_Language 1.1.0` if both DLLs
-are present during a manual r2modman test install.
-
-Only one `R2API.Language.dll` must be loaded. The intended path is:
-
-```text
-BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
-```
-
-Do **not** install another copy in paths like:
-
-```text
-BepInEx/plugins/R2API.Language.dll
-BepInEx/plugins/PELE/R2API.Language.dll
-BepInEx/plugins/SomeOtherFolder/R2API.Language.dll
-```
-
-If two DLLs with the same GUID are loaded, BepInEx may choose the wrong one,
-run duplicate hooks, or initialize language systems in the wrong order.
-
-The `PELE` folder included with this package is data only:
-
-```text
-BepInEx/plugins/PELE/
-├─ Fonts/
-└─ Language/
-```
-
-It must not contain an old `PELE.dll`, `PELE.deps.json`, or `PELE.pdb`.
+Do not install another copy of `R2API.Language.dll` side by side. Duplicate
+language DLLs can cause duplicate hooks, wrong load order, or missing language
+tokens.
 
 ## Dependencies
 
-Thunderstore installs these dependencies automatically:
+Thunderstore installs these automatically:
 
 ```text
 bbepis-BepInExPack-5.4.2121
@@ -153,9 +71,13 @@ RiskofThunder-HookGenPatcher-1.2.9
 RiskofThunder-R2API_Core-5.3.0
 ```
 
-`RiskofThunder-R2API_Language` is not listed as a separate dependency because
-P.E.L.E provides the replacement `R2API.Language.dll` itself. Installing another
-copy of `R2API.Language.dll` side-by-side can cause duplicate plugin loading.
+`RiskofThunder-R2API_Language` is not listed as a dependency because P.E.L.E
+provides the replacement `R2API.Language.dll` itself.
+
+## Translation Priority
+
+When P.E.L.E provides a token, it wins over other language packs. If P.E.L.E
+does not provide that token, the normal game/mod language fallback is used.
 
 ## Included Three-Language Mod Support
 
@@ -217,106 +139,25 @@ Ukrainian (uk) | Esperanto (eo) | Latin (la)
 | Starstorm 2 | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
 | Wanderer | [tsuyoikenko / Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) |
 
-## How Translation Priority Works
 
-When Risk of Rain 2 asks for a token, P.E.L.E resolves it in this order:
+## More Jaosnake Translations
 
-1. Temporary overlay tokens.
-2. P.E.L.E custom-language tokens.
-3. The normal game or mod language system.
+P.E.L.E is designed to work alongside my existing Risk of Rain 2 translation
+packs. Those packs remain fully supported and are still recommended for the
+other languages they already cover.
 
-That means P.E.L.E wins when it has the same token. Existing mod translation packs
-remain useful as fallback data when P.E.L.E does not provide a token.
+[Jaosnake packages on Thunderstore](https://thunderstore.io/c/riskofrain2/p/Jaosnake/)
 
-## Manual Installation
+## Documentation
 
-If you install manually, place files like this:
+More technical details are available here:
 
-```text
-BepInEx/plugins/
-├─ RiskofThunder-R2API_Language/
-│  └─ R2API.Language/
-│     └─ R2API.Language.dll
-└─ PELE/
-   ├─ Fonts/
-   └─ Language/
-```
-
-Then start the game and check `BepInEx/LogOutput.log`.
-
-Expected log markers:
-
-```text
-Loading [R2API.Language (Jaosnake fork) 2.0.0]
-R2API.Language (Jaosnake fork) inicializado!
-PELE/Language encontrado: ...
-Tokens PELE por idioma: la=..., eo=..., uk=...
-PELE/Fonts/cyrillicfont encontrado.
-DLL R2API.Language unica detectada.
-PELE JSONs carregados no startup (... tokens)
-Hot-Reload habilitado! Pressione F5 para recarregar manualmente.
-```
-
-## Configuration
-
-BepInEx generates the config file for this plugin. The release defaults are:
-
-```ini
-[PELE]
-EnableHotReload = true
-EnableDebugMenu = false
-EnableVerboseLogging = false
-```
-
-- `EnableHotReload`: enables F5 reload and file watcher reload.
-- `EnableDebugMenu`: enables the F6 P.E.L.E debug window.
-- `EnableVerboseLogging`: enables extra hook and layout diagnostic logs.
-
-## Translation File Layout
-
-P.E.L.E translations live outside the DLL:
-
-```text
-BepInEx/plugins/PELE/Language/<language>/*.json
-```
-
-Supported JSON format:
-
-```json
-{
-  "strings": {
-    "TOKEN_NAME": "Translated text"
-  }
-}
-```
-
-Flat JSON token objects are also supported. Metadata keys such as `language`,
-`strings`, and keys starting with `_` are ignored as translation tokens.
-
-## Building From Source
-
-Local build command:
-
-```powershell
-dotnet build C:\Users\Jaosnake\Desktop\PELE_Project\github_repo_latest\R2API.Language-Source\R2API.Language.csproj -c Release
-```
-
-The project deploy target copies the generated DLL to the active r2modman
-profile's `RiskofThunder-R2API_Language` folder. This is intentional and keeps
-the runtime profile from loading duplicate `R2API.Language.dll` files.
-
-## Technical Documentation
-
-Before changing hooks or UI behavior, read:
-
-```text
-docs/HOOKS.md
-docs/MANUAL_TESTS.md
-docs/STABILIZATION_PLAN.md
-```
-
-These files document hook contracts, manual regression testing, and the
-stabilization rules for future P.E.L.E changes.
+- [Installation and compatibility](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#important-this-replaces-r2apilanguage)
+- [Manual installation](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#manual-installation)
+- [Configuration](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#configuration)
+- [Translation file layout](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#translation-file-layout)
+- [Technical hook notes](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/HOOKS.md)
+- [Manual test checklist](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/MANUAL_TESTS.md)
 
 ## Questions and Support
 
@@ -327,5 +168,7 @@ issue on GitHub:
 
 ---
 
-## ☕ Support
+## Support
+
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+

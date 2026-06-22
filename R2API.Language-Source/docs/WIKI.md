@@ -1,0 +1,240 @@
+# P.E.L.E Wiki
+
+This page keeps the technical details out of the Thunderstore front page.
+
+## Why Esperanto and Latin?
+
+Ukrainian is the main practical target: it proves that P.E.L.E can support a
+language the base game does not handle cleanly by itself.
+
+Esperanto and Latin are the first experimental custom languages shipped with
+P.E.L.E. They are useful test languages because they are not base-game languages,
+they force the language menu and loader to behave like a real extension system,
+and they give translators a repeatable way to test mod support beyond the
+official language list.
+
+In this release, P.E.L.E ships the first three-language custom test set:
+
+```text
+Ukrainian + Esperanto + Latin
+```
+
+The package includes every P.E.L.E translation file currently shipped in this
+repository, even for mods you do not have installed. Risk of Rain 2 only uses
+tokens when the matching game content or mod asks for them, so keeping all packs
+together is intentional: you can install a supported mod later and its P.E.L.E
+translations are already there.
+
+## Important: This Replaces R2API.Language
+
+P.E.L.E is **not** a second language plugin to install next to the normal
+`R2API.Language.dll`.
+
+This package is meant to replace the DLL from:
+
+```text
+RiskofThunder-R2API_Language
+```
+
+P.E.L.E intentionally keeps the original BepInEx plugin GUID:
+
+```text
+com.bepis.r2api.language
+```
+
+That is required so mods that depend on `R2API.Language` keep working normally.
+To BepInEx and to other mods, P.E.L.E is still the language API they expect; it
+just has extra language support built in.
+
+The Thunderstore package version follows normal Thunderstore releases, while the
+internal BepInEx plugin version is `2.0.0`. That is intentional: it ensures
+P.E.L.E wins over the upstream `RiskofThunder-R2API_Language 1.1.0` if both DLLs
+are present during a manual r2modman test install.
+
+Only one `R2API.Language.dll` must be loaded. The intended path is:
+
+```text
+BepInEx/plugins/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll
+```
+
+Do **not** install another copy in paths like:
+
+```text
+BepInEx/plugins/R2API.Language.dll
+BepInEx/plugins/PELE/R2API.Language.dll
+BepInEx/plugins/SomeOtherFolder/R2API.Language.dll
+```
+
+If two DLLs with the same GUID are loaded, BepInEx may choose the wrong one,
+run duplicate hooks, or initialize language systems in the wrong order.
+
+The `PELE` folder included with this package is data only:
+
+```text
+BepInEx/plugins/PELE/
+├─ Fonts/
+└─ Language/
+```
+
+It must not contain an old `PELE.dll`, `PELE.deps.json`, or `PELE.pdb`.
+
+## Included Three-Language Mod Support
+
+The mods below have P.E.L.E translation packs for all three custom languages in
+this release: Ukrainian, Esperanto, and Latin.
+
+"Complete P.E.L.E support" here means this package includes matching P.E.L.E JSON
+files for `uk`, `eo`, and `la` for that mod. It does not mean the original mod
+author officially ships those languages.
+
+This list was checked against the P.E.L.E language files in this GitHub
+repository, not against the mods currently installed in a local r2modman
+profile.
+
+All mods listed below include P.E.L.E JSON support for:
+
+```text
+Ukrainian (uk) | Esperanto (eo) | Latin (la)
+```
+
+| Mod | Thunderstore package |
+| --- | --- |
+| Alloyed Armorer | [TatertotticusSquad / Alloyed_Armorer](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/) |
+| Arsonist | [PopcornFactory / Arsonist_Mod](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Arsonist_Mod/) |
+| Assassin | [HasteReapr / AssassinMod](https://thunderstore.io/c/riskofrain2/p/HasteReapr/AssassinMod/) |
+| Banshee | [tsuyoikenko / Banshee](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Banshee/) |
+| Bastian | [TeamSillyGuy / Bastian](https://thunderstore.io/c/riskofrain2/p/TeamSillyGuy/Bastian/) |
+| Belmont | [rob / Belmont](https://thunderstore.io/c/riskofrain2/p/rob/Belmont/) |
+| Chaos Angeloid | [DragonycksModdingComms / Chaos](https://thunderstore.io/c/riskofrain2/p/DragonycksModdingComms/Chaos/) |
+| Cloudburst | [TeamCloudburst / Cloudburst](https://thunderstore.io/c/riskofrain2/p/TeamCloudburst/Cloudburst/) |
+| Dancer | [nayDPz / Dancer](https://thunderstore.io/c/riskofrain2/p/nayDPz/Dancer/) |
+| Dante | [rob / Dante](https://thunderstore.io/c/riskofrain2/p/rob/Dante/) |
+| Deputy | [Bog / Deputy](https://thunderstore.io/c/riskofrain2/p/Bog/Deputy/) |
+| Driver | [public_ParticleSystem / Driver](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Driver/) |
+| Enforcer | [EnforcerGang / Enforcer](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Enforcer/) |
+| HAND OVERCLOCKED | [EnforcerGang / HAND_OVERCLOCKED](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/) |
+| HEL P | [rob / HEL_P](https://thunderstore.io/c/riskofrain2/p/rob/HEL_P/) |
+| Henry | [TheTimesweeper / HenryMod](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/HenryMod/) |
+| Heretic | [Moffein / Heretic](https://thunderstore.io/c/riskofrain2/p/Moffein/Heretic/) |
+| HUNK | [rob / HUNK](https://thunderstore.io/c/riskofrain2/p/rob/HUNK/) |
+| Interrogator | [tsuyoikenko / Interrogator](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Interrogator/) |
+| Lee Hyperreal | [PopcornFactory / Lee_Hyperreal](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Lee_Hyperreal/) |
+| Miner Unearthed | [EnforcerGang / MinerUnearthed](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/MinerUnearthed/) |
+| Mortician | [Bog / Mortician](https://thunderstore.io/c/riskofrain2/p/Bog/Mortician/) |
+| Myst | [JavAngle / Myst](https://thunderstore.io/c/riskofrain2/p/JavAngle/Myst/) |
+| Paladin | [Paladin_Alliance / PaladinMod](https://thunderstore.io/c/riskofrain2/p/Paladin_Alliance/PaladinMod/) |
+| Pathfinder | [Bog / Pathfinder](https://thunderstore.io/c/riskofrain2/p/Bog/Pathfinder/) |
+| Pilot | [EnforcerGang / Pilot](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/) |
+| Ravager | [public_ParticleSystem / Ravager](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Ravager/) |
+| Red Alert | [TheTimesweeper / Red_Alert](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/Red_Alert/) |
+| Rifter | [toastyTeam / Rifter](https://thunderstore.io/c/riskofrain2/p/toastyTeam/Rifter/) |
+| RiskyTweaks | [Risky_Lives / RiskyTweaks](https://thunderstore.io/c/riskofrain2/p/Risky_Lives/RiskyTweaks/) |
+| Rocket | [EnforcerGang / Rocket](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Rocket/) |
+| Sandswept | [SandsweptTeam / Sandswept](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) |
+| Seamstress | [tsuyoikenko / Seamstress](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Seamstress/) |
+| Sniper Classic | [EnforcerGang / SniperClassic](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/) |
+| Sorceress | [Frosthex / SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) |
+| Spearman | [SaucySquash / Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) |
+| Starstorm 2 | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
+| Wanderer | [tsuyoikenko / Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) |
+
+## How Translation Priority Works
+
+When Risk of Rain 2 asks for a token, P.E.L.E resolves it in this order:
+
+1. Temporary overlay tokens.
+2. P.E.L.E custom-language tokens.
+3. The normal game or mod language system.
+
+That means P.E.L.E wins when it has the same token. Existing mod translation packs
+remain useful as fallback data when P.E.L.E does not provide a token.
+
+## Manual Installation
+
+If you install manually, place files like this:
+
+```text
+BepInEx/plugins/
+├─ RiskofThunder-R2API_Language/
+│  └─ R2API.Language/
+│     └─ R2API.Language.dll
+└─ PELE/
+   ├─ Fonts/
+   └─ Language/
+```
+
+Then start the game and check `BepInEx/LogOutput.log`.
+
+Expected log markers:
+
+```text
+Loading [R2API.Language (Jaosnake fork) 2.0.0]
+R2API.Language (Jaosnake fork) inicializado!
+PELE/Language encontrado: ...
+Tokens PELE por idioma: la=..., eo=..., uk=...
+PELE/Fonts/cyrillicfont encontrado.
+DLL R2API.Language unica detectada.
+PELE JSONs carregados no startup (... tokens)
+Hot-Reload habilitado! Pressione F5 para recarregar manualmente.
+```
+
+## Configuration
+
+BepInEx generates the config file for this plugin. The release defaults are:
+
+```ini
+[PELE]
+EnableHotReload = true
+EnableDebugMenu = false
+EnableVerboseLogging = false
+```
+
+- `EnableHotReload`: enables F5 reload and file watcher reload.
+- `EnableDebugMenu`: enables the F6 P.E.L.E debug window.
+- `EnableVerboseLogging`: enables extra hook and layout diagnostic logs.
+
+## Translation File Layout
+
+P.E.L.E translations live outside the DLL:
+
+```text
+BepInEx/plugins/PELE/Language/<language>/*.json
+```
+
+Supported JSON format:
+
+```json
+{
+  "strings": {
+    "TOKEN_NAME": "Translated text"
+  }
+}
+```
+
+Flat JSON token objects are also supported. Metadata keys such as `language`,
+`strings`, and keys starting with `_` are ignored as translation tokens.
+
+## Building From Source
+
+Local build command:
+
+```powershell
+dotnet build C:\Users\Jaosnake\Desktop\PELE_Project\github_repo_latest\R2API.Language-Source\R2API.Language.csproj -c Release
+```
+
+The project deploy target copies the generated DLL to the active r2modman
+profile's `RiskofThunder-R2API_Language` folder. This is intentional and keeps
+the runtime profile from loading duplicate `R2API.Language.dll` files.
+
+## Technical Documentation
+
+Before changing hooks or UI behavior, read:
+
+```text
+docs/HOOKS.md
+docs/MANUAL_TESTS.md
+docs/STABILIZATION_PLAN.md
+```
+
+These files document hook contracts, manual regression testing, and the
+stabilization rules for future P.E.L.E changes.
