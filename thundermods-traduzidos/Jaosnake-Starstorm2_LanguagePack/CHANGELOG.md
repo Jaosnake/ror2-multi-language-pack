@@ -1,3 +1,6 @@
+## 2.0.2
+- After an extensive audit, the package was updated across all supported languages.
+
 ## 2.0.1
 - Updated package version to continue from the published Thunderstore 2.0.0 release.
 - Keeps the current multi-language translation fixes and R2API.Language package structure.
