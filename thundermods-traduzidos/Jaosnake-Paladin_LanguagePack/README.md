@@ -1,11 +1,12 @@
 # 🌍 Jaosnake-Paladin_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
+![PELE](https://img.shields.io/badge/PELE-Required-brightgreen)
 
 Multi-language translation pack for **PaladinMod** by **Paladin_Alliance**.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+> 🌐 🇻🇦 🇺🇦 Latim, Esperanto, and Ukrainian are included in this pack. To enable them as selectable in-game languages, install [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/), where they are supported natively.
 
 ---
 
@@ -18,19 +19,21 @@ Multi-language translation pack for **PaladinMod** by **Paladin_Alliance**.
 ## 🌐 Languages
 | Flag | Language |
 |------|----------|
+| 🇨🇳 | Chinese (Simplified) |
 | 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
+| 🌐 | Esperanto |
 | 🇫🇷 | French |
+| 🇩🇪 | German |
 | 🇮🇹 | Italian |
 | 🇯🇵 | Japanese |
 | 🇰🇷 | Korean |
+| 🇻🇦 | Latin |
 | 🇧🇷 | Portuguese (BR) |
 | 🇷🇺 | Russian |
+| 🇪🇸 | Spanish (LATAM) |
+| 🇪🇸 | Spanish (Spain) |
 | 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian ⚡ |
-| 🇨🇳 | Chinese (Simplified) |
+| 🇺🇦 | Ukrainian |
 
 ## 👤 Credits
 | Role | Name |
