@@ -1,13 +1,13 @@
 # 🌍 Jaosnake-Starstorm2_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-2.0.1-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-2.0.2-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Starstorm2** by **TeamMoonstorm**.
 
 > ⚠️ pt-BR is NOT included in this pack. pt-BR was manually translated by Jaosnake and is available separately.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+> 🇺🇦 Ukrainian is included in this pack. To enable it as a selectable in-game language, install [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/), where Ukrainian is supported natively.
 
 ---
 

@@ -1,5 +1,6 @@
 ## 2.0.2
 - After an extensive audit, the package was updated across all supported languages.
+- Added Ukrainian to the package; another mod is required to enable it in-game. Read the README for more information.
 
 ## 2.0.1
 - Updated package version to continue from the published Thunderstore 2.0.0 release.
