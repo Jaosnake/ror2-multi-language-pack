@@ -1,3 +1,6 @@
+## 2.0.3
+- Updated version in sync with the latest StarStorm2 version.
+
 ## 2.0.2
 - After an extensive audit, the package was updated across all supported languages.
 - Added Ukrainian to the package; another mod is required to enable it in-game. Read the README for more information.
