@@ -1,5 +1,5 @@
 ## 2.0.3
-- Updated version in sync with the latest StarStorm2 version.
+- Updated to stay in sync with the latest StarStorm2 version.
 
 ## 2.0.2
 - After an extensive audit, the package was updated across all supported languages.
