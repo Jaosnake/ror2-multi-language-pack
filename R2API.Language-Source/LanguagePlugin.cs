@@ -38,7 +38,7 @@ public sealed class LanguagePlugin : BaseUnityPlugin
 
         _collectLanguageRootFoldersHandler = folders =>
         {
-            var pelePath = System.IO.Path.Combine(BepInEx.Paths.PluginPath, "PELE", "Language");
+            var pelePath = PelePaths.LanguageRoot(BepInEx.Paths.PluginPath);
             if (Directory.Exists(pelePath))
             {
                 folders.Add(pelePath);

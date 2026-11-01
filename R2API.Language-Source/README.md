@@ -22,6 +22,20 @@ way to keep many mod translations working as one coherent language pack.
 - Startup checks for missing folders, missing font data, and duplicate language
   DLLs.
 
+## Optional KingModUtilities integration
+
+P.E.L.E includes an optional compatibility plugin for text used by the Goku,
+Vegeta, and Trunks mods through KingModUtilities. It activates only when the
+required utility is installed. The included translation files cover Ukrainian,
+Esperanto, and Latin; dynamic descriptions and coverage can vary by mod version.
+The integration does not install those mods or KingModUtilities for you.
+
+## Translation status
+
+The included translations are a work in progress. Coverage and linguistic
+review vary between languages, game content, and mods; untranslated strings may
+fall back to the original text. This release does not include DLC4 translations.
+
 ## Screenshots
 
 Main menu language selector:
@@ -57,9 +71,11 @@ P.E.L.E replaces the `R2API.Language.dll` provided by
 `RiskofThunder-R2API_Language`. It keeps the same BepInEx plugin GUID so mods
 that depend on `R2API.Language` continue to work normally.
 
-Do not install another copy of `R2API.Language.dll` side by side. Duplicate
-language DLLs can cause duplicate hooks, wrong load order, or missing language
-tokens.
+Some mods also install the upstream `RiskofThunder-R2API_Language` as a
+dependency. BepInEx selects the higher-version P.E.L.E fork with the same plugin
+GUID; keep both packages managed by the mod manager. Do not manually add extra
+copies of the fork. Compatibility with all mods and future versions is not
+guaranteed.
 
 ## Dependencies
 

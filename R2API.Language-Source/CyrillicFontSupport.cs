@@ -134,7 +134,7 @@ internal static class CyrillicFontSupport
     {
         var preferred = new[]
         {
-            System.IO.Path.Combine(Paths.PluginPath, "PELE", "Fonts", "cyrillicfont"),
+            PelePaths.CyrillicFont(Paths.PluginPath),
             System.IO.Path.Combine(Paths.PluginPath, "PELE", "cyrillicfont"),
         };
 

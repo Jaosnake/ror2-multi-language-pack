@@ -216,7 +216,7 @@ internal class LanguageDebugUI : MonoBehaviour
         GUILayout.Space(5);
         GUILayout.Label("Diretorios monitorados:", GUI.skin.label);
         GUILayout.Label("  *.language: " + BepInEx.Paths.PluginPath);
-        GUILayout.Label("  *.json:     " + System.IO.Path.Combine(BepInEx.Paths.PluginPath, "PELE", "Language"));
+        GUILayout.Label("  *.json:     " + PelePaths.LanguageRoot(BepInEx.Paths.PluginPath));
 
         GUILayout.Space(5);
         GUILayout.Label("Arquivos carregados:", GUI.skin.label);

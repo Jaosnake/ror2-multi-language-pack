@@ -8,14 +8,14 @@
         "KEYWORD_WEAK": "<style=cKeywordName>Послаблення</style><style=cSub>Зменшити швидкість руху та шкоду на <style=cIsDamage>40%</style>. Зменшити броню на <style=cIsDamage>20</style>.</style>",
         "KEYWORD_HEAVY": "<style=cKeywordName>Важкий</style><style=cSub>Вміння завдає більшої шкоди, чим швидше ви рухаєтеся.</style>",
         "KEYWORD_FREEZING": "<style=cKeywordName>Заморожування</style><style=cSub>Заморозьте ворогів на місці. Заморожені вороги <style=cIsHealth>миттєво вбиваються</style>, якщо здоров’я нижче <style=cIsHealth>30%</style>.</style>",
-        "KEYWORD_STUNNING": "<style=cKeywordName>Приголомшливий</style><style=cSub>Перериває ворогів і ненадовго приголомшує їх.",
-        "KEYWORD_EXPOSE": "<style=cKeywordName>Expose</style><style=cSub>Попадання по відкритим ворогам зменшує час відновлення всіх умінь на <style=cIsUtility>1,0 с</style> і завдає додаткової <style=cIsDamage>+350% шкоди</style>.",
-        "KEYWORD_SHOCKING": "<style=cKeywordName>Шокуючий</style><style=cSub>Перериває ворогів і приголомшує їх. Приголомшення знімається, якщо ціль отримує більш ніж <style=cIsHealth>10%</style> свого максимального здоров’я в результаті пошкодження.",
+        "KEYWORD_STUNNING": "<style=cKeywordName>Приголомшливий</style><style=cSub>Перериває ворогів і ненадовго приголомшує їх.</style>",
+        "KEYWORD_EXPOSE": "<style=cKeywordName>Expose</style><style=cSub>Попадання по відкритим ворогам зменшує час відновлення всіх умінь на <style=cIsUtility>1,0 с</style> і завдає додаткової <style=cIsDamage>+350% шкоди</style>.</style>",
+        "KEYWORD_SHOCKING": "<style=cKeywordName>Шокуючий</style><style=cSub>Перериває ворогів і приголомшує їх. Приголомшення знімається, якщо ціль отримує більш ніж <style=cIsHealth>10%</style> свого максимального здоров’я в результаті пошкодження.</style>",
         "KEYWORD_SLAYER": "<style=cKeywordName>Вбивця</style><style=cSub>Завдає до <style=cIsDamage>3x</style> шкоди ворогам із низьким рівнем здоров’я.</style>",
         "KEYWORD_SUPERBLEED": "<style=cKeywordName>Крововилив</style><style=cSub>Завдає <style=cIsDamage>2000%</style> базової шкоди протягом 15 с. <i>Крововилив може накопичуватися.</i></style>",
-        "KEYWORD_IGNITE": "<style=cKeywordName>Ignite</style><style=cSub>Нанесіть додаткову <style=cIsDamage>+50%</style> загальну шкоду з часом.",
-        "KEYWORD_WEAKPOINT": "<style=cKeywordName>Слабкі місця</style><style=cSub>Розділи ворогів визначаються як такі, що містять <style=cIsDamage>Слабкі місця</style>. Попадання в <style=cIsDamage>Слабке місце</style> гарантує <style=cIsDamage>Критичний удар</style>.",
-        "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Активне перезарядження</style><style=cSub>Перезарядіть рейлган після пострілу. <style=cIsDamage>Ідеальне перезарядження</style> завдає додаткового <style=cIsDamage>+500% базової шкоди</style> під час вашого наступного пострілу.",
+        "KEYWORD_IGNITE": "<style=cKeywordName>Ignite</style><style=cSub>Нанесіть додаткову <style=cIsDamage>+50%</style> загальну шкоду з часом.</style>",
+        "KEYWORD_WEAKPOINT": "<style=cKeywordName>Слабкі місця</style><style=cSub>Розділи ворогів визначаються як такі, що містять <style=cIsDamage>Слабкі місця</style>. Попадання в <style=cIsDamage>Слабке місце</style> гарантує <style=cIsDamage>Критичний удар</style>.</style>",
+        "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Активне перезарядження</style><style=cSub>Перезарядіть рейлган після пострілу. <style=cIsDamage>Ідеальне перезарядження</style> завдає додаткового <style=cIsDamage>+500% базової шкоди</style> під час вашого наступного пострілу.</style>",
         "KEYWORD_VOIDCORRUPTION": "<style=cKeywordName>Порча</style><style=cSub>Здобувайте псування, отримуючи пошкодження, завдаючи критичних ударів або утримуючи Пустотні предмети. Зменшення корупції шляхом зцілення.</style>"
     }
 }

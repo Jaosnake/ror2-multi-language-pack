@@ -58,7 +58,7 @@ public class LanguageHotReload : IDisposable
             _languageWatcher.Deleted += OnChanged;
             _languageWatcher.EnableRaisingEvents = true;
 
-            var peleJsonDir = Path.Combine(directory, "PELE", "Language");
+            var peleJsonDir = PelePaths.LanguageRoot(directory);
             if (Directory.Exists(peleJsonDir))
             {
                 _jsonWatcher = new FileSystemWatcher(peleJsonDir)

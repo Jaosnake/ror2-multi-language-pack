@@ -12,7 +12,7 @@ internal static class PeleJsonLoader
         LanguageAPI.InvalidateDiskCache();
         try
         {
-            var peleDir = Path.Combine(Paths.PluginPath, "PELE", "Language");
+            var peleDir = PelePaths.LanguageRoot(Paths.PluginPath);
             if (!Directory.Exists(peleDir)) return;
 
             foreach (var langDir in Directory.GetDirectories(peleDir))
@@ -47,7 +47,7 @@ internal static class PeleJsonLoader
     {
         try
         {
-            var peleDir = Path.Combine(Paths.PluginPath, "PELE", "Language");
+            var peleDir = PelePaths.LanguageRoot(Paths.PluginPath);
             if (!Directory.Exists(peleDir)) return 0;
 
             int total = 0;

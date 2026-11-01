@@ -1,14 +1,14 @@
 {
     "strings": {
-        "BOG_MORRIS_BODY_NAME": "Mortuldoktoro",
-        "BOG_MORRIS_BODY_DESCRIPTION": "La Mortuldoktoro estas malrapida sed fortika korpbatala nekromancisto, kiu elstaras en kontrolado de teritorio per sia armeo de senvivuloj.",
-        "BOG_MORRIS_BODY_SUBTITLE": "Senviva",
+        "BOG_MORRIS_BODY_NAME": "Mortician",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Mortician estas malrapida sed fortika korpbatala nekromancisto, kiu elstaras en kontrolado de teritorio per sia armeo de malmortintoj.<color=#CCD3E0>\n\n< ! > Guloj jxetitaj per via sxovelilo alkrocxigxas al pli grandaj malamikoj kaj mordas ilin ripete.\n\n< ! > Guloj ne provas sekvi vin; ili koncentrigxas nur pri siaj celoj.\n\n< ! > Vi povas rapide forigi grupojn da flugantaj malamikoj jxetante viajn gulojn alten kaj oferante ilin en la aero.\n\n< ! > Via tombsxtono povas helpi vin regi areon de malproksime.\n\n</color>",
+        "BOG_MORRIS_BODY_SUBTITLE": "Mortinto marsxanta",
         "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..kaj tiel li foriris, lia funebra devo ankoraux nerealigita.",
         "BOG_MORRIS_BODY_OUTRO_FAILURE": "..kaj tiel li malaperis, fine ricevinte la pacon, kiun li tiom deziris.",
         "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Defauxlta",
         "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Majstreco",
         "BOG_MORRIS_BODY_PASSIVE_NAME": "Anima Ofero",
-        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Guloj <style=cIsUtility>ekigas siajn mortig-efikojn</style> kiam ili mortas.",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Kiam guloj mortas, ili <style=cIsUtility>ekigas viajn efikojn de mortigo</style>.",
         "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Sxovelfrapo",
         "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Svingu vian sxovelilon por <style=cIsDamage>800% da damagxo</style>. Trafi gulojn kaj tombosxtonojn per via sxovelilo kauxzas <style=cIsUtility>lancxon</style> por <style=cIsDamage>350% da damagxo</style>.",
         "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Levi Mortintojn",
@@ -17,10 +17,15 @@
         "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Eksplodigu</style> la celitan gulon por <style=cIsDamage>700% da damagxo</style> kaj <style=cIsHealing>resanigxu je 15% de via maksimuma sano</style>.",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Tombosxtono",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Starigu Tombosxtonon, kiu generas gulon cxiun <style=cIsUtility>10 sekundojn</style>. Kiam gulo mortas, la tombo generas <style=cIsDamage>vengxeman animon</style> <style=cIsUtility>eksplodema</style>, kiu pafas al proksima malamiko por <style=cIsDamage>350% da damagxo</style>.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortuldoktoro: Majstreco",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Kiel Mortuldoktoro, venku la ludon aux forvisxu vin en Monsoon.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortuldoktoro: Majstreco",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Morris: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Kiel Mortician, venku la ludon aux forvisxu vin je Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Morris: Mastery",
         "BOG_GHOUL_BODY_NAME": "Gulo",
-        "BOG_TOMBSTONE_BODY_NAME": "Tombosxtono"
+        "BOG_TOMBSTONE_BODY_NAME": "Tombosxtono",
+        "KEYWORD_LINKED": "<style=cKeywordName>Spirita Ligo</style><style=cSub>Guloj ne heredas viajn objektojn, sed ilia tuta damagxo estas traktata kiel via propra.</style>",
+        "KEYWORD_EXHAUST": "<style=cKeywordName>Elcxerpigxo</style><style=cSub>Malpliigas movrapidecon kaj damagxon je <style=cIsUtility>30%</style>. Plilongigas malvarmigojn je <style=cIsUtility>20%</style>.</style>",
+        "BOG_MORRIS_BODY_LORE": "Dio forlasis nin.\n\nVerdire, mi ne kredas, ke li iam zorgis pri ni.\n\nIe preter la plej foraj limoj de homa kompreno trovigxas regno, en kiu ni cxiuj estas kondamnitaj iam trovi nin. Gxi ne estas regno de perlaj pordegoj kaj angxeloj, nek de fajro kaj sulfuro, sed de mallumo kaj malespero. Gxi estas abisma malliberejo, kie cxiuj malliberuloj estas reduktitaj al nuraj datumoj. Gxin regas scivolemaj, sinistraj estajxoj, kiuj esploros kaj turmentos nin kaj faros siajn kruelajn eksperimentojn dum la tuta eterneco.\n\nCxiu animo, kiun mi eltiras el tiu mizera loko, rakontas al mi historion. Iuj estas devigataj ree kaj ree travivi la plej grandan doloron, kiun ili iam spertis. Aliaj pendas en eterna, soleca mallumo, sen kunuleco aux stimulo. Iuj rakontas pri kraboj kaj salikokoj. Cxiuj petegas min ne resendi ilin tien. Mi sukcesis krei novajn korpojn por tiuj animoj; se ili mortas, la animoj revenas al mi denove.\n\nLa estajxoj, kiuj regas la malliberejon, venas al mi en songxoj. Ili mokas min kaj rakontas, kion ili faros al mi, kiam mi mortos kaj falos en iliajn ungegojn. Mi scias, ke iliaj planoj estas multe pli teruraj ol io ajn, kion la diablo povus fari al mi. Cxiu savita animo estas alia ludilo, kiun mi forprenas de ili, kaj ili igos min pagi pro tio, ke mi ruinigis ilian amuzon.\n\nMi maljunigxis, kaj ankaux mia tempo baldaux venos. Tial mi decidis trovi vojon al tiu regno, mortigi gxiajn malicajn regantojn kaj liberigi cxiujn gxiajn malliberulojn.\n\nMi ne faros tion sola: la animoj, kiujn mi liberigis, batalos apud mi. Ili gvidos min, kaj mi gvidos ilin. Kune ni restarigos la sanktecon de la morto kaj la pacon promesitan al ni.",
+        "BOG_GHOUL_BODY_DEFAULT_SKIN_NAME": "Defauxlta",
+        "BOG_TOMBSTONE_BODY_DEFAULT_SKIN_NAME": "Defauxlta"
     }
 }
