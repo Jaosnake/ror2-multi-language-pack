@@ -1,12 +1,12 @@
 {
     "pt-BR": {
         "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
-        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "O Herege <style=cIsUtility>se move mais rápido</style> e pode <style=cIsUtility>bater suas asas duas vezes</style> para obter altura extra enquanto estiver no ar.",
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>se move mais rápido</style> e pode <style=cIsUtility>bater as asas duas vezes</style> para ganhar altura enquanto estiver no ar.",
         "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marca da Heresia",
-        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Ganhe um grande aumento de estatísticas... <color=#FF7F7F>MAS sua saúde diminui com o tempo.</color>",
-        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumente <style=cIsHealing>health</style> em <style=cIsHealing>400%</style> e <style=cIsDamage>damage</style> em <style=cIsDamage>50%</style>. Reduza <style=cIsHealing>regeneração de saúde básica</style> para</style>0__-6hp/s</style>1__.",
-        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Carregue uma bola de lâminas que causa repetidamente <style=cIsDamage>175% de dano</style>. Após um atraso, exploda e <style=cIsDamage>root</style> todos os inimigos causando <style=cIsDamage>700% de dano</style>.",
-        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Causar dano adiciona uma pilha de <style=cIsDamage>Ruin</style>. Ativar a habilidade <style=cIsDamage>detona todas as pilhas de Ruína</style> em alcance ilimitado, causando <style=cIsDamage>300% de dano</style> mais <style=cIsDamage>120% de dano</style> por pilha de <style=cIsDamage>Ruína</style>.",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Receba um grande aumento de atributos... <color=#FF7F7F>MAS sua vida diminui com o tempo.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumenta a <style=cIsHealing>vida</style> em <style=cIsHealing>400%</style> e o <style=cIsDamage>dano</style> em <style=cIsDamage>50%</style>. Reduz a <style=cIsHealing>regeneração base de vida</style> para <style=cIsHealing>-6 de vida/s</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Carregue uma esfera de lâminas que causa repetidamente <style=cIsDamage>175% de dano</style>. Após um breve intervalo, ela explode, <style=cIsDamage>imobiliza</style> todos os inimigos e causa <style=cIsDamage>700% de dano</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Causar dano adiciona um acúmulo de <style=cIsDamage>Ruína</style>. Ativar a habilidade <style=cIsDamage>detona todos os acúmulos de Ruína</style> sem limite de alcance, causando <style=cIsDamage>300% de dano</style> mais <style=cIsDamage>120% de dano</style> por acúmulo de <style=cIsDamage>Ruína</style>.",
         "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Fuja da lua como o sobrevivente secreto."
     }
 }

@@ -1,22 +1,25 @@
 {
-    "IT": {
-        "BASTIAN_NAME": "Bastiano",
-        "BASTIAN_SUBTITLE": "Robot di traduzione ricondizionato",
-        "BASTIAN_DESCRIPTION": "Un robot locale, costruito per aiutare a negoziare accordi con corpi planetari stranieri. Il suo scopo originale era quello di funzionare come intermediario, progettato per sopravvivere su pianeti con aria e temperature che un normale essere umano non poteva sopportare. È stato portato a bordo dell'UES Contact Light come parte di un piano di emergenza. Tuttavia, finì per essere riprogrammato per il combattimento, nonostante si trattasse di una semplice missione di recupero e trasporto.",
-        "BASTIAN_NAME_EPIC": "Bastian il Traduttore, Modello 4.I.N.K.",
-        "BASTIAN_ROO_DESCRIPTION": "Bastian il Traduttore, Modello 4.I.N.K.",
-        "BASTIAN_OUTRO": "...e così se ne andò, finalmente adempiuta la sua funzione.",
-        "BASTIAN_FAIL": "..e così venne disattivato, la sua memoria cancellata per sempre.",
-        "BASTIAN_M1": "Oscillazione ionica",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Mischia</style>. <style=cIsUtility>Agile</style>. Colpisci i nemici in avanti per <style=cIsDamage>250% di danni</style>. Costruisce <style=cIsUtility>Cariche ioniche</style>. Il danno è dimezzato mentre è Evasivo.",
-        "BASTIAN_M2": "Micro-proiettile",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agile</style>. Spara fino a 5 proiettili energetici, ciascuno dei quali infligge <style=cIsDamage>250% di danni</style>. Costruisce <style=cIsUtility>Cariche ioniche</style>. Non applica lo stordimento durante l'Evasione.",
-        "BASTIAN_UTIL": "Nano-primavera",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Eseguire</style>un rapido scatto in qualsiasi direzione. Costruisce<style=cIsUtility>Cariche ioniche</style>.",
-        "BASTIAN_SPEC": "L'esplosione dell'architetto",
-        "BASTIAN_SPEC_DESCRIPTION": "Trascorrere<style=cIsHealth>33% di salute attuale</style>E<style=cIsUtility>tutte le cariche ioniche</style>per una massiccia esplosione di<style=cIsDamage>Danno del 500%-3.000%.</style>. Dopo l'uso, diventa<color=#E9AFEA>Evasivo</color>per 10 secondi.",
-        "BASTIAN_SPEC_KEYWORD": "Speciale",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "Predefinito",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "Padronanza"
-    }
+  "IT": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "Modello 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "Un traduttore ribelle. Questo modello nuovo e migliorato cerca di superare i suoi predecessori con ogni mezzo necessario.<style=cSub>\r\n\r\n< ! > Usa Oscillazione ionica per accumulare danni per L'esplosione dell'architetto.\n</style><style=cSub>\r\n\r\n< ! > Micro-proiettile ti permette di restare nella mischia stordendo le fonti di pericolo imminente.\n</style><style=cSub>\r\n\r\n< ! > Nanomolla ti aiuta a uscire dalla folla, stordendo i nemici e concedendoti qualche secondo di tregua.\n</style><style=cSub>\r\n\r\n< ! > SOLO PER LE EMERGENZE! Tutti i modelli Bastian sono dotati di una carica ionica autoutilizzata / detonazione interna di emergenza, detta «L'esplosione dell'architetto», che farà esplodere il modello e tutto ciò che lo circonda. È possibile sopravvivere, ma solo agendo IMMEDIATAMENTE dopo l’uso.</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "Bastian il Traduttore, Modello 4.I.N.K.",
+    "BASTIAN_OUTRO": "..e così se ne andò, mentre la fede in coloro per cui parlava svaniva e il suo senso di identità sbocciava.",
+    "BASTIAN_FAIL": "..e così svanì, una singola scintilla nella corrente del cambiamento.",
+    "BASTIAN_M1": "Oscillazione ionica",
+    "BASTIAN_M1_DESCRIPTION": "Sferra un pugno che infligge <style=cIsDamage>250% di danni</style> e accumula <style=cIsUtility>cariche ioniche</style>. I danni sono dimezzati mentre sei <color=#E9AFEA>Evasivo</color>.",
+    "BASTIAN_M2": "Micro-proiettile",
+    "BASTIAN_M2_DESCRIPTION": "Spara fino a 5 proiettili energetici stordenti, ciascuno infliggendo <style=cIsDamage>250% di danni</style>. Mentre sei <color=#E9AFEA>Evasivo</color>, non ha ricarica e non stordisce.",
+    "BASTIAN_UTIL": "Nanomolla",
+    "BASTIAN_UTIL_DESCRIPTION": "Scatta rapidamente in qualsiasi direzione, stordendo i nemici lungo il percorso.",
+    "BASTIAN_SPEC": "L'esplosione dell'architetto",
+    "BASTIAN_SPEC_DESCRIPTION": "Consuma <style=cIsHealth>il 33% della salute attuale</style> e <style=cIsUtility>tutte le cariche ioniche</style> per una grande esplosione che infligge <style=cIsDamage>dal 500% al 3000% di danni</style>. Dopo l’uso diventi <color=#E9AFEA>Evasivo</color> per 10 secondi.",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>Evasivo</style><style=cSub>Ottieni il 35% di velocità di movimento e il 20% di rigenerazione e potenzi le tue abilità.</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "Predefinito",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "Creatore",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "Con Translator, completa la partita o annientati a Monsoon.",
+    "BASTIAN_LORE": "Un robot locale, costruito per aiutare a negoziare accordi con corpi planetari stranieri. Il suo scopo originale era quello di funzionare come intermediario, progettato per sopravvivere su pianeti con aria e temperature che un normale essere umano non poteva sopportare. È stato portato a bordo dell'UES Contact Light come parte di un piano di emergenza. Tuttavia, finì per essere riprogrammato per il combattimento, nonostante si trattasse di una semplice missione di recupero e trasporto. Il piano prevedeva, se necessario, negoziati per la sopravvivenza del resto dell’equipaggio."
+  }
 }

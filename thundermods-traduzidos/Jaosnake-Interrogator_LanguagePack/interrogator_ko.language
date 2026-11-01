@@ -1,16 +1,22 @@
 {
     "ko": {
-        "KENKO_INTERROGATOR_NAME": "질문자",
+        "KENKO_INTERROGATOR_NAME": "Interrogator",
         "KENKO_INTERROGATOR_SUBTITLE": "고통 전문가",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "고통",
-        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "심문관은 아군과 적에게 맞을 수도 있고 맞을 수도 있습니다. 심문관을 공격한 공격자는 영구적으로 유죄로 표시됩니다. 유죄인 적 하나당 50의 기본 피해를 더 줍니다.",
-        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "지휘봉을 앞쪽으로 휘둘러 320%의 피해를 줍니다. 공격을 놓치면 대신 90%의 피해를 입게 됩니다.",
-        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "450%의 피해를 주는 식칼을 던집니다. 식칼이 대상을 죽이면 해당 지역의 모든 사람에게 출혈과 압박을 적용합니다.",
-        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "앞으로 돌진하여 390% 피해를 입히고 적중한 대상에게 유죄를 적용합니다.",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Interrogator는 아군과 적을 공격하고 그들에게 공격받을 수 있습니다. Interrogator를 공격한 대상은 유죄로 표시됩니다.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "지휘봉을 앞쪽으로 휘둘러 <style=cIsDamage>320%의 피해를 입히세요</style>. 공격을 놓치면 대신 <style=cIsDamage>damage</style>를 입게 됩니다.",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>450% 피해</style>를 주는 식칼을 던집니다. <style=cIsDamage>학살자.</style> 식칼이 대상을 죽이면 해당 지역의 모든 사람에게 출혈과 압박을 적용합니다.",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "앞으로 돌진하여 <style=cIsDamage>390% 피해</style>를 입히고 적중된 대상에게 유죄를 적용합니다.",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "죄수",
-        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "유죄인 적을 표시하고 10초 동안 결투를 벌이세요. 이 기간 동안 귀하의 피해를 포함한 모든 외부 피해는 무효화됩니다. 기본 공격은 더 이상 공격할 수 없지만 지속적으로 유죄 피해 보너스를 축적합니다.",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "죄수(홀)",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "유죄인 적을 표시하고 14초 동안 결투를 벌이세요. 이 기간 동안 모든 외부 손상은 무효화됩니다. 기본 공격은 더 이상 공격할 수 없지만, 두 배의 효율성으로 길티 데미지 보너스를 구축합니다.",
-        "MASTERY_SKIN_NAME": "심문관: 전문가"
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 대상 이외의 적에게 주는 피해도 무효화됩니다.",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "벌하다",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 대상 이외의 적에게 주는 피해도 무효화됩니다.\n<color=#d299ff>SCEPTER: Convict는 유죄가 아닌 적도 대상으로 지정할 수 있습니다. 가하는 피해가 무효화되지 않는 대신 75% 감소합니다.</color>",
+        "MASTERY_SKIN_NAME": "Interrogator: 전문가",
+        "<style=cKeywordName>Slayer</style><style=cSub>Deals up to <style=cIsDamage>3x</style> damage against low health enemies.</style>": "<style=cKeywordName>학살자</style><style=cSub>체력이 낮은 적에게 최대 <style=cIsDamage>3배</style>의 피해를 줍니다.</style>",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Interrogator은 다른 사람의 고통을 즐깁니다. 동맹국에게 상처를 입히는 것을 너무 즐기지 마십시오... 아니면 그렇게 하십시오.<color=#CCD3E0>\n\n< ! > 적, 아군, 심지어 자신에게 공격받아 추가 능력치를 얻으세요. 누구도 안전하지 않습니다.\n\n< ! > 피격 시 발동하는 아이템이 있다면 Affray로 자신에게 출혈을 적용하세요. 고통 없이는 얻는 것도 없습니다.\n\n< ! > Falsify는 적을 강제로 유죄로 표시하는 좋은 방법입니다. 비윤리적이라고요? 무슨 뜻이죠?\n\n< ! > 유죄인 대상에게 Convict를 사용해 벌을 내리세요. 무죄가 증명되기 전까지는 유죄입니다.</color>",
+        "<style=cKeywordName>Guilty</style><style=cSub>Grants <color=#FFBF66>Interrogator</color> <style=cIsDamage>attack speed</style>, <style=cIsHealing>health regen</style>, and <style=cIsDamage>damage</style> for each <color=#FFBF66>Guilty</color> target.</style>": "<style=cKeywordName>유죄</style><style=cSub>유죄 대상마다 Interrogator의 공격 속도, 체력 재생, 피해가 증가합니다.</style>",
+        "<style=cKeywordName>Ally Damage</style><style=cSub>Allies take and deal less damage to each other and <color=#FFBF66>Guilty</color> expires from them after 10 seconds.</style>": "<style=cKeywordName>아군 피해</style><style=cSub>아군끼리 주고받는 피해가 감소하며, 아군의 유죄는 10초 후 사라집니다.</style>",
+        "<style=cKeywordName>Hemorrhage</style><style=cSub>Deal <style=cIsDamage>2000%</style> base damage over 15s. <i>Hemorrhage</i> can stack.</style>": "<style=cKeywordName>출혈</style><style=cSub>15초에 걸쳐 기본 피해의 2000%를 입힙니다. 출혈은 중첩됩니다.</style>",
+        "<style=cKeywordName>Pressured</style><style=cSub>Boost <style=cIsDamage>attack speed</style> and <style=cIsUtility>move speed</style> but lowers <style=cIsHealing>armor</style> and <style=cIsDamage>damage</style>.</style>": "<style=cKeywordName>압박</style><style=cSub>공격 속도와 이동 속도가 증가하지만 방어력과 피해가 감소합니다.</style>"
     }
 }

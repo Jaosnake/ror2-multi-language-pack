@@ -1,6 +1,13 @@
 {
-    "FR": {
-        "EXPANSION_CLOUDBURST_NAME": "Trombe",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Ajoute du contenu du mod 'Cloudburst' au jeu."
-    }
+  "FR": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Ajoute le contenu du mod 'Cloudburst' au jeu.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Garde d'argile",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Coup de hallebarde",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Piétinement",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Ajoute le contenu du mod 'Cloudburst' au jeu."
+  }
 }

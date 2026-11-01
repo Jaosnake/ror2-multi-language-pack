@@ -1,6 +1,6 @@
 {
     "eo": {
-        "POPCORN_ARSONIST_BODY_NAME": "Brulpiristo",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Frenezeta Piromaniulo",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Normala Skalo",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Kauxzu <style=cIsDamage>100%</style> da damagxo sur la blanka parto. La Baza Skalo rezistas Trovarmigxon.",
@@ -33,15 +33,15 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Piromanio",
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Rezistu fajran damagxon de cxiuj fontoj. Konvertu unu atakon kauxzantan pli ol <style=cIsDamage>30%</style> de totala sano en <style=cIsDamage>50%</style> fajran damagxon dum tempo.",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromanio ne efikas falan damagxon, krom se Fragileco estas aktiva.",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Brulpiristo: Majstreco",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Brulpiristo, venku la ludon aux forvisxu vin en Monsoon.",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Brulpiristo: Grandmajstreco",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Brulpiristo, venku la ludon en Eclipse 5 aux pli alte, AU venku la ludon en Typhoon (Starstorm 2 necesa).",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Brulpiristo: Survivado",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Brulpiristo, venku la ludon en Eclipse 8, AU venku la ludon en Inferno (Inferno necesa).",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Brulpiristo: Piromaniulo",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Brulpiristo, venku etapon sen trovarmigxi.",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Bragxoj",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Arsonist, venku la ludon aux forvisxu vin en Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Arsonist, venku la ludon en Eclipse 5 aux pli alte, AU venku la ludon en Typhoon (Starstorm 2 necesa).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Arsonist, venku la ludon en Eclipse 8, AU venku la ludon en Inferno (Inferno necesa).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kiel Arsonist, venku etapon sen trovarmigxi.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mortigu teleportilan estron dum gxi estas ekbruligita."
     }
 }

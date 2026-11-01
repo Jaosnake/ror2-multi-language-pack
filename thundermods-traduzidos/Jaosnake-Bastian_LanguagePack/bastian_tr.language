@@ -1,22 +1,25 @@
 {
-    "tr": {
-        "BASTIAN_NAME": "Bastian",
-        "BASTIAN_SUBTITLE": "Yenilenmiş Çeviri Robotu",
-        "BASTIAN_DESCRIPTION": "Yabancı gezegen organlarıyla anlaşmaların müzakere edilmesine yardımcı olmak için yapılmış yerel bir robot. Orijinal amacı, normal bir insanın dayanamayacağı hava ve sıcaklıklara sahip gezegenlerde hayatta kalmak için tasarlanmış bir aracı olarak işlev görmekti. Bir acil durum planının parçası olarak UES Contact Light'a getirildi. Ancak, basit bir getir ve taşı görevi olmasına rağmen, savaş için yeniden programlandı.",
-        "BASTIAN_NAME_EPIC": "Çevirmen Bastian, Model 4.I.N.K.",
-        "BASTIAN_ROO_DESCRIPTION": "Çevirmen Bastian, Model 4.I.N.K.",
-        "BASTIAN_OUTRO": "..ve böylece ayrıldı, sonunda görevini yerine getirdi.",
-        "BASTIAN_FAIL": "..ve böylece devre dışı bırakıldı, hafızası sonsuza dek silindi.",
-        "BASTIAN_M1": "İyon Salınımı",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Yakın Dövüş</style>. <style=cIsUtility>Atik</style>. Düşmanlara önden saldırın<style=cIsDamage>%250 hasar</style>. Yapılar<style=cIsUtility>İyonik Yükler</style>. Kaçınma sırasında hasar yarıya indirilir.",
-        "BASTIAN_M2": "Mikro Kurşun",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Atik</style>. Her biri etkili olan 5'e kadar enerji mermisi ateşleyin<style=cIsDamage>%250 hasar</style>. Yapılar<style=cIsUtility>İyonik Yükler</style>. Kaçış sırasında sersemletme uygulamaz.",
-        "BASTIAN_UTIL": "Nano-Bahar",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Uygulamak</style>herhangi bir yöne hızlı bir atılım. Yapılar<style=cIsUtility>İyonik Yükler</style>.",
-        "BASTIAN_SPEC": "Mimarın Patlaması",
-        "BASTIAN_SPEC_DESCRIPTION": "Harcamak<style=cIsHealth>%33 mevcut sağlık</style>Ve<style=cIsUtility>tüm İyonik Yükler</style>büyük bir patlama için<style=cIsDamage>%500-%3.000 hasar</style>. Kullanımdan sonra haline<color=#E9AFEA>Kaçamak</color>10 saniye boyunca.",
-        "BASTIAN_SPEC_KEYWORD": "Özel",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "Varsayılan",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "Ustalık"
-    }
+  "tr": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "Model 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "Kontrolden çıkmış bir çevirmen. Bu yeni ve geliştirilmiş model, önceki modelleri ne pahasına olursa olsun geçmek istiyor.<style=cSub>\r\n\r\n< ! > Mimarın Patlaması hasarını biriktirmek için İyon Salınımı kullanın.\n</style><style=cSub>\r\n\r\n< ! > Mikro Kurşun yaklaşan tehlikeleri sersemleterek çatışmada kalmanızı sağlar.\n</style><style=cSub>\r\n\r\n< ! > Nano Yay düşmanları sersemletip kalabalıktan çıkmanıza ve birkaç saniye soluklanmanıza yardım eder.\n</style><style=cSub>\r\n\r\n< ! > YALNIZCA ACİL DURUMLARDA! Tüm Bastian modelleri, modeli ve çevresindeki her şeyi patlatan Mimarın Patlaması adlı kendi kendine kullanılan iyon yükü / acil iç patlama düzeneğiyle donatılmıştır. Hayatta kalmak mümkündür, ancak kullanımdan HEMEN sonra harekete geçmek gerekir.</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "Çevirmen Bastian, Model 4.I.N.K.",
+    "BASTIAN_OUTRO": "..ve böylece ayrıldı; adına konuştuğu kişilere olan inancı azalırken benlik duygusu çiçek açıyordu.",
+    "BASTIAN_FAIL": "..ve böylece değişim akışındaki tek bir kıvılcım olarak kayboldu.",
+    "BASTIAN_M1": "İyon Salınımı",
+    "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>%250 hasar</style> veren bir yumruk at ve <style=cIsUtility>İyon Yükleri</style> biriktir. <color=#E9AFEA>Kaçınma</color> durumunda hasar yarıya iner.",
+    "BASTIAN_M2": "Mikro Kurşun",
+    "BASTIAN_M2_DESCRIPTION": "Her biri <style=cIsDamage>%250 hasar</style> veren ve sersemleten en fazla 5 enerji mermisi ateşle. <color=#E9AFEA>Kaçınma</color> durumunda bekleme süresi yoktur ve sersemletmez.",
+    "BASTIAN_UTIL": "Nano Yay",
+    "BASTIAN_UTIL_DESCRIPTION": "Herhangi bir yöne hızla atıl ve yolundaki düşmanları sersemlet.",
+    "BASTIAN_SPEC": "Mimarın Patlaması",
+    "BASTIAN_SPEC_DESCRIPTION": "Büyük bir patlamayla <style=cIsDamage>%500-%3000 hasar</style> vermek için <style=cIsHealth>mevcut canının %33’ünü</style> ve <style=cIsUtility>tüm İyonik Yükleri</style> harca. Kullanımdan sonra 10 saniye boyunca <color=#E9AFEA>Kaçınma</color> durumuna geç.",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>Kaçınma</style><style=cSub>Hareket hızını %35, yenilenmeni %20 artırır ve yeteneklerini güçlendirir.</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "Varsayılan",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "Yaratıcı",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "Translator ile Monsoon zorluğunda oyunu bitir veya kendini yok et.",
+    "BASTIAN_LORE": "Yabancı gezegen organlarıyla anlaşmaların müzakere edilmesine yardımcı olmak için yapılmış yerel bir robot. Orijinal amacı, normal bir insanın dayanamayacağı hava ve sıcaklıklara sahip gezegenlerde hayatta kalmak için tasarlanmış bir aracı olarak işlev görmekti. Bir acil durum planının parçası olarak UES Contact Light'a getirildi. Ancak, basit bir getir ve taşı görevi olmasına rağmen, savaş için yeniden programlandı. Plan, gerekirse diğer mürettebatın hayatta kalması için yapılacak görüşmelere hazırlık içindi."
+  }
 }

@@ -1,13 +1,13 @@
 {
     "FR": {
         "KENKO_BANSHEE_NAME": "Banshee",
-        "KENKO_BANSHEE_DESCRIPTION": "La Banshee est une survivante aérienne qui excelle à esquiver les combats rapprochés.<color=#CCD3E0>\n\n< ! > Le Parapluie ATK est lent à balancer et ne peut pas être utilisé en vol stationnaire, mais c'est un excellent moyen de prendre l'air.\n\n< ! > Accumuler des charges de Piqué avant de le déclencher peut infliger des dégâts dévastateurs dans sa zone optimale.\n\n< ! > Les Propulseurs HDN peuvent considérablement augmenter la mobilité de la Banshee en l'air — utilisez-les avec parcimonie pour esquiver les projectiles ennemis mortels.\n\n< ! > La Grenade CAL est idéale pour regrouper les ennemis — Essayez de viser le centre avec votre Piqué pour une efficacité maximale !\n\n",
+        "KENKO_BANSHEE_DESCRIPTION": "Banshee est une survivante aérienne qui excelle à entrer et sortir du combat rapproché.<color=#CCD3E0>\n\n< ! > Le Parapluie ATK est lent à manier, mais c'est un excellent moyen de prendre l'air. Vous pouvez aussi le manier en vol stationnaire si aucun ennemi n'est suivi.\n\n< ! > Accumuler des charges de Piqué avant de le déclencher peut infliger des dégâts dévastateurs dans sa zone optimale.\n\n< ! > Les Propulseurs HDN peuvent considérablement augmenter la mobilité de la Banshee en l'air — utilisez-les avec parcimonie pour esquiver les projectiles ennemis mortels.\n\n< ! > La Grenade CAL est idéale pour regrouper les ennemis — Essayez de viser le centre avec votre Piqué pour une efficacité maximale !\n\n</color>",
         "KENKO_BANSHEE_SUBTITLE": "Messagère de la Maison d'Au-Delà",
         "KENKO_BANSHEE_LORE": "Alors que les outils deviennent des armes, de nouvelles forces se sont élevées au sein de la stricte hiérarchie de la Maison d'Au-Delà pour \"Expérimenter\" avec leurs nouvelles technologies. Parmi ces forces, les Banshees dominent dans l'armement aérien avec leurs Parapluies FLT. Avec la capacité d'invoquer des feux follets et d'effondrer la gravité, leurs capacités destructrices sont infinies. À l'avenir, la Maison d'Au-Delà espère perfectionner les principes de conception pour propulser les capacités de leur technologie jusqu'à la lune.",
         "KENKO_BANSHEE_OUTRO_FLAVOR": "..et ainsi elle partit, ses murmures résonnant à travers l'éternité.",
         "KENKO_BANSHEE_OUTRO_FAILURE": "..et ainsi elle disparut, faisant écho à un silence assourdissant.",
         "KENKO_BANSHEE_PASSIVE_NAME": "Parapluie FLT",
-        "KENKO_BANSHEE_PASSIVE_DESCRIPTION": "Maintenir la touche de saut permet à la Banshee de planer dans les airs. En planant, votre <style=cIsUtility>Compétence Principale</style> tire un feu follet à la place, infligeant <style=cIsDamage>200% de dégâts</style>.",
+        "KENKO_BANSHEE_PASSIVE_DESCRIPTION": "Maintenir la touche de saut permet à Banshee de rester en vol stationnaire. En vol stationnaire, lorsqu’un ennemi est suivi, votre <style=cIsUtility>Compétence Principale</style> tire un feu follet à la place, infligeant <style=cIsDamage>200% de dégâts</style>.",
         "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_NAME": "Parapluie ATK",
         "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_DESCRIPTION": "<color=#ba8fff>Présage</color>. Taillez devant vous pour <style=cIsDamage>250% de dégâts</style>. Chaque 3ème taille vous propulse en avant et dans les airs, infligeant <style=cIsDamage>300% de dégâts</style>.",
         "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_NAME": "Parapluie THRST",
@@ -23,7 +23,7 @@
         "KENKO_BANSHEE_SPECIAL_CALAMITAS_NAME": "Grenade CAL",
         "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION": "Lancez une grenade qui crée un trou noir instable. Après <style=cIsUtility>2</style> secondes, le trou noir s'effondre, infligeant <style=cIsDamage>700% de dégâts</style>.",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "Calamitas",
-        "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Lancez 3 grenades qui créent des trous noirs instables.</style>. Après <style=cIsUtility>5</style> secondes, les trous noirs s'effondrent, infligeant <style=cIsDamage>700% de dégâts</style>.",
+        "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Lancez 3 grenades qui créent des trous noirs instables. Après <style=cIsUtility>5</style> secondes, les trous noirs s'effondrent, infligeant <style=cIsDamage>700% de dégâts</style>.",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
         "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Terminez une étape sans toucher le sol plus d'une fois."
     }

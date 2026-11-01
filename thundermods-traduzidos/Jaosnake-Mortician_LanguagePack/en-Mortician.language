@@ -1,26 +1,31 @@
 {
     "en": {
         "BOG_MORRIS_BODY_NAME": "Mortician",
-        "BOG_MORRIS_BODY_DESCRIPTION": "The Mortician is a slow but sturdy melee necromancer who excels at controlling territory with his army of the undead.",
-        "BOG_MORRIS_BODY_SUBTITLE": "Undead",
+        "BOG_MORRIS_BODY_DESCRIPTION": "The Mortician is a slow but sturdy melee necromancer who excels at controlling territory with his army of the undead.<color=#CCD3E0>\n\n< ! > Ghouls launched by your shovel will latch onto larger enemies and bite them repeatedly.\n\n< ! > Ghouls make no effort to follow you, and instead focus solely on their targets.\n\n< ! > You can quickly clear groups of flying enemies by launching your ghouls up high, then sacrificing them mid-air.\n\n< ! > Your tombstone can be used as an effective tool to establish control of an area from a distance.\n\n</color>",
+        "BOG_MORRIS_BODY_SUBTITLE": "Dead Man Walking",
         "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..and so he left, his grim duty still unfulfilled.",
         "BOG_MORRIS_BODY_OUTRO_FAILURE": "..and so he vanished, finally granted the peace he so desired.",
         "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Default",
         "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Mastery",
         "BOG_MORRIS_BODY_PASSIVE_NAME": "Soul Offering",
-        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghouls <style=cIsUtility>trigger their on-kill effects</style> when they are killed.",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghouls <style=cIsUtility>activate your On-Kill effects</style> when they are slain.",
         "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Shovel Strike",
         "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Swing your shovel for <style=cIsDamage>800% damage</style>. Hitting ghouls and tombstones with your shovel causes <style=cIsUtility>launching</style> for <style=cIsDamage>350% damage</style>.",
         "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Raise Dead",
-        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Spirit Bond</style>. Summon a ghoul on the ground in front of you. Ghouls bite for <style=cIsDamage>150% damage</style> and spit <style=cIsDamage>Pestilent</style> bile for <style=cIsDamage>100% damage</style>.",
+        "BOG_MORRIS_BODY_SECONDARY_GHOUL_DESCRIPTION": "<style=cIsUtility>Soulbound</style>. Summon a ghoul on the ground in front of you. Ghouls bite for <style=cIsDamage>150% damage</style> and spit <style=cIsDamage>Blighted</style> bile for <style=cIsDamage>100% damage</style>.",
         "BOG_MORRIS_BODY_UTILITY_LANTERN_NAME": "Sacrifice",
         "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "<style=cIsHealth>Detonate</style> the target ghoul for <style=cIsDamage>700% damage</style> and <style=cIsHealing>heal 15% of your maximum health</style>.",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Tombstone",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Erect a Tombstone that spawns a ghoul every <style=cIsUtility>10 seconds</style>. Whenever a ghoul is slain, the tomb spawns a <style=cIsDamage>vengeful soul</style> <style=cIsUtility>explosive</style> that fires at a nearby enemy for <style=cIsDamage>350% damage</style>.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Morris: Mastery",
         "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "As Mortician, beat the game or obliterate on Monsoon.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Mortician: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Morris: Mastery",
         "BOG_GHOUL_BODY_NAME": "Ghoul",
-        "BOG_TOMBSTONE_BODY_NAME": "Tombstone"
+        "BOG_TOMBSTONE_BODY_NAME": "Tombstone",
+        "KEYWORD_LINKED": "<style=cKeywordName>Soulbound</style><style=cSub>Ghouls do not inherit your items, but all damage they deal is treated as your own.</style>",
+        "KEYWORD_EXHAUST": "<style=cKeywordName>Exhaustion</style><style=cSub>Reduces movement speed and damage by <style=cIsUtility>30%</style>. Increases cooldowns by <style=cIsUtility>20%</style>.</style>",
+        "BOG_MORRIS_BODY_LORE": "God has abandoned us.\n\nIn truth, I don't think he ever cared in the first place.\n\nSomewhere beyond the furthest depths of human comprehension lies a realm to which we are all condemned to one day find ourselves in. It is not a realm of pearly gates and angels, nor of fire and brimstone, but one of darkness and despair. It is an abyssal prison in which all its inmates are reduced to mere data, governed by curious, sinister beings who shall poke and prod at you and conduct their twisted experiments on you for all eternity.\n\nEvery soul that I pull out of that wretched place tells me a story. Some are forced to relive the worst pain they have ever experienced, time and time again. Some are suspended in an eternal, lonely darkness, with no companionship or stimulation. Some tell me of crabs and prawns. Each and every one of them begs me not to make them go back to that place. I've managed to create new vessels for these souls to inhabit, and should they die, they return to me once again.\n\nAnd the creatures that rule this prison, they come to me in my dreams. To taunt me. To tell me of what they will do to me once I am dead and in their clutches. I know that what they have planned will be far worse than anything the devil could ever do to me. Each soul that I save is one more toy I take away from them, and they will make me pay for ruining their fun.\n\nI have grown old, and my time shall soon come as well. So I have decided; I will find a passage to this realm, slay its wicked overlords, and free all of its prisoners.\n\nI will not do it alone; the souls that I have freed shall fight alongside me. They will guide me, and I will guide them. Together, we will restore the sanctity in death, and restore the peace that we were promised.",
+        "BOG_GHOUL_BODY_DEFAULT_SKIN_NAME": "Default",
+        "BOG_TOMBSTONE_BODY_DEFAULT_SKIN_NAME": "Default"
     }
 }

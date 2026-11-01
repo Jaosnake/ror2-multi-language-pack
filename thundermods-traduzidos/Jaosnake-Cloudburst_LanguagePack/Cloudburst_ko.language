@@ -1,6 +1,13 @@
 {
-    "ko": {
-        "EXPANSION_CLOUDBURST_NAME": "대량",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "'Cloudburst' 모드의 콘텐츠를 게임에 추가합니다."
-    }
+  "ko": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "'Cloudburst' 모드의 콘텐츠를 게임에 추가합니다.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "점토 근위병",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "할버드 휘두르기",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "짓밟기",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "'Cloudburst' 모드의 콘텐츠를 게임에 추가합니다."
+  }
 }

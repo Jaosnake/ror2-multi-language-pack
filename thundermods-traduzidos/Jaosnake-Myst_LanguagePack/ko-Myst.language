@@ -11,7 +11,7 @@
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_NAME": "서두르다",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>민첩한</style>. 수평 방향으로 짧은 거리를 슬라이드합니다.",
         "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_NAME": "환상",
-        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Hold</style>을 사용하면 들어오는 정면 손상을 대폭 줄이고 차단된 손상에 따라 <style=cIsUtility>한계</style>를 얻습니다. <style=cIsUtility>시간이 올바르게 설정된 경우</style>: 모든 방향의 피해를 무효화하고 스킬을 냉각시키며 차단된 피해에 따라 <style=cIsUtility>마법력</style>을 회복하고 <style=cIsUtility>이중 제한</style>을 얻고 차단된 최대</style>0__3배의 피해</style>1__를 주변 적에게 반사합니다.",
+        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Hold</style>을 사용하면 들어오는 정면 손상을 대폭 줄이고 차단된 손상에 따라 <style=cIsUtility>한계</style>를 얻습니다. <style=cIsUtility>시간이 올바르게 설정된 경우</style>: 모든 방향의 피해를 무효화하고 스킬을 냉각시키며 차단된 피해에 따라 <style=cIsUtility>마법력</style>을 회복하고 <style=cIsUtility>이중 제한</style>을 얻고 차단된 최대<style=cIsDamage>3배의 피해</style>를 주변 적에게 반사합니다.",
         "JAVANGLE_MYST_BODY_BASEFORM_LIMITMENU_NAME": "제한 메뉴",
         "JAVANGLE_MYST_BODY_BASEFORM_LIMITMENU_DESCRIPTION": "한도 메뉴를 열어 장착된 <style=cIsUtility>한도 돌파</style>을 사용할 수 있습니다.",
         "JAVANGLE_MYST_BODY_UI_MAGICNAME": "매직 메뉴",

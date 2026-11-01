@@ -1,6 +1,13 @@
 {
-    "en": {
-        "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Adds content from the mod 'Cloudburst' to the game."
-    }
+  "en": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Adds content from the mod 'Cloudburst' to the game.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Clay Guardsman",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Halberd Swing",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Stomp",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Adds content from the mod 'Cloudburst' to the game."
+  }
 }

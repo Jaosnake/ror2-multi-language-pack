@@ -1,6 +1,13 @@
 {
-    "UA": {
-        "EXPANSION_CLOUDBURST_NAME": "Хмара",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Додає в гру контент із мода «Cloudburst»."
-    }
+  "UA": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Додає в гру контент із мода 'Cloudburst'.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Глиняний гвардієць",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Помах алебардою",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Тупіт",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Додає в гру контент із мода 'Cloudburst'."
+  }
 }

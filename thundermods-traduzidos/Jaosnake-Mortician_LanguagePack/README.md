@@ -1,11 +1,11 @@
 # 🌍 Jaosnake-Mortician_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **Mortician** by **Bog**.
+Multi-language translation pack for **Mortician** by **Bog**, reviewed against original mod versions 0.1.5 and 0.1.6.
 
-> 🇺🇦 Ukrainian not available yet. Want it? Send a message on [Ko-fi](https://ko-fi.com/jaosnake).
+> Ukrainian, Esperanto and Latin are included. P.E.L.E. provides support for these language options.
 
 ---
 
@@ -19,12 +19,20 @@ Multi-language translation pack for **Mortician** by **Bog**.
 | Flag | Language |
 |------|----------|
 | 🇺🇸 | English |
+| 🇩🇪 | German |
 | 🇪🇸 | Spanish (LATAM) |
+| 🇪🇸 | Spanish (Spain) |
 | 🇫🇷 | French |
+| 🇮🇹 | Italian |
 | 🇯🇵 | Japanese |
+| 🇰🇷 | Korean |
 | 🇧🇷 | Portuguese (BR) |
 | 🇷🇺 | Russian |
+| 🇹🇷 | Turkish |
+| 🇺🇦 | Ukrainian |
 | 🇨🇳 | Chinese (Simplified) |
+| 🌐 | Esperanto |
+| 🏛️ | Latin |
 
 ## 👤 Credits
 | Role | Name |

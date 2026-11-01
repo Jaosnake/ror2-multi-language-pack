@@ -1,7 +1,7 @@
 {
     "pt-BR": {
-        "POPCORN_ARSONIST_BODY_NAME": "Arsonista",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "O Arsonista é um tanque de curto alcance que usa fogo como meio para um fim. Gerenciar seu medidor de Superaquecimento permite que ele cause altas quantidades de dano a grupos de inimigos. O equilíbrio é crucial para a vitória.",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "O Arsonist é um tanque de curto alcance que usa fogo como meio para um fim. Gerenciar seu medidor de Superaquecimento permite que ele cause altas quantidades de dano a grupos de inimigos. O equilíbrio é crucial para a vitória.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Incendiário Maníaco",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Medidor Normal",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Cause <style=cIsDamage>100%</style> de dano na porção branca. O Medidor Base é resistente ao Superaquecimento.",
@@ -29,11 +29,11 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "Ao atingir o limite de <style=cKeywordName>Antecipação</style>, você se move mais rápido e ganha <style=cKeywordName>Disparo Duplo</style> e <style=cIsHealing>Suga-Vida</style>. Após no máximo 10 segundos, <style=cIsDamage>Detone</style>, então <style=cIsUtility>Superaqueça</style>.",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "A repreensão de Dante",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "Dispare um feixe intenso que causa <style=cIsDamage>140% de dano</style>. Chance de ignição aumentada quanto mais próximo do alvo. Se segurado por 2 segundos ou mais, dispare um feixe final ao soltar para <style=cIsDamage>150% de dano</style>.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Antecipação</style>A cada 100 de calor perdido e/ou ganho, Arsonista ganha 1 carga de Antecipação; Após ganhar 5 cargas, ele pode ativar Masoquismo; Cargas adicionais aumentam dano e duração; Todas as cargas são consumidas ao final.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Detonar</style>Arsonista explode, causando <style=cIsDamage>150% de dano</style> vezes a quantidade de Cargas de Antecipação acumuladas.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Suga-Vida</style>Arsonista cura <style=cIsHealing>18%</style> do dano causado enquanto Masoquismo estiver ativo.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Suga-Vida</style>Arsonista cura <style=cIsHealing>5%</style> do dano causado enquanto Despeito estiver ativo.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Superaquecimento: Masoquismo</style>Se Arsonista sair do Masoquismo devido ao acúmulo excessivo de calor, o Superaquecimento EX é aplicado, reduzindo sua Velocidade de Movimento e Dano para 70%. Cancelar ou deixar a habilidade seguir seu curso aplica Superaquecimento, reduzindo sua Velocidade de Ataque para 50%.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Antecipação</style>A cada 100 de calor perdido e/ou ganho, Arsonist ganha 1 carga de Antecipação; Após ganhar 5 cargas, ele pode ativar Masoquismo; Cargas adicionais aumentam dano e duração; Todas as cargas são consumidas ao final.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Detonar</style>Arsonist explode, causando <style=cIsDamage>150% de dano</style> vezes a quantidade de Cargas de Antecipação acumuladas.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Suga-Vida</style>Arsonist cura <style=cIsHealing>18%</style> do dano causado enquanto Masoquismo estiver ativo.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Suga-Vida</style>Arsonist cura <style=cIsHealing>5%</style> do dano causado enquanto Despeito estiver ativo.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Superaquecimento: Masoquismo</style>Se Arsonist sair do Masoquismo devido ao acúmulo excessivo de calor, o Superaquecimento EX é aplicado, reduzindo sua Velocidade de Movimento e Dano para 70%. Cancelar ou deixar a habilidade seguir seu curso aplica Superaquecimento, reduzindo sua Velocidade de Ataque para 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "SUPERAQUECIMENTO!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ESFRIANDO...!",
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "SUPERAQUECIMENTO:EX!",
@@ -41,14 +41,14 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resista a dano de fogo de todas as fontes. Converta um ataque que cause mais de <style=cIsDamage>30%</style> da vida total em <style=cIsDamage>50%</style> de dano de fogo ao longo do tempo.",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromania não afeta dano de queda, a menos que Fragilidade esteja ativa.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, vença o jogo ou oblitere em Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, vença o jogo ou oblitere-se no Monsoon.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, vença o jogo no Eclipse 5 ou superior, OU vença no Typhoon (requer Starstorm 2).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, vença o jogo no Eclipse 5 ou superior, OU no Typhoon (requer Starstorm 2).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, vença o jogo no Eclipse 8, OU vença no Inferno (requer Inferno).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, vença o jogo no Eclipse 8, OU no Inferno (requer Inferno).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonista, complete uma fase sem superaquecer.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, complete uma fase sem superaquecer.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mate um chefe do Teleportador enquanto ele está incendiado."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mate um chefe do Teleportador enquanto ele estiver incendiado."
     }
 }

@@ -1,0 +1,9 @@
+{
+    "name": "Vegeta_LanguagePack",
+    "version_number": "1.0.0",
+    "website_url": "https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Vegeta/",
+    "description": "[15 Languages] Complete multi-language translation pack for Vegeta v1.3.2 (EN, PT-BR, ES, FR, IT, DE, RU, UA, TR, ZH-CN, JA, KO, EO, LA). P.E.L.E. required for UA, EO, LA.",
+    "dependencies": [
+        "kinggrinyov-Vegeta-1.3.2"
+    ]
+}

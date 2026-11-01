@@ -1,6 +1,6 @@
 # 🌍 Jaosnake-Ravager_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 ![PELE](https://img.shields.io/badge/PELE-Required-brightgreen)
 
@@ -13,6 +13,7 @@ Multi-language translation pack for **Ravager** by **public_ParticleSystem**.
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
+| Jaosnake-PELE | `1.0.2` |
 | public_ParticleSystem-Ravager | `1.6.0` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
@@ -34,6 +35,10 @@ Multi-language translation pack for **Ravager** by **public_ParticleSystem**.
 | 🇪🇸 | Spanish (Spain) |
 | 🇹🇷 | Turkish |
 | 🇺🇦 | Ukrainian |
+
+## Gameplay configuration
+
+Some of the original mod’s options can alter behaviors described by the translations.
 
 ## 👤 Credits
 | Role | Name |

@@ -1,9 +1,9 @@
 {
     "pt-BR": {
-        "MOFFEIN_ROCKET_BODY_NAME": "Explosivista",
+        "MOFFEIN_ROCKET_BODY_NAME": "Rocket",
         "MOFFEIN_ROCKET_BODY_SUBTITLE": "Choque e Pavor",
-        "MOFFEIN_ROCKET_BODY_LORE": "bio: explosivista nasceu com um poder especial",
-        "MOFFEIN_ROCKET_BODY_DESCRIPTION": "O Explosivista é um ágil especialista em explosivos que causa um devastador dano em área.<style=cSub>\r\n\r\n< ! > Decolagem permite andar rapidamente pelo mapa e escapar de qualquer perigo!\r\n\r\n< ! > Seu Lança-Foguetes causa uma grande repulsão contra os inimigos. Use isso para jogar eles para fora do mapa.\r\n\r\n< ! > Detonador Remoto é útil contra inimigos voadores, e pode ser usado como um incremento para mobilidade.\r\n\r\n< ! > Carga de Nitro é ótimo tanto para causar dano em área quanto para mobilidade.\r\n\r\n< ! > Recarregamento Rápido pode ser usado para ignorar seu lento recarregamento do Lança-Foguetes.",
+        "MOFFEIN_ROCKET_BODY_LORE": "Registro — Dia 432\n\nSabe o que é melhor do que um lança-foguetes? NADA.\n\nHá mais de um ano explodo alienígenas, pedras e sabe-se lá o que mais neste planeta esquecido. Não existe problema que uma explosão na hora certa não resolva. Um enxame de insetos vindo na sua direção? BOOM. Precisa atravessar um vão? BAM. Diabos, já explodi até o jantar algumas vezes. Carne tostada fica mais gostosa quando está crocante, certo?\n\nMe mandaram para cá por causa do meu “comportamento imprudente”. Mas é mesmo imprudência se eu consigo resultados? Claro, talvez eu tenha arrasado algumas bases por acidente. Quem nunca? Tente manter o dedo longe do gatilho segurando 60 libras de diversão explosiva.\n\nAgora estou preso aqui lutando contra lagartos e insetos espaciais. Mas quer saber? Estou me divertindo pra explodir. Toda vez que ouço aquele assobio gostoso de um foguete cortando o ar, sei que o dia vai ser bom. E quando ele acerta? Nunca fui muito de detalhes, mas a vista é sempre espetacular.\n\nPode ser que um dia eu me exploda. Mas, até lá, vou pegar este lança-foguetes e voltar para casa na base da explosão.\n\nFim do registro. E sim, também explodi o gravador. Ops.",
+        "MOFFEIN_ROCKET_BODY_DESCRIPTION": "Rocket é um ágil especialista em explosivos que causa um devastador dano em área.<style=cSub>\r\n\r\n< ! > Decolagem permite andar rapidamente pelo mapa e escapar de qualquer perigo!\r\n\r\n< ! > Seu Lança-Foguetes causa uma grande repulsão contra os inimigos. Use isso para jogar eles para fora do mapa.\r\n\r\n< ! > Detonador Remoto é útil contra inimigos voadores, e pode ser usado como um incremento para mobilidade.\r\n\r\n< ! > Carga de Nitro é ótimo tanto para causar dano em área quanto para mobilidade.\r\n\r\n< ! > Recarregamento Rápido pode ser usado para ignorar seu lento recarregamento do Lança-Foguetes.</style>",
         "MOFFEIN_ROCKET_BODY_OUTRO_FLAVOR": "... e assim ele se foi, se lançando novamente.",
         "MOFFEIN_ROCKET_BODY_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "... e assim ele desapareceu, nunca mais tocando o chão.",
         "MOFFEIN_ROCKET_BODY_PASSIVE_NAME": "Decolagem",
@@ -11,9 +11,9 @@
         "MOFFEIN_ROCKET_BODY_PRIMARY_NAME": "Lança-Foguetes HG4",
         "MOFFEIN_ROCKET_BODY_PRIMARY_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Atire um foguete que causa <style=cIsDamage>600% de dano</style>. Máximo de 4.",
         "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_NAME": "Lançador SAM HG4",
-        "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um míssil <style=cIsUtility>teleguiado</style> com um <style=cIsHealth>raio de explosão menor</style> que causa <style=cIsDamage>600% de dano</style>. Máximo de 4.",
+        "MOFFEIN_ROCKET_BODY_PRIMARY_ALT_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um míssil <style=cIsUtility>com busca de calor</style> e <style=cIsHealth>raio de explosão menor</style>, causando <style=cIsDamage>600% de dano</style>. Máximo de 4.",
         "MOFFEIN_ROCKET_BODY_SECONDARY_NAME": "Detonador Remoto",
-        "MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION": "Detone <style=cIsDamage>todos os explosivos</style>. <style=cIsDamage>Foguetes</style> detonados causam <style=cIsDamage>+50%</style> de <style=cIsDamage>dano</style> e possuem o <style=cIsDamage>raio de explosão</style> aumentado.",
+        "MOFFEIN_ROCKET_BODY_SECONDARY_DESCRIPTION": "Detone <style=cIsDamage>todos os explosivos</style>. <style=cIsDamage>Foguetes</style> detonados recebem <style=cIsDamage>50%</style> a mais de <style=cIsDamage>dano</style> e de <style=cIsDamage>raio de explosão</style>.",
         "MOFFEIN_ROCKET_BODY_UTILITY_NAME": "Carga de Nitro",
         "MOFFEIN_ROCKET_BODY_UTILITY_DESCRIPTION": "<style=cIsDamage>Atordoante</style>. Coloque uma carga de explosivo. Use o <style=cIsDamage>Detonador Remoto</style> para explodir, causando <style=cIsDamage>1.200% de dano</style>.",
         "MOFFEIN_ROCKET_BODY_UTILITY_ALT_NAME": "Bombardeio",
@@ -27,12 +27,12 @@
         "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_NAME": "Rocket: Speed is Life",
         "ACHIEVEMENT_MOFFEINROCKETHOMINGUNLOCK_DESCRIPTION": "Como Rocket, alcance e prossiga pelo Portal Celestial em 25 minutos ou menos.",
         "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_NAME": "Rocket: Pogo",
-        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "Como Rocket, salte 10 vezes seguidas sem tocar o chão.",
+        "ACHIEVEMENT_MOFFEINROCKETMARKETGARDENUNLOCK_DESCRIPTION": "Como Rocket, realize 10 saltos explosivos seguidos sem tocar o chão.",
         "MOFFEIN_ROCKET_BODY_MASTERY_SKIN_NAME": "Bombardeiro",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_NAME": "Rocket: Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "Como Rocket, vença o jogo ou destrua em Monsoon.",
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMEMONSOON_DESCRIPTION": "Como Rocket, vença o jogo ou oblitere-se no Monsoon.",
         "MOFFEIN_ROCKET_BODY_GRANDMASTERY_SKIN_NAME": "Patrulheiro",
         "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_NAME": "Rocket: Grand Mastery",
-        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "Como Rocket, vença o jogo ou destrua no Typhoon ou Eclipse.\n<color=#8888>(A dificuldade Typhoon requer Starstorm 2)</color>"
+        "ACHIEVEMENT_MOFFEINROCKETCLEARGAMETYPHOON_DESCRIPTION": "Como Rocket, vença o jogo ou oblitere-se no Typhoon ou Eclipse.\n<color=#8888>(A dificuldade Typhoon requer Starstorm 2)</color>"
     }
 }

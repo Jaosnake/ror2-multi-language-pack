@@ -1,43 +1,14 @@
-# 🌍 Jaosnake-Pilot_LanguagePack
+# Pilot Multi-Language Pack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
-![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
+Translations for [Pilot by EnforcerGang](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/), checked against Pilot 0.6.5. The package supports English, German, Spanish (Latin America and Spain), French, Italian, Japanese, Korean, Brazilian Portuguese, Russian, Turkish, Ukrainian, Simplified Chinese, Esperanto and Latin.
 
-Multi-language translation pack for **Pilot** by **EnforcerGang**.
+Ukrainian, Esperanto and Latin require [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) for language selection. Translations are community maintained; phrasing and in-game rendering may still need refinement.
 
-> 🇺🇦 Ukrainian not available yet. Want it? Send a message on [Ko-fi](https://ko-fi.com/jaosnake).
+## Dependencies
 
----
+- EnforcerGang-Pilot 0.6.4 or newer
+- RiskofThunder-R2API_Language 1.1.0 or a compatible P.E.L.E installation
 
-## 📦 Dependencies
-| Package | Version |
-|---------|---------|
-| EnforcerGang-Pilot | `0.6.4` |
-| RiskofThunder-R2API_Language | `1.1.0` |
+## Credits
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇫🇷 | French |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇨🇳 | Chinese (Simplified) |
-
-## 👤 Credits
-| Role | Name |
-|------|------|
-| Original Mod | [EnforcerGang](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/) |
-| Translations | Jaosnake |
-
----
-
-## ☕ Support
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
-
-
-## Issues / Feedback
-For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues
-
-> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.
+Pilot by EnforcerGang. Translation pack by Jaosnake. [Feedback and source](https://github.com/Jaosnake/ror2-multi-language-pack).

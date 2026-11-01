@@ -1,11 +1,11 @@
 # 🌍 Jaosnake-Dancer_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **Dancer** by **nayDPz**.
+Multi-language translation pack for **Dancer** by **nayDPz**, reviewed against versions 0.10.1 and 0.11.1.
 
-> 🇺🇦 Ukrainian not available yet. Want it? Send a message on [Ko-fi](https://ko-fi.com/jaosnake).
+> Ukrainian, Esperanto and Latin are included. P.E.L.E. provides support for these language options.
 
 ---
 
@@ -19,12 +19,20 @@ Multi-language translation pack for **Dancer** by **nayDPz**.
 | Flag | Language |
 |------|----------|
 | 🇺🇸 | English |
+| 🇩🇪 | German |
 | 🇪🇸 | Spanish (LATAM) |
+| 🇪🇸 | Spanish (Spain) |
 | 🇫🇷 | French |
+| 🇮🇹 | Italian |
 | 🇯🇵 | Japanese |
+| 🇰🇷 | Korean |
 | 🇧🇷 | Portuguese (BR) |
 | 🇷🇺 | Russian |
+| 🇹🇷 | Turkish |
+| 🇺🇦 | Ukrainian |
 | 🇨🇳 | Chinese (Simplified) |
+| 🌐 | Esperanto |
+| 🏛️ | Latin |
 
 ## 👤 Credits
 | Role | Name |

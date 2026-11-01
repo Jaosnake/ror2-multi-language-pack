@@ -40,7 +40,7 @@
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_NAME": "彩虹VFX",
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_DESCRIPTION": "随机选择一种 VFX 颜色.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_NAME": "武器弹幕",
-        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "发动 5 连击连击攻击。在命中 1 和 3 时，执行短时间的 <style=cIsUtility>[Parry]</style> 活动。在空中，向下猛击造成 <style=cIsDamage>400% 伤害</style>，并根据行进距离增加至 <style=cIsDamage>3x</style>。在<style=cIsUtility>[功率计]</style>满的情况下随时按住按钮即可进入<style=cIsUtility>[Hypermatrix]</style>.</style>0__",
+        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "发动 5 连击连击攻击。在命中 1 和 3 时，执行短时间的 <style=cIsUtility>[Parry]</style> 活动。在空中，向下猛击造成 <style=cIsDamage>400% 伤害</style>，并根据行进距离增加至 <style=cIsDamage>3x</style>。在<style=cIsUtility>[功率计]</style>满的情况下随时按住按钮即可进入<style=cIsUtility>[Hypermatrix]</style>.",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_NAME": "狙击姿态",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_DESCRIPTION": "输入<style=cIsUtility>[狙击姿态]</style>，将你固定在原地，允许你使用主狙击来造成<style=cIsDamage>400%伤害</style>.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_NAME": "退出狙击姿态",

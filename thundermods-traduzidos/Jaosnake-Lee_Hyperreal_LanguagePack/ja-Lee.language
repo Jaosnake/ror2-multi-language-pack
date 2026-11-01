@@ -40,7 +40,7 @@
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_NAME": "虹VFX",
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_DESCRIPTION": "VFX カラーをランダムに選択します。</i>",
         "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_NAME": "武器弾幕",
-        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "5ヒットのコンボ攻撃を開始します。ヒット 1 と 3 で、短期間アクティブな <style=cIsUtility>[Parry]</style> を実行します。空中で下方向に叩きつけると、<style=cIsDamage>400% のダメージ</style> が与えられ、移動距離に応じて最大 <style=cIsDamage>3x</style> まで増加します。 <style=cIsUtility>[パワー ゲージ]</style> がいっぱいの状態でボタンを押し続けると、いつでも <style=cIsUtility>[ハイパーマトリックス]</style>.</style>0__ に入ることができます。",
+        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "5ヒットのコンボ攻撃を開始します。ヒット 1 と 3 で、短期間アクティブな <style=cIsUtility>[Parry]</style> を実行します。空中で下方向に叩きつけると、<style=cIsDamage>400% のダメージ</style> が与えられ、移動距離に応じて最大 <style=cIsDamage>3x</style> まで増加します。 <style=cIsUtility>[パワー ゲージ]</style> がいっぱいの状態でボタンを押し続けると、いつでも <style=cIsUtility>[ハイパーマトリックス]</style>. に入ることができます。",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_NAME": "狙撃姿勢",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_DESCRIPTION": "<style=cIsUtility>[スナイパースタンス]</style> を入力すると、その場で動けなくなり、プライマリでスナイプを使用できるようになり、<style=cIsDamage>400% のダメージ</style>.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_NAME": "狙撃姿勢を解除",

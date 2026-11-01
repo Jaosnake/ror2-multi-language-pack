@@ -1,8 +1,8 @@
 {
     "ja": {
-        "KENKO_CADET_NAME": "カデット",
+        "KENKO_CADET_NAME": "Cadet",
         "KENKO_CADET_SUBTITLE": "多用途射手",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "カデット:スペシャリスト",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: スペシャリスト",
         "PRIMARY_SMG_NAME": "サブマシンガン",
         "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>。SMGを高速発射し、1発あたり<style=cIsDamage>60%のダメージ</style>。",
         "PRIMARY_SHOTGUN_NAME": "ショットガン",

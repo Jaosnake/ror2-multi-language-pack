@@ -1,6 +1,13 @@
 {
-    "zh-CN": {
-        "EXPANSION_CLOUDBURST_NAME": "云爆",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "添加模组\"云爆\"中的内容至游戏中。"
-    }
+  "zh-CN": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "将模组“Cloudburst”的内容添加至游戏中。",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "黏土近卫",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "挥戟斩",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "重踏",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "将模组“Cloudburst”的内容添加至游戏中。"
+  }
 }

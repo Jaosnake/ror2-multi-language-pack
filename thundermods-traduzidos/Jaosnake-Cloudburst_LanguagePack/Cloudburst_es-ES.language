@@ -1,6 +1,13 @@
 {
-    "es-ES": {
-        "EXPANSION_CLOUDBURST_NAME": "Chaparrón",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Agrega contenido del mod 'Cloudburst' al juego."
-    }
+  "es-ES": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Añade contenido del mod 'Cloudburst' al juego.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Guardia de arcilla",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Tajo de alabarda",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Pisotón",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Añade contenido del mod 'Cloudburst' al juego."
+  }
 }

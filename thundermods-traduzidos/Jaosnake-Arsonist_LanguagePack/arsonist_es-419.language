@@ -1,6 +1,6 @@
 {
     "es-419": {
-        "POPCORN_ARSONIST_BODY_NAME": "Arsonista",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Pirómano Maníaco",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Medidor Normal",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Causa <style=cIsDamage>100%</style> de daño en la porción blanca. El Medidor Base es resistente al Sobrecalentamiento.",
@@ -34,14 +34,14 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resiste el daño de fuego de todas las fuentes. Convierte un ataque que inflija más del <style=cIsDamage>30%</style> de la salud total en <style=cIsDamage>50%</style> de daño de fuego con el tiempo.",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromanía no afecta el daño por caída a menos que Fragilidad esté activa.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa el juego u oblitérate en Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa la partida o sacrifícate en Monsoon.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa el juego en Eclipse 5 o superior, O gana en Typhoon (requiere Starstorm 2).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa la partida en Eclipse 5 o superior, O en Typhoon (requiere Starstorm 2).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa el juego en Eclipse 8, O gana en Inferno (requiere Inferno).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa la partida en Eclipse 8, O en Inferno (requiere Inferno).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa una etapa sin sobrecalentarte.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mata a un jefe del Teletransportador mientras está incendiado."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mata a un jefe del teletransportador mientras está ardiendo."
     }
 }

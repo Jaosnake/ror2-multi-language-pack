@@ -1,6 +1,13 @@
 {
-    "tr": {
-        "EXPANSION_CLOUDBURST_NAME": "Bulut patlaması",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "'Cloudburst' modundan oyuna içerik ekler."
-    }
+  "tr": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "'Cloudburst' modundaki içerikleri oyuna ekler.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Kil Muhafızı",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Teber Savuruşu",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Yere Vurma",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "'Cloudburst' modundaki içerikleri oyuna ekler."
+  }
 }

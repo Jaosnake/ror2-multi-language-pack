@@ -1,6 +1,13 @@
 {
-    "RU": {
-        "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Добавляет в игру контент из мода 'Cloudburst.'"
-    }
+  "RU": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Добавляет в игру контент из мода 'Cloudburst'.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Глиняный гвардеец",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Взмах алебардой",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Топот",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Добавляет в игру контент из мода 'Cloudburst'."
+  }
 }
