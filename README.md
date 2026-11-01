@@ -420,14 +420,15 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
 | Package | Original mod | Folder | Notes |
 |---|---|---|---|
-| Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` | Standalone Thunderstore-ready package |
-| Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` | Standalone Thunderstore-ready package |
+| Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
+| Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
 | SandGlass | SandsweptTeam-Sandswept + DropPod-LookingGlass | `thundermods-traduzidos/Jaosnake-SandGlass/` | Optional patch for LookingGlass stat labels |
-| Alloyed Armorer Language Pack | TatertotticusSquad-Alloyed_Armorer | `thundermods-traduzidos/Jaosnake-Alloyed_Armorer_LanguagePack/` | R2API.Language token pack |
-| Additional mod translations | Multiple mods | `mods/` | One folder per mod |
-| Heretic Language Pack | Moffein-Heretic | `thundermods-traduzidos/Jaosnake-Heretic_LanguagePack/` | R2API.Language token pack |
-| PELE Language Enabler | Jaosnake-PELE | `PELE/` | Native la/eo/uk language enabler (BepInEx plugin) |
+| Community Mod Language Packs (50+) | Multiple mods | `thundermods-traduzidos/` | 51 Thunderstore-ready packages (`manifest.json`, `icon.png`, `.language`) |
+| Additional mod translations | Multiple mods | `mods/` | 42 drop-in mod folders for direct `BepInEx/plugins/` install |
+| PELE System | Jaosnake-PELE | `PELE/` | Native la/eo/uk language datasets (JSON) |
+| PELE KingDBZ Compatibility Fix | kinggrinyov-Goku/Vegeta/Trunks | `PELE.KingDBZFix/` & `PELE/` | Harmony fix ensuring token loading for DBZ survivors |
 | PELE R2API.Language fork | RiskofThunder-R2API_Language | `R2API.Language-Source/` | Source for the tested PELE-aware loader and hot reload fork |
+| ChaosAngeloidAutoImprint Source | DragonycksModdingComms-Chaos | `ChaosAngeloidAutoImprint-Source/` | Source code for AutoImprint plugin |
 
 ## 🧩 Mods In `mods/`
 
@@ -437,16 +438,22 @@ These folders are meant to be copied as-is into `BepInEx/plugins/`:
 Bog-Deputy
 Bog-Mortician
 Bog-Pathfinder
+Brynzananas-Caeli_Imperium
+CheeseWithHoles-Celestial_War_Tank
 EnforcerGang-Enforcer
 EnforcerGang-HAND_OVERCLOCKED
 EnforcerGang-MinerUnearthed
 EnforcerGang-Pilot
 EnforcerGang-Rocket
-EnforcerGang-SniperClassic
+Ethanol10-Ganondorf_Mod
 Frosthex-SorceressMod
 HasteReapr-AssassinMod
 JavAngle-Myst
 JavAngle-TheHouse
+kinggrinyov-Goku
+kinggrinyov-Trunks
+kinggrinyov-Vegeta
+Moffein-Heretic
 nayDPz-Dancer
 Paladin_Alliance-PaladinMod
 PopcornFactory-Arsonist_Mod
@@ -522,6 +529,7 @@ ror2-multi-language-pack/
 ├─ README.md
 ├─ LICENSE.txt
 ├─ .gitignore
+├─ AGENTS.md
 ├─ Starstorm2/
 │  ├─ manifest.json
 │  ├─ README.md
@@ -533,31 +541,33 @@ ror2-multi-language-pack/
 │  ├─ icon.png
 │  └─ Translations/
 ├─ PELE/
-│  ├─ PELE.dll
-│  ├─ manifest.json (create if needed)
+│  ├─ PELE.KingDBZFix.dll
 │  └─ Language/
 │     ├─ la/
 │     ├─ eo/
 │     └─ uk/
+├─ PELE.KingDBZFix/
+│  ├─ KingDBZFixPlugin.cs
+│  └─ PELE.KingDBZFix.csproj
 ├─ R2API.Language-Source/
 │  ├─ README.md
 │  ├─ R2API.Language.csproj
 │  └─ *.cs
+├─ ChaosAngeloidAutoImprint-Source/
+│  ├─ ChaosAngeloidAutoImprint.cs
+│  └─ ChaosAuto.csproj
 ├─ _build/
 │  └─ R2API.Language.dll
 ├─ mods/
-│  └─ <one folder per translated mod, copy into BepInEx/plugins>
+│  └─ <42 folders structured for direct BepInEx/plugins install>
 ├─ thundermods-traduzidos/
-│  └─ Jaosnake-<Mod>_LanguagePack/
+│  └─ Jaosnake-<Mod>_LanguagePack/ (51 packages)
 │     ├─ manifest.json
 │     ├─ README.md
 │     ├─ icon.png
 │     └─ *.language
-├─ thundermods-zips/
-│  └─ *.zip (Thunderstore-ready packages)
-├─ audit.py
-├─ generate_readme.py
-└─ list_locales.py
+└─ thundermods-zips/
+   └─ *.zip (Thunderstore-ready packages)
 ```
 
 ## 🤝 Contributing
