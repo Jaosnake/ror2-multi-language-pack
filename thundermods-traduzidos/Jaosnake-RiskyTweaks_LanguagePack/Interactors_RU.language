@@ -1,7 +1,7 @@
 {
     "RU": {
-        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Святилище Битвы награждает вас предметом </style>{0}",
-        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} награждает вас предметом </color>{1}",
-        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Сигнал Абсолютной Пустоты награждает вас предметом </style>{0}"
+        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Из Святилища Битвы выпало </style>{0}",
+        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>Из {0} выпало </color>{1}",
+        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Из Сигнала Абсолютной Пустоты выпало </style>{0}"
     }
 }

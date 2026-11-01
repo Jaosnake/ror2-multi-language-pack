@@ -11,7 +11,7 @@
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_NAME": "Fretta",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Far scorrere per una breve distanza in qualsiasi direzione orizzontale.",
         "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_NAME": "Fantasma",
-        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tieni premuto</style> per ridurre drasticamente il danno frontale in arrivo, ottenendo <style=cIsUtility>Limit</style> in base al danno bloccato. Se <style=cIsUtility>cronometrato correttamente</style>: annulla i danni da tutte le direzioni, raffredda l'abilità, ripristina <style=cIsUtility>Potere Magico</style> in base al danno bloccato, ottiene <style=cIsUtility>doppio limite</style> e riflette fino a</style>0__3x danno</style>1__ bloccato ai nemici vicini.",
+        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tieni premuto</style> per ridurre drasticamente il danno frontale in arrivo, ottenendo <style=cIsUtility>Limit</style> in base al danno bloccato. Se <style=cIsUtility>cronometrato correttamente</style>: annulla i danni da tutte le direzioni, raffredda l'abilità, ripristina <style=cIsUtility>Potere Magico</style> in base al danno bloccato, ottiene <style=cIsUtility>doppio limite</style> e riflette fino a<style=cIsDamage>3x danno</style> bloccato ai nemici vicini.",
         "JAVANGLE_MYST_BODY_BASEFORM_LIMITMENU_NAME": "Menù Limite",
         "JAVANGLE_MYST_BODY_BASEFORM_LIMITMENU_DESCRIPTION": "Apri il menu Limite, che ti consente di utilizzare <style=cIsUtility>Limit Breaks</style> equipaggiati.",
         "JAVANGLE_MYST_BODY_UI_MAGICNAME": "Menù magico",

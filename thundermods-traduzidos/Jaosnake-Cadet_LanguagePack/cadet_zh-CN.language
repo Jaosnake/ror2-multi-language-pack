@@ -1,8 +1,8 @@
 {
     "zh-CN": {
-        "KENKO_CADET_NAME": "军校生",
-        "KENKO_CADET_SUBTITLE": "versatile 射手",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "军校生:专家",
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_SUBTITLE": "全能射手",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: 专家",
         "PRIMARY_SMG_NAME": "冲锋枪",
         "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>。用冲锋枪快速射击,每枪造成<style=cIsDamage>60%伤害</style>。",
         "PRIMARY_SHOTGUN_NAME": "霰弹枪",

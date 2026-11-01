@@ -1,6 +1,6 @@
 {
     "la": {
-        "POPCORN_ARSONIST_BODY_NAME": "Incendiarius",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
         "POPCORN_ARSONIST_BODY_DESCRIPTION": "Incendiarius est defensor brevis spatii qui igne ad finem utitur. Mensuram suam Recalefactionis gubernans, magnas damni copias turbis hostium inferre potest. Aequilibrium ad victoriam essentiale est.</i>",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Pyromaniacus Vesanus",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Mensura Normalis",
@@ -40,15 +40,15 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Pyromania",
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Damnum ignis ex omnibus fontibus resiste. Unum ictum plus quam <style=cIsDamage>30%</style> totius valetudinis faciens in <style=cIsDamage>50% damnum</style> ignis per tempus muta.",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Pyromania damnum casus non afficit nisi Fragilitas activa est.",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Incendiarius: Magisterium",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Incendiarius, ludum vince aut te oblitera in Monsoon.",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Incendiarius: Magna Magisteria",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Incendiarius, ludum in Eclipse 5 vel altiore vince, AUT ludum in Typhoon vince (Starstorm 2 necessarium).",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Incendiarius: Superstes",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Incendiarius, ludum in Eclipse 8 vince, AUT ludum in Inferno vince (Inferno necessarium).",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Incendiarius: Pyromaniacus",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Incendiarius, regionem sine recalefactione vince.",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Favillae",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Arsonist, ludum vince aut te oblitera in Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Arsonist, ludum in Eclipse 5 vel altiore vince, AUT ludum in Typhoon vince (Starstorm 2 necessarium).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Arsonist, ludum in Eclipse 8 vince, AUT ludum in Inferno vince (Inferno necessarium).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Ut Arsonist, regionem sine recalefactione vince.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Tyrannum teleportatorii dum accenditur occide."
     }
 }

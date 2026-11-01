@@ -1,22 +1,25 @@
 {
-    "ja": {
-        "BASTIAN_NAME": "バスティアン",
-        "BASTIAN_SUBTITLE": "再生翻訳ロボット",
-        "BASTIAN_DESCRIPTION": "外来惑星天体との交渉を支援するために作られた現地ロボット。元々の目的は仲介役として機能することで、普通の人間では耐えられない大気や温度の惑星でも生存できるように設計されていた。緊急時対応計画の一環としてUES Contact Lightに搭載された。しかし、単なる運搬任務にもかかわらず、戦闘用に再プログラムされることになった。",
-        "BASTIAN_NAME_EPIC": "翻訳者バスティアン、モデル4.I.N.K.",
-        "BASTIAN_ROO_DESCRIPTION": "翻訳者バスティアン、モデル4.I.N.K.",
-        "BASTIAN_OUTRO": "..こうして彼は去り、その機能はついに果たされた。",
-        "BASTIAN_FAIL": "..こうして彼は停止され、彼の記憶は永久に消去された。",
-        "BASTIAN_M1": "イオンスイング",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>近接</style>.<style=cIsUtility>敏捷</style>.前方の敵を攻撃し<style=cIsDamage>250%のダメージ</style>を与える。<style=cIsUtility>イオンチャージ</style>を蓄積する。回避中はダメージが半減する。",
-        "BASTIAN_M2": "マイクロバレット",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>敏捷</style>.最大5発のエネルギーブレットを発射し、それぞれ<style=cIsDamage>250%のダメージ</style>を与える。<style=cIsUtility>イオンチャージ</style>を蓄積する。回避中はスタンを適用しない。",
-        "BASTIAN_UTIL": "ナノスプリング",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>実行</style>:任意の方向に素早くダッシュする。<style=cIsUtility>イオンチャージ</style>を蓄積する。",
-        "BASTIAN_SPEC": "建築家の爆発",
-        "BASTIAN_SPEC_DESCRIPTION": "<style=cIsHealth>現在のHPの33%</style>と<style=cIsUtility>すべてのイオンチャージ</style>を消費し、<style=cIsDamage>500%-3.000%のダメージ</style>の大爆発を起こす。使用後、10秒間<color=#E9AFEA>回避</color>状態になる。",
-        "BASTIAN_SPEC_KEYWORD": "特殊",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "デフォルト",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "マスタリー"
-    }
+  "ja": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "モデル 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "反乱した通訳ロボット。新たに改良されたこのモデルは、手段を選ばず旧型を超えようとしている。<style=cSub>\r\n\r\n< ! > イオンスイングで建築家の爆発のダメージを蓄積しよう。\n</style><style=cSub>\r\n\r\n< ! > マイクロバレットで差し迫る危険をスタンさせ、戦い続けよう。\n</style><style=cSub>\r\n\r\n< ! > ナノスプリングで敵をスタンさせ、密集地から抜け出して数秒の猶予を得よう。\n</style><style=cSub>\r\n\r\n< ! > 緊急時専用！ 全Bastianモデルには「自己使用型イオンチャージ／緊急内部爆発」、通称「建築家の爆発」が搭載されている。これは本体と周囲のすべてを爆破する。使用後、直ちに行動すれば生存できる可能性がある。</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "翻訳者Bastian、モデル4.I.N.K.",
+    "BASTIAN_OUTRO": "..そして彼は去った。代弁していた者たちへの信頼は薄れ、自我が芽生え始めた。",
+    "BASTIAN_FAIL": "..そして彼は消えた。変化の流れに浮かぶ一つの火花となって。",
+    "BASTIAN_M1": "イオンスイング",
+    "BASTIAN_M1_DESCRIPTION": "パンチで<style=cIsDamage>250%のダメージ</style>を与え、<style=cIsUtility>イオンチャージ</style>を蓄積する。<color=#E9AFEA>回避</color>中はダメージが半減する。",
+    "BASTIAN_M2": "マイクロバレット",
+    "BASTIAN_M2_DESCRIPTION": "スタン効果のあるエネルギー弾を最大5発発射し、それぞれ<style=cIsDamage>250%のダメージ</style>を与える。<color=#E9AFEA>回避</color>中はクールダウンがなくなり、スタンしなくなる。",
+    "BASTIAN_UTIL": "ナノスプリング",
+    "BASTIAN_UTIL_DESCRIPTION": "任意の方向へ素早く突進し、進路上の敵をスタンさせる。",
+    "BASTIAN_SPEC": "建築家の爆発",
+    "BASTIAN_SPEC_DESCRIPTION": "<style=cIsHealth>現在のHPの33%</style>と<style=cIsUtility>すべてのイオンチャージ</style>を消費し、<style=cIsDamage>500%-3000%のダメージ</style>の大爆発を起こす。使用後、10秒間<color=#E9AFEA>回避</color>状態になる。",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>回避</style><style=cSub>移動速度が35%、再生が20%増加し、スキルが強化される。</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "デフォルト",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "創造者",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "TranslatorでMonsoonをクリアするか、自らを抹消する。",
+    "BASTIAN_LORE": "外来惑星天体との交渉を支援するために作られた現地ロボット。元々の目的は仲介役として機能することで、普通の人間では耐えられない大気や温度の惑星でも生存できるように設計されていた。緊急時対応計画の一環としてUES Contact Lightに搭載された。しかし、単なる運搬任務にもかかわらず、戦闘用に再プログラムされることになった。 必要であれば他の乗組員の生存をめぐる交渉に備えるためだった。"
+  }
 }

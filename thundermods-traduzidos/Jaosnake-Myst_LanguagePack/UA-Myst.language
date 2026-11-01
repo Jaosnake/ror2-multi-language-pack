@@ -11,7 +11,7 @@
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_NAME": "Раш",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Agile</style>. Проведіть невелику відстань у будь-якому горизонтальному напрямку.",
         "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_NAME": "Фантом",
-        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Утримуйте</style>, щоб значно зменшити вхідну фронтальну шкоду, отримуючи <style=cIsUtility>Limit</style> на основі заблокованої шкоди. Якщо <style=cIsUtility>визначено правильно</style>: анулює шкоду з усіх боків, охолоджує навик, відновлює <style=cIsUtility>магічну силу</style> на основі заблокованої шкоди, отримує <style=cIsUtility>подвійний ліміт</style> і відображає до</style>0__3x шкоди</style>1__ заблоковано ворогам поблизу.",
+        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Утримуйте</style>, щоб значно зменшити вхідну фронтальну шкоду, отримуючи <style=cIsUtility>Limit</style> на основі заблокованої шкоди. Якщо <style=cIsUtility>визначено правильно</style>: анулює шкоду з усіх боків, охолоджує навик, відновлює <style=cIsUtility>магічну силу</style> на основі заблокованої шкоди, отримує <style=cIsUtility>подвійний ліміт</style> і відображає до<style=cIsDamage>3x шкоди</style> заблоковано ворогам поблизу.",
         "JAVANGLE_MYST_BODY_BASEFORM_LIMITMENU_NAME": "Меню обмежень",
         "JAVANGLE_MYST_BODY_BASEFORM_LIMITMENU_DESCRIPTION": "Відкрийте меню лімітів, що дозволить вам використовувати обладнані <style=cIsUtility>Limit Breaks</style>.",
         "JAVANGLE_MYST_BODY_UI_MAGICNAME": "Чарівне меню",

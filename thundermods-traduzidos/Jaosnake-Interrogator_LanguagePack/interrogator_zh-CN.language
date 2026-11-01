@@ -1,16 +1,23 @@
 {
     "zh-CN": {
-        "KENKO_INTERROGATOR_NAME": "审讯者",
+        "KENKO_INTERROGATOR_NAME": "Interrogator",
         "KENKO_INTERROGATOR_SUBTITLE": "折磨专家",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "折磨",
-        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "审讯者可以击中或被盟友和敌人击中。攻击审讯者的攻击者会被永久标记为有罪。每个有罪敌人使基础伤害提高50点。",
-        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "挥动你的警棍攻击前方,造成320%伤害。未命中攻击会使你承受90%的伤害。",
-        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "投掷一把切肉刀,造成450%伤害。如果切肉刀击杀目标,对区域内所有敌人施加出血和压力。",
-        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "向前冲刺,造成390%伤害并对击中的目标施加有罪。",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Interrogator可以攻击队友和敌人，也会受到他们的攻击。击中Interrogator的攻击者会被标记为有罪。",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "挥动你的警棍攻击前方,造成<style=cIsDamage>320%伤害</style>。未命中会让你受到<style=cIsDamage>伤害</style>。",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "投掂一把切肉刀,造成<style=cIsDamage>450%伤害</style>。<style=cIsDamage>灭杀者.</style>如果切肉刀击杀目标,对区域内所有人施加出血和压力。",
+        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "向前冲刺,造成<style=cIsDamage>390%伤害</style>并对击中目标施加有罪。",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "定罪",
-        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "标记一个有罪的敌人并与之决斗10秒。在此期间,所有外部伤害被抵消,包括你自己的。你的主要攻击不再击中你,但持续积累有罪的伤害加成。",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "定罪(权杖)",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "标记一个有罪的敌人并与之决斗14秒。在此期间,所有外部伤害被抵消。你的主要攻击不再击中你,但以双倍效率积累有罪的伤害加成。",
-        "MASTERY_SKIN_NAME": "审讯者:专家"
+        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "与有罪敌人决斗10秒。你的主要攻击不会再击中你,并且击中时提供一层有罪。决斗期间,你受到的外部伤害被抵消,但对目标以外敌人的伤害也被抵消。",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "惩罚",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "与有罪敌人决斗10秒。你的主要攻击不会再击中你,并且击中时提供一层有罪。决斗期间,你受到的外部伤害被抵消,但对目标以外敌人的伤害也被抵消。\n<color=#d299ff>SCEPTER: Convict可以选择没有罪责的敌人。你造成的伤害不再被抵消，但会降低75%。</color>",
+        "MASTERY_SKIN_NAME": "Interrogator:专家",
+        "<style=cKeywordName>Slayer</style><style=cSub>Deals up to <style=cIsDamage>3x</style> damage against low health enemies.</style>": "<style=cKeywordName>灭杀者</style><style=cSub>对低生命值的敌人造成最多<style=cIsDamage>3倍</style>伤害。</style>",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Interrogator沉浸在他人的痛苦中。不要太开心地伤害你的盟友... 或者就开心地做吧。<color=#CCD3E0>\n\n< ! > 受到敌人、队友甚至自己的攻击可获得额外属性。谁都不安全。\n\n< ! > 如果你有受击时触发的物品，可用Affray对自己施加出血。没有痛苦就没有收获。\n\n< ! > Falsify能强制将敌人标记为有罪。不道德？你在说什么？\n\n< ! > 对有罪目标使用Convict，确保其受到惩罚。毕竟在证明无罪之前都是有罪的。</color>",
+        "<style=cKeywordName>Guilty</style><style=cSub>Grants <color=#FFBF66>Interrogator</color> <style=cIsDamage>attack speed</style>, <style=cIsHealing>health regen</style>, and <style=cIsDamage>damage</style> for each <color=#FFBF66>Guilty</color> target.</style>": "<style=cKeywordName>有罪</style><style=cSub>每个有罪目标都会提高Interrogator的攻击速度、生命回复和伤害。</style>",
+        "<style=cKeywordName>Ally Damage</style><style=cSub>Allies take and deal less damage to each other and <color=#FFBF66>Guilty</color> expires from them after 10 seconds.</style>": "<style=cKeywordName>队友伤害</style><style=cSub>队友相互造成和受到的伤害降低；队友身上的有罪会在10秒后消失。</style>",
+        "<style=cKeywordName>Hemorrhage</style><style=cSub>Deal <style=cIsDamage>2000%</style> base damage over 15s. <i>Hemorrhage</i> can stack.</style>": "<style=cKeywordName>出血</style><style=cSub>在15秒内造成2000%基础伤害。出血可以叠加。</style>",
+        "<style=cKeywordName>Pressured</style><style=cSub>Boost <style=cIsDamage>attack speed</style> and <style=cIsUtility>move speed</style> but lowers <style=cIsHealing>armor</style> and <style=cIsDamage>damage</style>.</style>": "<style=cKeywordName>受压</style><style=cSub>提高攻击速度和移动速度，但降低护甲和伤害。</style>",
+        "KENKO_INTERROGATOR_LORE": "雪花从天而降，就像 Dylan 所在地区的惯例一样。他和他的小队一起坚守岗位，寻找危险或需要救援的人。\n\n“先生，我好像看到有人了。”二等兵转过身来面对他的上司。指挥官一开始并没有回头，只是哼了一声。他的声音很疲惫。就连像他这样的 2019年战争的老兵，在这个星球上失去的人数之多也开始让他精疲力竭。到目前为止，这次救援行动是一场灾难，这还不包括 Contact Light 船员的遭遇。\n\n“这是一个人，我确定，”士兵继续说道，转身面对着广阔的白色空洞，周围偶尔散落着一棵树。他是对的：那是一个人，懒洋洋地在雪地里漫步。昨晚的天气是噩梦般的：星球的元素攻击给山谷覆盖了一层超过膝盖深的冰冷积雪，只能看到人影的上半部分。 \n\nDylan从双筒望远镜中抬起头，发现自己的指挥官终于和他面朝同一个方向了。\n\n“先生，我们要派人去吗？” Dylan询问道。\n\n“不，”他的指挥官回答道。\n\n列兵暂时转身看向风景。 “为什么？”\n\n“这不是人。”\n\n“……看起来确实像一个，”二等兵一边用双筒望远镜往回看一边说道。\n\n“至少不是一个活人。”\n\n“……你认为那个星球能让死人复活吗？”\n\n“我不会感到惊讶”\n\n士兵一直用双筒望远镜观察。他注视这个陌生人的时间越长，让他上司感到不安的怪异之处就越明显。孤独的流浪者穿着一件又大又黑的外套，兜帽上长着又厚又脏的毛皮。这名男子已经做好了应对寒冷天气的准备，只是夹克的袖子被撕掉，露出了手臂。他微微转过身，让二等兵看看他的躯干：他穿着标准配发的胸甲，就像二等兵胸前佩戴的一样，但这是一种较旧的型号，可能已经过时了一年或更长时间。橙色油漆完全脱落，留下严重划伤的黑色金属表面。头盔看起来和胸甲很相配；标准的Commando装备，有点过时了。颜色被阳光稍微漂白了。\n\n无论那是谁，或者是什么，这似乎都是一个诡计。一个模仿者，引诱人们进来。就好像有什么东西试图扮演人类，但却不明白是什么让这个东西成为人类。\n\n“……是的，先生。您可能是对的。”\n\n第二天早上他们的发现让那东西显得更加不像人了。 Dylan 所属的一队士兵被派去执行侦察任务，想起昨天发生的事情，二等兵说服他的战友和指挥官调查这个人影行走的地点或方向。足迹把他们带到了残酷的现场：一个被拆毁的Contact Light营地。那是一个很小的地方，最多不超过5个人。 5 个可怜的灵魂以肉眼无法真正理解的方式被谋杀，以任何人都不该能够做到的方式。然而，没有咬痕，没有爪痕，没有鳞片，没有焦油或毛皮碎片，没有本地物种的血液样本：没有任何外星生物的痕迹。一切都来自人类。"
     }
 }

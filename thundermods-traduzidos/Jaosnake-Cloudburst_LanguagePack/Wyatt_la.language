@@ -1,0 +1,26 @@
+{
+  "la": {
+    "CLOUDBURST_WYATT_NAME": "Custodian",
+    "CLOUDBURST_WYATT_SUBTITLE": "Machinae Purgationis Strenuae ac Saevae",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR": "...et sic abierunt, opere bene perfecto",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE": "...et sic evanuerunt, maiorem turbam relinquentes quam cum inceperunt",
+    "CLOUDBURST_WYATT_DESCRIPTION": "Custodian est magister belli purgatorii qui gravitatem hostium in suum commodum flectit.<color=#CCD3E0>\n\n< ! > Coniunge ictus Scopae Gravitatis ut hostes altius atque altius extollas.\n\n< ! > Deice hostes cum Eiectione Quisquiliarum postquam in aera per Scopam Gravitatis et MAID sublati sunt ad ingens damnum inferendum!\n\n< ! > Utere saltu duplici ex Fluxu ad hostes in aere feriendos, aut utere lorica ut e discrimine evadas.\n\n< ! > Utere MAID ut hostes in aera tollas et locum tuum mutes ad plures ictus coniungendos.\n\n</color>",
+    "CLOUDBURST_WYATT_LORE": "Nunc desistere non possum. Nunc desistere non possum. Omnis gradus quem facio irrevocabilis est. Quidquid acciderit, id inveniam.\n\nTotum est rhythmus, tantum rhythmus. Quotienscumque extra ordinem gradior, poena est. Modi parebo. Nihil me nunc retinere potest.\n\nOmnis cicatrix digna est. Sentio id, propius accedo. Habebitur a me, et meum erit.\n\nQuantumvis sanguinis fundatur, dignum est. Quod volo inveniam et domum redibo.\n\nQuotcumque trucidavero, meum erit... Non potest a me in aeternum latere.\n\nHic est, sentio. Haec arca custodiae id habet. Eam effringo et invenio.\n\nEst... tandem meum. In manibus contusis teneo. Num vere anni praeterierunt?\n\nIlla hoc amabit, scio.\n\n",
+    "KEYWORD_WEIGHTLESS": "<style=cKeywordName>Levitas</style><style=cSub><style=cIsUtility>Gravitatem removet</style> a scopo et <style=cIsUtility>celeritatem motus atque impetus tardat</style>.</style>",
+    "KEYWORD_SPIKED": "<style=cKeywordName>Deiectio</style><style=cSub>Hostem deorsum ruere cogit, <style=cIsDamage>undam concussionis</style> excitans si terram ferit, <style=cIsDamage>200% damni</style> + <style=cIsDamage>30% damni</style> pro quoque metro casus inferens.</style>",
+    "KEYWORD_FLOW": "<style=cKeywordName>Fluxus</style><style=cSub>Accipe <style=cIsDamage>30 loricae</style> + <style=cIsDamage>5 loricae</style> pro quoque acervo <style=cIsUtility>Rhythmi</style>.\nAccipe <style=cIsUtility>Saltum Duplicem</style>.\nAccipe <style=cIsUtility>+30% Imminutionis Temporis Refectionis.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME": "Walkman",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "In ictu, accipe acervum <style=cIsUtility>Rhythmi</style>, praebens <style=cIsUtility>20% celeritatis motus</style> pro acervum. Extra pugnam minuitur.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "G22 Scopa Gravitatis",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Vibrare scopam pro <style=cIsDamage>100% damni</style>. Omnis tertius ictus <style=cIsDamage>200% damni</style> infert et <style=cIsUtility>Levitatem</style> applicat.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "Eiectio Quisquiliarum",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Ergatam explica</s> Magice ad hostem vola, eum pro <style=cIsDamage>300%</style> damni feri et <style=cIsDamage>deice</style>.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Fluxus",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION": "Activa <style=cIsDamage>Fluxum</style> per <style=cIsUtility>4 secunda</style> + <style=cIsUtility>0.4 secunda</style> pro quoque acervo <style=cIsUtility>Rhythmi</style>, accipiens <style=cIsDamage>loricam, saltum duplicem, et imminutionem temporis refectionis</style>. Per <style=cIsDamage>Fluxum</style>, amittere aut accipere <style=cIsUtility>Rhythmum</style> non potes. Postquam <style=cIsDamage>Fluxus</style> desinit, omnes acervos <style=cIsUtility>Rhythmi</style> amittis.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME": "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Mitte unitatem tuam <style=cIsUtility>MAID</style> per hostes ruentem pro <style=cIsDamage>300% damni</style> antequam breviter consistat et ad te redeat. Iterum activa ut te ad <style=cIsUtility>MAID</style> trahas et displodas pro <style=cIsDamage>500% damni</style>, <style=cIsUtility>Levitatem</style> applicans.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN": "Classicus",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Peritia",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Ut Custodian, vince ludum aut oblitera te in Monsoon."
+  }
+}

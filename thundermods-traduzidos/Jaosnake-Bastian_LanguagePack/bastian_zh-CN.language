@@ -1,22 +1,25 @@
 {
-    "zh-CN": {
-        "BASTIAN_NAME": "巴斯蒂安",
-        "BASTIAN_SUBTITLE": "翻新翻译机器人",
-        "BASTIAN_DESCRIPTION": "一个本地机器人,为帮助与外星天体谈判而建造。它的最初目的是充当中间人,设计用于在空气和温度都超出常人承受范围的行星上生存。它作为应急计划的一部分被带上UES Contact Light号。然而,尽管这只是一次简单的搬运任务,它最终还是被重新编程用于战斗。",
-        "BASTIAN_NAME_EPIC": "翻译官巴斯蒂安,4.I.N.K.型号",
-        "BASTIAN_ROO_DESCRIPTION": "翻译官巴斯蒂安,4.I.N.K.型号",
-        "BASTIAN_OUTRO": "..于是他离开了,他的功能终于完成了。",
-        "BASTIAN_FAIL": "..于是他被停用,他的记忆被永远抹去。",
-        "BASTIAN_M1": "离子挥击",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>近战</style>。<style=cIsUtility>敏捷</style>。攻击前方敌人造成<style=cIsDamage>250%伤害</style>。积累<style=cIsUtility>离子电荷</style>。在闪避状态下伤害减半。",
-        "BASTIAN_M2": "微型子弹",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>敏捷</style>。发射最多5发能量弹,每发造成<style=cIsDamage>250%伤害</style>。积累<style=cIsUtility>离子电荷</style>。在闪避状态下不造成眩晕。",
-        "BASTIAN_UTIL": "纳米弹簧",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>执行</style>一个快速冲刺到任意方向。积累<style=cIsUtility>离子电荷</style>。",
-        "BASTIAN_SPEC": "建筑师爆裂",
-        "BASTIAN_SPEC_DESCRIPTION": "消耗<style=cIsHealth>33%当前生命值</style>和<style=cIsUtility>所有离子电荷</style>,造成巨大的<style=cIsDamage>500%-3,000%伤害</style>爆炸。使用后,你变为<color=#E9AFEA>闪避</color>状态持续10秒。",
-        "BASTIAN_SPEC_KEYWORD": "特殊",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "默认",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "精通"
-    }
+  "zh-CN": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "型号 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "一个叛变的翻译机器人。这个经过改进的新型号不择手段地寻求超越旧型号。<style=cSub>\r\n\r\n< ! > 使用离子挥击积累建筑师爆裂的伤害。\n</style><style=cSub>\r\n\r\n< ! > 微型子弹能击晕迫近的威胁，让你继续战斗。\n</style><style=cSub>\r\n\r\n< ! > 纳米弹簧能击晕敌人，帮助你冲出密集人群，获得几秒喘息时间。\n</style><style=cSub>\r\n\r\n< ! > 仅限紧急情况！所有Bastian型号都配备了“自用离子充能／紧急内部引爆装置”，即建筑师爆裂，会引爆自身及周围的一切。使用后立即行动才有可能生还。</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "翻译官Bastian,4.I.N.K.型号",
+    "BASTIAN_OUTRO": "……于是他离开了，对曾为之代言的人们的信任逐渐消退，自我意识却日益萌发。",
+    "BASTIAN_FAIL": "……于是他消逝了，如同变革洪流中的一粒火星。",
+    "BASTIAN_M1": "离子挥击",
+    "BASTIAN_M1_DESCRIPTION": "出拳造成<style=cIsDamage>250%伤害</style>并积累<style=cIsUtility>离子电荷</style>。处于<color=#E9AFEA>闪避</color>状态时伤害减半。",
+    "BASTIAN_M2": "微型子弹",
+    "BASTIAN_M2_DESCRIPTION": "发射最多5发可击晕敌人的能量弹，每发造成<style=cIsDamage>250%伤害</style>。处于<color=#E9AFEA>闪避</color>状态时没有冷却时间且无法击晕。",
+    "BASTIAN_UTIL": "纳米弹簧",
+    "BASTIAN_UTIL_DESCRIPTION": "向任意方向快速冲刺，击晕路径上的敌人。",
+    "BASTIAN_SPEC": "建筑师爆裂",
+    "BASTIAN_SPEC_DESCRIPTION": "消耗<style=cIsHealth>33%当前生命值</style>和<style=cIsUtility>所有离子电荷</style>,造成巨大的<style=cIsDamage>500%-3000%伤害</style>爆炸。使用后,你变为<color=#E9AFEA>闪避</color>状态持续10秒。",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>闪避</style><style=cSub>获得35%移动速度和20%生命回复，并强化技能。</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "默认",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "创造者",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "使用Translator在Monsoon难度下通关或自我抹除。",
+    "BASTIAN_LORE": "一个本地机器人,为帮助与外星天体谈判而建造。它的最初目的是充当中间人,设计用于在空气和温度都超出常人承受范围的行星上生存。它作为应急计划的一部分被带上UES Contact Light号。然而,尽管这只是一次简单的搬运任务,它最终还是被重新编程用于战斗。 该计划是为了在必要时就其他船员的生存展开谈判。"
+  }
 }

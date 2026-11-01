@@ -40,7 +40,7 @@
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_NAME": "Радужный VFX",
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_DESCRIPTION": "Случайным образом выбирает цвет визуальных эффектов.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_NAME": "Шквал Оружия",
-        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "Выполните комбо-атаку из 5 ударов. При попадании 1 и 3 выполните <style=cIsUtility>[Parry]</style>, активный на короткий период. В воздухе ударьте вниз, нанеся <style=cIsDamage>400% урона</style>, который увеличивается до <style=cIsDamage>3x</style> в зависимости от пройденного расстояния. Удерживайте кнопку в любое время с полным <style=cIsUtility>[Индикатор мощности]</style>, чтобы войти в <style=cIsUtility>[Гиперматрицу]</style>.</style>0__.",
+        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "Выполните комбо-атаку из 5 ударов. При попадании 1 и 3 выполните <style=cIsUtility>[Parry]</style>, активный на короткий период. В воздухе ударьте вниз, нанеся <style=cIsDamage>400% урона</style>, который увеличивается до <style=cIsDamage>3x</style> в зависимости от пройденного расстояния. Удерживайте кнопку в любое время с полным <style=cIsUtility>[Индикатор мощности]</style>, чтобы войти в <style=cIsUtility>[Гиперматрицу]</style>..",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_NAME": "Позиция Снайпера",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_DESCRIPTION": "Введите <style=cIsUtility>[Снайперская стойка]</style>, обездвиживая вас на месте и позволяя вам использовать снайперскую стрельбу с основным навыком, нанося <style=cIsDamage>400% урона</style>.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_NAME": "Выйти из Позиции Снайпера",

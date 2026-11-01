@@ -1,6 +1,6 @@
 {
     "RU": {
-        "POPCORN_ARSONIST_BODY_NAME": "Арсонист",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Маниакальный пироман",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Обычная шкала",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Наносите <style=cIsDamage>100%</style> урона по белой части. Базовая шкала устойчива к Перегреву.",
@@ -17,7 +17,7 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "Мазохизм",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>Ловко. Тепло. </style>Урон от <style=cIsDamage>возгорания</style> превращается в <style=cIsHealing>лечение</style> на 6,5 секунд. Увеличивает Скорость Атаки на <style=cIsDamage>125%</style>.",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "Мазохизм",
-        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "При достижении лимита <style=cKeywordName>Ожидания</style>, периодически наносите себе урон в обмен на <style=cIsHealing}>Кража жизни</style> по области и горение. Не более чем через 10 секунд, <style=cIsDamage>Детонация</style>, затем <style=cIsUtility>Перегрев</style>.",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "При достижении лимита <style=cKeywordName>Ожидания</style>, периодически наносите себе урон в обмен на <style=cIsHealing>Кража жизни</style> по области и горение. Не более чем через 10 секунд, <style=cIsDamage>Детонация</style>, затем <style=cIsUtility>Перегрев</style>.",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "Злоба",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "При достижении лимита <style=cKeywordName>Ожидания</style>, вы двигаетесь быстрее и получаете <style=cKeywordName>Двойной Выстрел</style> и <style=cIsHealing>Кража Жизни</style>. Не более чем через 10 секунд, <style=cIsDamage>Детонация</style>, затем <style=cIsUtility>Перегрев</style>.",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Упрек Данте",
@@ -34,14 +34,14 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Сопротивляйтесь урону огнём из всех источников. Преобразуйте атаку, наносящую более <style=cIsDamage>30%</style> общего здоровья, в <style=cIsDamage>50%</style> урона огнём с течением времени.",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Пиромания не влияет на урон от падения, если не активна Хрупкость.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Играя за Arsonist, пройдите игру или уничтожьте себя у обелиска на Monsoon.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on Typhoon (Starstorm 2 required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Играя за Arsonist, пройдите игру на Eclipse 5 или выше ЛИБО на Typhoon (требуется Starstorm 2).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno (Inferno required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Играя за Arsonist, пройдите игру на Eclipse 8 ЛИБО на Inferno (требуется Inferno).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat a stage without overheating.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Играя за Arsonist, пройдите этап без перегрева.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Убейте босса телепорта, пока он горит."
     }
 }

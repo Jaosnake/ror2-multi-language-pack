@@ -1,16 +1,16 @@
 {
     "zh-CN": {
-        "KENKO_CADET_NAME": "军校生",
-        "KENKO_CADET_DESCRIPTION": "学员是一名多才多艺的炮手，可以使用短程武器和快速机动性进行战斗。<color=#CCD3E0></i>",
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_DESCRIPTION": "学员是一名多才多艺的炮手，可以使用短程武器和快速机动性进行战斗。",
         "KENKO_CADET_SUBTITLE": "多用途射手",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "默认",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "军校生:专家",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: 专家",
         "KENKO_CADET_PRIMARY_SMG_NAME": "子弹风暴",
         "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>.发射激光造成<style=cIsDamage>60%伤害</style>.需要<style=cIsUtility>装弹</style>,20发后装弹。",
-        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "毁灭性潮汁",
+        "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "毁灭浪潮",
         "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>敏捷</style>.发射一股弹浪造成<style=cIsDamage>3x100%伤害</style>.需要<style=cIsUtility>装弹</style>,10发后装弹。",
         "KENKO_CADET_SECONDARY_GRENADE_NAME": "B计划",
-        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "发射轻型炮弹发射器造成<style=cIsDamage>400%伤害</style>.",
+        "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "发射轻型榴弹发射器，造成<style=cIsDamage>400%伤害</style>。",
         "KENKO_CADET_SECONDARY_THROWGUN_NAME": "C计划",
         "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "抛投武器造成<style=cIsDamage>250%到750%伤害</style>,取决于当前子弹数。",
         "KENKO_CADET_UTILITY_SLIDE_NAME": "滑动装弹",
@@ -20,6 +20,6 @@
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "A计划",
         "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>敏捷</style>.发射一股重型子弹浪造成<style=cIsDamage>32x150%伤害</style>.",
         "KENKO_CADET_SPECIAL_ECHO_NAME": "回音无人机",
-        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "制造<style=cIsDamage>两只无人机</style>,寻找附近敌人造成<style=cIsDamage>2x370%伤害</style>."
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "部署<style=cIsDamage>两架无人机</style>，追踪附近敌人并造成<style=cIsDamage>2x370%伤害</style>。"
     }
 }

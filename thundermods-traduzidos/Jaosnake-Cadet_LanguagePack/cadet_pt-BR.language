@@ -1,8 +1,8 @@
 {
     "pt-BR": {
-        "KENKO_CADET_NAME": "Cadete",
+        "KENKO_CADET_NAME": "Cadet",
         "KENKO_CADET_SUBTITLE": "Atirador Versátil",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: Especialista",
         "PRIMARY_SMG_NAME": "Metralhadora",
         "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare rapidamente sua metralhadora para <style=cIsDamage>60% de dano</style> por tiro.",
         "PRIMARY_SHOTGUN_NAME": "Escopeta",
@@ -18,6 +18,6 @@
         "SPECIAL_ECHO_NAME": "Eco",
         "SPECIAL_ECHO_DESCRIPTION": "Dispare drones sônicos que ricocheteiam entre inimigos, causando <style=cIsDamage>350% de dano</style> e aplicando lentidão.",
         "SPECIAL_ULTRA_NAME": "Ultra",
-        "SPECIAL_ULTRA_DESCRIPTION": "Dispare um poderoso disparo de energia que causa <style=cIsDamage>600% de dano</style>."
+        "SPECIAL_ULTRA_DESCRIPTION": "Dispare uma poderosa rajada de energia que causa <style=cIsDamage>600% de dano</style>."
     }
 }

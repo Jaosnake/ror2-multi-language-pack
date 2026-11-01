@@ -1,9 +1,9 @@
 # 🌍 Jaosnake-Banshee_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **Banshee** by **tsuyoikenko**.
+Multi-language translation pack for **Banshee** by **tsuyoikenko**. The translations have been reviewed across all included languages and updated for Banshee 1.0.2.
 
 > 🇺🇦 Ukrainian language added because original mod does not include it.
 
@@ -12,7 +12,7 @@ Multi-language translation pack for **Banshee** by **tsuyoikenko**.
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| tsuyoikenko-Banshee | `0.9.0` |
+| tsuyoikenko-Banshee | `1.0.2` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
 ## 🌐 Languages

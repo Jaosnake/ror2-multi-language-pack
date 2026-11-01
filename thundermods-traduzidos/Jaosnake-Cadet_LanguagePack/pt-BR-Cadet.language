@@ -1,10 +1,10 @@
 {
     "pt-BR": {
-        "KENKO_CADET_NAME": "Cadete",
-        "KENKO_CADET_DESCRIPTION": "O Cadete é um artilheiro versátil que consegue navegar pelo combate com armas de curto alcance e mobilidade rápida.<color=#CCD3E0>",
+        "KENKO_CADET_NAME": "Cadet",
+        "KENKO_CADET_DESCRIPTION": "Cadet é um atirador versátil que usa armas de curto alcance e mobilidade rápida para enfrentar os inimigos.",
         "KENKO_CADET_SUBTITLE": "Atirador Versátil",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "Padrão",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: Especialista",
         "KENKO_CADET_PRIMARY_SMG_NAME": "Tempestade de Balas",
         "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare um laser para <style=cIsDamage>60% de dano</style>. Requer <style=cIsUtility>recarga</style> após 20 balas.",
         "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marés Devastadoras",
@@ -20,6 +20,6 @@
         "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plano A",
         "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare uma rajada pesada de pellets para <style=cIsDamage>32x150% de dano</style>.",
         "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
-        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrique <style=cIsDamage>dois drones</style> que procuram inimigos próximos causando <style=cIsDamage>2x370% de dano</style>."
+        "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Lance <style=cIsDamage>dois drones</style> que procuram inimigos próximos e causam <style=cIsDamage>2x370% de dano</style>."
     }
 }

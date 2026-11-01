@@ -11,7 +11,7 @@
         "BASEFORM_DASH_NAME": "Acele etmek",
         "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Herhangi bir yatay yönde kısa bir mesafe kaydırın.",
         "BASEFORM_BLOCK_NAME": "Hayalet",
-        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Basılı tutun</style>, gelen ön hasarı önemli ölçüde azaltır ve engellenen hasara bağlı olarak <style=cIsUtility>Limit</style> kazanır. <style=cIsUtility>doğru zamanlanırsa</style>: her yönden gelen hasarı iptal eder, beceriyi soğutur, engellenen hasara bağlı olarak <style=cIsUtility>Büyü Gücü</style> yeniler, <style=cIsUtility>çift Limit</style> kazanır ve yakındakilere</style>0__3x hasar</style>1__ kadar yansıtır düşmanlar.",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Basılı tutun</style>, gelen ön hasarı önemli ölçüde azaltır ve engellenen hasara bağlı olarak <style=cIsUtility>Limit</style> kazanır. <style=cIsUtility>doğru zamanlanırsa</style>: her yönden gelen hasarı iptal eder, beceriyi soğutur, engellenen hasara bağlı olarak <style=cIsUtility>Büyü Gücü</style> yeniler, <style=cIsUtility>çift Limit</style> kazanır ve yakındakilere<style=cIsDamage>3x hasar</style> kadar yansıtır düşmanlar.",
         "BASEFORM_LIMITMENU_NAME": "Limit Menüsü",
         "BASEFORM_LIMITMENU_DESCRIPTION": "Donanımlı <style=cIsUtility>Limit Breaks</style> kullanmanıza olanak tanıyan Limit Menüsünü açın.",
         "JAVANGLE_MYST_BODY_UI_MAGICNAME": "Sihirli Menü",

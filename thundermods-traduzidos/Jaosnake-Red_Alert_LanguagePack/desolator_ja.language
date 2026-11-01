@@ -16,7 +16,7 @@
         "KEYWORD_RADIATION_PRIMARY": "<style=cKeywordName>照射</style><style=cSub>3スタックの<style=cIsHealing>放射線</style>を与え、<style=cIsUtility>8秒間で<style=cIsDamage>201%のダメージ</style>を与える</style>.</style>",
         "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_NAME": "焦土",
         "HABIBI_DESOLATOR_BODY_SECONDARY_BIGBEAM_DESCRIPTION": "<style=cIsHealing></style>を照射中。エリアを爆破して <style=cIsDamage>320% のダメージ</style>、そのエリアを <style=cIsUtility>2 秒間放射線で覆う</style>。接触している敵は 1 秒あたり 2 回、<style=cIsDamage>20% のダメージを受ける</style>",
-        "KEYWORD_RADIATION_SECONDARY": "<style=cKeywordName>照射</style><style=cSub><style=cIsHealth>初期爆発</style>: <style=cIsUtility>8秒間<style=cIsDamage>112%のダメージ</style>を与える</style>.\n<style=cIsHealth>残留領域</style>0__:各ティック</style>3__8秒間</style>4__.</style>5__にわたって</style>1__56%のダメージ</style>2__を与える",
+        "KEYWORD_RADIATION_SECONDARY": "<style=cKeywordName>照射</style><style=cSub><style=cIsHealth>初期爆発</style>: <style=cIsDamage>112%のダメージ</style>を<style=cIsUtility>8秒間</style>にわたって与える。\n<style=cIsHealth>残留領域</style>: 各ティックで<style=cIsDamage>56%のダメージ</style>を<style=cIsUtility>8秒間</style>にわたって与える。</style>",
         "HABIBI_DESOLATOR_BODY_UTILITY_AURA_NAME": "リアクター",
         "HABIBI_DESOLATOR_BODY_UTILITY_AURA_DESCRIPTION": "<style=cIsUtility>4秒間</style>、<style=cIsDamage>近くのすべての敵を弱体化</style>し、<style=cIsUtility>移動速度をブーストする</style>と<style=cIsUtility>armor</style>",
         "HABIBI_DESOLATOR_BODY_SPECIAL_DEPLOY_NAME": "破滅を広める",

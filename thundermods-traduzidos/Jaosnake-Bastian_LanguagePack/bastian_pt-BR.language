@@ -1,22 +1,25 @@
 {
-    "pt-BR": {
-        "BASTIAN_NAME": "Bastian",
-        "BASTIAN_SUBTITLE": "Robô Tradutor Recondicionado",
-        "BASTIAN_DESCRIPTION": "Um robô local, construído para ajudar a negociar acordos com corpos planetários estrangeiros. Seu propósito original era funcionar como intermediário, projetado para sobreviver em planetas com ar e temperaturas que um humano normal não suportaria. Ele foi trazido a bordo da UES Contact Light como parte de um plano de contingência. No entanto, ele acabou sendo reprogramado para o combate, apesar de esta ser uma simples missão de pegar e levar.",
-        "BASTIAN_NAME_EPIC": "Bastian, o Tradutor, Modelo 4.I.N.K.",
-        "BASTIAN_ROO_DESCRIPTION": "Bastian, o Tradutor, Modelo 4.I.N.K.",
-        "BASTIAN_OUTRO": "..e assim ele partiu, sua função finalmente cumprida.",
-        "BASTIAN_FAIL": "..e assim ele foi desativado, sua memória apagada para sempre.",
-        "BASTIAN_M1": "Balanço de íons",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Corpo a corpo</style>. <style=cIsUtility>Ágil</style>. Golpeie inimigos à frente para <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. O dano é reduzido pela metade enquanto Evasivo.",
-        "BASTIAN_M2": "Micro-Bala",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispare até 5 balas de energia, cada uma causando <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. Não aplica atordoamento enquanto Evasivo.",
-        "BASTIAN_UTIL": "Nano-Mola",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Execute</style> uma corrida rápida em qualquer direção. Constrói <style=cIsUtility>Cargas Iônicas</style>.",
-        "BASTIAN_SPEC": "Explosão do Arquiteto",
-        "BASTIAN_SPEC_DESCRIPTION": "Gaste <style=cIsHealth>33% de vida atual</style> e <style=cIsUtility>todas as Cargas Iônicas</style> para uma explosão massiva de <style=cIsDamage>500%-3.000% de dano</style>. Após o uso, você fica <color=#E9AFEA>Evasivo</color> por 10 segundos.",
-        "BASTIAN_SPEC_KEYWORD": "Especial",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "Padrão",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "Maestria"
-    }
+  "pt-BR": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "Modelo 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "Um tradutor que se rebelou. Este modelo novo e aprimorado busca superar seus antecessores por quaisquer meios necessários.<style=cSub>\r\n\r\n< ! > Use Balanço de íons para acumular dano para a Explosão do Arquiteto.\n</style><style=cSub>\r\n\r\n< ! > Micro-Bala permite continuar no combate ao atordoar fontes de perigo iminente.\n</style><style=cSub>\r\n\r\n< ! > Nano-Mola permite escapar de multidões, atordoando os inimigos para ganhar alguns segundos de alívio.\n</style><style=cSub>\r\n\r\n< ! > APENAS PARA EMERGÊNCIAS! Todos os modelos Bastian são equipados com uma \"Carga Iônica Autoutilizada / Detonação Interna para Emergências\", chamada de \"Explosão do Arquiteto\", que detonará o modelo e tudo ao redor. É possível sobreviver, mas somente se agir IMEDIATAMENTE após o uso.</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "Bastian, o Tradutor, Modelo 4.I.N.K.",
+    "BASTIAN_OUTRO": "..e assim ele partiu, com sua fé naqueles por quem falava diminuindo e seu senso de identidade florescendo.",
+    "BASTIAN_FAIL": "..e assim ele desapareceu, uma única faísca na corrente da mudança.",
+    "BASTIAN_M1": "Balanço de íons",
+    "BASTIAN_M1_DESCRIPTION": "Dê um soco que causa <style=cIsDamage>250% de dano</style>. Acumula <style=cIsUtility>Cargas Iônicas</style>. O dano é reduzido pela metade enquanto estiver <color=#E9AFEA>Evasivo</color>.",
+    "BASTIAN_M2": "Micro-Bala",
+    "BASTIAN_M2_DESCRIPTION": "Dispare até 5 projéteis de energia que atordoam, cada um causando <style=cIsDamage>250% de dano</style>. Enquanto estiver <color=#E9AFEA>Evasivo</color>, não tem recarga e não atordoa.",
+    "BASTIAN_UTIL": "Nano-Mola",
+    "BASTIAN_UTIL_DESCRIPTION": "Avance rapidamente em qualquer direção, atordoando os inimigos no caminho.",
+    "BASTIAN_SPEC": "Explosão do Arquiteto",
+    "BASTIAN_SPEC_DESCRIPTION": "Gaste <style=cIsHealth>33% de vida atual</style> e <style=cIsUtility>todas as Cargas Iônicas</style> para uma explosão massiva de <style=cIsDamage>500%-3000% de dano</style>. Após o uso, você fica <color=#E9AFEA>Evasivo</color> por 10 segundos.",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>Evasivo</style><style=cSub>Recebe 35% de velocidade de movimento e 20% de regeneração, além de aprimorar suas habilidades.</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "Padrão",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "Criador",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "Como Translator, vença o jogo ou oblitere-se no Monsoon.",
+    "BASTIAN_LORE": "Um robô local construído para ajudar a negociar acordos com civilizações de outros planetas. Projetado para atuar como intermediário, conseguia sobreviver em atmosferas e temperaturas que um humano comum não suportaria. Foi levado a bordo da UES Contact Light como parte de um plano de contingência, caso fosse necessário negociar pela sobrevivência dos demais tripulantes. Apesar de ser uma simples missão de coleta e transporte, acabou sendo reprogramado para o combate."
+  }
 }

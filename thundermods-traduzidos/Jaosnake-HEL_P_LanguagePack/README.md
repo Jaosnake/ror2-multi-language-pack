@@ -1,30 +1,40 @@
 # 🌍 Jaosnake-HEL_P_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.5-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **HEL_P** by **rob**.
+Multi-language translation pack for **HEL_P** by **rob**, reviewed and updated for version 2.5.0.
 
-> 🇺🇦 Ukrainian not available yet. Want it? Send a message on [Ko-fi](https://ko-fi.com/jaosnake).
+> 🇺🇦 Ukrainian is included. Esperanto and Latin translations are provided by P.E.L.E.
 
 ---
 
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| rob-HEL_P | `2.2.1` |
+| rob-HEL_P | `2.5.0` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
 ## 🌐 Languages
 | Flag | Language |
 |------|----------|
 | 🇺🇸 | English |
+| 🇩🇪 | German |
 | 🇪🇸 | Spanish (LATAM) |
+| 🇪🇸 | Spanish (Spain) |
 | 🇫🇷 | French |
+| 🇮🇹 | Italian |
 | 🇯🇵 | Japanese |
+| 🇰🇷 | Korean |
 | 🇧🇷 | Portuguese (BR) |
 | 🇷🇺 | Russian |
+| 🇹🇷 | Turkish |
+| 🇺🇦 | Ukrainian |
 | 🇨🇳 | Chinese (Simplified) |
+
+## Shared skin token
+
+The original mod uses the generic tokens `Jellyfish` and `Wisp` for skins. Their translations may also affect another mod that uses the same tokens.
 
 ## 👤 Credits
 | Role | Name |

@@ -1,6 +1,6 @@
 {
     "zh-CN": {
-        "POPCORN_ARSONIST_BODY_NAME": "纵火者",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "疯狂纵火狂",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "普通计量表",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "对白色部分造成<style=cIsDamage>100%</style>伤害。基础计量表对过热有抗性。",
@@ -15,11 +15,11 @@
         "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME": "信号枪",
         "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION": "发射一枚信号弹,在5秒内造成<style=cIsDamage>400%伤害</style>,然后爆炸造成<style=cIsDamage>400%伤害</style>,释放5枚信号弹各造成<style=cIsDamage>200%伤害</style>。",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "受虐狂",
-        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>敏捷。热量。</style>被<style=cIsDamage>点燃</style>造成的伤害转化为<style=cIsHealing>治疗</style>,持续6.5秒。增加<style=cIsDamage>125%</style>攻击速度。",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION": "<style=cIsUtility>敏捷。热度。 </style>受到<style=cIsDamage>点燃</style>造成的伤害会转化为<style=cIsHealing>治疗</style>，持续6.5秒。攻击速度提高<style=cIsDamage>125%</style>。",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME": "受虐狂",
-        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "当达到<style=cKeywordName>预判</style>上限时,周期性地对自己造成伤害,以换取范围<style=cIsHealing>生命偷取</style>和灼烧。最多10秒后,<style=cIsDamage>引爆</style>,然后<style=cIsUtility>过热</style>。",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION": "达到<style=cKeywordName>预判</style>上限后，定期对自身造成伤害，以换取范围<style=cIsHealing>吸血</style>和灼烧。最多10秒后<style=cIsDamage>爆炸</style>，随后<style=cIsUtility>过热</style>。",
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME": "怨恨",
-        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "当达到<style=cKeywordName>预判</style>上限时,你移动更快并获得<style=cKeywordName>双重射击</style>和<style=cIsHealing>生命偷取</style>。最多10秒后,<style=cIsDamage>引爆</style>,然后<style=cIsUtility>过热</style>。",
+        "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "达到<style=cKeywordName>预判</style>上限后，移动速度提高，并获得<style=cKeywordName>双重射击</style>和<style=cIsHealing>吸血</style>。最多10秒后<style=cIsDamage>爆炸</style>，随后<style=cIsUtility>过热</style>。",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "但丁的斥责",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "发射一道强烈光束,造成<style=cIsDamage>140%伤害</style>。离目标越近,点燃几率越高。按住2秒或更久后,松开时发射一道最终光束,造成<style=cIsDamage>150%伤害</style>。",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>预判</style>每失去和/或获得100热量,纵火者获得1层预判;获得5层后,他可激活受虐狂;额外层数增加伤害和持续时间;所有层数在结束时消耗。",
@@ -34,14 +34,14 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "抵抗所有来源的火焰伤害。将一次造成超过总生命值<style=cIsDamage>30%</style>的攻击转化为随时间造成的<style=cIsDamage>50%</style>火焰伤害。",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "除非虚弱已生效，否则纵火狂热不会影响坠落伤害。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "使用Arsonist通关，或在Monsoon难度下于方尖碑处抹除自己。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on Typhoon (Starstorm 2 required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "使用Arsonist在Eclipse 5或更高难度通关，或在Typhoon难度通关（需要Starstorm 2）。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno (Inferno required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "使用Arsonist在Eclipse 8或Inferno难度通关（需要Inferno）。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat a stage without overheating.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "使用Arsonist在没有过热的情况下完成一个关卡。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "在传送器首领燃烧时将其击杀。"
     }
 }

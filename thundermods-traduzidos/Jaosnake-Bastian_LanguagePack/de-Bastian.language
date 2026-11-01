@@ -1,22 +1,25 @@
 {
-    "de": {
-        "BASTIAN_NAME": "Bastian",
-        "BASTIAN_SUBTITLE": "Überholter Übersetzungsroboter",
-        "BASTIAN_DESCRIPTION": "Ein lokaler Roboter, der gebaut wurde, um bei der Aushandlung von Geschäften mit fremden Planetenkörpern zu helfen. Sein ursprünglicher Zweck bestand darin, als Vermittler zu fungieren und auf Planeten mit Luft und Temperaturen zu überleben, denen ein normaler Mensch nicht standhalten konnte. Es wurde im Rahmen eines Notfallplans an Bord der UES Contact Light gebracht. Am Ende wurde es jedoch für den Kampf umprogrammiert, obwohl es sich um eine einfache Hol- und Tragemission handelte.",
-        "BASTIAN_NAME_EPIC": "Bastian der Übersetzer, Modell 4.I.N.K.",
-        "BASTIAN_ROO_DESCRIPTION": "Bastian der Übersetzer, Modell 4.I.N.K.",
-        "BASTIAN_OUTRO": "..und so ging er, seine Funktion war endlich erfüllt.",
-        "BASTIAN_FAIL": "..und so wurde er deaktiviert, sein Gedächtnis für immer gelöscht.",
-        "BASTIAN_M1": "Ionenschaukel",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Nahkampf</style>. <style=cIsUtility>Agil</style>. Schlage Feinde voraus<style=cIsDamage>250 % Schaden</style>. Baut<style=cIsUtility>Ionenladungen</style>. Der Schaden wird beim Ausweichen halbiert.",
-        "BASTIAN_M2": "Mikrokugel",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agil</style>. Feuern Sie bis zu 5 Energiegeschosse ab, die jeweils Schaden verursachen<style=cIsDamage>250 % Schaden</style>. Baut<style=cIsUtility>Ionenladungen</style>. Fügt beim Ausweichen keine Betäubung hinzu.",
-        "BASTIAN_UTIL": "Nano-Frühling",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Ausführen</style>ein schneller Sprint in jede Richtung. Baut<style=cIsUtility>Ionenladungen</style>.",
-        "BASTIAN_SPEC": "Explosion des Architekten",
-        "BASTIAN_SPEC_DESCRIPTION": "Ausgeben<style=cIsHealth>33 % aktueller Gesundheitszustand</style>Und<style=cIsUtility>alle ionischen Ladungen</style>für eine gewaltige Explosion von<style=cIsDamage>500–3.000 % Schaden</style>. Nach Gebrauch werden<color=#E9AFEA>Ausweichend</color>für 10 Sekunden.",
-        "BASTIAN_SPEC_KEYWORD": "Besonders",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "Standard",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "Meisterschaft"
-    }
+  "de": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "Modell 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "Ein abtrünniger Übersetzer: Dieses neue, verbesserte Modell will seine Vorgänger mit allen nötigen Mitteln übertreffen.<style=cSub>\r\n\r\n< ! > Nutze Ionenschlag, um Schaden für Explosion des Architekten aufzubauen.\n</style><style=cSub>\r\n\r\n< ! > Mikrokugel betäubt drohende Gefahren und ermöglicht dir, im Kampf zu bleiben.\n</style><style=cSub>\r\n\r\n< ! > Nanofeder hilft dir, einer Menschenmenge zu entkommen, indem es Gegner für einige Sekunden betäubt.\n</style><style=cSub>\r\n\r\n< ! > NUR FÜR NOTFÄLLE! Alle Bastian-Modelle sind mit einer selbst genutzten Ionenladung / internen Notfalldetonation ausgestattet, dem „Explosion des Architekten“. Dieser sprengt das Modell und seine Umgebung. Überleben ist möglich, aber nur, wenn du SOFORT nach dem Einsatz handelst.</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "Bastian der Übersetzer, Modell 4.I.N.K.",
+    "BASTIAN_OUTRO": "..und so ging er fort, sein Glaube an jene, für die er sprach, schwand und sein Selbstbewusstsein erblühte.",
+    "BASTIAN_FAIL": "..und so verschwand er, ein einzelner Funke im Strom des Wandels.",
+    "BASTIAN_M1": "Ionenschlag",
+    "BASTIAN_M1_DESCRIPTION": "Ein Schlag verursacht <style=cIsDamage>250% Schaden</style> und erzeugt <style=cIsUtility>Ionenladungen</style>. Im Zustand <color=#E9AFEA>ausweichend</color> wird der Schaden halbiert.",
+    "BASTIAN_M2": "Mikrokugel",
+    "BASTIAN_M2_DESCRIPTION": "Feuere bis zu 5 betäubende Energiegeschosse ab, die je <style=cIsDamage>250% Schaden</style> verursachen. Im Zustand <color=#E9AFEA>ausweichend</color> gibt es keine Abklingzeit und keine Betäubung.",
+    "BASTIAN_UTIL": "Nanofeder",
+    "BASTIAN_UTIL_DESCRIPTION": "Stürme schnell in eine beliebige Richtung und betäube Gegner auf deinem Weg.",
+    "BASTIAN_SPEC": "Explosion des Architekten",
+    "BASTIAN_SPEC_DESCRIPTION": "Verbrauche <style=cIsHealth>33% deiner aktuellen Gesundheit</style> und <style=cIsUtility>alle Ionenladungen</style> für eine gewaltige Explosion mit <style=cIsDamage>500%-3000% Schaden</style>. Danach bist du 10 Sekunden lang <color=#E9AFEA>ausweichend</color>.",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>ausweichend</style><style=cSub>Erhöht das Bewegungstempo um 35% und die Regeneration um 20% und verbessert deine Fähigkeiten.</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "Standard",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "Schöpfer",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "Schließe als Translator das Spiel ab oder lösche dich auf Monsoon aus.",
+    "BASTIAN_LORE": "Ein lokaler Roboter, der gebaut wurde, um bei der Aushandlung von Geschäften mit fremden Planetenkörpern zu helfen. Sein ursprünglicher Zweck bestand darin, als Vermittler zu fungieren und auf Planeten mit Luft und Temperaturen zu überleben, denen ein normaler Mensch nicht standhalten konnte. Es wurde im Rahmen eines Notfallplans an Bord der UES Contact Light gebracht. Am Ende wurde es jedoch für den Kampf umprogrammiert, obwohl es sich um eine einfache Hol- und Tragemission handelte. Der Plan sah bei Bedarf Verhandlungen über das Überleben der übrigen Besatzung vor."
+  }
 }

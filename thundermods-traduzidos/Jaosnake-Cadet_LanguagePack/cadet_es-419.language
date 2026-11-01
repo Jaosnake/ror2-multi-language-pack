@@ -1,8 +1,8 @@
 {
     "es-419": {
-        "KENKO_CADET_NAME": "Cadete",
+        "KENKO_CADET_NAME": "Cadet",
         "KENKO_CADET_SUBTITLE": "Tirador Versátil",
-        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadete: Especialista",
+        "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: Especialista",
         "PRIMARY_SMG_NAME": "Ametralladora",
         "PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara rápidamente tu ametralladora para <style=cIsDamage>60% de daño</style> por disparo.",
         "PRIMARY_SHOTGUN_NAME": "Escopeta",

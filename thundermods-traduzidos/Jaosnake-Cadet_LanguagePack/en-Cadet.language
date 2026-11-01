@@ -1,7 +1,7 @@
 {
     "en": {
         "KENKO_CADET_NAME": "Cadet",
-        "KENKO_CADET_DESCRIPTION": "The Cadet is a versatile gunner who can navigate combat with short-range weaponry and quick mobility.<color=#CCD3E0></i>",
+        "KENKO_CADET_DESCRIPTION": "The Cadet is a versatile gunner who can navigate combat with short-range weaponry and quick mobility.",
         "KENKO_CADET_SUBTITLE": "Versatile Marksman",
         "KENKO_CADET_DEFAULT_SKIN_NAME": "Default",
         "KENKO_CADET_MASTERY_SKIN_NAME": "Cadet: Specialist",

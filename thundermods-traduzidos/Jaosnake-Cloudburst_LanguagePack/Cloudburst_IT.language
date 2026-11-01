@@ -1,6 +1,13 @@
 {
-    "IT": {
-        "EXPANSION_CLOUDBURST_NAME": "Nuvoloso",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Aggiunge i contenuti della mod \"Cloudburst\" al gioco."
-    }
+  "IT": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Aggiunge i contenuti della mod 'Cloudburst' al gioco.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Guardia d'argilla",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Fendente d'alabarda",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Pestata",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Aggiunge i contenuti della mod 'Cloudburst' al gioco."
+  }
 }

@@ -40,7 +40,7 @@
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_NAME": "VFX Arc-en-Ciel",
         "POPCORN_LEE_HYPERREAL_BODY_PASSIVE_RAINBOW_VFX_DESCRIPTION": "Sélectionne aléatoirement une couleur VFX.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_NAME": "Barrage d'Armes",
-        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "Lancez une attaque combo de 5 coups. Sur les coups 1 et 3, exécutez un <style=cIsUtility>[Parry]</style> actif pendant une courte période. Dans les airs, frappez vers le bas, infligeant <style=cIsDamage>400 % de dégâts</style>, augmentant jusqu'à <style=cIsDamage>3x</style> en fonction de la distance parcourue. Maintenez le bouton enfoncé à tout moment avec le <style=cIsUtility>[Power Gauge]</style> plein pour entrer dans le <style=cIsUtility>[Hypermatrix]</style>.</style>0__",
+        "POPCORN_LEE_HYPERREAL_BODY_PRIMARY_DESCRIPTION": "Lancez une attaque combo de 5 coups. Sur les coups 1 et 3, exécutez un <style=cIsUtility>[Parry]</style> actif pendant une courte période. Dans les airs, frappez vers le bas, infligeant <style=cIsDamage>400 % de dégâts</style>, augmentant jusqu'à <style=cIsDamage>3x</style> en fonction de la distance parcourue. Maintenez le bouton enfoncé à tout moment avec le <style=cIsUtility>[Power Gauge]</style> plein pour entrer dans le <style=cIsUtility>[Hypermatrix]</style>.",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_NAME": "Position de Tireur d'Élite",
         "POPCORN_LEE_HYPERREAL_BODY_ENTER_SNIPE_DESCRIPTION": "Entrez <style=cIsUtility>[Sniper Stance]</style>, vous immobilisant sur place, vous permettant d'utiliser Snipe avec Primary pour <style=cIsDamage>400 % de dégâts</style>.</i>",
         "POPCORN_LEE_HYPERREAL_BODY_EXIT_SNIPE_NAME": "Quitter la Position de Tireur d'Élite",

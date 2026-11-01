@@ -1,11 +1,10 @@
 {
-    "author": "Jaosnake",
-    "name": "HAND_OVERCLOCKED_LanguagePack",
-    "description": "Multi-language translation pack for HAND_OVERCLOCKED by EnforcerGang - translated by Jaosnake",
-    "dependencies": [
-        "EnforcerGang-HAND_OVERCLOCKED-1.5.8",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+  "name": "HAND_OVERCLOCKED_LanguagePack",
+  "description": "Multi-language translation pack for HAND_OVERCLOCKED by EnforcerGang - translated by Jaosnake",
+  "dependencies": [
+    "EnforcerGang-HAND_OVERCLOCKED-1.5.8",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ],
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

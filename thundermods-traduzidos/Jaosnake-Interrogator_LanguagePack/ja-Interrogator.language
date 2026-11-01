@@ -1,23 +1,28 @@
 {
     "ja": {
-        "KENKO_INTERROGATOR_NAME": "インターロゲーター",
-        "KENKO_INTERROGATOR_DESCRIPTION": "インターロゲーターは他者の痛みを楽しむ。アライどうしていても傷つけすぎないように……それとも、楽しんでいい。Original mod by tsuyoikenko</i>",
+        "KENKO_INTERROGATOR_NAME": "Interrogator",
+        "KENKO_INTERROGATOR_DESCRIPTION": "Interrogatorは他者の痛みを楽しむ。アライどうしていても傷つけすぎないように……それとも、楽しんでいい。<color=#CCD3E0>\n\n< ! > 敵や味方、さらには自分自身から攻撃を受けて能力を高めよう。誰も安全ではない。\n\n< ! > 被弾時に発動するアイテムがあるなら、Affrayで自分に出血を付与しよう。痛みなくして得るものなし。\n\n< ! > Falsifyは敵を強制的に有罪にするのに便利。非倫理的？ 何のこと？\n\n< ! > 有罪の対象にConvictを使い、罪を償わせよう。無罪が証明されるまでは有罪だ。</color>",
         "KENKO_INTERROGATOR_SUBTITLE": "拷問の専門家",
         "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..こうして彼は去り、さらに多くの\"正義\"を履行することを期待した。",
         "KENKO_INTERROGATOR_OUTRO_FAILURE": "..こうして彼は消え、罪に対して惩罰を受けた。",
         "KENKO_INTERROGATOR_DEFAULT_SKIN_NAME": "デフォルト",
-        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "インターロゲーター:スペシャリスト",
+        "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "Interrogator:スペシャリスト",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "拷問",
-        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "インターロゲーターはアライや敵による攻撃を受け、また攻撃できる。インターロゲーターを攻撃した者は永久に有罪とマークされる。有罪の敵一体につき、ダメージが5%増加する。",
+        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Interrogatorは味方と敵を攻撃でき、どちらからも攻撃を受ける。Interrogatorに攻撃を当てた相手は有罪とマークされる。",
         "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "残忍な一撃",
         "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "警棒を前に振り、<style=cIsDamage>320%のダメージ</style>を与える。攻撃を外すと代わりに<style=cIsDamage>ダメージ</style>を受ける。",
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "アフレイ",
-        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "クレイバーを投げ、<style=cIsDamage>450%のダメージ</style>を与える。<style=cIsDamage>暗殺者。</style>クレイバーが目標を殺すと、領域内の全員に出血とプレッシャーを適用する。",
+        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "クレイバーを投げ、<style=cIsDamage>450%のダメージ</style>を与える。<style=cIsDamage>屠殺者.</style>クレイバーが目標を殺すと、領域内の全員に出血とプレッシャーを適用する。",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "ファルシファイ",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "前方にダッシュし、<style=cIsDamage>390%のダメージ</style>を与え、命中した目標に有罪を適用する。",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "有罪宣告",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "有罪の敵と10秒間決闘する。あなたのプライマリーはあなたに当たらなくなり、命中時に有罪のスタックを与える。決闘中、あなたへの外部ダメージは無効になるが、目標以外の敵へのダメージも無効になる。",
         "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "惩罰",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "有罪の敵と10秒間決闘する。あなたのプライマリーはあなたに当たらなくなり、命中時に有罪のスタックを与える。決闘中、あなたへの外部ダメージは無効になるが、他の敵へのダメージが75%減少する。"
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "有罪の敵と10秒間決闘する。あなたのプライマリーはあなたに当たらなくなり、命中時に有罪のスタックを与える。決闘中、あなたへの外部ダメージは無効になるが、目標以外の敵へのダメージも無効になる。\n<color=#d299ff>SCEPTER: Convictは有罪でない敵も対象にできる。与えるダメージは無効化されなくなるが、75%減少する。</color>",
+        "<style=cKeywordName>Slayer</style><style=cSub>Deals up to <style=cIsDamage>3x</style> damage against low health enemies.</style>": "<style=cKeywordName>屠殺者</style><style=cSub>体力の低い敵に最大<style=cIsDamage>3倍</style>のダメージを与える。</style>",
+        "<style=cKeywordName>Guilty</style><style=cSub>Grants <color=#FFBF66>Interrogator</color> <style=cIsDamage>attack speed</style>, <style=cIsHealing>health regen</style>, and <style=cIsDamage>damage</style> for each <color=#FFBF66>Guilty</color> target.</style>": "<style=cKeywordName>有罪</style><style=cSub>有罪の対象1体につき、Interrogatorの攻撃速度、体力再生、ダメージが増加する。</style>",
+        "<style=cKeywordName>Ally Damage</style><style=cSub>Allies take and deal less damage to each other and <color=#FFBF66>Guilty</color> expires from them after 10 seconds.</style>": "<style=cKeywordName>味方へのダメージ</style><style=cSub>味方同士が与え合うダメージは減少し、味方の有罪は10秒後に解除される。</style>",
+        "<style=cKeywordName>Hemorrhage</style><style=cSub>Deal <style=cIsDamage>2000%</style> base damage over 15s. <i>Hemorrhage</i> can stack.</style>": "<style=cKeywordName>出血</style><style=cSub>15秒間で基本ダメージの2000%を与える。出血は累積する。</style>",
+        "<style=cKeywordName>Pressured</style><style=cSub>Boost <style=cIsDamage>attack speed</style> and <style=cIsUtility>move speed</style> but lowers <style=cIsHealing>armor</style> and <style=cIsDamage>damage</style>.</style>": "<style=cKeywordName>プレッシャー</style><style=cSub>攻撃速度と移動速度が上昇するが、アーマーとダメージが低下する。</style>"
     }
 }

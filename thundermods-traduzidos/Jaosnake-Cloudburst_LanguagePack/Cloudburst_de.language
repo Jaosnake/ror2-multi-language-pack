@@ -1,6 +1,13 @@
 {
-    "de": {
-        "EXPANSION_CLOUDBURST_NAME": "Wolkenbruch",
-        "EXPANSION_CLOUDBURST_DESCRIPTION": "Fügt dem Spiel Inhalte aus der Mod \"Cloudburst\" hinzu."
-    }
+  "de": {
+    "EXPANSION_CLOUDBURST_NAME": "Cloudburst",
+    "EXPANSION_CLOUDBURST_DESCRIPTION": "Fügt dem Spiel Inhalte aus der Mod 'Cloudburst' hinzu.",
+    "CLOUDBURST_GUARDSMAN_BODY_NAME": "Ton-Gardist",
+    "CLOUDBURST_GUARDSMAN_BODY_SUBTITLE": "",
+    "CLOUDBURST_GUARDSMAN_BODY_LORE": "",
+    "CLOUDBURST_GUARDSMAN_PRIMARY_NAME": "Hellebardenschwung",
+    "CLOUDBURST_GUARDSMAN_SECONDARY_NAME": "Stampfen",
+    "CLOUDBURST_EXPANSION_NAME": "Cloudburst",
+    "CLOUDBURST_EXPANSION_DESCRIPTION": "Fügt dem Spiel Inhalte aus der Mod 'Cloudburst' hinzu."
+  }
 }

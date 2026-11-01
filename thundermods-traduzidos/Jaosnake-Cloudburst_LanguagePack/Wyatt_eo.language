@@ -1,0 +1,26 @@
+{
+  "eo": {
+    "CLOUDBURST_WYATT_NAME": "Custodian",
+    "CLOUDBURST_WYATT_SUBTITLE": "Sveltaj, Krudaj, Purigaj Masxinoj",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR": "...kaj tiel ili foriris, kun bone farita laboro",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE": "...kaj tiel ili malaperis, lasante pli grandan hxaoson ol kiam ili komencis",
+    "CLOUDBURST_WYATT_DESCRIPTION": "La Custodian estas majstro pri puriga militado kiu manipulas la graviton de siaj malamikoj je sia avangxo<color=#CCD3E0>\n\n< ! > Cxenigu kombinojn de Grav-Balailo por levi malamikojn pli kaj pli alten.\n\n< ! > Pikbatu malamikojn per Rubo For post kiam ili estis levitaj en la aeron per Grav-Balailo kaj MAID por grandega damagxo!\n\n< ! > Uzu la duoblan salton de Fluo por kombinbati malamikojn en la aero, aux uzu la kirason por eliri el malfacila situacio.\n\n< ! > Uzu MAID por levi malamikojn en la aeron kaj repoziciigi vin por plue kombinbati malamikojn.\n\n</color>",
+    "CLOUDBURST_WYATT_LORE": "Ne povas halti nun. Ne povas halti nun. Cxiu pasxo kiun mi faras estas pasxo kiun mi ne povas repreni. Okazu kio ajn, mi trovos gxin.\n\nCxio estas ritmo, nur ritmo. Cxiufoje kiam mi eliras el la linio estas puno. Mi obeos la ritmon. Nenio povas haltigi min nun.\n\nCxiu cikatro valoras gxin. Mi povas senti gxin, mi alproksimigxas al gxi. Mi havos gxin, kaj gxi estos mia.\n\nNe gravas la sango, gxi valoras gxin. Mi trovos tion kion mi volas, kaj mi venos hejmen.\n\nNe gravas kiom multajn mi bucxas, gxi estos mia... Gxi ne povas kasxi sin de mi por cxiam.\n\nGxi estas cxi tie, mi povas senti gxin. Cxi tiu sekureca kesto enhavas gxin. Mi rompmalfermas gxin, kaj mi trovas gxin.\n\nGxi estas... fine mia. Mi tenas gxin en miaj kontuzitaj manoj. Cxu vere pasis jaroj?\n\nSxi amos cxi tion, mi scias.\n\n",
+    "KEYWORD_WEIGHTLESS": "<style=cKeywordName>Senpeza</style><style=cSub><style=cIsUtility>Forigas graviton</style> de la celo kaj <style=cIsUtility>malrapidigas movigxon kaj atakrapidecon</style>.</style>",
+    "KEYWORD_SPIKED": "<style=cKeywordName>Pikbato</style><style=cSub>Devigas malamikon fali malsupren, kauxzante <style=cIsDamage>sxokondon</style> se gxi kolizias kun la tereno, farante <style=cIsDamage>200% damagxon</style> + <style=cIsDamage>30% damagxon</style> por cxiu falita metro.</style>",
+    "KEYWORD_FLOW": "<style=cKeywordName>Fluo</style><style=cSub>Akiru <style=cIsDamage>30 kirason</style> + <style=cIsDamage>5 kirason</style> por cxiu stako de <style=cIsUtility>Ritmo</style>.\nAkiru <style=cIsUtility>Duoblan Salton</style>.\nAkiru <style=cIsUtility>+30% Malpligrandigon de Rekupertempo.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME": "Walkman",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION": "Je trafo, akiru stakon de <style=cIsUtility>Ritmo</style>, donante <style=cIsUtility>20% movrapidecon</style> po stako. Malpligrandigxas ekster batalo.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME": "G22 Grav-Balailo",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION": "<style=cIsUtility>Vigla</style>. Svingu vian balailon por <style=cIsDamage>100% damagxo</style>. Cxiu tria trafo faras <style=cIsDamage>200% damagxon</style> kaj aplikas <style=cIsUtility>senpezon</style>.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME": "Rubo For",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION": "<s>Deploju vincxon</s> Magie flugu al malamiko, trafu gxin por <style=cIsDamage>300%</style> damagxo kaj <style=cIsDamage>pikbatu</style> gxin.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME": "Fluo",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION": "Aktivigu <style=cIsDamage>Fluon</style> dum <style=cIsUtility>4 sekundoj</style> + <style=cIsUtility>0.4 sekundoj</style> por cxiu stako de <style=cIsUtility>Ritmo</style>, akirante <style=cIsDamage>kirason, duoblan salton kaj malpligrandigon de rekupertempo</style>. Dum <style=cIsDamage>Fluo</style>, vi ne povas perdi aux akiri <style=cIsUtility>Ritmon</style>. Post kiam <style=cIsDamage>Fluo</style> finigxas, perdu cxiujn stakojn de <style=cIsUtility>Ritmo</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME": "M88 MAID",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION": "Sendu vian unuon <style=cIsUtility>MAID</style> impetante tra malamikoj por <style=cIsDamage>300% damagxo</style> antaux ol mallonge halti kaj reveni al vi. Aktivigu denove por tiri vin al <style=cIsUtility>MAID</style> kaj eksplodi por <style=cIsDamage>500% damagxo</style>, aplikante <style=cIsUtility>Senpezon</style>.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN": "Klasika",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME": "Custodian: Majstreco",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION": "Kiel Custodian, venku la ludon aux forvisxu vin en Monsoon."
+  }
+}

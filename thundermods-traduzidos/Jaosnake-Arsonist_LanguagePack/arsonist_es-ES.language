@@ -1,6 +1,6 @@
 {
     "es-ES": {
-        "POPCORN_ARSONIST_BODY_NAME": "Incendiario",
+        "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Pirómano maníaco",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Calibre normal",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Inflige <style=cIsDamage>100%</style> daño en la porción blanca. El medidor base es resistente al sobrecalentamiento.",
@@ -9,7 +9,7 @@
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME": "Aliento de dragón",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION": "Dispara un rayo de llamas que inflige <style=cIsDamage>90% de daño</style>. Mayor probabilidad de ignición cuanto más cerca esté del objetivo.",
         "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME": "bola de fuego",
-        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION": "<style=cIsUtility>Calor. </style>Dispara una bola de fuego que inflige <style=cIsDamage>225 % de daño y enciende a </style> enemigos al golpear.",
+        "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION": "<style=cIsUtility>Calor. </style>Dispara una bola de fuego que inflige <style=cIsDamage>225% de daño y enciende a los enemigos</style> al golpear.",
         "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME": "Explosión de punto cero",
         "POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION": "<style=cIsUtility>Ágil. Calor. </style>Impulsate hacia adelante, explotando a los enemigos detrás de ti e infligiendo <style=cIsDamage>200% de daño</style>. Chocar inmediatamente después del lanzamiento con el primer enemigo causa <style=cIsDamage>200% de daño</style> en una explosión circundante.",
         "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME": "Pistola de bengalas",
@@ -34,14 +34,14 @@
         "POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION": "Resiste el daño de fuego de todas las fuentes. Convierte un ataque que inflija más del <style=cIsDamage>30%</style> de la salud total en <style=cIsDamage>50%</style> de daño de fuego con el tiempo.",
         "POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE": "Piromanía no afecta el daño por caída a menos que Fragilidad esté activa.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Mastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa la partida o sacrifícate en Monsoon.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Grandmastery",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on Typhoon (Starstorm 2 required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa la partida en Eclipse 5 o superior, O en Typhoon (requiere Starstorm 2).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Survival",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno (Inferno required).",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa la partida en Eclipse 8, O en Inferno (requiere Inferno).",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat a stage without overheating.",
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa una fase sin sobrecalentarte.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mata a un jefe del teletransportador mientras está ardiendo."
     }
 }

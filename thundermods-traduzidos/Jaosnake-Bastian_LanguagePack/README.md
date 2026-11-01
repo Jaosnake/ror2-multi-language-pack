@@ -1,11 +1,11 @@
 # 🌍 Jaosnake-Bastian_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Bastian** by **TeamSillyGuy**.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+> Ukrainian, Esperanto and Latin are included. P.E.L.E. provides support for these language options.
 
 ---
 
@@ -31,6 +31,12 @@ Multi-language translation pack for **Bastian** by **TeamSillyGuy**.
 | 🇹🇷 | Turkish |
 | 🇺🇦 | Ukrainian ⚡ |
 | 🇨🇳 | Chinese (Simplified) |
+| 🌐 | Esperanto |
+| 🏛️ | Latin |
+
+## Gameplay configuration
+
+Skill values in these translations describe Bastian’s default settings and do not update when the player changes those settings.
 
 ## 👤 Credits
 | Role | Name |

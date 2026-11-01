@@ -1,44 +1,14 @@
-# 🌍 Jaosnake-HAND_OVERCLOCKED_LanguagePack
+# HAN-D OVERCLOCKED Multi-Language Pack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
-![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
+Community translations for [HAN-D OVERCLOCKED by EnforcerGang](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/), checked against version 1.5.9. Includes English, German, Spanish (Latin America and Spain), French, Italian, Japanese, Korean, Brazilian Portuguese, Russian, Turkish, Ukrainian, Simplified Chinese, Esperanto and Latin.
 
-Multi-language translation pack for **HAND_OVERCLOCKED** by **EnforcerGang**.
+Ukrainian, Esperanto and Latin require [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) for language selection. In-game rendering and translation feedback are welcome.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+## Dependencies
 
----
+- EnforcerGang-HAND_OVERCLOCKED 1.5.8 or newer
+- RiskofThunder-R2API_Language 1.1.0 or a compatible P.E.L.E installation
 
-## 📦 Dependencies
-| Package | Version |
-|---------|---------|
-| EnforcerGang-HAND_OVERCLOCKED | `1.5.8` |
-| RiskofThunder-R2API_Language | `1.1.0` |
+## Credits
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
-| 🇫🇷 | French |
-| 🇮🇹 | Italian |
-| 🇯🇵 | Japanese |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian ⚡ |
-| 🇨🇳 | Chinese (Simplified) |
-
-## 👤 Credits
-| Role | Name |
-|------|------|
-| Original Mod | [EnforcerGang](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/) |
-| Translations | Jaosnake |
-
----
-
-## ☕ Support
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+Original mod by EnforcerGang. Translation pack by Jaosnake. [Source and feedback](https://github.com/Jaosnake/ror2-multi-language-pack).

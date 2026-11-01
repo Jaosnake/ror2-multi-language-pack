@@ -1,9 +1,9 @@
 # 🌍 Jaosnake-Sorceress_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **SorceressMod** by **Frosthex**.
+Multi-language translation pack for **SorceressMod** by **Frosthex**, reviewed against the original 0.7.5 texts.
 
 > 🇺🇦 Ukrainian language added because original mod does not include it.
 
@@ -37,6 +37,8 @@ Multi-language translation pack for **SorceressMod** by **Frosthex**.
 |------|------|
 | Original Mod | [Frosthex](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) |
 | Translations | Jaosnake |
+| Original Russian localization | N3xT |
+| Original Chinese localization | Taka |
 
 ---
 

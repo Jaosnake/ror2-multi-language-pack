@@ -1,6 +1,7 @@
-## 1.0.2
-- Fixed mojibake, accent issues, language tokens, and untranslated English fallbacks.
-- Rebuilt the R2API.Language package for manual Thunderstore upload.
+# Changelog
 
-## 1.0.1
-- Fixed credits that were polluting the interface due to an error during file upload.
+## [1.0.3] - 2026-11-01
+- Release for `TeamCloudburst-Cloudburst-0.5.0`.
+- Added complete localization across all 15 languages (`de`, `en`, `eo`, `es-419`, `es-ES`, `FR`, `IT`, `ja`, `ko`, `la`, `pt-BR`, `RU`, `tr`, `UA`, `zh-CN`) covering all 78 tokens.
+- **P.E.L.E. Notice**: Risk of Rain 2 does not natively support Ukrainian (`UA`), Esperanto (`eo`), or Latin (`la`) in the game selector. To use these 3 languages, download and install **[P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)**.
+- Verified UTF-8 (no BOM), zero mojibake, placeholder parity, and balanced TextMeshPro `<style>` / `<color>` tags.

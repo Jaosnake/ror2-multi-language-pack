@@ -1,22 +1,25 @@
 {
-    "en": {
-        "BASTIAN_NAME": "Bastian",
-        "BASTIAN_SUBTITLE": "Refurbished Translation Robot",
-        "BASTIAN_DESCRIPTION": "A local robot, built to help negotiate deals with foreign planetary bodies. Its original purpose was to function as an intermediary, designed to survive on planets with air and temperatures a normal human couldn't withstand. It was brought aboard the UES Contact Light as part of a contingency plan. However, it ended up being reprogrammed for combat, despite this being a simple fetch-and-carry mission.",
-        "BASTIAN_NAME_EPIC": "Bastian the Translator, Model 4.I.N.K.",
-        "BASTIAN_ROO_DESCRIPTION": "Bastian the Translator, Model 4.I.N.K.",
-        "BASTIAN_OUTRO": "..and so he departed, his function finally fulfilled.",
-        "BASTIAN_FAIL": "..and so he was deactivated, his memory erased forever.",
-        "BASTIAN_M1": "Ion Swing",
-        "BASTIAN_M1_DESCRIPTION": "<style=cIsDamage>Melee</style>. <style=cIsUtility>Agile</style>. Strike enemies ahead for <style=cIsDamage>250% damage</style>. Builds <style=cIsUtility>Ionic Charges</style>. Damage is halved while Evasive.",
-        "BASTIAN_M2": "Micro-Bullet",
-        "BASTIAN_M2_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire up to 5 energy bullets, each dealing <style=cIsDamage>250% damage</style>. Builds <style=cIsUtility>Ionic Charges</style>. Does not apply stun while Evasive.",
-        "BASTIAN_UTIL": "Nano-Spring",
-        "BASTIAN_UTIL_DESCRIPTION": "<style=cIsUtility>Execute</style> a quick dash in any direction. Builds <style=cIsUtility>Ionic Charges</style>.",
-        "BASTIAN_SPEC": "Architect's Explosion",
-        "BASTIAN_SPEC_DESCRIPTION": "Spend <style=cIsHealth>33% current health</style> and <style=cIsUtility>all Ionic Charges</style> for a massive explosion of <style=cIsDamage>500%-3,000% damage</style>. After use, become <color=#E9AFEA>Evasive</color> for 10 seconds.",
-        "BASTIAN_SPEC_KEYWORD": "Special",
-        "BASTIANBODY_DEFAULT_SKIN_NAME": "Default",
-        "BASTIANBODY_MASTERY_SKIN_NAME": "Mastery"
-    }
+  "en": {
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_SUBTITLE": "Model 4.I.N.K.",
+    "BASTIAN_DESCRIPTION": "A translator gone rogue, this new and improved model seeks to improve on his older counterparts, by any means necessary.<style=cSub>\r\n\r\n< ! > Use Ion Swing to build up damage of Architect Burst.\n</style><style=cSub>\r\n\r\n< ! > Micro-Bullet allows you to stay in the fray by stunning sources of impending danger.\n</style><style=cSub>\r\n\r\n< ! > Nano-Spring allows you to find your way out of a packed crowd, stunning enemies to allow for a few seconds of relief.\n</style><style=cSub>\r\n\r\n< ! > FOR EMERGENCIES ONLY! All Bastian Models are equipped with a \"Self - Utilized Ion Charge/ Internal Detonation for Emergencies\", dubbed the \"Architect Burst\" which will detonate the model and anything in it's surrounding area. Survival is possible, but only if action is taken IMMEDIATELY after usage.</style>",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_ROO_DESCRIPTION": "Bastian, the Translator, Model 4.I.N.K.",
+    "BASTIAN_OUTRO": "..and so he left, his faith in those he spoke for dwindling, and his sense of self blooming.",
+    "BASTIAN_FAIL": "..and so he vanished, a single spark among the current of change.",
+    "BASTIAN_M1": "Ion Swing",
+    "BASTIAN_M1_DESCRIPTION": "Punch for <style=cIsDamage>250% damage</style>. Builds <style=cIsUtility>Ion Charges</style>. Damage is halved while <color=#E9AFEA>Evasive</color>.",
+    "BASTIAN_M2": "Micro-Bullet",
+    "BASTIAN_M2_DESCRIPTION": "Fire up to 5 stunning energy bullets, each dealing <style=cIsDamage>250% damage</style>. Has no cooldown and does not stun while <color=#E9AFEA>Evasive</color>.",
+    "BASTIAN_UTIL": "Nano-Spring",
+    "BASTIAN_UTIL_DESCRIPTION": "Dash rapidly in any direction, stunning enemies in your path.",
+    "BASTIAN_SPEC": "Architect Burst",
+    "BASTIAN_SPEC_DESCRIPTION": "Spend <style=cIsHealth>33% current health</style> and <style=cIsUtility>all Ionic Charges</style> for a massive explosion of <style=cIsDamage>500%-3000% damage</style>. After use, become <color=#E9AFEA>Evasive</color> for 10 seconds.",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>Evasive</style><style=cSub>Gain 35% movement speed and 20% regeneration, and augment your abilities.</style>",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "Default",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "Creator",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "As Translator, beat the game or obliterate on Monsoon.",
+    "BASTIAN_LORE": "A local robot, built to help negotiate deals with foreign planetary bodies. His original purpose was to function as a middle-man, designed to survive on planets with air and temps that a normal human couldn't withstand. He was brought aboard the UES Contact Light as part of a backup plan, in case any negotiations for the survival of the other crew members came into play. However, he ended up being reprogrammed for combat, despite this being a simple grab-and-go mission."
+  }
 }
