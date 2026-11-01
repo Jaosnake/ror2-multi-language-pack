@@ -31,7 +31,7 @@ internal static class PeleStartupDiagnostics
 
     private static void LogPeleFolders()
     {
-        var languageRoot = Path.Combine(Paths.PluginPath, "PELE", "Language");
+        var languageRoot = PelePaths.LanguageRoot(Paths.PluginPath);
         if (!Directory.Exists(languageRoot))
         {
             LanguagePlugin.Logger?.LogWarning("PELE/Language nao encontrado: " + languageRoot);
@@ -67,7 +67,7 @@ internal static class PeleStartupDiagnostics
 
     private static void LogCyrillicFontBundle()
     {
-        var fontPath = Path.Combine(Paths.PluginPath, "PELE", "Fonts", "cyrillicfont");
+        var fontPath = PelePaths.CyrillicFont(Paths.PluginPath);
         if (File.Exists(fontPath))
             LanguagePlugin.Logger?.LogInfo("PELE/Fonts/cyrillicfont encontrado.");
         else

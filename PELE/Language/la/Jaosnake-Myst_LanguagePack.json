@@ -1,6 +1,6 @@
 {
     "strings": {
-        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tene</style>, ut valde minuas inveniens frontale vulnus, accipiens <style=cIsUtility>Limit</style> secundum vulnus bloccati. Si <style=cIsUtility>recte tempus</style>: nullificat vulnus omnium directionum, frigus peritiam, restaurat <style=cIsUtility>Magicae Potentiae</style> secundum vulnus bloccati, accipit <style=cIsUtility>duplicem Limit</style> et reflectit usque ad</style>0__3x vulnus</style>1__ bloccatum proximo hosti.",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tene</style>, ut valde minuas inveniens frontale vulnus, accipiens <style=cIsUtility>Limit</style> secundum vulnus bloccati. Si <style=cIsUtility>recte tempus</style>: nullificat vulnus omnium directionum, frigus peritiam, restaurat <style=cIsUtility>Magicae Potentiae</style> secundum vulnus bloccati, accipit <style=cIsUtility>duplicem Limit</style> et reflectit usque ad <style=cIsDamage>3x vulnus</style> bloccatum proximo hosti.",
         "BASEFORM_BLOCK_NAME": "Phantom",
         "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Labere brevem distantiam in quavis directione horizontali.",
         "BASEFORM_DASH_NAME": "Rush",
@@ -8,7 +8,7 @@
         "BASEFORM_LIMITMENU_NAME": "Menu Limit",
         "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Seca hostes ante te, inferens <style=cIsDamage>165% vulneris</style>.",
         "BASEFORM_SLASH_NAME": "Vorpal Slash",
-        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tene</style>, ut valde minuas inveniens frontale vulnus, accipiens <style=cIsUtility>Limit</style> secundum vulnus bloccati. Si <style=cIsUtility>recte tempus</style>: nullificat vulnus omnium directionum, frigus peritiam, restaurat <style=cIsUtility>Magicae Potentiae</style> secundum vulnus bloccati, accipit <style=cIsUtility>duplicem Limit</style> et reflectit usque ad</style>0__3x vulnus</style>1__ bloccatum proximo hosti.",
+        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tene</style>, ut valde minuas inveniens frontale vulnus, accipiens <style=cIsUtility>Limit</style> secundum vulnus bloccati. Si <style=cIsUtility>recte tempus</style>: nullificat vulnus omnium directionum, frigus peritiam, restaurat <style=cIsUtility>Magicae Potentiae</style> secundum vulnus bloccati, accipit <style=cIsUtility>duplicem Limit</style> et reflectit usque ad <style=cIsDamage>3x vulnus</style> bloccatum proximo hosti.",
         "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_NAME": "Phantom",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Labere brevem distantiam in quavis directione horizontali.",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_NAME": "Rush",

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -78,6 +78,9 @@ public static partial class LanguageAPI
         {
             if (dict.TryGetValue(lang, out var langDict) && langDict.TryGetValue(token, out value))
                 return true;
+            var alias = PelePaths.LanguageAlias(lang);
+            if (alias != null && dict.TryGetValue(alias, out var aliasDict) && aliasDict.TryGetValue(token, out value))
+                return true;
             if (dict.TryGetValue(GenericLanguage, out var genericDict) && genericDict.TryGetValue(token, out value))
                 return true;
             value = null;
@@ -94,7 +97,9 @@ public static partial class LanguageAPI
         _rwLock.EnterReadLock();
         try
         {
+            var alias = PelePaths.LanguageAlias(lang);
             return (dict.TryGetValue(lang, out var ld) && ld.ContainsKey(token))
+                || (alias != null && dict.TryGetValue(alias, out var ad) && ad.ContainsKey(token))
                 || (dict.TryGetValue(GenericLanguage, out var gd) && gd.ContainsKey(token));
         }
         finally
@@ -557,7 +562,7 @@ public static partial class LanguageAPI
         try { _cachedLanguageFileCount = Directory.GetFiles(Paths.PluginPath, "*.language", SearchOption.AllDirectories).Length; }
         catch (Exception ex) { Log?.LogWarning("GetLanguageFileCount: " + ex.Message); _cachedLanguageFileCount = 0; }
 
-        var peleDir = System.IO.Path.Combine(Paths.PluginPath, "PELE", "Language");
+        var peleDir = PelePaths.LanguageRoot(Paths.PluginPath);
         try
         {
             _cachedPeleJsonFileCount = Directory.Exists(peleDir) ? Directory.GetFiles(peleDir, "*.json", SearchOption.AllDirectories).Length : 0;
@@ -620,7 +625,7 @@ public static partial class LanguageAPI
         var result = new Dictionary<string, int>();
         try
         {
-            var peleDir = System.IO.Path.Combine(Paths.PluginPath, "PELE", "Language");
+            var peleDir = PelePaths.LanguageRoot(Paths.PluginPath);
             if (!Directory.Exists(peleDir)) return result;
 
             foreach (var langDir in Directory.GetDirectories(peleDir))
@@ -689,12 +694,14 @@ public static partial class LanguageAPI
         public string key;
         public string value;
         public string lang;
+        public bool isGeneric;
 
         internal OverlayTokenData(string _key, string _value, string _lang)
         {
             key = _key;
             value = _value;
             lang = _lang;
+            isGeneric = _lang == GenericLanguage;
         }
 
         internal OverlayTokenData(string _key, string _value)
@@ -702,6 +709,7 @@ public static partial class LanguageAPI
             key = _key;
             value = _value;
             lang = GenericLanguage;
+            isGeneric = true;
         }
     }
 }

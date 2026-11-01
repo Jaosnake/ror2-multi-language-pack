@@ -1,14 +1,14 @@
 {
     "strings": {
-        "BOG_MORRIS_BODY_NAME": "Pollinctor",
-        "BOG_MORRIS_BODY_DESCRIPTION": "Pollinctor est necromanticus comminus tardus sed firmus, qui exercitu suo mortuorum vivorum territorium regere excellit.",
-        "BOG_MORRIS_BODY_SUBTITLE": "Mortuus Vivus",
+        "BOG_MORRIS_BODY_NAME": "Mortician",
+        "BOG_MORRIS_BODY_DESCRIPTION": "Mortician est necromanticus comminus tardus sed firmus, qui exercitu suo mortuorum vivorum territorium regere excellit.<color=#CCD3E0>\n\n< ! > Ghuli pala tua proiecti hostibus maioribus adhaerent eosque iterum atque iterum mordent.\n\n< ! > Ghuli te sequi non conantur, sed tantum ad suos hostes attendunt.\n\n< ! > Turbas hostium volantum celeriter delere potes ghulos alte iaciendo atque in aere sacrificando.\n\n< ! > Lapide sepulcrali potes regionem efficaciter e longinquo regere.\n\n</color>",
+        "BOG_MORRIS_BODY_SUBTITLE": "Mortuus ambulans",
         "BOG_MORRIS_BODY_OUTRO_FLAVOR": "..atque ita discessit, officio suo lugubri nondum completo.",
         "BOG_MORRIS_BODY_OUTRO_FAILURE": "..atque ita evanuit, tandem pace quam tantum cupiverat donatus.",
-        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Defalta",
+        "BOG_MORRIS_BODY_DEFAULT_SKIN_NAME": "Ordinarius",
         "BOG_MORRIS_BODY_MASTERY_SKIN_NAME": "Magisterium",
         "BOG_MORRIS_BODY_PASSIVE_NAME": "Oblatio Animae",
-        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghuli <style=cIsUtility>effectus suos mortis activant</style> cum occiduntur.",
+        "BOG_MORRIS_BODY_PASSIVE_DESCRIPTION": "Ghuli, cum occiduntur, <style=cIsUtility>effectus tuos caedis excitant</style>.",
         "BOG_MORRIS_BODY_PRIMARY_SHOVEL_NAME": "Ictus Palae",
         "BOG_MORRIS_BODY_PRIMARY_SHOVEL_DESCRIPTION": "Palam tuam vibra pro <style=cIsDamage>800% damno</style>. Ghulos et lapides sepulcrales pala feriens <style=cIsUtility>iactum</style> causat pro <style=cIsDamage>350% damno</style>.",
         "BOG_MORRIS_BODY_SECONDARY_GHOUL_NAME": "Mortuos Excita",
@@ -17,10 +17,15 @@
         "BOG_MORRIS_BODY_UTILITY_LANTERN_DESCRIPTION": "Ghulum destinatum <style=cIsHealth>displode</style> pro <style=cIsDamage>700% damno</style> et <style=cIsHealing>15% maximae valetudinis tuae sana</style>.",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_NAME": "Lapis Sepulcralis",
         "BOG_MORRIS_BODY_SPECIAL_TOMBSTONE_DESCRIPTION": "Erige Lapidem Sepulcralem qui ghulum singulis <style=cIsUtility>10 secundis</style> generat. Quotiens ghulus occiditur, sepulcrum <style=cIsDamage>animam ultricem</style> <style=cIsUtility>explosivam</style> generat quae hostem propinquum pro <style=cIsDamage>350% damno</style> petit.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Pollinctor: Magisterium",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Ut Pollinctor, ludum vince aut te oblitera in Monsoon.",
-        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Pollinctor: Magisterium",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Morris: Mastery",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Ut Mortician, ludum vince aut te oblitera in Monsoon.",
+        "BOG_MORRIS_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Morris: Mastery",
         "BOG_GHOUL_BODY_NAME": "Ghulus",
-        "BOG_TOMBSTONE_BODY_NAME": "Lapis Sepulcralis"
+        "BOG_TOMBSTONE_BODY_NAME": "Lapis Sepulcralis",
+        "KEYWORD_LINKED": "<style=cKeywordName>Vinculum Animae</style><style=cSub>Ghuli res tuas non accipiunt, sed omne damnum quod inferunt tuum habetur.</style>",
+        "KEYWORD_EXHAUST": "<style=cKeywordName>Defatigatio</style><style=cSub>Celeritatem motus et damnum minuit per <style=cIsUtility>30%</style>. Refrigerationes auget per <style=cIsUtility>20%</style>.</style>",
+        "BOG_MORRIS_BODY_LORE": "Deus nos reliquit.\n\nRe vera non credo eum umquam nostri curam habuisse.\n\nUltra extremos intellectus humani fines est regnum, quo omnes aliquando venire damnati sumus. Non est regnum portarum margaritarum et angelorum, neque ignis et sulphuris, sed tenebrarum et desperationis. Est carcer abyssalis, in quo omnes captivi ad nudas notitias rediguntur. Eum regunt entia curiosa et sinistra, quae nos explorabunt et cruciabunt ac per aeternitatem experimenta crudelia in nobis facient.\n\nOmnis anima, quam ex illo misero loco extraho, mihi fabulam narrat. Quaedam coguntur dolorem gravissimum quem umquam senserunt iterum atque iterum pati. Aliae in tenebris aeternis et solitariis pendent, sine consortio aut ullo sensu. Quaedam mihi de cancris et squillis narrant. Omnes me obsecrant ne eas illo remittam. Nova corpora his animis habitanda facere potui; si moriuntur, animae rursus ad me redeunt.\n\nCreaturae quae illum carcerem regunt in somniis ad me veniunt. Me derident et narrant quid mihi facturi sint, cum mortuus in eorum ungues incidero. Scio consilia eorum multo atrociora esse quam quidquid diabolus mihi facere possit. Quaeque anima servata est aliud ludibrium quod eis eripio; me poenas dare cogent quod eorum ludum perdidi.\n\nSenui, et mea quoque hora mox veniet. Itaque constitui viam ad illud regnum invenire, eius improbos dominos occidere et omnes captivos liberare.\n\nNon solus id faciam: animae quas liberavi mecum pugnabunt. Illae me ducent, ego illas ducam. Una morti sanctitatem et nobis pacem promissam restituemus.",
+        "BOG_GHOUL_BODY_DEFAULT_SKIN_NAME": "Ordinarius",
+        "BOG_TOMBSTONE_BODY_DEFAULT_SKIN_NAME": "Ordinarius"
     }
 }

@@ -87,6 +87,7 @@ internal static class LanguageFileHelper
 
         if (name.EndsWith("_eo",    StringComparison.OrdinalIgnoreCase)) return "eo";
         if (name.EndsWith("_la",    StringComparison.OrdinalIgnoreCase)) return "la";
+        if (name.EndsWith("_ua", StringComparison.OrdinalIgnoreCase)) return "uk";
         if (name.EndsWith("_uk",    StringComparison.OrdinalIgnoreCase)) return "uk";
         if (name.EndsWith("_pt-BR", StringComparison.OrdinalIgnoreCase)) return "pt-BR";
         if (name.EndsWith("_en",    StringComparison.OrdinalIgnoreCase)) return "en";

@@ -1,6 +1,6 @@
 {
     "strings": {
-        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tenu</style>, por signife malpliigi envenantan frontan damagxon, ricevante <style=cIsUtility>Limon</style> surbaze de blokita damagxo. Se <style=cIsUtility>tempita gxuste</style>: nuligas damagxon de cxiuj direktoj, malvarmumas la kapablon, restauxras <style=cIsUtility>Magian Poton</style> surbaze de blokita damagxo, gajnas <style=cIsUtility>duoblan Limon</style> kaj respegulas gxis</style>0__3x damagxon</style>1__ blokita al proksimaj malamikoj.",
+        "BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tenu</style>, por signife malpliigi envenantan frontan damagxon, ricevante <style=cIsUtility>Limon</style> surbaze de blokita damagxo. Se <style=cIsUtility>tempita gxuste</style>: nuligas damagxon de cxiuj direktoj, malvarmumas la kapablon, restauxras <style=cIsUtility>Magian Poton</style> surbaze de blokita damagxo, gajnas <style=cIsUtility>duoblan Limon</style> kaj respegulas gxis <style=cIsDamage>3x damagxon</style> blokita al proksimaj malamikoj.",
         "BASEFORM_BLOCK_NAME": "Fantomo",
         "BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Rapida</style>. Glitu mallongan distancon en iu ajn horizontala direkto.",
         "BASEFORM_DASH_NAME": "Rush",
@@ -8,7 +8,7 @@
         "BASEFORM_LIMITMENU_NAME": "Limmenuo",
         "BASEFORM_SLASH_DESCRIPTION": "<style=cIsUtility>Rapida</style>. Trancxu malamikojn antaux vi, farante <style=cIsDamage>165% damagxon</style>.",
         "BASEFORM_SLASH_NAME": "Vorpal Slash",
-        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tenu</style>, por draste malpliigi envenantan frontan damagxon, gajnante <style=cIsUtility>Limon</style> surbaze de damagxo blokita. Se <style=cIsUtility>tempita gxuste</style>: nuligas damagxon de cxiuj direktoj, malvarmumas la kapablon, restauxras <style=cIsUtility>Magian Poton</style> surbaze de damagxo blokita, gajnas <style=cIsUtility>duoblan Limon</style> kaj respegulas gxis</style>0__3x damagxon</style>1__ blokita al proksimaj malamikoj.",
+        "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_DESCRIPTION": "<style=cIsUtility>Tenu</style>, por draste malpliigi envenantan frontan damagxon, gajnante <style=cIsUtility>Limon</style> surbaze de damagxo blokita. Se <style=cIsUtility>tempita gxuste</style>: nuligas damagxon de cxiuj direktoj, malvarmumas la kapablon, restauxras <style=cIsUtility>Magian Poton</style> surbaze de damagxo blokita, gajnas <style=cIsUtility>duoblan Limon</style> kaj respegulas gxis <style=cIsDamage>3x damagxon</style> blokita al proksimaj malamikoj.",
         "JAVANGLE_MYST_BODY_BASEFORM_BLOCK_NAME": "Fantomo",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_DESCRIPTION": "<style=cIsUtility>Rapida</style>. Glitu mallongan distancon en iu ajn horizontala direkto.",
         "JAVANGLE_MYST_BODY_BASEFORM_DASH_NAME": "Rush",

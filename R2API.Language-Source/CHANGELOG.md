@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.3 - Loader and optional mod integration
+
+- Recognize P.E.L.E language files and the Cyrillic font in mod-manager installations as well as the direct folder layout.
+- Resolve Ukrainian `UA` and `uk` language codes as aliases while preserving exact-code priority.
+- Include an optional KingModUtilities integration for Goku, Vegeta, and Trunks, plus associated three-language files.
+- Update included translation files and document current coverage limitations.
+
 ## 1.0.2 - README cleanup
 
 - TOO MUCH STUFF IN README LOL GO TO WIKI.

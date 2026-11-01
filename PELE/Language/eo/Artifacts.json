@@ -26,7 +26,7 @@
     "ARTIFACT_SHADOWCLONE_DESCRIPTION": "Via sencxesa duoblulo invados cxiujn 10 minutojn.",
     "ARTIFACT_TEAMDEATH_NAME": "Artefakto de Morto",
     "ARTIFACT_TEAMDEATH_DESCRIPTION": "Kiam unu ludanto mortas, cxiuj mortas. Ebligu nur se vi volas vere meti vian teamlaboron kaj individuan kapablon al la finfina provo.",
-    "ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>@@La morto de T0@@ ondedas.</b></style>",
+    "ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>La morto de {0} ondedas.</b></style>",
     "ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Via forpaso havas katastrofan efikon.</b></style>",
     "ARTIFACT_SWARMS_NAME": "Artefakto de Svarmoj",
     "ARTIFACT_SWARMS_DESCRIPTION": "Monstrogenoj estas duobligitaj, sed monstromaksimuma sano estas duonigita.",

@@ -1,22 +1,25 @@
 {
-    "strings":  {
-                    "BASTIAN_UTIL":  "Saltus Nanoticus",
-                    "BASTIAN_ROO_DESCRIPTION":  "Bastian Interpres, Machina 4.I.N.K.",
-                    "BASTIANBODY_MASTERY_SKIN_NAME":  "Peritia",
-                    "BASTIAN_M2_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eAgilis\u003c/style\u003e. Usque ad 5 glandes energiae iacula, quaeque pro \u003cstyle=cIsDamage\u003e250% damno\u003c/style\u003e. \u003cstyle=cIsUtility\u003eOnera Ionica\u003c/style\u003e aedificat. Stuporem non applicat dum Evasivus.",
-                    "BASTIAN_OUTRO":  "..atque ita discessit, munere suo tandem expleto.",
-                    "BASTIAN_M1_DESCRIPTION":  "\u003cstyle=cIsDamage\u003eComminus\u003c/style\u003e. \u003cstyle=cIsUtility\u003eAgilis\u003c/style\u003e. Hostes ante te feri pro \u003cstyle=cIsDamage\u003e250% damno\u003c/style\u003e. \u003cstyle=cIsUtility\u003eOnera Ionica\u003c/style\u003e aedificat. Damnum dimidiatur dum Evasivus.",
-                    "BASTIAN_M1":  "Ictus Ionicus",
-                    "BASTIAN_FAIL":  "..atque ita deactivatus est, memoria eius in perpetuum deleta.",
-                    "BASTIAN_DESCRIPTION":  "Machina localis, ad de pace cum corporibus planetarum alienarum adiuvandum fabricata. Propositum eius primum erat internuntium agere, ut planetis cum aere et temperaturis quae homo ordinarius tolerare non possit superesset. In navem UES Contact Light ut pars consilii necessitatis inducta est. Attamen, ad pugnam denuo programmata esse contigit, quamquam haec missio simplex portandi causae erat.",
-                    "BASTIAN_SUBTITLE":  "Machina Translationis Instaurata",
-                    "BASTIANBODY_DEFAULT_SKIN_NAME":  "Defalta",
-                    "BASTIAN_M2":  "Glans Minuta",
-                    "BASTIAN_UTIL_DESCRIPTION":  "\u003cstyle=cIsUtility\u003eExerce\u003c/style\u003e celerem impulsum in quamlibet directionem. \u003cstyle=cIsUtility\u003eOnera Ionica\u003c/style\u003e aedificat.",
-                    "BASTIAN_SPEC":  "Explosio Architecti",
-                    "BASTIAN_SPEC_DESCRIPTION":  "Consume \u003cstyle=cIsHealth\u003e33% valetudinis praesentis\u003c/style\u003e et \u003cstyle=cIsUtility\u003eomnia Onera Ionica\u003c/style\u003e pro explosione ingenti \u003cstyle=cIsDamage\u003e500%-3,000% damni\u003c/style\u003e. Post usum, per 10 secundas \u003ccolor=#E9AFEA\u003eEvasivus\u003c/color\u003e fias.",
-                    "BASTIAN_NAME":  "Bastian",
-                    "BASTIAN_NAME_EPIC":  "Bastian Interpres, Machina 4.I.N.K.",
-                    "BASTIAN_SPEC_KEYWORD":  "Speciale"
-                }
+  "strings": {
+    "BASTIAN_UTIL": "Saltus Nanoticus",
+    "BASTIAN_ROO_DESCRIPTION": "Bastian Interpres, Machina 4.I.N.K.",
+    "BASTIANBODY_MASTERY_SKIN_NAME": "Creator",
+    "BASTIAN_M2_DESCRIPTION": "Mitte usque ad 5 glandēs energiae stupefacientes, quarum singulae <style=cIsDamage>250% damni</style> inferunt. Dum <color=#E9AFEA>Evasivus</color> es, mora refectionis abest nec stupefacit.",
+    "BASTIAN_OUTRO": "..atque ita discessit, fide in eos pro quibus loquebatur decrescente et conscientia sui florescente.",
+    "BASTIAN_M1_DESCRIPTION": "Ictu pugni <style=cIsDamage>250% damni</style> inflige et <style=cIsUtility>onera ionica</style> accumula. Dum <color=#E9AFEA>Evasivus</color> es, damnum dimidiatur.",
+    "BASTIAN_M1": "Ictus Ionicus",
+    "BASTIAN_FAIL": "..atque ita evanuit, una scintilla in flumine mutationis.",
+    "BASTIAN_DESCRIPTION": "Interpres rebellis. Hoc exemplar novum et emendatum maiora quam exemplaria priora efficere studet, quibuscumque mediis necessariis.<style=cSub>\r\n\r\n< ! > Ictus Ionicus utere ut damnum Explosio Architecti accumules.\n</style><style=cSub>\r\n\r\n< ! > Glans Minuta minas imminentes stupefacit, ut in pugna manere possis.\n</style><style=cSub>\r\n\r\n< ! > Saltus Nanoticus hostes stupefacit et e turba effugere sinit, pauca secunda quietis praebens.\n</style><style=cSub>\r\n\r\n< ! > SOLIS CASIBUS NECESSITATIS! Omnia exemplaria Bastian apparatu ionico sui usus / detonationis internae ad necessitates, nomine Explosio Architecti, instructa sunt; is exemplar et omnia circumiecta detonabit. Superesse potest, sed tantum si STATIM post usum agas.</style>",
+    "BASTIAN_SUBTITLE": "Exemplar 4.I.N.K.",
+    "BASTIANBODY_DEFAULT_SKIN_NAME": "Ordinarius",
+    "BASTIAN_M2": "Glans Minuta",
+    "BASTIAN_UTIL_DESCRIPTION": "Celeriter in quamlibet partem prorue, hostes in via stupefaciens.",
+    "BASTIAN_SPEC": "Explosio Architecti",
+    "BASTIAN_SPEC_DESCRIPTION": "Consume <style=cIsHealth>33% valetudinis praesentis</style> et <style=cIsUtility>omnia Onera Ionica</style> pro explosione ingenti <style=cIsDamage>500%-3000% damni</style>. Post usum, per 10 secundas <color=#E9AFEA>Evasivus</color> fias.",
+    "BASTIAN_NAME": "Translator",
+    "BASTIAN_NAME_EPIC": "Bastian",
+    "BASTIAN_SPEC_KEYWORD": "<style=cKeywordName>Evasivus</style><style=cSub>Accipe 35% velocitatis motus et 20% regenerationis, atque facultates auge.</style>",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_NAME": "Translator: Mastery",
+    "ACHIEVEMENT_BASTIANMASTERYACHIEVEMENT_DESCRIPTION": "Ut Translator, ludum perfice aut te ipsum in Monsoon dele.",
+    "BASTIAN_LORE": "Machina localis, ad de pace cum corporibus planetarum alienarum adiuvandum fabricata. Propositum eius primum erat internuntium agere, ut planetis cum aere et temperaturis quae homo ordinarius tolerare non possit superesset. In navem UES Contact Light ut pars consilii necessitatis inducta est. Attamen, ad pugnam denuo programmata esse contigit, quamquam haec missio simplex portandi causae erat. Consilium, si necesse esset, de salute ceterorum sodalium tractare praevidebat."
+  }
 }

@@ -663,3 +663,41 @@ Formato: PELE JSON, {"strings": {...}}, UTF-8 sen BOM.
 Esperanto uzas x-sistemon (ĉ=cx, ĝ=gx, ĵ=jx, ŝ=sx, ŭ=ux).
 
 Ne redakti cxi tiujn dosierojn. Se necesas korekto, sciigu la cxefan.
+
+
+---
+
+## 8. NOVOS MODS TRADUZIDOS E ATUALIZAÇÃO CLOUDBURST (01/11/2026)
+
+O usuário baixou novos pacotes via Thunderstore e foram criadas do zero (e atualizadas) as traduções completas para **todos os 15 idiomas** (`de`, `en`, `eo`, `es-419`, `es-ES`, `FR`, `IT`, `ja`, `ko`, `la`, `pt-BR`, `RU`, `tr`, `UA`, `zh-CN`), devidamente empacotadas com o ícone padrão (`icon.png`), validadas sem BOM, com tags balanceadas e disponibilizadas em `C:\Users\jaosn\Desktop\RoR 2 Tradução Revisada\` e no diretório ativo de plugins do jogo (`BepInEx/plugins/`):
+
+1. **Cloudburst (`TeamCloudburst-Cloudburst` v0.5.0)**:
+   - **Pacote:** `Jaosnake-Cloudburst_LanguagePack-1.0.3.zip` (49 arquivos).
+   - **Tokens:** 78 tokens por idioma (9 em `Cloudburst`, 47 em `Items`, 22 em `Wyatt`).
+   - **Atualização:** Comparado lado a lado com a versão 0.5.0 oficial. Adicionadas as traduções faltantes em Esperanto (`eo` com x-system) e Latim (`la`), além de balanceamento de tag `</color>` em `CLOUDBURST_WYATT_DESCRIPTION`.
+   - **P.E.L.E:** Incluído aviso explícito no README com link para download do [P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/), necessário para habilitar Ucraniano, Esperanto e Latim in-game.
+
+2. **Caeli Imperium (`Brynzananas-Caeli_Imperium` v0.13.3)**:
+   - **Pacote:** `Jaosnake-Caeli_Imperium_LanguagePack-1.0.0.zip` (19 arquivos).
+   - **Tokens:** 69 tokens por idioma extraídos da DLL oficial.
+   - **Detalhes:** 100% dos placeholders dinâmicos de escalonamento de atributos (`{0}`, `{1}`, `{2}`, `{3}`, `{4}`) preservados. P.E.L.E obrigatório para `UA`, `eo` e `la`.
+
+3. **Celestial War Tank (`CheeseWithHoles-Celestial_War_Tank` v2.3.13)**:
+   - **Pacote:** `Jaosnake-Celestial_War_Tank_LanguagePack-1.0.0.zip` (19 arquivos).
+   - **Tokens:** 379 tokens por idioma reconstruídos da DLL + AssetBundle `tanksbundle1`.
+   - **Detalhes:** Cobre os 17 cascos e 17 torretas do Celestial War Tank + os 11 cascos e torretas do experimental Mega War Tank, Ancient Scepter, camuflagens, atributos calculados e conquistas. P.E.L.E obrigatório para `UA`, `eo` e `la`.
+
+4. **Ganondorf (`Ethanol10-Ganondorf_Mod` v3.2.4)**:
+   - **Pacote:** `Jaosnake-Ganondorf_LanguagePack-1.0.0.zip` (19 arquivos).
+   - **Tokens:** 67 tokens por idioma extraídos da DLL oficial.
+   - **Detalhes:** Habilidades, passiva Triforce, Ancient Scepter (Ganon's Frigid Flame), 9 skins (incluindo Doomguy) e conquistas. P.E.L.E obrigatório para `UA`, `eo` e `la`.
+
+5. **Vegeta (`kinggrinyov-Vegeta` v1.3.2)**:
+   - **Pacote:** `Jaosnake-Vegeta_LanguagePack-1.0.0.zip` (19 arquivos).
+   - **Tokens:** 37 tokens por idioma extraídos da DLL oficial.
+   - **Detalhes:** Habilidades de Ki/golpes, transformações Super Saiyan até Blue Evolved, skins e conquista. P.E.L.E obrigatório para `UA`, `eo` e `la`.
+
+6. **Trunks (`kinggrinyov-Trunks` v1.0.5)**:
+   - **Pacote:** `Jaosnake-Trunks_LanguagePack-1.0.0.zip` (19 arquivos).
+   - **Tokens:** 31 tokens por idioma extraídos da DLL oficial.
+   - **Detalhes:** Habilidades de espada/Ki, transformações Super Saiyan, lore, skins e conquista. P.E.L.E obrigatório para `UA`, `eo` e `la`.

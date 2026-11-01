@@ -86,7 +86,7 @@ internal static class CustomLanguageRegistration
             nameField?.SetValue(langObj, lang);
 
             var setFolders = typeof(Language).GetMethod("SetFolders", BindingFlags.Instance | BindingFlags.NonPublic);
-            var peleDir = System.IO.Path.Combine(Paths.PluginPath, "PELE", "Language");
+            var peleDir = PelePaths.LanguageRoot(Paths.PluginPath);
             var subPath = System.IO.Path.Combine(peleDir, lang);
             if (Directory.Exists(subPath))
                 setFolders?.Invoke(langObj, new object[] { new[] { subPath } });

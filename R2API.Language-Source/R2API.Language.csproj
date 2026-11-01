@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <AssemblyName>R2API.Language</AssemblyName>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <RootNamespace>R2API</RootNamespace>
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>12</LangVersion>
