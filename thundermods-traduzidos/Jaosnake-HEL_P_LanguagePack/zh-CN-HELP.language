@@ -22,6 +22,12 @@
     "FIRE A DEVASTATING PULSE CANNON THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>4000%</style>.": "发射毁灭性的脉冲炮，<style=cIsHealth>伤害敌人</style>并<style=cIsHealing>治疗盟友</style>，效果为<style=cIsDamage>4000%</style>。",
     "Jellyfish": "水母",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "电击一名敌人，使其<style=cIsUtility>感电</style>并受到<style=cIsDamage>30%</style>伤害。<style=cIsUtility>最多储存3次充能。</style>",
-    "Wisp": "幽魂"
+    "Wisp": "幽魂",
+    "PLASMA CUTTER": "等离子切割器",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "蓄力发射灼热的等离子光束，造成<style=cIsDamage>每秒270%-630%伤害</style>。",
+    "NANO-BEAM": "纳米光束",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "发射纳米脉冲炮，<style=cIsHealth>伤害敌人</style>并<style=cIsHealing>治疗盟友</style>，两者均为基础伤害的<style=cIsDamage>320%</style>。",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "发射能量弹幕，<style=cIsHealth>伤害敌人</style>并<style=cIsHealing>治疗盟友</style>，效果为<style=cIsDamage>5x500%</style>。<style=cIsUtility>最多储存3次充能。</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "发射毁灭性的爆破，<style=cIsHealth>伤害敌人</style>并<style=cIsHealing>治疗盟友</style>，效果根据<style=cIsUtility>消耗的充能数</style>为<style=cIsDamage>2500-7500%</style>。"
   }
 }

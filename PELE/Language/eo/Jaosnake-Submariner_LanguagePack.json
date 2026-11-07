@@ -1,0 +1,25 @@
+{
+    "strings": {
+        "KENKO_SUBMARINER_NAME": "Submariner",
+        "KENKO_SUBMARINER_DESCRIPTION": "La Submariner estas peza proksimbatala batalanto, kiu dependas de amasregado kaj fortikeco por regi la batalon.<color=#CCD3E0>\n\n< ! > Konservu la premon per proksimbatalaj batoj por senrompe regeneri sanon.\n\n< ! > Uzu Envolvi por tiri pli malgrandajn malamikojn al vi kaj uzi gxin por eviti atakojn frapante pli grandajn malamikojn.\n\n< ! > Ehxina Mino estas bonega maniero rapide eskapi el glueca situacio kaj starigi alt-damagxajn minojn por poste.\n\n< ! > Restu ene de la intervalo de Malsuprenigu la Ankron!, cxar la movrapida plifortigo povas esti nekredebla ilo por batali.\n\n</color>",
+        "KENKO_SUBMARINER_SUBTITLE": "Profundoj de la Abismo",
+        "KENKO_SUBMARINER_LORE": "",
+        "KENKO_SUBMARINER_OUTRO_FLAVOR": "..kaj tiel sxi foriris, neniam plu lasota sola.",
+        "KENKO_SUBMARINER_OUTRO_FAILURE": "..kaj tiel sxi malaperis, kun nur silento cxe sia flanko.",
+        "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abisma",
+        "KENKO_SUBMARINER_PASSIVE_NAME": "Beno de N'kuhana",
+        "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Frapi malamikojn per <style=cIsDamage>proksimbatalaj atakoj</style> donas <style=cIsHealing>Restarigon de N'kuhana</style>.",
+        "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811 Ankra Aparato",
+        "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Svingu antauxen, kauxzante <style=cIsDamage>450% da damagxo</style>.",
+        "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Envolvi",
+        "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Pafu harpunon, kauxzantan <style=cIsDamage>150% da damagxo</style>. <style=cIsUtility>Tiras</style> malgrandajn malamikojn al vi kaj <style=cIsUtility>tiras</style> vin al grandaj malamikoj. Kolizio kun granda malamiko donas <style=cIsDamage>300% da damagxo</style> kaj poste komencas <style=cIsUtility>retrosalton.</style>",
+        "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Eksploda Ehxino",
+        "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>Retrosaltu</style> pafante <style=cIsHealing>Ehxinan Minon</style>, kiu kauxzas <style=cIsDamage>700% da damagxo</style>.",
+        "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Plej Bona Amiko de la Sekto",
+        "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Murdisto.</style> Rajdu <style=cIsHealing>Beston</style>, kiu rapide kuras antauxen kauxzante <style=cIsDamage>700% da damagxo</style>. Mortigi malpezan malamikon <style=cIsUtility>akcelas</style> la <style=cIsHealing>Beston</style> kaj pliigas la donitan <style=cIsDamage>damagxon</style>. Kolizio kun grandaj malamikoj haltigas vin kaj <style=cIsUtility>miregigas</style> la malamikon.",
+        "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Malsuprenigu la Ankron!",
+        "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Jxetu vian ankron, kauxzante <style=cIsDamage>1200% da damagxo</style> cxe trafado. Kuri al la ankro pliigas vian <style=cIsUtility>movrapidecon</style>, dum malproksimigxo de gxi <style=cIsDamage>malrapidigas</style> vin. Tro malproksimigxi <style=cIsHealth>rompas</style> la cxenon de la ankro, donante eksplodon de <style=cIsUtility>movrapideco</style>.",
+        "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Majstreco",
+        "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Kiel Submariner, venku la ludon aux forvisxu vin en Monsoon."
+    }
+}

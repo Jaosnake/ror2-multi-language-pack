@@ -1,7 +1,7 @@
 {
     "en": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "The Arsonist is a short-range tank that uses fire as a means to an end. Managing his Overheat gauge allows him to deal high amounts of damage to groups of enemies. Balance is crucial for victory.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "The Arsonist is a close-ranged tank who uses fire as a means to an end. Managing his Overheat meter allows him to deal high amounts of damage to groups of enemies. Balance is crucial to victory.\n\n< ! > Your attacks will be weaker when you're overheating. If you're in a tight spot, Cleanse can immediately end the overheating period in exchange for extending its cooldown duration.\n\n< ! > Masochism's Anticipation stacks still build during the ability's duration, meaning you can activate it early and exit with the max duration.\n\n< ! > Cleanse can remove the fire debuff from your passive. Use it to get out of a pinch.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Maniac Pyromaniac",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Normal Gauge",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Deal <style=cIsDamage>100%</style> damage on the white portion. The Base Gauge is resistant to Overheat.</i>",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "As Arsonist, beat a stage without overheating.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Kill a teleporter boss while it is ignited.",
+        "POPCORN_ARSONIST_BODY_LORE": "A u d i o  r e c o r d i n g  t a k e n  f r o m  p e r s o n a l  r e c o r d i n g  d e v i c e .\n\nP r i n t i n g  t r a n s c r i p t . . .\n\nJoining the UES proved to be easy. Especially with their job listings. \n\nA demolitions expert is not much different from the type of work that I already do. And yes, arson is work. The military had been kind enough to leave the old equipment of the Incendiary Unit lying around for keen eyes like mine to find. It wasn’t difficult learning exactly what they were trying to do with that unit, and it was a damned shame that they shut it down.\n\nThey were brilliant. They were brilliant, and the UES told them they were psychopaths. I was only able to barely salvage the remnants of what little hadn’t been completely destroyed. Even then, I haven’t gotten much of a chance to test my restorations with the high security of my division.\n\nI heard from a colleague that there was a job happening. Some sort of rescue mission aboard the UES Safe Travels to an uncharted planet. I’ve heard stories of that place, not so nice ones about the creatures that live there.\n\nHm.\n\nMaybe I’ll go. Sounds like I’ll find some very good lab rats.\n\nE n d  o f  r e c o r d i n g .\n\n"
     }
 }

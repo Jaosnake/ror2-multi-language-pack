@@ -1,0 +1,25 @@
+{
+    "strings": {
+        "KENKO_SUBMARINER_NAME": "Submariner",
+        "KENKO_SUBMARINER_DESCRIPTION": "Submariner — це важкий боєць ближнього бою, який покладається на контроль натовпу та витривалість для панування в битві.<color=#CCD3E0>\n\n< ! > Підтримуйте тиск ударами ближнього бою, щоб безперервно відновлювати здоров'я.\n\n< ! > Використовуйте Підтягування, щоб притягувати менших ворогів та уникати атак, влучаючи у більших ворогів.\n\n< ! > Міна-їжак — чудовий спосіб швидко втекти зі скрутної ситуації та встановити потужні міни на майбутнє.\n\n< ! > Залишайтеся в зоні дії вміння Кинути якір!, адже прискорення руху є чудовим інструментом для ведення бою.\n\n</color>",
+        "KENKO_SUBMARINER_SUBTITLE": "Глибини Безодні",
+        "KENKO_SUBMARINER_LORE": "",
+        "KENKO_SUBMARINER_OUTRO_FLAVOR": "..і так вона пішла, щоб більше ніколи не залишатися на самоті.",
+        "KENKO_SUBMARINER_OUTRO_FAILURE": "..і так вона зникла, залишивши поруч лише тишу.",
+        "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Безодня",
+        "KENKO_SUBMARINER_PASSIVE_NAME": "Благословення Нкухани",
+        "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Удар по ворогах <style=cIsDamage>атаками ближнього бою</style> дарує <style=cIsHealing>Відновлення Нкухани</style>.",
+        "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "Якірний пристрій AL811",
+        "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Змахніть перед собою, завдаючи <style=cIsDamage>450% шкоди</style>.",
+        "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Підтягування",
+        "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Випустіть гарпун, що завдає <style=cIsDamage>150% шкоди</style>. <style=cIsUtility>Притягує</style> дрібних ворогів до вас і <style=cIsUtility>притягує</style> вас до великих ворогів. Зіткнення з великим ворогом завдає <style=cIsDamage>300% шкоди</style> та розпочинає <style=cIsUtility>сальто назад.</style>",
+        "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Вибуховий їжак",
+        "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Зробіть <style=cIsUtility>сальто назад</style>, випустивши <style=cIsHealing>Міну-їжака</style>, що завдає <style=cIsDamage>700% шкоди</style>.",
+        "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Найкращий друг культу",
+        "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Кат.</style> Осідлайте <style=cIsHealing>Звіра</style>, який швидко біжить уперед, завдаючи <style=cIsDamage>700% шкоди</style>. Убивство легкого ворога <style=cIsUtility>прискорює</style> <style=cIsHealing>Звіра</style> і збільшує завдану <style=cIsDamage>шкоду</style>. Зіткнення з великими ворогами зупиняє вас і <style=cIsUtility>оглушує</style> ворога.",
+        "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Кинути якір!",
+        "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Киньте свій якір, завдаючи <style=cIsDamage>1200% шкоди</style> при ударі. Біг до якоря збільшує вашу <style=cIsUtility>швидкість руху</style>, тоді як віддалення від нього <style=cIsDamage>сповільнює</style> вас. Занадто далеке віддалення <style=cIsHealth>розриває</style> якірний ланцюг, надаючи сплеск <style=cIsUtility>швидкості руху</style>.",
+        "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Майстерність",
+        "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Граючи за Submariner, пройдіть гру або знищіть себе на складності «Мусон»."
+    }
+}

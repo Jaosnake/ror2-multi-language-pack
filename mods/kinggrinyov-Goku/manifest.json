@@ -1,10 +1,11 @@
 {
   "name": "Goku_LanguagePack",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-  "description": "Multi-language pack (15 languages) for Goku mod by kinggrinyov (v2.13.3).",
+  "description": "Multi-language translation pack for Goku by kinggrinyov.",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2117",
-    "kinggrinyov-Goku-2.13.3"
+    "kinggrinyov-Goku-2.13.3",
+    "Jaosnake-PELE-1.0.3"
   ]
 }

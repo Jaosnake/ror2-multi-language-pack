@@ -1,0 +1,10 @@
+{
+  "name": "RealerMysticsItems_LanguagePack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for RealerMysticsItems by Phreel.",
+  "dependencies": [
+    "Phreel-RealerMysticsItems-2.1.32",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ]
+}

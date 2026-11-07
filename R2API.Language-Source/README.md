@@ -24,11 +24,16 @@ way to keep many mod translations working as one coherent language pack.
 
 ## Optional KingModUtilities integration
 
-P.E.L.E includes an optional compatibility plugin for text used by the Goku,
-Vegeta, and Trunks mods through KingModUtilities. It activates only when the
-required utility is installed. The included translation files cover Ukrainian,
-Esperanto, and Latin; dynamic descriptions and coverage can vary by mod version.
-The integration does not install those mods or KingModUtilities for you.
+P.E.L.E includes a separate `PELE.KingDBZFix.dll` compatibility plugin for the
+[Goku](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Goku_LanguagePack/), [Vegeta](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Vegeta_LanguagePack/) and [Trunks](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Trunks_LanguagePack/) translation packs. It localizes their KingModUtilities
+transformation menus and tutorials, including Kaioken and Light Charge, in the
+15 supported languages. The plugin activates when KingModUtilities is installed;
+the P.E.L.E language system works without these characters or the utility.
+
+The character translation packs require P.E.L.E 1.0.3. Install P.E.L.E first,
+then the relevant character mod and its translation pack. P.E.L.E itself does
+not install the character mods or KingModUtilities; the original character mods
+provide their own dependencies. Text and compatibility may vary with mod updates.
 
 ## Translation status
 
@@ -104,9 +109,8 @@ this release: Ukrainian, Esperanto, and Latin.
 files for `uk`, `eo`, and `la` for that mod. It does not mean the original mod
 author officially ships those languages.
 
-This list was checked against the P.E.L.E language files in this GitHub
-repository, not against the mods currently installed in a local r2modman
-profile.
+This list was checked against the P.E.L.E language files included in this
+release, not against the mods currently installed in a local profile.
 
 All mods listed below include P.E.L.E JSON support for:
 
@@ -129,6 +133,7 @@ Ukrainian (uk) | Esperanto (eo) | Latin (la)
 | Deputy | [Bog / Deputy](https://thunderstore.io/c/riskofrain2/p/Bog/Deputy/) |
 | Driver | [public_ParticleSystem / Driver](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Driver/) |
 | Enforcer | [EnforcerGang / Enforcer](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Enforcer/) |
+| Goku | [kinggrinyov / Goku](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Goku/) |
 | HAND OVERCLOCKED | [EnforcerGang / HAND_OVERCLOCKED](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/) |
 | HEL P | [rob / HEL_P](https://thunderstore.io/c/riskofrain2/p/rob/HEL_P/) |
 | Henry | [TheTimesweeper / HenryMod](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/HenryMod/) |
@@ -153,6 +158,8 @@ Ukrainian (uk) | Esperanto (eo) | Latin (la)
 | Sorceress | [Frosthex / SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) |
 | Spearman | [SaucySquash / Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) |
 | Starstorm 2 | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
+| Trunks | [kinggrinyov / Trunks](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/) |
+| Vegeta | [kinggrinyov / Vegeta](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Vegeta/) |
 | Wanderer | [tsuyoikenko / Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) |
 
 

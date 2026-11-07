@@ -1,36 +1,44 @@
 # 🌍 Jaosnake-Seamstress_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Seamstress** by **tsuyoikenko**.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+---
+
+### 🇧🇷 Recomendação do P.E.L.E
+Para compatibilidade completa com todos os recursos e suporte a idiomas adicionais como Ucraniano (UA), Esperanto (eo) e Latim (la), recomendamos a instalação do [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
+
+### 🇺🇸 P.E.L.E Recommendation
+For complete compatibility with all language features and support for Ukrainian (UA), Esperanto (eo), and Latin (la), we recommend installing [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
 
 ---
 
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| tsuyoikenko-Seamstress | `1.6.10` |
+| tsuyoikenko-Seamstress | `1.7.4` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
-| 🇫🇷 | French |
-| 🇮🇹 | Italian |
-| 🇯🇵 | Japanese |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian ⚡ |
-| 🇨🇳 | Chinese (Simplified) |
+## 🌐 Supported Languages (15)
+| Flag | Language | Code | Tokens |
+|:---:|---|:---:|:---:|
+| 🇺🇸 | English | `en` | 35/35 |
+| 🇩🇪 | German | `de` | 35/35 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 35/35 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 35/35 |
+| 🇫🇷 | French | `FR` | 35/35 |
+| 🇮🇹 | Italian | `IT` | 35/35 |
+| 🇯🇵 | Japanese | `ja` | 35/35 |
+| 🇰🇷 | Korean | `ko` | 35/35 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 35/35 |
+| 🇷🇺 | Russian | `RU` | 35/35 |
+| 🇹🇷 | Turkish | `tr` | 35/35 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` | 35/35 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 35/35 |
+| 🟩 | Esperanto | `eo` | 35/35 |
+| 🏛️ | Latin | `la` | 35/35 |
 
 ## 👤 Credits
 | Role | Name |

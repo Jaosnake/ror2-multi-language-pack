@@ -2,7 +2,7 @@
     "name": "Celestial_War_Tank_LanguagePack",
     "version_number": "1.0.0",
     "website_url": "https://thunderstore.io/c/riskofrain2/p/CheeseWithHoles/Celestial_War_Tank/",
-    "description": "[15 Languages] Complete multi-language translation pack for Celestial War Tank v2.3.13 (EN, PT-BR, ES, FR, IT, DE, RU, UA, TR, ZH-CN, JA, KO, EO, LA). P.E.L.E. required for UA, EO, LA.",
+    "description": "Multi-language translation pack for Celestial War Tank by CheeseWithHoles.",
     "dependencies": [
         "CheeseWithHoles-Celestial_War_Tank-2.3.13"
     ]

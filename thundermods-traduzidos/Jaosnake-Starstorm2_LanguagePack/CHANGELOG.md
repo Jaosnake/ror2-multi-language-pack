@@ -1,3 +1,7 @@
+## 2.0.4
+- Synchronized dependencies and translation updates for TeamMoonstorm-Starstorm2-0.6.46.
+- Ensured full compatibility with RiskofThunder-R2API_Language-1.1.0.
+
 ## 2.0.3
 - Updated to stay in sync with the latest StarStorm2 version.
 

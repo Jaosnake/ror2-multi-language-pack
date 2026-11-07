@@ -1,7 +1,7 @@
 {
     "UA": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Підпалювач — це танк малої дії, який використовує вогонь як засіб досягнення мети. Керування його датчиком перегріву дозволяє йому завдавати великої кількості шкоди групам ворогів. Баланс має вирішальне значення для перемоги.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist — боєць ближнього бою, який використовує вогонь для досягнення своїх цілей. Керуючи шкалою перегріву, він може завдавати значної шкоди групам ворогів. Для перемоги важливий баланс.\n\n< ! > Під час перегріву ваші атаки слабшають. У скрутній ситуації Очистити негайно припиняє перегрів, але збільшує час свого відновлення.\n\n< ! > Заряди Передчуття Мазохізму продовжують накопичуватися під час дії здібності. Тому її можна активувати раніше й завершити з максимальною тривалістю.\n\n< ! > Очистити може зняти ефект вогню від вашої пасивної здібності. Скористайтеся цим, щоб вийти зі скрутного становища.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Маніяк Піроман",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Нормальний калібр",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Завдавайте <style=cIsDamage>100%</style> шкоди на білій ділянці. Базова шкала стійка до перегріву.</i>",
@@ -29,11 +29,11 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "Досягнувши межі <style=cKeywordName>Передчуття</style>, ви рухаєтеся швидше та отримуєте <style=cKeywordName>Подвійний постріл</style> і <style=cIsHealing>викрадення життя</style>. Щонайпізніше через 10 секунд ви <style=cIsDamage>детонуєте</style>, а потім <style=cIsUtility>перегріваєтеся</style>.</i>",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Докір Данте",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "Стріляйте інтенсивним променем<style=cIsDamage>140% шкоди</style>. Збільшений шанс займання, чим ближче ви до цілі. Якщо утримувати 2 секунди або більше, випустіть останній промінь після відпускання<style=cIsDamage>150% шкоди</style>.</i>",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Передчуття</style>За кожні 100 втраченого та/або отриманого тепла Підпалювач отримує 1 заряд очікування; Отримавши 5 зарядів, він може активувати мазохізм; Додаткові заряди збільшують шкоду та тривалість; В кінці всі заряди витрачаються.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Передчуття</style>За кожні 100 втраченого та/або отриманого тепла Arsonist отримує 1 заряд Передчуття; Отримавши 5 зарядів, він може активувати мазохізм; Додаткові заряди збільшують шкоду та тривалість; В кінці всі заряди витрачаються.",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Детонація</style>Arsonist вибухає, завдаючи <style=cIsDamage>150% шкоди</style> за кожен накопичений заряд Передчуття.",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Викрадення життя</style>Arsonist відновлює <style=cIsHealing>18%</style> завданої шкоди, поки активний Мазохізм.",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Викрадення життя</style>Arsonist відновлює <style=cIsHealing>5%</style> завданої шкоди, поки активна Злоба.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрів: Мазохізм</style>Якщо підпалювач залишає мазохізм через надмірне нагрівання, застосовується EX Overheat, що зменшує швидкість руху та шкоду до 70%. Якщо скасувати або залишити навичку на самоплив, застосовується перегрів, що знижує швидкість атаки до 50%.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрів: Мазохізм</style>Якщо Arsonist залишає мазохізм через надмірне нагрівання, застосовується EX Overheat, що зменшує швидкість руху та шкоду до 70%. Якщо скасувати або залишити навичку на самоплив, застосовується перегрів, що знижує швидкість атаки до 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "ПЕРЕГРІВ!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ОХОЛОДЖЕННЯ...!",
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРІВ: EX!",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Граючи за Arsonist, пройдіть етап без перегрівання.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Убийте боса телепорта, поки він палає."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Убийте боса телепорта, поки він палає.",
+        "POPCORN_ARSONIST_BODY_LORE": "Аудіозапис із персонального записувального пристрою.\n\nДрукований т р а н с к р і п т . . .\n\nВступити до UES виявилося легко. Особливо з їхніми списками вакансій. \n\nЕксперт зі знесення мало чим відрізняється від тієї роботи, яку я вже виконую. І так, підпал – це робота. Військові були так люб’язні, що залишили старе обладнання Запалювального підрозділу, щоб його могли знайти такі гострі очі, як мій. Неважко було дізнатися, що саме вони намагалися зробити із цим підрозділом, і було біса шкода, що вони його закрили.\n\nВони були блискучими. Вони були геніальними, і UES сказали їм, що вони психопати. Я ледве зміг врятувати залишки того небагато, що не було повністю знищено. Навіть тоді я не отримав багато шансів перевірити свої реставрації через суворі заходи безпеки мого підрозділу.\n\nЯ почув від колеги, що намічається робота. Якась рятувальна місія на борту UES Safe Travels на незвідану планету. Я чув історії про це місце, не дуже приємні історії про істот, які там живуть.\n\nХм\n\nМоже я піду. Здається, я знайду дуже хороших лабораторних щурів.\n\nЗакінчення запису."
     }
 }

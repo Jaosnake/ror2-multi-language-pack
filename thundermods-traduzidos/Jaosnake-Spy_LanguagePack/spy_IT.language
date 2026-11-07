@@ -1,0 +1,30 @@
+{
+  "IT": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "La Spy è un assassino da mischia fragile che eccelle nell'eliminare bersagli ad alta priorità con facilità.<color=#CCD3E0>\n\n< ! > Accumula cariche di Spionaggio con il coltello di Spy e sferra colpi critici con The Diamondback.\n\n< ! > Pugnalare è un'abilità devastante in grado di uccidere istantaneamente i nemici più deboli.\n\n< ! > Sabotare è un ottimo strumento per portarsi a portata di Pugnalata alle spalle stordendo i nemici vicini.\n\n< ! > Occultamento è ideale per ingaggiare o fuggire, ma richiede un'attenta gestione delle risorse.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Maestro dello spionaggio",
+    "KENKO_SPY_LORE": "Mentre il rapido sviluppo degli imperi spaziali si diffondeva tra le stelle, altrettanto facevano le guerre silenziose che ardevano tra loro. Le facciate diplomatiche mascheravano la tensione, ma sotto la superficie si celavano aspre lotte politiche, alleanze infrante e ideologie in rotta di collisione nel silenzio dello spazio.\n\nIn quest'era di ambizione interstellare, il conflitto aperto rischiava l'annientamento totale. I leader si volsero invece verso le ombre per imporre la propria volontà. Lo spionaggio divenne l'arma d'elezione: una guerra silenziosa combattuta tra flussi di dati, codici sussurrati e segreti trafugati. Intere civiltà furono scosse non da flotte o potenza di fuoco, mas da un sussurro ben piazzato, da un protocollo corrotto, da un funzionario scomparso.\n\nLe spie divennero fantasmi negli ingranaggi dell'impero. Maestri dell'inganno, dell'infiltrazione e della sovversione, scivolavano tra i confini inosservati, incidendo gli imperi con precisione chirurgica. Alcuni servivano sovrani. Altri ideali. Pochi servivano solo se stessi.\n\nLe loro vittorie non vengono mai celebrate in parata. I loro nomi non vengono mai pronunciati. Le loro missioni, deliberatamente sepolte. Eppure, l'ascesa e la caduta di intere nazioni stellari sono dipese dalle azioni di pochi agenti invisibili.\n\nUna buona spia non viene mai catturata. L'impronta che lasciano sulla storia è irrintracciabile, ma nel silenzioso mutare del potere, nel momento in cui un impero sorge o crolla, la loro mano è sempre lì, invisibile... ma innegabile.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..e così se ne andò, un'altra missione compiuta.",
+    "KENKO_SPY_OUTRO_FAILURE": "..e così svanì, senza lasciare traccia.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternativo",
+    "KENKO_SPY_PASSIVE_NAME": "Pugnalata alle spalle",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> può eseguire una <style=cIsHealth>Pugnalata alle spalle</style> sui nemici con il suo <color=#62746f>Coltello</color>, infliggendo un <style=cIsDamage>Colpo critico</style> che <style=cIsHealth>uccide</style> istantaneamente i nemici più deboli.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Spara un proiettile infliggendo <style=cIsDamage>320% di danno</style>. Le uccisioni con <style=cIsHealth>Pugnalata alle spalle</style> conferiscono <color=#62746f>Spionaggio</color>. Massimo 5 cariche.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Spara un proiettile infliggendo <style=cIsDamage>260% di danno</style>. Mettere a segno un colpo alla testa infligge un <style=cIsDamage>Colpo critico</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Pugnalare",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Prepara il tuo <color=#62746f>Coltello</color>. Rilascia per sferrare un fendente da <style=cIsDamage>500% di danno</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Opportunista</color>. Prepara il tuo <color=#62746f>Coltello</color>. Rilascia per sferrare un fendente da <style=cIsDamage>500% di danno</style>. Le uccisioni con <style=cIsHealth>Pugnalata alle spalle</style> conferiscono <style=cIsUtility>velocità di movimento</style> e una <style=cIsHealing>barriera</style>, oltre a <style=cIsUtility>azzerare il tempo di ricarica di questa abilità</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotare",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Lancia un <color=#62746f>Guastatore</color> in avanti, <style=cIsDamage>stordendo</style> e infliggendo <style=cIsDamage>danno</style> a tutti i nemici vicini. Colpire un nemico con il <color=#62746f>Guastatore</color> <style=cIsUtility>teletrasporta</style> Spy alle spalle del bersaglio.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Occultamento",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Entra in stato di <color=#62746f>Occultamento</color>, ottenendo <style=cIsUtility>invisibilità</style> e <style=cIsUtility>velocità di movimento</style>. Attaccare o subire danni interrompe <color=#62746f>Occultamento</color>.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Maestria",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Nei panni di Spy, completa il gioco o annientati a difficoltà Monsone.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Pugnalata alle spalle</style><style=cSub>Colpire un nemico alle spalle infligge un colpo critico istantaneo. I nemici più deboli vengono giustiziati istantaneamente.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Spionaggio</style><style=cSub>Consumare una carica di Spionaggio garantisce un colpo critico al prossimo colpo di revolver.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportunista</style><style=cSub>Uccidere un nemico con una Pugnalata alle spalle conferisce velocità di movimento, barriera temporanea e azzeramento del tempo di ricarica.</style>"
+  }
+}

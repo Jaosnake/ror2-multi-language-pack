@@ -1,11 +1,10 @@
 {
-    "author": "Jaosnake",
     "name": "Sandswept_LanguagePack",
-    "description": "Multi-language translation pack for Sandswept by SandsweptTeam - translated by Jaosnake",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+    "description": "Multi-language translation pack for Sandswept by SandsweptTeam.",
     "dependencies": [
-        "SandsweptTeam-Sandswept-1.4.4",
+        "SandsweptTeam-Sandswept-1.4.6",
         "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+    ]
 }

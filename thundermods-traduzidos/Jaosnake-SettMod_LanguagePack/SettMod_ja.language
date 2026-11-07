@@ -1,0 +1,29 @@
+{
+  "ja": {
+    "SETT_NAME": "<color=#ffa700>セト</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>ザ・ボス</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>黒曜石の竜</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>プールパーティ</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>プレステージ 黒曜石の竜</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>三国武神</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>爆竹</color>",
+    "SETT_DESCRIPTION": "セトはこの裏社会のボスだ。アイオニアの地下闘技場を牛耳る、一代で成り上がった半ヴァスタヤ・半ノクサスの興行主にして闘士である。<color=#CCD3E0>\n\n< ! > セトの通常攻撃は左パンチと右パンチを交互に繰り出す。右パンチは威力がやや高く、速度も速い。また、負けず嫌いなセトは減少体力に応じて追加の体力自動回復を得る。\n\n< ! > セトは左右両側にいるすべての敵を引き寄せ、ダメージを与えてスタンさせる。片側にしか敵がいない場合は、スタンの代わりに減速を与える。\n\n< ! > セトは敵1体を掴んで空中へと抱え上げ、地面へと叩きつける。着地点の周囲にいるすべての敵にダメージと減速を与える。\n\n< ! > セトは受けたダメージを受動的に「闘気」として蓄積する。スキルを発動すると、蓄積したすべての闘気を消費してシールドを獲得し、前方エリアへパンチを放つ。中央の敵には確定ダメージを、両端の敵には物理ダメージを与える。</color>",
+    "SETT_LORE": "アイオニアで台頭する裏社会の指導者であるセトは、ノクサスとの戦争の余波の中で名声を高めた。ナヴォリの地下闘技場のつつましい挑戦者として出発した彼だったが、その野蛮な膂力と、際限のない打撃に耐え抜く強靭さによって瞬く間に悪名を轟かせた。地元の強豪たちを薙ぎ倒して頂点へと登りつめたセトは、今やかつて血を流して戦った闘技場そのものを支配している。",
+    "SETT_OUTRO_FLAVOR": "..かくして彼は去った、誇るべき新たなる力を携えて。",
+    "SETT_OUTRO_FAILURE": "..かくして彼は戻った、真に不滅なる絶対無比の要塞として。",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>デフォルト</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>半獣の心</color>",
+    "SETT_PASSIVE_DESC": "セトは<color=#d62d20>減少体力</color><color=#f68835>5%</color>ごとに、毎秒追加で<color=#008744>0.25の体力</color><color=#d62d20>(4レベルごとに+0.25)</color>を<color=#c9aa71>回復</color>する。",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>ナックルダウン</color>",
+    "SETT_PRIMARY_DESC": "セトの<color=#c9aa71>通常攻撃</color>は左パンチ<color=#f68835>(ダメージ260%)</color>と右パンチ<color=#f68835>(ダメージ320%)</color>を交互に繰り出す。<color=#c9aa71>クリティカルヒット</color>はセトの通常攻撃タイマーをリセットし、次の通常攻撃で<color=#d62d20>2倍のダメージ</color>を与える。",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>フェイスブレイカー</color>",
+    "SETT_SECONDARY_DESC": "セトは自身から半径<color=#0057e7>20メートル</color>以内のすべての敵を<color=#c9aa71>引き寄せ</color>、<color=#f68835>380% </color>のダメージを与える。命中時に<color=#c9aa71>スタン＆減速</color>を付与する。",
+    "SETT_UTILITY_NAME": "<color=#ffa700>ショーストッパー</color>",
+    "SETT_UTILITY_DESC": "セトは敵1体を空中へ<color=#c9aa71>抱え上げ</color>、地面に叩きつけて着地点付近のすべての敵に<color=#f68835>1600%</color> <color=#d62d20>(+メインターゲットの最大体力および最大シールドの10%)</color>のダメージを与える。",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>ヘイメイカー</color>",
+    "SETT_SPECIAL_DESC": "セトは受けたダメージを受動的に<color=#ffffff>闘気</color>として蓄積する。発動時、セトは蓄積したすべての<color=#ffffff>闘気</color>を消費して<color=#ffffff>シールド</color>を獲得し、前方エリアを強打して<color=#f68835>2700%</color> <color=#d62d20>(+消費した闘気の75% 4レベルごとに+5%)</color>の<color=#ffffff>確定</color>ダメージを与える。",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "セト：マスタリー",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "セトとして、モンスーン難易度でゲームをクリアするか自身を消滅させる。",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "セト：マスタリー"
+  }
+}

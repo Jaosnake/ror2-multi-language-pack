@@ -1,7 +1,7 @@
 {
     "RU": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Поджигатель — танк ближнего действия, использующий огонь как средство достижения цели. Управление шкалой перегрева позволяет ему наносить большой урон группам врагов. Баланс имеет решающее значение для победы.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist — боец ближнего боя, использующий огонь для достижения своих целей. Управляя шкалой перегрева, он может наносить большой урон группам врагов. Для победы важен баланс.\n\n< ! > Во время перегрева ваши атаки слабее. В трудной ситуации Очищение немедленно завершает перегрев, но увеличивает своё время восстановления.\n\n< ! > Заряды Ожидания Мазохизма продолжают накапливаться во время действия способности. Поэтому её можно активировать заранее и завершить с максимальной длительностью.\n\n< ! > Очищение снимает эффект огня от вашей пассивной способности. Используйте его, чтобы выбраться из трудного положения.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Маниакальный пироман",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Обычная шкала",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Нанесите <style=cIsDamage>100%</style> урона белой части. Базовый датчик устойчив к перегреву.</i>",
@@ -29,11 +29,11 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "При достижении лимита <style=cKeywordName>Ожидания</style>, вы двигаетесь быстрее и получаете <style=cKeywordName>Двойной Выстрел</style> и <style=cIsHealing>Кража Жизни</style>. Не более чем через 10 секунд, <style=cIsDamage>Детонация</style>, затем <style=cIsUtility>Перегрев</style>.",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "Упрек Данте",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "Выпустите интенсивный луч, нанося <style=cIsDamage>140% урона</style>. Шанс воспламенения увеличивается по мере приближения к цели. Если удерживать более 2 секунд, при отпускании выстрелить последним лучом, нанеся <style=cIsDamage>150% урона</style>.</i>",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Ожидание</style>За каждые 100 потерянного и/или полученного тепла Арсонист получает 1 заряд Ожидания; После получения 5 зарядов он может активировать Masochism; Дополнительные заряды увеличивают урон и длительность; Все заряды расходуются в конце.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Детонация</style>Арсонист взрывается, нанося <style=cIsDamage>150% урона</style>, умноженное на количество накопленных зарядов Ожидания.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Кража Жизни</style>Арсонист восстанавливает <style=cIsHealing>18%</style> нанесенного урона пока активен Masochism.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Кража Жизни</style>Арсонист восстанавливает <style=cIsHealing>5%</style> нанесенного урона пока активна Злоба.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрев: Masochism</style>Если Арсонист выходит из Masochism из-за чрезмерного накопления тепла, применяется Перегрев EX, снижающий Скорость Передвижения и Урон до 70%. Отмена или завершение навыка применяет Перегрев, снижающий Скорость Атаки до 50%.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>Ожидание</style>За каждые 100 потерянного и/или полученного тепла Arsonist получает 1 заряд Ожидания; После получения 5 зарядов он может активировать Мазохизм; Дополнительные заряды увеличивают урон и длительность; Все заряды расходуются в конце.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>Детонация</style>Arsonist взрывается, нанося <style=cIsDamage>150% урона</style>, умноженное на количество накопленных зарядов Ожидания.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>Кража Жизни</style>Arsonist восстанавливает <style=cIsHealing>18%</style> нанесенного урона пока активен Мазохизм.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>Кража Жизни</style>Arsonist восстанавливает <style=cIsHealing>5%</style> нанесенного урона пока активна Злоба.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>Перегрев: Мазохизм</style>Если Arsonist выходит из Мазохизм из-за чрезмерного накопления тепла, применяется Перегрев EX, снижающий Скорость Передвижения и Урон до 70%. Отмена или завершение навыка применяет Перегрев, снижающий Скорость Атаки до 50%.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "ПЕРЕГРЕВ!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "ОХЛАЖДЕНИЕ...!",
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "ПЕРЕГРЕВ:EX!",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Играя за Arsonist, пройдите этап без перегрева.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Убейте босса телепорта, пока он горит."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Убейте босса телепорта, пока он горит.",
+        "POPCORN_ARSONIST_BODY_LORE": "Аудиозапись с личного записывающего устройства.\n\nПечать расшифровки...\n\nВступить в UES оказалось легко. Особенно с их списками вакансий. \n\nРабота эксперта по сносу мало чем отличается от той работы, которую я уже выполняю. И да, поджог - это работа. Военные были настолько любезны, что оставили старое оборудование зажигательного подразделения валяться на виду, чтобы его могли найти такие зоркие глаза, как мой. Нетрудно было узнать, что именно они пытались сделать с этим подразделением, и было чертовски жаль, что его закрыли.\n\nОни были великолепны. Они были блестящими людьми, а в UES сказали им, что они психопаты. Мне удалось спасти лишь остатки того немногого, что не было полностью уничтожено. Даже тогда у меня не было возможности проверить свои реставрации из-за строгих мер безопасности в моём подразделении.\n\nЯ услышал от коллеги, что намечается работа. Что-то вроде спасательной миссии на борту UES Safe Travels на неизведанную планету. Я слышал истории об этом месте, не очень приятные, о существах, которые там живут.\n\nХм.\n\nМожет быть, я пойду. Похоже, я найду очень хороших лабораторных крыс.\n\nОкончание записи."
     }
 }

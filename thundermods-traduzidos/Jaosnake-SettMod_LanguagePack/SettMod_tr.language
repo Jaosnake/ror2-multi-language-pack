@@ -1,0 +1,29 @@
+{
+  "tr": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>Patron</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Obsidiyen Ejder</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Havuz Partisi</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Prestij Obsidiyen Ejder</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Meka Krallıkları</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Havai Fişek</color>",
+    "SETT_DESCRIPTION": "Sett tam bir Patron'dur: Ionia'nın yeraltı dövüş çukurlarını yöneten, kendi tırnaklarıyla kazıyarak yükselmiş, yarı Vastaya, yarı Noxus'lu bir girişimci ve dövüşçü.<color=#CCD3E0>\r\n\r\n< ! > Sett'in temel saldırıları sol ve sağ yumruk arasında dönüşümlüdür. Sağ yumruk biraz daha güçlü ve hızlıdır. Sett kaybetmekten de nefret eder, eksik canına bağlı olarak ilave can yenilenmesi kazanır.\r\n\r\n< ! > Sett, zıt taraflarındaki tüm düşmanları kendine çekerek onlara hasar verir ve sersemletir. Düşmanlar yalnızca bir taraftaysa sersemletilmek yerine yavaşlatılırlar.\r\n\r\n< ! > Sett bir düşman şampiyonunu havada taşır ve yere çarparak hasar verir ve indikleri yerin yakınındaki tüm düşmanları yavaşlatır.\r\n\r\n< ! > Sett aldığı hasarı pasif olarak Azim olarak depolar. Kullanıldığında Sett, bir kalkan kazanmak ve bir alana yumruk atmak için depolanan tüm Azmi harcar; merkezde gerçek hasar, yanlarda ise fiziksel hasar verir.</color>",
+    "SETT_LORE": "Ionia'nın büyüyen yeraltı suç dünyasının lideri olan Sett, Noxus ile yapılan savaşın ardından ön plana çıktı. Navori'nin dövüş çukurlarında mütevazı bir meydan okuyucu olarak başlamasına rağmen, vahşi gücü ve görünüşte sonsuz miktarda darbeye dayanabilme yeteneği sayesinde hızla ün kazandı. Yerel dövüşçülerin saflarını tırmanan Sett, kaba kuvvetiyle zirveye ulaştı ve bir zamanlar içinde dövüştüğü çukurların mutlak hâkimi oldu.",
+    "SETT_OUTRO_FLAVOR": "..ve böylece onurlandırılacak yeni keşfedilmiş bir güçle ayrıldı.",
+    "SETT_OUTRO_FAILURE": "..ve böylece gerçekten ölümsüzleşmiş, kusursuz bir kale olarak geri döndü.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Varsayılan</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>YARI VAHŞİ YÜREĞİ</color>",
+    "SETT_PASSIVE_DESC": "Sett, <color=#d62d20>eksik canının</color> her <color=#f68835>%5</color>'i için fazladan <color=#008744>saniyede 0.25 can</color> <color=#d62d20>(her 4 seviyede bir + 0.25)</color> <color=#c9aa71>yeniler.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>BALYOZ GİBİ</color>",
+    "SETT_PRIMARY_DESC": "Sett'in <color=#c9aa71>temel saldırıları</color> bir Sol Yumruk <color=#f68835>(%260 hasar)</color> ile bir Sağ Yumruk <color=#f68835>(%320 hasar)</color> arasında dönüşümlüdür. <color=#c9aa71>Kritik vuruşlar</color> Sett'in temel saldırı zamanlayıcısını sıfırlar ve bir sonraki temel saldırının <color=#d62d20>iki kat hasar</color> vermesini sağlar.",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>SURAT DAĞITAN</color>",
+    "SETT_SECONDARY_DESC": "Sett, <color=#0057e7>20 metrelik</color> yarıçapı içindeki tüm düşmanları <color=#c9aa71>kendine çeker</color> ve <color=#f68835>%380 </color>hasar verir. İsabet anında <color=#c9aa71>Sersemletir & Yavaşlatır</color>.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>BAŞ GÖSTERİSİ</color>",
+    "SETT_UTILITY_DESC": "Sett bir düşmanı havada <color=#c9aa71>taşır</color> ve yere çarparak indikleri yerin yakınındaki tüm düşmanlara <color=#f68835>%1600</color> <color=#d62d20>(+birincil hedefin azami canının ve azami kalkanının %10'u)</color> hasar verir.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>BALYOZ</color>",
+    "SETT_SPECIAL_DESC": "Sett aldığı hasarı pasif olarak <color=#ffffff>Azim</color> olarak biriktirir. Kullanıldığında Sett, bir <color=#ffffff>Kalkan</color> kazanmak ve bir alana yumruk atmak için depolanan tüm <color=#ffffff>Azmi</color> harcar; <color=#f68835>%2700</color> <color=#d62d20>(+harcanan Azmin %75'i + her 4 seviyede bir %5)</color> <color=#ffffff>GERÇEK</color> hasar verir.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Ustalık",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Sett olarak oyunu tamamla veya Monsoon zorluğunda kendini yok et.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Ustalık"
+  }
+}

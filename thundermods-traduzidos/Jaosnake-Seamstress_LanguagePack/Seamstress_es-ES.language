@@ -12,7 +12,7 @@
         "KENKO_SEAMSTRESS_MASTERY_SKIN_NAME2": "Alternativo2",
         "KENKO_SEAMSTRESS_MASTERY_SKIN_NAME3": "Cuervo",
         "KENKO_SEAMSTRESS_MASTERY_SKIN_NAME4": "Cuervo alternativo",
-        "KENKO_SEAMSTRESS_PASSIVE_NAME": "tiene hambre",
+        "KENKO_SEAMSTRESS_PASSIVE_NAME": "Tiene hambre",
         "KENKO_SEAMSTRESS_PASSIVE_DESCRIPTION": "Obtiene <style=cIsDamage>daño base</style> y <style=cIsHealing>curación</style> según <style=cIsHealth>salud faltante</style>.",
         "KENKO_SEAMSTRESS_NEEDLE_NAME": "Corazón Tocado por el Diablillo",
         "KENKO_SEAMSTRESS_NEEDLE_DESCRIPTION": "Consume <color=#9B3737>Agujas</color> al saltar en el aire para <color=#9B3737>teletransportarte</color> y disparar un proyectil que inflige <style=cIsDamage>40% de daño</style>.",
@@ -33,6 +33,7 @@
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Alboroto",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% de vida</style>. Dispara unas tijeras <color=#9B3737>Simbióticas</color> que infligen <style=cIsDamage>400% de daño</style>. Recoge las tijeras <color=#9B3737>Simbióticas</color> para cortar e infligir <style=cIsDamage>200% de daño</style>.\n<color=#d299ff>CETRO: Tu arma <color=#9B3737>Simbiótica</color> solo tarda <style=cIsUtility>1,5 segundos en poder recogerse</style>.</color>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Como Seamstress, completa el juego o elimínate en Monsoon.",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Como Seamstress, completa el juego o elimínate en Eclipse o una dificultad superior."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Como Seamstress, completa el juego o elimínate en Eclipse o una dificultad superior.",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>Vínculo planar</style><style=cSub>Obtiene <style=cIsDamage>0,05 de daño base</style> por cada <style=cIsHealth>1 de salud faltante</style>. Cura hasta un <style=cIsHealing>1%</style> de tu <style=cIsHealth>salud faltante</style> al impactar.</style>"
     }
 }

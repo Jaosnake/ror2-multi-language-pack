@@ -1,0 +1,25 @@
+{
+  "en": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "The Submariner is a heavy melee bruiser that relies on crowd control and durability to control the battle.<color=#CCD3E0>\n\n< ! > Keep up the pressure with melee hits to continuously regenerate health.\n\n< ! > Use Reel-In to pull in smaller enemies and use it to avoid attacks by hitting larger enemies.\n\n< ! > Urchin Mine is a great way to quickly escape a sticky situation and to setup high damaging mines for later.\n\n< ! > Stay within Drop The Anchor!'s range, the movement speed buff can be an incredible tool to fight with.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Depths of the Abyss",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..and so she left, never to be left alone again.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..and so she vanished, with only silence by her side.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abyssal",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "N'kuhana's Blessing",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Hitting enemies with <style=cIsDamage>melee attacks</style> grants <style=cIsHealing>N'kuhana's Restoration</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811 Anchoring Device",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Swing in front dealing <style=cIsDamage>450% damage</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Reel-In",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Fire out a harpoon dealing <style=cIsDamage>150% damage</style>. <style=cIsUtility>Pulls</style> small enemies towards you and <style=cIsUtility>pulls</style> you towards large enemies. Colliding with a large enemy deals <style=cIsDamage>300% damage</style> then starts a <style=cIsUtility>backflip.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Explosive Urchin",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>Backflip</style> firing out an <style=cIsHealing>Urchin Mine</style> that deals <style=cIsDamage>700% damage</style>.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Cult's Best Friend",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Slayer.</style> Ride a <style=cIsHealing>Beast</style>, which quickly runs forward dealing <style=cIsDamage>700% damage</style>. Killing a lightweight enemy <style=cIsUtility>speeds up</style> the <style=cIsHealing>Beast</style> and increases <style=cIsDamage>damage</style> dealt. Running into large enemies stops you and <style=cIsUtility>stuns</style> the enemy.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Drop the Anchor!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Throw your anchor, dealing <style=cIsDamage>1200% damage</style> on impact. Running towards the anchor increases your <style=cIsUtility>movement speed</style>, while moving away from it <style=cIsDamage>slows</style> you down. Going too far away <style=cIsHealth>breaks</style> the anchor's chain, granting a burst of <style=cIsUtility>movement speed</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Mastery",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "As Submariner, beat the game or obliterate on Monsoon."
+  }
+}

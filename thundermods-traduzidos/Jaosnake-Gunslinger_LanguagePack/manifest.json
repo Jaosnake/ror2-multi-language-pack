@@ -1,0 +1,10 @@
+{
+  "name": "Gunslinger_LanguagePack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for Gunslinger by Dragonyck.",
+  "dependencies": [
+    "Dragonyck-Gunslinger-1.10.3",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ]
+}

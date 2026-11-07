@@ -2,7 +2,7 @@
     "name": "Caeli_Imperium_LanguagePack",
     "version_number": "1.0.0",
     "website_url": "https://thunderstore.io/c/riskofrain2/p/Brynzananas/Caeli_Imperium/",
-    "description": "[15 Languages] Complete multi-language translation pack for Caeli Imperium v0.13.3 (EN, PT-BR, ES, FR, IT, DE, RU, UA, TR, ZH-CN, JA, KO, EO, LA). P.E.L.E. required for UA, EO, LA.",
+    "description": "Multi-language translation pack for Caeli Imperium by Brynzananas.",
     "dependencies": [
         "Brynzananas-Caeli_Imperium-0.13.3"
     ]

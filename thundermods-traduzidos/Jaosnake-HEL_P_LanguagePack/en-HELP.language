@@ -22,6 +22,12 @@
     "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Fire a barrage of energy that <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> and <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> for <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>",
     "Jellyfish": "Jellyfish",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Zap a hostile combatant to <style=cIsUtility>SHOCK</style> them for <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>",
-    "Wisp": "Wisp"
+    "Wisp": "Wisp",
+    "PLASMA CUTTER": "Plasma Cutter",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Charge up a scorching plasma beam that deals <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.",
+    "NANO-BEAM": "Nano-Beam",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Fire nano pulse cannons that deal <style=cIsDamage>320% damage</style> to hostile combatants and <style=cIsHealing>heal friendly combatants for 320% of your damage</style>.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Fire a barrage of energy that <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> and <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> for <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Fire a devastating blast that <style=cIsHealth>harms hostile combatants</style> and <style=cIsHealing>heals friendly combatants</style> for <style=cIsDamage>2500-7500%</style> based on <style=cIsUtility>charges used.</style>"
   }
 }

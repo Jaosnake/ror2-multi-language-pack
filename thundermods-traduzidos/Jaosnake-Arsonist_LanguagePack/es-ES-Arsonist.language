@@ -1,7 +1,7 @@
 {
     "es-ES": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "El Arsonist es un tanque de corto alcance que utiliza el fuego como medio para lograr un fin. Administrar su indicador de sobrecalentamiento le permite infligir grandes cantidades de daño a grupos de enemigos. El equilibrio es crucial para la victoria.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist es un tanque de corto alcance que usa el fuego para alcanzar sus objetivos. Al controlar su medidor de Sobrecalentamiento, puede infligir mucho daño a grupos de enemigos. El equilibrio es esencial para la victoria.\n\n< ! > Tus ataques son más débiles mientras estás sobrecalentado. Si te encuentras en apuros, Purificar puede terminar el sobrecalentamiento de inmediato a cambio de aumentar su tiempo de recarga.\n\n< ! > Las acumulaciones de Anticipación de Masoquismo siguen aumentando mientras dura la habilidad. Puedes activarla antes y terminar con la duración máxima.\n\n< ! > Purificar puede eliminar el efecto de fuego de tu pasiva. Úsalo para salir de una situación difícil.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Pirómano maníaco",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Calibre normal",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Inflige <style=cIsDamage>100%</style> daño en la porción blanca. El medidor base es resistente al sobrecalentamiento.</i>",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Como Arsonist, completa una fase sin sobrecalentarte.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mata a un jefe del teletransportador mientras está ardiendo."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Mata a un jefe del teletransportador mientras está ardiendo.",
+        "POPCORN_ARSONIST_BODY_LORE": "Grabación de audio extraída de un dispositivo de grabación personal.\n\nImprimiendo transcripción...\n\nUnirme a la UES resultó fácil. Sobre todo gracias a sus ofertas de trabajo.\n\nEl trabajo de un experto en demoliciones no es muy distinto del que ya hago. Y sí, provocar incendios es un trabajo. Los militares tuvieron la amabilidad de dejar el equipo antiguo de la Unidad Incendiaria tirado por ahí para que ojos atentos como los míos lo encontraran. No fue difícil descubrir qué intentaban hacer exactamente con aquella unidad, y fue una maldita lástima que la cerraran.\n\nEran brillantes. Eran brillantes, y la UES les dijo que eran unos psicópatas. Apenas pude rescatar los restos de lo poco que no había sido completamente destruido. Aun así, casi no he tenido oportunidad de probar mis restauraciones por la estricta seguridad de mi división.\n\nUn colega me contó que habría un trabajo. Una especie de misión de rescate a bordo de la UES Safe Travels, rumbo a un planeta inexplorado. He oído historias sobre ese lugar, historias nada agradables sobre las criaturas que viven allí.\n\nMmm.\n\nTal vez vaya. Parece que encontraré unas excelentes ratas de laboratorio.\n\nFin de la grabación.\n\n"
     }
 }

@@ -1,0 +1,25 @@
+{
+  "zh-CN": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Submariner是一名重装近战斗士，依靠群体控制和高耐久度来掌控战局。<color=#CCD3E0>\n\n< ! > 通过持续的近战打击保持压制，从而源源不断地恢复生命值。\n\n< ! > 使用收线拉近小型敌人，并通过击中大型敌人来躲避攻击。\n\n< ! > 海胆地雷是快速摆脱困境并为之后埋下高伤害地雷的绝佳手段。\n\n< ! > 尽量留在抛锚！的范围之内，其带来的移动速度加成将是战斗中的绝佳助力。\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "深渊之底",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..就这样她离开了，再也不会孤身一人。",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..就这样她消失了，身旁只有寂静相伴。",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "深渊",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "恩库哈纳的祝福",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "用<style=cIsDamage>近战攻击</style>命中敌人会赋予<style=cIsHealing>恩库哈纳的恢复</style>。",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811锚定装置",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "向前方挥击，造成<style=cIsDamage>450%伤害</style>。",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "收线",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "射出一支鱼叉造成<style=cIsDamage>150%伤害</style>。将小型敌人<style=cIsUtility>拉向</style>你，并将你<style=cIsUtility>拉向</style>大型敌人。与大型敌人相撞造成<style=cIsDamage>300%伤害</style>，随后触发一次<style=cIsUtility>后空翻。</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "爆炸海胆",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>后空翻</style>发射一枚<style=cIsHealing>海胆地雷</style>，造成<style=cIsDamage>700%伤害</style>。",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "信徒挚友",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>斩杀。</style>骑乘一只快速向前冲锋的<style=cIsHealing>巨兽</style>，造成<style=cIsDamage>700%伤害</style>。击杀轻型敌人会<style=cIsUtility>加速</style><style=cIsHealing>巨兽</style>并提升造成的<style=cIsDamage>伤害</style>。冲撞大型敌人会停下并使敌人<style=cIsUtility>眩晕</style>。",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "抛锚！",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "投掷你的锚，命中时造成<style=cIsDamage>1200%伤害</style>。向锚奔跑会提升你的<style=cIsUtility>移动速度</style>，远离它则会让你<style=cIsDamage>减速</style>。走得太远会<style=cIsHealth>扯断</style>锚链，获得短暂的爆发性<style=cIsUtility>移动速度</style>。",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner：精通",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "扮演Submariner，在季风难度下通关或湮灭自身。"
+  }
+}

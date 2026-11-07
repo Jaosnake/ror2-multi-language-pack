@@ -1,0 +1,25 @@
+{
+  "FR": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "La Submariner est une combattante de mêlée lourde qui compte sur le contrôle des foules et sa robustesse pour dominer la bataille.<color=#CCD3E0>\n\n< ! > Maintenez la pression avec des attaques de mêlée pour régénérer continuellement de la santé.\n\n< ! > Utilisez Mouliner pour attirer les petits ennemis et vous en servir afin d'esquiver les attaques en touchant de plus gros ennemis.\n\n< ! > La Mine d'oursin est un excellent moyen d'échapper rapidement à une situation délicate et de poser des mines très dévastatrices pour plus tard.\n\n< ! > Restez à portée de Jetez l'ancre !, le bonus de vitesse de déplacement pouvant s'avérer un atout redoutable au combat.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Profondeurs des abysses",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..et ainsi elle partit, pour ne plus jamais être seule.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..et ainsi elle disparut, avec pour seule compagnie le silence à ses côtés.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abyssal",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "Bénédiction de N'kuhana",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Toucher des ennemis avec des <style=cIsDamage>attaques de mêlée</style> confère la <style=cIsHealing>Restauration de N'kuhana</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "Dispositif d'ancrage AL811",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Donne un coup vers l'avant infligeant <style=cIsDamage>450% de dégâts</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Mouliner",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Tire un harpon infligeant <style=cIsDamage>150% de dégâts</style>. <style=cIsUtility>Attire</style> les petits ennemis vers vous et vous <style=cIsUtility>propulse</style> vers les grands ennemis. Percuter un grand ennemi inflige <style=cIsDamage>300% de dégâts</style> puis déclenche un <style=cIsUtility>saut périlleux arrière.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Oursin explosif",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Effectuez un <style=cIsUtility>saut périlleux arrière</style> en tirant une <style=cIsHealing>Mine d'oursin</style> qui inflige <style=cIsDamage>700% de dégâts</style>.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Le meilleur ami du culte",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Bourreau.</style> Chevauchez une <style=cIsHealing>Bête</style>, qui fonce vers l'avant en infligeant <style=cIsDamage>700% de dégâts</style>. Tuer un ennemi léger <style=cIsUtility>accélère</style> la <style=cIsHealing>Bête</style> et augmente les <style=cIsDamage>dégâts</style> infligés. Foncer sur de grands ennemis vous arrête et <style=cIsUtility>étourdit</style> l'ennemi.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Jetez l'ancre !",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Lancez votre ancre, infligeant <style=cIsDamage>1200% de dégâts</style> à l'impact. Courir vers l'ancre augmente votre <style=cIsUtility>vitesse de déplacement</style>, tandis que s'en éloigner vous <style=cIsDamage>ralentit</style>. S'éloigner trop loin <style=cIsHealth>brise</style> la chaîne de l'ancre, accordant une impulsion de <style=cIsUtility>vitesse de déplacement</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner : Maîtrise",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "En tant que Submariner, terminez le jeu ou oblitérez-vous en difficulté Mousson."
+  }
+}

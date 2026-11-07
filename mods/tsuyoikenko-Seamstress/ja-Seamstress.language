@@ -30,6 +30,7 @@
         "KENKO_SEAMSTRESS_SPECIAL_FIRE_DESCRIPTION": "<style=cIsHealth>ライフ15%</style>。ハサミ<color=#9B3737>Symbiotic</color>を発射し、<style=cIsDamage>400%のダメージ</style>。<color=#9B3737>Symbiotic</color>なハサミを拾って切りつけ、<style=cIsDamage>200%のダメージ</style>。",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "壊滅",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>ライフ15%</style>。ハサミ<color=#9B3737>Symbiotic</color>を発射し、<style=cIsDamage>400%のダメージ</style>。<color=#9B3737>Symbiotic</color>なハサミを拾って切りつけ、<style=cIsDamage>200%のダメージ</style>。\n<color=#d299ff>セプター: <color=#9B3737>Symbiotic</color>武器の回収時間が<style=cIsUtility>1.5秒</style>のみ。</color>",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>平面束縛</style><style=cSub><style=cIsHealth>失ったライフ1</style>につき<style=cIsDamage>基礎ダメージ0.05</style>を得る。命中時に<style=cIsHealth>失ったライフ</style>の最大<style=cIsHealing>1%</style>を回復する。</style>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "シームストレス: マスタリー",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "シームストレスで、モンスーンでゲームクリアまたはオブリタレイトする。",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "クロウ: アンロック",

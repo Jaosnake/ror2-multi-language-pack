@@ -1,22 +1,24 @@
 {
     "ko": {
         "KENKO_INTERROGATOR_NAME": "Interrogator",
-        "KENKO_INTERROGATOR_SUBTITLE": "고통 전문가",
+        "KENKO_INTERROGATOR_SUBTITLE": "광기의 고문자",
         "KENKO_INTERROGATOR_PASSIVE_NAME": "고통",
         "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Interrogator는 아군과 적을 공격하고 그들에게 공격받을 수 있습니다. Interrogator를 공격한 대상은 유죄로 표시됩니다.",
-        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "지휘봉을 앞쪽으로 휘둘러 <style=cIsDamage>320%의 피해를 입히세요</style>. 공격을 놓치면 대신 <style=cIsDamage>damage</style>를 입게 됩니다.",
+        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "경봉을 앞쪽으로 휘둘러 <style=cIsDamage>320%의 피해를 입히세요</style>. 공격을 놓치면 대신 <style=cIsDamage>피해</style>를 입게 됩니다.",
         "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>450% 피해</style>를 주는 식칼을 던집니다. <style=cIsDamage>학살자.</style> 식칼이 대상을 죽이면 해당 지역의 모든 사람에게 출혈과 압박을 적용합니다.",
         "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "앞으로 돌진하여 <style=cIsDamage>390% 피해</style>를 입히고 적중된 대상에게 유죄를 적용합니다.",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "죄수",
         "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 대상 이외의 적에게 주는 피해도 무효화됩니다.",
         "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "벌하다",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 대상 이외의 적에게 주는 피해도 무효화됩니다.\n<color=#d299ff>SCEPTER: Convict는 유죄가 아닌 적도 대상으로 지정할 수 있습니다. 가하는 피해가 무효화되지 않는 대신 75% 감소합니다.</color>",
-        "MASTERY_SKIN_NAME": "Interrogator: 전문가",
+        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "10초 동안 유죄인 적과 결투를 벌이세요. 주 공격이 더 이상 당신을 공격하지 않으며 적중 시 유죄 스택을 부여합니다. 결투 중 자신에게 미치는 외부 피해는 무효화되지만, 대상 이외의 적에게 주는 피해도 무효화됩니다.\n<color=#d299ff>셉터: 죄수는 유죄가 아닌 적도 대상으로 지정할 수 있습니다. 가하는 피해가 무효화되지 않는 대신 75% 감소합니다.</color>",
         "<style=cKeywordName>Slayer</style><style=cSub>Deals up to <style=cIsDamage>3x</style> damage against low health enemies.</style>": "<style=cKeywordName>학살자</style><style=cSub>체력이 낮은 적에게 최대 <style=cIsDamage>3배</style>의 피해를 줍니다.</style>",
         "KENKO_INTERROGATOR_DESCRIPTION": "Interrogator은 다른 사람의 고통을 즐깁니다. 동맹국에게 상처를 입히는 것을 너무 즐기지 마십시오... 아니면 그렇게 하십시오.<color=#CCD3E0>\n\n< ! > 적, 아군, 심지어 자신에게 공격받아 추가 능력치를 얻으세요. 누구도 안전하지 않습니다.\n\n< ! > 피격 시 발동하는 아이템이 있다면 Affray로 자신에게 출혈을 적용하세요. 고통 없이는 얻는 것도 없습니다.\n\n< ! > Falsify는 적을 강제로 유죄로 표시하는 좋은 방법입니다. 비윤리적이라고요? 무슨 뜻이죠?\n\n< ! > 유죄인 대상에게 Convict를 사용해 벌을 내리세요. 무죄가 증명되기 전까지는 유죄입니다.</color>",
         "<style=cKeywordName>Guilty</style><style=cSub>Grants <color=#FFBF66>Interrogator</color> <style=cIsDamage>attack speed</style>, <style=cIsHealing>health regen</style>, and <style=cIsDamage>damage</style> for each <color=#FFBF66>Guilty</color> target.</style>": "<style=cKeywordName>유죄</style><style=cSub>유죄 대상마다 Interrogator의 공격 속도, 체력 재생, 피해가 증가합니다.</style>",
         "<style=cKeywordName>Ally Damage</style><style=cSub>Allies take and deal less damage to each other and <color=#FFBF66>Guilty</color> expires from them after 10 seconds.</style>": "<style=cKeywordName>아군 피해</style><style=cSub>아군끼리 주고받는 피해가 감소하며, 아군의 유죄는 10초 후 사라집니다.</style>",
         "<style=cKeywordName>Hemorrhage</style><style=cSub>Deal <style=cIsDamage>2000%</style> base damage over 15s. <i>Hemorrhage</i> can stack.</style>": "<style=cKeywordName>출혈</style><style=cSub>15초에 걸쳐 기본 피해의 2000%를 입힙니다. 출혈은 중첩됩니다.</style>",
-        "<style=cKeywordName>Pressured</style><style=cSub>Boost <style=cIsDamage>attack speed</style> and <style=cIsUtility>move speed</style> but lowers <style=cIsHealing>armor</style> and <style=cIsDamage>damage</style>.</style>": "<style=cKeywordName>압박</style><style=cSub>공격 속도와 이동 속도가 증가하지만 방어력과 피해가 감소합니다.</style>"
+        "<style=cKeywordName>Pressured</style><style=cSub>Boost <style=cIsDamage>attack speed</style> and <style=cIsUtility>move speed</style> but lowers <style=cIsHealing>armor</style> and <style=cIsDamage>damage</style>.</style>": "<style=cKeywordName>압박</style><style=cSub>공격 속도와 이동 속도가 증가하지만 방어력과 피해가 감소합니다.</style>",
+        "KENKO_INTERROGATOR_LORE": "Dylan이 도착한 지역에서는 늘 그렇듯 하늘에서 눈이 조용히 내렸다. 그는 분대와 함께 경계 근무를 서며 위험이나 구조가 필요한 사람을 살피고 있었다.\n\n“대장님, 누군가 보이는 것 같습니다.” 이병이 상관을 향해 돌아섰다. 지휘관은 처음에는 돌아보지도 않고 낮게 신음할 뿐이었다. 그의 목소리에는 피로가 묻어났다. 이 행성에서 실종된 사람의 수는 2019 War의 참전 용사인 그마저 지치게 하기 시작했다. Contact Light 승무원에게 일어난 일을 빼고도 이번 구조 작전은 지금까지 참담한 실패였다.\n\n“사람입니다. 확실해요.” 병사는 말을 이으며 이따금 나무가 흩어져 있는 넓고 새하얀 분지를 다시 바라보았다. 그의 말이 맞았다. 누군가 눈 속을 느긋하게 걷고 있었다. 지난밤 날씨는 악몽 같았다. 행성의 거센 자연이 계곡을 무릎보다 깊은 눈으로 뒤덮어 그 형체의 윗부분만 보였다.\n\nDylan이 쌍안경에서 눈을 떼자 지휘관도 마침내 같은 방향을 보고 있었다.\n\n“대장님, 누군가 보내 볼까요?” Dylan이 물었다.\n\n“아니.” 지휘관이 대답했다.\n\n이병은 잠시 풍경을 돌아보았다. “왜요?”\n\n“인간이 아니야.”\n\n“……꼭 사람처럼 보이는데요.” 이병이 다시 쌍안경을 들여다보며 말했다.\n\n“적어도 살아 있는 사람은 아니지.”\n\n“……저 행성이 죽은 사람을 되살릴 수 있다고 생각하십니까?”\n\n“그렇다 해도 놀랍지 않겠군.”\n\n병사는 계속 쌍안경을 들여다보았다. 낯선 이를 오래 볼수록 상관이 이상하게 여긴 점들이 더욱 뚜렷해졌다. 혼자 걷는 자는 커다란 검은 재킷을 입고 있었고, 후드에는 두껍고 더러운 털이 달려 있었다. 재킷 소매가 뜯겨 팔이 드러난 것을 빼면 추위에 잘 대비한 차림이었다. 그가 몸을 조금 돌리자 이병은 그의 몸통을 볼 수 있었다. 이병이 가슴에 착용한 것과 같은 표준 지급 흉갑이었지만, 아마 일 년 이상 지난 구형이었다. 주황색 도장은 완전히 벗겨져 심하게 긁힌 검은 금속 표면이 드러나 있었다. 헬멧도 흉갑과 한 벌인 듯했다. 조금 낡은 표준 Commando 장비였다. 색은 햇빛에 약간 바래 있었다.\n\n그것이 누구든, 무엇이든, 사람을 유인하는 속임수처럼 보였다. 인간인 척하려 하지만 정작 무엇이 인간을 인간답게 만드는지는 이해하지 못하는 모방자 같았다.\n\n“……네, 대장님. 아마 말씀이 맞을 겁니다.”\n\n이튿날 아침 그들이 발견한 것은 그것이 인간이 아니라는 생각을 더욱 굳혔다. Dylan이 속한 분대는 정찰 임무를 받았고, 전날 일을 기억한 이병은 그 형체가 어디로, 또는 어디에서 걸어왔는지 조사하자고 동료들과 지휘관을 설득했다. 발자국은 그들을 끔찍한 현장으로 이끌었다. 파괴된 Contact Light 야영지였다. 다섯 명이 넘지 않는 작은 야영지였다. 불쌍한 다섯 사람은 눈으로 보고도 진정 이해할 수 없는, 인간이라면 도저히 저지를 수 없을 방식으로 살해당했다. 그런데 물린 자국도, 발톱 자국도, 비늘도, 타르나 털 조각도, 토착종의 혈흔도 없었다. 외계의 흔적은 아무것도 없었다. 모든 흔적은 인간의 것이었다.",
+        "ACHIEVEMENT_KENKO_INTERROGATOR_MASTERYACHIEVEMENT_NAME": "Interrogator: Mastery",
+        "ACHIEVEMENT_KENKO_INTERROGATOR_MASTERYACHIEVEMENT_DESCRIPTION": "Interrogator로 게임을 클리어하거나 Monsoon에서 자신을 소멸시키세요."
     }
 }

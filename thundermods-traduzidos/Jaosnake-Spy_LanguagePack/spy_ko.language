@@ -1,0 +1,30 @@
+{
+  "ko": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "Spy는 허약하지만 중요한 목표를 손쉽게 암살하는 데 특화된 근접 암살자입니다.<color=#CCD3E0>\n\n< ! > Spy의 나이프로 Espionage 중첩을 쌓고 The Diamondback으로 치명타를 퍼부으세요.\n\n< ! > Stab은 약한 적을 즉시 처치할 수 있는 파괴적인 능력입니다.\n\n< ! > Sap은 주변 적을 기절시키면서 Backstab 사거리로 파고드는 훌륭한 수단입니다.\n\n< ! > Cloak은 교전 개시와 탈출에 모두 탁월하지만 적절한 자원 관리가 필요합니다.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "첩보의 달인",
+    "KENKO_SPY_LORE": "우주 제국의 급격한 확장이 별들을 가로지르며 번져나감에 따라, 그들 사이에서 타오르는 보이지 않는 전쟁 또한 격화되었습니다. 외교라는 가면이 긴장을 은폐했으나, 표면 아래에는 치열한 정치적 갈등, 갈라서는 동맹, 우주의 침묵 속에서 충돌하는 이념들이 도사리고 있었습니다.\n\n성간 야망의 시대에 공공연한 충돌은 곧 완전한 파멸을 뜻했습니다. 지도자들은 대신 자신들의 뜻을 관철하기 위해 그림자 속으로 숨어들었습니다. 첩보는 가장 선호되는 무기가 되었습니다. 데이터 흐름, 속삭이는 암호, 도난당한 기밀 속에서 벌어지는 침묵의 전쟁이었습니다. 문명 전체가 함대나 화력이 아니라 시의적절한 밀담, 오염된 프로토콜, 실종된 고위 관리에 의해 흔들렸습니다.\n\n스파이들은 제국이라는 거대한 기계 장치 속 유령이 되었습니다. 기만, 침투, 전복의 달인인 그들은 누구의 눈에도 띄지 않은 채 국경을 넘나들며 외과수술과 같은 정밀함으로 제국을 베어냈습니다. 누군가는 군주를 섬겼고, 누군가는 이념을 섬겼으며, 극소수는 오직 자기 자신만을 위해 움직였습니다.\n\n그들의 승리는 결코 퍼레이드로 축하받지 못합니다. 그들의 이름은 결코 불리지 않습니다. 그들의 임무는 의도적으로 묻힙니다. 그러나 성간 국가 전체의 흥망성쇠는 보이지 않는 소수 요원들의 손끝에 달려 있었습니다.\n\n진정한 스파이는 결코 붙잡히지 않습니다. 그들이 역사에 남긴 흔적은 추적할 수 없으나, 조용한 권력의 이동 속에서, 제국이 번영하거나 무너지는 바로 그 순간에 그들의 손길은 언제나 그곳에 보이지 않게... 그러나 결코 부정할 수 없게 존재합니다.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..그리하여 그는 떠났다, 또 하나의 임무를 완수하고서.",
+    "KENKO_SPY_OUTRO_FAILURE": "..그리하여 그는 흔적도 없이 사라졌다.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "대체",
+    "KENKO_SPY_PASSIVE_NAME": "백스탭",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color>는 <color=#62746f>나이프</color>로 적에게 <style=cIsHealth>Backstab</style>을 가할 수 있으며, <style=cIsDamage>치명타</style>를 입혀 약한 적을 즉시 <style=cIsHealth>처치</style>합니다.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "총알을 발사하여 <style=cIsDamage>320%의 피해</style>를 줍니다. <style=cIsHealth>Backstab</style> 처치 시 <color=#62746f>Espionage</color>를 얻습니다. 최대 5중첩.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "총알을 발사하여 <style=cIsDamage>260%의 피해</style>를 줍니다. 헤드샷 적중 시 <style=cIsDamage>치명타</style>가 발생합니다.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "스탭",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "<color=#62746f>나이프</color>를 준비합니다. 손을 떼면 휘둘러 <style=cIsDamage>500%의 피해</style>를 줍니다.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>기회주의자</color>. <color=#62746f>나이프</color>를 준비합니다. 손을 떼면 휘둘러 <style=cIsDamage>500%의 피해</style>를 줍니다. <style=cIsHealth>Backstab</style> 처치 시 <style=cIsUtility>이동 속도</style>와 <style=cIsHealing>보호막</style>을 얻으며 <style=cIsUtility>이 능력의 재사용 대기시간이 초기화</style>됩니다.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "새퍼",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "전방으로 <color=#62746f>새퍼</color>를 던져 주변의 모든 적을 <style=cIsDamage>기절</style>시키고 <style=cIsDamage>피해</style>를 줍니다. 적에게 <color=#62746f>새퍼</color>가 적중하면 Spy가 대상의 등 뒤로 <style=cIsUtility>점멸</style>합니다.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "은폐",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "<color=#62746f>Cloak</color> 상태에 들어가 <style=cIsUtility>투명화</style> 및 <style=cIsUtility>이동 속도</style>를 얻습니다. 공격하거나 피해를 입으면 <color=#62746f>Cloak</color>이 해제됩니다.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: 숙련",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Spy로 몬순 난이도에서 게임을 클리어하거나 자신을 소멸시키세요.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Backstab</style><style=cSub>적의 등 뒤를 공격하면 즉시 치명타가 발생합니다. 약한 적은 즉시 처형됩니다.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Espionage</style><style=cSub>Espionage 중첩을 소모하면 다음 리볼버 사격이 확정적으로 치명타가 됩니다.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportunist</style><style=cSub>Backstab으로 적을 처치하면 이동 속도, 임시 보호막, 재사용 대기시간 초기화를 획득합니다.</style>"
+  }
+}

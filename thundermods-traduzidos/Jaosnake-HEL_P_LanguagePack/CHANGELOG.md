@@ -1,3 +1,11 @@
+## 1.0.6
+- Updated all 13 languages and PELE packs for HEL-P 3.1.0 / 3.1.1.
+- Added Plasma Cutter and Nano-Beam with verified dynamic damage scaling (270%-630%).
+- Updated Repulsor Blast damage and healing to 320%.
+- Updated Imperative: Exterminate barrage damage to 5x500%.
+- Updated Invincible Pulse Cannon to scaled burst (2500-7500% based on charges used).
+- Updated the HEL-P dependency to 3.1.0.
+
 ## 1.0.5
 - Updated all 13 languages for HEL-P 2.5.0.
 - Added the Wisp skin and updated Imperative: Neutralize to three charges, verified against the mod.

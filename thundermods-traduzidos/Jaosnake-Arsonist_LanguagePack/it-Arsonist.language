@@ -1,7 +1,7 @@
 {
     "IT": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "L'Arsonist è un carro armato a corto raggio che usa il fuoco come mezzo per raggiungere un fine. Gestire la sua barra di surriscaldamento gli consente di infliggere ingenti danni a gruppi di nemici. L'equilibrio è fondamentale per la vittoria.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist è un tank a corto raggio che usa il fuoco per raggiungere i propri scopi. Gestendo il suo indicatore di surriscaldamento può infliggere ingenti danni a gruppi di nemici. L'equilibrio è essenziale per la vittoria.\n\n< ! > I tuoi attacchi sono più deboli durante il surriscaldamento. In difficoltà, Purificare può interromperlo subito, ma il suo tempo di ricarica aumenterà.\n\n< ! > Le cariche di Anticipazione di Masochismo continuano ad accumularsi durante l'abilità: puoi quindi attivarla presto e terminarla con la durata massima.\n\n< ! > Purificare può rimuovere l'effetto di fuoco della tua passiva. Usala per uscire da una situazione difficile.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Piromane Maniaco",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Calibro normale",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Affare<style=cIsDamage>100%</style>danni sulla parte bianca. Il calibro di base è resistente al surriscaldamento.</i>",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Come Arsonist, completa un livello senza surriscaldarti.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Uccidi un boss del teletrasporto mentre brucia."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Uccidi un boss del teletrasporto mentre brucia.",
+        "POPCORN_ARSONIST_BODY_LORE": "Registrazione audio presa da un dispositivo di registrazione personale.\n\nStampa della trascrizione...\n\nAderire all’UES si è rivelato facile. Soprattutto con i loro annunci di lavoro. \n\nUn esperto di demolizioni non è molto diverso dal tipo di lavoro che già svolgo. E sì, l'incendio doloso è un lavoro. I militari erano stati così gentili da lasciare in giro il vecchio equipaggiamento dell'Unità incendiaria affinché occhi attenti come il mio potessero trovarlo. Non è stato difficile scoprire esattamente cosa stavano cercando di fare con quell’unità, ed è stato un vero peccato che l’abbiano chiusa.\n\nErano eccezionali. Erano brillanti e l'UES disse loro che erano psicopatici. Sono riuscito a malapena a salvare i resti di quel poco che non era stato completamente distrutto. Anche allora, non ho avuto molte possibilità di testare i miei restauri a causa della rigorosa sicurezza della mia divisione.\n\nHo sentito da un collega che c'era un incarico in arrivo. Una sorta di missione di salvataggio a bordo della UES Safe Travels verso un pianeta inesplorato. Ho sentito storie su quel posto, non così belle sulle creature che vivono lì.\n\nUhm.\n\nForse andrò. Sembra che troverò degli ottimi topi da laboratorio.\n\nFine della registrazione."
     }
 }

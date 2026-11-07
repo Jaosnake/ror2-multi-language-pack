@@ -30,6 +30,7 @@
         "KENKO_SEAMSTRESS_SPECIAL_FIRE_DESCRIPTION": "<style=cIsHealth>15%生命值</style>。投掷一把<color=#9B3737>共生</color>剪刀造成<style=cIsDamage>400%伤害</style>。拾取<color=#9B3737>共生</color>剪刀以斩击造成<style=cIsDamage>200%伤害</style>。",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "狂暴",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15%生命值</style>。投掷一把<color=#9B3737>共生</color>剪刀造成<style=cIsDamage>400%伤害</style>。拾取<color=#9B3737>共生</color>剪刀以斩击造成<style=cIsDamage>200%伤害</style>。\n<color=#d299ff>权杖: 你的<color=#9B3737>共生</color>武器仅有<style=cIsUtility>1.5秒拾取时间</style>。</color>",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>平面束缚</style><style=cSub>每<style=cIsHealth>损失1点生命值</style>获得<style=cIsDamage>0.05基础伤害</style>。命中时至多回复<style=cIsHealth>损失生命值</style>的<style=cIsHealing>1%</style>。</style>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "使用Seamstress通关游戏，或在Monsoon难度下抹除自己。",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",

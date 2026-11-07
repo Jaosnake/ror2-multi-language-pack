@@ -1,0 +1,10 @@
+{
+  "name": "Fisherman_LanguagePack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for Fisherman by Wunt.",
+  "dependencies": [
+    "Wunt-Fisherman-0.4.0",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ]
+}

@@ -30,6 +30,7 @@
         "KENKO_SEAMSTRESS_SPECIAL_FIRE_DESCRIPTION": "<style=cIsHealth>15% HP</style>. Fire a <color=#9B3737>Symbiotic</color> scissor dealing <style=cIsDamage>400% damage</style>. Pick up <color=#9B3737>Symbiotic</color> scissors to slash for <style=cIsDamage>200% damage</style>.",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "Rampage",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% HP</style>. Fire a <color=#9B3737>Symbiotic</color> scissor dealing <style=cIsDamage>400% damage</style>. Pick up <color=#9B3737>Symbiotic</color> scissors to slash for <style=cIsDamage>200% damage</style>.\n<color=#d299ff>SCEPTER: Your <color=#9B3737>Symbiotic</color> weapon only has a <style=cIsUtility>1.5 second pickup time</style>.</color>",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>Plane Bound</style><style=cSub>Gain <style=cIsDamage>0.05 base damage</style> per <style=cIsHealth>1 missing health</style>. Heal up to <style=cIsHealing>1%</style> of your <style=cIsHealth>missing health</style> on hit.</style>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "As Seamstress, beat the game or obliterate on Monsoon.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",

@@ -1,0 +1,29 @@
+{
+  "es-419": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>El Jefe</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Dragón de Obsidiana</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Fiesta en la Piscina</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Dragón de Obsidiana de Prestigio</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Reinos Mecha</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Petardos</color>",
+    "SETT_DESCRIPTION": "Sett es El Jefe: un emprendedor y luchador hecho a sí mismo, mitad vastaya y mitad noxiano, que dirige los fosos de pelea clandestinos de Jonia.<color=#CCD3E0>\r\n\r\n< ! > Los ataques básicos de Sett alternan entre puñetazo izquierdo y derecho. El puñetazo derecho es ligeramente más fuerte y rápido. Sett también detesta perder, obteniendo regeneración de salud adicional según la salud que le falte.\r\n\r\n< ! > Sett atrae a todos los enemigos a ambos lados hacia él, infligiendo daño y aturdiéndolos. Si los enemigos están solo de un lado, se ralentizan en vez de quedar aturdidos.\r\n\r\n< ! > Sett eleva a un campeón enemigo por los aires y lo estrella contra el suelo, infligiendo daño y ralentizando a todos los enemigos cercanos al impacto.\r\n\r\n< ! > Sett acumula pasivamente el daño recibido como Furia. Al usarla, Sett gasta toda la Furia acumulada para ganar un escudo y golpear un área, infligiendo daño verdadero en el centro y daño físico a los lados.</color>",
+    "SETT_LORE": "Líder del creciente bajo mundo criminal de Jonia, Sett alcanzó la prominencia tras la guerra con Noxus. Aunque comenzó como un humilde aspirante en los fosos de pelea de Navori, rápidamente ganó notoriedad por su fuerza salvaje y su capacidad de soportar cantidades aparentemente interminables de castigo. Ahora, habiendo ascendido entre las filas de los combatientes locales, Sett se abrió paso a fuerza de puños hasta la cima, reinando sobre los fosos en los que antaño luchaba.",
+    "SETT_OUTRO_FLAVOR": "..y así se marchó, con un nuevo poder que honrar.",
+    "SETT_OUTRO_FAILURE": "..y así regresó, un bastión infalible verdaderamente inmortalizado.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Predeterminado</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>CORAZÓN DE LA MEDIABESTIA</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>regenera</color> <color=#008744>0.25 de vida adicional por segundo</color> <color=#d62d20>(+ 0.25 cada 4 niveles)</color> por cada <color=#f68835>5%</color> de su <color=#d62d20>vida faltante.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>NUDILLOS FUERTES</color>",
+    "SETT_PRIMARY_DESC": "Los <color=#c9aa71>ataques básicos</color> de Sett alternan entre un Golpe Izquierdo <color=#f68835>(260% de daño)</color> y un Golpe Derecho <color=#f68835>(320% de daño)</color>. Los <color=#c9aa71>golpes críticos</color> reinician el temporizador de ataque básico de Sett y provocan que el siguiente ataque básico inflija <color=#d62d20>daño doble.</color>",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>ROMPECARAS</color>",
+    "SETT_SECONDARY_DESC": "Sett <color=#c9aa71>atrae</color> a todos los enemigos en un radio de <color=#0057e7>20 metros</color> hacia él, causando un <color=#f68835>380% </color>de daño. <color=#c9aa71>Aturde y Ralentiza</color> al impactar.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>EL GRAN ESPECTÁCULO</color>",
+    "SETT_UTILITY_DESC": "Sett <color=#c9aa71>lleva</color> a un enemigo por los aires y lo estrella contra el suelo, causando un <color=#f68835>1600%</color> <color=#d62d20>(+10% de la salud máxima y escudo máximo del objetivo principal)</color> de daño a todos los enemigos cercanos al impacto.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>GOLPE DEMOLEDOR</color>",
+    "SETT_SPECIAL_DESC": "Sett acumula pasivamente el daño recibido como <color=#ffffff>Furia</color>. Al usarla, Sett gasta toda la <color=#ffffff>Furia</color> acumulada para ganar un <color=#ffffff>Escudo</color> y golpear un área, infligiendo un <color=#f68835>2700%</color> <color=#d62d20>(+75% de la Furia consumida +5% cada 4 niveles)</color> de daño <color=#ffffff>VERDADERO</color>.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Maestría",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Sett, completa la partida u oblitérate en Monsoon.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Maestría"
+  }
+}

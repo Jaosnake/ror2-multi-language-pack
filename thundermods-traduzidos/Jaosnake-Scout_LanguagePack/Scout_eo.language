@@ -1,0 +1,30 @@
+{
+  "eo": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "Natura Forto",
+    "KENKO_SCOUT_DESCRIPTION": "Scout estas ekstreme rapida postvivanto kun granda subita damagxo, kiu povas facile celi kaj terenbati unuopajn malamikojn.<color=#CCD3E0>\r\n\r\n< ! > Uzu la retrobaton de via Splattergun por atingi altajn lokojn aux por eviti malamikajn atakojn.\r\n\r\n< ! > Kombini vian Basbalon kaj Hakilon povas kauxzi masivan damagxon de malproksime.\r\n\r\n< ! > Batilo povas gajni la plej grandan sxargon de Atomic Core se cxeestas grandaj grupoj de malamikoj.\r\n\r\n< ! > Ekstraj stokoj por Atomic Blast pliigas gxian dauxron, dum malvarmiga redukto pliigas la sxargrapidecon de Atomic Core.</color>",
+    "KENKO_SCOUT_LORE": "Eskapo el la elektrocentralo. Akcidento, kiu disvastigxus kiel sovagxa fajro tra la novajxoj, kies kauxzo estis nekonata. Soleca laboristo stumblas malrapide for, kun sia batilo kiel sola subteno. Li vagis sencele, doloro kaj sxoko ehxantaj tra lia tuta korpo. Alproksimigxante al kio sxajnis esti forlasita fervojo, en la malproksimo li nur povis provi distingi tion, kion li logike konsideris alia homo. Havante strangan auxron cxirkaux si, li restis singarda kaj provis identigi ajnan eblan minacon de la figuro.\r\n\r\n“Estas bela tempo por promenado, cxu vi gxenas se mi kunigxas kun vi apud cxi tiuj malnovaj reloj?”\r\n\r\n“K-Kiu vi estas...? Kion vi v-volas de mi?”\r\n\r\n“Mia identeco ne koncernas vin.”\r\n“... tamen mi povas vidi, ke vi havis suficxe malfacilan nokton. Proksimigxante al la sojlo de Morto, cxu ne?”\r\n“Mi eble havas ion, kio povas helpi vin, ian... proponon.”\r\n\r\n“I-Iun... k-kontrakton..?”\r\n\r\n“Gxuste.”\r\n\r\nLia gorgxo fermigxis, lia koro ekbatis rapide, kaj lia menso komencis sxajnigi, ke nenio el tio okazis. Heziteme, li fine elspiris la spiron, kiun li tenis dum kio sxajnis eterneco dum la persono parolis. Cxu estis timo, kiun li sentis? Konfuzo? Aux cxu estis la ideo, ke li povus havi la mondon cxe siaj fingropintoj, kio sendis lin en preskaux euxforian tenton? Malgraux cxio, li ankoraux auxskultis atente. Koncentrigxante kaj malkodante cxiun solan vorton. Eble tio povus eltiri lin el cxi tiu infero.\r\n\r\n“Mi povas senti la radiadon elradiantan de vi... hm...”\r\n“... Mi havas gxuste la tauxgan aferon. Kion vi dirus se mi transformus tion en ion, kio fortigos vin, hm? Farus vin pli bona kaj pli forta ol antauxe, kontraux... ni vidu... kelkaj favoroj. Sonas bone, cxu ne? Mi pensas, ke jes.”\r\n“Mi havas kelkajn malnovajn kamaradojn, kiuj povas helpi ankaux pri la proceduro.”\r\n\r\n“... S-sed kio pri mia laboro?”\r\n“Kien mi iros? Mi preferus ne esti senlabora...”\r\n\r\n“Kurioze, ke vi mencias tion, mi auxdis pri laboro, kiu iras ien en la profundojn de la kosmo. Mi imagas, ke ili povos uzi vian novan rapidecon kaj lertecon por gxi post kiam cxio estos farita.”\r\n“... ankaux konsilo, konstruu iom da memfido. Gxi eble plibonigos viajn sxancojn.”\r\n\r\n“Hm...”\r\n“... Bone, konsentite... kiu ajn vi estas.”\r\n\r\n“Mirinde.”\r\n\r\nLa sono de malproksima trajno estas auxdebla. Dum gxi malrapidigxis kaj kun la sono de sia malnova fajfilo eksonanta, la du jam malaperis.",
+    "KENKO_SCOUT_OUTRO_FLAVOR": ".. herbo kreskas, birdoj flugas, suno brilas kaj frato, mi vundas homojn .",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..kio diable estis tiu stultajxo?",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "Alternativa",
+    "KENKO_SCOUT_PASSIVE_NAME": "Atomic Core",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scout povas <style=cIsUtility>salti dufoje</style>. Kauxzu <style=cIsDamage>damagxon</style> por akumuli <style=cHumanObjective>Atomic Core</style>. Ricevi damagxon reduktas <style=cHumanObjective>Atomic Core</style>. <style=cHumanObjective>Atomic Core</style> pliigas <style=cIsUtility>movigxrapidecon</style>.",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Splattergun",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Pafu disigan pafon por <style=cIsDamage>12x{0}% da damagxo</style>.",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Maldiligenta Nano",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "Pafu altrapidan kuglon por <style=cIsDamage>{0}% da damagxo</style>. <style=cIsDamage>Kaptrafoj kauxzas 2x da damagxo</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Elefanta Piedo",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Svingu vian batilon por <style=cIsDamage>{0}% da damagxo</style>.",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Toksa Hakilo",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Jxetu vian hakilon kauxzante <style=cIsDamage>Ruinigxon</style> kaj <style=cIsDamage>{0}% da damagxo</style>. <style=cIsDamage>Kritike Trafas</style> kaj <style=cIsHealing>Venenas</style> <style=cIsDamage>Svenigitajn</style> malamikojn.",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Pikilpilko",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>Lerta</style>. Frapu vian basbalon <style=cIsDamage>Svenigante</style> kaj kauxzante <style=cIsDamage>{0}% da damagxo</style>. Dauxro de <style=cIsDamage>Sveno</style> pligrandigxas laux la trakurita distanco.",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Atoma Eksplodo",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "Drenu vian <style=cHumanObjective>Atomic Core</style> por gajni <style=cIsDamage>Atomajn Kritikojn</style>, <style=cIsDamage>ataktan rapidecon</style> kaj <style=cIsUtility>movigxrapidecon</style>. Kauxzu <style=cIsDamage>{0}% - {1}% da damagxo</style> cxirkaux vi surbaze de la sxargo.",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "Intersxangxi",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "Sxangxu al via batilo.",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "Intersxangxi",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "Sxangxu al via batilo. <style=cHumanObjective>Atomic Charge</style> ankoraux povas esti gajnata dum <style=cHumanObjective>Atomic Core</style> malplenigxas .",
+    "KENKO_SCOUT_masteryAchievement": "Kiel Scout, venku la ludon aux forvisxu vin en Monsoon."
+  }
+}

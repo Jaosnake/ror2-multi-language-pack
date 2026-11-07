@@ -1,0 +1,29 @@
+{
+  "ko": {
+    "SETT_NAME": "<color=#ffa700>세트</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>우두머리</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>흑요석 용</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>수영장 파티</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>프레스티지 흑요석 용</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>메카 삼국</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>폭죽</color>",
+    "SETT_DESCRIPTION": "세트는 이곳의 우두머리입니다. 아이오니아의 지하 투기장을 지배하며 자수성가한 바스타야와 녹서스의 혼혈 기업가이자 투사입니다.<color=#CCD3E0>\n\n< ! > 세트의 기본 공격은 왼손 펀치와 오른손 펀치를 번갈아 구사합니다. 오른손 펀치는 조금 더 강하고 빠릅니다. 또한 패배를 극도로 싫어하는 세트는 잃은 체력에 비례하여 추가 체력 재생을 얻습니다.\n\n< ! > 세트가 양쪽에 있는 모든 적을 끌어당겨 피해를 입히고 기절시킵니다. 적이 한쪽에만 있을 경우 기절 대신 둔화시킵니다.\n\n< ! > 세트가 적 하나를 붙잡고 공중으로 솟구쳐 지면에 내리꽂으며, 착지 지점 주변의 모든 적에게 피해를 입히고 둔화시킵니다.\n\n< ! > 세트는 자신이 받는 피해를 지속 효과로 투지로 축적합니다. 사용 시 세트는 축적된 모든 투지를 소모하여 보호막을 얻고 해당 지역을 강타하여 중심부에는 고정 피해를, 외곽에는 물리 피해를 입힙니다.</color>",
+    "SETT_LORE": "아이오니아에서 급성장하는 지하 범죄 세계의 우두머리인 세트는 녹서스와의 전쟁 여파 속에서 두각을 나타냈습니다. 나보리 투기장의 미천한 도전자로서 시작했으나, 야수 같은 괴력과 끝없는 공격을 버텨내는 맷집으로 단숨에 악명을 떨쳤습니다. 이제 현지의 모든 투사를 굴복시키고 정상에 오른 세트는, 자신이 한때 피 흘리며 싸우던 바로 그 투기장을 지배하고 있습니다.",
+    "SETT_OUTRO_FLAVOR": "..그리하여 그는 떠났다, 기려야 할 새로운 힘을 품고서.",
+    "SETT_OUTRO_FAILURE": "..그리하여 그는 돌아왔다, 진정으로 불멸이 된 무결한 요새로서.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>기본</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>반인반수의 심장</color>",
+    "SETT_PASSIVE_DESC": "세트는 <color=#d62d20>잃은 체력</color> <color=#f68835>5%</color>마다 초당 추가로 <color=#008744>0.25의 체력</color> <color=#d62d20>(4레벨마다 +0.25)</color>을 <color=#c9aa71>재생</color>합니다.",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>주먹다짐</color>",
+    "SETT_PRIMARY_DESC": "세트의 <color=#c9aa71>기본 공격</color>은 왼손 펀치<color=#f68835>(260% 피해)</color>와 오른손 펀치<color=#f68835>(320% 피해)</color>를 번갈아 구사합니다. <color=#c9aa71>치명타</color> 발생 시 세트의 기본 공격 타이머가 초기화되며 다음 기본 공격이 <color=#d62d20>2배의 피해</color>를 입힙니다.",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>안면 강타</color>",
+    "SETT_SECONDARY_DESC": "세트가 자신 기준 <color=#0057e7>20미터</color> 반경 내의 모든 적을 <color=#c9aa71>끌어당겨</color> <color=#f68835>380% </color>피해를 입힙니다. 적중 시 <color=#c9aa71>기절 및 둔화</color>시킵니다.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>대미를 장식할 등장</color>",
+    "SETT_UTILITY_DESC": "세트가 적 하나를 공중으로 <color=#c9aa71>붙잡고 날아올라</color> 지면에 내리꽂으며, 착지 지점 부근의 모든 적에게 <color=#f68835>1600%</color> <color=#d62d20>(+주 대상 최대 체력 및 최대 보호막의 10%)</color> 피해를 입힙니다.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>강펀치</color>",
+    "SETT_SPECIAL_DESC": "세트는 자신이 받는 피해를 지속 효과로 <color=#ffffff>투지</color>로 축적합니다. 사용 시 세트는 축적된 모든 <color=#ffffff>투지</color>를 소모하여 <color=#ffffff>보호막</color>을 얻고 해당 지역을 강타하여 <color=#f68835>2700%</color> <color=#d62d20>(+소모한 투지의 75% 4레벨마다 +5%)</color>의 <color=#ffffff>고정</color> 피해를 입힙니다.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "세트: 숙련",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "세트로 몬순 난이도에서 게임을 클리어하거나 자신을 소멸시키세요.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "세트: 숙련"
+  }
+}

@@ -1,43 +1,23 @@
-# Goku Multi-Language Pack (15 Languages) - v1.0.0
+# Goku Multi-Language Pack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
-![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
-[![PELE](https://img.shields.io/badge/%E2%9A%A1%20P.E.L.E.-Required%20for%20UA%20%2F%20eo%20%2F%20la-orange)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)
+> **Required in every language:** Install [P.E.L.E. 1.0.3](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/). Its separate KingModUtilities compatibility DLL enables the translated transformation menus and tutorials for Goku, Vegeta and Trunks. The mod manager installs P.E.L.E. as a dependency.
+>
+> **Obrigatório em todos os idiomas:** instale o [P.E.L.E. 1.0.3](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/). A DLL de compatibilidade incluída nele habilita a tradução dos menus de transformações e dos tutoriais de Goku, Vegeta e Trunks. O gerenciador instala o P.E.L.E. automaticamente como dependência.
 
-Comprehensive localization pack for [Goku](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Goku/) by `kinggrinyov` (v2.13.3), covering **77 localized strings per language** across **15 languages**.
+Community translation for [Goku by kinggrinyov](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Goku/), checked against version 2.13.3.
 
----
+## Languages
 
-## ⚠️ Important Note / Avviso Importante / Nota Importante:
-> **Esperanto (`eo`)**, **Latin (`la`)**, and **Ukrainian (`UA`)** require [P.E.L.E. (Language Extension Pack)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) to be selected in-game, as Risk of Rain 2 lacks native menu options for these languages.
+English, Brazilian Portuguese, German, Spanish (Latin America and Spain), French, Italian, Japanese, Korean, Russian, Simplified Chinese, Turkish, Ukrainian, Esperanto and Latin. Ukrainian, Esperanto and Latin are available in the language selector through P.E.L.E.
 
----
+## Installation
 
-## Supported Languages (15 Idiomas):
-- **pt-BR** (Português do Brasil)
-- **en** (English)
-- **de** (Deutsch)
-- **eo** (Esperanto - Requires P.E.L.E.)
-- **es-419** (Español Latinoamericano)
-- **es-ES** (Español Castellano)
-- **FR** (Français)
-- **IT** (Italiano)
-- **ja** (日本語)
-- **ko** (한국어)
-- **la** (Latina - Requires P.E.L.E.)
-- **RU** (Русский)
-- **tr** (Türkçe)
-- **UA** (Українська - Requires P.E.L.E.)
-- **zh-CN** (简体中文)
+Install P.E.L.E. 1.0.3, the original Goku mod and this pack with your mod manager. The original mod provides KingModUtilities as a dependency. For manual installations, install all required dependencies and keep only one copy of the P.E.L.E. compatibility DLL.
 
----
+Skill descriptions and numbers can depend on the original mod version and its settings. If you change those settings, some descriptions may fall back to the original text.
 
-## Contents:
-- Complete skill localization: Melee Strike, Triple Kick (Legacy), Ki Blast, Meteor Crash, Instant Transmission, Ki Charge, Kamehameha, Spirit Bomb.
-- Ultimate Skills: Angry Kamehameha, Ki Blast Barrage, Dragon Fist, God Bind, God Fist Kamehameha, Godly Display, Kamehameha x10, Black Kamehameha, White Dragon Fist.
-- Passive: Saiyan Blood (with Kaioken integration).
-- Skins: Default, Goku Black, Drip.
-- Transformations & Form Mastery: Full UI localization for KingModUtilities Transformation Menu.
-- Outro: "And so he left, hungry for more."
+## Credits and feedback
 
-Maintained by **Jaosnake**.
+Original Goku mod and KingModUtilities by kinggrinyov. Translation pack by Jaosnake. [Project and feedback](https://github.com/Jaosnake/ror2-multi-language-pack).
+
+[Support Jaosnake on Ko-fi](https://ko-fi.com/jaosnake)

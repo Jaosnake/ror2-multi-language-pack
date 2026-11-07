@@ -33,6 +33,7 @@
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Con Seamstress, completa il gioco o annientati in Monsoon.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Con Seamstress, completa il gioco o annientati in Eclipse o a una difficoltà superiore.",
-        "KENKO_SEAMSTRESS_DESCRIPTION": "La Seamstress è una sopravvissuta mobile che usa la sua vita per infliggere danni. Guadagna meno danno base per livello quindi accumula oggetti di vita per sfruttare la sua conversione da vita a danno.<color=#CCD3E0>\n\n< ! > Usa Forbiciata con più aghi possibile. Può applicare rapidamente sanguinamento durante Insaziabile.\n\n< ! > Brutalizzare aumenta molto i danni, ma fai attenzione alla salute.</color>"
+        "KENKO_SEAMSTRESS_DESCRIPTION": "La Seamstress è una sopravvissuta mobile che usa la sua vita per infliggere danni. Guadagna meno danno base per livello quindi accumula oggetti di vita per sfruttare la sua conversione da vita a danno.<color=#CCD3E0>\n\n< ! > Usa Forbiciata con più aghi possibile. Può applicare rapidamente sanguinamento durante Insaziabile.\n\n< ! > Brutalizzare aumenta molto i danni, ma fai attenzione alla salute.</color>",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>Legame planare</style><style=cSub>Ottieni <style=cIsDamage>0,05 di danno base</style> per ogni <style=cIsHealth>1 di vita mancante</style>. Cura fino all'<style=cIsHealing>1%</style> della tua <style=cIsHealth>vita mancante</style> a segno.</style>"
     }
 }

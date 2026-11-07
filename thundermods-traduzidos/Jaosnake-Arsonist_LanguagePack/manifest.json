@@ -1,11 +1,11 @@
 {
     "author": "Jaosnake",
     "name": "Arsonist_LanguagePack",
-    "description": "Multi-language translation pack for Arsonist by PopcornFactory - translated by Jaosnake",
+    "description": "Multi-language translation pack for Arsonist by PopcornFactory.",
     "dependencies": [
-        "PopcornFactory-Arsonist_Mod-3.0.6",
+        "PopcornFactory-Arsonist_Mod-3.0.9",
         "RiskofThunder-R2API_Language-1.1.0"
     ],
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

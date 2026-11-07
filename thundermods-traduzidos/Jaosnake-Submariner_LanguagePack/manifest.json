@@ -1,0 +1,10 @@
+{
+    "name": "Submariner_LanguagePack",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+    "description": "Multi-language translation pack for Submariner by tsuyoikenko.",
+    "dependencies": [
+        "tsuyoikenko-Submariner-1.1.5",
+        "RiskofThunder-R2API_Language-1.1.0"
+    ]
+}

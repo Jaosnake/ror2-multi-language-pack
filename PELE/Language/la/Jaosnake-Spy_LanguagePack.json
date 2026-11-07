@@ -1,0 +1,30 @@
+{
+    "strings": {
+        "KENKO_SPY_NAME": "Spy",
+        "KENKO_SPY_DESCRIPTION": "Spy est sicarius comminus fragilis, qui scopus magni momenti facilitate interficiendo excellit.<color=#CCD3E0>\n\n< ! > Cumula strues Speculationis cultro Spy et ictus criticos cum The Diamondback effunde.\n\n< ! > Confossio est facultas vastans quae hostes debiliores statim interimere potest.\n\n< ! > Sabotagium instrumentum praeclarum esse potest ad spatium Confossionis a tergo petendum dum hostes vicini obstupefiunt.\n\n< ! > Velamen via egregia est ad hostes aggrediendos et effugiendos, sed aptam opum administrationem requirit.\n\n</color>",
+        "KENKO_SPY_SUBTITLE": "Magister Speculationis",
+        "KENKO_SPY_LORE": "Cum celeris imperiorum spatialium progressus per astra grassaretur, bella quoque silentia inter ea ardentia creverunt. Diplomaticae personae tensionem tegebant, sed sub superficie saeva certamina politica, foedera fracta, atque ideologiae in silentio spatii concurrentes latebant.\n\nIn hac aetate interstellaris ambitionis, bellum apertum summum exitium minabatur. Principes potius ad umbras se contulerunt ut voluntatem suam exsequerentur. Speculatio telum delectum facta est — bellum tacitum in fluviis datorum, codicibus susurratis ac secretis surreptis gestum. Totae civitates non classibus aut vi armorum, sed susurro opportune immisso, protocollo corrupto, magistratu sublato commovebantur.\n\nSpeculatores larvae in machinatione imperii effecti sunt. Magistri fraudis, infiltrationis ac subversionis, inter fines inobservati elapsi sunt, imperia chirurgica subtilitate secantes. Aliqui regibus servierunt. Alii idealibus. Pauci soli sibi servierunt.\n\nVictoriae eorum numquam pompis celebrantur. Nomina eorum numquam efferuntur. Missiones eorum de industria defodiuntur. Attamen ortus et occasus totarum gentium stellarum actionibus paucorum invisibilium agentium nixi sunt.\n\nBonus speculator numquam comprehenditur. Vestigium quod in historia relinquunt inveniri non potest, sed in quieta potestatis conversione, illo momento cum imperium oritur aut collabitur, manus eorum semper adest, invisibilis... sed indubitata.",
+        "KENKO_SPY_OUTRO_FLAVOR": "..atque ita discessit, alio munere confecto.",
+        "KENKO_SPY_OUTRO_FAILURE": "..atque ita evanuit, sine ullo vestigio.",
+        "KENKO_SPY_MASTERY_SKIN_NAME": "Alternativus",
+        "KENKO_SPY_PASSIVE_NAME": "Confossio a tergo",
+        "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> hostes a tergo <style=cIsHealth>Confodere</style> <color=#62746f>Cultro</color> suo potest, <style=cIsDamage>Ictum criticum</style> efficiens qui hostes debiliores statim <style=cIsHealth>interimit</style>.",
+        "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+        "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Mitte glandem pro <style=cIsDamage>320% damni</style>. Caedes <style=cIsHealth>Confossione a tergo</style> factae <color=#62746f>Speculationem</color> praebent. Maximae 5 strues.",
+        "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+        "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Mitte glandem pro <style=cIsDamage>260% damni</style>. Ictus in capite <style=cIsDamage>Ictum criticum</style> efficit.",
+        "KENKO_SPY_SECONDARY_KNIFE_NAME": "Confossio",
+        "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Para <color=#62746f>Cultrum</color> tuum. Dimitte ut vibres pro <style=cIsDamage>500% damni</style>.",
+        "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+        "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Opportunista</color>. Para <color=#62746f>Cultrum</color> tuum. Dimitte ut vibres pro <style=cIsDamage>500% damni</style>. Caedes <style=cIsHealth>Confossione a tergo</style> factae <style=cIsUtility>velocitatem motus</style> et <style=cIsHealing>claustrum</style> praebent atque <style=cIsUtility>cooldown huius facultatis restituunt</style>.",
+        "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotagium",
+        "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Iace <color=#62746f>Sabotatorem</color> antrorsum, omnes hostes vicinos <style=cIsDamage>obstupefaciens</style> et eis <style=cIsDamage>damnum</style> infligens. Hoste <color=#62746f>Sabotatore</color> icto, Spy post scopum <style=cIsUtility>emicat</style>.",
+        "KENKO_SPY_SPECIAL_CLOAK_NAME": "Velamen",
+        "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Ingredere statum <color=#62746f>Velaminis</color>, <style=cIsUtility>invisibilitatem</style> ac <style=cIsUtility>velocitatem motus</style> adipiscens. Impugnare aut damnum accipere <color=#62746f>Velamen</color> abrumpit.",
+        "KENKO_SPY_masteryAchievement_NAME": "Spy: Magisterium",
+        "KENKO_SPY_masteryAchievement_DESCRIPTION": "Ut Spy, vince ludum aut te dele in tempestate Monsoonia.",
+        "KEYWORD_BACKSTAB": "<style=cKeywordName>Confossio a tergo</style><style=cSub>Hostem a tergo percutere ictum criticum subitaneum efficit. Hostes debiliores statim trucidantur.</style>",
+        "KEYWORD_ESPIONAGE": "<style=cKeywordName>Speculatio</style><style=cSub>Struem Speculationis consumere ictum criticum in proximo ictu revolutorii praestat.</style>",
+        "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportunista</style><style=cSub>Hostem Confossione a tergo interimere velocitatem motus, claustrum temporarium et restitutionem cooldown praebet.</style>"
+    }
+}

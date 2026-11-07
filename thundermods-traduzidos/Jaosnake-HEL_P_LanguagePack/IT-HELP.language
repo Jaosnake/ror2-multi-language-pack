@@ -22,6 +22,12 @@
     "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Spara una raffica di energia che <style=cIsHealth>DANNEGGIA I NEMICI</style> e <style=cIsHealing>CURA GLI ALLEATI</style> per il <style=cIsDamage>5x800%</style>. <style=cIsUtility>FINO A 3 CARICHE.</style>",
     "Jellyfish": "Medusa",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Colpisci un nemico con una scarica per <style=cIsUtility>FOLGORARLO</style> e infliggere <style=cIsDamage>30%</style> DI DANNI. <style=cIsUtility>FINO A 3 CARICHE.</style>",
-    "Wisp": "Fuoco fatuo"
+    "Wisp": "Fuoco fatuo",
+    "PLASMA CUTTER": "Tagliatore al plasma",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Carica un raggio di plasma ardente che infligge <style=cIsDamage>270%-630% DI DANNI AL SECONDO</style>.",
+    "NANO-BEAM": "Nano-Raggio",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Spara cannoni a impulsi nano che infliggono <style=cIsDamage>320% di danni</style> ai nemici e <style=cIsHealing>curano gli alleati per il 320% dei tuoi danni</style>.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Spara una raffica di energia che <style=cIsHealth>DANNEGGIA I NEMICI</style> e <style=cIsHealing>CURA GLI ALLEATI</style> per il <style=cIsDamage>5x500%</style>. <style=cIsUtility>FINO A 3 CARICHE.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Spara una scarica devastante che <style=cIsHealth>danneggia i combattenti ostili</style> e <style=cIsHealing>cura i combattenti alleati</style> per il <style=cIsDamage>2500-7500%</style> in base alle <style=cIsUtility>CARICHE USATE.</style>"
   }
 }

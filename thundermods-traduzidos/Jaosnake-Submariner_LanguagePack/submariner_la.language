@@ -1,0 +1,25 @@
+{
+  "la": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Submariner est gravis bellatrix comminus pugnans, quae ad turbam continendam et ad firmitatem in proelio dominando confisa est.<color=#CCD3E0>\n\n< ! > Preme hostes ictibus comminus ad vitam continenter reficiendam.\n\n< ! > Revolutione utere ad minores hostes ad te trahendos et ad impetus vitandos maiores hostes feriendo.\n\n< ! > Mina Echinina est praeclarus modus celeriter e situ ancipiti evadendi et minas magni damni in futurum collocandi.\n\n< ! > Intra spatium facultatis Iace Ancoram! mane, nam celeritatis motus augmentum instrumentum eximium ad pugnandum esse potest.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Profunditates Abyssi",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..et ita discessit, numquam denuo sola relinquenda.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..et ita disparuit, solo silentio ad latus suum remanente.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abyssalis",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "Benedictio N'kuhanae",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Hostes <style=cIsDamage>impetibus comminus</style> ferire <style=cIsHealing>Restitutionem N'kuhanae</style> concedit.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811 Instrumentum Ancorarium",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "In fronte vibra, <style=cIsDamage>450% damni</style> inferens.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Revolutio",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Harpagonem emitte <style=cIsDamage>150% damni</style> inferentem. Hostes parvos ad te <style=cIsUtility>trahit</style> atque te ad hostes magnos <style=cIsUtility>trahit</style>. Concursus cum hoste magno <style=cIsDamage>300% damni</style> infert ac deinde <style=cIsUtility>saltum retroversum incipit.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Echinus Explosivus",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>Saltum retroversum fac</style> emittens <style=cIsHealing>Minam Echiniram</style> quae <style=cIsDamage>700% damni</style> infert.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Optimus Amicus Cultus",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Interfector.</style> <style=cIsHealing>Bestiam</style> equita, quae celeriter procurrit <style=cIsDamage>700% damni</style> inferens. Hostem levem interficere <style=cIsUtility>accelerat</style> <style=cIsHealing>Bestiam</style> et <style=cIsDamage>damnum</style> illatum auget. Incursio in hostes magnos te sistit atque hostem <style=cIsUtility>obstupefacit</style>.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Iace Ancoram!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Ancoram tuam iace, <style=cIsDamage>1200% damni</style> in ictu inferens. Ad ancoram currere <style=cIsUtility>celeritatem motus</style> auget, dum ab ea recedere te <style=cIsDamage>tardat</style>. Longius recedere catenam ancorae <style=cIsHealth>rumpit</style>, impetum repentinum <style=cIsUtility>celeritatis motus</style> praebens.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Magisterium",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Ut Submariner, vince ludum aut te dele in tempestate Monsoonia."
+  }
+}

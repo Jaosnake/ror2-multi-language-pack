@@ -1,0 +1,10 @@
+{
+  "name": "Scout_LanguagePack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for Scout by tsuyoikenko.",
+  "dependencies": [
+    "tsuyoikenko-Scout-0.9.11",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ]
+}

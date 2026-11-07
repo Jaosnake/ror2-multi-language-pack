@@ -1,0 +1,30 @@
+{
+  "zh-CN": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "自然之力",
+    "KENKO_SCOUT_DESCRIPTION": "Scout 是一名机动性极强、爆发伤害极高的幸存者，能够轻松针对并歼灭单个敌人。<color=#CCD3E0>\r\n\r\n< ! > 利用 Splattergun 的击退力跳上高处或躲避敌方攻击。\r\n\r\n< ! > 连携使用棒球与切肉刀，可在远距离造成巨额伤害。\r\n\r\n< ! > 面对大群敌人时，使用球棒能够获取最多的 Atomic Core 充能。\r\n\r\n< ! > 拥有额外的 Atomic Blast 充能层数可延长其持续时间，而冷却缩减则能加快 Atomic Core 的充能速度。</color>",
+    "KENKO_SCOUT_LORE": "从核电站的逃离。一场如野火般在新闻中迅速蔓延的事故，起因成谜。一名形单影只的工人跌跌撞撞地艰难离去，手中的球棒是他唯一的支撑。他在剧痛与震惊席卷全身中漫无目的地游荡。当他走近一条看似废弃的铁轨时，远远地，他依稀辨认出那理应是另一个人影。由于对方散发着异样的气场，他保持着警惕，试图辨明那身影是否带有潜在威胁。\r\n\r\n“散步的好时光，不介意我在这老铁轨旁陪你走走吧？”\r\n\r\n“你……你是谁……？你……你想从我这儿得到什么？”\r\n\r\n“我的身份与你无关。”\r\n“……不过我看得出来，你经历了一个相当糟糕的夜晚。都快踏进死门关了，嗯？”\r\n“我这儿或许有能帮上你的东西，某种……提议。”\r\n\r\n“一个……交……交易……？”\r\n\r\n“正是如此。”\r\n\r\n他喉咙发紧，心跳如擂鼓，大脑开始试图自欺欺人地假装这一切都未曾发生。在那人开口说话时，犹豫不决的他终于呼出了那口憋了仿佛有一万年之久的闷气。他感到的是恐惧吗？困惑吗？还是那种能够将整个世界玩弄于股掌之中的念头，将他推入了一种近乎陶醉的诱惑？无论如何，他依然全神贯注地倾听着。专注地捕捉并解读每一个词句。也许这能让他逃离这片苦海。\r\n\r\n“我能感受到从你身上散发出的辐射……嗯……”\r\n“……我正好有合适的东西。不如我把这玩意变成能为你提供力量的源泉，怎么样？让你变得比以往更出色、更强大，作为交换……让我想想……帮几个小忙。听起来不错，不是吗？我觉得挺好。”\r\n“我还有几位老伙计，也能在改造手术中搭把手。”\r\n\r\n“……可、可我的工作怎么办？”\r\n“我能去哪儿？我可不想失业……”\r\n\r\n“真巧，你还提到了这个。我听说深空某处正好有份差事。我想，等一切大功告成后，他们肯定能充分利用你那全新的速度与敏捷。”\r\n“……另外给你句忠告，多建立点自信。那可能会增加你的胜算。”\r\n\r\n“嗯……”\r\n“……好吧，成交……不管你是谁。”\r\n\r\n“妙极了。”\r\n\r\n远处传来了火车的轰鸣声。随着车速放缓，伴随着老旧汽笛的鸣响，两人的身影已然消失无踪。",
+    "KENKO_SCOUT_OUTRO_FLAVOR": "..草在长，鸟在飞，阳光明媚，而老兄，我负责揍人。",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..那到底是个什么鬼玩意？",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "备选",
+    "KENKO_SCOUT_PASSIVE_NAME": "Atomic Core",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scout 可以<style=cIsUtility>二段跳</style>。造成<style=cIsDamage>伤害</style>可积攒 <style=cHumanObjective>Atomic Core</style>。受到伤害会减少 <style=cHumanObjective>Atomic Core</style>。<style=cHumanObjective>Atomic Core</style> 能够提升<style=cIsUtility>移动速度</style>。",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Splattergun",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>敏捷</style>。发射一轮霰弹爆发，造成 <style=cIsDamage>12x{0}% 伤害</style>。",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Dastardly Dwarf",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "发射一枚高速子弹，造成 <style=cIsDamage>{0}% 伤害</style>。<style=cIsDamage>爆头造成 2 倍伤害</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Elephants Foot",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>敏捷</style>。挥动球棒造成 <style=cIsDamage>{0}% 伤害</style>。",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Toxic Cleaver",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>敏捷</style>。投掷切肉刀施加<style=cIsDamage>枯萎</style>并造成 <style=cIsDamage>{0}% 伤害</style>。对处于<style=cIsDamage>眩晕</style>状态的敌人造成<style=cIsDamage>暴击</style>并附加<style=cIsHealing>中毒</style>。",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Spike Ball",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>敏捷</style>。击出棒球造成<style=cIsDamage>眩晕</style>并造成 <style=cIsDamage>{0}% 伤害</style>。<style=cIsDamage>眩晕</style>持续时间随飞行距离增加。",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Atomic Blast",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "消耗你的 <style=cHumanObjective>Atomic Core</style>，获得<style=cIsDamage>原子暴击</style>、<style=cIsDamage>攻击速度</style>和<style=cIsUtility>移动速度</style>。根据充能情况对身周造成 <style=cIsDamage>{0}% - {1}% 伤害</style>。",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "切换",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "切换至你的球棒。",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "切换",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "切换至你的球棒。在 <style=cHumanObjective>Atomic Core</style> 消耗期间，仍可获得 <style=cHumanObjective>Atomic Charge</style>。",
+    "KENKO_SCOUT_masteryAchievement": "作为 Scout，在季风难度下通关或湮灭自身。"
+  }
+}

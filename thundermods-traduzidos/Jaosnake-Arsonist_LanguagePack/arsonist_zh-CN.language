@@ -22,11 +22,11 @@
         "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION": "达到<style=cKeywordName>预判</style>上限后，移动速度提高，并获得<style=cKeywordName>双重射击</style>和<style=cIsHealing>吸血</style>。最多10秒后<style=cIsDamage>爆炸</style>，随后<style=cIsUtility>过热</style>。",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME": "但丁的斥责",
         "POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION": "发射一道强烈光束,造成<style=cIsDamage>140%伤害</style>。离目标越近,点燃几率越高。按住2秒或更久后,松开时发射一道最终光束,造成<style=cIsDamage>150%伤害</style>。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>预判</style>每失去和/或获得100热量,纵火者获得1层预判;获得5层后,他可激活受虐狂;额外层数增加伤害和持续时间;所有层数在结束时消耗。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>引爆</style>纵火者爆炸,造成<style=cIsDamage>150%伤害</style>乘以累积的预判层数。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>生命偷取</style>纵火者在受虐狂激活时回复造成伤害的<style=cIsHealing>18%</style>。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>生命偷取</style>纵火者在怨恨激活时回复造成伤害的<style=cIsHealing>5%</style>。",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>过热:受虐狂</style>如果纵火者因热量积累过多而退出受虐狂,则应用EX过热,将其移动速度和伤害降低至70%。取消或让技能自然结束会应用过热,将其攻击速度降低至50%。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION": "<style=cKeywordName>预判</style>每失去和/或获得100热量,Arsonist获得1层预判;获得5层后,他可激活受虐狂;额外层数增加伤害和持续时间;所有层数在结束时消耗。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>引爆</style>Arsonist爆炸,造成<style=cIsDamage>150%伤害</style>乘以累积的预判层数。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>生命偷取</style>Arsonist在受虐狂激活时回复造成伤害的<style=cIsHealing>18%</style>。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>生命偷取</style>Arsonist在怨恨激活时回复造成伤害的<style=cIsHealing>5%</style>。",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>过热:受虐狂</style>如果Arsonist因热量积累过多而退出受虐狂,则应用EX过热,将其移动速度和伤害降低至70%。取消或让技能自然结束会应用过热,将其攻击速度降低至50%。",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "过热!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "冷却中...!",
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "过热:EX!",
@@ -42,6 +42,8 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "使用Arsonist在没有过热的情况下完成一个关卡。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "在传送器首领燃烧时将其击杀。"
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "在传送器首领燃烧时将其击杀。",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist是一名以火焰达成目的的近距离坦克。妥善管理过热槽，就能对成群的敌人造成大量伤害。要取得胜利，保持平衡至关重要。\n\n< ! > 过热时攻击会变弱。陷入困境时，净化可以立即结束过热，但会延长其冷却时间。\n\n< ! > 受虐狂持续期间，预判层数仍会继续累积，因此可以提前发动，并在结束时达到最大持续时间。\n\n< ! > 净化可以移除被动技能带来的火焰减益，用它摆脱险境吧。",
+        "POPCORN_ARSONIST_BODY_LORE": "从个人录音设备取得的音频记录。\n\n正在打印文字记录……\n\n加入UES很容易，尤其是有了他们的招聘信息。\n\n爆破专家的工作和我已经在做的事没什么不同。没错，纵火也是工作。军方很贴心地把燃烧部队的旧装备丢在各处，留给我这样眼尖的人发现。要弄清那支部队想做什么并不难，可他们竟然解散了它，实在是太可惜了。\n\n他们是天才。可UES却说他们是疯子。我只能勉强抢救出那些没有被彻底毁掉的少量残骸。即便如此，我所在部门的安保十分严密，我几乎没有机会测试修复后的装备。\n\n我从同事那里听说有份工作。据说是搭乘UES Safe Travels前往未知星球，执行某种救援任务。我听说过那个地方，也听说过住在那里的生物，但那些故事可不怎么美好。\n\n嗯。\n\n也许我会去一趟。听起来在那里能找到很不错的实验对象。\n\n录音结束。"
     }
 }

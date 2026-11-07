@@ -22,6 +22,12 @@
     "FIRE A DEVASTATING PULSE CANNON THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>4000%</style>.": "파괴적인 펄스 캐논을 발사해 <style=cIsHealth>적에게 피해를 주고</style> <style=cIsHealing>아군을 치유</style>합니다. 효과량은 <style=cIsDamage>4000%</style>입니다.",
     "Jellyfish": "해파리",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "적에게 전기 충격을 가해 <style=cIsUtility>감전</style>시키고 <style=cIsDamage>30%</style>의 피해를 줍니다. <style=cIsUtility>최대 3회 충전.</style>",
-    "Wisp": "위습"
+    "Wisp": "위습",
+    "PLASMA CUTTER": "플라즈마 커터",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "작열하는 플라즈마 빔을 충전하여 발사해 <style=cIsDamage>초당 270%-630%의 피해</style>를 줍니다.",
+    "NANO-BEAM": "나노 빔",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "나노 펄스 포를 발사하여 <style=cIsHealth>적에게 피해를 주고</style> <style=cIsHealing>아군을 치유</style>합니다. 피해와 치유량은 모두 공격력의 <style=cIsDamage>320%</style>입니다.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "에너지 포화를 발사하여 <style=cIsHealth>적에게 피해를 주고</style> <style=cIsHealing>아군을 치유</style>합니다. 효과량은 <style=cIsDamage>5x500%</style>입니다. <style=cIsUtility>최대 3회 충전.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "파괴적인 폭발을 발사해 <style=cIsHealth>적에게 피해를 주고</style> <style=cIsHealing>아군을 치유</style>합니다. 효과량은 <style=cIsUtility>소모한 충전량</style>에 따라 <style=cIsDamage>2500-7500%</style>입니다."
   }
 }

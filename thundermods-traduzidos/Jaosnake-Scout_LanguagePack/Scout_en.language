@@ -1,0 +1,30 @@
+{
+  "en": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "Force of Nature",
+    "KENKO_SCOUT_DESCRIPTION": "The Scout is an extremely mobile, burst damage survivor that can focus down singular enemies with ease.<color=#CCD3E0>\r\n\r\n< ! > Use your Splatterguns knockback to reach high locations or to avoid enemy attacks.\r\n\r\n< ! > Comboing your Baseball and Cleaver can deal massive damage from far away.\r\n\r\n< ! > Bat can gain the most Atomic Core charge if there are large groups of enemies.\r\n\r\n< ! > Extra stocks for Atomic Blast increase its duration while cooldown reduction increases Atomic Core chargeup speed.</color>",
+    "KENKO_SCOUT_LORE": "An escape from the power plant. An accident that would spread like wildfire throughout the news, its cause unknown. A lone worker stumbles slowly away, his bat being his only support. He wandered aimlessly, pain and shock ringing throughout his body. Approaching what seemed to be an abandoned railroad, in the distance he could only attempt to make out what, logically, he considered was another person. Having a strange aura to them, he kept his guard up and tried to identify any potential threat from the figure.\r\n\r\n“It’s a nice time for a walk, mind if I join ya near these ol’ tracks?”\r\n\r\n“W-Who are you…? What d-do you want from me?”\r\n\r\n“My identity does not concern you.”\r\n“... however I can tell you had a pretty rough night. Nearing Death’s doorstep, hm?”\r\n“I may have something that can help you out, an… offer of some sorts.”\r\n\r\n“A… d-deal..?”\r\n\r\n“Precisely.”\r\n\r\nHis throat closed, heart began to race, and mind beginning to pretend that none of this was happening. Hesitating, he finally exhaled the breath he had been holding for what felt like an eternity as the person spoke. Was it fear he was feeling? Confusion? Or was it the idea that he could have the world at his fingertips that sent him into an almost euphoric temptation? Regardless, he still listened intently. Focusing and decoding every single word. Maybe it could get him out of this hell.\r\n\r\n“I can sense the radiation emitting from you… hm…”\r\n“... I got just the thing. How about I turn that into something that will power ya up, hm? Make you better and stronger than before, in exchange for… let's see… some favors. Sounds good, doesn’t it? I think it does.”\r\n“I have some old pals of mine that can help out with the procedure too.”\r\n\r\n“... B-but what about my job?”\r\n“Where will I go? I would rather not be unemployed…”\r\n\r\n“Funny that you mention that, I heard of a job that goes somewhere into the depths of space. I’d imagine they’d be able to utilize your new speed and agility for it once it’s all done.”\r\n“... also a word of advice, build up some confidence. It may improve your chances.”\r\n\r\n“Hm…”\r\n“... Alright, call it a deal… whoever you are.”\r\n\r\n“Wonderful.”\r\n\r\nThe sound of a distant train can be heard. As it slowed down and with the sound of its old whistle going off, the two were gone.",
+    "KENKO_SCOUT_OUTRO_FLAVOR": ".. grass grows, birds fly, sun shines and brother, I hurt people .",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..what the hell was that crap?",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "Alternate",
+    "KENKO_SCOUT_PASSIVE_NAME": "Atomic Core",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scout can <style=cIsUtility>jump twice</style>. Deal <style=cIsDamage>damage</style> to build up <style=cHumanObjective>Atomic Core</style>. Taking damage reduces <style=cHumanObjective>Atomic Core</style>. <style=cHumanObjective>Atomic Core</style> increases <style=cIsUtility>movement speed</style>.",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Splattergun",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Fire a scattergun burst for <style=cIsDamage>12x{0}% damage</style>.",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Dastardly Dwarf",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "Fire a high velocity round for <style=cIsDamage>{0}% damage</style>. <style=cIsDamage>Headshots deal 2x damage</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Elephants Foot",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>Agile</style>. Swing your bat for <style=cIsDamage>{0}% damage</style>.",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Toxic Cleaver",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>Agile</style>. Throw your cleaver <style=cIsDamage>Blighting</style> and dealing <style=cIsDamage>{0}% damage</style>. <style=cIsDamage>Critically Strikes</style> and <style=cIsHealing>Poisons</style> <style=cIsDamage>Stunned</style> enemies.",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Spike Ball",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>Agile</style>. Hit your baseball <style=cIsDamage>Stunning</style> and dealing <style=cIsDamage>{0}% damage</style>. <style=cIsDamage>Stun</style> duration scales with distance traveled.",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Atomic Blast",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "Drain your <style=cHumanObjective>Atomic Core</style> gaining <style=cIsDamage>Atomic Crits</style>, <style=cIsDamage>attack speed</style>, and <style=cIsUtility>movement speed</style>. Deal <style=cIsDamage>{0}% - {1}% damage</style> around you based on charge.",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "Swap",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "Swap to your bat.",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "Swap",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "Swap to your bat. <style=cHumanObjective>Atomic Charge</style> can still be gained while <style=cHumanObjective>Atomic Core</style> drains .",
+    "KENKO_SCOUT_masteryAchievement": "As Scout, beat the game or obliterate on Monsoon."
+  }
+}

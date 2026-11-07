@@ -1,0 +1,29 @@
+{
+  "FR": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>Le Patron</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Dragon d'obsidienne</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Fête au bord de la piscine</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Dragon d'obsidienne prestige</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Royaumes mechas</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Pétard</color>",
+    "SETT_DESCRIPTION": "Sett est Le Patron : un entrepreneur et combattant autodidacte, mi-Vastaya, mi-Noxien, régnant sur les arènes de combat clandestines d'Ionia.<color=#CCD3E0>\r\n\r\n< ! > Les attaques de base de Sett alternent entre coup de poing gauche et droit. Le coup droit est légèrement plus puissant et plus rapide. Sett déteste également perdre, gagnant un bonus de régénération de santé basé sur ses PV manquants.\r\n\r\n< ! > Sett attire tous les ennemis situés de part et d'autre vers lui, leur infligeant des dégâts et les étourdissant. Si les ennemis ne se trouvent que d'un côté, ils sont ralentis au lieu d'être étourdis.\r\n\r\n< ! > Sett emporte un champion ennemi dans les airs et l'écrase violemment au sol, infligeant des dégâts et ralentissant tous les ennemis proches du point d'impact.\r\n\r\n< ! > Sett accumule passivement les dégâts subis sous forme de Courage. À l'activation, Sett consomme tout son Courage pour obtenir un bouclier et frapper une zone, infligeant des dégâts bruts au centre et des dégâts physiques sur les côtés.</color>",
+    "SETT_LORE": "Figure montante de la pègre criminelle d'Ionia, Sett a pris de l'importance au lendemain de la guerre contre Noxus. Bien qu'il ait commencé comme un modeste challenger dans les fosses de combat de Navori, il a très vite forgé sa renommée grâce à sa force brute sauvage et son aptitude à encaisser une quantité apparemment infinie de coups. Aujourd'hui, après avoir gravi tous les échelons des combattants locaux, Sett s'est hissé au sommet par la force brute, régnant en maître sur les fosses où il combattait autrefois.",
+    "SETT_OUTRO_FLAVOR": "..et ainsi il partit, avec une nouvelle force à honorer.",
+    "SETT_OUTRO_FAILURE": "..et ainsi il revint, bastion infaillible véritablement immortalisé.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Défaut</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>CŒUR DE DEMI-BÊTE</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>régénère</color> <color=#008744>0,25 PV supplémentaire par seconde</color> <color=#d62d20>(+ 0,25 tous les 4 niveaux)</color> pour chaque tranche de <color=#f68835>5%</color> de ses <color=#d62d20>PV manquants.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>ROSSÉE</color>",
+    "SETT_PRIMARY_DESC": "Les <color=#c9aa71>attaques de base</color> de Sett alternent entre un Poing Gauche <color=#f68835>(260% de dégâts)</color> et un Poing Droit <color=#f68835>(320% de dégâts)</color>. Les <color=#c9aa71>coups critiques</color> réinitialisent le délai d'attaque de base de Sett et permettent à la prochaine attaque de base d'infliger le <color=#d62d20>double de dégâts.</color>",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>CASSE-TÊTE</color>",
+    "SETT_SECONDARY_DESC": "Sett <color=#c9aa71>attire</color> tous les ennemis dans un rayon de <color=#0057e7>20 mètres</color> autour de lui, infligeant <color=#f68835>380% </color>de dégâts. <color=#c9aa71>Étourdit et Ralentit</color> à l'impact.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>LE CLOU DU SPECTACLE</color>",
+    "SETT_UTILITY_DESC": "Sett <color=#c9aa71>transporte</color> un ennemi dans les airs et l'écrase au sol, infligeant <color=#f68835>1600%</color> <color=#d62d20>(+10% de la santé maximale et du bouclier maximal de la cible principale)</color> de dégâts à tous les ennemis proches du point d'atterrissage.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>COUP DE POING</color>",
+    "SETT_SPECIAL_DESC": "Sett accumule passivement les dégâts subis sous forme de <color=#ffffff>Courage</color>. À l'activation, Sett dépense tout le <color=#ffffff>Courage</color> accumulé pour obtenir un <color=#ffffff>Bouclier</color> et frapper une zone, infligeant <color=#f68835>2700%</color> <color=#d62d20>(+75% du Courage dépensé +5% tous les 4 niveaux)</color> de dégâts <color=#ffffff>BRUTS</color>.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett : Maîtrise",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "En tant que Sett, terminez le jeu ou oblitérez-vous en difficulté Mousson.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett : Maîtrise"
+  }
+}

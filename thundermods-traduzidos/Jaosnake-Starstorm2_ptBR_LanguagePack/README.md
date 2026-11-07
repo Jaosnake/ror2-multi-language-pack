@@ -1,11 +1,11 @@
 # 🌍 Jaosnake-Starstorm2_ptBR_LanguagePack
 
-![Versão](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Vers%C3%A3o-1.0.2-blue)
+![Versão](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-obrigat%C3%B3rio-ff69b4)
 
 Tradução **pt-BR** para **Starstorm 2**, feito por **TeamMoonstorm**.
 
-> 🇧🇷 Este pacote contém somente a tradução **Português (Brasil)**.
+> 🇧🇷 Este pacote contém a tradução completa em **Português (Brasil)** para Starstorm 2.
 
 > Primeira tradução: Kauzok e Balorfist. Conversão da versão EN + tradução parcial anterior que não constava no mod. Revisado linha a linha por Jaosnake.
 
@@ -14,13 +14,13 @@ Tradução **pt-BR** para **Starstorm 2**, feito por **TeamMoonstorm**.
 ## 📦 Dependências
 | Pacote | Versão |
 |---------|---------|
-| TeamMoonstorm-Starstorm2 | `0.6.38` |
+| TeamMoonstorm-Starstorm2 | `0.6.46` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Idioma
-| Bandeira | Idioma |
-|------|----------|
-| 🇧🇷 | Português (Brasil) |
+## 🌐 Idioma Suportado
+| Bandeira | Idioma | Código | Tokens |
+|:---:|---|:---:|:---:|
+| 🇧🇷 | Português (Brasil) | `pt-BR` | 1196/1196 |
 
 ## 📥 Instalação Manual
 1. Instale **Starstorm 2** e **R2API_Language**.

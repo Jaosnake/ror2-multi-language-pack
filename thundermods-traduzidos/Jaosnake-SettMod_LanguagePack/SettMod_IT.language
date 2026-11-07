@@ -1,0 +1,29 @@
+{
+  "IT": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>Il Boss</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Drago di Ossidiana</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Party in Piscina</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Drago di Ossidiana Prestigioso</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Regni Mecha</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Petardo</color>",
+    "SETT_DESCRIPTION": "Sett è Il Boss: un intraprendente combattente self-made, metà vastaya e metà noxiano, a capo delle fosse di combattimento clandestine di Ionia.<color=#CCD3E0>\r\n\r\n< ! > Gli attacchi base di Sett si alternano tra pugno sinistro e destro. Il pugno destro è leggermente più potente e rapido. Inoltre Sett detesta perdere, ottenendo rigenerazione salute aggiuntiva in base alla salute mancante.\r\n\r\n< ! > Sett attira a sé tutti i nemici sui lati opposti, infliggendo danni e stordendoli. Se i nemici si trovano solo su un lato, vengono rallentati anziché storditi.\r\n\r\n< ! > Sett solleva un campione nemico in aria e lo schianta a terra, infliggendo danni e rallentando tutti i nemici vicini al punto di atterraggio.\r\n\r\n< ! > Sett accumula passivamente i danni subiti come Grinta. All'attivazione, Sett spende tutta la Grinta accumulata per ottenere uno scudo e colpire un'area, infliggendo danno vero al centro e danno fisico ai lati.</color>",
+    "SETT_LORE": "A capo del crescente sottomondo criminale di Ionia, Sett è salito alla ribalta all'indomani della guerra con Noxus. Nonostante abbia esordito come umile sfidante nelle fosse di combattimento di Navori, si è guadagnato rapidamente una fama temibile per la sua forza selvaggia e la sua capacità di incassare colpi in apparenza senza fine. Ora, dopo aver scalato i ranghi dei lottatori locali, Sett si è fatto strada con i muscoli fino alla vetta, regnando sovrano sulle stesse fosse in cui un tempo combatteva.",
+    "SETT_OUTRO_FLAVOR": "..e così se ne andò, con una nuova forza da onorare.",
+    "SETT_OUTRO_FAILURE": "..e così tornò, un bastione infallibile veramente immortalato.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Predefinito</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>CUORE DI MEZZA BESTIA</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>rigenera</color> un ulteriore <color=#008744>0,25 di salute al secondo</color> <color=#d62d20>(+ 0,25 ogni 4 livelli)</color> per ogni <color=#f68835>5%</color> della sua <color=#d62d20>salute mancante.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>PUGNI NELLE MANI</color>",
+    "SETT_PRIMARY_DESC": "Gli <color=#c9aa71>attacchi base</color> di Sett si alternano tra un Pugno Sinistro <color=#f68835>(260% di danno)</color> e un Pugno Destro <color=#f68835>(320% di danno)</color>. I <color=#c9aa71>colpi critici</color> azzerano il tempo d'attacco base di Sett e fanno sì che il prossimo attacco base infligga <color=#d62d20>danno doppio.</color>",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>FRANTUMAFACCIA</color>",
+    "SETT_SECONDARY_DESC": "Sett <color=#c9aa71>attira a sé</color> tutti i nemici entro un raggio di <color=#0057e7>20 metri</color>, infliggendo il <color=#f68835>380% </color>di danno. <color=#c9aa71>Stordisce e Rallenta</color> all'impatto.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>IL PEZZO FORTE</color>",
+    "SETT_UTILITY_DESC": "Sett <color=#c9aa71>trasporta</color> un nemico in aria e lo schianta a terra, infliggendo il <color=#f68835>1600%</color> <color=#d62d20>(+10% della salute massima e dello scudo massimo del bersaglio primario)</color> di danno a tutti i nemici vicini al punto di atterraggio.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>COLPO DEL BOIA</color>",
+    "SETT_SPECIAL_DESC": "Sett immagazzina passivamente i danni subiti come <color=#ffffff>Grinta</color>. All'attivazione, Sett consuma tutta la <color=#ffffff>Grinta</color> accumulata per ottenere uno <color=#ffffff>Scudo</color> e sferrare un pugno su un'area, infliggendo il <color=#f68835>2700%</color> <color=#d62d20>(+75% della Grinta consumata +5% ogni 4 livelli)</color> di danno <color=#ffffff>VERO</color>.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Maestria",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Nei panni di Sett, completa il gioco o annientati a difficoltà Monsone.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Maestria"
+  }
+}
