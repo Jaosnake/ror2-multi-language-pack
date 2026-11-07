@@ -1,7 +1,7 @@
 {
     "ko": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "방화범은 불을 수단으로 사용하는 단거리 전차입니다. 과열 게이지를 관리하면 적군에게 많은 양의 피해를 줄 수 있습니다. 승리를 위해서는 균형이 중요합니다.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist는 불을 수단으로 사용하는 근거리 탱커입니다. 과열 게이지를 관리하면 적 무리에게 큰 피해를 줄 수 있습니다. 승리하려면 균형을 유지해야 합니다.\n\n< ! > 과열 중에는 공격이 약해집니다. 위급할 때 정화하다를 사용하면 과열을 즉시 끝낼 수 있지만 재사용 대기시간이 늘어납니다.\n\n< ! > 마조히즘이 지속되는 동안에도 예기 중첩이 쌓입니다. 일찍 발동해도 최대 지속시간까지 유지한 뒤 끝낼 수 있습니다.\n\n< ! > 정화하다는 패시브로 생긴 화염 디버프를 제거할 수 있습니다. 위험한 상황을 벗어날 때 활용하세요.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "미치광이 방화광",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "일반 게이지",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "거래<style=cIsDamage>100%</style>흰색 부분이 손상되었습니다. 기본 게이지는 과열에 강합니다.</i>",
@@ -33,7 +33,7 @@
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE": "<style=cKeywordName>폭발</style>Arsonist가 폭발하여 누적된 예기 충전량마다 <style=cIsDamage>150% 피해</style>를 줍니다.",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL": "<style=cKeywordName>생명력 흡수</style>마조히즘이 활성화된 동안 Arsonist는 가한 피해의 <style=cIsHealing>18%</style>를 회복합니다.",
         "POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL": "<style=cKeywordName>생명력 흡수</style>악의가 활성화된 동안 Arsonist는 가한 피해의 <style=cIsHealing>5%</style>를 회복합니다.",
-        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>과열: 마조히즘</style>방화범이 과도한 열 축적으로 마조히즘을 벗어나면 EX 오버히트가 적용되어 이동 속도와 데미지가 70%로 감소합니다. 스킬을 취소하거나 실행하도록 놔두면 과열이 적용되어 공격 속도가 50%로 감소합니다.",
+        "POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO": "<style=cKeywordName>과열: 마조히즘</style>Arsonist이 과도한 열 축적으로 마조히즘을 벗어나면 EX 오버히트가 적용되어 이동 속도와 데미지가 70%로 감소합니다. 스킬을 취소하거나 실행하도록 놔두면 과열이 적용되어 공격 속도가 50%로 감소합니다.",
         "POPCORN_ARSONIST_BODY_OVERHEAT_TEXT": "과열!",
         "POPCORN_ARSONIST_BODY_COOLING_TEXT": "식히는 중...!",
         "POPCORN_ARSONIST_BODY_OVERHEAT_EX_TEXT": "오버히트:EX!",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Arsonist로 과열되지 않고 스테이지를 완료하세요.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "텔레포터 보스가 불타는 동안 처치하세요."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "텔레포터 보스가 불타는 동안 처치하세요.",
+        "POPCORN_ARSONIST_BODY_LORE": "개인 녹음 장치에서 가져온 음성 기록.\n\n녹취록 출력 중……\n\nUES에 가입하는 건 쉬웠다. 특히 채용 공고 덕분에 말이다.\n\n폭파 전문가는 내가 이미 하던 일과 크게 다르지 않다. 그래, 방화도 일이다. 군은 친절하게도 소이 부대의 오래된 장비를 여기저기 방치해 두었다. 나처럼 눈썰미가 좋은 사람이 찾을 수 있도록 말이다. 그 부대가 무엇을 하려 했는지 알아내기는 어렵지 않았다. 부대를 폐쇄하다니, 정말 아쉬운 일이다.\n\n그들은 천재였다. 천재였는데 UES는 그들을 사이코패스라고 불렀다. 완전히 파괴되지 않고 남은 얼마 안 되는 잔해를 나는 간신히 건져낼 수 있었다. 그래도 내 부서의 보안이 워낙 삼엄해서 복원한 것들을 시험할 기회는 거의 없었다.\n\n동료에게서 일이 있다는 소식을 들었다. UES Safe Travels를 타고 미지의 행성으로 향하는 일종의 구조 임무라고 했다. 그곳에 대한 이야기를 들은 적이 있다. 그곳에 사는 생물들에 관해서는 그다지 좋은 이야기가 아니었다.\n\n흠.\n\n가 볼까. 아주 좋은 실험용 쥐들을 찾을 수 있겠군.\n\n녹음 종료."
     }
 }

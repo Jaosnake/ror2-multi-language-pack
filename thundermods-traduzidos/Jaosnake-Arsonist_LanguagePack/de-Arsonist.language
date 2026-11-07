@@ -1,7 +1,7 @@
 {
     "de": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Der Arsonist ist ein Panzer mit kurzer Reichweite, der Feuer als Mittel zum Zweck nutzt. Durch die Verwaltung seiner Überhitzungsanzeige kann er Gruppen von Feinden großen Schaden zufügen. Ausgewogenheit ist entscheidend für den Sieg.</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist ist ein Nahkampf-Tank, der Feuer als Mittel zum Zweck einsetzt. Wenn er seine Überhitzungsanzeige im Gleichgewicht hält, kann er Gegnergruppen hohen Schaden zufügen. Für den Sieg kommt es auf die richtige Balance an.\n\n< ! > Während der Überhitzung sind deine Angriffe schwächer. In einer Notlage beendet Reinigen die Überhitzung sofort, verlängert dafür aber seine Abklingzeit.\n\n< ! > Die Vorfreude-Stapel von Masochismus steigen auch während der Fähigkeit weiter. Du kannst sie früh aktivieren und trotzdem mit der maximalen Dauer beenden.\n\n< ! > Reinigen kann den Feuereffekt deiner passiven Fähigkeit entfernen. Nutze es, um aus einer brenzligen Lage zu entkommen.",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "Wahnsinniger Pyromane",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "Normalspur",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "Verursache <style=cIsDamage>100%</style> Schaden im weißen Bereich. Die Basisanzeige ist gegen Überhitzung resistent.</i>",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Schließe als Arsonist eine Etappe ab, ohne zu überhitzen.",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Besiege einen Teleporterboss, während er brennt."
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Besiege einen Teleporterboss, während er brennt.",
+        "POPCORN_ARSONIST_BODY_LORE": "Audioaufnahme von einem persönlichen Aufnahmegerät.\n\nTranskript wird gedruckt...\n\nDer Beitritt zur UES erwies sich als einfach. Vor allem mit ihren Stellenangeboten. \n\nEin Abbruchexperte unterscheidet sich nicht wesentlich von der Art von Arbeit, die ich bereits erledige. Und ja, Brandstiftung ist Arbeit. Das Militär war so freundlich gewesen, die alte Ausrüstung der Brandeinheit herumliegen zu lassen, damit scharfe Augen wie ich sie finden konnten. Es war nicht schwer herauszufinden, was genau sie mit dieser Einheit machen wollten, und es war eine verdammte Schande, dass sie sie aufgelöst haben.\n\nSie waren brillant. Sie waren brillant und die UES sagte ihnen, sie seien Psychopathen. Ich konnte nur knapp die Reste dessen retten, was noch nicht vollständig zerstört war. Selbst dann hatte ich nicht viel Gelegenheit, meine Restaurationen wegen der strengen Sicherheitsvorkehrungen meiner Abteilung zu testen.\n\nIch habe von einem Kollegen gehört, dass ein Auftrag anstehe. Eine Art Rettungsmission an Bord der UES Safe Travels zu einem unbekannten Planeten. Ich habe Geschichten über diesen Ort gehört, aber nicht so schöne über die dort lebenden Kreaturen.\n\nHm.\n\nVielleicht gehe ich. Klingt, als würde ich ein paar sehr gute Laborratten finden.\n\nEnde der Aufnahme."
     }
 }

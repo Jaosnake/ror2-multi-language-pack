@@ -22,6 +22,12 @@
     "FIRE A DEVASTATING PULSE CANNON THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>4000%</style>.": "<style=cIsHealth>DÜŞMANLARA HASAR VEREN</style> ve <style=cIsHealing>MÜTTEFİKLERİ İYİLEŞTİREN</style> yıkıcı bir darbe topu ateşle. Etki değeri <style=cIsDamage>%4000</style>.",
     "Jellyfish": "Denizanası",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Bir düşmana elektrik vererek onu <style=cIsUtility>ŞOKA SOK</style> ve <style=cIsDamage>%30</style> HASAR ver. <style=cIsUtility>EN FAZLA 3 YÜK.</style>",
-    "Wisp": "Işık Topu"
+    "Wisp": "Işık Topu",
+    "PLASMA CUTTER": "Plazma Kesici",
+    "NANO-BEAM": "Nano Işın",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "<style=cIsDamage>SANİYEDE %270-%630 HASAR</style> veren kavurucu bir plazma ışını şarj et.",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Nano darbe topları ateşle; toplar <style=cIsHealth>DÜŞMANLARA HASAR VERİR</style> ve <style=cIsHealing>MÜTTEFİKLERİ İYİLEŞTİRİR</style>. Her iki etki de temel hasarın <style=cIsDamage>%320</style>’sidir.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "<style=cIsHealth>DÜŞMANLARA HASAR VEREN</style> ve <style=cIsHealing>MÜTTEFİKLERİ İYİLEŞTİREN</style> enerji yaylımı ateşle. Etki değeri <style=cIsDamage>5x%500</style>. <style=cIsUtility>EN FAZLA 3 YÜK.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "<style=cIsHealth>DÜŞMANLARA HASAR VEREN</style> ve <style=cIsHealing>MÜTTEFİKLERİ İYİLEŞTİREN</style> yıkıcı bir patlama ateşle. Etki değeri <style=cIsUtility>KULLANILAN YÜKLERE GÖRE</style> <style=cIsDamage>%2500-%7500</style>’dür."
   }
 }

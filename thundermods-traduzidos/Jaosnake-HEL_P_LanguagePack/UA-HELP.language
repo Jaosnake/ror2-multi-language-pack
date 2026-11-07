@@ -22,6 +22,12 @@
     "FIRE A DEVASTATING PULSE CANNON THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>4000%</style>.": "Вистрільте руйнівним імпульсом, який <style=cIsHealth>ЗАВДАЄ ШКОДИ ВОРОГАМ</style> і <style=cIsHealing>ЛІКУЄ СОЮЗНИКІВ</style> на <style=cIsDamage>4000%</style>.",
     "Jellyfish": "Медуза",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Ударте ворога струмом, щоб <style=cIsUtility>ШОКУВАТИ</style> його й завдати <style=cIsDamage>30%</style> ШКОДИ. <style=cIsUtility>ДО 3 ЗАРЯДІВ.</style>",
-    "Wisp": "Вісп"
+    "Wisp": "Вісп",
+    "PLASMA CUTTER": "Плазмовий різак",
+    "NANO-BEAM": "Нанопромінь",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Зарядіть палючий плазмовий промінь, який завдає <style=cIsDamage>270%-630% ШКОДИ ЗА СЕКУНДУ</style>.",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Стріляйте з наноімпульсних гармат, які <style=cIsHealth>ЗАВДАЮТЬ ШКОДИ ВОРОГАМ</style> і <style=cIsHealing>ЛІКУЮТЬ СОЮЗНИКІВ</style> на <style=cIsDamage>320%</style> базової шкоди.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Випустіть шквал енергії, який <style=cIsHealth>ЗАВДАЄ ШКОДИ ВОРОГАМ</style> і <style=cIsHealing>ЛІКУЄ СОЮЗНИКІВ</style> на <style=cIsDamage>5x500%</style>. <style=cIsUtility>ДО 3 ЗАРЯДІВ.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Випустіть руйнівний вибух, який <style=cIsHealth>ЗАВДАЄ ШКОДИ ВОРОГАМ</style> і <style=cIsHealing>ЛІКУЄ СОЮЗНИКІВ</style> на <style=cIsDamage>2500-7500%</style> залежно від <style=cIsUtility>ВИКОРИСТАНИХ ЗАРЯДІВ.</style>"
   }
 }

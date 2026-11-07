@@ -1,38 +1,47 @@
 # 🌍 Jaosnake-Aetherium_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.1-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **Aetherium** by **KomradeSpectre** - translated by **Jaosnake**.
+Multi-language translation pack for **Aetherium** by **KomradeSpectre**.
 
-This pack adds R2API.Language overrides for Aetherium items, lunar items, equipment, artifacts, elite equipment, interactables, and unlock text exposed by the mod.
+---
 
-> 📝 Aetherium did not include loose non-English language files for these tokens. This pack supplies external R2API.Language translations built from the mod tokens and the public Thunderstore item list.
+### 🇧🇷 Recomendação do P.E.L.E
+Recomendamos fortemente o [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) para compatibilidade com as traduções. Ele é opcional para os idiomas nativos do jogo e necessário para jogar em ucraniano (UA), esperanto (eo) ou latim (la).
+
+### 🇺🇸 P.E.L.E Recommendation
+We strongly recommend [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) for translation compatibility. It is optional for the game’s native languages and required to play in Ukrainian (UA), Esperanto (eo), or Latin (la).
 
 ---
 
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| KomradeSpectre-Aetherium | `0.9.0` |
+| KomradeSpectre-Aetherium | `0.9.23` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
-| 🇫🇷 | French |
-| 🇮🇹 | Italian |
-| 🇯🇵 | Japanese |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian ⚡ |
-| 🇨🇳 | Chinese (Simplified) |
+## 🌐 Supported Languages (15)
+| Flag | Language | Code | Tokens |
+|:---:|---|:---:|:---:|
+| 🇺🇸 | English | `en` | 109/109 |
+| 🇩🇪 | German | `de` | 109/109 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 109/109 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 109/109 |
+| 🇫🇷 | French | `FR` | 109/109 |
+| 🇮🇹 | Italian | `IT` | 109/109 |
+| 🇯🇵 | Japanese | `ja` | 109/109 |
+| 🇰🇷 | Korean | `ko` | 109/109 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 109/109 |
+| 🇷🇺 | Russian | `RU` | 109/109 |
+| 🇹🇷 | Turkish | `tr` | 109/109 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` | 109/109 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 109/109 |
+| 🟩 | Esperanto | `eo` | 109/109 |
+| 🏛️ | Latin | `la` | 109/109 |
+
+
+The 109 catalog keys include one intentionally empty Sanguine lore value, matching the original mod.
 
 ## ✅ Covered Content
 - Items: Feathered Plume, Nail Bomb, Bloodthirsty Shield, Engineers Toolbelt, Shark Teeth, Shielding Core, Blaster Sword, Inspiring Drone, Witches Ring.
@@ -49,8 +58,6 @@ This pack adds R2API.Language overrides for Aetherium items, lunar items, equipm
 | Translations | Jaosnake |
 
 ---
-
-> Installing extra plugins or language packs can slightly increase the first loading time of the game. This is normal.
 
 ## ☕ Support
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)

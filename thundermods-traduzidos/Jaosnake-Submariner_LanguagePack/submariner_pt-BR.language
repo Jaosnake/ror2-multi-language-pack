@@ -1,0 +1,25 @@
+{
+  "pt-BR": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "A Submariner é uma combatente corpo a corpo pesada que depende de controle de grupo e durabilidade para controlar a batalha.<color=#CCD3E0>\n\n< ! > Mantenha a pressão com golpes corpo a corpo para regenerar vida continuamente.\n\n< ! > Use Puxar para atrair inimigos menores e para desviar de ataques atingindo inimigos maiores.\n\n< ! > A Mina de Ouriço é uma ótima maneira de escapar rapidamente de situações perigosas e preparar minas de alto dano para depois.\n\n< ! > Fique dentro do alcance de Lançar a Âncora!, o bônus de velocidade de movimento pode ser uma ferramenta incrível para lutar.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Profundezas do Abismo",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..e assim ela partiu, para nunca mais ficar sozinha.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..e assim ela desapareceu, tendo apenas o silêncio ao seu lado.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abissal",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "Bênção de N'kuhana",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Atingir inimigos com <style=cIsDamage>ataques corpo a corpo</style> concede <style=cIsHealing>Restauração de N'kuhana</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "Dispositivo de Ancoragem AL811",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Desfere um golpe frontal causando <style=cIsDamage>450% de dano</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Puxar",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Dispara um arpão causando <style=cIsDamage>150% de dano</style>. <style=cIsUtility>Puxa</style> inimigos pequenos em sua direção e <style=cIsUtility>puxa</style> você em direção a inimigos grandes. Colidir com um inimigo grande causa <style=cIsDamage>300% de dano</style> e inicia um <style=cIsUtility>salto mortal para trás.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Ouriço Explosivo",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Executa um <style=cIsUtility>salto mortal para trás</style>, disparando uma <style=cIsHealing>Mina de Ouriço</style> que causa <style=cIsDamage>700% de dano</style>.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Melhor Amigo do Culto",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Carrasco.</style> Monte em uma <style=cIsHealing>Fera</style>, que corre rapidamente para frente causando <style=cIsDamage>700% de dano</style>. Abater um inimigo leve <style=cIsUtility>acelera</style> a <style=cIsHealing>Fera</style> e aumenta o <style=cIsDamage>dano</style> causado. Colidir com inimigos grandes para você e <style=cIsUtility>atordoa</style> o inimigo.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Lançar a Âncora!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Arremessa sua âncora, causando <style=cIsDamage>1200% de dano</style> no impacto. Correr em direção à âncora aumenta sua <style=cIsUtility>velocidade de movimento</style>, enquanto se afastar dela te <style=cIsDamage>desacelera</style>. Afastar-se demais <style=cIsHealth>quebra</style> a corrente da âncora, concedendo uma explosão de <style=cIsUtility>velocidade de movimento</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Maestria",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Como Submariner, vença o jogo ou oblitere-se no Monsoon."
+  }
+}

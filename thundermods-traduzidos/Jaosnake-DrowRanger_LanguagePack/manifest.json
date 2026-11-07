@@ -1,0 +1,10 @@
+{
+    "name": "DrowRanger_LanguagePack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+    "description": "Multi-language pack (15 languages) for Drow Ranger survivor mod (DDL-DrowRanger) with P.E.L.E support.",
+    "dependencies": [
+        "RiskofThunder-R2API_Language-1.1.0",
+        "DDL-DrowRanger-0.4.0"
+    ]
+}

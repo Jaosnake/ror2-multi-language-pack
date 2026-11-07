@@ -83,12 +83,12 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
 
                 if (logReplacements.Value && replacements > 0)
                 {
-                    Logger.LogInfo($"Patched {replacements} Sandswept LookingGlass label(s), reason: {reason}, language: {Language.currentLanguageName}");
+                    Logger.LogInfo(string.Format("Patched {0} Sandswept LookingGlass label(s), reason: {1}, language: {2}", replacements, reason, Language.currentLanguageName));
                 }
             }
             catch (Exception ex)
             {
-                Logger.LogWarning($"Failed to patch Sandswept LookingGlass labels during {reason}: {ex}");
+                Logger.LogWarning(string.Format("Failed to patch Sandswept LookingGlass labels during {0}: {1}", reason, ex));
             }
         }
 
@@ -239,6 +239,7 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
                 return "PT-BR";
             }
 
+            if (normalized == "UK") return "UA";
             return normalized;
         }
 
@@ -581,7 +582,7 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
                 "Special Skill Cooldown Reduction: ", "특수 기술 쿨다운 감소: ",
                 "Decay Chance: ", "부패 확률: ",
                 "Movement Speed: ", "이동 속도: ",
-                "Fire Chance: ", "화상 확률: ",
+                "Fire Chance: ", "발화 확률: ",
                 "Base Damage: ", "기본 피해: ",
                 "Crit Damage: ", "치명타 피해: ",
                 "Extra Item Chance: ", "추가 아이템 확률: ",
@@ -872,6 +873,92 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
                 "Difficulty Increase vs Selected Difficulty: ", "相對所選難度提升：",
                 "Plating: ", "護甲板：");
 
+            maps["EO"] = Map(
+                "Extra Jump Chance: ", "Ŝanco de ekstra salto: ",
+                "Max Extra Jumps: ", "Maksimumaj ekstraj saltoj: ",
+                "Base Regen: ", "Baza regenerado: ",
+                "Level Scaled: ", "Pliigo laŭ nivelo: ",
+                "Extra Cloaked Chests: ", "Ekstraj kamuflitaj kestoj: ",
+                "Healing: ", "Resanigo: ",
+                "Special Skill Cooldown Reduction: ", "Malpliigo de speciala kapablo-reŝargiĝo: ",
+                "Decay Chance: ", "Ŝanco de kadukiĝo: ",
+                "Movement Speed: ", "Movrapido: ",
+                "Fire Chance: ", "Ŝanco ekbruligi: ",
+                "Base Damage: ", "Baza damaĝo: ",
+                "Crit Damage: ", "Kritika damaĝo: ",
+                "Extra Item Chance: ", "Ŝanco de ekstra objekto: ",
+                "UwU~ Love is Love! ", "UwU~ Amo estas amo! ",
+                "Barrier Decay Reduction: ", "Malpliigo de bariera malpliiĝo: ",
+                "Stun and Burn Chance: ", "Ŝanco miregigi kaj bruligi: ",
+                "TOTAL Damage: ", "TUTA damaĝo: ",
+                "Burn Chance: ", "Ŝanco de bruligo: ",
+                "Damage Reduction: ", "Malpliigo de damaĝo: ",
+                "Attack Speed Reduction: ", "Malpliigo de atakrapido: ",
+                "Tidal Cataclysm Chance: ", "Ŝanco de tajda kataklismo: ",
+                "Explosion Radius: ", "Eksploda radiuso: ",
+                "Curse Amount: ", "Kvanto de malbeno: ",
+                "Interactable and Monster Count Increase: ", "Pliigo de interageblaj objektoj kaj monstroj: ",
+                "Health Loss Per Decay Stack: ", "Vivperdo por ĉiu stako de kadukiĝo: ",
+                "Maximum Decay Amount: ", "Maksimuma kadukiĝo: ",
+                "Pool Damage: ", "Damaĝo de la lageto: ",
+                "Pool Shield Damage: ", "Ŝilda damaĝo de la lageto: ",
+                "Hemorrhage Chance: ", "Ŝanco de sangado: ",
+                "Javelin Damage: ", "Damaĝo de la ĵetlanco: ",
+                "Stun to Freeze Chance: ", "Ŝanco ŝanĝi miregigon al frostigo: ",
+                "Challenge of the Mountain Chance: ", "Ŝanco de Monta Defio: ",
+                "Link Damage: ", "Liga damaĝo: ",
+                "Missile Count: ", "Nombro de misiloj: ",
+                "Maximum Missile Count: ", "Maksimuma nombro de misiloj: ",
+                "Extra Item Count: ", "Nombro de ekstraj objektoj: ",
+                "Overall Chest Reopen Count: ", "Totala nombro de remalfermoj de kestoj: ",
+                "Maximum Chest Reopen Count Per Chest: ", "Maksimumaj remalfermoj por kesto: ",
+                "Difficulty Increase vs Rainstorm: ", "Pliigo de malfacileco kompare kun Rainstorm: ",
+                "Difficulty Increase vs Selected Difficulty: ", "Pliigo kompare kun elektita malfacileco: ",
+                "Plating: ", "Kirasplato: ");
+
+            maps["LA"] = Map(
+                "Extra Jump Chance: ", "Casus saltus additi: ",
+                "Max Extra Jumps: ", "Saltus additi maximi: ",
+                "Base Regen: ", "Regeneratio basalis: ",
+                "Level Scaled: ", "Incrementum per gradum: ",
+                "Extra Cloaked Chests: ", "Cistae occultatae additae: ",
+                "Healing: ", "Sanatio: ",
+                "Special Skill Cooldown Reduction: ", "Reductio temporis facultatis specialis: ",
+                "Decay Chance: ", "Casus corruptionis: ",
+                "Movement Speed: ", "Celeritas motus: ",
+                "Fire Chance: ", "Casus incendii: ",
+                "Base Damage: ", "Damnum basale: ",
+                "Crit Damage: ", "Damnum criticum: ",
+                "Extra Item Chance: ", "Casus obiecti additi: ",
+                "UwU~ Love is Love! ", "UwU~ Amor est amor! ",
+                "Barrier Decay Reduction: ", "Reductio diminutionis claustri: ",
+                "Stun and Burn Chance: ", "Casus stupefaciendi et incendendi: ",
+                "TOTAL Damage: ", "Damnum TOTALE: ",
+                "Burn Chance: ", "Casus combustionis: ",
+                "Damage Reduction: ", "Reductio damni: ",
+                "Attack Speed Reduction: ", "Reductio celeritatis impetus: ",
+                "Tidal Cataclysm Chance: ", "Casus cataclysmi aestus: ",
+                "Explosion Radius: ", "Radius explosionis: ",
+                "Curse Amount: ", "Quantitas maledictionis: ",
+                "Interactable and Monster Count Increase: ", "Incrementum rerum et monstrorum: ",
+                "Health Loss Per Decay Stack: ", "Vita perdita per acervum corruptionis: ",
+                "Maximum Decay Amount: ", "Corruptio maxima: ",
+                "Pool Damage: ", "Damnum piscinae: ",
+                "Pool Shield Damage: ", "Damnum scuti piscinae: ",
+                "Hemorrhage Chance: ", "Casus sanguinis effusi: ",
+                "Javelin Damage: ", "Damnum iaculi: ",
+                "Stun to Freeze Chance: ", "Casus stuporis in congelationem vertendi: ",
+                "Challenge of the Mountain Chance: ", "Casus Provocationis Montis: ",
+                "Link Damage: ", "Damnum nexus: ",
+                "Missile Count: ", "Numerus missilium: ",
+                "Maximum Missile Count: ", "Numerus maximus missilium: ",
+                "Extra Item Count: ", "Numerus obiectorum additorum: ",
+                "Overall Chest Reopen Count: ", "Numerus totalis cistarum iterum apertarum: ",
+                "Maximum Chest Reopen Count Per Chest: ", "Numerus maximus apertionum per cistam: ",
+                "Difficulty Increase vs Rainstorm: ", "Incrementum difficultatis contra Rainstorm: ",
+                "Difficulty Increase vs Selected Difficulty: ", "Incrementum difficultatis contra difficultatem electam: ",
+                "Plating: ", "Lamina armaturae: ");
+
             return maps;
         }
 
@@ -888,4 +975,6 @@ namespace Jaosnake.SandsweptLookingGlassLocalizationPatch
         }
     }
 }
+
+
 

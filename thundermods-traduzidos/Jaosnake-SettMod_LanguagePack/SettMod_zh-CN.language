@@ -1,0 +1,29 @@
+{
+  "zh-CN": {
+    "SETT_NAME": "<color=#ffa700>瑟提</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>腕豪</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>黑曜石之龙</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>泳池派对</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>至臻 黑曜石之龙</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>王国机神</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>爆竹辞旧</color>",
+    "SETT_DESCRIPTION": "瑟提是这里的头目：一位白手起家的半瓦斯塔亚、半诺克萨斯实业家与格斗家，掌管着艾欧尼亚的地下搏击场。<color=#CCD3E0>\n\n< ! > 瑟提的基础攻击交替使用左重拳与右重拳。右拳稍强且速度更快。瑟提同样厌恶失败，会根据已损失的生命值获得额外的生命回复。\n\n< ! > 瑟提将自身两侧的敌人拉向自己，造成伤害并将其眩晕。若敌人仅处于单侧，则只会被减速而非眩晕。\n\n< ! > 瑟提擒住一名敌方目标跃向空中并将其猛砸向地面，对落地点附近的所有敌人造成伤害并施加减速。\n\n< ! > 瑟提会被动将所受伤害储存为豪气。施放时，瑟提消耗所有储存的豪气以获得护盾并重拳轰击前方区域，在中心造成真实伤害，两侧造成物理伤害。</color>",
+    "SETT_LORE": "作为艾欧尼亚日益庞大的地下犯罪网络首领，瑟提在与诺克萨斯的战争结束后声名鹊起。虽然他起初只是纳沃利搏击场中卑微的挑战者，但凭借野蛮的力量以及仿佛能够承受无尽打击的强悍体魄，他迅速声名大噪。如今，在击溃当地层层角斗强敌之后，瑟提凭借铁拳登上顶峰，君临曾经厮杀过的搏击擂台。",
+    "SETT_OUTRO_FLAVOR": "..于是他离开了，带着值得致敬的崭新力量。",
+    "SETT_OUTRO_FAILURE": "..于是他归来了，真正不朽的坚不可摧之堡垒。",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>默认</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>沙场豪情</color>",
+    "SETT_PASSIVE_DESC": "瑟提每损失<color=#f68835>5%</color>的<color=#d62d20>生命值</color>，每秒额外<color=#c9aa71>回复</color><color=#008744>0.25点生命值</color> <color=#d62d20>(每4级+0.25)</color>。",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>屈人之威</color>",
+    "SETT_PRIMARY_DESC": "瑟提的<color=#c9aa71>基础攻击</color>交替使用左重拳<color=#f68835>(260%伤害)</color>与右重拳<color=#f68835>(320%伤害)</color>。<color=#c9aa71>暴击</color>会重置瑟提的基础攻击计时器，并使下一次基础攻击造成<color=#d62d20>双倍伤害</color>。",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>强手裂颅</color>",
+    "SETT_SECONDARY_DESC": "瑟提将身周<color=#0057e7>20米</color>半径内的所有敌人<color=#c9aa71>拉至身前</color>，造成<color=#f68835>380% </color>伤害。命中时造成<color=#c9aa71>眩晕与减速</color>。",
+    "SETT_UTILITY_NAME": "<color=#ffa700>叹为观止</color>",
+    "SETT_UTILITY_DESC": "瑟提将一名敌人<color=#c9aa71>擒至空中</color>并猛砸向地面，对落地点附近的所有敌人造成<color=#f68835>1600%</color> <color=#d62d20>(+主目标最大生命值与最大护盾值的10%)</color>伤害。",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>蓄意轰拳</color>",
+    "SETT_SPECIAL_DESC": "瑟提被动将所受伤害储存为<color=#ffffff>豪气</color>。施放时，瑟提消耗所有储存的<color=#ffffff>豪气</color>以获得<color=#ffffff>护盾</color>并轰击区域，造成<color=#f68835>2700%</color> <color=#d62d20>(+75%消耗豪气 每4级+5%)</color> <color=#ffffff>真实</color>伤害。",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "瑟提：精通",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "扮演瑟提，在季风难度下通关或湮灭自身。",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "瑟提：精通"
+  }
+}

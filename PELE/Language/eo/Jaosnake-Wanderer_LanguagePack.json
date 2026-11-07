@@ -1,25 +1,25 @@
 {
-    "strings": {
-        "KENKO_UNFORGIVEN_NAME": "Wanderer",
-        "KENKO_UNFORGIVEN_SUBTITLE": "Neindulgebla",
-        "KENKO_UNFORGIVEN_DESCRIPTION": "Wanderer estas rolulo facile lernebla sed malfacile majstrebla, kiu povas nuligi animaciojn por teni altan damagxon.<color=#CCD3E0>\n\n< ! > Uzu Sxtalan Sxtormon inter Rapidaj Frapoj por maksimumigi damagxon.\n\n< ! > Atentu la stakojn de Sxtala Sxtormo: gxia tornado povas forigi multajn malamikojn.\n\n< ! > Uzi Sxtalan Sxtormon dum Svinga Klingo trancxas cirkle kaj pliigas la arean damagxon.\n\n< ! > Airblade: preparu Sxtalan Sxtormon dum Svinga Klingo, poste uzu Lastan Spiron antaux ol la turnigxo trafos por porti gxian damagxon al la celo. Portita normala turnigxo ankoraux donas Sxtorman Akumuladon cxe trafo.</color>",
-        "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..kaj tiel li foriris, 10/0.",
-        "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..kaj tiel li malaperis, 0/10.",
-        "KENKO_UNFORGIVEN_LORE": "Se vi mortis kontraux Yasuo, vi estis superluda. Tio signifas ke li devis kalkuli (kaj efektivigi) la batalon precize laux liaj specifoj, konsiderante viajn malvarmigojn kaj liajn, la pozicion de ambaux arbararoj, ondojn de minionoj kaj la gxeneralan 'senton' de la linio (kapablo, kiun oni devas perfektigi dum jaroj, eble jardekoj, de tio, kion vi nur nomas ludado). Vere, esti venkita de Yasuo estas rekoni ke vi trovis tiun, kiu estas pli bona ol vi, kaj kiel ludanto kaj kiel homo. Via kuragxo malsukcesis vin, sed la ludanto malantaux Yasuo estas fortika sxtalo — solida, malvarma, fidinda — kaj dum li procizas la unuan sangon, vi nerveme atendas la kapitulac-vocxdonon, lia menso ankoraux funkcias plene, preparante strategiojn por preskaux senfina nombro da eblecoj. Mi prenas miajn LP-ojn, certigu, ke vi venontfoje gxuste elektos viajn malpermesojn.",
-        "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Alternativa",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Mastery",
-        "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Kiel Wanderer, finu la ludon aux detruu en Monsoon.",
-        "KENKO_UNFORGIVEN_PASSIVE_NAME": "Vento-Vojo",
-        "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Akumulu pasivan <style=cIsHealing>sxildon</style> dum movado. Cxe trafo cxe maksimumaj sxargxoj la <style=cIsHealing>sxildo</style> krevas kaj donas <style=cIsHealing>barilon</style>. <style=cIsDamage>Sxanco je kritika bato</style> pliigxas je <style=cIsDamage>1.5-oble</style>.",
-        "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Rapidaj Frapoj",
-        "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Trancxu antaux vi, infiktante <style=cIsDamage>240% damagxon</style>.",
-        "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Sxtala Sxtormo",
-        "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Rapida</style>. Elsxovigxu antauxen, infiktante <style=cIsDamage>260% damagxon</style>. Cxe trafado gajnu sxargon de <color=#FFBF66>Sxtorma Akumulado</color>. Cxe 2 sxargoj via venonta <color=#FFBF66>Sxtala Sxtormo</color> elsentos tornadon, infiktante <style=cIsDamage>400% damagxon</style>.",
-        "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Svinga Klingo",
-        "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Sxovigxu al malamiko, infiktante <style=cIsDamage>150% damagxon</style>. Post cxiu sxovo la venonta sxovo infliktos aldone <style=cIsDamage>50% damagxon</style>, gxis maksimumo de <style=cIsDamage>200% aldona damagxo</style>.",
-        "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "Lasta Spiro",
-        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Unua Spiro",
-        "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Teleportigxu al elektita aux plej proksima <style=cIsUtility>aera</style> malamiko kaj rapide ataku, infiktante <style=cIsDamage>2x250% + 800% damagxon</style>. Gajnu bonusan <style=cIsDamage>kiraspenetron</style> dum 6 sekundoj.",
-        "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teleportigxu al elektita aux plej proksima <style=cIsUtility>aera</style> malamiko kaj rapide ataku, infiktante <style=cIsDamage>2x250% + 800% damagxon</style>. Gajnu bonusan <style=cIsDamage>kiraspenetron</style> dum 6 sekundoj.\n<color=#d299ff>SCEPTRO: <style=cIsUtility>Restauxras malvarmigon de duagrada kapablo</style>. Malamikoj frapitaj de <color=#FFBF66>Unua Spiro</color> povas denove esti celita por <color=#FFBF66>Svinga Klingo</color>.</color>"
-    }
+  "strings": {
+    "KENKO_UNFORGIVEN_NAME": "Wanderer",
+    "KENKO_UNFORGIVEN_DESCRIPTION": "Wanderer estas rolulo facile lernebla sed malfacile majstrebla, kiu povas nuligi animaciojn por teni altan damagxon.<color=#CCD3E0>\n\n< ! > Uzu Sxtalan Sxtormon inter Rapidaj Frapoj por maksimumigi damagxon.\n\n< ! > Atentu la stakojn de Sxtala Sxtormo: gxia tornado povas forigi multajn malamikojn.\n\n< ! > Uzi Sxtalan Sxtormon dum Svinga Klingo trancxas cirkle kaj pliigas la arean damagxon.\n\n< ! > Airblade: preparu Sxtalan Sxtormon dum Svinga Klingo, poste uzu Lastan Spiron antaux ol la turnigxo trafos por porti gxian damagxon al la celo. Portita normala turnigxo ankoraux donas Sxtorman Akumuladon cxe trafo.</color>",
+    "KENKO_UNFORGIVEN_SUBTITLE": "Neindulgebla",
+    "KENKO_UNFORGIVEN_LORE": "Se vi mortis kontraux Yasuo, vi estis superludita. Tio signifas ke li devis kalkuli (kaj efektivigi) la batalon precize laux liaj specifoj, konsiderante viajn malvarmigojn kaj liajn, la pozicion de ambaux arbararoj, ondojn de minionoj kaj la gxeneralan 'senton' de la linio (kapablo, kiun oni devas perfektigi dum jaroj, eble jardekoj, de tio, kion vi nur nomas ludado). Vere, esti venkita de Yasuo estas rekoni ke vi trovis tiun, kiu estas pli bona ol vi, kaj kiel ludanto kaj kiel homo. Via kuragxo malsukcesis vin, sed la ludanto malantaux Yasuo estas fortika sxtalo — solida, malvarma, fidinda — kaj dum li akiras la unuan sangon, vi nerveme atendas la kapitulac-vocxdonon, lia menso ankoraux funkcias plene, preparante strategiojn por preskaux senfina nombro da eblecoj. Mi prenas miajn LP-ojn, certigu, ke vi venontfoje gxuste elektos viajn malpermesojn.",
+    "KENKO_UNFORGIVEN_OUTRO_FLAVOR": "..kaj tiel li foriris, 10/0.",
+    "KENKO_UNFORGIVEN_OUTRO_FAILURE": "..kaj tiel li malaperis, 0/10.",
+    "KENKO_UNFORGIVEN_MASTERY_SKIN_NAME": "Alternativa",
+    "KENKO_UNFORGIVEN_PASSIVE_NAME": "Vento-Vojo",
+    "KENKO_UNFORGIVEN_PASSIVE_DESCRIPTION": "Akumulu pasivan <style=cIsHealing>sxildon</style> dum movado. Cxe trafo cxe maksimumaj sxargxoj la <style=cIsHealing>sxildo</style> krevas kaj donas <style=cIsHealing>barilon</style>. <style=cIsDamage>Sxanco je kritika bato</style> pliigxas je <style=cIsDamage>1.5-oble</style>.",
+    "KENKO_UNFORGIVEN_PRIMARY_SWING_NAME": "Rapidaj Frapoj",
+    "KENKO_UNFORGIVEN_PRIMARY_SWING_DESCRIPTION": "Trancxu antaux vi, infliktante <style=cIsDamage>240% damagxon</style>.",
+    "KENKO_UNFORGIVEN_SECONDARY_STEEL_NAME": "Sxtala Sxtormo",
+    "KENKO_UNFORGIVEN_SECONDARY_STEEL_DESCRIPTION": "<style=cIsUtility>Rapida</style>. Elsxovigxu antauxen, infliktante <style=cIsDamage>260% damagxon</style>. Cxe trafo gajnu sxargon de <color=#FFBF66>Sxtorma Akumulado</color>. Cxe 2 sxargoj via venonta <color=#FFBF66>Sxtala Sxtormo</color> elsentos tornadon, infliktante <style=cIsDamage>400% damagxon</style>.",
+    "KENKO_UNFORGIVEN_UTILITY_SWEEP_NAME": "Svinga Klingo",
+    "KENKO_UNFORGIVEN_UTILITY_SWEEP_DESCRIPTION": "Sxovigxu al malamiko, infliktante <style=cIsDamage>150% damagxon</style>. Post cxiu sxovo la venonta sxovo infliktos aldone <style=cIsDamage>50% damagxon</style>, gxis maksimumo de <style=cIsDamage>200% aldona damagxo</style>.",
+    "KENKO_UNFORGIVEN_SPECIAL_BREATH_NAME": "Lasta Spiro",
+    "KENKO_UNFORGIVEN_SPECIAL_BREATH_DESCRIPTION": "Teleportigxu al elektita aux plej proksima <style=cIsUtility>aera</style> malamiko kaj rapide ataku, infliktante <style=cIsDamage>2x250% + 800% damagxon</style>. Gajnu bonusan <style=cIsDamage>kiraspenetron</style> dum 6 sekundoj.",
+    "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_NAME": "Unua Spiro",
+    "KENKO_UNFORGIVEN_SPECIAL_SCEP_BREATH_DESCRIPTION": "Teleportigxu al elektita aux plej proksima <style=cIsUtility>aera</style> malamiko kaj rapide ataku, infliktante <style=cIsDamage>2x250% + 800% damagxon</style>. Gajnu bonusan <style=cIsDamage>kiraspenetron</style> dum 6 sekundoj.\n<color=#d299ff>SCEPTER: <style=cIsUtility>Restauxras malvarmigon de duagrada kapablo</style>. Malamikoj frapitaj de <color=#FFBF66>Unua Spiro</color> povas denove esti celitaj por <color=#FFBF66>Svinga Klingo</color>.</color>",
+    "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_NAME": "Wanderer: Majstreco",
+    "ACHIEVEMENT_KENKO_UNFORGIVEN_MASTERYACHIEVEMENT_DESCRIPTION": "Kiel Wanderer, finu la ludon aux detruu en Monsoon."
+  }
 }

@@ -1,11 +1,11 @@
 {
-    "name": "Starstorm2_ptBR_LanguagePack",
     "author": "Jaosnake",
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
-    "description": "Tradução pt-BR do Starstorm 2. Primeira tradução: Kauzok e Balorfist. Conversão da EN + tradução parcial anterior ausente no mod. Revisado linha a linha por Jaosnake. Requer R2API_Language.",
+    "name": "Starstorm2_ptBR_LanguagePack",
+    "description": "Brazilian Portuguese translation pack for Starstorm 2 by TeamMoonstorm.",
+    "version_number": "1.0.3",
     "dependencies": [
-        "TeamMoonstorm-Starstorm2-0.6.38",
+        "TeamMoonstorm-Starstorm2-0.6.46",
         "RiskofThunder-R2API_Language-1.1.0"
-    ]
+    ],
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

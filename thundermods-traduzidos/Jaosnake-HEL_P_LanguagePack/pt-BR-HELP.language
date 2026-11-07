@@ -22,6 +22,12 @@
     "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Dispare uma rajada de energia que <style=cIsHealth>CAUSA DANO A INIMIGOS</style> e <style=cIsHealing>CURA ALIADOS</style> em <style=cIsDamage>5x800%</style>. <style=cIsUtility>ATÉ 3 CARGAS.</style>",
     "Jellyfish": "Água-viva",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Aplique uma descarga em um inimigo para <style=cIsUtility>ELETRIZÁ-LO</style>, causando <style=cIsDamage>30%</style> DE DANO. <style=cIsUtility>ATÉ 3 CARGAS.</style>",
-    "Wisp": "Fogo-fátuo"
+    "Wisp": "Fogo-fátuo",
+    "PLASMA CUTTER": "Cortador de Plasma",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Carregue um raio de plasma ardente que causa <style=cIsDamage>270%-630% DE DANO POR SEGUNDO</style>.",
+    "NANO-BEAM": "Nano-Raio",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Dispara canhões de nanopulso que causam <style=cIsDamage>320% de dano</style> a combatentes hostis e <style=cIsHealing>curam combatentes aliados em 320% do seu dano</style>.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Dispare uma rajada de energia que <style=cIsHealth>CAUSA DANO A INIMIGOS</style> e <style=cIsHealing>CURA ALIADOS</style> em <style=cIsDamage>5x500%</style>. <style=cIsUtility>ATÉ 3 CARGAS.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Dispara uma explosão devastadora que <style=cIsHealth>causa dano a combatentes hostis</style> e <style=cIsHealing>cura combatentes aliados</style> em <style=cIsDamage>2500-7500%</style> com base nas <style=cIsUtility>CARGAS USADAS.</style>"
   }
 }

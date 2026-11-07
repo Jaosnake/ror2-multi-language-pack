@@ -22,6 +22,12 @@
     "FIRE A DEVASTATING PULSE CANNON THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>4000%</style>.": "破壊的なパルス砲を放ち、<style=cIsHealth>敵にダメージを与え</style>、<style=cIsHealing>味方を回復する</style>。効果量は<style=cIsDamage>4000%</style>。",
     "Jellyfish": "クラゲ",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "敵を電撃で<style=cIsUtility>感電</style>させ、<style=cIsDamage>30%</style>のダメージを与える。<style=cIsUtility>最大3チャージ。</style>",
-    "Wisp": "ウィスプ"
+    "Wisp": "ウィスプ",
+    "PLASMA CUTTER": "プラズマカッター",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "灼熱のプラズマビームをチャージして放ち、<style=cIsDamage>毎秒270%-630%のダメージ</style>を与える。",
+    "NANO-BEAM": "ナノビーム",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "ナノパルス砲を発射し、<style=cIsHealth>敵にダメージを与え</style>、<style=cIsHealing>味方を回復する</style>。効果量はどちらも攻撃力の<style=cIsDamage>320%</style>。",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "エネルギーの弾幕を放ち、<style=cIsHealth>敵にダメージを与え</style>、<style=cIsHealing>味方を回復する</style>。効果量は<style=cIsDamage>5x500%</style>。<style=cIsUtility>最大3チャージ。</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "破壊的なブラストを放ち、<style=cIsHealth>敵にダメージを与え</style>、<style=cIsHealing>味方を回復する</style>。効果量は<style=cIsUtility>消費したチャージ数</style>に応じて<style=cIsDamage>2500-7500%</style>。"
   }
 }

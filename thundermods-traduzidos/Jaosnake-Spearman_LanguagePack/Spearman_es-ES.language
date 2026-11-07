@@ -16,7 +16,7 @@
         "SPEARMAN_M1": "Postura de batalla",
         "SPEARMAN_M1_DESCRIPTION": "Ataque a distancia contra enemigos fuera de alcance y cuerpo a cuerpo contra enemigos cercanos. A distancia: Lanza la lanza para <style=cIsDamage>175% de daño</style>. Cuerpo a cuerpo: empuja la lanza hacia adelante causando <style=cIsDamage>300% de daño</style>.",
         "SPEARMAN_M2": "Lanza de guerreros",
-        "SPEARMAN_M2_DESCRIPTION": "Carga una lanza <style=cIsDamage>perforante</style> potenciada, que aumenta el daño y la distancia, inflige <style=cIsDamage>300-1000 % de daño</style> y aplica la desventaja de ciclismo (<style=cIsUtility>Freeze</style>, <style=cIsHealth>Fire</style>, <style=cShrine>Eléctrico</style>,</style>0__Bleed</style>1__ o</style>2__Veneno</style>3__).",
+        "SPEARMAN_M2_DESCRIPTION": "Carga una lanza <style=cIsDamage>perforante</style> potenciada, que aumenta el daño y la distancia, inflige <style=cIsDamage>300-1000 % de daño</style> y aplica una desventaja cíclica (<style=cIsUtility>Congelación</style>, <style=cIsHealth>Fuego</style>, <style=cShrine>Eléctrico</style>, <style=cDeath>Sangrado</style> o <style=cIsHealing>Veneno</style>).",
         "SPEARMAN_UTIL": "Patada de salto",
         "SPEARMAN_UTIL_DESCRIPTION": "Deslízate por el suelo, <style=cIsUtility>golpea a los enemigos </style> en el aire. Si un enemigo es golpeado, vuelve a lanzarlo para patear hacia arriba en el aire e infligir <style=cIsDamage>200% de daño</style>.",
         "SPEARMAN_SPEC": "Aniquilación",

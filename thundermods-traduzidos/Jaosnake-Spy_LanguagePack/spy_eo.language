@@ -1,0 +1,30 @@
+{
+  "eo": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "La Spy estas rompigxema proksimbatala insidmurdisto, kiu elstaras je mortigado de altprioritataj celoj kun facileco.<color=#CCD3E0>\n\n< ! > Akumu stakojn de Spionado per la trancxilo de Spy kaj liberigu kritikajn trafojn per The Diamondback.\n\n< ! > Pikofrapo estas giganta kapablo, kiu povas tuj mortigi pli malfortajn malamikojn.\n\n< ! > Sabotado povas esti bonega ilo por atingi Dorspikan atingon dum senmovigante proksimajn malamikojn.\n\n< ! > Kamuflo povas esti bonega maniero por ambaux engagxi kaj eskapi malamikojn, sed postulas gxustan resursan mastrumadon.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Majstro de Spionado",
+    "KENKO_SPY_LORE": "Dum la rapida disvolvigxo de kosmaj imperioj sxprucis tra la steloj, same faris la silentaj militoj, kiuj brulis inter ili. Diplomatiaj fasadoj maskis la strecxitecon, sed sub la surfaco kasxigxas furioza politika lukto, aliancoj rompigxantaj, kaj ideologioj koliziantaj en la silento de la kosmo.\n\nEn cxi tiu epoko de interstela ambicio, senkasxa konflikto riskis tutan neniigon. Gvidantoj turnis sin al la ombroj por plenumi sian volon anstataux tio. Spionado farigxis la elektita armilo — silenta milito farata en datumfluoj, flustritaj kodoj kaj sxtelitaj sekretoj. Tutaj civilizacioj estis skuitaj ne per flotoj aux pafpovo, sed per bone lokita flustro, koruptita protokolo, malaperinta oficisto.\n\nSpionoj farigxis fantomoj en la masxinaro de imperio. Majstroj de trompo, enfiltrigxo kaj subfosado, ili glitis inter limoj nerimarkite, trancxante en imperiojn kun kirurgia precizeco. Kelkaj servis regantojn. Aliaj servis idealojn. Kelkaj servis nur sin mem.\n\nIliaj venkoj neniam estas paradataj. Iliaj nomoj neniam estas elparolataj. Iliaj misioj, entombigitaj lauxdezajne. Kaj tamen, la levigxo kaj falo de tutaj stel-nacioj dependis de la agoj de kelkaj nevideblaj agentoj.\n\nBona spiono neniam estas kaptita. La efiko, kiun ili lasas sur la historio, estas nespurebla, sed en la trankvila sxangxo de potenco, en la momento kiam imperio levigxas aux disfalas, ilia mano estas cxiam tie, nevidebla... sed nekontestebla.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..kaj tiel li foriris, alia misio plenumita.",
+    "KENKO_SPY_OUTRO_FAILURE": "..kaj tiel li malaperis, sen ajna spuro.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternativa",
+    "KENKO_SPY_PASSIVE_NAME": "Dorspiko",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> povas fari <style=cIsHealth>Dorspikon</style> al malamikoj per sia <color=#62746f>Trancxilo</color>, kauxzante <style=cIsDamage>Kritikan Trafon</style>, kiu tuj <style=cIsHealth>mortigas</style> pli malfortajn malamikojn.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Pafu kuglon por <style=cIsDamage>320% da damagxo</style>. Mortigoj per <style=cIsHealth>Dorspiko</style> donas <color=#62746f>Spionadon</color>. Maksimumo 5 stakoj.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Pafu kuglon por <style=cIsDamage>260% da damagxo</style>. Trafi kappafon kauxzas <style=cIsDamage>Kritikan Trafon</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Pikofrapo",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Pretigu vian <color=#62746f>Trancxilon</color>. Liberigu por svingi por <style=cIsDamage>500% da damagxo</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Oportunisto</color>. Pretigu vian <color=#62746f>Trancxilon</color>. Liberigu por svingi por <style=cIsDamage>500% da damagxo</style>. Mortigoj per <style=cIsHealth>Dorspiko</style> donas <style=cIsUtility>movrapidecon</style> kaj <style=cIsHealing>barilon</style> kaj krome <style=cIsUtility>reagordas la malvarmigxon de cxi tiu kapablo</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotado",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Jxetu <color=#62746f>Sabotilon</color> antauxen, <style=cIsDamage>senmovigante</style> kaj kauxzante <style=cIsDamage>damagxon</style> al cxiuj proksimaj malamikoj. Trafi malamikon per <color=#62746f>Sabotilo</color> <style=cIsUtility>teleportas</style> Spy malantaux la celon.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Kamuflo",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Eniru staton de <color=#62746f>Kamuflo</color>, akirante <style=cIsUtility>nevideblecon</style> kaj <style=cIsUtility>movrapidecon</style>. Ataki aux suferi damagxon rompas <color=#62746f>Kamuflon</color>.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Majstreco",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Kiel Spy, venku la ludon aux forvisxu vin en Monsoon.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Dorspiko</style><style=cSub>Frapi malamikon en la dorson kauxzas tujan kritikan trafon. Pli malfortaj malamikoj estas tuj ekzekutitaj.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Spionado</style><style=cSub>Konsumi stakon de Spionado garantias kritikan trafon cxe via sekva revolvera pafo.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Oportunisto</style><style=cSub>Mortigi malamikon per Dorspiko provizas movrapidecon, provizoran barilon kaj malvarmigxan reagordon.</style>"
+  }
+}

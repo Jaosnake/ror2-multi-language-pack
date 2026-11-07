@@ -1,11 +1,11 @@
 {
     "author": "Jaosnake",
     "name": "Starstorm2_LanguagePack",
-    "description": "Multi-language translation pack for Starstorm 2 by TeamMoonstorm - translated by Jaosnake",
+    "description": "Multi-language translation pack for Starstorm 2 by TeamMoonstorm.",
+    "version_number": "2.0.4",
     "dependencies": [
-        "TeamMoonstorm-Starstorm2-0.6.39",
+        "TeamMoonstorm-Starstorm2-0.6.46",
         "RiskofThunder-R2API_Language-1.1.0"
     ],
-    "version_number": "2.0.3",
     "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }

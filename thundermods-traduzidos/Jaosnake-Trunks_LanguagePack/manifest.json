@@ -1,9 +1,10 @@
 {
-    "name": "Trunks_LanguagePack",
-    "version_number": "1.0.0",
-    "website_url": "https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/",
-    "description": "[15 Languages] Complete multi-language translation pack for Trunks v1.0.5 (EN, PT-BR, ES, FR, IT, DE, RU, UA, TR, ZH-CN, JA, KO, EO, LA). P.E.L.E. required for UA, EO, LA.",
-    "dependencies": [
-        "kinggrinyov-Trunks-1.0.5"
-    ]
+  "name": "Trunks_LanguagePack",
+  "version_number": "1.0.0",
+  "website_url": "https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/",
+  "description": "Multi-language translation pack for Trunks by kinggrinyov.",
+  "dependencies": [
+    "kinggrinyov-Trunks-1.3.2",
+    "Jaosnake-PELE-1.0.3"
+  ]
 }

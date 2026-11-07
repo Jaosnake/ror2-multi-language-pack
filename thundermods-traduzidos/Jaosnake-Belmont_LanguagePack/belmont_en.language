@@ -2,7 +2,7 @@
     "en": {
         "ROB_BELMONT_BODY_NAME": "<color=#3060FF>Belmont</color>",
         "ROB_BELMONT_BODY_NAME_ALT": "Hunter",
-        "ROB_BELMONT_BODY_DESCRIPTION": "The <color=#3060FF>Belmont</color> is an elite monster hunter with the right tools for any situation, no matter how dire.<color=#CCD3E0>\n\n< ! > Whip deals safe damage from a distance but sword swings deal much more damage overall.\n\n< ! > Rush is the perfect tool for getting up close to shred with your sword.\n\n< ! > Use Abscond to swing off flying monsters to cover great distances.\n\n< ! > Ancient Flame can be used to clear a crowd with ease.",
+        "ROB_BELMONT_BODY_DESCRIPTION": "The <color=#3060FF>Belmont</color> is an elite monster hunter with the right tools for any situation, no matter how dire.<color=#CCD3E0>\n\n< ! > Whip deals safe damage from a distance but sword swings deal much more damage overall.\n\n< ! > Rush is the perfect tool for getting up close to shred with your sword.\n\n< ! > Use Abscond to swing off flying monsters to cover great distances.\n\n< ! > Ancient Flame can be used to clear a crowd with ease.</color>",
         "ROB_BELMONT_BODY_SUBTITLE": "Monster Hunter",
         "ROB_BELMONT_BODY_LORE": "I do not belong here.\n\nThis world reeks of <color=#7F364F>corruption</color>. Not the kind that festers in men's hearts, nor the taint of a vampire's domain, but something deeper- more ancient. It clings to the air, saturates the soil, and twists the beasts that roam this forsaken land. The moon above watches, distant yet suffocating. It is wrong, like something stolen from its rightful place.\n\nAnd yet, I was brought here.\n\nFate? No, I've never trusted such notions. A cruel joke, perhaps, played by some unseen hand. One moment, the wind howled through the halls of my hunt, the scent of blood and old stone in my lungs- the next, I was falling. The sky was a storm of fire, the ground rising fast beneath me. <style=cIsHealth>I should have died.</style>\n\nInstead, I stand.\n\nAgain.\n\n<color=#FF0033>Always.</color>",
         "ROB_BELMONT_BODY_OUTRO_FLAVOR": "..and so he left, his virtuous journey completed.",
@@ -17,7 +17,7 @@
         "ROB_BELMONT_BODY_ISAAC_SKIN_NAME": "<color=#3060FF>Forgemaster</color>",
         "ROB_BELMONT_BODY_MINECRAFT_SKIN_NAME": "<color=#3060FF>Minecraft</color>",
         "ROB_BELMONT_BODY_PASSIVE_NAME": "Divine Bloodline",
-        "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "Each stage, a <color=#7F364F>Shrine of the Night</color> spawns, granting <color=#FFFF00>Key Fragments</color> once completed. These are used to acquire <style=cIsDamage>powerful gear</style> for the <color=#3060FF>Belmont.",
+        "ROB_BELMONT_BODY_PASSIVE_DESCRIPTION": "Each stage, a <color=#7F364F>Shrine of the Night</color> spawns, granting <color=#FFFF00>Key Fragments</color> once completed. These are used to acquire <style=cIsDamage>powerful gear</style> for the <color=#3060FF>Belmont.</color>",
         "ROB_BELMONT_BODY_CONFIRM_NAME": "Confirm",
         "ROB_BELMONT_BODY_CONFIRM_DESCRIPTION": "Proceed with the current skill.",
         "ROB_BELMONT_BODY_CANCEL_NAME": "Cancel",
@@ -111,6 +111,6 @@
         "ROB_BELMONT_BROTHERSOUL_LORE": "",
         "ROB_GARGOYLE_NAME": "Gargoyle",
         "ROB_GREAT_GARGOYLE_NAME": "Blue Fangs",
-        "KEYWORD_WHIP_SLAM": "<style=cKeywordName>Whip Slam</style><style=cSub>Double tap while locked onto an <style=cIsUtility>airborne</style> enemy to <style=cIsDamage>slam</style> them down for <style=cIsDamage>1800% damage</style>."
+        "KEYWORD_WHIP_SLAM": "<style=cKeywordName>Whip Slam</style><style=cSub>Double tap while locked onto an <style=cIsUtility>airborne</style> enemy to <style=cIsDamage>slam</style> them down for <style=cIsDamage>1800% damage</style>.</style>"
     }
 }

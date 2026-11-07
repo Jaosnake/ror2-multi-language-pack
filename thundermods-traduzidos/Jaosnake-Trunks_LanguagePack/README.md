@@ -1,70 +1,23 @@
-# 🌍 Jaosnake-Trunks_LanguagePack
+# Trunks Multi-Language Pack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.0-blue)
-![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
-[![PELE](https://img.shields.io/badge/%E2%9A%A1%20P.E.L.E.-Required%20for%20UA%20%2F%20eo%20%2F%20la-orange)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)
+> **Required in every language:** Install [P.E.L.E. 1.0.3](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/). Its separate KingModUtilities compatibility DLL enables the translated transformation menus and tutorials for Goku, Vegeta and Trunks. The mod manager installs P.E.L.E. as a dependency.
+>
+> **Obrigatório em todos os idiomas:** instale o [P.E.L.E. 1.0.3](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/). A DLL de compatibilidade incluída nele habilita a tradução dos menus de transformações e dos tutoriais de Goku, Vegeta e Trunks. O gerenciador instala o P.E.L.E. automaticamente como dependência.
 
-Complete multi-language translation pack for **Trunks** by **kinggrinyov** (`kinggrinyov-Trunks-1.0.5`), adding full localization across **15 languages** (**68 localized strings per language**).
+Community translation for [Trunks by kinggrinyov](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/), checked against version 1.3.2.
 
-> ⚠️ **IMPORTANT NOTICE / AVISO IMPORTANTE (P.E.L.E. REQUIRED):**
-> **Ukrainian (`UA`)**, **Esperanto (`eo`)**, and **Latin (`la`)** translations are fully included in this pack, but **Risk of Rain 2 does not natively support or display these languages in the game menu**.
-> 
-> To play with any of these 3 languages, you **MUST download and install [P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)** (Language Expander & Loader), which unlocks and enables them in-game!
-> 
-> *Para jogar em Ucraniano, Esperanto ou Latim, é **obrigatório** instalar o mod **[P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)**, pois o Risk of Rain 2 padrão não oferece suporte nativo a esses idiomas no seletor do jogo.*
+## Languages
 
----
+English, Brazilian Portuguese, German, Spanish (Latin America and Spain), French, Italian, Japanese, Korean, Russian, Simplified Chinese, Turkish, Ukrainian, Esperanto and Latin. Ukrainian, Esperanto and Latin are available in the language selector through P.E.L.E.
 
-## 📦 Dependencies
-| Package | Version | Requirement |
-|---------|---------|-------------|
-| `kinggrinyov-Trunks-1.0.5` | `1.0.5` | Required |
-| `RiskofThunder-R2API_Language` | `1.1.0` | Required |
-| **[Jaosnake-PELE](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)** | Latest | **Required for Ukrainian (`UA`), Esperanto (`eo`), and Latin (`la`)** |
+## Installation
 
----
+Install P.E.L.E. 1.0.3, the original Trunks mod and this pack with your mod manager. The original mod provides KingModUtilities as a dependency. For manual installations, install all required dependencies and keep only one copy of the P.E.L.E. compatibility DLL.
 
-## 🌐 Languages (15)
-| Flag | Code | Language | Support & Requirements |
-|------|------|----------|------------------------|
-| 🇺🇸 | `en` | English | Native Base |
-| 🇧🇷 | `pt-BR` | Português (Brasil) | Native |
-| 🇪🇸 | `es-ES` | Español (España) | Native |
-| 🇲🇽 | `es-419` | Español (Latinoamérica) | Native |
-| 🇫🇷 | `FR` | Français | Native |
-| 🇮🇹 | `IT` | Italiano | Native |
-| 🇩🇪 | `de` | Deutsch | Native |
-| 🇷🇺 | `RU` | Русский | Native |
-| 🇺🇦 | `UA` | Українська | ⚡ **[Requires P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)** |
-| 🇹🇷 | `tr` | Türkçe | Native |
-| 🇨🇳 | `zh-CN` | 简体中文 | Native |
-| 🇯🇵 | `ja` | 日本語 | Native |
-| 🇰🇷 | `ko` | 한국어 | Native |
-| 🌐 | `eo` | Esperanto (x-system) | ⚡ **[Requires P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)** |
-| 🏛️ | `la` | Lingua Latina | ⚡ **[Requires P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)** |
+Skill descriptions and numbers can depend on the original mod version and its settings. If you change those settings, some descriptions may fall back to the original text.
 
----
+## Credits and feedback
 
-## 🎮 Gameplay & Configuration
-Skill descriptions display default damage and Ki costs from Trunks v1.0.5.
+Original Trunks mod and KingModUtilities by kinggrinyov. Translation pack by Jaosnake. [Project and feedback](https://github.com/Jaosnake/ror2-multi-language-pack).
 
-## 📦 Installation / Instalação
-
-1. Install **Trunks** (`kinggrinyov-Trunks-1.0.5`) via **r2modman** or **Thunderstore Mod Manager**.
-2. Install this language pack (`Jaosnake-Trunks_LanguagePack-1.0.0`).
-3. **If playing in Ukrainian, Esperanto, or Latin:**
-   - Download and install **[P.E.L.E.](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/)** (required to enable these languages in-game).
-4. Launch Risk of Rain 2 — translations will load automatically according to your selected language!
-
----
-
-## 👤 Credits
-| Role | Name |
-|------|------|
-| Original Mod | [kinggrinyov](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/) |
-| Translations | Jaosnake |
-
----
-
-## ☕ Support
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
+[Support Jaosnake on Ko-fi](https://ko-fi.com/jaosnake)

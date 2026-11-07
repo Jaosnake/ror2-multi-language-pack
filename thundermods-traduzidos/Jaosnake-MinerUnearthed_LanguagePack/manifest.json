@@ -1,11 +1,10 @@
 {
-    "author": "Jaosnake",
     "name": "MinerUnearthed_LanguagePack",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
     "description": "Multi-language translation pack for MinerUnearthed by EnforcerGang.",
     "dependencies": [
-        "EnforcerGang-MinerUnearthed-1.10.0",
+        "EnforcerGang-MinerUnearthed-1.10.1",
         "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+    ]
 }

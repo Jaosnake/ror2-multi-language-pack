@@ -2,7 +2,7 @@
     "name": "Ganondorf_LanguagePack",
     "version_number": "1.0.0",
     "website_url": "https://thunderstore.io/c/riskofrain2/p/Ethanol10/Ganondorf_Mod/",
-    "description": "[15 Languages] Complete multi-language translation pack for Ganondorf_Mod v3.2.4 (EN, PT-BR, ES, FR, IT, DE, RU, UA, TR, ZH-CN, JA, KO, EO, LA). P.E.L.E. required for UA, EO, LA.",
+    "description": "Multi-language translation pack for Ganondorf by Ethanol10.",
     "dependencies": [
         "Ethanol10-Ganondorf_Mod-3.2.4"
     ]

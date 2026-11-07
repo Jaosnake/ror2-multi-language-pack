@@ -1,7 +1,7 @@
 {
     "ja": {
         "POPCORN_ARSONIST_BODY_NAME": "Arsonist",
-        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonist は、目的を達成する手段として火を使用する短距離戦車です。オーバーヒート ゲージを管理することで、敵のグループに大きなダメージを与えることができます。勝利するにはバランスが重要です。</i>",
+        "POPCORN_ARSONIST_BODY_DESCRIPTION": "Arsonistは、火を目的達成の手段として使う近距離型タンクだ。オーバーヒートゲージを管理すれば、敵の集団に大ダメージを与えられる。勝利にはバランスが欠かせない。\n\n< ! > オーバーヒート中は攻撃が弱くなる。窮地では浄化でオーバーヒートを即座に解除できるが、クールダウンが長くなる。\n\n< ! > マゾヒズムの発動中も予測のスタックは増え続ける。早めに発動しても、最大持続時間まで維持して終了できる。\n\n< ! > 浄化はパッシブによる炎のデバフを解除できる。危険な状況から抜け出すのに使おう。",
         "POPCORN_ARSONIST_BODY_SUBTITLE": "マニアックな放火狂",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME": "通常ゲージ",
         "POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION": "白い部分に<style=cIsDamage>100%</style>ダメージを与える。ベースゲージはオーバーヒートに耐性があります。</i>",
@@ -49,6 +49,7 @@
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_NAME": "Arsonist: Pyromaniac",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_FLAMETHROWERUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "Arsonistでオーバーヒートせずにステージをクリアする。",
         "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_NAME": "Embers",
-        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "テレポーターのボスを炎上中に倒す。"
+        "ACHIEVEMENT_POPCORN_ARSONIST_BODY_ARSONISTUNLOCKABLE_ACHIEVEMENT_DESCRIPTION": "テレポーターのボスを炎上中に倒す。",
+        "POPCORN_ARSONIST_BODY_LORE": "個人用録音機器から取得した音声記録。\n\n文字起こしを印刷中……\n\nUESへの加入は簡単だった。特に、求人募集のおかげでな。\n\n爆破の専門家なら、俺がすでにやっている仕事と大して変わらない。そう、放火だって仕事だ。軍は親切にも、焼夷部隊の古い装備をその辺に放置してくれた。俺のような目ざとい者なら見つけられるようにな。あの部隊で何をしようとしていたのかを知るのは難しくなかった。それを廃止したとは、まったく惜しいことだ。\n\n連中は天才だった。天才だったのに、UESは彼らをサイコパス呼ばわりした。完全には破壊されずに残ったわずかな残骸を、俺はかろうじて回収できた。それでも、所属部門の警備が厳重で、修復したものを試す機会はほとんどなかった。\n\n同僚から仕事があると聞いた。UES Safe Travelsに乗って未知の惑星へ向かう、何かの救助任務らしい。あの場所の噂は聞いている。そこに住む生き物については、あまりいい話ではなかった。\n\nふむ。\n\n行ってみるか。なかなかいい実験台が見つかりそうだ。\n\n録音終了。"
     }
 }

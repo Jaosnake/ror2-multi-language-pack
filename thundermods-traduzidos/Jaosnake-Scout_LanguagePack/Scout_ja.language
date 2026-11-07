@@ -1,0 +1,30 @@
+{
+  "ja": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "大自然の力",
+    "KENKO_SCOUT_DESCRIPTION": "Scoutは極めて高い機動力と瞬間火力を誇り、単体の敵を容易に撃破できる生存者です。<color=#CCD3E0>\r\n\r\n< ! > Splattergunのノックバックを利用して高所へ移動したり、敵の攻撃を回避しましょう。\r\n\r\n< ! > 野球ボールと肉切り包丁のコンボで、遠距離から大ダメージを与えることができます。\r\n\r\n< ! > 敵の大群に対してバットを使用すると、最も効率よくAtomic Coreのチャージを獲得できます。\r\n\r\n< ! > Atomic Blastのストック数を増やすと効果時間が延長され、クールダウン短縮によりAtomic Coreのチャージ速度が上昇します。</color>",
+    "KENKO_SCOUT_LORE": "発電所からの脱走。原因不明のまま、ニュースを通じて野火の如く瞬く間に広まった大事故。ひとりの作業員がよろめきながらゆっくりと立ち去る。バットだけが彼の唯一の支えだった。全身を駆け巡る激痛と衝撃に苛まれながら、彼はあてもなく彷徨った。廃線となったとおぼしき線路に近づいたとき、遠くに誰かの姿がおぼろげに見えた。論理的に考えれば、もうひとりの人間に違いない。その人物が異様なオーラを放っていたため、彼は警戒を怠らず、その人影に潜む脅威を見極めようとした。\r\n\r\n「散歩にはうってつけの時間だね。この古い線路のそばで、ご一緒してもいいかな？」\r\n\r\n「お、お前は誰だ……？ 俺に何のご、用だ？」\r\n\r\n「私の正体など君には関係のないことだ」\r\n「……だが、ずいぶんと散々な夜を過ごしたようだね。死の淵に足を踏み入れかけている、そうだろ？」\r\n「君の力になれるものがあるかもしれない。一種の……提案のようなものだ」\r\n\r\n「と、取引……？」\r\n\r\n「その通りだ」\r\n\r\n彼の喉は締めつけられ、心臓は早鐘を打ち、心はこのすべてが現実ではないと思い込もうとし始めた。躊躇いながらも、その人物が語りかける間、永遠にも感じられた息をようやく吐き出した。彼が感じていたのは恐怖だったのか？ 混乱だったのか？ それとも、世界を意のままにできるという思いが、彼を陶酔にも似た誘惑へと駆り立てたのだろうか？ いずれにせよ、彼はなおも熱心に耳を傾けた。一言一句に集中し、その意味を読み解こうとする。あるいは、この地獄から抜け出せるかもしれない。\r\n\r\n「君から放射線が放たれているのが感じられるよ……ふむ……」\r\n「……ぴったりのものがある。それを君をパワーアップさせる力へと変えてみるのはどうだい？ 以前よりも強く、優れた存在へと生まれ変わらせるのさ。その引き換えに……そうだね……いくつか頼み事を聞いてもらおう。悪くない話だろ？ 私はそう思うがね」\r\n「この処置を手伝ってくれる旧友たちもいるんだ」\r\n\r\n「……で、でも、俺の仕事はどうなる？」\r\n「俺はどこへ行けばいいんだ？ 無職になるのは御免だ……」\r\n\r\n「それを言ってくれて嬉しいよ。宇宙の深淵のどこかで募集している仕事の話を耳にしてね。すべてが終われば、君の新たなスピードとアジリティを存分に活かせるはずだ」\r\n「……それと一つ助言だが、もう少し自信を持ちたまえ。その方がチャンスも広がるだろうからね」\r\n\r\n「ふむ……」\r\n「……分かった、取引成立だ……あんたが何者であれ」\r\n\r\n「素晴らしい」\r\n\r\n遠くから列車の音が聞こえてくる。列車が減速し、古びた汽笛の音が鳴り響くと、二人の姿はかき消えるように消えていた。",
+    "KENKO_SCOUT_OUTRO_FLAVOR": "..草は生え、鳥は飛び、太陽は輝き、そして兄弟、俺は人を傷つける。",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..一体全体あのクソは何だったんだ？",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "オルタネイト",
+    "KENKO_SCOUT_PASSIVE_NAME": "Atomic Core",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scoutは<style=cIsUtility>2段ジャンプ</style>が可能です。<style=cIsDamage>ダメージ</style>を与えて <style=cHumanObjective>Atomic Core</style> を蓄積します。ダメージを受けると <style=cHumanObjective>Atomic Core</style> が減少します。<style=cHumanObjective>Atomic Core</style> は<style=cIsUtility>移動速度</style>を上昇させます。",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Splattergun",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>アジリティ</style>。散弾を一斉発射し、<style=cIsDamage>12x{0}%のダメージ</style>を与える。",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Dastardly Dwarf",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "高速弾を発射し、<style=cIsDamage>{0}%のダメージ</style>を与える。<style=cIsDamage>ヘッドショットは2倍のダメージ</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Elephants Foot",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>アジリティ</style>。バットをスイングして <style=cIsDamage>{0}%のダメージ</style>を与える。",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Toxic Cleaver",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>アジリティ</style>。肉切り包丁を投げて<style=cIsDamage>荒廃</style>を与え、<style=cIsDamage>{0}%のダメージ</style>を与える。<style=cIsDamage>スタン</style>状態の敵には<style=cIsDamage>クリティカルストライク</style>となり、<style=cIsHealing>毒</style>を与える。",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Spike Ball",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>アジリティ</style>。野球ボールを打って<style=cIsDamage>スタン</style>させ、<style=cIsDamage>{0}%のダメージ</style>を与える。<style=cIsDamage>スタン</style>時間は飛行距離に応じて延長される。",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Atomic Blast",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "<style=cHumanObjective>Atomic Core</style> を消費して<style=cIsDamage>アトミック・クリティカル</style>、<style=cIsDamage>攻撃速度</style>、<style=cIsUtility>移動速度</style>を獲得する。チャージ量に応じて周囲に <style=cIsDamage>{0}% - {1}%のダメージ</style>を与える。",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "スワップ",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "バットに持ち替える。",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "スワップ",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "バットに持ち替える。<style=cHumanObjective>Atomic Core</style> の消費中も、<style=cHumanObjective>Atomic Charge</style> を獲得できる。",
+    "KENKO_SCOUT_masteryAchievement": "Scoutとして、モンスーン難易度でゲームをクリアするか自身を消滅させる。"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tr": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "Doğa Gücü",
+    "KENKO_SCOUT_DESCRIPTION": "Scout, tekil hedefleri kolaylıkla alt edebilen son derece çevik ve yüksek anlık hasara sahip bir kazazededir.<color=#CCD3E0>\r\n\r\n< ! > Yüksek konumlara ulaşmak veya düşman saldırılarından kaçınmak için Splattergun'ın geri itmesini kullanın.\r\n\r\n< ! > Beyzbol Topunuz ile Satırınızı kombolamak uzaktan büyük hasar verebilir.\r\n\r\n< ! > Büyük düşman grupları varsa Sopa en fazla Atomic Core yükünü kazandırabilir.\r\n\r\n< ! > Atomic Blast için fazladan stoklar süresini artırırken, bekleme süresi azaltması Atomic Core dolum hızını artırır.</color>",
+    "KENKO_SCOUT_LORE": "Güç santralinden bir kaçış. Sebebi bilinmeyen ve haberlerde bir yangın gibi yayılacak bir kaza. Yalnız bir işçi, tek desteği olan sopasına yaslanarak yavaşça sendeliyor. Vücudunda yankılanan acı ve şokla amaçsızca dolaştı. Terk edilmiş bir demiryoluna benzeyen yere yaklaşırken, uzakta mantıken başka bir insan olduğunu düşündüğü silüeti seçmeye çalıştı. Üzerinde tuhaf bir aura vardı; tetikte kalarak bu figürden gelebilecek olası bir tehdidi sezmeye çalıştı.\r\n\r\n“Yürüyüş için güzel bir zaman, bu eski rayların yanında sana katılsam sakıncası var mı?”\r\n\r\n“K-Kimsin sen...? B-benden ne istiyorsun?”\r\n\r\n“Kimliğim seni ilgilendirmez.”\r\n“... ancak oldukça zorlu bir gece geçirdiğini görebiliyorum. Ölümün eşiğine yaklaşmışsın, ha?”\r\n“Sana yardımcı olabilecek bir şeyim olabilir, bir tür... teklif.”\r\n\r\n“B-Bir... a-anlaşma mı..?”\r\n\r\n“Aynen öyle.”\r\n\r\nBoğazı tıkandı, kalbi hızla çarpmaya başladı ve zihni tüm bunların yaşanmadığı yanılsamasına sığınmaya çalıştı. Tereddüt ederek, o kişi konuşurken sonsuzluk gibi gelen bir süredir tuttuğu nefesi sonunda dışarı verdi. Hissettiği şey korku muydu? Kafa karışıklığı mı? Yoksa dünyayı avucunun içine alabileceği fikrinin onu sürüklediği neredeyse öforik bir baştan çıkma mıydı? Her ne olursa olsun pürdikkat dinlemeye devam etti. Her bir kelimeye odaklanıp anlamlandırmaya çalıştı. Belki de bu onu bu cehennemden kurtarabilirdi.\r\n\r\n“Senden yayılan radyasyonu hissedebiliyorum... hımm...”\r\n“... Tam aradığım şey bende var. Bunu seni güçlendirecek bir şeye dönüştürmeme ne dersin, ha? Karşılığında... dur bakalım... birkaç iyilik karşılığında seni eskisinden daha iyi ve daha güçlü yapsam. Kulağa hoş geliyor, değil mi? Bence öyle.”\r\n“Bu işlemde yardımcı olabilecek bazı eski dostlarım da var.”\r\n\r\n“... A-ama işim ne olacak?”\r\n“Nereye gideceğim? İşsiz kalmak istemem...”\r\n\r\n“Bunu söylemen ne komik, uzayın derinliklerine uzanan bir işten haberim var. Her şey bittiğinde yeni hızını ve çevikliğini bu iş için kullanabileceklerini tahmin ediyorum.”\r\n“... ayrıca bir tavsiye, biraz özgüven kazan. Şansını artırabilir.”\r\n\r\n“Hımm...”\r\n“... Pekala, anlaştık sayalım... her kimsen.”\r\n\r\n“Harika.”\r\n\r\nUzaktan bir tren sesi duyulabiliyor. Tren yavaşlarken ve eski düdüğü çalarken, ikisi birden ortadan kaybolmuştu.",
+    "KENKO_SCOUT_OUTRO_FLAVOR": ".. çimler büyür, kuşlar uçar, güneş parlar ve kardeşim, ben insanları döverim .",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..neydi o saçmalık öyle?",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "Alternatif",
+    "KENKO_SCOUT_PASSIVE_NAME": "Atomic Core",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scout <style=cIsUtility>iki kez zıplayabilir</style>. <style=cHumanObjective>Atomic Core</style> biriktirmek için <style=cIsDamage>hasar</style> verin. Hasar almak <style=cHumanObjective>Atomic Core</style> miktarını azaltır. <style=cHumanObjective>Atomic Core</style> <style=cIsUtility>hareket hızını</style> artırır.",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Splattergun",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>Çevik</style>. <style=cIsDamage>12x%{0} hasar</style> için bir scattergun yaylımı ateşleyin.",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Korkak Cüce",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "<style=cIsDamage>%{0} hasar</style> veren yüksek hızlı bir mermi ateşleyin. <style=cIsDamage>Kafadan vuruşlar 2 kat hasar verir</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Fil Ayağı",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Sopanızı savurarak <style=cIsDamage>%{0} hasar</style> verin.",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Zehirli Satır",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Satırınızı fırlatarak <style=cIsDamage>Afet</style> uygulayın ve <style=cIsDamage>%{0} hasar</style> verin. <style=cIsDamage>Sersemletilmiş</style> düşmanlara <style=cIsDamage>Kritik Vuruş</style> yapar ve onları <style=cIsHealing>Zehirler</style>.",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Dikenli Top",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>Çevik</style>. Beyzbol topunuza vurarak <style=cIsDamage>Sersemletin</style> ve <style=cIsDamage>%{0} hasar</style> verin. <style=cIsDamage>Sersemletme</style> süresi kat edilen mesafeye göre artar.",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Atomik Patlama",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "<style=cHumanObjective>Atomic Core</style> yükünüzü tüketerek <style=cIsDamage>Atomik Kritikler</style>, <style=cIsDamage>saldırı hızı</style> ve <style=cIsUtility>hareket hızı</style> kazanın. Yüke bağlı olarak etrafınıza <style=cIsDamage>%{0} - %{1} hasar</style> verin.",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "Değiştir",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "Sopanıza geçin.",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "Değiştir",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "Sopanıza geçin. <style=cHumanObjective>Atomic Charge</style>, <style=cHumanObjective>Atomic Core</style> boşalırken de kazanılmaya devam edebilir .",
+    "KENKO_SCOUT_masteryAchievement": "Scout olarak, oyunu bitir veya Monsoon zorluğunda kendini yok et."
+  }
+}

@@ -1,6 +1,6 @@
 # 🌍 Jaosnake-Arsonist_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.2-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Arsonist_Mod** by **PopcornFactory**.
@@ -12,7 +12,7 @@ Multi-language translation pack for **Arsonist_Mod** by **PopcornFactory**.
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| PopcornFactory-Arsonist_Mod | `3.0.6` |
+| PopcornFactory-Arsonist_Mod | `3.0.9` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
 ## 🌐 Languages

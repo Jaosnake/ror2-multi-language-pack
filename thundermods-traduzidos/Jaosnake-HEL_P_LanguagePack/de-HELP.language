@@ -22,6 +22,12 @@
     "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Feuere eine Energiesalve ab, die <style=cIsHealth>GEGNER VERLETZT</style> und <style=cIsHealing>VERBÜNDETE HEILT</style>, jeweils um <style=cIsDamage>5x800%</style>. <style=cIsUtility>BIS ZU 3 LADUNGEN.</style>",
     "Jellyfish": "Qualle",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Versetze einem Gegner einen Stromschlag, um ihn zu <style=cIsUtility>SCHOCKEN</style> und <style=cIsDamage>30%</style> SCHADEN zu verursachen. <style=cIsUtility>BIS ZU 3 LADUNGEN.</style>",
-    "Wisp": "Irrlicht"
+    "Wisp": "Irrlicht",
+    "PLASMA CUTTER": "Plasmaschneider",
+    "NANO-BEAM": "Nano-Strahl",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Lade einen sengenden Plasmastrahl auf, der <style=cIsDamage>270%-630% SCHADEN PRO SEKUNDE</style> verursacht.",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Feuere Nano-Pulskanonen ab, die <style=cIsHealth>feindliche Kämpfer verletzen</style> und <style=cIsHealing>verbündete Kämpfer heilen</style>, jeweils um <style=cIsDamage>320%</style>.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Feuere eine Energiesalve ab, die <style=cIsHealth>GEGNER VERLETZT</style> und <style=cIsHealing>VERBÜNDETE HEILT</style>, jeweils um <style=cIsDamage>5x500%</style>. <style=cIsUtility>BIS ZU 3 LADUNGEN.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Feuere eine verheerende Explosion ab, die <style=cIsHealth>feindliche Kämpfer verletzt</style> und <style=cIsHealing>verbündete Kämpfer heilt</style>, jeweils um <style=cIsDamage>2500-7500%</style> basierend auf <style=cIsUtility>VERWENDETEN LADUNGEN.</style>"
   }
 }

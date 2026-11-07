@@ -4,6 +4,8 @@ Translation packs for several **Risk of Rain 2** mods, organized for GitHub, man
 
 > **AI disclosure**: some translations were created with AI assistance and then reviewed/edited by Jaosnake. For **Starstorm 2** and **Sandswept**, the **PT-BR** translations were reviewed line by line and manually edited by Jaosnake. Original credits remain preserved. This disclosure is kept here and in package READMEs for Thunderstore clarity.
 
+> 🆕 **Latest additions**: **Drow Ranger** (`DDL-DrowRanger`), **RealerMysticsItems** (`Phreel-RealerMysticsItems`), **Submariner**, **Spy**, **Darth Vader**, **Sett**, **Gunslinger**, **Scout**, **Bomber**, and fully audited/fixed 15-language overlays for **Robomando**, **Lee Hyperreal**, and **Sorceress** with P.E.L.E support.
+
 ## Choose Your Language / Escolha seu Idioma
 
 > 🆕 **Aetherium_LanguagePack** added: item, lunar item, equipment, artifact, elite, interactable, and unlock text overrides exposed by Aetherium.
@@ -423,7 +425,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
 | Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
 | SandGlass | SandsweptTeam-Sandswept + DropPod-LookingGlass | `thundermods-traduzidos/Jaosnake-SandGlass/` | Optional patch for LookingGlass stat labels |
-| Community Mod Language Packs (50+) | Multiple mods | `thundermods-traduzidos/` | 51 Thunderstore-ready packages (`manifest.json`, `icon.png`, `.language`) |
+| Community Mod Language Packs (62+) | Multiple mods | `thundermods-traduzidos/` | 62 Thunderstore-ready packages (`manifest.json`, `icon.png`, `.language`) |
 | Additional mod translations | Multiple mods | `mods/` | 42 drop-in mod folders for direct `BepInEx/plugins/` install |
 | PELE System | Jaosnake-PELE | `PELE/` | Native la/eo/uk language datasets (JSON) |
 | PELE KingDBZ Compatibility Fix | kinggrinyov-Goku/Vegeta/Trunks | `PELE.KingDBZFix/` & `PELE/` | Harmony fix ensuring token loading for DBZ survivors |

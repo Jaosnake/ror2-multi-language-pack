@@ -5,32 +5,40 @@
 
 Multi-language translation pack for **RobomandoMod** by **The_Bozos**.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+---
+
+### 🇧🇷 Recomendação do P.E.L.E
+Para compatibilidade completa com todos os recursos e suporte a idiomas adicionais como Ucraniano (UA/uk), Esperanto (eo) e Latim (la), recomendamos a instalação do [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
+
+### 🇺🇸 P.E.L.E Recommendation
+For complete compatibility with all language features and support for Ukrainian (UA/uk), Esperanto (eo), and Latin (la), we recommend installing [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
 
 ---
 
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| The_Bozos-RobomandoMod | `1.0.17` |
+| The_Bozos-RobomandoMod | `1.0.22` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
-| 🇫🇷 | French |
-| 🇮🇹 | Italian |
-| 🇯🇵 | Japanese |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian ⚡ |
-| 🇨🇳 | Chinese (Simplified) |
+## 🌐 Supported Languages (15)
+| Flag | Language | Code | Tokens |
+|:---:|---|:---:|:---:|
+| 🇺🇸 | English | `en` | 34/34 |
+| 🇩🇪 | German | `de` | 34/34 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 34/34 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 34/34 |
+| 🇫🇷 | French | `FR` | 34/34 |
+| 🇮🇹 | Italian | `IT` | 34/34 |
+| 🇯🇵 | Japanese | `ja` | 34/34 |
+| 🇰🇷 | Korean | `ko` | 34/34 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 34/34 |
+| 🇷🇺 | Russian | `RU` | 34/34 |
+| 🇹🇷 | Turkish | `tr` | 34/34 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` / `uk` | 34/34 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 34/34 |
+| 🟢 | Esperanto ⚡ | `eo` | 34/34 |
+| 🏛️ | Latin ⚡ | `la` | 34/34 |
 
 ## 👤 Credits
 | Role | Name |

@@ -33,6 +33,7 @@
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Avec Seamstress, terminez le jeu ou obliterez-vous en Monsoon.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Avec Seamstress, terminez le jeu ou obliterez-vous en Eclipse ou à une difficulté supérieure."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Avec Seamstress, terminez le jeu ou obliterez-vous en Eclipse ou à une difficulté supérieure.",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>Lien planaire</style><style=cSub>Gagnez <style=cIsDamage>0,05 de dégâts de base</style> par <style=cIsHealth>1 de santé manquante</style>. Soignez jusqu'à <style=cIsHealing>1%</style> de votre <style=cIsHealth>santé manquante</style> à l'impact.</style>"
     }
 }

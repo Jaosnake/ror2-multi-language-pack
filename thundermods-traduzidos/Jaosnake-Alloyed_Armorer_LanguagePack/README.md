@@ -1,14 +1,52 @@
-# Alloyed Armorer Multi-Language Pack
+# 🌍 Jaosnake-Alloyed_Armorer_LanguagePack
 
-Community translations for [Alloyed Armorer by TatertotticusSquad](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/), checked against version 1.3.2. Includes English, German, Spanish (Latin America and Spain), French, Italian, Japanese, Korean, Brazilian Portuguese, Russian, Turkish, Ukrainian, Simplified Chinese, Esperanto and Latin.
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.1-blue)
+![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Ukrainian, Esperanto and Latin require [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) for language selection. Some descriptions may vary with mod configuration. Translation and visual feedback are welcome.
+Multi-language translation pack for **Alloyed Armorer** by **TatertotticusSquad**.
 
-## Dependencies
+---
 
-- TatertotticusSquad-Alloyed_Armorer 1.3.0 or newer
-- RiskofThunder-R2API_Language 1.1.0 or a compatible P.E.L.E installation
+### 🇧🇷 Recomendação do P.E.L.E
+Para compatibilidade completa com todos os recursos e suporte a idiomas adicionais como Ucraniano (UA), Esperanto (eo) e Latim (la), recomendamos a instalação do [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
 
-## Credits
+### 🇺🇸 P.E.L.E Recommendation
+For complete compatibility with all language features and support for Ukrainian (UA), Esperanto (eo), and Latin (la), we recommend installing [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
 
-Original mod by TatertotticusSquad. Translation pack by Jaosnake. [Source and feedback](https://github.com/Jaosnake/ror2-multi-language-pack).
+---
+
+## 📦 Dependencies
+| Package | Version |
+|---------|---------|
+| TatertotticusSquad-Alloyed_Armorer | `1.3.2` |
+| RiskofThunder-R2API_Language | `1.1.0` |
+
+## 🌐 Supported Languages (15)
+| Flag | Language | Code | Tokens |
+|:---:|---|:---:|:---:|
+| 🇺🇸 | English | `en` | 26/26 |
+| 🇩🇪 | German | `de` | 26/26 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 26/26 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 26/26 |
+| 🇫🇷 | French | `FR` | 26/26 |
+| 🇮🇹 | Italian | `IT` | 26/26 |
+| 🇯🇵 | Japanese | `ja` | 26/26 |
+| 🇰🇷 | Korean | `ko` | 26/26 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 26/26 |
+| 🇷🇺 | Russian | `RU` | 26/26 |
+| 🇹🇷 | Turkish | `tr` | 26/26 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` | 26/26 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 26/26 |
+| 🟩 | Esperanto | `eo` | 26/26 |
+| 🏛️ | Latin | `la` | 26/26 |
+
+## 👤 Credits
+| Role | Name |
+|------|------|
+| Original Mod | [TatertotticusSquad](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/) |
+| Translations | Jaosnake |
+
+---
+
+## ☕ Support
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)

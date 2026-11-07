@@ -1,0 +1,25 @@
+{
+  "ko": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Submariner는 군중 제어와 내구력으로 전장을 장악하는 육중한 근접 브루저입니다.<color=#CCD3E0>\n\n< ! > 근접 공격으로 적을 계속 압박하여 지속적으로 체력을 재생하세요.\n\n< ! > 릴인을 사용해 작은 적을 끌어당기고, 거대한 적을 타격해 공격을 회피하세요.\n\n< ! > 성게 지뢰는 위기 상황에서 빠르게 탈출하고 추후 큰 피해를 줄 지뢰를 설치하기에 매우 좋습니다.\n\n< ! > 닻을 내려라!의 범위 내에 머무르세요. 이동 속도 버프는 전투 시 놀라운 무기가 될 수 있습니다.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "심연의 깊은 곳",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..그리하여 그녀는 떠났고, 다시는 홀로 남겨지지 않았다.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..그리하여 그녀는 침묵만을 곁에 남긴 채 사라졌다.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "심연",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "은쿠하나의 축복",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "<style=cIsDamage>근접 공격</style>으로 적을 타격하면 <style=cIsHealing>은쿠하나의 회복</style>을 부여합니다.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811 닻 고정 장치",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "전방으로 휘둘러 <style=cIsDamage>450%의 피해</style>를 입힙니다.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "릴인",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "작살을 발사해 <style=cIsDamage>150%의 피해</style>를 입힙니다. 작은 적을 자신 쪽으로 <style=cIsUtility>끌어당기고</style>, 거대한 적에게 자신을 <style=cIsUtility>끌어당깁니다</style>. 거대한 적과 충돌하면 <style=cIsDamage>300%의 피해</style>를 입힌 후 <style=cIsUtility>공중제비를 시작합니다.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "폭발성 성게",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>공중제비</style>를 돌며 <style=cIsHealing>성게 지뢰</style>를 발사하여 <style=cIsDamage>700%의 피해</style>를 줍니다.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "교단의 가장 친한 친구",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>학살자.</style> <style=cIsHealing>야수</style>에 탑승하여 전방으로 빠르게 질주해 <style=cIsDamage>700%의 피해</style>를 입힙니다. 가벼운 적을 처치하면 <style=cIsUtility>가속을 얻어</style> <style=cIsHealing>야수</style>가 입히는 <style=cIsDamage>피해</style>가 증가합니다. 거대한 적과 충돌하면 멈추며 적을 <style=cIsUtility>기절</style>시킵니다.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "닻을 내려라!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "닻을 던져 착탄 시 <style=cIsDamage>1200%의 피해</style>를 입힙니다. 닻을 향해 달리면 <style=cIsUtility>이동 속도</style>가 증가하지만, 닻에서 멀어지면 <style=cIsDamage>느려집니다</style>. 너무 멀리 떨어지면 닻줄이 <style=cIsHealth>끊어지며</style> 폭발적인 <style=cIsUtility>이동 속도</style>를 얻습니다.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: 숙련",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Submariner로 몬순 난이도에서 게임을 클리어하거나 자신을 소멸시키세요."
+  }
+}

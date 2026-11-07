@@ -30,6 +30,7 @@
         "KENKO_SEAMSTRESS_SPECIAL_FIRE_DESCRIPTION": "<style=cIsHealth>15% HP</style>. <color=#9B3737>공생</color> 가위를 발사하여 <style=cIsDamage>400% 피해</style>를 입힙니다. <color=#9B3737>공생</color> 가위를 주워 <style=cIsDamage>200% 피해</style>로 벱니다.",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_NAME": "광란",
         "KENKO_SEAMSTRESS_SPECIAL_SCEPTER_DESCRIPTION": "<style=cIsHealth>15% HP</style>. <color=#9B3737>공생</color> 가위를 발사하여 <style=cIsDamage>400% 피해</style>를 입힙니다. <color=#9B3737>공생</color> 가위를 주워 <style=cIsDamage>200% 피해</style>로 벱니다.\n<color=#d299ff>SCEPTER: <color=#9B3737>공생</color> 무기의 <style=cIsUtility>회수 시간이 1.5초</style>로 단축됩니다.</color>",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>평면 구속</style><style=cSub><style=cIsHealth>잃은 체력 1</style>당 <style=cIsDamage>기본 공격력 0.05</style>를 얻습니다. 적중 시 <style=cIsHealth>잃은 체력</style>의 최대 <style=cIsHealing>1%</style>를 회복합니다.</style>",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Seamstress로 게임을 클리어하거나 Monsoon에서 자신을 소멸시키세요.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",

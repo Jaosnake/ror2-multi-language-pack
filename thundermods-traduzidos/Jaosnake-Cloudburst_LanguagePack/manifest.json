@@ -2,7 +2,7 @@
     "name": "Cloudburst_LanguagePack",
     "version_number": "1.0.3",
     "website_url": "https://thunderstore.io/c/riskofrain2/p/TeamCloudburst/Cloudburst/",
-    "description": "[15 Languages] Complete multi-language translation pack for Cloudburst v0.5.0 (EN, PT-BR, ES, FR, IT, DE, RU, UA, TR, ZH-CN, JA, KO, EO, LA). P.E.L.E. required for UA, EO, LA.",
+    "description": "Multi-language translation pack for Cloudburst by TeamCloudburst.",
     "dependencies": [
         "TeamCloudburst-Cloudburst-0.5.0"
     ]

@@ -22,6 +22,12 @@
     "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x800%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Tirez une rafale d’énergie qui <style=cIsHealth>BLESSE LES ENNEMIS</style> et <style=cIsHealing>SOIGNE LES ALLIÉS</style> à hauteur de <style=cIsDamage>5x800%</style>. <style=cIsUtility>JUSQU’À 3 CHARGES.</style>",
     "Jellyfish": "Méduse",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Électrocutez un ennemi pour lui infliger un <style=cIsUtility>CHOC</style> et <style=cIsDamage>30%</style> DE DÉGÂTS. <style=cIsUtility>JUSQU’À 3 CHARGES.</style>",
-    "Wisp": "Feu follet"
+    "Wisp": "Feu follet",
+    "PLASMA CUTTER": "Découpeur Plasma",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Chargez un rayon de plasma brûlant infligeant <style=cIsDamage>270%-630% DE DÉGÂTS PAR SECONDE</style>.",
+    "NANO-BEAM": "Nano-Rayon",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Tirez des canons à impulsions nano qui infligent <style=cIsDamage>320% de dégâts</style> aux ennemis et <style=cIsHealing>soignent les alliés à hauteur de 320% de vos dégâts</style>.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Tirez une rafale d’énergie qui <style=cIsHealth>BLESSE LES ENNEMIS</style> et <style=cIsHealing>SOIGNE LES ALLIÉS</style> à hauteur de <style=cIsDamage>5x500%</style>. <style=cIsUtility>JUSQU’À 3 CHARGES.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Tirez une décharge dévastatrice qui <style=cIsHealth>blesse les combattants ennemis</style> et <style=cIsHealing>soigne les combattants alliés</style> à hauteur de <style=cIsDamage>2500-7500%</style> selon les <style=cIsUtility>CHARGES UTILISÉES.</style>"
   }
 }

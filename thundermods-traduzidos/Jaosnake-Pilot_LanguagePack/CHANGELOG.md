@@ -1,5 +1,4 @@
 ## 1.0.3
-
 - Reviewed Pilot descriptions, skill text, tips, and lore across the included languages.
 - Compared the 30 English entries with the official Pilot 0.6.5 distribution.
 - Updated language and P.E.L.E information in the README.

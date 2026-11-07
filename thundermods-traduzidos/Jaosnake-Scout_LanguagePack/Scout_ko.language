@@ -1,0 +1,30 @@
+{
+  "ko": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "자연의 힘",
+    "KENKO_SCOUT_DESCRIPTION": "Scout는 압도적인 기동력과 폭발적인 순간 피해량을 지닌 생존자로, 단일 적을 손쉽게 집중 공격해 처치할 수 있습니다.<color=#CCD3E0>\r\n\r\n< ! > Splattergun의 밀쳐냄 효과를 이용해 높은 곳으로 올라가거나 적의 공격을 회피하세요.\r\n\r\n< ! > 야구공과 식칼을 연계하면 원거리에서 막대한 피해를 입힐 수 있습니다.\r\n\r\n< ! > 대규모 적 무리를 상대로는 야구방망이가 가장 많은 Atomic Core 충전량을 얻을 수 있습니다.\r\n\r\n< ! > Atomic Blast의 추가 충전 횟수는 지속 시간을 늘려주며, 재사용 대기시간 감소는 Atomic Core 충전 속도를 가속합니다.</color>",
+    "KENKO_SCOUT_LORE": "발전소에서의 탈출. 원인조차 밝혀지지 않은 채 뉴스 전역에 들불처럼 번져나간 대형 사고. 한 명의 노동자가 방망이 하나에 의지한 채 비틀거리며 천천히 걸어 나온다. 온몸을 꿰뚫는 고통과 충격 속에서 그는 정처 없이 방황했다. 버려진 철길로 보이는 곳에 다다랐을 때, 멀리서 논리적으로 보아 다른 사람이라고 여겨지는 그림자가 어렴풋이 시야에 들어왔다. 그 형체에서 기묘한 기운이 뿜어져 나왔기에, 그는 경계를 늦추지 않고 잠재적 위협이 있는지 식별하려 애썼다.\r\n\r\n“산책하기 딱 좋은 시간이군. 이 낡은 철길 옆에서 말동무나 해도 될까?”\r\n\r\n“누, 누구냐…? 나한테 무, 뭘 원하는 거지?”\r\n\r\n“내 정체 따윈 알 필요 없네.”\r\n“... 하지만 그쪽이 꽤나 거친 밤을 보냈다는 건 알겠군. 죽음의 문턱에 바짝 다가섰지, 안 그런가?”\r\n“자네에게 도움이 될 만한 것이 있을지도 모르지. 일종의... 제안 같은 것 말일세.”\r\n\r\n“거... 거래...?”\r\n\r\n“정확하군.”\r\n\r\n목구멍이 턱 막히고, 심장은 거세게 요동치기 시작했으며, 머릿속은 이 모든 일이 벌어지지 않은 척 외면하려 했다. 그 자가 말을 이어가는 동안, 그는 망설이다 마침내 영원처럼 참아왔던 숨을 내쉬었다. 그가 느낀 것은 공포였을까? 혼란이었을까? 아니면 세상을 손아귀에 쥘 수 있다는 생각이 그를 황홀경에 가까운 유혹으로 밀어 넣은 것일까? 어찌 되었든 그는 여전히 집중하여 경청했다. 한마디 한마디에 집중하며 그 속뜻을 해독했다. 어쩌면 이 생지옥에서 벗어날 수 있을지도 모른다.\r\n\r\n“자네 몸에서 방사선이 뿜어져 나오는 게 느껴지는군... 흠...”\r\n“... 마침 딱 좋은 게 있지. 그걸 자네를 강화해 줄 힘으로 바꿔주는 건 어떨까? 이전보다 훨씬 강하고 뛰어나게 만들어주지. 그 대가로... 어디 보자... 몇 가지 부탁만 들어주면 되네. 괜찮은 조건 아닌가? 난 아주 훌륭하다고 보네만.”\r\n“이 시술을 도와줄 내 오랜 친구들도 몇 있거든.”\r\n\r\n“... 하, 하지만 내 일자리는 어쩌고요?”\r\n“난 어디로 가야 합니까? 백수가 되고 싶진 않은데...”\r\n\r\n“마침 그 말을 꺼내주니 반갑군. 우주 저 깊은 곳 어딘가에서 사람을 구한다는 소식을 들었거든. 모든 시술이 끝나고 나면 자네의 새로운 속도와 민첩성을 훌륭하게 활용할 수 있을 테지.”\r\n“... 그리고 조언 하나 하자면, 자신감을 좀 키우게. 그래야 성공 확률도 높아질 테니.”\r\n\r\n“흠...”\r\n“... 좋습니다, 거래하죠... 당신이 누구든 간에.”\r\n\r\n“아주 좋아.”\r\n\r\n저 멀리서 기차 소리가 들려왔다. 기차가 서서히 속도를 줄이며 낡은 경적을 길게 울렸을 때, 두 사람의 모습은 온데간데없이 사라져 있었다.",
+    "KENKO_SCOUT_OUTRO_FLAVOR": "..풀은 자라고, 새는 날고, 햇빛은 내리쬐며, 형씨... 난 사람을 패지.",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..도대체 그딴 쓰레기는 뭐였던 거야?",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "대체",
+    "KENKO_SCOUT_PASSIVE_NAME": "Atomic Core",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scout는 <style=cIsUtility>2단 점프</style>를 할 수 있습니다. <style=cIsDamage>피해</style>를 입혀 <style=cHumanObjective>Atomic Core</style>를 축적합니다. 피해를 입으면 <style=cHumanObjective>Atomic Core</style>가 감소합니다. <style=cHumanObjective>Atomic Core</style>는 <style=cIsUtility>이동 속도</style>를 증가시킵니다.",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Splattergun",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>민첩</style>. 산탄을 발사하여 <style=cIsDamage>12x{0}% 피해</style>를 입힙니다.",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Dastardly Dwarf",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "고속 탄환을 발사하여 <style=cIsDamage>{0}% 피해</style>를 입힙니다. <style=cIsDamage>헤드샷은 2배의 피해를 입힙니다</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Elephants Foot",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>민첩</style>. 방망이를 휘둘러 <style=cIsDamage>{0}% 피해</style>를 입힙니다.",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Toxic Cleaver",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>민첩</style>. 식칼을 던져 <style=cIsDamage>황폐</style>를 유발하고 <style=cIsDamage>{0}% 피해</style>를 입힙니다. <style=cIsDamage>기절</style>한 적에게는 <style=cIsDamage>치명타</style>가 발생하며 <style=cIsHealing>중독</style>시킵니다.",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Spike Ball",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>민첩</style>. 야구공을 쳐서 적을 <style=cIsDamage>기절</style>시키고 <style=cIsDamage>{0}% 피해</style>를 입힙니다. <style=cIsDamage>기절</style> 지속 시간은 날아간 거리에 비례하여 증가합니다.",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Atomic Blast",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "<style=cHumanObjective>Atomic Core</style>를 소모하여 <style=cIsDamage>원자 치명타</style>, <style=cIsDamage>공격 속도</style>, <style=cIsUtility>이동 속도</style>를 얻습니다. 충전량에 따라 주변에 <style=cIsDamage>{0}% - {1}% 피해</style>를 입힙니다.",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "교체",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "방망이로 교체합니다.",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "교체",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "방망이로 교체합니다. <style=cHumanObjective>Atomic Core</style>가 소모되는 동안에도 <style=cHumanObjective>Atomic Charge</style>를 획득할 수 있습니다.",
+    "KENKO_SCOUT_masteryAchievement": "Scout로 몬순 난이도에서 게임을 클리어하거나 자신을 소멸시키세요."
+  }
+}

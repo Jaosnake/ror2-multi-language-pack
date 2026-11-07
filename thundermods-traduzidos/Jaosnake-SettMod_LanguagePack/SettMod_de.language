@@ -1,0 +1,29 @@
+{
+  "de": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>Der Boss</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Obsidiandrache</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Poolparty</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Prestige-Obsidiandrache</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Mecha-Königreiche</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Feuerwerker</color>",
+    "SETT_DESCRIPTION": "Sett ist der Boss: ein aus eigener Kraft aufgestiegener, halb vastayanischer, halb noxianischer Kämpfer und Unternehmer, der Ionias Untergrund-Kampfgruben leitet.<color=#CCD3E0>\r\n\r\n< ! > Setts Standardangriffe wechseln zwischen linkem und rechtem Schlag ab. Der rechte Schlag ist etwas stärker und schneller. Sett hasst es zu verlieren und erhält zusätzliche Lebensregeneration basierend auf seinem fehlenden Leben.\r\n\r\n< ! > Sett zieht alle Gegner auf gegenüberliegenden Seiten an sich heran, verursacht Schaden und betäubt sie. Befinden sich Gegner nur auf einer Seite, werden sie stattdessen verlangsamt.\r\n\r\n< ! > Sett befördert einen gegnerischen Champion durch die Luft und schmettert ihn zu Boden, wodurch er Schaden verursacht und alle Gegner in der Nähe des Aufprallorts verlangsamt.\r\n\r\n< ! > Sett speichert erlittenen Schaden passiv als Kampfgeist. Beim Wirken verbraucht Sett den gesamten gespeicherten Kampfgeist, um einen Schild zu erhalten und in einen Bereich zu schlagen, wodurch in der Mitte echter Schaden und an den Seiten physischer Schaden verursacht wird.</color>",
+    "SETT_LORE": "Als Anführer von Ionias wachsender krimineller Unterwelt stieg Sett im Zuge des Krieges gegen Noxus an die Spitze auf. Obwohl er als bescheidener Herausforderer in den Kampfgruben von Navori begann, erlangte er schnell Berühmtheit für seine unbändige Kraft und seine Fähigkeit, scheinbar endlose Schläge einzustecken. Nachdem er sich durch die Reihen der lokalen Kämpfer geprügelt hatte, riss Sett mit roher Gewalt die Kontrolle über jene Gruben an sich, in denen er einst gekämpft hatte.",
+    "SETT_OUTRO_FLAVOR": "..und so ging er, um seine neu gewonnene Macht zu ehren.",
+    "SETT_OUTRO_FAILURE": "..und so kehrte er zurück, eine unfehlbare Bastion, wahrhaft verewigt.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Standard</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>HERZ DER BESTIE</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>regeneriert</color> zusätzlich <color=#008744>0.25 Gesundheit pro Sekunde</color> <color=#d62d20>(+ 0.25 alle 4 Stufen)</color> für alle <color=#f68835>5%</color> seiner <color=#d62d20>fehlenden Gesundheit.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>KRÄFTIGES ZUSCHLAGEN</color>",
+    "SETT_PRIMARY_DESC": "Setts <color=#c9aa71>Standardangriffe</color> wechseln ab zwischen einem linken Schlag <color=#f68835>(260% Schaden)</color> und einem rechten Schlag <color=#f68835>(320% Schaden)</color>. <color=#c9aa71>Kritische Treffer</color> setzen Setts Standardangriffstimer zurück und bewirken, dass der nächste Standardangriff <color=#d62d20>doppelten Schaden</color> verursacht.",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>GESICHTSBRECHER</color>",
+    "SETT_SECONDARY_DESC": "Sett <color=#c9aa71>zieht</color> alle Gegner in einem Radius von <color=#0057e7>20 Metern</color> an sich heran und verursacht <color=#f68835>380% </color>Schaden. <color=#c9aa71>Betäubt & Verlangsamt</color> bei Treffer.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>THE SHOW STOPPER</color>",
+    "SETT_UTILITY_DESC": "Sett <color=#c9aa71>trägt</color> einen Gegner durch die Luft und schmettert ihn zu Boden, wodurch er allen Gegnern nahe dem Aufprallort <color=#f68835>1600%</color> <color=#d62d20>(+10% des maximalen Lebens & maximalen Schilds des Hauptziels)</color> Schaden zufügt.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>HAYMAKER</color>",
+    "SETT_SPECIAL_DESC": "Sett speichert erlittenen Schaden passiv als <color=#ffffff>Kampfgeist</color>. Beim Wirken verbraucht Sett den gesamten gespeicherten <color=#ffffff>Kampfgeist</color>, um einen <color=#ffffff>Schild</color> zu erhalten und in einen Bereich zu schlagen, der <color=#f68835>2700%</color> <color=#d62d20>(+75% des verbrauchten Kampfgeists +5% alle 4 Stufen)</color> <color=#ffffff>ECHTEN</color> Schaden verursacht.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Meisterschaft",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Gewinne als Sett das Spiel oder lösche dich auf Monsun aus.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Meisterschaft"
+  }
+}

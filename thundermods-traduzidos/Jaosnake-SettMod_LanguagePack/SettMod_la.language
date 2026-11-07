@@ -1,0 +1,29 @@
+{
+  "la": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>Dominus</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Draco Obsidianus</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Convivium Piscinale</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Draco Obsidianus Praestigiosus</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Regna Mechanica</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Ignis Festivus</color>",
+    "SETT_DESCRIPTION": "Sett est hic Dominus: negotiator pugilque suae fortunae faber, semi-Vastayanus, semi-Noxianus, qui harenas pugnandi clandestinas Ioniae regit.<color=#CCD3E0>\r\n\r\n< ! > Impetus primarii Sett inter pugnum sinistrum et dextrum alternant. Pugnus dexter paulo fortior ac velocior est. Sett quoque vinci odit, recreationem valetudinis additiciam secundum valetudinem amissam accipiens.\r\n\r\n< ! > Sett omnes hostes in contrariis lateribus ad se trahit, damnum infligens et eos obstupefaciens. Si hostes tantum in altero latere adsunt, tardantur potius quam obstupefiunt.\r\n\r\n< ! > Sett pugnatorem inimicum per auras tollit et in humum allidit, damnum infligens et omnes hostes prope lapsum tardans.\r\n\r\n< ! > Sett damnum acceptum passive sicut Virtutem accumulat. Cum conicitur, Sett omnem Virtutem consumit ut scutum capiat et aream percutiat, damnum verum in medio ac damnum physicum in lateribus infligens.</color>",
+    "SETT_LORE": "Princeps crescentis societatis scelestae Ioniae, Sett post bellum cum Noxiis ad eminentiam pervenit. Quamquam ut humilis provocator in harenis pugnae Navori coepit, celeriter propter feram vim et facultatem poenae quasi infinitae tolerandae celebritatem adeptus est. Nunc, ordinibus bellatorum localium superatis, Sett viribus suis ad summum pervenit, ipsis harenis imperans in quibus olim decertavit.",
+    "SETT_OUTRO_FLAVOR": "..atque ita discessit, novis viribus honorandis.",
+    "SETT_OUTRO_FAILURE": "..atque ita rediit, propugnaculum infallibile vere immortalizatum.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Defalta</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>COR SEMIFERAE</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>regenerat</color> <color=#008744>0.25 valetudinis per secundum</color> addititium <color=#d62d20>(+ 0.25 per 4 gradus)</color> pro quoque <color=#f68835>5%</color> <color=#d62d20>valetudinis amissae.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>PUGNI INTENTI</color>",
+    "SETT_PRIMARY_DESC": "<color=#c9aa71>Impetus primarii</color> Sett alternant inter Pugnum Sinistrum <color=#f68835>(260% damni)</color> et Pugnum Dextrum <color=#f68835>(320% damni)</color>. <color=#c9aa71>Ictus critici</color> intervallum impetus primarii Sett restituunt et efficiunt ut proximus impetus primarius <color=#d62d20>damnum duplex</color> infligat.",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>FRACTOR FACIEI</color>",
+    "SETT_SECONDARY_DESC": "Sett ad se <color=#c9aa71>trahit</color> omnes hostes intra radium <color=#0057e7>20 metrorum</color>, <color=#f68835>380% </color>damni infligens. <color=#c9aa71>Obstupefacit et Tardat</color> in ictu.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>CULMEN SPECTACULI</color>",
+    "SETT_UTILITY_DESC": "Sett hostem per aera <color=#c9aa71>vehit</color> et in terram allidit, <color=#f68835>1600%</color> <color=#d62d20>(+10% vitae maximae ac scuti maximi scopis primarii)</color> damni omnibus hostibus prope locum casus infligens.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>ICTUS DECISIVUS</color>",
+    "SETT_SPECIAL_DESC": "Sett damnum acceptum passive sicut <color=#ffffff>Virtutem</color> accumulat. Cum conicitur, Sett omnem <color=#ffffff>Virtutem</color> expensam ad <color=#ffffff>Scutum</color> capiendum consumit et aream pugnat, <color=#f68835>2700%</color> <color=#d62d20>(+75% Virtutis consumptae +5% per 4 gradus)</color> damni <color=#ffffff>VERI</color> infligens.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Magisterium",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Ut Sett, vince ludum aut te dele in tempestate Monsoonia.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Magisterium"
+  }
+}

@@ -33,6 +33,7 @@
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_NAME": "Seamstress: Mastery",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_MASTERYACHIEVEMENT_DESCRIPTION": "Como Seamstress, vença o jogo ou oblitere-se no Monsoon.",
         "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_NAME": "Raven: Unlocked",
-        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Como Seamstress, vença o jogo ou oblitere-se no Eclipse ou superior."
+        "ACHIEVEMENT_KENKO_SEAMSTRESS_TYPHOONMASTERYACHIEVEMENT_DESCRIPTION": "Como Seamstress, vença o jogo ou oblitere-se no Eclipse ou superior.",
+        "KENKO_SEAMSTRESS_KEYWORD_PLANE_BOUND": "<style=cKeywordName>Vínculo Planar</style><style=cSub>Ganha <style=cIsDamage>0,05 de dano base</style> por <style=cIsHealth>1 de vida perdida</style>. Cura até <style=cIsHealing>1%</style> da sua <style=cIsHealth>vida perdida</style> ao acertar.</style>"
     }
 }

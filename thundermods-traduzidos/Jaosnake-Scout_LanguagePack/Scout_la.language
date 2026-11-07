@@ -1,0 +1,30 @@
+{
+  "la": {
+    "KENKO_SCOUT_NAME": "Scout",
+    "KENKO_SCOUT_SUBTITLE": "Vis Naturae",
+    "KENKO_SCOUT_DESCRIPTION": "Scout est superstes impetuosus ac mobilissimus qui singulos hostes facile delere potest.<color=#CCD3E0>\r\n\r\n< ! > Repercussu Sclopeti Dispersorii utere ad loca excelsa petenda vel ad impetus hostium evitandos.\r\n\r\n< ! > Pila et Culter coniuncti magnum damnum e longinquo inferre possunt.\r\n\r\n< ! > Clava plurimum impetum Nuclei Atomici contra densas hostium copias colligere potest.\r\n\r\n< ! > Copiae addititiae pro Explosione Atomica durationem augent, dum reductio temporis recreationis celeritatem impetendi Nuclei Atomici auget.</color>",
+    "KENKO_SCOUT_LORE": "Fuga ex officina atomica. Calamitas quae velut ignis per nuntios serperet, causa ignota. Solitarius operarius lente titubans recedit, clava eius unico baculo. Sine consilio errabat, dolore ac pavore toto corpore vibrantibus. Ad semitam ferream quae deserta videbatur appropinquans, eminus tantum distinguere conatus est quod, recte cogitans, alium hominem esse iudicavit. Cum miro habitu ac specie praeditus esset, ille cautus mansit et quodlibet periculum ab illa figura cognoscere temptavit.\r\n\r\n“Tempus amoenum deambulandi est, num tibi molestum est si tecum prope hos veteres tramites ambulo?”\r\n\r\n“Q-Quis es tu…? Quid a me p-petis?”\r\n\r\n“Identitas mea ad te non pertinet.”\r\n“... tamen intellego te noctem satis asperam egisse. Ad Mortis limen appropinquans, nonne?”\r\n“Fortasse habeo aliquid quod te adiuvare possit, qualemdam... condicionem.”\r\n\r\n“C-Conventum..?”\r\n\r\n“Prorsus.”\r\n\r\nGuttur eius se conclusit, cor trepidare coepit, et mens fingere coepit nihil huius rei accidere. Cunctatus, tandem spiritum quem per aeternitatem continuerat effudit dum ille loquebatur. Utrum timor erat quem sentiebat? An perturbatio? An spes totius mundi possidendi eum in voluptatem paene euphorican impellebat? Nihilominus attente auscultabat. Singula verba colligens ac perpendens. Fortasse eum ex hoc tartaro eripere posset.\r\n\r\n“Radiationem ex te manantem sentio… hm…”\r\n“... Idoneam rem habeo. Quid si istud in vim te vegetantem mutem, hm? Te meliorem ac fortiorem quam antea reddens, pro... videamus... quibusdam officiis. Commodum videtur, nonne? Certe mihi videtur.”\r\n“Veteres sodales meos habeo qui et in curatione adiuvare possint.”\r\n\r\n“... S-Sed quid de officio meo fiet?”\r\n“Quo ibo? Nollem sine labore manere…”\r\n\r\n“Iucundum est quod istud memoras, munus quoddam audivi quod in profunditatem spatii pergit. Opinor eos celeritate tua nova ac mobilitate uti posse cum omnia perfecta erunt.”\r\n“... consilium quoque: fiduciam tibi compara. Fortunam tuam augere possit.”\r\n\r\n“Hm…”\r\n“... Bene, ratum sit… quicumque es.”\r\n\r\n“Optime.”\r\n\r\nSonitus tramini distantis auditus est. Dum ille cursum tardat et fistulae antiquae sibilus in auras tollitur, ambo iam evanuerant.",
+    "KENKO_SCOUT_OUTRO_FLAVOR": ".. herba crescit, aves volant, sol lucet et, frater, ego homines laedo .",
+    "KENKO_SCOUT_OUTRO_FAILURE": "..quidnam illa faex erat?",
+    "KENKO_SCOUT_MASTERY_SKIN_NAME": "Alternativus",
+    "KENKO_SCOUT_PASSIVE_NAME": "Nucleus Atomicus",
+    "KENKO_SCOUT_PASSIVE_DESCRIPTION": "Scout <style=cIsUtility>bis salire</style> potest. <style=cIsDamage>Damnum</style> inferre <style=cHumanObjective>Nucleum Atomicum</style> auget. Damnum acceptum <style=cHumanObjective>Nucleum Atomicum</style> minuit. <style=cHumanObjective>Nucleus Atomicus</style> <style=cIsUtility>velocitatem motus</style> auget.",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_NAME": "Sclopetum Dispersorium",
+    "KENKO_SCOUT_PRIMARY_SPLATTERGUN_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Emitte diruptionem sclopeti dispersorii pro <style=cIsDamage>12x{0}% damni</style>.",
+    "KENKO_SCOUT_PRIMARY_RIFLE_NAME": "Nanus Infamis",
+    "KENKO_SCOUT_PRIMARY_RIFLE_DESCRIPTION": "Emitte proiectile magnae velocitatis pro <style=cIsDamage>{0}% damni</style>. <style=cIsDamage>Ictus in capite 2x damnum infligunt</style>",
+    "KENKO_SCOUT_PRIMARY_BONK_NAME": "Pes Elephantis",
+    "KENKO_SCOUT_PRIMARY_BONK_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Vibra clavam tuam pro <style=cIsDamage>{0}% damni</style>.",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_NAME": "Culter Toxicus",
+    "KENKO_SCOUT_SECONDARY_CLEAVER_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Mitte cultrum tuum <style=cIsDamage>Tabem</style> afferens et <style=cIsDamage>{0}% damni</style> infligens. <style=cIsDamage>Ictu Critico percutit</style> et <style=cIsHealing>Venenat</style> hostes <style=cIsDamage>Obstupefactos</style>.",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_NAME": "Pila Spinea",
+    "KENKO_SCOUT_SECONDARY_SPIKEDBALL_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Percute pilam tuam <style=cIsDamage>Obstupefaciens</style> et <style=cIsDamage>{0}% damni</style> infligens. Duratio <style=cIsDamage>Obstupefactionis</style> cum distantia percursa crescit.",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_NAME": "Explosio Atomica",
+    "KENKO_SCOUT_UTILITY_ATOMICBLAST_DESCRIPTION": "Exhauri <style=cHumanObjective>Nucleum Atomicum</style> tuum recipiens <style=cIsDamage>Ictus Criticos Atomicos</style>, <style=cIsDamage>velocitatem impetus</style> et <style=cIsUtility>velocitatem motus</style>. Inflige <style=cIsDamage>{0}% - {1}% damni</style> circa te secundum impetum.",
+    "KENKO_SCOUT_SPECIAL_SWAP_NAME": "Mutare",
+    "KENKO_SCOUT_SPECIAL_SWAP_DESCRIPTION": "Ad clavam tuam muta.",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_NAME": "Mutare",
+    "KENKO_SCOUT_SPECIAL_SCEPTER_SWAP_DESCRIPTION": "Ad clavam tuam muta. <style=cHumanObjective>Impetus Atomicus</style> adhuc acquiri potest dum <style=cHumanObjective>Nucleus Atomicus</style> exhauritur .",
+    "KENKO_SCOUT_masteryAchievement": "Ut Scout, vince ludum aut te dele in tempestate Monsoonia."
+  }
+}

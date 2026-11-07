@@ -22,6 +22,12 @@
     "FIRE A DEVASTATING PULSE CANNON THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>4000%</style>.": "Выстрелите разрушительным импульсом, который <style=cIsHealth>НАНОСИТ УРОН ВРАГАМ</style> и <style=cIsHealing>ЛЕЧИТ СОЮЗНИКОВ</style> на <style=cIsDamage>4000%</style>.",
     "Jellyfish": "Медуза",
     "ZAP A HOSTILE COMBATANT TO <style=cIsUtility>SHOCK</style> THEM FOR <style=cIsDamage>30%</style> DAMAGE. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Поразите врага током, чтобы наложить <style=cIsUtility>ШОК</style> и нанести <style=cIsDamage>30%</style> УРОНА. <style=cIsUtility>ДО 3 ЗАРЯДОВ.</style>",
-    "Wisp": "Сгусток"
+    "Wisp": "Сгусток",
+    "PLASMA CUTTER": "Плазменный резак",
+    "NANO-BEAM": "Нано-Луч",
+    "CHARGE UP A SCORCHING PLASMA BEAM THAT DEALS <style=cIsDamage>270%-630% DAMAGE PER SECOND</style>.": "Зарядите обжигающий плазменный луч, который наносит <style=cIsDamage>270%-630% УРОНА В СЕКУНДУ</style>.",
+    "FIRE NANO PULSE CANNONS THAT <style=cIsHealth>HARM HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEAL FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>320%</style>.": "Стреляйте из наноимпульсных пушек: они <style=cIsHealth>НАНОСЯТ УРОН ВРАГАМ</style> и <style=cIsHealing>ЛЕЧАТ СОЮЗНИКОВ</style> на <style=cIsDamage>320%</style> от базового урона.",
+    "FIRE A BARRAGE OF ENERGY THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>5x500%</style>. <style=cIsUtility>HOLD UP TO 3 CHARGES.</style>": "Выпустите энергетический залп, который <style=cIsHealth>НАНОСИТ УРОН ВРАГАМ</style> и <style=cIsHealing>ЛЕЧИТ СОЮЗНИКОВ</style> на <style=cIsDamage>5x500%</style>. <style=cIsUtility>ДО 3 ЗАРЯДОВ.</style>",
+    "FIRE A DEVASTATING BLAST THAT <style=cIsHealth>HARMS HOSTILE COMBATANTS</style> AND <style=cIsHealing>HEALS FRIENDLY COMBATANTS</style> FOR <style=cIsDamage>2500-7500%</style> BASED ON <style=cIsUtility>CHARGES USED.</style>": "Выпустите разрушительный взрыв, который <style=cIsHealth>НАНОСИТ УРОН ВРАГАМ</style> и <style=cIsHealing>ЛЕЧИТ СОЮЗНИКОВ</style> на <style=cIsDamage>2500-7500%</style> в зависимости от <style=cIsUtility>ИСПОЛЬЗОВАННЫХ ЗАРЯДОВ.</style>"
   }
 }

@@ -1,9 +1,9 @@
 # 🌍 Jaosnake-HEL_P_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.5-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.6-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **HEL_P** by **rob**, reviewed and updated for version 2.5.0.
+Multi-language translation pack for **HEL_P** by **rob**, reviewed and updated for version 3.1.0 / 3.1.1.
 
 > 🇺🇦 Ukrainian is included. Esperanto and Latin translations are provided by P.E.L.E.
 
@@ -12,7 +12,7 @@ Multi-language translation pack for **HEL_P** by **rob**, reviewed and updated f
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| rob-HEL_P | `2.5.0` |
+| rob-HEL_P | `3.1.0` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
 ## 🌐 Languages

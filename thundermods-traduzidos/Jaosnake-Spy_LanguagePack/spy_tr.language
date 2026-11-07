@@ -1,0 +1,30 @@
+{
+  "tr": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "Spy, yüksek öncelikli hedefleri kolaylıkla ortadan kaldırmada uzmanlaşmış, kırılgan bir yakın dövüş suikastçısıdır.<color=#CCD3E0>\n\n< ! > Spy'ın bıçağıyla Casusluk yükleri biriktir ve The Diamondback ile kritik vuruşlar yap.\n\n< ! > Bıçaklama, daha zayıf düşmanları anında katledebilen yıkıcı bir yetenektir.\n\n< ! > Sabotaj, yakındaki düşmanları sersemletirken Arkadan Bıçaklama menziline girmek için mükemmel bir araçtır.\n\n< ! > Gizlenme, hem çatışmaya girmek hem de kaçmak için harikadır fakat dikkatli kaynak yönetimi gerektirir.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Casusluk Ustası",
+    "KENKO_SPY_LORE": "Uzay imparatorluklarının hızlı gelişimi yıldızlar boyunca yayılırken, aralarında yanan sessiz savaşlar da aynı hızla büyüdü. Diplomatik maskeler gerilimi gizliyordu ancak yüzeyin altında şiddetli siyasi çekişmeler, parçalanan ittifaklar ve uzayın sessizliğinde çatışan ideolojiler saklıydı.\n\nBu yıldızlararası hırs çağında, açık bir çatışma mutlak yok oluş riski taşıyordu. Liderler iradelerini gerçekleştirmek için gölgelere sığındı. Casusluk tercih edilen silah haline geldi; veri akışlarında, fısıldanan kodlarda ve çalınan sırlarda yürütülen sessiz bir savaş. Bütün uygarlıklar filolar veya ateş gücüyle değil, yerinde bir fısıltı, bozulmuş bir protokol ya da kaybolan bir yetkiliyle yönlendirildi.\n\nCasuslar imparatorluk mekanizmasının hayaletleri haline geldi. Aldatma, sızma ve sabotaj ustaları olarak sınırların arasından fark edilmeden süzüldüler ve imparatorlukları cerrahi bir hassasiyetle parçaladılar. Bazıları hükümdarlara hizmet etti. Diğerleri ideallere. Birkaçı ise yalnızca kendilerine hizmet etti.\n\nOnların zaferleri asla geçit törenleriyle kutlanmaz. İsimleri asla anılmaz. Görevleri kasıtlı olarak gömülür. Yine de tüm yıldız uluslarının yükselişi ve çöküşü, görünmeyen birkaç ajanın eylemlerine bağlı olmuştur.\n\nİyi bir casus asla yakalanmaz. Tarihte bıraktıkları etki izlenemez; fakat gücün sessizce el değiştirdiği o anda, bir imparatorluğun yükseldiği ya da çöktüğü o dakikada, elleri her zaman oradadır, görünmez... ama inkâr edilemez.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..ve böylece ayrıldı, bir görev daha tamamlandı.",
+    "KENKO_SPY_OUTRO_FAILURE": "..ve böylece ardında hiçbir iz bırakmadan yok oldu.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternatif",
+    "KENKO_SPY_PASSIVE_NAME": "Arkadan Bıçaklama",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color>, <color=#62746f>Bıçağı</color> ile düşmanları <style=cIsHealth>Arkadan Bıçaklayarak</style> daha zayıf düşmanları anında <style=cIsHealth>öldüren</style> bir <style=cIsDamage>Kritik Vuruş</style> gerçekleştirebilir.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "<style=cIsDamage>%320 hasar</style> veren bir mermi ateşle. <style=cIsHealth>Arkadan Bıçaklama</style> ile öldürmeler <color=#62746f>Casusluk</color> kazandırır. Maksimum 5 yük.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "<style=cIsDamage>%260 hasar</style> veren bir mermi ateşle. Kafadan vurmak <style=cIsDamage>Kritik Vuruş</style> yapar.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Bıçaklama",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "<color=#62746f>Bıçağını</color> hazırla. Bırakıp savurarak <style=cIsDamage>%500 hasar</style> ver.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Fırsatçı</color>. <color=#62746f>Bıçağını</color> hazırla. Bırakıp savurarak <style=cIsDamage>%500 hasar</style> ver. <style=cIsHealth>Arkadan Bıçaklama</style> ile öldürmeler <style=cIsUtility>hareket hızı</style> ve <style=cIsHealing>bariyer</style> kazandırır ve <style=cIsUtility>bu yeteneğin bekleme süresini sıfırlar</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotaj",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "İleriye bir <color=#62746f>Sabotajcı</color> fırlatarak yakındaki tüm düşmanları <style=cIsDamage>sersemletir</style> ve <style=cIsDamage>hasar</style> verir. <color=#62746f>Sabotajcı</color> ile bir düşmanı vurmak Spy'ı hedefin arkasına <style=cIsUtility>ışınlar</style>.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Gizlenme",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "<color=#62746f>Gizlenme</color> durumuna geçerek <style=cIsUtility>görünmezlik</style> ve <style=cIsUtility>hareket hızı</style> kazan. Saldırmak veya hasar almak <color=#62746f>Gizlenme</color> etkisini bozar.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Ustalık",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Spy olarak oyunu tamamla veya Monsoon zorluğunda kendini yok et.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Arkadan Bıçaklama</style><style=cSub>Bir düşmana arkadan vurmak anında kritik vuruşa neden olur. Zayıf düşmanlar anında infaz edilir.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Casusluk</style><style=cSub>Bir Casusluk yükü tüketmek, bir sonraki revolver atışınızda garantili kritik vuruş sağlar.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Fırsatçı</style><style=cSub>Bir düşmanı Arkadan Bıçaklama ile öldürmek hareket hızı, geçici bariyer ve bekleme süresi sıfırlaması sağlar.</style>"
+  }
+}

@@ -1,5 +1,4 @@
 ## 1.0.3
-
 - Reviewed all included languages against HAN-D OVERCLOCKED 1.5.9.
 - Corrected skill references, lore formatting and achievement names.
 - Added Esperanto and Latin, and updated the language list.

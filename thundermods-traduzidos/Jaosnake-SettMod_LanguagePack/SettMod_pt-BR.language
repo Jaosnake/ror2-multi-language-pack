@@ -1,0 +1,29 @@
+{
+  "pt-BR": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>O Chefe</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Dragão de Obsidiana</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Curtindo o Verão</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Dragão de Obsidiana de Prestígio</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Reinos Mecha</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Bombinha</color>",
+    "SETT_DESCRIPTION": "Sett é O Chefe: um empreendedor e lutador autodidata, meio vastaya e meio noxiano, que comanda as arenas de luta clandestinas de Ionia.<color=#CCD3E0>\r\n\r\n< ! > Os ataques básicos de Sett alternam entre soco esquerdo e direito. O soco direito é ligeiramente mais forte e rápido. Sett também odeia perder, recebendo regeneração adicional de vida com base na sua vida perdida.\r\n\r\n< ! > Sett puxa todos os inimigos em lados opostos a ele, causando dano e atordoando-os. Se os inimigos estiverem em apenas um lado, eles sofrem lentidão em vez de atordoamento.\r\n\r\n< ! > Sett carrega um campeão inimigo pelo ar e o esmaga contra o chão, causando dano e lentidão a todos os inimigos próximos ao local de impacto.\r\n\r\n< ! > Sett passivamente armazena o dano que recebe como Garra. Ao conjurar, Sett gasta toda a Garra acumulada para ganhar um escudo e socar uma área, causando dano verdadeiro no centro e dano físico nas laterais.</color>",
+    "SETT_LORE": "Um líder do crescente submundo do crime de Ionia, Sett ascendeu à notoriedade após a guerra contra Noxus. Embora tenha começado como um humilde desafiante nas arenas de combate de Navori, ele rapidamente ganhou fama por sua força selvagem e sua capacidade aparentemente infindável de aguentar pancada. Agora, tendo subido na hierarquia dos combatentes locais, Sett usou os próprios músculos para chegar ao topo, reinando soberano sobre as arenas em que antes lutava.",
+    "SETT_OUTRO_FLAVOR": "..e então ele partiu, com um novo poder a honrar.",
+    "SETT_OUTRO_FAILURE": "..e então ele retornou, um bastião infalível verdadeiramente eternizado.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Padrão</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>CORAÇÃO DA MEIA-FERA</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>regenera</color> <color=#008744>0,25 de vida adicional por segundo</color> <color=#d62d20>(+ 0,25 a cada 4 níveis)</color> para cada <color=#f68835>5%</color> de sua <color=#d62d20>vida perdida.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>DESFERIR GOLPE</color>",
+    "SETT_PRIMARY_DESC": "Os <color=#c9aa71>ataques básicos</color> de Sett alternam entre um Soco Esquerdo <color=#f68835>(260% de dano)</color> e um Soco Direito <color=#f68835>(320% de dano)</color>. <color=#c9aa71>Acertos críticos</color> redefinem o tempo de ataque básico de Sett e fazem o próximo ataque básico causar <color=#d62d20>dano em dobro.</color>",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>QUEBRA-CRÂNIO</color>",
+    "SETT_SECONDARY_DESC": "Sett <color=#c9aa71>puxa</color> todos os inimigos em um raio de <color=#0057e7>20 metros</color> ao seu redor, causando <color=#f68835>380% </color>de dano. <color=#c9aa71>Atordoa e Causa Lentidão</color> ao atingir.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>HORA DO SHOW</color>",
+    "SETT_UTILITY_DESC": "Sett <color=#c9aa71>carrega</color> um inimigo pelo ar e o esmaga contra o chão, causando <color=#f68835>1600%</color> <color=#d62d20>(+10% da vida máxima e escudo máximo do alvo principal)</color> de dano a todos os inimigos próximos ao local de impacto.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>CASCA-GROSSA</color>",
+    "SETT_SPECIAL_DESC": "Sett passivamente armazena o dano sofrido como <color=#ffffff>Garra</color>. Ao conjurar, Sett gasta toda a <color=#ffffff>Garra</color> acumulada para obter um <color=#ffffff>Escudo</color> e socar uma área, causando <color=#f68835>2700%</color> <color=#d62d20>(+75% da Garra gasta +5% a cada 4 níveis)</color> de dano <color=#ffffff>VERDADEIRO</color>.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Maestria",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Como Sett, vença o jogo ou oblitere-se no Monsoon.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Maestria"
+  }
+}

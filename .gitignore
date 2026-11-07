@@ -40,3 +40,7 @@ placeholder_audit*.md
 audit.py
 generate_readme.py
 list_locales.py
+
+# Allow tracking backup ZIPs under mods/
+!mods/*/*.zip
+!mods/**/*.zip

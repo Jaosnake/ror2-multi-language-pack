@@ -1,0 +1,29 @@
+{
+  "eo": {
+    "SETT_NAME": "<color=#ffa700>Sett</color>",
+    "SETT_NAME_SUBTITLE": "<color=#ffa700>La Estro</color>",
+    "OBSIDIAN_SETT_NAME": "<color=#ffa700>Obsidiana Drako</color>",
+    "POOL_SETT_NAME": "<color=#ffa700>Nagxeja Festo</color>",
+    "PRESTIGE_SETT_NAME": "<color=#ffa700>Prestigxa Obsidiana Drako</color>",
+    "MECHA_SETT_NAME": "<color=#ffa700>Mehxa-Regnoj</color>",
+    "FIRECRACKER_SETT_NAME": "<color=#ffa700>Krakfajrajxo</color>",
+    "SETT_DESCRIPTION": "Sett estas la Estro: memfarita, duon-vastaja, duon-noksana entreprenisto kaj batalanto gvidanta la subterajn batalejojn de Ionio.<color=#CCD3E0>\r\n\r\n< ! > La bazaj atakoj de Sett alternas inter maldekstra kaj dekstra pugnobato. Dekstra pugnobato estas iomete pli forta kaj rapida. Sett ankaux malamas malgajni, ricevante kroman sanregeneradon surbaze de sia mankanta sano.\r\n\r\n< ! > Sett altiras cxiujn malamikojn sur kontrauxaj flankoj de li, kauxzante damagxon kaj senmovigante ilin. Se malamikoj estis nur sur unu flanko, ili estas malrapidigitaj anstataux senmovigitaj.\r\n\r\n< ! > Sett portas malamikan cxampionon tra la aero kaj batas ilin teren, kauxzante damagxon kaj malrapidigante cxiujn malamikojn proksime de la surterigxo.\r\n\r\n< ! > Sett pasive konservas damagxon, kiun li ricevas, kiel Kuragxon. Dum uzo, Sett elspezas la tutan konservitan Kuragxon por gajni sxildon kaj bati areon, kauxzante veran damagxon en la centro kaj fizikan damagxon cxe la flankoj.</color>",
+    "SETT_LORE": "Gvidanto de la kreskanta krima submondo de Ionio, Sett altigxis al eminenteco post la milito kontraux Noksuso. Kvankam li komencis kiel humila defianto en la batalejoj de Navori, li rapide akiris famon pro sia sovagxa forto kaj sia kapablo elteni sxajne senfinajn batojn. Nun, grimpinte tra la rangoj de lokaj batalantoj, Sett perforte supreniris al la pinto, regante super la batalejoj en kiuj li iam batalis.",
+    "SETT_OUTRO_FLAVOR": "..kaj tiel li foriris, kun novtrovita potenco honorinda.",
+    "SETT_OUTRO_FAILURE": "..kaj tiel li revenis, neeraripova bastiono vere senmortigita.",
+    "SETT_DEFAULT_SKIN_NAME": "<color=#ffa700>Defauxlta</color>",
+    "SETT_PASSIVE_NAME": "<color=#ffa700>KORO DE LA DUONBESTO</color>",
+    "SETT_PASSIVE_DESC": "Sett <color=#c9aa71>regeneras</color> kroman <color=#008744>0.25 sanon por sekundo</color> <color=#d62d20>(+ 0.25 cxiujn 4 nivelojn)</color> por cxiu <color=#f68835>5%</color> de sia <color=#d62d20>mankanta sano.</color>",
+    "SETT_PRIMARY_NAME": "<color=#ffa700>PUGNOBATADO</color>",
+    "SETT_PRIMARY_DESC": "La <color=#c9aa71>bazaj atakoj</color> de Sett alternas inter Maldekstra Bato <color=#f68835>(260% da damagxo)</color> kaj Dekstra Bato <color=#f68835>(320% da damagxo)</color>. <color=#c9aa71>Kritikaj trafoj</color> rekomencigas la bazan atakan tempigilon de Sett kaj igas la sekvan bazan atakon kauxzi <color=#d62d20>duoblan damagxon.</color>",
+    "SETT_SECONDARY_NAME": "<color=#ffa700>VIZAGxROMPISTO</color>",
+    "SETT_SECONDARY_DESC": "Sett <color=#c9aa71>altiras</color> cxiujn malamikojn en radiuso de <color=#0057e7>20 metroj</color> cxirkaux si, kauxzante <color=#f68835>380% </color>da damagxo. <color=#c9aa71>Senmovigas kaj Malrapidigas</color> dum trafo.",
+    "SETT_UTILITY_NAME": "<color=#ffa700>LA GRANDIOZA PREZENTO</color>",
+    "SETT_UTILITY_DESC": "Sett <color=#c9aa71>portas</color> malamikon tra la aero kaj batas ilin teren, kauxzante <color=#f68835>1600%</color> <color=#d62d20>(+10% de la maksimuma sano kaj maksimuma sxildo de la cxefa celo)</color> da damagxo al cxiuj malamikoj proksime de la surterigxo.",
+    "SETT_SPECIAL_NAME": "<color=#ffa700>FINBATBATO</color>",
+    "SETT_SPECIAL_DESC": "Sett pasive konservas damagxon, kiun li ricevas, kiel <color=#ffffff>Kuragxon</color>. Dum uzo, Sett elspezas la tutan konservitan <color=#ffffff>Kuragxon</color> por gajni <color=#ffffff>Sxildon</color> kaj bati areon, kauxzante <color=#f68835>2700%</color> <color=#d62d20>(+75% de la elspezita Kuragxo +5% cxiujn 4 nivelojn)</color> da <color=#ffffff>VERA</color> damagxo.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Sett: Majstreco",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Kiel Sett, venku la ludon aux forvisxu vin en Monsoon.",
+    "SETT_SETT_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Sett: Majstreco"
+  }
+}
