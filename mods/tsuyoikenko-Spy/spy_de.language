@@ -1,0 +1,30 @@
+{
+  "de": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "Der Spy ist ein zerbrechlicher Nahkampf-Assassine, der sich darauf versteht, hochpriorisierte Ziele mit Leichtigkeit auszuschalten.<color=#CCD3E0>\n\n< ! > Baue mit Spys Messer Stapel von Spionage auf und entfessle kritische Treffer mit The Diamondback.\n\n< ! > Erstechen ist eine verheerende Fähigkeit, die schwächere Feinde sofort töten kann.\n\n< ! > Sabotieren ist ein großartiges Werkzeug, um in Rückstich-Reichweite zu gelangen und nahe Feinde zu betäuben.\n\n< ! > Tarnung eignet sich hervorragend zum Angreifen und Entkommen, erfordert jedoch kluges Ressourcenmanagement.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Meister der Spionage",
+    "KENKO_SPY_LORE": "Als die rasante Expansion der Sternenreiche das All erfasste, entbrannten auch die lautlosen Kriege zwischen ihnen. Diplomatische Fassaden verbargen die Spannungen, doch unter der Oberfläche brodelten erbitterte politische Konflikte, zerbrechende Allianzen und aufeinandertreffende Ideologien in der Stille des Raums.\n\nIn diesem Zeitalter interstellarer Ambitionen drohte offener Krieg mit der völligen Vernichtung. Die Anführer wandten sich stattdessen den Schatten zu, um ihren Willen durchzusetzen. Spionage wurde zur bevorzugten Waffe – ein lautloser Krieg in Datenströmen, geflüsterten Codes und gestohlenen Geheimnissen. Ganze Zivilisationen wurden nicht durch Flotten oder Feuerkraft gelenkt, sondern durch ein wohlplatziertes Flüstern, ein manipuliertes Protokoll, einen verschwundenen Funktionär.\n\nSpione wurden zu Geistern in der Maschinerie der Reiche. Meister der Täuschung, Infiltration und Subversion glitten sie unbemerkt über Grenzen hinweg und drangen mit chirurgischer Präzision in Imperien ein. Manche dienten Herrschern. Andere Idealen. Einige wenige dienten nur sich selbst.\n\nIhre Siege werden niemals gefeiert. Ihre Namen werden niemals ausgesprochen. Ihre Missionen wurden bewusst begraben. Und doch hing der Aufstieg und Fall ganzer Sternennationen von den Taten weniger, unsichtbarer Agenten ab.\n\nEin guter Spion wird niemals gefasst. Die Spuren, die sie in der Geschichte hinterlassen, sind unsichtbar, doch im stillen Machtwechsel, in dem Moment, in dem ein Imperium aufsteigt oder zerfällt, ist ihre Hand stets da – unsichtbar... aber unbestreitbar.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..und so ging er, eine weitere Mission erfüllt.",
+    "KENKO_SPY_OUTRO_FAILURE": "..und so verschwand er, spurlos.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternative",
+    "KENKO_SPY_PASSIVE_NAME": "Rückstich",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> kann Gegner mit seinem <color=#62746f>Messer</color> einen <style=cIsHealth>Rückstich</style> versetzen, was einen <style=cIsDamage>kritischen Treffer</style> verursacht, der schwächere Gegner sofort <style=cIsHealth>tötet</style>.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Feuere eine Kugel für <style=cIsDamage>320% Schaden</style> ab. Kills durch <style=cIsHealth>Rückstich</style> gewähren <color=#62746f>Spionage</color>. Max. 5 Stapel.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Feuere eine Kugel für <style=cIsDamage>260% Schaden</style> ab. Kopftreffer landen einen <style=cIsDamage>kritischen Treffer</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Erstechen",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Halte dein <color=#62746f>Messer</color> bereit. Loslassen, um für <style=cIsDamage>500% Schaden</style> zuzuschlagen.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Opportunist</color>. Halte dein <color=#62746f>Messer</color> bereit. Loslassen, um für <style=cIsDamage>500% Schaden</style> zuzuschlagen. Kills durch <style=cIsHealth>Rückstich</style> gewähren <style=cIsUtility>Bewegungsgeschwindigkeit</style> und eine <style=cIsHealing>Barriere</style> und <style=cIsUtility>setzen die Abklingzeit dieser Fähigkeit zurück</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotieren",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Wirf einen <color=#62746f>Sapper</color> nach vorn, der alle nahen Gegner <style=cIsDamage>betäubt</style> und ihnen <style=cIsDamage>Schaden</style> zufügt. Trifft der <color=#62746f>Sapper</color> einen Gegner, <style=cIsUtility>teleportiert</style> sich Spy hinter das Ziel.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Tarnung",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Gehe in den Zustand <color=#62746f>Tarnung</color> über und erhalte <style=cIsUtility>Unsichtbarkeit</style> sowie <style=cIsUtility>Bewegungsgeschwindigkeit</style>. Angreifen oder Erleiden von Schaden bricht die <color=#62746f>Tarnung</color> ab.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Meisterschaft",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Gewinne als Spy das Spiel oder lösche dich auf Monsun aus.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Rückstich</style><style=cSub>Ein Angriff in den Rücken eines Gegners verursacht einen sofortigen kritischen Treffer. Schwächere Gegner werden sofort hingerichtet.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Spionage</style><style=cSub>Das Verbrauchen eines Spionage-Stapels garantiert einen kritischen Treffer bei deinem nächsten Revolverschuss.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportunist</style><style=cSub>Das Töten eines Gegners mit einem Rückstich gewährt Bewegungsgeschwindigkeit, eine temporäre Barriere und setzt die Abklingzeit zurück.</style>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "es-ES": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "El Spy es un asesino cuerpo a cuerpo frágil que destaca al abatir objetivos de alta prioridad con facilidad.<color=#CCD3E0>\n\n< ! > Acumula cargas de Espionaje con el cuchillo del Spy y desata golpes críticos con The Diamondback.\n\n< ! > Apuñalar es una habilidad devastadora capaz de matar instantáneamente a los enemigos más débiles.\n\n< ! > Sabotear es una gran herramienta para colocarse a distancia de Puñalada por la espalda mientras aturde a los enemigos cercanos.\n\n< ! > Camuflaje es ideal tanto para iniciar el combate como para escapar, pero requiere una gestión adecuada de recursos.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Maestro del Espionaje",
+    "KENKO_SPY_LORE": "A medida que el rápido desarrollo de los imperios espaciales se expandía por las estrellas, también lo hacían las guerras silenciosas que ardían entre ellos. Las fachadas diplomáticas ocultaban la tensión, pero bajo la superficie se escondían feroces disputas políticas, alianzas quebrantadas e ideologías en pugna en el silencio del espacio.\n\nEn esta era de ambición interestelar, el conflicto abierto amenazaba con la aniquilación total. En su lugar, los líderes recurrieron a las sombras para hacer cumplir su voluntad. El espionaje se convirtió en el arma predilecta: una guerra silenciosa librada en flujos de datos, códigos susurrados y secretos robados. Civilizaciones enteras se vieron influenciadas no por flotas o poder de fuego, sino por un susurro bien colocado, un protocolo corrompido, un oficial desaparecido.\n\nLos espías se convirtieron en fantasmas en la maquinaria del imperio. Maestros del engaño, la infiltración y la subversión, se deslizaban entre fronteras sin ser vistos, hendiendo imperios con precisión quirúrgica. Algunos servían a soberanos. Otros a ideales. Unos pocos solo se servían a sí mismos.\n\nSus victorias nunca se celebran en desfiles. Sus nombres jamás se pronuncian. Sus misiones quedan deliberadamente enterradas. Y, sin embargo, el auge y la caída de naciones estelares enteras han dependido de las acciones de unos pocos agentes invisibles.\n\nUn buen espía nunca es atrapado. El impacto que dejan en la historia es imposible de rastrear, pero en el silencioso cambio de poder, en el momento en que un imperio se alza o se derrumba, su mano siempre está ahí, invisible... pero innegable.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..y así se marchó, otra misión completada.",
+    "KENKO_SPY_OUTRO_FAILURE": "..y así se desvaneció, sin dejar rastro.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternativo",
+    "KENKO_SPY_PASSIVE_NAME": "Puñalada por la espalda",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> puede asestar una <style=cIsHealth>Puñalada por la espalda</style> a los enemigos con su <color=#62746f>Cuchillo</color>, asestando un <style=cIsDamage>Golpe crítico</style> que <style=cIsHealth>mata</style> instantáneamente a los enemigos más débiles.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Dispara una bala que inflige <style=cIsDamage>320% de daño</style>. Las bajas por <style=cIsHealth>Puñalada por la espalda</style> otorgan <color=#62746f>Espionaje</color>. Máximo 5 acumulaciones.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Dispara una bala que inflige <style=cIsDamage>260% de daño</style>. Acertar un disparo en la cabeza asesta un <style=cIsDamage>Golpe crítico</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Apuñalar",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Prepara tu <color=#62746f>Cuchillo</color>. Suelta para lanzar un tajo que inflige <style=cIsDamage>500% de daño</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Oportunista</color>. Prepara tu <color=#62746f>Cuchillo</color>. Suelta para lanzar un tajo que inflige <style=cIsDamage>500% de daño</style>. Las bajas por <style=cIsHealth>Puñalada por la espalda</style> otorgan <style=cIsUtility>velocidad de movimiento</style> y <style=cIsHealing>barrera</style>, además de <style=cIsUtility>restablecer el enfriamiento de esta habilidad</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotear",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Lanza un <color=#62746f>Zapador</color> hacia delante, <style=cIsDamage>aturdiendo</style> e infligiendo <style=cIsDamage>daño</style> a todos los enemigos cercanos. Impactar a un enemigo con el <color=#62746f>Zapador</color> <style=cIsUtility>teletransporta</style> a Spy detrás del objetivo.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Camuflaje",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Entra en estado de <color=#62746f>Camuflaje</color>, obteniendo <style=cIsUtility>invisibilidad</style> y <style=cIsUtility>velocidad de movimiento</style>. Atacar o recibir daño cancela el <color=#62746f>Camuflaje</color>.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Maestría",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Como Spy, completa la partida u oblitérate en Monsoon.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Puñalada por la espalda</style><style=cSub>Golpear a un enemigo por la espalda causa un golpe crítico instantáneo. Los enemigos más débiles son ejecutados al instante.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Espionaje</style><style=cSub>Consumir una acumulación de Espionaje garantiza un golpe crítico en tu siguiente disparo de revólver.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Oportunista</style><style=cSub>Matar a un enemigo con una Puñalada por la espalda proporciona velocidad de movimiento, barrera temporal y reinicio de enfriamiento.</style>"
+  }
+}

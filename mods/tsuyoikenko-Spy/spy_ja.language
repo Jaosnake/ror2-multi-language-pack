@@ -1,0 +1,30 @@
+{
+  "ja": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "Spyは脆弱な近接アサシンであり、重要度の高い標的を容易に暗殺することに長けている。<color=#CCD3E0>\n\n< ! > SpyのナイフでEspionageのスタックを溜め、The Diamondbackでクリティカルを叩き込め。\n\n< ! > Stabは脆弱な敵を即座に仕留めることができる壊滅的な能力だ。\n\n< ! > Sapは周囲の敵をスタンさせつつBackstabの有効射程へと入り込む優れた手段となる。\n\n< ! > Cloakは敵への接近や離脱の双方において強力だが、的確なリソース管理が求められる。\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "諜報の達人",
+    "KENKO_SPY_LORE": "宇宙帝国の急速な発展が星々を席巻するにつれ、その水面下で燻る静かなる戦争もまた激しさを増していった。外交という仮面が緊張を覆い隠していたが、その表層の下には激しい政治的抗争、崩壊する同盟、そして星々の静寂の中で激突するイデオロギーが潜んでいた。\n\n星間規模の野望が渦巻くこの時代において、公然たる武力衝突は全面的な破滅を意味した。指導者たちは自らの意志を果たすため、代わりに影の世界へと身を投じた。諜報活動は選ばれし武器となった――データストリーム、囁かれる暗号、そして奪われた機密情報の中で繰り広げられる無言の戦争。全文明を動かしたのは艦隊や圧倒的な火力ではなく、好機を見計らった囁き、改ざんされたプロトコル、あるいは姿を消した要人であった。\n\nスパイたちは帝国の機構に紛れ込む亡霊となった。欺瞞、潜入、転覆の達人である彼らは、国境の隙間を気づかれることなくすり抜け、外科手術のような正確さで帝国を切り裂いた。ある者は君主に仕え、ある者は理想に仕えた。そして自らのみに仕える者もいた。\n\n彼らの勝利がパレードで祝われることは決してない。その名が語られることもない。任務は意図的に闇へと葬られる。それにもかかわらず、星間国家全体の興亡は、姿を見せぬわずかなエージェントたちの行動によって左右されてきたのだ。\n\n優秀なスパイが決して捕まることはない。彼らが歴史に残す痕跡を辿る術はないが、権力が静かに移行するその瞬間、帝国が興隆し、あるいは崩壊するその時、彼らの手は常にそこに存在している。姿は見えずとも……決して否定することはできない。",
+    "KENKO_SPY_OUTRO_FLAVOR": "..かくして彼は去った、またひとつの任務を完遂して。",
+    "KENKO_SPY_OUTRO_FAILURE": "..かくして彼は消え去った、何の痕跡も残さずに。",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "オルタネイト",
+    "KENKO_SPY_PASSIVE_NAME": "バックスタブ",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color>は<color=#62746f>ナイフ</color>で敵に<style=cIsHealth>Backstab</style>を決めることができ、<style=cIsDamage>クリティカルストライク</style>を発生させて脆弱な敵を即座に<style=cIsHealth>即死</style>させる。",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "弾丸を発射し<style=cIsDamage>320%のダメージ</style>を与える。<style=cIsHealth>Backstab</style>による撃破で<color=#62746f>Espionage</color>を獲得する。最大5スタック。",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "弾丸を発射し<style=cIsDamage>260%のダメージ</style>を与える。ヘッドショットを命中させると<style=cIsDamage>クリティカルストライク</style>となる。",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "スタブ",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "<color=#62746f>ナイフ</color>を構える。離すと振り払い、<style=cIsDamage>500%のダメージ</style>を与える。",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>オポチュニスト</color>。<color=#62746f>ナイフ</color>を構える。離すと振り払い、<style=cIsDamage>500%のダメージ</style>を与える。<style=cIsHealth>Backstab</style>による撃破で<style=cIsUtility>移動速度</style>と<style=cIsHealing>バリア</style>を獲得し、さらに<style=cIsUtility>このスキルのクールダウンをリセット</style>する。",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "サップ",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "前方に<color=#62746f>サッパー</color>を投げ、周囲のすべての敵を<style=cIsDamage>スタン</style>させて<style=cIsDamage>ダメージ</style>を与える。<color=#62746f>サッパー</color>が敵に命中すると、Spyは対象の背後へと<style=cIsUtility>ブリンク</style>する。",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "クローク",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "<color=#62746f>Cloak</color>状態に入り、<style=cIsUtility>不可視化</style>と<style=cIsUtility>移動速度</style>を得る。攻撃を行うかダメージを受けると<color=#62746f>Cloak</color>は解除される。",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy：マスタリー",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Spyとして、モンスーン難易度でゲームをクリアするか自身を消滅させる。",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Backstab</style><style=cSub>敵の背後を攻撃すると即座にクリティカルストライクが発生する。脆弱な敵は即座に処刑される。</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Espionage</style><style=cSub>Espionageスタックを消費すると、次のリボルバー射撃が確定でクリティカルストライクとなる。</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportunist</style><style=cSub>Backstabで敵を倒すと、移動速度上昇、一時的なバリア、クールダウンのリセットを獲得する。</style>"
+  }
+}

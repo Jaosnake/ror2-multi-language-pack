@@ -1,0 +1,25 @@
+{
+  "RU": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Submariner — тяжелый боец ближнего боя, полагающийся на контроль толпы и стойкость для управления битвой.<color=#CCD3E0>\n\n< ! > Поддерживайте давление ударами ближнего боя, чтобы непрерывно восстанавливать здоровье.\n\n< ! > Используйте Подтягивание, чтобы притягивать мелких врагов и уклоняться от атак, ударяя по крупным целям.\n\n< ! > Мина-ёж — отличный способ быстро выбраться из опасной ситуации и установить мощные мины на будущее.\n\n< ! > Оставайтесь в радиусе способности Бросить якорь!, ведь бонус к скорости передвижения станет превосходным подспорьем в бою.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Глубины Бездны",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..и так она ушла, чтобы больше никогда не оставаться одной.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..и так она растворилась, оставив лишь тишину рядом с собой.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Бездный",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "Благословение Н'куханы",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Попадание по врагам <style=cIsDamage>атаками ближнего боя</style> дарует <style=cIsHealing>Восстановление Н'куханы</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "Якорное устройство AL811",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Взмахните перед собой, нанося <style=cIsDamage>450% урона</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Подтягивание",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Выпустите гарпун, наносящий <style=cIsDamage>150% урона</style>. <style=cIsUtility>Притягивает</style> мелких врагов к вам и <style=cIsUtility>притягивает</style> вас к крупным врагам. Столкновение с крупным врагом наносит <style=cIsDamage>300% урона</style> и запускает <style=cIsUtility>сальто назад.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Взрывной ёж",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Совершите <style=cIsUtility>сальто назад</style>, выпустив <style=cIsHealing>Мину-ежа</style>, которая наносит <style=cIsDamage>700% урона</style>.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Лучший друг культа",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Палач.</style> Оседлайте <style=cIsHealing>Зверя</style>, который быстро бежит вперед, нанося <style=cIsDamage>700% урона</style>. Убийство легкого врага <style=cIsUtility>ускоряет</style> <style=cIsHealing>Зверя</style> и увеличивает наносимый <style=cIsDamage>урон</style>. Столкновение с крупными врагами останавливает вас и <style=cIsUtility>оглушает</style> врага.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Бросить якорь!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Бросьте свой якорь, нанося <style=cIsDamage>1200% урона</style> при ударе. Бег к якорю увеличивает вашу <style=cIsUtility>скорость передвижения</style>, тогда как удаление от него <style=cIsDamage>замедляет</style> вас. Если отойти слишком далеко, цепь якоря <style=cIsHealth>рвется</style>, давая кратковременный всплеск <style=cIsUtility>скорости передвижения</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: мастерство",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Играя за Submariner, пройдите игру или уничтожьте себя на сложности Муссон."
+  }
+}

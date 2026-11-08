@@ -1,0 +1,25 @@
+{
+  "tr": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Submariner, savaşı kontrol etmek için kitle kontrolü ve dayanıklılığa dayanan ağır bir yakın dövüş savaşçısıdır.<color=#CCD3E0>\n\n< ! > Sürekli sağlık yenilemek için yakın dövüş vuruşlarıyla baskıyı sürdürün.\n\n< ! > Daha küçük düşmanları kendinize çekmek ve büyük düşmanlara vurarak saldırılardan kaçınmak için Makaraya Sarma'yı kullanın.\n\n< ! > Denizkestanesi Mayını, sıkıntılı durumlardan hızla kaçmanın ve sonrasına yüksek hasarlı mayınlar yerleştirmenin harika bir yoludur.\n\n< ! > Demir At! yeteneğinin menzili içinde kalın; hareket hızı takviyesi savaşta inanılmaz bir araç olabilir.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Uçurumun Derinlikleri",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..ve böylece gitti, bir daha asla yalnız kalmamak üzere.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..ve böylece yok oldu, yanında sadece sessizlik kalarak.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abisal",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "N'kuhana'nın Lütfu",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Düşmanlara <style=cIsDamage>yakın dövüş saldırıları</style> ile vurmak <style=cIsHealing>N'kuhana'nın Yenilemesi</style> kazandırır.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811 Çapa Cihazı",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Öne doğru sallayarak <style=cIsDamage>%450 hasar</style> verir.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Makaraya Sarma",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "<style=cIsDamage>%150 hasar</style> veren bir zıpkın fırlatır. Küçük düşmanları kendinize doğru <style=cIsUtility>çeker</style> ve büyük düşmanlara doğru sizi <style=cIsUtility>çeker</style>. Büyük bir düşmanla çarpışmak <style=cIsDamage>%300 hasar</style> verir ve ardından bir <style=cIsUtility>ters takla başlatır.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Patlayıcı Denizkestanesi",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>Ters takla atarak</style> <style=cIsHealing>Denizkestanesi Mayını</style> fırlatır ve <style=cIsDamage>%700 hasar</style> verir.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Tarikatın En İyi Dostu",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Cellat.</style> Bir <style=cIsHealing>Canavar</style> sürerek hızla ileri atıl ve <style=cIsDamage>%700 hasar</style> ver. Hafif bir düşmanı öldürmek <style=cIsUtility>hız kazandırarak</style> <style=cIsHealing>Canavar</style>'ın verdiği <style=cIsDamage>hasarı</style> artırır. Büyük düşmanlara çarpmak seni durdurur ve düşmanı <style=cIsUtility>sersemletir</style>.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Demir At!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Çapanızı fırlatarak çarpma anında <style=cIsDamage>%1200 hasar</style> verir. Çapaya doğru koşmak <style=cIsUtility>hareket hızınızı</style> artırır, ondan uzaklaşmak ise sizi <style=cIsDamage>yavaşlatır</style>. Çok uzağa gitmek çapanın zincirini <style=cIsHealth>kırar</style> ve ani bir <style=cIsUtility>hareket hızı</style> patlaması sağlar.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Ustalık",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Submariner olarak oyunu tamamla veya Monsoon zorluğunda kendini yok et."
+  }
+}

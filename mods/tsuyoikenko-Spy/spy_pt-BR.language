@@ -1,0 +1,30 @@
+{
+  "pt-BR": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "O Spy é um assassino corpo a corpo frágil que se destaca por abater alvos de alta prioridade com facilidade.<color=#CCD3E0>\n\n< ! > Acumule acúmulos de Espionagem com a faca do Spy e desfira acertos críticos com o Diamondback.\n\n< ! > Apunhalar é uma habilidade devastadora que pode eliminar inimigos mais fracos instantaneamente.\n\n< ! > Sabotagem pode ser uma ótima ferramenta para entrar no alcance de Golpe pelas Costas enquanto atordoa inimigos próximos.\n\n< ! > Camuflagem pode ser uma excelente maneira de engajar e escapar de inimigos, mas exige gerenciamento adequado de recursos.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Mestre da Espionagem",
+    "KENKO_SPY_LORE": "À medida que o rápido desenvolvimento dos impérios espaciais se expandia pelas estrelas, o mesmo acontecia com as guerras silenciosas que ardiam entre eles. Fachadas diplomáticas mascaravam a tensão, mas sob a superfície ocultavam-se ferozes disputas políticas, alianças se rompendo e ideologias colidindo no silêncio do espaço.\n\nNesta era de ambição interestelar, o conflito aberto arriscava a aniquilação total. Em vez disso, líderes recorreram às sombras para executar sua vontade. A espionagem tornou-se a arma predileta — uma guerra silenciosa travada em fluxos de dados, códigos sussurrados e segredos roubados. Civilizações inteiras eram influenciadas não por frotas ou poder de fogo, mas por um sussurro bem colocado, um protocolo corrompido, um oficial desaparecido.\n\nOs espiões tornaram-se fantasmas na engrenagem dos impérios. Mestres da enganação, infiltração e subversão, eles deslizavam entre fronteiras sem serem notados, dilacerando impérios com precisão cirúrgica. Alguns serviam a soberanos. Outros a ideais. Uns poucos serviam apenas a si mesmos.\n\nSuas vitórias nunca são celebradas em desfiles. Seus nomes nunca são pronunciados. Suas missões, enterradas por planejamento. E, no entanto, a ascensão e a queda de nações estelares inteiras dependeram dos atos de alguns poucos agentes invisíveis.\n\nUm bom espião nunca é pego. O impacto que deixam na história é irrepassável, mas na discreta mudança de poder, no momento em que um império surge ou desmorona, sua mão está sempre lá, oculta... mas inegável.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..e então ele partiu, mais uma missão cumprida.",
+    "KENKO_SPY_OUTRO_FAILURE": "..e então ele desapareceu, sem deixar rastros.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternativo",
+    "KENKO_SPY_PASSIVE_NAME": "Golpe pelas Costas",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> pode realizar um <style=cIsHealth>Golpe pelas Costas</style> em inimigos com sua <color=#62746f>Faca</color>, causando um <style=cIsDamage>Acerto Crítico</style> que <style=cIsHealth>elimina</style> instantaneamente inimigos mais fracos.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Dispara um projétil causando <style=cIsDamage>320% de dano</style>. Eliminações com <style=cIsHealth>Golpe pelas Costas</style> concedem <color=#62746f>Espionagem</color>. Máximo de 5 acúmulos.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Dispara um projétil causando <style=cIsDamage>260% de dano</style>. Acertar tiros na cabeça causa <style=cIsDamage>Acertos Críticos</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Apunhalar",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Prepare sua <color=#62746f>Faca</color>. Solte para desferir um golpe causando <style=cIsDamage>500% de dano</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Oportunista</color>. Prepare sua <color=#62746f>Faca</color>. Solte para desferir um golpe causando <style=cIsDamage>500% de dano</style>. Eliminações com <style=cIsHealth>Golpe pelas Costas</style> concedem <style=cIsUtility>velocidade de movimento</style> e <style=cIsHealing>barreira</style>, além de <style=cIsUtility>redefinir a recarga desta habilidade</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sabotagem",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Lança um <color=#62746f>Sabotador</color> para a frente, <style=cIsDamage>atordoando</style> e causando <style=cIsDamage>dano</style> a todos os inimigos próximos. Acertar um inimigo com o <color=#62746f>Sabotador</color> <style=cIsUtility>teletransporta</style> o Spy para trás do alvo.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Camuflagem",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Entra em estado de <color=#62746f>Camuflagem</color>, recebendo <style=cIsUtility>invisibilidade</style> e <style=cIsUtility>velocidade de movimento</style>. Atacar ou sofrer dano cancela a <color=#62746f>Camuflagem</color>.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Maestria",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "Como Spy, vença o jogo ou oblitere-se no Monsoon.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Golpe pelas Costas</style><style=cSub>Atingir um inimigo pelas costas causa um acerto crítico instantâneo. Inimigos mais fracos são executados instantaneamente.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Espionagem</style><style=cSub>Consumir um acúmulo de Espionagem garante um acerto crítico no próximo disparo de revólver.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Oportunista</style><style=cSub>Eliminar um inimigo com Golpe pelas Costas concede velocidade de movimento, barreira temporária e redefinição de recarga.</style>"
+  }
+}

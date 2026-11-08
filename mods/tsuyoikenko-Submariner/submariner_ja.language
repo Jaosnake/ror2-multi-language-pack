@@ -1,0 +1,25 @@
+{
+  "ja": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Submarinerは、集団制圧と耐久力によって戦況を掌握する重量級の近接ブルーザーです。<color=#CCD3E0>\n\n< ! > 近接攻撃で圧力をかけ続け、体力を継続的に回復させましょう。\n\n< ! > リールインを使って小型の敵を引き寄せ、大型の敵にヒットさせて攻撃を回避しましょう。\n\n< ! > ウニ型地雷は危険な状況から素早く脱出し、後で大ダメージを与える地雷を設置するのに最適です。\n\n< ! > 投錨！の範囲内に留まりましょう。移動速度の上昇は戦闘において非常に強力な武器となります。\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "深淵の深部",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..そして彼女は去った、二度と孤独になることはない。",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..そして彼女は姿を消した、ただ静寂のみを傍らに残して。",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "深淵",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "ンクハナの祝福",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "<style=cIsDamage>近接攻撃</style>で敵を攻撃すると、<style=cIsHealing>ンクハナの修復</style>を獲得する。",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811アンカー装置",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "前方を薙ぎ払い、<style=cIsDamage>450%のダメージ</style>を与える。",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "リールイン",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "銛を発射して<style=cIsDamage>150%のダメージ</style>を与える。小型の敵を自身へ<style=cIsUtility>引き寄せ</style>、大型の敵へ自身を<style=cIsUtility>引き寄せる</style>。大型の敵に激突すると<style=cIsDamage>300%のダメージ</style>を与え、<style=cIsUtility>バク宙を行う。</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "エクスプロシブ・アーチン",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "<style=cIsUtility>バク宙</style>しながら<style=cIsHealing>ウニ型地雷</style>を発射し、<style=cIsDamage>700%のダメージ</style>を与える。",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "教団の親友",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>処刑人。</style><style=cIsHealing>ビースト</style>に騎乗し、素早く前進して<style=cIsDamage>700%のダメージ</style>を与える。軽量の敵を倒すと<style=cIsUtility>加速効果が</style><style=cIsHealing>ビースト</style>に適用され、与える<style=cIsDamage>ダメージ</style>が増加する。大型の敵に衝突すると停止し、敵を<style=cIsUtility>スタン</style>させる。",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "投錨！",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "錨を投げ、命中時に<style=cIsDamage>1200%のダメージ</style>を与える。錨に向かって走ると<style=cIsUtility>移動速度</style>が上昇し、離れると<style=cIsDamage>減速</style>する。離れすぎると錨の鎖が<style=cIsHealth>切断され</style>、一時的に大幅な<style=cIsUtility>移動速度</style>上昇を得る。",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner：マスタリー",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Submarinerとして、モンスーン難易度でゲームをクリアするか自身を消滅させる。"
+  }
+}
