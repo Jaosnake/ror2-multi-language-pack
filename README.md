@@ -426,7 +426,7 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 | Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
 | SandGlass | SandsweptTeam-Sandswept + DropPod-LookingGlass | `thundermods-traduzidos/Jaosnake-SandGlass/` | Optional patch for LookingGlass stat labels |
 | Community Mod Language Packs (62+) | Multiple mods | `thundermods-traduzidos/` | 62 Thunderstore-ready packages (`manifest.json`, `icon.png`, `.language`) |
-| Additional mod translations | Multiple mods | `mods/` | 42 drop-in mod folders for direct `BepInEx/plugins/` install |
+| Additional mod translations | Multiple mods | `mods/` | 62 drop-in mod folders for direct `BepInEx/plugins/` install |
 | PELE System | Jaosnake-PELE | `PELE/` | Native la/eo/uk language datasets (JSON) |
 | PELE KingDBZ Compatibility Fix | kinggrinyov-Goku/Vegeta/Trunks | `PELE.KingDBZFix/` & `PELE/` | Harmony fix ensuring token loading for DBZ survivors |
 | PELE R2API.Language fork | RiskofThunder-R2API_Language | `R2API.Language-Source/` | Source for the tested PELE-aware loader and hot reload fork |
@@ -437,47 +437,67 @@ More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 These folders are meant to be copied as-is into `BepInEx/plugins/`:
 
 ```text
+AlloyedTeam-Alloyed_Armorer
 Bog-Deputy
 Bog-Mortician
 Bog-Pathfinder
 Brynzananas-Caeli_Imperium
 CheeseWithHoles-Celestial_War_Tank
+DDL-DrowRanger
 EnforcerGang-Enforcer
 EnforcerGang-HAND_OVERCLOCKED
 EnforcerGang-MinerUnearthed
 EnforcerGang-Pilot
 EnforcerGang-Rocket
+EnforcerGang-SniperClassic
 Ethanol10-Ganondorf_Mod
 Frosthex-SorceressMod
+Gnome-ChefMod
 HasteReapr-AssassinMod
+Jaosnake-CENI
 JavAngle-Myst
 JavAngle-TheHouse
+Komrad-Aetherium
+Moffein-Heretic
+PELE
+Paladin_Alliance-PaladinMod
+Phreel-RealerMysticsItems
+PopcornFactory-Arsonist_Mod
+PopcornFactory-Lee_Hyperreal
+RiskyTweaks_LanguagePack
+Risky_Lives-RiskyTweaks
+SandsweptTeam-Sandswept
+SaucySquash-Spearman
+TeamCloudburst-Cloudburst
+TeamMoonstorm-MoonstormSharedUtils
+TeamMoonstorm-Starstorm2
+TeamSillyGuy-Bastian
+TheTimesweeper-Bomber
+TheTimesweeper-HenryMod
+TheTimesweeper-Red_Alert
+TheTimesweeper-Scout
+The_Bozos-RobomandoMod
+Wunt-Fisherman
 kinggrinyov-Goku
 kinggrinyov-Trunks
 kinggrinyov-Vegeta
-Moffein-Heretic
+lemonlust-DarthVader
+lemonlust-SettMod
 nayDPz-Dancer
-Paladin_Alliance-PaladinMod
-PopcornFactory-Arsonist_Mod
-PopcornFactory-Lee_Hyperreal
 public_ParticleSystem-Driver
 public_ParticleSystem-Ravager
-Risky_Lives-RiskyTweaks
 rob-Belmont
 rob-Dante
+rob-Gunslinger
 rob-HEL_P
 rob-HUNK
-SaucySquash-Spearman
-TeamCloudburst-Cloudburst
-TeamSillyGuy-Bastian
-The_Bozos-RobomandoMod
-TheTimesweeper-HenryMod
-TheTimesweeper-Red_Alert
 toastyTeam-Rifter
 tsuyoikenko-Banshee
 tsuyoikenko-Cadet
 tsuyoikenko-Interrogator
 tsuyoikenko-Seamstress
+tsuyoikenko-Spy
+tsuyoikenko-Submariner
 tsuyoikenko-Wanderer
 ```
 

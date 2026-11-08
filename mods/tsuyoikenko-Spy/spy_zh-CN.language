@@ -1,0 +1,30 @@
+{
+  "zh-CN": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "Spy是一名脆弱的近战刺客，擅长轻松击杀高优先级的目标。<color=#CCD3E0>\n\n< ! > 使用Spy的小刀累积“谍报”层数，并使用钻石背刺客（The Diamondback）释放暴击。\n\n< ! > “刺击”是一项毁灭性技能，能瞬间击杀脆弱的敌人。\n\n< ! > “工兵破拆”是突入背刺范围并在击晕周围敌人的极佳手段。\n\n< ! > “隐形”既能用于进攻也能用于脱战，但需要合理规划资源。\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "谍报大师",
+    "KENKO_SPY_LORE": "随着星际帝国的迅猛扩张席卷群星，彼此之间燃烧的无声战争亦愈演愈烈。外交辞令粉饰着紧绷的局势，但在平静的表象之下，激烈的政治倾轧、分崩离析的盟约以及在群星死寂中碰撞的意识形态暗流涌动。\n\n在这星际野心勃勃的时代，公开冲突意味着同归于尽。统治者们转而遁入阴影以贯彻意志。谍报活动成为了首选武器——一场在数据流、窃窃低语的密码和窃取的机密之间打响的无声之战。动摇整个文明格局的往往并非舰队或强盛的火力，而是一句恰逢其时的耳语、一段被篡改的协议、一名悄然人间蒸发的官员。\n\n间谍化身为帝国机器中的幽灵。作为欺诈、渗透与颠覆的宗师，他们悄无声息地穿梭于边境之间，以手术刀般的外科精度剖开帝国的咽喉。有人效忠于君主，有人奉献给理想，亦有少数人仅为自己而战。\n\n他们的胜利从不曾见诸游行，他们的姓名从不曾被人诵读。他们的任务注定被深埋尘封。然而，无数星际国度的崛起与衰亡，皆维系于少数隐秘特工的翻云覆雨之手。\n\n优秀的间谍绝不会被捕获。他们在历史上留下的印记无法被追溯；然而在权力的静默交替中，在帝国崛起与崩塌的每一瞬，他们的手腕始终存在，隐匿无形……却毋庸置疑。",
+    "KENKO_SPY_OUTRO_FLAVOR": "..于是他离开了，又一项任务圆满完成。",
+    "KENKO_SPY_OUTRO_FAILURE": "..于是他消失了，不留一丝痕迹。",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "备选",
+    "KENKO_SPY_PASSIVE_NAME": "背刺",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color>可以使用其<color=#62746f>小刀</color><style=cIsHealth>背刺</style>敌人，造成一次<style=cIsDamage>暴击</style>，并能立即<style=cIsHealth>击杀</style>较弱的敌人。",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "发射一枚子弹造成<style=cIsDamage>320%伤害</style>。<style=cIsHealth>背刺</style>击杀可赋予<color=#62746f>谍报</color>。上限5层。",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "发射一枚子弹造成<style=cIsDamage>260%伤害</style>。命中头部造成<style=cIsDamage>暴击</style>。",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "刺击",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "准备你的<color=#62746f>小刀</color>。松开即可挥击，造成<style=cIsDamage>500%伤害</style>。",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>机会主义者</color>。准备你的<color=#62746f>小刀</color>。松开即可挥击，造成<style=cIsDamage>500%伤害</style>。<style=cIsHealth>背刺</style>击杀可赋予<style=cIsUtility>移动速度</style>与<style=cIsHealing>屏障</style>，并<style=cIsUtility>重置该技能的冷却时间</style>。",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "工兵破拆",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "向前掷出一个<color=#62746f>电子破拆器</color>，<style=cIsDamage>眩晕</style>所有附近的敌人并造成<style=cIsDamage>伤害</style>。使用<color=#62746f>电子破拆器</color>命中敌人会使Spy<style=cIsUtility>闪现</style>至目标身后。",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "隐形",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "进入<color=#62746f>隐形</color>状态，获得<style=cIsUtility>隐形效果</style>与<style=cIsUtility>移动速度</style>。攻击或受到伤害会打破<color=#62746f>隐形</color>。",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy：精通",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "扮演Spy，在季风难度下通关或湮灭自身。",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>背刺</style><style=cSub>从背后袭击敌人将引发瞬发暴击。脆弱的敌人将被立即处决。</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>谍报</style><style=cSub>消耗一层谍报层数将确保你的下一发左轮手枪射击必定暴击。</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>机会主义者</style><style=cSub>使用背刺击杀敌人可提供移动速度、临时屏障并重置冷却时间。</style>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "FR": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "Le Spy est un assassin de mêlée fragile qui excelle à éliminer les cibles prioritaires avec aisance.<color=#CCD3E0>\n\n< ! > Cumulez des charges d'Espionnage avec le couteau de Spy et déclenchez des coups critiques avec Le Diamondback.\n\n< ! > Poignarder est une capacité dévastatrice capable d'exécuter instantanément les ennemis les plus faibles.\n\n< ! > Saper est un excellent outil pour se placer à portée de Poignardage tout en étourdissant les ennemis proches.\n\n< ! > Camouflage est idéal pour engager le combat ou fuir, mais nécessite une bonne gestion de ses ressources.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Maître de l'espionnage",
+    "KENKO_SPY_LORE": "Alors que l'expansion rapide des empires spatiaux déferlait à travers les étoiles, les guerres silencieuses qui brûlaient entre eux en firent de même. Les façades diplomatiques masquaient la tension, mais sous la surface couvaient de féroces luttes politiques, des alliances brisées et des idéologies s'affrontant dans le silence de l'espace.\n\nEn cet âge d'ambition interstellaire, un conflit ouvert risquait l'annihilation totale. Les dirigeants se tournèrent plutôt vers les ombres pour accomplir leur volonté. L'espionnage devint l'arme de prédilection — une guerre silencieuse menée dans les flux de données, les codes chuchotés et les secrets dérobés. Des civilisations entières furent ébranlées non par des flottes ou de la puissance de feu, mais par un murmure judicieux, un protocole corrompu, un dignitaire disparu.\n\nLes espions devinrent des fantômes dans les rouages de l'empire. Maîtres de la tromperie, de l'infiltration et de la subversion, ils franchissaient les frontières sans être remarqués, incisant les empires avec une précision chirurgicale. Certains servaient des souverains. D'autres des idéaux. Quelques-uns ne servaient qu'eux-mêmes.\n\nLeurs victoires ne font jamais l'objet de défilés. Leurs noms ne sont jamais prononcés. Leurs missions, délibérément enfouies. Et pourtant, l'essor et la chute de nations stellaires entières ont reposé sur les agissements de quelques agents invisibles.\n\nUn bon espion n'est jamais capturé. L'empreinte qu'ils laissent sur l'histoire est indétectable, mais dans la bascule feutrée du pouvoir, à l'instant où un empire s'élève ou s'effondre, leur main est toujours là, invisible... mais indéniable.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..et ainsi il partit, une autre mission accomplie.",
+    "KENKO_SPY_OUTRO_FAILURE": "..et ainsi il disparut, sans laisser de trace.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternatif",
+    "KENKO_SPY_PASSIVE_NAME": "Poignardage",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> peut asséner un <style=cIsHealth>Poignardage</style> aux ennemis avec son <color=#62746f>Couteau</color>, infligeant un <style=cIsDamage>Coup critique</style> qui <style=cIsHealth>tue</style> instantanément les ennemis plus faibles.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Tirez une balle infligeant <style=cIsDamage>320% de dégâts</style>. Les éliminations par <style=cIsHealth>Poignardage</style> confèrent <color=#62746f>Espionnage</color>. Jusqu'à 5 charges.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Tirez une balle infligeant <style=cIsDamage>260% de dégâts</style>. Réussir un tir à la tête inflige un <style=cIsDamage>Coup critique</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Poignarder",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Préparez votre <color=#62746f>Couteau</color>. Relâchez pour frapper et infliger <style=cIsDamage>500% de dégâts</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Opportuniste</color>. Préparez votre <color=#62746f>Couteau</color>. Relâchez pour frapper et infliger <style=cIsDamage>500% de dégâts</style>. Les éliminations par <style=cIsHealth>Poignardage</style> confèrent de la <style=cIsUtility>vitesse de déplacement</style> et une <style=cIsHealing>barrière</style>, tout en <style=cIsUtility>réinitialisant le temps de recharge de cette capacité</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Saper",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Lance un <color=#62746f>Sapeur</color> vers l'avant, <style=cIsDamage>étourdissant</style> et infligeant des <style=cIsDamage>dégâts</style> à tous les ennemis proches. Toucher un ennemi avec le <color=#62746f>Sapeur</color> <style=cIsUtility>téléporte</style> Spy derrière la cible.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Camouflage",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Passe en état de <color=#62746f>Camouflage</color>, gagnant <style=cIsUtility>invisibilité</style> et <style=cIsUtility>vitesse de déplacement</style>. Attaquer ou subir des dégâts dissipe le <color=#62746f>Camouflage</color>.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy : Maîtrise",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "En tant que Spy, terminez le jeu ou oblitérez-vous en difficulté Mousson.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Poignardage</style><style=cSub>Frapper un ennemi dans le dos inflige un coup critique instantané. Les ennemis les plus faibles sont exécutés immédiatement.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Espionnage</style><style=cSub>Consommer une charge d'Espionnage garantit un coup critique lors de votre prochain tir de revolver.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportuniste</style><style=cSub>Éliminer un ennemi par un Poignardage confère de la vitesse de déplacement, une barrière temporaire et réinitialise le temps de recharge.</style>"
+  }
+}

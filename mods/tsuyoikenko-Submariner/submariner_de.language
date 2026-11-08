@@ -1,0 +1,25 @@
+{
+  "de": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "Die Submariner ist eine schwere Nahkämpferin, die sich auf Massenkontrolle und Zähigkeit verlässt, um das Schlachtfeld zu kontrollieren.<color=#CCD3E0>\n\n< ! > Halte den Druck mit Nahkampftreffern aufrecht, um kontinuierlich Gesundheit zu regenerieren.\n\n< ! > Nutze Einholen, um kleinere Feinde heranzuziehen, und weiche Angriffen aus, indem du größere Feinde triffst.\n\n< ! > Die Seeigel-Mine ist eine hervorragende Möglichkeit, schnell aus brenzligen Situationen zu entkommen und Minen mit hohem Schaden für später auszulegen.\n\n< ! > Bleibe in Reichweite von Anker werfen!, da der Bewegungstemposchub ein mächtiges Hilfsmittel im Kampf sein kann.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Tiefen des Abgrunds",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..und so ging sie, um nie wieder allein zu sein.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..und so verschwand sie, mit nichts als der Stille an ihrer Seite.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abyssal",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "N'kuhanas Segen",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Das Treffen von Feinden mit <style=cIsDamage>Nahkampfangriffen</style> gewährt <style=cIsHealing>N'kuhanas Wiederherstellung</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "AL811 Verankerungsvorrichtung",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Schwinge nach vorne und verursache <style=cIsDamage>450% Schaden</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Einholen",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Feuere eine Harpune ab, die <style=cIsDamage>150% Schaden</style> verursacht. <style=cIsUtility>Zieht</style> kleine Feinde zu dir heran und <style=cIsUtility>zieht</style> dich zu großen Feinden. Die Kollision mit einem großen Feind verursacht <style=cIsDamage>300% Schaden</style> und leitet einen <style=cIsUtility>Rückwärtssalto ein.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Explosiver Seeigel",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Führe einen <style=cIsUtility>Rückwärtssalto</style> aus und feuere eine <style=cIsHealing>Seeigel-Mine</style> ab, die <style=cIsDamage>700% Schaden</style> verursacht.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Der beste Freund des Kults",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Schlächter.</style> Reite eine <style=cIsHealing>Bestie</style>, die schnell vorwärts stürmt und <style=cIsDamage>700% Schaden</style> verursacht. Das Töten eines leichten Feindes <style=cIsUtility>beschleunigt</style> die <style=cIsHealing>Bestie</style> und erhöht den verursachten <style=cIsDamage>Schaden</style>. Das Anrennen gegen große Feinde stoppt dich und <style=cIsUtility>betäubt</style> den Feind.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Anker werfen!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Wirf deinen Anker und verursache beim Aufprall <style=cIsDamage>1200% Schaden</style>. Das Laufen auf den Anker zu erhöht dein <style=cIsUtility>Bewegungstempo</style>, während das Wegbewegen dich <style=cIsDamage>verlangsamt</style>. Zu weites Entfernen <style=cIsHealth>zerbricht</style> die Kette des Ankers und gewährt einen Schub an <style=cIsUtility>Bewegungstempo</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Meisterschaft",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Gewinne als Submariner das Spiel oder lösche dich auf Monsun aus."
+  }
+}

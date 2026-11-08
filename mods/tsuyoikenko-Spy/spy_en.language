@@ -1,0 +1,30 @@
+{
+  "en": {
+    "KENKO_SPY_NAME": "Spy",
+    "KENKO_SPY_DESCRIPTION": "The Spy is a squishy melee assassin who excels at killing high priority targets with ease.<color=#CCD3E0>\n\n< ! > Build up stacks of Espionage with Spy's knife and unleash crits with The Diamondback.\n\n< ! > Stab is a devastating ability that can instantly kill weaker enemies.\n\n< ! > Sap can be a great tool to get into Backstab range while stunning nearby enemies.\n\n< ! > Cloak can be a great way to both engage and escape enemies but requires proper resource management.\n\n</color>",
+    "KENKO_SPY_SUBTITLE": "Master of Espionage",
+    "KENKO_SPY_LORE": "As the rapid development of space empires surged across the stars, so too did the silent wars that burn between them. Diplomatic facades masked the tension, but beneath the surface hides fierce political strife, alliances fracturing, and ideologies clashing in the silence of space.\n\nIn this age of interstellar ambition, open conflict risked total annihilation. Leaders turned to the shadows to carry out their will instead. Espionage became the weapon of choice—a silent war waged in data streams, whispered codes, and stolen secrets. Entire civilizations were swayed not by fleets or firepower, but by a well-placed whisper, a corrupted protocol, a missing official.\n\nSpies became ghosts in the machinery of empire. Masters of deception, infiltration, and subversion, they slipped between borders unnoticed, cutting into empires with surgical precision. Some served sovereigns. Others served ideals. A few served only themselves.\n\nTheir victories are never paraded. Their names are never spoken. Their missions, buried by design. And yet, the rise and fall of entire star-nations have turned on the actions of a few, unseen agents.\n\nA good spy is never caught. The impact they leave on history is untraceable, but in the quiet shift of power, in the moment an empire rises or crumbles, their hand is always there, unseen... but undeniable.",
+    "KENKO_SPY_OUTRO_FLAVOR": "..and so he left, another mission completed.",
+    "KENKO_SPY_OUTRO_FAILURE": "..and so he vanished, without a trace.",
+    "KENKO_SPY_MASTERY_SKIN_NAME": "Alternate",
+    "KENKO_SPY_PASSIVE_NAME": "Backstab",
+    "KENKO_SPY_PASSIVE_DESCRIPTION": "<color=#62746f>Spy</color> can <style=cIsHealth>Backstab</style> enemies with his <color=#62746f>Knife</color>, causing a <style=cIsDamage>Critical Strike</style> that instantly <style=cIsHealth>kills</style> weaker enemies.",
+    "KENKO_SPY_PRIMARY_REVOLVER_NAME": "Diamondback",
+    "KENKO_SPY_PRIMARY_REVOLVER_DESCRIPTION": "Fire a bullet for <style=cIsDamage>320% damage</style>. <style=cIsHealth>Backstab</style> kills grant <color=#62746f>Espionage</color>. Max 5 stacks.",
+    "KENKO_SPY_PRIMARY_REVOLVER2_NAME": "Ambassador",
+    "KENKO_SPY_PRIMARY_REVOLVER2_DESCRIPTION": "Fire a bullet for <style=cIsDamage>260% damage</style>. Landing a headshot <style=cIsDamage>Critically Strikes</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE_NAME": "Stab",
+    "KENKO_SPY_SECONDARY_KNIFE_DESCRIPTION": "Prepare your <color=#62746f>Knife</color>. Release to swing for <style=cIsDamage>500% damage</style>.",
+    "KENKO_SPY_SECONDARY_KNIFE2_NAME": "Big Earner",
+    "KENKO_SPY_SECONDARY_KNIFE2_DESCRIPTION": "<color=#62746f>Opportunist</color>. Prepare your <color=#62746f>Knife</color>. Release to swing for <style=cIsDamage>500% damage</style>. <style=cIsHealth>Backstab</style> kills grant <style=cIsUtility>movement speed</style> and <style=cIsHealing>barrier</style> as well as <style=cIsUtility>resetting this ability's cooldown</style>.",
+    "KENKO_SPY_UTILITY_SAPPER_NAME": "Sap",
+    "KENKO_SPY_UTILITY_SAPPER_DESCRIPTION": "Throw a <color=#62746f>Sapper</color> forwards, <style=cIsDamage>stunning</style> and dealing <style=cIsDamage>damage</style> to all nearby enemies. Hitting an enemy with <color=#62746f>Sapper</color> <style=cIsUtility>blinks</style> Spy behind the target.",
+    "KENKO_SPY_SPECIAL_CLOAK_NAME": "Cloak",
+    "KENKO_SPY_SPECIAL_CLOAK_DESCRIPTION": "Enter a state of <color=#62746f>Cloak</color>, gaining <style=cIsUtility>invisibility</style> and <style=cIsUtility>movement speed</style>. Attacking or taking damage breaks <color=#62746f>Cloak</color>.",
+    "KENKO_SPY_masteryAchievement_NAME": "Spy: Mastery",
+    "KENKO_SPY_masteryAchievement_DESCRIPTION": "As Spy, beat the game or obliterate on Monsoon.",
+    "KEYWORD_BACKSTAB": "<style=cKeywordName>Backstab</style><style=cSub>Striking an enemy in the back causes an instant critical strike. Weaker enemies are instantly executed.</style>",
+    "KEYWORD_ESPIONAGE": "<style=cKeywordName>Espionage</style><style=cSub>Consuming an Espionage stack guarantees a critical strike on your next revolver shot.</style>",
+    "KEYWORD_OPPORTUNIST": "<style=cKeywordName>Opportunist</style><style=cSub>Killing an enemy with a Backstab provides movement speed, temporary barrier, and cooldown reset.</style>"
+  }
+}

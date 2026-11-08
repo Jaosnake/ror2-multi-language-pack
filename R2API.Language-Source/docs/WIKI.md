@@ -219,7 +219,7 @@ Flat JSON token objects are also supported. Metadata keys such as `language`,
 Local build command:
 
 ```powershell
-dotnet build C:\Users\Jaosnake\Desktop\PELE_Project\github_repo_latest\R2API.Language-Source\R2API.Language.csproj -c Release
+dotnet build R2API.Language.csproj -c Release
 ```
 
 The project deploy target copies the generated DLL to the active r2modman

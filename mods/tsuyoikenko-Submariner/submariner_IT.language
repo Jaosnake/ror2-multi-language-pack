@@ -1,0 +1,25 @@
+{
+  "IT": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "La Submariner è una possente lottatrice da mischia che si affida al controllo della folla e alla robustezza per dominare la battaglia.<color=#CCD3E0>\n\n< ! > Mantieni la pressione con attacchi corpo a corpo per rigenerare continuamente salute.\n\n< ! > Usa Recupero per trascinare a te i nemici più piccoli ed evitare attacchi colpendo i nemici più grandi.\n\n< ! > La Mina riccio è un ottimo modo per fuggire rapidamente da situazioni pericolose e piazzare mine ad alto danno per dopo.\n\n< ! > Rimani nel raggio di Getta l'ancora!: il potenziamento alla velocità di movimento può rivelarsi uno strumento straordinario in battaglia.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Profondità dell'abisso",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..e così se ne andò, per non restare mai più da sola.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..e così svanì nel nulla, con solo il silenzio al suo fianco.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abissale",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "Benedizione di N'kuhana",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Colpire i nemici con <style=cIsDamage>attacchi corpo a corpo</style> conferisce il <style=cIsHealing>Ripristino di N'kuhana</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "Dispositivo di ancoraggio AL811",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Sferra un fendente frontale infliggendo il <style=cIsDamage>450% di danno</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Recupero",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Spara un arpione che infligge il <style=cIsDamage>150% di danno</style>. <style=cIsUtility>Trascina</style> i nemici piccoli verso di te e ti <style=cIsUtility>trascina</style> verso i nemici grandi. La collisione con un nemico grande infligge il <style=cIsDamage>300% di danno</style> e avvia un <style=cIsUtility>salto mortale all'indietro.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Riccio esplosivo",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Esegui un <style=cIsUtility>salto mortale all'indietro</style> sparando una <style=cIsHealing>Mina riccio</style> che infligge il <style=cIsDamage>700% di danno</style>.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "Il migliore amico della setta",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Boia.</style> Cavalca una <style=cIsHealing>Bestia</style>, che corre rapidamente in avanti infliggendo il <style=cIsDamage>700% di danno</style>. Uccidere un nemico leggero <style=cIsUtility>accelera</style> la <style=cIsHealing>Bestia</style> e aumenta il <style=cIsDamage>danno</style> inflitto. Schiantarsi contro nemici grandi ti ferma e <style=cIsUtility>stordisce</style> il nemico.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "Getta l'ancora!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Lancia la tua ancora, infliggendo il <style=cIsDamage>1200% di danno</style> all'impatto. Correre verso l'ancora aumenta la tua <style=cIsUtility>velocità di movimento</style>, mentre allontanarsi ti <style=cIsDamage>rallenta</style>. Allontanarsi troppo <style=cIsHealth>spezza</style> la catena dell'ancora, fornendo un'ondata di <style=cIsUtility>velocità di movimento</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Maestria",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Nei panni di Submariner, completa il gioco o annientati a difficoltà Monsone."
+  }
+}

@@ -8,21 +8,21 @@
     <Nullable>annotations</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
-    <GameManagedPath>C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed</GameManagedPath>
-    <ProfilePluginPath>C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins</ProfilePluginPath>
+    <GameManagedPath>$(ProgramFiles)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed</GameManagedPath>
+    <ProfilePluginPath>$(AppData)\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins</ProfilePluginPath>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="BepInEx">
-      <HintPath>C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>$(AppData)\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\core\BepInEx.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="0Harmony">
-      <HintPath>C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\core\0Harmony.dll</HintPath>
+      <HintPath>$(AppData)\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\core\0Harmony.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="MMHOOK_RoR2">
-      <HintPath>C:\Users\Jaosnake\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins\MMHOOK\MMHOOK_RoR2.dll</HintPath>
+      <HintPath>$(AppData)\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins\MMHOOK\MMHOOK_RoR2.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RoR2">

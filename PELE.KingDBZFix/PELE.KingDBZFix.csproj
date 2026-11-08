@@ -6,9 +6,9 @@
     <LangVersion>12</LangVersion>
     <Nullable>annotations</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <GameManagedPath>C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed</GameManagedPath>
-    <ProfileCorePath>C:\Users\jaosn\AppData\Roaming\Thunderstore Mod Manager\DataFolder\RiskOfRain2\profiles\Default\BepInEx\core</ProfileCorePath>
-    <ProfilePluginsPath>C:\Users\jaosn\AppData\Roaming\Thunderstore Mod Manager\DataFolder\RiskOfRain2\profiles\Default\BepInEx\plugins</ProfilePluginsPath>
+    <GameManagedPath Condition="'$(GameManagedPath)' == ''">$(ProgramFiles)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed</GameManagedPath>
+    <ProfileCorePath Condition="'$(ProfileCorePath)' == ''">$(AppData)\Thunderstore Mod Manager\DataFolder\RiskOfRain2\profiles\Default\BepInEx\core</ProfileCorePath>
+    <ProfilePluginsPath Condition="'$(ProfilePluginsPath)' == ''">$(AppData)\Thunderstore Mod Manager\DataFolder\RiskOfRain2\profiles\Default\BepInEx\plugins</ProfilePluginsPath>
   </PropertyGroup>
 
   <ItemGroup>

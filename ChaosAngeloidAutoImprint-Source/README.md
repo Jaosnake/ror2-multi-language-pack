@@ -76,8 +76,8 @@ Mod que automatiza a skill **F (Imprint/PickMaster)** do personagem **ChaosAngel
 ## Compilação
 
 ```powershell
-dotnet build "C:\Users\Jaosnake\AppData\Local\Temp\opencode\ChaosAuto.csproj" -c Release
-Copy-Item "C:\Users\Jaosnake\AppData\Local\Temp\opencode\bin\Release\netstandard2.1\ChaosAuto.dll" "...\BepInEx\plugins\Jaosnake-ChaosAngeloidAutoImprint\ChaosAuto.dll" -Force
+dotnet build "ChaosAuto.csproj" -c Release
+Copy-Item "bin/Release/netstandard2.1/ChaosAuto.dll" "...\BepInEx\plugins\Jaosnake-ChaosAngeloidAutoImprint\ChaosAuto.dll" -Force
 ```
 
 ---

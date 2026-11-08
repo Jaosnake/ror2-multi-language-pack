@@ -1,0 +1,25 @@
+{
+  "es-419": {
+    "KENKO_SUBMARINER_NAME": "Submariner",
+    "KENKO_SUBMARINER_DESCRIPTION": "La Submariner es una luchadora pesada cuerpo a cuerpo que depende del control de masas y la resistencia para dominar el combate.<color=#CCD3E0>\n\n< ! > Mantén la presión con golpes cuerpo a cuerpo para regenerar salud continuamente.\n\n< ! > Usa Recoger para arrastrar a los enemigos más pequeños y utilízalo para evitar ataques golpeando a los más grandes.\n\n< ! > La Mina erizo es una forma excelente de escapar rápidamente de apuros y colocar minas de gran daño para más adelante.\n\n< ! > Mantente dentro del alcance de ¡Lanza el ancla!, ya que la mejora de velocidad de movimiento es una herramienta formidable para combatir.\n\n</color>",
+    "KENKO_SUBMARINER_SUBTITLE": "Profundidades del abismo",
+    "KENKO_SUBMARINER_LORE": "",
+    "KENKO_SUBMARINER_OUTRO_FLAVOR": "..y así se fue, para no volver a estar sola jamás.",
+    "KENKO_SUBMARINER_OUTRO_FAILURE": "..y así se desvaneció, con el silencio como única compañía.",
+    "KENKO_SUBMARINER_MASTERY_SKIN_NAME": "Abisal",
+    "KENKO_SUBMARINER_PASSIVE_NAME": "Bendición de N'kuhana",
+    "KENKO_SUBMARINER_PASSIVE_DESCRIPTION": "Golpear enemigos con <style=cIsDamage>ataques cuerpo a cuerpo</style> otorga <style=cIsHealing>Restauración de N'kuhana</style>.",
+    "KENKO_SUBMARINER_PRIMARY_SWING_NAME": "Dispositivo de anclaje AL811",
+    "KENKO_SUBMARINER_PRIMARY_SWING_DESCRIPTION": "Realiza un barrido al frente que inflige un <style=cIsDamage>450% de daño</style>.",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_NAME": "Recoger",
+    "KENKO_SUBMARINER_SECONDARY_HARPOON_DESCRIPTION": "Dispara un arpón que inflige un <style=cIsDamage>150% de daño</style>. <style=cIsUtility>Atrae</style> a los enemigos pequeños hacia ti y te <style=cIsUtility>atrae</style> hacia los enemigos grandes. Chocar con un enemigo grande inflige un <style=cIsDamage>300% de daño</style> e inicia un <style=cIsUtility>salto mortal hacia atrás.</style>",
+    "KENKO_SUBMARINER_UTILITY_MINE_NAME": "Erizo explosivo",
+    "KENKO_SUBMARINER_UTILITY_MINE_DESCRIPTION": "Realiza un <style=cIsUtility>salto mortal hacia atrás</style> y dispara una <style=cIsHealing>Mina erizo</style> que inflige un <style=cIsDamage>700% de daño</style>.",
+    "KENKO_SUBMARINER_UTILITY_BEAST_NAME": "El mejor amigo del culto",
+    "KENKO_SUBMARINER_UTILITY_BEAST_DESCRIPTION": "<style=cIsDamage>Verdugo.</style> Monta una <style=cIsHealing>Bestia</style>, que corre rápidamente hacia adelante infligiendo un <style=cIsDamage>700% de daño</style>. Matar a un enemigo ligero <style=cIsUtility>acelera</style> a la <style=cIsHealing>Bestia</style> y aumenta el <style=cIsDamage>daño</style> infligido. Estrellarse contra enemigos grandes te detiene y <style=cIsUtility>aturde</style> al enemigo.",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_NAME": "¡Lanza el ancla!",
+    "KENKO_SUBMARINER_SPECIAL_ANCHORTHROW_DESCRIPTION": "Lanza tu ancla, infligiendo un <style=cIsDamage>1200% de daño</style> al impactar. Correr hacia el ancla aumenta tu <style=cIsUtility>velocidad de movimiento</style>, mientras que alejarte de ella te <style=cIsDamage>ralentiza</style>. Alejarse demasiado <style=cIsHealth>rompe</style> la cadena del ancla, otorgando una ráfaga de <style=cIsUtility>velocidad de movimiento</style>.",
+    "KENKO_SUBMARINER_masteryAchievement_NAME": "Submariner: Maestría",
+    "KENKO_SUBMARINER_masteryAchievement_DESCRIPTION": "Como Submariner, completa la partida u oblitérate en Monsoon."
+  }
+}
