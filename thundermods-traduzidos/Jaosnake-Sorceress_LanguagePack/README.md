@@ -1,6 +1,6 @@
 # 🌍 Jaosnake-Sorceress_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.5-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **SorceressMod** by **Frosthex**, reviewed against the original 0.7.5 texts.

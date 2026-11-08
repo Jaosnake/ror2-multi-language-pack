@@ -1,3 +1,9 @@
+# Changelog
+
+## 1.0.4
+- Fixed character select crash (`ArgumentException` duplicate key in `GetDynamicTextDict()`) by removing redundant dictionary section.
+- Full compatibility confirmed for all 15 languages including Italian, Portuguese (BR), and P.E.L.E locales.
+
 ## 1.0.3
 - Added complete Esperanto ('eo') and Latin ('la') translations (34 tokens each).
 - Added PELE JSON files for Esperanto, Latin, and Ukrainian.
