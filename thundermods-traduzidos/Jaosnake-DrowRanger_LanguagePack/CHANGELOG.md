@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+- Updated package documentation and README formatting to official Jaosnake template.
+- Verified 15-language in-game presentation (Latin, Romance, Germanic, Slavic, CJK).
+
 ## 1.0.0
 - Initial release.
 - Added 15-language translation pack for Drow Ranger survivor mod (`DDL-DrowRanger` v0.4.0):

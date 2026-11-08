@@ -1,3 +1,14 @@
+# Changelog
+
+## 1.0.5
+- Updated package documentation and README formatting to official Jaosnake template.
+- Added comprehensive coverage for Esperanto and Latin via P.E.L.E.
+- Validated Turkish and Italian in-game localizations.
+
+## 1.0.4
+- Added Latin and Esperanto translations.
+- Updated language mappings and tag closures.
+
 ## 1.0.3
 - Restored the five survivor tips and the Fae skin name in all included languages.
 - Reviewed skills, achievement descriptions, names, lore, and formatting across the language sections.
