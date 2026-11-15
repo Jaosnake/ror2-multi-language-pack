@@ -1,14 +1,12 @@
 # Risk of Rain 2 Multi-Language Pack
 
-Translation packs for several **Risk of Rain 2** mods, organized for GitHub, manual installation, and future Thunderstore publishing.
+Translation packs for several **Risk of Rain 2** mods, available through Thunderstore and for manual installation.
 
 > **AI disclosure**: some translations were created with AI assistance and then reviewed/edited by Jaosnake. For **Starstorm 2** and **Sandswept**, the **PT-BR** translations were reviewed line by line and manually edited by Jaosnake. Original credits remain preserved. This disclosure is kept here and in package READMEs for Thunderstore clarity.
 
-> 🆕 **Latest additions**: **Drow Ranger** (`DDL-DrowRanger`), **RealerMysticsItems** (`Phreel-RealerMysticsItems`), **Submariner**, **Spy**, **Darth Vader**, **Sett**, **Gunslinger**, **Scout**, **Bomber**, and fully audited/fixed 15-language overlays for **Robomando**, **Lee Hyperreal**, and **Sorceress** with P.E.L.E support.
+[Published on Thunderstore / Publicados no Thunderstore](#published-on-thunderstore--publicados-no-thunderstore)
 
 ## Choose Your Language / Escolha seu Idioma
-
-> 🆕 **Aetherium_LanguagePack** added: item, lunar item, equipment, artifact, elite, interactable, and unlock text overrides exposed by Aetherium.
 
 [🇧🇷 Português Brasil](#-português-brasil) |
 [🇺🇸 English](#-english) |
@@ -312,7 +310,7 @@ mods/<mod>/.../*_eo.language
 
 ## 📦 Quick Download
 
-For most players:
+For most players, install the pack from the [Thunderstore catalog](#published-on-thunderstore--publicados-no-thunderstore). For a manual install:
 
 1. Click **Code** -> **Download ZIP** on GitHub.
 2. Extract the ZIP somewhere easy to find.
@@ -418,19 +416,93 @@ Important:
 
 More details: [Sandswept/UA-LANGUAGE-NOTE.md](Sandswept/UA-LANGUAGE-NOTE.md)
 
-## ✅ Available Packages
+## Published on Thunderstore / Publicados no Thunderstore
 
-| Package | Original mod | Folder | Notes |
-|---|---|---|---|
-| Starstorm 2 Language Pack | TeamMoonstorm-Starstorm2 | `Starstorm2/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
-| Sandswept Language Pack | SandsweptTeam-Sandswept | `Sandswept/` & `thundermods-traduzidos/` | Standalone Thunderstore-ready package |
-| SandGlass | SandsweptTeam-Sandswept + DropPod-LookingGlass | `thundermods-traduzidos/Jaosnake-SandGlass/` | Optional patch for LookingGlass stat labels |
-| Community Mod Language Packs (62+) | Multiple mods | `thundermods-traduzidos/` | 62 Thunderstore-ready packages (`manifest.json`, `icon.png`, `.language`) |
-| Additional mod translations | Multiple mods | `mods/` | 62 drop-in mod folders for direct `BepInEx/plugins/` install |
-| PELE System | Jaosnake-PELE | `PELE/` | Native la/eo/uk language datasets (JSON) |
-| PELE KingDBZ Compatibility Fix | kinggrinyov-Goku/Vegeta/Trunks | `PELE.KingDBZFix/` & `PELE/` | Harmony fix ensuring token loading for DBZ survivors |
-| PELE R2API.Language fork | RiskofThunder-R2API_Language | `R2API.Language-Source/` | Source for the tested PELE-aware loader and hot reload fork |
-| ChaosAngeloidAutoImprint Source | DragonycksModdingComms-Chaos | `ChaosAngeloidAutoImprint-Source/` | Source code for AutoImprint plugin |
+Use the links below to install the published packages through a mod manager. The versions shown are the published releases checked on 14 November 2026. Mod dependency versions come from the published package manifests.
+
+Use os links abaixo para instalar os pacotes publicados pelo gerenciador de mods. As versões das dependências vêm dos manifestos publicados.
+
+**For a complete Sonic translation, install both packs.** / **Para a tradução completa do Sonic, instale os dois pacotes.** [Sonic the Hedgehog Language Pack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SonicTheHedgehog_LanguagePack/) · [HedgehogUtils Language Pack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/HedgehogUtils_LanguagePack/)
+
+| Published translation | Version | Declared mod dependencies |
+|---|---|---|
+| [Aetherium_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Aetherium_LanguagePack/) | `1.0.1` | [KomradeSpectre-Aetherium 0.9.23](https://thunderstore.io/c/riskofrain2/p/KomradeSpectre/Aetherium/v/0.9.23/) |
+| [Alloyed_Armorer_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Alloyed_Armorer_LanguagePack/) | `1.0.1` | [TatertotticusSquad-Alloyed_Armorer 1.3.0](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/v/1.3.0/) |
+| [Arsonist_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Arsonist_LanguagePack/) | `1.0.2` | [PopcornFactory-Arsonist_Mod 3.0.6](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Arsonist_Mod/v/3.0.6/) |
+| [Assassin_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Assassin_LanguagePack/) | `1.0.3` | [HasteReapr-AssassinMod 2.2.4](https://thunderstore.io/c/riskofrain2/p/HasteReapr/AssassinMod/v/2.2.4/) |
+| [Banshee_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Banshee_LanguagePack/) | `1.0.3` | [tsuyoikenko-Banshee 1.0.2](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Banshee/v/1.0.2/) |
+| [Bastian_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Bastian_LanguagePack/) | `1.0.3` | [TeamSillyGuy-Bastian 3.0.0](https://thunderstore.io/c/riskofrain2/p/TeamSillyGuy/Bastian/v/3.0.0/) |
+| [Belmont_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Belmont_LanguagePack/) | `1.0.3` | [rob-Belmont 1.0.10](https://thunderstore.io/c/riskofrain2/p/rob/Belmont/v/1.0.10/) |
+| [Bomber_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Bomber_LanguagePack/) | `1.0.0` | [Dragonyck-Bomber 1.4.3](https://thunderstore.io/c/riskofrain2/p/Dragonyck/Bomber/v/1.4.3/) |
+| [Cadet_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Cadet_LanguagePack/) | `1.0.2` | [tsuyoikenko-Cadet 1.1.10](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Cadet/v/1.1.10/) |
+| [Caeli_Imperium_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Caeli_Imperium_LanguagePack/) | `1.0.1` | [Brynzananas-Caeli_Imperium 0.13.5](https://thunderstore.io/c/riskofrain2/p/Brynzananas/Caeli_Imperium/v/0.13.5/) |
+| [Celestial_War_Tank_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Celestial_War_Tank_LanguagePack/) | `1.0.0` | [CheeseWithHoles-Celestial_War_Tank 2.3.13](https://thunderstore.io/c/riskofrain2/p/CheeseWithHoles/Celestial_War_Tank/v/2.3.13/) |
+| [ChefMod_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/ChefMod_LanguagePack/) | `1.0.0` | [Gnome-ChefMod 2.3.11](https://thunderstore.io/c/riskofrain2/p/Gnome/ChefMod/v/2.3.11/) |
+| [Cloudburst_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Cloudburst_LanguagePack/) | `1.0.3` | [TeamCloudburst-Cloudburst 0.5.0](https://thunderstore.io/c/riskofrain2/p/TeamCloudburst/Cloudburst/v/0.5.0/) |
+| [Dancer_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Dancer_LanguagePack/) | `1.0.3` | [nayDPz-Dancer 0.10.1](https://thunderstore.io/c/riskofrain2/p/nayDPz/Dancer/v/0.10.1/) |
+| [Dante_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Dante_LanguagePack/) | `1.0.3` | [rob-Dante 1.0.1](https://thunderstore.io/c/riskofrain2/p/rob/Dante/v/1.0.1/) |
+| [DarthVader_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/DarthVader_LanguagePack/) | `1.0.0` | [PopcornFactory-DarthVaderMod 2.2.4](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/DarthVaderMod/v/2.2.4/) |
+| [Deputy_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Deputy_LanguagePack/) | `1.0.3` | [Bog-Deputy 0.3.5](https://thunderstore.io/c/riskofrain2/p/Bog/Deputy/v/0.3.5/) |
+| [Driver_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Driver_LanguagePack/) | `1.0.3` | [public_ParticleSystem-Driver 2.4.4](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Driver/v/2.4.4/) |
+| [DrowRanger_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/DrowRanger_LanguagePack/) | `1.0.1` | [DDL-DrowRanger 0.4.0](https://thunderstore.io/c/riskofrain2/p/DDL/DrowRanger/v/0.4.0/) |
+| [Enforcer_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Enforcer_LanguagePack/) | `1.0.3` | [EnforcerGang-Enforcer 3.11.10](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Enforcer/v/3.11.10/) |
+| [Ganondorf_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Ganondorf_LanguagePack/) | `1.0.0` | [Ethanol10-Ganondorf_Mod 3.2.4](https://thunderstore.io/c/riskofrain2/p/Ethanol10/Ganondorf_Mod/v/3.2.4/) |
+| [Goku_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Goku_LanguagePack/) | `1.0.1` | [kinggrinyov-Goku 2.13.3](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Goku/v/2.13.3/) |
+| [Gunslinger_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Gunslinger_LanguagePack/) | `1.0.0` | [Dragonyck-Gunslinger 1.10.3](https://thunderstore.io/c/riskofrain2/p/Dragonyck/Gunslinger/v/1.10.3/) |
+| [HAND_OVERCLOCKED_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/HAND_OVERCLOCKED_LanguagePack/) | `1.0.3` | [EnforcerGang-HAND_OVERCLOCKED 1.5.8](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/v/1.5.8/) |
+| [HedgehogUtils_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/HedgehogUtils_LanguagePack/) | `1.0.0` | [ds_gaming-HedgehogUtils 2.0.4](https://thunderstore.io/c/riskofrain2/p/ds_gaming/HedgehogUtils/v/2.0.4/) |
+| [HEL_P_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/HEL_P_LanguagePack/) | `1.0.6` | [rob-HEL_P 3.1.0](https://thunderstore.io/c/riskofrain2/p/rob/HEL_P/v/3.1.0/) |
+| [Henry_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Henry_LanguagePack/) | `1.0.2` | [TheTimesweeper-HenryMod 2.2.0](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/HenryMod/v/2.2.0/) |
+| [Heretic_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Heretic_LanguagePack/) | `1.0.4` | [Moffein-Heretic 1.2.10](https://thunderstore.io/c/riskofrain2/p/Moffein/Heretic/v/1.2.10/) |
+| [HUNK_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/HUNK_LanguagePack/) | `1.0.2` | [rob-HUNK 1.5.1](https://thunderstore.io/c/riskofrain2/p/rob/HUNK/v/1.5.1/) |
+| [Interrogator_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Interrogator_LanguagePack/) | `1.0.2` | [tsuyoikenko-Interrogator 0.8.1](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Interrogator/v/0.8.1/) |
+| [Lee_Hyperreal_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Lee_Hyperreal_LanguagePack/) | `1.0.4` | [PopcornFactory-Lee_Hyperreal 2.2.0](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Lee_Hyperreal/v/2.2.0/) |
+| [MinerUnearthed_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/MinerUnearthed_LanguagePack/) | `1.0.3` | [EnforcerGang-MinerUnearthed 1.10.1](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/MinerUnearthed/v/1.10.1/) |
+| [Mortician_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Mortician_LanguagePack/) | `1.0.4` | [Bog-Mortician 0.1.5](https://thunderstore.io/c/riskofrain2/p/Bog/Mortician/v/0.1.5/) |
+| [Myst_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Myst_LanguagePack/) | `1.0.3` | [JavAngle-Myst 1.2.18](https://thunderstore.io/c/riskofrain2/p/JavAngle/Myst/v/1.2.18/) |
+| [Paladin_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Paladin_LanguagePack/) | `1.0.4` | [Paladin_Alliance-PaladinMod 2.3.2](https://thunderstore.io/c/riskofrain2/p/Paladin_Alliance/PaladinMod/v/2.3.2/) |
+| [Pathfinder_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Pathfinder_LanguagePack/) | `1.0.3` | [Bog-Pathfinder 0.5.3](https://thunderstore.io/c/riskofrain2/p/Bog/Pathfinder/v/0.5.3/) |
+| [Pilot_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Pilot_LanguagePack/) | `1.0.3` | [EnforcerGang-Pilot 0.6.4](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/v/0.6.4/) |
+| [Ravager_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Ravager_LanguagePack/) | `1.0.4` | [public_ParticleSystem-Ravager 1.6.0](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Ravager/v/1.6.0/) |
+| [RealerMysticsItems_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/RealerMysticsItems_LanguagePack/) | `1.0.0` | [Phreel-RealerMysticsItems 2.1.32](https://thunderstore.io/c/riskofrain2/p/Phreel/RealerMysticsItems/v/2.1.32/) |
+| [Red_Alert_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Red_Alert_LanguagePack/) | `1.0.2` | [TheTimesweeper-Red_Alert 3.3.7](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/Red_Alert/v/3.3.7/) |
+| [Rifter_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Rifter_LanguagePack/) | `1.0.2` | [toastyTeam-Rifter 1.0.3](https://thunderstore.io/c/riskofrain2/p/toastyTeam/Rifter/v/1.0.3/) |
+| [RiskyTweaks_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/RiskyTweaks_LanguagePack/) | `1.0.3` | [Risky_Lives-RiskyTweaks 1.10.2](https://thunderstore.io/c/riskofrain2/p/Risky_Lives/RiskyTweaks/v/1.10.2/) |
+| [Robomando_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Robomando_LanguagePack/) | `1.0.4` | [The_Bozos-RobomandoMod 1.0.22](https://thunderstore.io/c/riskofrain2/p/The_Bozos/RobomandoMod/v/1.0.22/) |
+| [Rocket_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Rocket_LanguagePack/) | `1.0.4` | [EnforcerGang-Rocket 1.1.3](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Rocket/v/1.1.3/) |
+| [Sandswept_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Sandswept_LanguagePack/) | `1.0.2` | [SandsweptTeam-Sandswept 1.4.4](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/v/1.4.4/) |
+| [Sandswept_ptBR_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Sandswept_ptBR_LanguagePack/) | `1.0.2` | [SandsweptTeam-Sandswept 1.4.4](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/v/1.4.4/) |
+| [Scout_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Scout_LanguagePack/) | `1.0.0` | [tsuyoikenko-Scout 0.9.11](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Scout/v/0.9.11/) |
+| [Seamstress_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Seamstress_LanguagePack/) | `1.0.3` | [tsuyoikenko-Seamstress 1.7.4](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Seamstress/v/1.7.4/) |
+| [SettMod_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SettMod_LanguagePack/) | `1.0.0` | [lemonlust-SettMod 4.9.2](https://thunderstore.io/c/riskofrain2/p/lemonlust/SettMod/v/4.9.2/) |
+| [SniperClassic_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SniperClassic_LanguagePack/) | `1.0.2` | [EnforcerGang-SniperClassic 2.0.9](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/v/2.0.9/) |
+| [SonicTheHedgehog_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SonicTheHedgehog_LanguagePack/) | `1.0.0` | [ds_gaming-SonicTheHedgehog 5.0.4](https://thunderstore.io/c/riskofrain2/p/ds_gaming/SonicTheHedgehog/v/5.0.4/) |
+| [Sorceress_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Sorceress_LanguagePack/) | `1.0.5` | [Frosthex-SorceressMod 0.7.5](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/v/0.7.5/) |
+| [Spearman_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Spearman_LanguagePack/) | `1.0.3` | [SaucySquash-Spearman 1.0.7](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/v/1.0.7/) |
+| [Spy_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Spy_LanguagePack/) | `1.0.0` | [tsuyoikenko-Spy 1.3.4](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Spy/v/1.3.4/) |
+| [Starstorm2_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Starstorm2_LanguagePack/) | `2.0.4` | [TeamMoonstorm-Starstorm2 0.6.46](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/v/0.6.46/) |
+| [Starstorm2_ptBR_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Starstorm2_ptBR_LanguagePack/) | `1.0.3` | [TeamMoonstorm-Starstorm2 0.6.46](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/v/0.6.46/) |
+| [Submariner_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Submariner_LanguagePack/) | `1.0.1` | [tsuyoikenko-Submariner 1.1.5](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Submariner/v/1.1.5/) |
+| [SwanSongExtended_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SwanSongExtended_LanguagePack/) | `1.0.0` | [RiskOfBrainrot-SwanSongExtended 1.1.3](https://thunderstore.io/c/riskofrain2/p/RiskOfBrainrot/SwanSongExtended/v/1.1.3/) |
+| [TheHouse_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/TheHouse_LanguagePack/) | `1.0.3` | [JavAngle-TheHouse 2.3.3](https://thunderstore.io/c/riskofrain2/p/JavAngle/TheHouse/v/2.3.3/) |
+| [Trunks_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Trunks_LanguagePack/) | `1.0.0` | [kinggrinyov-Trunks 1.3.2](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/v/1.3.2/) |
+| [UltronSurvivor_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/UltronSurvivor_LanguagePack/) | `1.0.0` | [Kimchi-UltronSurvivor 1.3.1](https://thunderstore.io/c/riskofrain2/p/Kimchi/UltronSurvivor/v/1.3.1/) |
+| [Vegeta_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Vegeta_LanguagePack/) | `1.0.0` | [kinggrinyov-Vegeta 1.5.2](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Vegeta/v/1.5.2/) |
+| [Wanderer_LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Wanderer_LanguagePack/) | `1.0.3` | [tsuyoikenko-Wanderer 1.0.1](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/v/1.0.1/) |
+
+### Other published projects / Outros projetos publicados
+
+| Project | Version |
+|---|---|
+| [CENI](https://thunderstore.io/c/riskofrain2/p/Jaosnake/CENI/) | `1.0.5` |
+| [PELE](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) | `1.0.6` |
+
+### Repository files / Arquivos do repositório
+
+- [Thunderstore package sources](thundermods-traduzidos/)
+- [Translations by original mod](mods/)
+- [P.E.L.E source and language data](PELE/)
+- [SandGlass source and packages](thundermods-traduzidos/Jaosnake-SandGlass/)
 
 ## 🧩 Mods In `mods/`
 
