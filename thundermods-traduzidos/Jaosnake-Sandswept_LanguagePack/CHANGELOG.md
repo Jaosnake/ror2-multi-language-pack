@@ -1,14 +1,19 @@
+## 1.0.4
+
+- Added Thai, Hindi and Arabic translations. Install P.E.L.E 1.0.8 or newer to use them.
+- Improved support for item descriptions that change with your settings.
+
+# Changelog
+
 ## 1.0.3
-- Updated compatibility to SandsweptTeam-Sandswept 1.4.6.
-- Established official canonical catalog of 289 tokens across all 15 languages.
-- Fixed upstream formatting bug from original mod where `<style=cShrine>...</color>` was erroneously used instead of `</style>`.
-- Sanitized unescaped internal double-quotes in Red Spring Water lore.
-- Added full support for Latin (`la`), Esperanto (`eo`), and Latin American Spanish (`es-419`), bringing the pack to 15 complete languages.
-- Strict UTF-8 with zero BOM, zero mojibake, and 100% tag/placeholder parity.
+
+- Updated for Sandswept 1.4.6 and improved how item stories and highlights display.
+- Added Latin, Esperanto and Latin American Spanish.
 
 ## 1.0.2
-- Fixed mojibake, accent issues, language tokens, and untranslated English fallbacks.
-- Rebuilt the R2API.Language package for manual Thunderstore upload.
+
+- Fixed accented characters and text that was still appearing in English.
 
 ## 1.0.1
-- Fixed credits that were polluting the interface due to an error during file upload.
+
+- Fixed credits appearing inside the game interface.

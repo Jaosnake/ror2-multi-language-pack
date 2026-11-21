@@ -1,6 +1,14 @@
+## 2.0.5
+
+- Added Thai, Hindi and Arabic translations. Install P.E.L.E 1.0.8 or newer to use them.
+- Improved several descriptions to follow the current mod settings.
+
 ## 2.0.4
-- Synchronized dependencies and translation updates for TeamMoonstorm-Starstorm2-0.6.46.
-- Ensured full compatibility with RiskofThunder-R2API_Language-1.1.0.
+- Synchronized package with the latest Starstorm 2 release (v0.6.46).
+- Added 22 brand new translation tokens (Bucket of Toy Soldiers, Chirr/Commando skins, Chirr/Commando achievements, Tactical Leap, Seismic Spear, Security Barrel).
+- Updated 64 dynamic placeholder tokens ({0}, {1}) across all languages to reflect official item/equipment stat formula reworks.
+- Fixed Issue #1: Corrected unclosed style tag in Russian Typhoon difficulty description (SS2_DIFFICULTY_TYPHOON_DESC).
+- Comprehensive audit across all 12 supported language files, ensuring UTF-8 without BOM, strict JSON validity, and 100% balanced TextMeshPro tags.
 
 ## 2.0.3
 - Updated to stay in sync with the latest StarStorm2 version.

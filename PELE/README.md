@@ -1,17 +1,21 @@
 # P.E.L.E - Plugin for Enhanced Language Extension
 
 P.E.L.E expands Risk of Rain 2 language support beyond the game's built-in
-language list. It adds native support for Ukrainian, Esperanto, and Latin while
+language list. It adds support for Ukrainian, Esperanto, Latin, Thai, Hindi, and Arabic while
 remaining compatible with mods that already depend on `R2API.Language`.
 
 It was created because custom community languages need more than translated
 text files: they need menu entries, font support, reliable token loading, and a
 way to keep many mod translations working as one coherent language pack.
 
+## Thai, Hindi and Arabic
+
+P.E.L.E includes base-game translations, fonts and language selection for these three languages. For mod content, install the separate [Sandswept LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Sandswept_LanguagePack/) and [Starstorm 2 LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Starstorm2_LanguagePack/) as needed. **A short delay is normal:** Thai, Hindi and Arabic need extra text preparation because the game does not natively support these writing systems. When you change languages or open a new screen, you may briefly see question marks before the translated text appears. Some content may remain in English, and a few interface elements may still show question marks.
+
 ## What P.E.L.E Adds
 
 - Native custom language support for Ukrainian (`uk`), Esperanto (`eo`), and
-  Latin (`la`).
+  Latin (`la`), Thai (`th`), Hindi (`hi`), and Modern Standard Arabic (`ar`).
 - P.E.L.E JSON translation packs for the base game and supported mods.
 - Priority loading for P.E.L.E translations when another pack has the same
   token.
@@ -77,9 +81,17 @@ P.E.L.E replaces the `R2API.Language.dll` provided by
 that depend on `R2API.Language` continue to work normally.
 
 Some mods also install the upstream `RiskofThunder-R2API_Language` as a
-dependency. BepInEx selects the higher-version P.E.L.E fork with the same plugin
-GUID; keep both packages managed by the mod manager. Do not manually add extra
-copies of the fork. Compatibility with all mods and future versions is not
+dependency. P.E.L.E includes `PELE.LanguageGuard.dll`, a BepInEx preloader that
+prevents a known duplicate from installing conflicting language hooks. When the
+included P.E.L.E fork and the recognized upstream DLL are both present, it
+backs up the upstream DLL to `BepInEx/PELE-LanguageGuard-backup`, records its
+original relative path in `restore-paths.txt`, and removes that duplicate from
+the active plugins folder. Other versions are left untouched.
+
+The backup is not restored automatically if P.E.L.E is removed. To restore it,
+reinstall `RiskofThunder-R2API_Language` with your mod manager, or copy the
+backed-up DLL to the path recorded in `restore-paths.txt`. Do not manually add
+extra copies of the fork. Compatibility with other versions and mods is not
 guaranteed.
 
 ## Dependencies
@@ -99,6 +111,7 @@ provides the replacement `R2API.Language.dll` itself.
 
 When P.E.L.E provides a token, it wins over other language packs. If P.E.L.E
 does not provide that token, the normal game/mod language fallback is used.
+Standalone language packs are available separately. Some older bundled translations remain in P.E.L.E; see each pack for language support.
 
 ## Included Three-Language Mod Support
 
@@ -112,7 +125,7 @@ author officially ships those languages.
 This list was checked against the P.E.L.E language files included in this
 release, not against the mods currently installed in a local profile.
 
-All mods listed below include P.E.L.E JSON support for:
+The mods below include P.E.L.E JSON support for the listed languages, except Starstorm 2, which includes Esperanto and Latin only. For its Ukrainian, Thai, Hindi and Arabic translations, install its separate LanguagePack:
 
 ```text
 Ukrainian (uk) | Esperanto (eo) | Latin (la)
@@ -152,12 +165,11 @@ Ukrainian (uk) | Esperanto (eo) | Latin (la)
 | Rifter | [toastyTeam / Rifter](https://thunderstore.io/c/riskofrain2/p/toastyTeam/Rifter/) |
 | RiskyTweaks | [Risky_Lives / RiskyTweaks](https://thunderstore.io/c/riskofrain2/p/Risky_Lives/RiskyTweaks/) |
 | Rocket | [EnforcerGang / Rocket](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Rocket/) |
-| Sandswept | [SandsweptTeam / Sandswept](https://thunderstore.io/c/riskofrain2/p/SandsweptTeam/Sandswept/) |
 | Seamstress | [tsuyoikenko / Seamstress](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Seamstress/) |
 | Sniper Classic | [EnforcerGang / SniperClassic](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/) |
 | Sorceress | [Frosthex / SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) |
 | Spearman | [SaucySquash / Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) |
-| Starstorm 2 | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
+| Starstorm 2 (Esperanto and Latin) | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
 | Trunks | [kinggrinyov / Trunks](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/) |
 | Vegeta | [kinggrinyov / Vegeta](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Vegeta/) |
 | Wanderer | [tsuyoikenko / Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) |
@@ -169,10 +181,18 @@ The following separate translation packs include Ukrainian, Esperanto and Latin 
 
 | Mod | Translation pack |
 | --- | --- |
+| Aetherium | [Aetherium LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Aetherium_LanguagePack/) |
 | Caeli Imperium | [Caeli Imperium LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Caeli_Imperium_LanguagePack/) |
 | Celestial War Tank | [Celestial War Tank LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Celestial_War_Tank_LanguagePack/) |
+| Drow Ranger | [Drow Ranger LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/DrowRanger_LanguagePack/) |
 | Ganondorf | [Ganondorf LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Ganondorf_LanguagePack/) |
+| HedgehogUtils | [HedgehogUtils LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/HedgehogUtils_LanguagePack/) |
+| RealerMysticsItems | [RealerMysticsItems LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/RealerMysticsItems_LanguagePack/) |
+| Sandswept | [Sandswept LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/Sandswept_LanguagePack/) |
+| Sonic the Hedgehog | [Sonic the Hedgehog LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SonicTheHedgehog_LanguagePack/) |
+| Swan Song Extended | [Swan Song Extended LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/SwanSongExtended_LanguagePack/) |
 | The House | [The House LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/TheHouse_LanguagePack/) |
+| Ultron Survivor | [Ultron Survivor LanguagePack](https://thunderstore.io/c/riskofrain2/p/Jaosnake/UltronSurvivor_LanguagePack/) |
 
 ## More Jaosnake Translations
 

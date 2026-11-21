@@ -1,11 +1,15 @@
 # 🌍 Jaosnake-Sandswept_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Sandswept** by **SandsweptTeam**.
 
 ---
+
+Para jogar em tailandês, hindi ou árabe, instale também o [P.E.L.E 1.0.8 ou superior](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
+
+For Thai, Hindi or Arabic, also install [P.E.L.E 1.0.8 or newer](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
 
 ### 🇧🇷 Recomendação do P.E.L.E
 Para compatibilidade completa com todos os recursos e suporte a idiomas adicionais como Ucraniano (UA), Esperanto (eo) e Latim (la), recomendamos a instalação do [P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/).
@@ -21,7 +25,7 @@ For complete compatibility with all language features and support for Ukrainian 
 | SandsweptTeam-Sandswept | `1.4.6` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Supported Languages (15)
+## 🌐 Supported Languages (18)
 | Flag | Language | Code | Tokens |
 |:---:|---|:---:|:---:|
 | 🇺🇸 | English | `en` | 289/289 |
@@ -39,6 +43,10 @@ For complete compatibility with all language features and support for Ukrainian 
 | 🇨🇳 | Chinese (Simplified) | `zh-CN` | 289/289 |
 | 🟩 | Esperanto | `eo` | 289/289 |
 | 🏛️ | Latin | `la` | 289/289 |
+
+| 🇹🇭 | Thai | `th` | — |
+| 🇮🇳 | Hindi | `hi` | — |
+| 🌐 | Arabic | `ar` | — |
 
 ## 👤 Credits
 | Role | Name |
