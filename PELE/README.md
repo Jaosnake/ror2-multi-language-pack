@@ -202,6 +202,10 @@ other languages they already cover.
 
 [Jaosnake packages on Thunderstore](https://thunderstore.io/c/riskofrain2/p/Jaosnake/)
 
+## Source code
+
+The [Thai, Hindi and Arabic language support and ShapeText renderer source](https://github.com/Jaosnake/ror2-multi-language-pack/tree/main/PELE/Source/LanguageSupport) includes build instructions and an explanation of the local text-rendering helper.
+
 ## Documentation
 
 More technical details are available here:
