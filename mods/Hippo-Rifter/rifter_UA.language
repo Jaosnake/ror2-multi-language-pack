@@ -1,0 +1,31 @@
+{
+  "UA": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter використовує стратегічне позиціонування, щоб створювати нищівні розломи в реальності.<color=#CCD3E0>\n\n<!> Розломи сходяться на ідеальній дистанції — позиціонування є ключовим!\n\n<!> Блукаючий розлом можна використовувати як мобільне джерело шкоди.\n\n<!> Деякі навички можуть телепортувати ворогів, а частина з них залежить від умов. Використовуйте цю силу, щоб тримати ворогів на відстані.\n\n<!> Часова пастка може стати потужним інструментом, щоб зібрати ворогів разом і підірвати їх усіх одразу!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "Розколотий",
+    "BLAKE_RIFTER_LORE": "\"...Смішно...\"\r\n\r\n\"Ага. Дуже смішно.\"\r\n\r\n\"Воно просто... з'явилося?\"\r\n\r\n\"Ну, принаймні вони тримаються саме цієї версії.\"\r\n\r\n\"Хм. Ніколи б не подумав, що саме від <i>нас</i> приховуватимуть секрети.\"\r\n\r\n\"Гадаю, вони не можуть дозволити, щоб їхній Науковий відділ знав усе, що потрапляє до них.\"\r\n\r\nHannegan вдивився крізь дивну склоподібну субстанцію. Йому хотілося описати її як скло, але потреба в конкретних доказах взяла гору. А ще йому хотілося постукати по ній.\r\n\r\nВін постукав.\r\n\r\nВона забриніла на вельми своєрідній частоті, майже... немов випадала з часу й поверталася назад? Він зберіг цю думку в голові, але не поспішав робити висновки.\r\n\r\n\"Hannegan, ти знаєш, як я ненавиджу, коли ти торкаєшся зразків без дозволу.\"\r\n\r\n\"Дозволу торкнутися?\"\r\n\r\n\"...Так... Воно не реагує на дотик.\"\r\n\r\n\"Вони уточнили матеріал цієї... склоподібної штуки?\"\r\n\r\n\"Ні. І це не те, що нас цікавить.\"\r\n\r\nПровідний науковець, D.O. Harold Schmeuller, вказав жестом на склоподібну субстанцію, але не на саму субстанцію. Він указав на те, що було <i>всередині</i>.\r\n\r\n\"Кажуть, вони отримали показники грубого, але незбагненно передового об'єкта, здатного телепортувати предмети.\"\r\n\r\n\"Ти кажеш про це так, ніби це щось особливе. Ми вже знайшли спосіб телепортувати речі. У чому різниця?\"\r\n\r\n\"Розвіддані, які мені передали, свідчать, що воно з'явилося не просто крізь простір -- а крізь <i>час</i>.\"\r\n\r\n\"Час? Це неможли—\"\r\n\r\n\"Неможливо, так. Хіба що це не так. Наше завдання тут — з'ясувати, як ця штука телепортується крізь час і простір, і відтворити її. Project Rifter — так вони це називають. І пам'ятай, Hannegan: ми випробовуємо зброю, а <i>не</i> побутові дрібнички.",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..і так він залишив позаду розколотий світ.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..і так він зник з усіх світів.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Виживальник",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Розкол",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Зупиняє ворогів на місці та зменшує їхню броню на 30 на 3 с.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Сфокусований розлом",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Прицільтеся та вистріліть розломом на <style=cIsDamage>300% - 500% шкоди</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Збіжні розломи",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Прицільтеся та вистріліть шістьма розломами по <style=cIsDamage>100% шкоди</style> кожен. Ігнорує рельєф.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Блукаючий розлом",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Кидає повільний сплячий розлом. Розлом активується на <style=cIsDamage>300% шкоди</style>, коли активується інший розлом. При зіткненні вибухає на <style=cIsDamage>600% шкоди</style> та накладає розкол. Не може телепортувати.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Ковзний потік",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Престижний ковзний потік",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Телепортується</style> назад, залишаючи вихор, що притягує ворогів. Утримуйте, щоб зберігати позицію та <style=cIsUtility>невразливість</style> до 3 секунд.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Часова пастка",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Нищівний</style>. Створює поле, яке накладає розкол і телепортує до себе ворогів, зачеплених розломом. <style=cIsUtility>Влучання в нього розломом</style> згортає часову пастку, завдаючи <style=cIsDamage>500% шкоди</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "До сингулярності",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Розміщує 10 складених розломів, що завдають <style=cIsDamage>350% шкоди</style> <style=cStack>(* 120% за розлом)</style>. Кожен розлом на <style=cIsDamage>5% менший</style> за попередній.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Майстерність",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Граючи за Rifter, пройдіть гру або знищіть себе на складності Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Заплутування реальності",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Телепортуйте 10 або більше ворогів одночасно!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Нищівний</style><style=cSub>Шкода збільшується на <style=cIsDamage>120%</style> за кожного ураженого ворога.</style>"
+  }
+}

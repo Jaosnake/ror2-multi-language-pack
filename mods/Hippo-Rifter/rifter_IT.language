@@ -1,0 +1,31 @@
+{
+  "IT": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter sfrutta il posizionamento strategico per aprire fenditure devastanti nella realtà.<color=#CCD3E0>\n\n<!> Le fenditure convergono a una distanza ideale: il posizionamento è fondamentale!\n\n<!> Fenditura errante può essere usata come fonte mobile di danni.\n\n<!> Alcune abilità possono teletrasportare i nemici, mentre altre sono condizionali. Usare questo potere può tenere i nemici a distanza.\n\n<!> Blocco temporale può essere uno strumento potente per radunare i nemici e farli saltare in aria tutti insieme!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "Il Fratturato",
+    "BLAKE_RIFTER_LORE": "\"...Buffo...\"\r\n\r\n\"Già. Davvero buffo.\"\r\n\r\n\"È semplicemente... apparso?\"\r\n\r\n\"Beh, è la versione a cui si attengono, almeno.\"\r\n\r\n\"Mh. Non avrei mai immaginato che <i>noi</i> saremmo stati quelli a cui nascondono i segreti.\"\r\n\r\n\"Immagino che non possano lasciare che la loro Divisione Scientifica sappia tutto ciò che capita loro tra le mani.\"\r\n\r\nHannegan sbirciò attraverso la strana sostanza vitrea. Avrebbe voluto descriverla come vetro, ma il suo bisogno di prove concrete ebbe la meglio. Aveva anche voglia di picchiettarla.\r\n\r\nLa picchiettò.\r\n\r\nRisuonò a una frequenza molto peculiare, quasi... come se stesse entrando e uscendo dal tempo? Tenne a mente quel pensiero, ma esitò a trarne conclusioni.\r\n\r\n\"Hannegan, sai quanto odio quando tocchi i campioni senza permesso.\"\r\n\r\n\"Permesso di toccarlo?\"\r\n\r\n\"...Sì... Non reagisce al tatto.\"\r\n\r\n\"Hanno specificato il materiale di questa... roba vitrea?\"\r\n\r\n\"No. E non è ciò che ci interessa.\"\r\n\r\nLo scienziato capo, D.O. Harold Schmeuller, fece un cenno verso la sostanza vitrea, ma non verso la sostanza in sé. Indicò ciò che c'era <i>dentro</i>.\r\n\r\n\"Dicono di aver rilevato un oggetto rozzo, ma incomprensibilmente avanzato, che ha la capacità di teletrasportare oggetti.\"\r\n\r\n\"La fai sembrare una cosa speciale. Abbiamo già trovato il modo di teletrasportare oggetti. Qual è la differenza?\"\r\n\r\n\"Le informazioni che ho ricevuto suggeriscono che sia apparso — non solo attraverso lo spazio — ma attraverso il <i>tempo</i>.\"\r\n\r\n\"Il tempo? È impossi-\"\r\n\r\n\"Impossibile, sì. A meno che non lo sia. Il nostro compito qui è scoprire come questa cosa si teletrasporti attraverso il tempo e lo spazio, e replicarla. Project Rifter, così lo chiamano. Inoltre, ricorda, Hannegan: noi testiamo armi, <i>non</i> oggetti di comodità.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..e così si lasciò alle spalle un mondo fratturato.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..e così svanì da tutti i regni.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Sopravvissuto",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Frantumazione",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Blocca sul posto i nemici e riduce l'armatura di 30 per 3 s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Fenditura focalizzata",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Mira e spara una fenditura per <style=cIsDamage>300% - 500% di danni</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Fenditure convergenti",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Mira e spara sei fenditure per <style=cIsDamage>100% di danni</style> ciascuna. Ignora il terreno.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Fenditura errante",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Lancia una fenditura lenta e dormiente. La fenditura si attiva per <style=cIsDamage>300% di danni</style> quando si attiva un'altra fenditura. All'impatto esplode per <style=cIsDamage>600% di danni</style> e applica Frantumazione. Non può teletrasportare.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Scia",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Scia di prestigio",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teletrasportati</style> all'indietro, lasciando un vortice che attira i nemici. Tieni premuto per mantenere la posizione e l'<style=cIsUtility>invulnerabilità</style> fino a 3 secondi.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Blocco temporale",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Schiacciante</style>. Crea un campo che applica Frantumazione e fa sì che i nemici colpiti da fenditure si teletrasportino verso di esso. <style=cIsUtility>Colpirlo con una fenditura</style> fa collassare il blocco temporale per <style=cIsDamage>500% di danni</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Alla singolarità",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Posiziona 10 fenditure sovrapposte, infliggendo <style=cIsDamage>350% di danni</style> <style=cStack>(* 120% per fenditura)</style>. Ogni fenditura è <style=cIsDamage>5% più piccola</style> della precedente.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Maestria",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Come Rifter, completa il gioco o obliterati in Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Intrecciare la realtà",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teletrasporta 10 o più nemici contemporaneamente!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Schiacciante</style><style=cSub>Danni aumentati del <style=cIsDamage>120%</style> per ogni nemico colpito.</style>"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "zh-CN": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter运用策略性走位，在现实中撕开毁灭性的裂隙。<color=#CCD3E0>\n\n<!> 裂隙会在理想距离汇聚——站位至关重要！\n\n<!> 游荡裂隙可以作为可移动的伤害来源使用。\n\n<!> 部分技能可以传送敌人，其中一些则需要满足特定条件。善用这种力量就能将敌人拒之门外。\n\n<!> 时间锁是聚集敌人并将其一网打尽的强大工具！\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "破碎之人",
+    "BLAKE_RIFTER_LORE": "“……真有意思……”\r\n\r\n“是啊，真够有意思的。”\r\n\r\n“它就这么……凭空出现了？”\r\n\r\n“至少他们一直都是这么坚持的。”\r\n\r\n“呵。真没想到，有一天连<i>我们</i>也会成了被隐瞒的对象。”\r\n\r\n“我想他们总不能让科学部门知道所有经手的东西吧。”\r\n\r\nHannegan透过那块奇特的玻璃状物质向里张望。他很想直接称之为玻璃，但对确凿证据的执念占了上风。他还很想伸手敲一敲它。\r\n\r\n他敲了一下。\r\n\r\n它以一种极其古怪的频率产生了共鸣，几乎……就像在时间的里外反复闪烁穿行？他把这个念头记在心里，但并没有贸然下结论。\r\n\r\n“Hannegan，你知道我有多讨厌你未经允许就乱碰样本。”\r\n\r\n“那我可以碰它吗？”\r\n\r\n“……可以……它对触碰没有反应。”\r\n\r\n“他们有没有说明这种……玻璃状东西的材质？”\r\n\r\n“没有。而且那也不是我们关注的重点。”\r\n\r\n首席科学家D.O. Harold Schmeuller朝玻璃状物质比画了一下，但指的并不是物质本身。他指向的是藏在<i>里面</i>的东西。\r\n\r\n“他们说检测到了一个既粗糙又先进得难以理解的物体，它具备传送物体的能力。”\r\n\r\n“听你这么说好像很特别似的。我们早就掌握传送物体的方法了，这有什么区别？”\r\n\r\n“我拿到的情报显示，它出现的方式——不只是跨越空间——而是跨越了<i>时间</i>。”\r\n\r\n“时间？这不可——”\r\n\r\n“不可能，没错。除非它确实可能。我们在这里的任务，就是弄清楚这东西如何穿越时空进行传送，并将其复制出来。他们称之为Project Rifter。还有，记住，Hannegan，我们测试的是武器，<i>不是</i>便民工具。”",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "……于是，他留下了一个支离破碎的世界。",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "……于是，他从所有领域中消失了。",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "生存专家",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "粉碎",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "使敌人原地定身，并在3秒内降低其30点护甲。",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "聚焦裂隙",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "瞄准并射出一道裂隙，造成<style=cIsDamage>300% - 500%伤害</style>。",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "汇聚裂隙",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "瞄准并射出六道裂隙，每道造成<style=cIsDamage>100%伤害</style>。无视地形。",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "游荡裂隙",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "抛出一道缓慢移动的休眠裂隙。当另一道裂隙激活时，该裂隙也会随之激活并造成<style=cIsDamage>300%伤害</style>。撞击时会发生爆炸，造成<style=cIsDamage>600%伤害</style>并施加粉碎。无法传送。",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "滑流",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "至臻滑流",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "向后<style=cIsUtility>传送</style>，留下一个将敌人拉向中心的漩涡。按住可维持位置和<style=cIsUtility>无敌</style>状态最多3秒。",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "时间锁",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>碾压</style>。生成一个施加粉碎并使被裂隙击中的敌人传送至自身位置的力场。<style=cIsUtility>用裂隙击中力场</style>会使时间锁坍缩，造成<style=cIsDamage>500%伤害</style>。",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "归于奇点",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "布设10道叠加的裂隙，造成<style=cIsDamage>350%伤害</style><style=cStack>（每道裂隙* 120%）</style>。每道裂隙都比上一道<style=cIsDamage>小5%</style>。",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter：精通",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "使用Rifter在Monsoon难度下通关游戏或抹除自己。",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter：纠缠现实",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "一次性传送10名或以上敌人！",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>碾压</style><style=cSub>每命中一名敌人，伤害提高<style=cIsDamage>120%</style>。</style>"
+  }
+}

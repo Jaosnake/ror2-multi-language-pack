@@ -1,0 +1,31 @@
+{
+  "FR": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter exploite le positionnement stratégique pour ouvrir des failles dévastatrices dans la réalité.<color=#CCD3E0>\n\n<!> Les failles convergent à une distance idéale : le positionnement est essentiel !\n\n<!> Faille errante peut servir de source mobile de dégâts.\n\n<!> Certaines compétences peuvent téléporter les ennemis, tandis que d'autres sont conditionnelles. Utiliser ce pouvoir permet de tenir les ennemis à distance.\n\n<!> Verrou temporel peut être un outil redoutable pour rassembler les ennemis et tous les faire exploser d'un coup !\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "Le Fracturé",
+    "BLAKE_RIFTER_LORE": "\"...Drôle...\"\r\n\r\n\"Ouais. Vraiment drôle.\"\r\n\r\n\"C'est juste... apparu ?\"\r\n\r\n\"Eh bien, c'est la version à laquelle ils s'en tiennent, du moins.\"\r\n\r\n\"Tiens. Je n'aurais jamais imaginé que <i>nous</i> serions ceux à qui ils cacheraient des secrets.\"\r\n\r\n\"J'imagine qu'ils ne peuvent pas laisser leur Division Scientifique tout savoir de ce qui leur tombe entre les mains.\"\r\n\r\nHannegan scruta l'étrange substance vitreuse. Il aurait voulu la décrire comme du verre, mais son besoin de preuves concrètes reprit le dessus. Il avait aussi envie de la tapoter.\r\n\r\nIl la tapota.\r\n\r\nElle résonna à une fréquence très singulière, presque... comme si elle entrait et sortait du temps ? Il garda cette pensée en tête, mais hésita à en tirer des conclusions.\r\n\r\n\"Hannegan, tu sais à quel point je déteste quand tu touches aux échantillons sans autorisation.\"\r\n\r\n\"Une autorisation pour y toucher ?\"\r\n\r\n\"...Oui... Ce n'est pas réactif au toucher.\"\r\n\r\n\"Ont-ils précisé le matériau de ce... truc vitreux ?\"\r\n\r\n\"Non. Et ce n'est pas ce qui nous intéresse.\"\r\n\r\nLe scientifique en chef, D.O. Harold Schmeuller, fit un geste vers la substance vitreuse, mais pas vers la substance elle-même. Il désigna ce qui se trouvait <i>à l'intérieur</i>.\r\n\r\n\"Ils disent avoir relevé les mesures d'un objet rudimentaire, mais incompréhensiblement avancé, capable de téléporter des objets.\"\r\n\r\n\"Tu fais sonner ça comme quelque chose d'exceptionnel. Nous savons déjà téléporter des choses. Quelle est la différence ?\"\r\n\r\n\"Les renseignements que j'ai reçus suggèrent qu'il est apparu — pas seulement à travers l'espace — mais à travers le <i>temps</i>.\"\r\n\r\n\"Le temps ? C'est impossi-\"\r\n\r\n\"Impossible, oui. À moins que ça ne le soit pas. Notre mission ici est de découvrir comment cette chose se téléporte à travers le temps et l'espace, et de la reproduire. Project Rifter, c'est ainsi qu'ils l'appellent. Et n'oublie pas, Hannegan : nous testons des armes, <i>pas</i> des gadgets pratiques.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..et ainsi il laissa derrière lui un monde fracturé.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..et ainsi il disparut de tous les royaumes.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Survivaliste",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Brisure",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Stoppe net les ennemis et réduit leur armure de 30 pendant 3 s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Faille focalisée",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Vise et tire une faille infligeant <style=cIsDamage>300% - 500% de dégâts</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Failles convergentes",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Vise et tire six failles infligeant <style=cIsDamage>100% de dégâts</style> chacune. Ignore le terrain.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Faille errante",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Lance une faille lente et dormante. La faille s'active pour <style=cIsDamage>300% de dégâts</style> lorsqu'une autre faille s'active. À l'impact, elle explose pour <style=cIsDamage>600% de dégâts</style> et applique Brisure. Ne peut pas téléporter.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Sillage",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Sillage de prestige",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Téléporte</style> vers l'arrière en laissant un vortex qui attire les ennemis. Maintenez pour conserver votre position et l'<style=cIsUtility>invulnérabilité</style> pendant jusqu'à 3 secondes.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Verrou temporel",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Écrasant</style>. Crée un champ qui applique Brisure et force les ennemis touchés par une faille à se téléporter vers lui. <style=cIsUtility>Le frapper avec une faille</style> fait s'effondrer le verrou temporel pour <style=cIsDamage>500% de dégâts</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Vers la singularité",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Positionne 10 failles superposées, infligeant <style=cIsDamage>350% de dégâts</style> <style=cStack>(* 120% par faille)</style>. Chaque faille est <style=cIsDamage>5% plus petite</style> que la précédente.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter : Maîtrise",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que Rifter, terminez le jeu ou oblitérez-vous en Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter : Enchevêtrement du réel",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Téléportez 10 ennemis ou plus d'un seul coup !",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Écrasant</style><style=cSub>Dégâts augmentés de <style=cIsDamage>120%</style> par ennemi touché.</style>"
+  }
+}

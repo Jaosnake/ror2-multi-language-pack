@@ -1,0 +1,31 @@
+{
+  "de": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter nutzt strategische Positionierung, um verheerende Risse in der Realität zu erzeugen.<color=#CCD3E0>\n\n<!> Risse konvergieren auf eine ideale Distanz – Positionierung ist entscheidend!\n\n<!> Wandernder Riss kann als mobile Schadensquelle genutzt werden.\n\n<!> Bestimmte Fertigkeiten können Gegner teleportieren, während einige an Bedingungen geknüpft sind. Nutze diese Macht, um Gegner auf Abstand zu halten.\n\n<!> Zeitsperre kann ein mächtiges Werkzeug sein, um Gegner zu sammeln und sie alle auf einmal wegzusprengen!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "Der Gebrochene",
+    "BLAKE_RIFTER_LORE": "\"...Komisch...\"\r\n\r\n\"Ja. Wirklich komisch.\"\r\n\r\n\"Es ist einfach... erschienen?\"\r\n\r\n\"Nun, zumindest bleiben sie bei dieser Aussage.\"\r\n\r\n\"Hm. Hätte mir nie vorstellen können, dass <i>wir</i> diejenigen sind, vor denen sie Geheimnisse haben.\"\r\n\r\n\"Ich schätze, sie können nicht zulassen, dass ihre Wissenschaftsabteilung alles erfährt, was ihnen in die Hände fällt.\"\r\n\r\nHannegan spähte durch die seltsame, glasige Substanz. Er wollte sie als Glas beschreiben, doch sein Bedürfnis nach handfesten Beweisen behielt die Oberhand. Außerdem wollte er dagegen klopfen.\r\n\r\nEr klopfte dagegen.\r\n\r\nSie resonierte in einer sehr eigentümlichen Frequenz, fast... als würde sie in die Zeit hinein- und wieder herausgleiten? Er behielt den Gedanken im Hinterkopf, zögerte jedoch, Schlüsse daraus zu ziehen.\r\n\r\n\"Hannegan, du weißt, wie sehr ich es hasse, wenn du Proben ohne Erlaubnis anfasst.\"\r\n\r\n\"Erlaubnis, es anzufassen?\"\r\n\r\n\"...Ja... Es reagiert nicht auf Berührung.\"\r\n\r\n\"Haben sie das Material dieses... glasigen Zeugs genauer angegeben?\"\r\n\r\n\"Nein. Und das ist auch nicht unser Hauptinteresse.\"\r\n\r\nDer leitende Wissenschaftler, D.O. Harold Schmeuller, deutete auf die glasige Substanz, jedoch nicht auf die Substanz selbst. Er zeigte auf das, was <i>darin</i> war.\r\n\r\n\"Sie sagen, sie hätten Messwerte eines groben, aber unbegreiflich fortschrittlichen Objekts erhalten, das die Fähigkeit besitzt, Gegenstände zu teleportieren.\"\r\n\r\n\"Du lässt das so besonders klingen. Wir haben längst einen Weg gefunden, Dinge zu teleportieren. Wo liegt der Unterschied?\"\r\n\r\n\"Die Informationen, die ich erhalten habe, deuten darauf hin, dass es nicht nur durch den Raum erschien -- sondern durch die <i>Zeit</i>.\"\r\n\r\n\"Zeit? Das ist unmögli-\"\r\n\r\n\"Unmöglich, ja. Es sei denn, es ist es nicht. Unsere Aufgabe hier besteht darin, herauszufinden, wie dieses Ding durch Zeit und Raum teleportiert, und es zu replizieren. Project Rifter, so nennen sie es. Und vergiss nicht, Hannegan: Wir testen Waffen, <i>keine</i> Gebrauchsgegenstände.",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..und so ließ er eine zerbrochene Welt zurück.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..und so verschwand er aus allen Reichen.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Überlebenskünstler",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Zersplittern",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Stoppt Gegner auf der Stelle und verringert ihre Rüstung 3 s lang um 30.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Fokussierter Riss",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Ziele und feuere einen Riss für <style=cIsDamage>300% - 500% Schaden</style> ab.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Konvergierende Risse",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Ziele und feuere sechs Risse für je <style=cIsDamage>100% Schaden</style> ab. Ignoriert Gelände.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Wandernder Riss",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Wirf einen langsamen, ruhenden Riss aus. Der Riss wird für <style=cIsDamage>300% Schaden</style> aktiviert, wenn ein anderer Riss aktiviert wird. Beim Aufprall explodiert er für <style=cIsDamage>600% Schaden</style> und wendet Zersplittern an. Kann nicht teleportieren.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Windschatten",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Prestige-Windschatten",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teleportiere</style> dich rückwärts und hinterlasse einen Wirbel, der Gegner hineinzieht. Halte gedrückt, um bis zu 3 Sekunden lang Position und <style=cIsUtility>Unverwundbarkeit</style> beizubehalten.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Zeitsperre",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Zermalmend</style>. Erschaffe ein Feld, das Zersplittern anwendet und von Rissen getroffene Gegner zu sich teleportiert. <style=cIsUtility>Wird es von einem Riss getroffen</style>, kollabiert die Zeitsperre für <style=cIsDamage>500% Schaden</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Zur Singularität",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Positioniere 10 gestapelte Risse, die <style=cIsDamage>350% Schaden</style> <style=cStack>(* 120% pro Riss)</style> verursachen. Jeder Riss ist <style=cIsDamage>5% kleiner</style> als der vorherige.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Meisterschaft",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Schließe als Rifter das Spiel ab oder lösche dich auf Monsoon aus.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Verstrickte Realität",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleportiere 10 oder mehr Gegner gleichzeitig!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Zermalmend</style><style=cSub>Schaden um <style=cIsDamage>120%</style> pro getroffenem Gegner erhöht.</style>"
+  }
+}

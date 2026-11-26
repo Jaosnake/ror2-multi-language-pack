@@ -1,0 +1,31 @@
+{
+  "ko": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter는 전략적인 위치 선정을 통해 현실에 파괴적인 균열을 만들어 냅니다.<color=#CCD3E0>\n\n<!> 균열은 이상적인 거리에서 수렴합니다. 위치 선정이 핵심입니다!\n\n<!> 방황하는 균열은 이동식 피해 수단으로 활용할 수 있습니다.\n\n<!> 일부 스킬은 적을 순간이동시킬 수 있으며, 조건부로 발동하는 스킬도 있습니다. 이 힘을 활용하면 적을 멀리 떨어뜨려 놓을 수 있습니다.\n\n<!> 시간 고정은 적들을 한곳에 모아 한꺼번에 날려 버리는 강력한 수단이 됩니다!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "파열된 자",
+    "BLAKE_RIFTER_LORE": "\"...웃기네...\"\r\n\r\n\"그래. 정말 웃기지.\"\r\n\r\n\"그냥... 갑자기 나타났다고?\"\r\n\r\n\"적어도 위에서는 그렇게 밀어붙이고 있어.\"\r\n\r\n\"허. 설마 <i>우리</i>한테까지 비밀을 숨길 줄은 상상도 못 했는데.\"\r\n\r\n\"과학 부서가 자기들 손에 들어온 걸 전부 알게 둘 수는 없었겠지.\"\r\n\r\nHannegan은 기묘한 유리질 물질 너머를 들여다보았다. 그냥 유리라고 부르고 싶었지만, 확실한 증거를 요구하는 성미가 그것을 허락하지 않았다. 그리고 톡톡 두드려 보고 싶기도 했다.\r\n\r\n그는 그것을 두드렸다.\r\n\r\n그것은 아주 기묘한 진동수로 공명했다. 마치... 시간의 안팎을 들락날락하는 것처럼? 그는 그 생각을 머릿속에 담아 두었지만, 섣불리 결론을 내리기는 망설여졌다.\r\n\r\n\"Hannegan, 허락 없이 표본에 손대는 걸 내가 얼마나 싫어하는지 잘 알 텐데.\"\r\n\r\n\"만져 봐도 되겠습니까?\"\r\n\r\n\"...그래... 접촉에는 반응하지 않더군.\"\r\n\r\n\"이... 유리 같은 물질의 성분이 뭔지는 알려 줬나요?\"\r\n\r\n\"아니. 게다가 그건 우리의 관심사가 아니야.\"\r\n\r\n수석 과학자 D.O. Harold Schmeuller는 유리질 물질 쪽을 가리켰지만, 물질 자체가 아니었다. 그가 가리킨 것은 그 <i>안쪽</i>에 들어 있는 것이었다.\r\n\r\n\"보고에 따르면 조잡하면서도 이해할 수 없을 만큼 고도화된 물체의 수치가 관측됐다더군. 물체를 순간이동시키는 능력을 지녔다고 해.\"\r\n\r\n\"대단한 것처럼 말씀하시네요. 물건을 순간이동시키는 방법이야 우리도 이미 알아냈잖아요. 뭐가 다른 겁니까?\"\r\n\r\n\"내가 받은 첩보에 따르면, 이건 단순한 공간이 아니라――<i>시간</i>을 넘어 나타났다고 하더군.\"\r\n\r\n\"시간이요? 그건 불가—\"\r\n\r\n\"불가능하지, 그래. 불가능하지 않은 게 아니라면 말이야. 여기서 우리의 임무는 이 물체가 어떻게 시공간을 넘어 순간이동하는지 알아내고 복제하는 것이다. 저들은 이걸 Project Rifter라고 부르더군. 그리고 명심해, Hannegan. 우리가 시험하는 건 무기지, 편의용품이 <i>아니야</i>.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..그렇게 그는 산산조각 난 세계를 뒤로하고 떠났습니다.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..그렇게 그는 모든 영역에서 자취를 감췄습니다.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "생존주의자",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "분쇄",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "적을 그 자리에 멈추게 하고 3초 동안 방어력을 30 감소시킵니다.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "집중 균열",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "조준하여 균열을 발사해 <style=cIsDamage>300% - 500%의 피해</style>를 입힙니다.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "수렴 균열",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "조준하여 6개의 균열을 발사해 각각 <style=cIsDamage>100%의 피해</style>를 입힙니다. 지형을 무시합니다.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "방황하는 균열",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "느리게 날아가는 휴면 상태의 균열을 던집니다. 다른 균열이 활성화되면 함께 활성화되어 <style=cIsDamage>300%의 피해</style>를 입힙니다. 충돌 시 폭발해 <style=cIsDamage>600%의 피해</style>를 입히고 분쇄를 부여합니다. 순간이동은 불가능합니다.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "슬립스트림",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "프레스티지 슬립스트림",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "뒤로 <style=cIsUtility>순간이동</style>하며 적을 끌어당기는 소용돌이를 남깁니다. 길게 누르면 최대 3초 동안 위치와 <style=cIsUtility>무적</style> 상태를 유지합니다.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "시간 고정",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>압쇄</style>. 분쇄를 부여하고 균열에 맞은 적들을 자신에게 순간이동하게 만드는 역장을 생성합니다. <style=cIsUtility>균열로 명중시키면</style> 시간 고정이 붕괴하며 <style=cIsDamage>500%의 피해</style>를 입힙니다.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "특이점으로",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "중첩된 균열 10개를 배치해 <style=cIsDamage>350%의 피해</style> <style=cStack>(균열당 * 120%)</style>를 입힙니다. 각 균열은 이전 균열보다 크기가 <style=cIsDamage>5% 작아집니다</style>.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: 숙련",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Rifter로 Monsoon에서 게임을 클리어하거나 소멸하십시오.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: 뒤엉킨 현실",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "한 번에 10명 이상의 적을 순간이동시키십시오!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>압쇄</style><style=cSub>적중한 적 하나당 피해가 <style=cIsDamage>120%</style> 증가합니다.</style>"
+  }
+}

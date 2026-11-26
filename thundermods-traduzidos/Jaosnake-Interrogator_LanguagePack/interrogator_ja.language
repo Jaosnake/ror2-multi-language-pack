@@ -1,24 +1,25 @@
 {
-    "ja": {
-        "KENKO_INTERROGATOR_NAME": "Interrogator",
-        "KENKO_INTERROGATOR_SUBTITLE": "狂気の拷問者",
-        "KENKO_INTERROGATOR_PASSIVE_NAME": "拷問",
-        "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "Interrogatorは味方と敵を攻撃でき、どちらからも攻撃を受ける。Interrogatorに攻撃を当てた相手は有罪とマークされる。",
-        "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "警棒を前に振り、<style=cIsDamage>320%のダメージ</style>を与える。攻撃を外すと代わりに<style=cIsDamage>ダメージ</style>を受ける。",
-        "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "クレイバーを投げ、<style=cIsDamage>450%のダメージ</style>を与える。<style=cIsDamage>屠殺者.</style>クレイバーが目標を殺すと、領域内の全員に出血とプレッシャーを適用する。",
-        "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "前方にダッシュし、<style=cIsDamage>390%のダメージ</style>を与え、命中した目標に有罪を適用する。",
-        "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "有罪宣告",
-        "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "有罪の敵と10秒間決闘する。あなたのプライマリーはあなたに当たらなくなり、命中時に有罪のスタックを与える。決闘中、あなたへの外部ダメージは無効になるが、目標以外の敵へのダメージも無効になる。",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "惩罰",
-        "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "有罪の敵と10秒間決闘する。あなたのプライマリーはあなたに当たらなくなり、命中時に有罪のスタックを与える。決闘中、あなたへの外部ダメージは無効になるが、目標以外の敵へのダメージも無効になる。\n<color=#d299ff>セプター: 有罪宣告は有罪でない敵も対象にできる。与えるダメージは無効化されなくなるが、75%減少する。</color>",
-        "<style=cKeywordName>Slayer</style><style=cSub>Deals up to <style=cIsDamage>3x</style> damage against low health enemies.</style>": "<style=cKeywordName>屠殺者</style><style=cSub>体力の低い敵に最大<style=cIsDamage>3倍</style>のダメージを与える。</style>",
-        "KENKO_INTERROGATOR_DESCRIPTION": "Interrogatorは他者の痛みを楽しむ。アライどうしていても傷つけすぎないように……それとも、楽しんでいい。<color=#CCD3E0>\n\n< ! > 敵や味方、さらには自分自身から攻撃を受けて能力を高めよう。誰も安全ではない。\n\n< ! > 被弾時に発動するアイテムがあるなら、Affrayで自分に出血を付与しよう。痛みなくして得るものなし。\n\n< ! > Falsifyは敵を強制的に有罪にするのに便利。非倫理的？ 何のこと？\n\n< ! > 有罪の対象にConvictを使い、罪を償わせよう。無罪が証明されるまでは有罪だ。</color>",
-        "<style=cKeywordName>Guilty</style><style=cSub>Grants <color=#FFBF66>Interrogator</color> <style=cIsDamage>attack speed</style>, <style=cIsHealing>health regen</style>, and <style=cIsDamage>damage</style> for each <color=#FFBF66>Guilty</color> target.</style>": "<style=cKeywordName>有罪</style><style=cSub>有罪の対象1体につき、Interrogatorの攻撃速度、体力再生、ダメージが増加する。</style>",
-        "<style=cKeywordName>Ally Damage</style><style=cSub>Allies take and deal less damage to each other and <color=#FFBF66>Guilty</color> expires from them after 10 seconds.</style>": "<style=cKeywordName>味方へのダメージ</style><style=cSub>味方同士が与え合うダメージは減少し、味方の有罪は10秒後に解除される。</style>",
-        "<style=cKeywordName>Hemorrhage</style><style=cSub>Deal <style=cIsDamage>2000%</style> base damage over 15s. <i>Hemorrhage</i> can stack.</style>": "<style=cKeywordName>出血</style><style=cSub>15秒間で基本ダメージの2000%を与える。出血は累積する。</style>",
-        "<style=cKeywordName>Pressured</style><style=cSub>Boost <style=cIsDamage>attack speed</style> and <style=cIsUtility>move speed</style> but lowers <style=cIsHealing>armor</style> and <style=cIsDamage>damage</style>.</style>": "<style=cKeywordName>プレッシャー</style><style=cSub>攻撃速度と移動速度が上昇するが、アーマーとダメージが低下する。</style>",
-        "KENKO_INTERROGATOR_LORE": "Dylanがたどり着いた地域ではいつものことだったが、空から静かに雪が降っていた。彼は分隊とともに持ち場に立ち、危険や救助を必要とする人を探していた。\n\n「隊長、誰かが見えます」二等兵は上官を振り返った。指揮官は最初、振り向きもせず、うなるように声を漏らした。その声は疲れていた。この惑星で失われた人のあまりの多さは、2019 Warの古参兵である彼さえも疲弊させ始めていた。今回の救助作戦は、Contact Lightの乗組員に起きたことを別にしても、ここまで散々な結果だった。\n\n「人間です。間違いありません」兵士はそう続け、まばらに木が点在する広大な白い窪地へと向き直った。彼の言うとおり、人影が雪の中をのんびりと歩いていた。昨夜の天候は悪夢のようだった。この惑星の激しい自然は谷を膝よりも深い雪で覆い、その人影の上半身しか見えなかった。\n\nDylanが双眼鏡から顔を上げると、指揮官もようやく同じ方向を向いていた。\n\n「隊長、誰かを向かわせますか？」Dylanは尋ねた。\n\n「いや」と指揮官は答えた。\n\n二等兵は一瞬景色に向き直った。「なぜです？」\n\n「あれは人間じゃない」\n\n「……人間に見えますが」二等兵は再び双眼鏡を覗きながら言った。\n\n「少なくとも、生きている人間ではない」\n\n「……あの惑星は死者を蘇らせるとでも？」\n\n「そうだとしても驚かん」\n\n兵士は双眼鏡を覗き続けた。見知らぬ相手を観察するほど、上官が違和感を覚えた理由が明らかになっていった。孤独な放浪者は大きな黒い上着を着ており、フードには厚く汚れた毛皮が付いていた。上着の袖が引きちぎられ、腕が露出していることを除けば、男は寒さに十分備えていた。人影がわずかに向きを変え、二等兵にも胴体が見えた。二等兵自身が胸に着けているものと同じ標準支給の胸甲だったが、おそらく一年以上前の旧式だった。オレンジ色の塗装は完全に剥げ、ひどく傷ついた黒い金属の表面がむき出しになっていた。ヘルメットも胸甲と対になっているようだった。標準支給のCommando装備だが、少し古い。色は日光でわずかに褪せていた。\n\nそれが誰であれ、あるいは何であれ、罠に見えた。人をおびき寄せる擬態者。まるで人間のふりをしようとしながら、そもそも人間とは何かを理解していないかのようだった。\n\n「……はい、隊長。おそらくそのとおりです」\n\n翌朝に見つかったものは、あれが人間ではないという思いをさらに強めた。Dylanの所属する分隊は偵察任務に派遣され、前日の出来事を思い出した二等兵は、あの人影がどこへ、あるいはどこから歩いていたのか調べようと仲間と指揮官を説得した。足跡は彼らを残忍な光景へと導いた。破壊されたContact Lightの野営地だった。五人以下の小さな野営地だった。哀れな五人は、目にしても真には理解できない、人間には到底できないような方法で殺されていた。それなのに、噛み跡も爪跡も、鱗もタールや毛皮の破片も、現地種の血液の痕跡もなかった。異星のものは何一つなかった。すべて人間の仕業だった。",
-        "ACHIEVEMENT_KENKO_INTERROGATOR_MASTERYACHIEVEMENT_NAME": "Interrogator: Mastery",
-        "ACHIEVEMENT_KENKO_INTERROGATOR_MASTERYACHIEVEMENT_DESCRIPTION": "Interrogatorでゲームをクリアするか、Monsoonで自身を抹消する。"
-    }
+  "ja": {
+    "KENKO_INTERROGATOR_NAME": "Interrogator",
+    "KENKO_INTERROGATOR_DESCRIPTION": "Interrogatorは他者の苦痛を糧にする。味方を傷つけて楽しみすぎないように……あるいは、存分に楽しむのもいいだろう。<color=#CCD3E0>\n\n< ! > 敵や味方、さらには自分自身から攻撃を受けることでボーナスステータスを獲得する。誰も安全ではない。\n\n< ! > 被弾時に発動するアイテムを持っているなら、乱闘を使って自分自身に大出血を付与しよう。痛みなくして得るものなし。\n\n< ! > 偽証は敵を強制的に有罪状態にするのに最適だ。非倫理的？何のことだろうか？\n\n< ! > 有罪状態の標的に有罪判決を下し、その行いへの報いを確実に受けさせよう。結局のところ、無実が証明されるまでは有罪なのだから。\n\n</color>",
+    "KENKO_INTERROGATOR_SUBTITLE": "狂気の拷問者",
+    "KENKO_INTERROGATOR_LORE": "Dylanが身を置くその地域ではいつものことだが、空から雪が静かに舞い降りていた。彼は分隊とともに警戒任務に就き、危険が迫っていないか、あるいは救助を必要とする者がいないかを見張っていた。\n\n「隊長、誰か見える気がします」二等兵は振り向いて上官の方を見た。指揮官は最初振り返りもせず、ただ低く唸っただけだった。その声には疲労が滲んでいた。この惑星で失われたあまりにも多くの命は、2019年戦争の古参兵である彼のような男さえも消耗させ始めていた。Contact Light号の乗員に起きた出来事を抜きにしても、今回の救助作戦はこれまでのところ惨憺たる結果だった。\n\n「人です、間違いありません」兵士はそう続け、まばらに木々が点在する広大な白い窪地へと視線を戻した。そして彼の言葉通りだった。確かに人影が雪の中をのんびりと歩いていたのだ。昨夜の天候は悪夢のようだった。惑星の苛烈な自然の猛威によって、谷は膝よりも深い冷たい雪の絨毯に覆われ、その人物は上半身しか見えていなかった。\n\nDylanが双眼鏡から顔を上げると、指揮官もようやく自分と同じ方向を見ていた。\n\n「隊長、誰かを向かわせますか？」Dylanは尋ねた。\n\n「いや」指揮官は答えた。\n\n二等兵は一瞬、雪原へと視線を戻した。「どうしてですか？」\n\n「あれは人間じゃない」\n\n「……どう見ても人間に見えますが」二等兵は再び双眼鏡を覗き込みながら言った。\n\n「少なくとも、生きている人間じゃない」\n\n「……この惑星が死者を蘇らせるとでも？」\n\n「そうだとしても驚かないな」\n\n兵士は双眼鏡で見つめ続けた。その見知らぬ者を長く観察するほど、上官に違和感を抱かせた奇妙な点がはっきりと見えてきた。孤独な放浪者は大きな黒いジャケットを着ており、フードには分厚く汚れた毛皮が付いていた。防寒対策は万全のように見えた――ジャケットの袖が引きちぎられ、腕がむき出しになっている点を除けば。その人物がわずかに体を傾けると、二等兵の視界に胴体が入った。二等兵自身が身に着けているのと同じ標準支給のチェストプレートを着けていたが、それは一年以上前の古い型だった。オレンジ色の塗装は完全に剥がれ落ち、無数の傷がついた黒い金属面が露わになっていた。ヘルメットもチェストプレートと対になっているようだった。少し型遅れの標準支給コマンドー装備で、色は太陽にさらされてわずかに褪せていた。\n\nそれが誰であれ――あるいは何であれ、罠のように思えた。人々をおびき寄せる擬態。まるで何かが人間を演じようとしているのに、そもそも何が人間を人間たらしめるのかを理解していないかのように。\n\n「……ええ、隊長。おっしゃる通りかもしれません」\n\n翌朝彼らが発見したものは、その存在をさらに人間から程遠いものに見せた。Dylanが所属する分隊が偵察任務に派遣された際、前日の出来事を思い出した二等兵は、仲間と指揮官を説得して、あの人影がどこへ向かっていたのか、あるいはどこから来たのかを調査することにした。足跡を辿った先にあったのは凄惨な光景だった――破壊されたContact Lightのキャンプである。5人以下の小さなキャンプだった。5人の哀れな魂が、目では到底理解できないようなやり方で、人間には決してできそうにない方法で惨殺されていた。それにもかかわらず、噛み跡も、爪痕も、鱗も、タールや毛皮の切れ端も、原住生物の血痕も一切なかった。異星由来のものは何一つなかった。すべてが、人間によるものだった。",
+    "KENKO_INTERROGATOR_OUTRO_FLAVOR": "……こうして彼は去った、さらなる「正義」を執行することにうずうずしながら。",
+    "KENKO_INTERROGATOR_OUTRO_FAILURE": "……こうして彼は消えた、己の罪の報いを受けて。",
+    "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "オルタネート",
+    "KENKO_INTERROGATOR_PASSIVE_NAME": "拷問",
+    "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "<color=#FFBF66>Interrogator</color>は味方と敵の両方に攻撃を当てることができ、また両方から攻撃を受ける。<color=#FFBF66>Interrogator</color>に攻撃を当てた者は<color=#FFBF66>有罪</color>状態になる。",
+    "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "残忍な強打",
+    "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "前方を薙ぎ払い、<style=cIsDamage>320%のダメージ</style>を与える。攻撃を外すと、代わりに自分が<style=cIsDamage>ダメージ</style>を受ける。",
+    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "乱闘",
+    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>スレイヤー。</style>肉切り包丁を投げ、<style=cIsDamage>450%のダメージ</style>を与える。<color=#FFBF66>乱闘</color>で標的を倒すと、周囲の全員に<style=cIsHealth>大出血</style>と<color=#FFBF66>重圧</color>を付与する。",
+    "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "偽証",
+    "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "前方へ突進して<style=cIsDamage>390%のダメージ</style>を与え、命中した標的に<color=#FFBF66>有罪</color>を付与する。",
+    "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "有罪判決",
+    "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "<color=#FFBF66>有罪</color>状態の敵と10秒間決闘する。メインスキルが自分に当たらなくなり、命中時に<color=#FFBF66>有罪</color>のスタックを付与する。決闘中、外部から自分への<style=cIsDamage>ダメージ</style>は無効化されるが、標的以外の敵に与える<style=cIsDamage>ダメージ</style>も<style=cIsUtility>無効化</style>される。",
+    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "断罪",
+    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "<color=#FFBF66>有罪</color>状態の敵と10秒間決闘する。メインスキルが自分に当たらなくなり、命中時に<color=#FFBF66>有罪</color>のスタックを付与する。決闘中、外部から自分への<style=cIsDamage>ダメージ</style>は無効化されるが、標的以外の敵に与える<style=cIsDamage>ダメージ</style>も<style=cIsUtility>無効化</style>される。有罪判決は有罪状態でない敵も標的にできるようになり、自分が与えるダメージは無効化されず75%軽減される。",
+    "ACHIEVEMENT_KENKO_INTERROGATOR_masteryAchievement_NAME": "Interrogator：マスタリー",
+    "ACHIEVEMENT_KENKO_INTERROGATOR_masteryAchievement_DESCRIPTION": "InterrogatorでMonsoonのゲームをクリアするか、抹消される。"
+  }
 }

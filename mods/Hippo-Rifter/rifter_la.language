@@ -1,0 +1,31 @@
+{
+  "la": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter loco strategico utitur ut rimas vastantes in realitate creet.<color=#CCD3E0>\n\n<!> Rimae ad spatium optimum conveniunt — positio maximi momenti est!\n\n<!> Rima Errans ut fons damni mobilis adhiberi potest.\n\n<!> Quaedam artes hostes teletransportare possunt, aliae autem condicionales sunt. Hac vi utendo hostes procul tenere potes.\n\n<!> Clausura Temporis instrumentum validum esse potest ad hostes congregandos et omnes simul disiciendos!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "Fractus",
+    "BLAKE_RIFTER_LORE": "\"...Mirum...\"\r\n\r\n\"Ita. Valde mirum.\"\r\n\r\n\"Modo... apparuit?\"\r\n\r\n\"Saltem hoc est quod illi affirmant.\"\r\n\r\n\"Hem. Numquam putavi <i>nos</i> fore eos quibus secreta celarent.\"\r\n\r\n\"Credo eos non posse pati ut Divisio Scientifica omnia quae ad se veniunt cognoscat.\"\r\n\r\nHannegan per miram substantiam vitream prospexit. Eam vitrum appellare voluit, sed desiderium certorum argumentorum eum vicit. Etiam eam leviter percutere voluit.\r\n\r\nPercussit eam.\r\n\r\nFrequentia admodum singulari resonuit, paene... quasi in tempus intraret atque exiret? Cogitationem mente servavit, sed ex ea conclusiones ducere dubitavit.\r\n\r\n\"Hannegan, scis quantum oderim cum exemplaria sine venia tangis.\"\r\n\r\n\"Venia ad tangendum?\"\r\n\r\n\"...Ita... Tactui non respondet.\"\r\n\r\n\"Num materiam huius... rei vitreae indicaverunt?\"\r\n\r\n\"Non. Neque id nobis curae est.\"\r\n\r\nPrinceps scientiarum, D.O. Harold Schmeuller, ad substantiam vitream manu monstravit, non tamen ad substantiam ipsam. Monstravit id quod <i>intus</i> erat.\r\n\r\n\"Dicunt se mensuras cepisse rei rudis, attamen incomprehensibiliter provectae, quae vim habet res teletransportandi.\"\r\n\r\n\"Hoc quasi singulare narras. Iam rationem invenimus res teletransportandi. Quid interest?\"\r\n\r\n\"Nuntii mihi dati suadent eam apparuisse — non solum per spatium — sed etiam per <i>tempus</i>.\"\r\n\r\n\"Per tempus? Hoc fieri non po-\"\r\n\r\n\"Fieri non potest, ita. Nisi forte potest. Munus nostrum hic est invenire quomodo haec res per tempus et spatium se teletransportet, eamque imitari. Project Rifter, ita eam appellant. Praeterea, memento, Hannegan: arma probamus, <i>non</i> instrumenta commoditatis.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..atque ita mundum fractum post se reliquit.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..atque ita ex omnibus regnis evanuit.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Superstes",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Confractio",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Hostes in vestigio sistit et armaturam 30 minuit per 3s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Rima Intenta",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Intende et iace rimam pro <style=cIsDamage>300% - 500% damni</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Rimae Convergentes",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Intende et iace sex rimas pro <style=cIsDamage>100% damni</style> singulas. Terram neglegit.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Rima Errans",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Iace rimam tardam et quiescentem. Rima excitabitur pro <style=cIsDamage>300% damni</style> cum alia rima excitatur. In ictu explodet pro <style=cIsDamage>600% damni</style> et Confractionem imponet. Teletransportare non potest.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Lapsus",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Lapsus Praestigii",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teletransporta</style> retro, relinquens vorticem qui hostes attrahit. Tene ut locum et <style=cIsUtility>invulnerabilitatem</style> usque ad 3 secundas serves.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Clausura Temporis",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Opprimens</style>. Crea campum qui Confractionem imponit et facit ut hostes rima percussi ad se teletransportentur. <style=cIsUtility>Eum rima percutere</style> clausuram temporis collapsat pro <style=cIsDamage>500% damni</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Ad Singularitatem",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Pone 10 rimas cumulatas, inferentes <style=cIsDamage>350% damni</style> <style=cStack>(* 120% per rimam)</style>. Quaeque rima est <style=cIsDamage>5% minor</style> quam prior.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Magisterium",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Ut Rifter, ludum vince vel in Monsoon te oblitera.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Realitatem Implicans",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teletransporta 10 vel plures hostes uno ictu!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Opprimens</style><style=cSub>Damnum auctum per <style=cIsDamage>120%</style> pro quoque hoste percusso.</style>"
+  }
+}

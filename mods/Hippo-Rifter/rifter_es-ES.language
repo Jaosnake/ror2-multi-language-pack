@@ -1,0 +1,31 @@
+{
+  "es-ES": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter emplea el posicionamiento estratégico para crear fisuras devastadoras en la realidad.<color=#CCD3E0>\n\n<!> Las fisuras convergen a una distancia ideal: ¡el posicionamiento es fundamental!\n\n<!> Fisura errante puede usarse como una fuente móvil de daño.\n\n<!> Ciertas habilidades pueden teletransportar enemigos, mientras que otras son condicionales. Usar este poder sirve para mantener a raya a los enemigos.\n\n<!> ¡Bloqueo temporal puede ser una herramienta poderosa para agrupar enemigos y hacerlos volar por los aires a la vez!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "El Fracturado",
+    "BLAKE_RIFTER_LORE": "\"...Qué curioso...\"\r\n\r\n\"Sí. Muy curioso.\"\r\n\r\n\"¿Simplemente... apareció?\"\r\n\r\n\"Bueno, al menos a esa versión se aferran.\"\r\n\r\n\"Vaya. Nunca habría imaginado que <i>nosotros</i> seríamos a quienes les ocultaran secretos.\"\r\n\r\n\"Supongo que no pueden permitir que su División Científica sepa todo lo que les llega.\"\r\n\r\nHannegan miró a través de la extraña sustancia vítrea. Quería describirla como vidrio, pero su necesidad de pruebas concretas pudo con él. También le entraron ganas de darle un toque.\r\n\r\nLe dio un toque.\r\n\r\nResonó en una frecuencia muy peculiar, casi... ¿como si entrase y saliese del tiempo? Guardó ese pensamiento, pero dudó en sacar conclusiones de ello.\r\n\r\n\"Hannegan, sabes cuánto detesto que toques las muestras sin permiso.\"\r\n\r\n\"¿Permiso para tocarla?\"\r\n\r\n\"...Sí... No reacciona al tacto.\"\r\n\r\n\"¿Especificaron de qué material es esta... cosa vítrea?\"\r\n\r\n\"No. Y no es nuestro objeto de interés.\"\r\n\r\nEl científico jefe, D.O. Harold Schmeuller, señaló hacia la sustancia vítrea, pero no a la sustancia en sí. Señaló lo que había <i>dentro</i>.\r\n\r\n\"Dicen que tienen lecturas de un objeto tosco, pero incomprensiblemente avanzado, que posee la capacidad de teletransportar objetos.\"\r\n\r\n\"Haces que suene especial. Ya dimos con una forma de teletransportar cosas. ¿Cuál es la diferencia?\"\r\n\r\n\"La información que me han facilitado sugiere que apareció —no solo a través del espacio— sino a través del <i>tiempo</i>.\"\r\n\r\n\"¿El tiempo? Eso es imposi-\"\r\n\r\n\"Imposible, sí. A menos que no lo sea. Nuestra labor aquí es averiguar cómo esta cosa se teletransporta a través del tiempo y el espacio, y replicarla. Project Rifter, así lo llaman. Además, recuerda, Hannegan: probamos armas, <i>no</i> artículos de conveniencia.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..y así dejó atrás un mundo fracturado.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..y así desapareció de todos los reinos.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Superviviente",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Destrozo",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Detiene en seco a los enemigos y reduce su armadura en 30 durante 3 s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Fisura enfocada",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Apunta y dispara una fisura por <style=cIsDamage>300% - 500% de daño</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Fisuras convergentes",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Apunta y dispara seis fisuras por <style=cIsDamage>100% de daño</style> cada una. Ignora el terreno.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Fisura errante",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Lanza una fisura lenta y latente. La fisura se activará infligiendo <style=cIsDamage>300% de daño</style> cuando se active otra fisura. Al impactar, estallará por <style=cIsDamage>600% de daño</style> y aplicará Destrozo. No puede teletransportar.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Estela dimensional",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Estela dimensional de prestigio",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teletranspórtate</style> hacia atrás, dejando un vórtice que atrae a los enemigos. Mantén pulsado para mantener la posición y la <style=cIsUtility>invulnerabilidad</style> durante hasta 3 segundos.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Bloqueo temporal",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Aplastante</style>. Crea un campo que aplica Destrozo y hace que los enemigos alcanzados por fisuras se teletransporten hacia él. <style=cIsUtility>Impactarlo con una fisura</style> colapsa el bloqueo temporal infligiendo <style=cIsDamage>500% de daño</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Hacia la singularidad",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Coloca 10 fisuras apiladas que infligen <style=cIsDamage>350% de daño</style> <style=cStack>(* 120% por fisura)</style>. Cada fisura es un <style=cIsDamage>5% más pequeña</style> que la anterior.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Maestría",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Como Rifter, completa el juego u oblitérate en Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Enredando la realidad",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "¡Teletransporta a 10 o más enemigos a la vez!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Aplastante</style><style=cSub>Daño aumentado en un <style=cIsDamage>120%</style> por enemigo alcanzado.</style>"
+  }
+}

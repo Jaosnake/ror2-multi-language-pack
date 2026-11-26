@@ -1,0 +1,31 @@
+{
+  "en": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "The Rifter utilizes strategic positioning to create devastating rifts in reality.<color=#CCD3E0>\n\n<!> Rifts converge at an ideal distance -- positioning is key!\n\n<!> Wandering Rift can be used as a mobile damage-dealer.\n\n<!> Certain skills can teleport enemies, while some are conditional. Using this power can keep enemies at bay.\n\n<!> Timelock can be a powerful tool for gathering enemies and blasting them all at once!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "The Fractured One",
+    "BLAKE_RIFTER_LORE": "\"...Funny...\"\r\n\r\n\"Yeah. Real funny.\"\r\n\r\n\"It just... appeared?\"\r\n\r\n\"Well that's what they're sticking to, at least.\"\r\n\r\n\"Huh. Never imagined <i>we'd</i> be the ones they'd keep secrets from.\"\r\n\r\n\"I guess they can't have their Science Division knowing everything that comes their way.\"\r\n\r\nHannegan peered through the strange, glassy substance. He wanted to describe it as glass, but his need for concrete evidence got the better of him. He also wanted to tap it.\r\n\r\nHe tapped it.\r\n\r\nIt resonated in a very peculiar frequency, almost... like it was clipping in and out of time? He kept the thought in mind, but hesitated to draw conclusions from it.\r\n\r\n\"Hannegan, you know how much I hate it when you touch samples without permission.\"\r\n\r\n\"Permission to touch it?\"\r\n\r\n\"...Yes... It's not reactive to touch.\"\r\n\r\n\"Did they specify the material of this... glassy stuff?\"\r\n\r\n\"No. And it's not our point of interest.\"\r\n\r\nThe lead scientist, D.O. Harold Schmeuller, gestured toward the glassy substance, but not the substance itself. He pointed at what was <i>inside</i>.\r\n\r\n\"They say they've got readings of a crude, yet incomprehensibly advanced object which has the ability to teleport objects.\"\r\n\r\n\"You make that sound special. We've already worked out a way to teleport things. What's the difference?\"\r\n\r\n\"The intel I have been given suggests it appeared -- not just through space -- but through <i>time</i>.\"\r\n\r\n\"Time? That's impossi-\"\r\n\r\n\"Impossible, yes. Unless it isn't. Our task here is to find out how this thing teleports through time and space, and to replicate it. Project Rifter, is what they're calling it. Also, remember, Hannegan, we test weapons, <i>not</i> convenience items.",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..and so he left a fractured world behind.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..and so he vanished from all realms.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Survivalist",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Shatter",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Stops enemies in their tracks and reduces armor by 30 for 3s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Focused Rift",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Aim and shoot a rift for <style=cIsDamage>300% - 500% damage</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Convergent Rifts",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Aim and shoot six rifts for <style=cIsDamage>100% damage</style> each. Ignores terrain.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Wandering Rift",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Throw out a slow, dormant rift. Rift will activate for <style=cIsDamage>300% damage</style> when another rift activates. On impact it will explode for <style=cIsDamage>600% damage</style> and apply shatter. Cannot teleport.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Slipstream",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Prestige Slipstream",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teleport</style> backwards, leaving a vortex which pulls enemies in. Hold to maintain position and <style=cIsUtility>invulnerability</style> for up to 3 seconds.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Timelock",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Crushing</style>. Create a field that shatters and causes rifted enemies to teleport to itself. <style=cIsUtility>Hitting it with a rift</style> collapses the timelock for <style=cIsDamage>500% damage</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "To Singularity",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Position 10 stacked rifts, dealing <style=cIsDamage>350% damage</style> <style=cStack>(* 120% per rift)</style>. Each rift is <style=cIsDamage>5% smaller</style> than the last.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Mastery",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "As Rifter, beat the game or obliterate on Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Tangling Reality",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teleport 10 or more enemies in at once!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>"
+  }
+}

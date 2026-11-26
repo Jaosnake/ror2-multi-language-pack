@@ -1,0 +1,31 @@
+{
+  "RU": {
+    "KENKO_CADET_NAME": "Cadet",
+    "KENKO_CADET_DESCRIPTION": "Cadet — универсальный стрелок, способный ловко маневрировать в бою благодаря оружию ближнего боя и высокой мобильности.<color=#CCD3E0>\n\n< ! > Стреляйте с близкого расстояния, чтобы эффективно расходовать ограниченный боезапас без потери урона.\n\n< ! > Урон и радиус навыка «План C» растут в зависимости от текущего боезапаса, поэтому используйте его при полном магазине.\n\n< ! > Используйте «Перезаряжающий перекат», чтобы быстро уходить от взрывного урона и полностью восполнять магазин.\n\n< ! > Старайтесь применять «Эхо-дроны» как можно чаще — они помогут добить врагов, которых вы могли пропустить на ходу.\n\n</color>",
+    "KENKO_CADET_SUBTITLE": "Начинающий солдат",
+    "KENKO_CADET_LORE": "\"Вы когда-нибудь задумывались о том, чтобы изменить этот мир? Верите ли вы, что вам уготована слава, связанная честью? Жаждет ли ваше тело прилива адреналина, который дают лишь смертельно опасные ситуации? Если вы ответили «да» хотя бы на один из этих вопросов, подумайте о том, чтобы вступить в наши ряды!\"\r\n\r\nВ убежище едва слышно работал телевизор — недавнее приобретение. Идеально установленный в самом центре, он приковывал к себе впечатлительные взгляды местной молодёжи, которой было нечего терять. Одни приходили быстро, словно загипнотизированные обещанием чего-то лучшего, чем их нынешнее положение. Другие пытались держаться в стороне, страшась мысли о военной жизни, но сопротивляться можно лишь до поры до времени — пока не останется никакого выбора, кроме как проглотить все жалобы и смириться.\r\n\r\nА остальные? Они либо приняли правила игры, либо оказались погребены под руинами города. Нерешительность — не вариант, по крайней мере в эту эпоху.\r\n\r\n\"И помните: здесь для вас всегда найдётся место! Посетите ближайший пункт вербовки уже сегодня! До скорой встречи, солдат!\"\r\n\r\nДа. Не вариант — и никогда им не была.\r\n",
+    "KENKO_CADET_OUTRO_FLAVOR": "и он ушёл, став эхом своего прошлого «я».",
+    "KENKO_CADET_OUTRO_FAILURE": "и он исчез — напрасно потраченная страсть.",
+    "KENKO_CADET_MASTERY_SKIN_NAME": "Лейтенант",
+    "KENKO_CADET_PASSIVE_NAME": "",
+    "KENKO_CADET_PASSIVE_DESCRIPTION": ".",
+    "KENKO_CADET_PRIMARY_SMG_NAME": "Шквал пуль",
+    "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Подвижный</style>. Выстрелите лазером, нанося <style=cIsDamage>60% урона</style>. Требует <style=cIsUtility>перезарядки</style> после <style=cIsDamage>20</style> пуль.",
+    "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Сокрушительные приливы",
+    "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Подвижный</style>. Выпустите очередь, нанося <style=cIsDamage>3x100% урона</style>. Требует <style=cIsUtility>перезарядки</style> после <style=cIsDamage>10</style> пуль.",
+    "KENKO_CADET_SECONDARY_THROWGUN_NAME": "План C",
+    "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Бросьте своё оружие, нанося <style=cIsDamage>250 - 750% урона</style> в зависимости от текущего боезапаса.",
+    "KENKO_CADET_SECONDARY_GRENADE_NAME": "План B",
+    "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Выстрелите из лёгкого гранатомёта, нанося <style=cIsDamage>400% урона</style>.",
+    "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Перезаряжающий перекат",
+    "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Совершите перекат в выбранном направлении, мгновенно <style=cIsUtility>перезаряжая</style> оружие.",
+    "KENKO_CADET_UTILITY_SLIDE_NAME": "Пополняющая передислокация",
+    "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Проскользите в выбранном направлении, мгновенно <style=cIsUtility>перезаряжая</style> оружие.",
+    "KENKO_CADET_SPECIAL_ULTRA_NAME": "План A",
+    "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Подвижный</style>. Выпустите мощный залп дроби, нанося <style=cIsDamage>32x150% урона</style>.",
+    "KENKO_CADET_SPECIAL_ECHO_NAME": "Эхо-дроны",
+    "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Создайте <style=cIsDamage>двух дронов</style>, которые выслеживают ближайших врагов, нанося <style=cIsDamage>2x370% урона</style>.",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_NAME": "Cadet: Мастерство",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_DESCRIPTION": "Играя за Cadet, пройдите игру или сотрите себя на сложности Monsoon."
+  }
+}

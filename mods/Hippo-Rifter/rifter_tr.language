@@ -1,0 +1,31 @@
+{
+  "tr": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter, gerçeklikte yıkıcı yarıklar açmak için stratejik konumlanmadan yararlanır.<color=#CCD3E0>\n\n<!> Yarıklar ideal bir mesafede birleşir; konumlanma her şeydir!\n\n<!> Gezgin Yarık, hareketli bir hasar kaynağı olarak kullanılabilir.\n\n<!> Bazı yetenekler düşmanları ışınlayabilir, bazıları ise koşulludur. Bu gücü kullanmak düşmanları uzak tutabilir.\n\n<!> Zaman Kilidi, düşmanları bir araya toplayıp hepsini tek seferde patlatmak için güçlü bir araç olabilir!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "Parçalanmış Olan",
+    "BLAKE_RIFTER_LORE": "\"...Tuhaf...\"\r\n\r\n\"Evet. Gerçekten tuhaf.\"\r\n\r\n\"Öylece... ortaya mı çıktı?\"\r\n\r\n\"Eh, en azından ısrar ettikleri hikâye bu.\"\r\n\r\n\"Hım. Sır sakladıkları kişilerin <i>biz</i> olacağımızı hiç düşünmezdim.\"\r\n\r\n\"Sanırım Bilim Bölümlerinin ellerine geçen her şeyi bilmesini göze alamıyorlar.\"\r\n\r\nHannegan o garip, camsı maddenin içinden baktı. Onu cam olarak tanımlamak istiyordu ama somut kanıt ihtiyacı ağır bastı. Ayrıca ona hafifçe vurmak istiyordu.\r\n\r\nHafifçe vurdu.\r\n\r\nÇok tuhaf bir frekansta yankılandı, neredeyse... zamandan girip çıkıyormuş gibi? Bu düşünceyi aklında tuttu ama hemen sonuca varmaktan çekindi.\r\n\r\n\"Hannegan, örneklere izinsiz dokunmandan ne kadar nefret ettiğimi biliyorsun.\"\r\n\r\n\"Dokunmak için izin mi?\"\r\n\r\n\"...Evet... Dokunmaya tepki vermiyor.\"\r\n\r\n\"Bu... camsı şeyin malzemesini belirttiler mi?\"\r\n\r\n\"Hayır. Zaten ilgilendiğimiz nokta o değil.\"\r\n\r\nBaş bilim insanı D.O. Harold Schmeuller camsı maddeyi işaret etti, ama maddenin kendisini değil. <i>İçinde</i> ne olduğunu işaret ediyordu.\r\n\r\n\"Nesneleri ışınlama yeteneğine sahip, kaba ama akıl almaz derecede gelişmiş bir nesneye ait ölçümler aldıklarını söylüyorlar.\"\r\n\r\n\"Bunu çok özelmiş gibi anlatıyorsun. Bir şeyleri ışınlamanın yolunu zaten bulduk. Farkı ne?\"\r\n\r\n\"Bana verilen istihbarat, bunun yalnızca uzaydan değil -- <i>zamandan</i> da geçerek ortaya çıktığını gösteriyor.\"\r\n\r\n\"Zaman mı? Bu imkânsı—\"\r\n\r\n\"İmkânsız, evet. Tabii öyle değilse. Buradaki görevimiz bu şeyin zaman ve uzayda nasıl ışınlandığını çözmek ve onu kopyalamak. Buna Project Rifter diyorlar. Ayrıca unutma Hannegan, biz silah test ediyoruz, kolaylık sağlayan eşyalar <i>değil</i>.",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..ve böylece ardında parçalanmış bir dünya bıraktı.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..ve böylece tüm diyarlardan silinip gitti.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Hayatta Kalma Uzmanı",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Parçalama",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Düşmanları oldukları yerde durdurur ve 3 sn. boyunca zırhlarını 30 azaltır.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Odaklanmış Yarık",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Nişan al ve <style=cIsDamage>300% - 500% hasar</style> veren bir yarık ateşle.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Yakınsayan Yarıklar",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Nişan al ve her biri <style=cIsDamage>100% hasar</style> veren altı yarık ateşle. Araziyi yok sayar.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Gezgin Yarık",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Yavaş, uykuda bir yarık fırlat. Başka bir yarık etkinleştiğinde bu yarık <style=cIsDamage>300% hasar</style> için etkinleşir. Çarpma anında <style=cIsDamage>600% hasar</style> vererek patlar ve Parçalama uygular. Işınlayamaz.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Kayma Akımı",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Prestijli Kayma Akımı",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "Geriye doğru <style=cIsUtility>ışınlan</style> ve düşmanları içine çeken bir girdap bırak. Konumu ve <style=cIsUtility>hasar almazlığı</style> en fazla 3 saniye korumak için basılı tut.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Zaman Kilidi",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Ezici</style>. Parçalama uygulayan ve yarığa yakalanan düşmanların kendisine ışınlanmasını sağlayan bir alan oluştur. <style=cIsUtility>Ona bir yarıkla vurmak</style> zaman kilidini çökertir ve <style=cIsDamage>500% hasar</style> verir.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Tekilliğe Doğru",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "<style=cIsDamage>350% hasar</style> <style=cStack>(yarık başına * 120%)</style> veren 10 üst üste yarık yerleştir. Her yarık bir öncekinden <style=cIsDamage>5% daha küçüktür</style>.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Ustalık",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Rifter olarak Monsoon zorluğunda oyunu bitir veya kendini yok et.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Düğümlenen Gerçeklik",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Tek seferde 10 veya daha fazla düşmanı ışınla!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Ezici</style><style=cSub>Vurulan her düşman başına hasar <style=cIsDamage>120%</style> artar.</style>"
+  }
+}

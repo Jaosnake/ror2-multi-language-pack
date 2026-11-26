@@ -1,0 +1,31 @@
+{
+  "es-ES": {
+    "KENKO_CADET_NAME": "Cadet",
+    "KENKO_CADET_DESCRIPTION": "Cadet es un tirador versátil capaz de moverse con soltura por el combate usando armas de corto alcance y una gran movilidad.<color=#CCD3E0>\n\n< ! > Asegúrate de disparar a corta distancia para aprovechar bien tu munición limitada sin reducir tu daño.\n\n< ! > Plan C aumenta su daño y su radio en función de tu munición actual, así que asegúrate de usarlo con el cargador lleno.\n\n< ! > Usa Voltereta Reabastecedora para esquivar con rapidez el daño explosivo y recargar por completo el cargador.\n\n< ! > Intenta usar Drones Eco tan a menudo como puedas, ya que te ayudarán a eliminar a cualquier enemigo que hayas pasado por alto mientras te desplazas.\n\n</color>",
+    "KENKO_CADET_SUBTITLE": "Aspirante a Soldado",
+    "KENKO_CADET_LORE": "\"¿Alguna vez has pensado en marcar la diferencia en este mundo? ¿Crees que estás destinado a una gloria ligada al honor? ¿Tu cuerpo ansía la descarga de adrenalina que solo ofrecen las situaciones de vida o muerte? Si has respondido que sí a cualquiera de estas preguntas, ¡plantéate unirte a nuestras filas!\"\r\n\r\nEl televisor, apenas audible, sonaba en el refugio; era una incorporación reciente. Colocado con precisión en el centro, atraía todas las miradas de los jóvenes impresionables de la zona que no tenían nada que perder. Algunos acudieron enseguida, cautivados al instante por la promesa de algo mejor que lo que llamaban su situación actual. Otros intentaron resistir, temerosos de la idea de la vida militar, aunque solo se puede aguantar hasta cierto punto antes de quedarse sin más salida que tragarse las quejas y seguir la corriente.\r\n\r\n¿Y el resto? O se adaptaban al plan, o acababan aplastados bajo los escombros de la ciudad. La indecisión no es una opción, al menos no en esta época.\r\n\r\n\"¡Y recuerda que aquí siempre tendrás un sitio! ¡Acude hoy mismo a tu centro de reclutamiento local! ¡Hasta pronto, soldado!\"\r\n\r\nSí. No es una opción, nunca lo ha sido.\r\n",
+    "KENKO_CADET_OUTRO_FLAVOR": "y se marchó, un eco de quien fue en el pasado.",
+    "KENKO_CADET_OUTRO_FAILURE": "y se desvaneció, un desperdicio de pasión.",
+    "KENKO_CADET_MASTERY_SKIN_NAME": "Teniente",
+    "KENKO_CADET_PASSIVE_NAME": "",
+    "KENKO_CADET_PASSIVE_DESCRIPTION": ".",
+    "KENKO_CADET_PRIMARY_SMG_NAME": "Tormenta de Balas",
+    "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara un láser que inflige un <style=cIsDamage>60% de daño</style>. Requiere <style=cIsUtility>recargar</style> tras <style=cIsDamage>20</style> balas.",
+    "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Mareas Rompientes",
+    "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara una ráfaga que inflige un <style=cIsDamage>3x100% de daño</style>. Requiere <style=cIsUtility>recargar</style> tras <style=cIsDamage>10</style> balas.",
+    "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+    "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Arroja tu arma e inflige un <style=cIsDamage>250 - 750% de daño</style> según tu munición actual.",
+    "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+    "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Dispara tu lanzagranadas ligero e inflige un <style=cIsDamage>400% de daño</style>.",
+    "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Voltereta Reabastecedora",
+    "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Rueda en una dirección <style=cIsUtility>recargando</style> al instante tu arma.",
+    "KENKO_CADET_UTILITY_SLIDE_NAME": "Reposicionamiento de Recarga",
+    "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Deslízate en una dirección <style=cIsUtility>recargando</style> al instante tu arma.",
+    "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+    "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Ágil</style>. Dispara una pesada descarga de perdigones que inflige un <style=cIsDamage>32x150% de daño</style>.",
+    "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones Eco",
+    "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrica <style=cIsDamage>dos drones</style> que buscan a los enemigos cercanos e infligen un <style=cIsDamage>2x370% de daño</style>.",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_NAME": "Cadet: Maestría",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_DESCRIPTION": "Con Cadet, supera el juego u oblitérate en Monsoon."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "eo": {
+    "KENKO_CADET_NAME": "Cadet",
+    "KENKO_CADET_DESCRIPTION": "La Cadet estas multflanka pafisto, kiu kapablas lerte movigxi tra batalo per proksimdistancaj armiloj kaj rapida movebleco.<color=#CCD3E0>\n\n< ! > Nepre pafu de proksima distanco por efike uzi vian limigitan municion sen malpliigi vian damagxon.\n\n< ! > Plano C pliigas sian damagxon kaj radiuson laux via aktuala municio, do nepre uzu gxin kiam via magazeno estas plena.\n\n< ! > Uzu Repleniga Rulo por rapide eviti eksplodan damagxon kaj plene replenigi vian magazenon.\n\n< ! > Provu uzi Ehxo-Dronoj kiel eble plej ofte, cxar tio helpos forigi cxiujn malamikojn, kiujn vi eble pretervidis dum movigxo.\n\n</color>",
+    "KENKO_CADET_SUBTITLE": "Aspiranta Soldato",
+    "KENKO_CADET_LORE": "\"Cxu vi iam pensis pri fari diferencon en cxi tiu mondo? Cxu vi kredas, ke vi estas destinita al honora gloro? Cxu via korpo sopiras la adrenalinan ondon, kiun nur vivdangxeraj situacioj provizas? Se vi respondis jes al iu ajn el cxi tiuj demandoj, tiam konsideru aligxi al niaj vicoj!\"\r\n\r\nLa apenaux auxdebla televidilo ludis en la sxirmejo, nova aldonajxo. Perfekte lokita en la mezo, gxi estis la centro de atento por la junaj impresigxemaj okuloj de la regiono kun nenio por perdi. Kelkaj el ili venis rapide, auxtomate sorcxitaj de la promeso pri io pli bona ol kio ajn ili nomis sian aktualan situacion. Aliaj provis rezisti, timante la ideon pri milita vivo, kvankam oni povas rezisti nur tiom longe antaux ol ne restas aliaj elektoj ol gluti cxiujn plendojn kaj akcepti gxin.\r\n\r\nLa ceteraj? Ili aux sekvis la programon, aux estis dispremitaj sub la ruinoj de la urbo. Nedecidemo ne estas elekto, almenaux ne en cxi tiu epoko.\r\n\r\n\"Kaj memoru, vi cxiam havos lokon cxi tie! Vizitu vian lokan rekrutigan centron hodiaux! Gxis baldaux, soldato!\"\r\n\r\nJes. Ne estas elekto, neniam estis.\r\n",
+    "KENKO_CADET_OUTRO_FLAVOR": "kaj li foriris, ehxo de sia pasinta memo.",
+    "KENKO_CADET_OUTRO_FAILURE": "kaj li malaperis, malsxparo de pasio.",
+    "KENKO_CADET_MASTERY_SKIN_NAME": "Leuxtenanto",
+    "KENKO_CADET_PASSIVE_NAME": "",
+    "KENKO_CADET_PASSIVE_DESCRIPTION": ".",
+    "KENKO_CADET_PRIMARY_SMG_NAME": "Kuglosxtormo",
+    "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agila</style>. Pafu laseron por <style=cIsDamage>60% damagxo</style>. Postulas <style=cIsUtility>resxargxon</style> post <style=cIsDamage>20</style> kugloj.",
+    "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Frakasaj Tajdoj",
+    "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agila</style>. Pafu salvon por <style=cIsDamage>3x100% damagxo</style>. Postulas <style=cIsUtility>resxargxon</style> post <style=cIsDamage>10</style> kugloj.",
+    "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plano C",
+    "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Jxetu vian armilon kauxzante <style=cIsDamage>250 - 750% damagxo</style> laux via aktuala municio.",
+    "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plano B",
+    "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Pafu vian malpezan grenadjxetilon kauxzante <style=cIsDamage>400% damagxo</style>.",
+    "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Repleniga Rulo",
+    "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Ruligxu en direkton tuj <style=cIsUtility>resxargxante</style> vian armilon.",
+    "KENKO_CADET_UTILITY_SLIDE_NAME": "Reproviza Repozicio",
+    "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Glitu en direkton tuj <style=cIsUtility>resxargxante</style> vian armilon.",
+    "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plano A",
+    "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agila</style>. Pafu pezan salvon de grajnoj, kauxzante <style=cIsDamage>32x150% damagxo</style>.",
+    "KENKO_CADET_SPECIAL_ECHO_NAME": "Ehxo-Dronoj",
+    "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabriku <style=cIsDamage>du dronojn</style>, kiuj sercxas proksimajn malamikojn kauxzante <style=cIsDamage>2x370% damagxo</style>.",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_NAME": "Cadet: Majstreco",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_DESCRIPTION": "Kiel Cadet, venku la ludon aux neniigu vin en Monsoon."
+  }
+}

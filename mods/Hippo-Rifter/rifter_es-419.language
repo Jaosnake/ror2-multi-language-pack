@@ -1,0 +1,31 @@
+{
+  "es-419": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "Rifter utiliza el posicionamiento estratégico para crear grietas devastadoras en la realidad.<color=#CCD3E0>\n\n<!> Las grietas convergen a una distancia ideal: ¡el posicionamiento es clave!\n\n<!> Grieta errante puede usarse como una fuente móvil de daño.\n\n<!> Ciertas habilidades pueden teletransportar enemigos, mientras que otras son condicionales. Usar este poder ayuda a mantener a los enemigos a raya.\n\n<!> ¡Bloqueo temporal puede ser una herramienta poderosa para reunir enemigos y hacerlos estallar a todos a la vez!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "El Fracturado",
+    "BLAKE_RIFTER_LORE": "\"...Qué gracioso...\"\r\n\r\n\"Sí. Muy gracioso.\"\r\n\r\n\"¿Simplemente... apareció?\"\r\n\r\n\"Bueno, al menos esa es la versión que sostienen.\"\r\n\r\n\"Vaya. Nunca imaginé que <i>nosotros</i> seríamos aquellos a quienes les guardarían secretos.\"\r\n\r\n\"Supongo que no pueden dejar que su División de Ciencias sepa todo lo que llega a sus manos.\"\r\n\r\nHannegan observó a través de la extraña sustancia vítrea. Quería describirla como vidrio, pero su necesidad de pruebas concretas pudo más que él. También tenía ganas de darle un golpecito.\r\n\r\nLe dio un golpecito.\r\n\r\nResonó con una frecuencia muy peculiar, casi... ¿como si estuviera entrando y saliendo del tiempo? Guardó esa idea en mente, pero dudó en sacar conclusiones a partir de ella.\r\n\r\n\"Hannegan, sabes cuánto odio que toques las muestras sin permiso.\"\r\n\r\n\"¿Permiso para tocarla?\"\r\n\r\n\"...Sí... No reacciona al tacto.\"\r\n\r\n\"¿Especificaron el material de esta... cosa vítrea?\"\r\n\r\n\"No. Y no es nuestro punto de interés.\"\r\n\r\nEl científico principal, D.O. Harold Schmeuller, señaló hacia la sustancia vítrea, pero no a la sustancia en sí. Apuntó a lo que estaba <i>adentro</i>.\r\n\r\n\"Dicen que tienen lecturas de un objeto rudimentario, pero incomprensiblemente avanzado, que tiene la capacidad de teletransportar objetos.\"\r\n\r\n\"Lo haces sonar especial. Ya descubrimos cómo teletransportar cosas. ¿Cuál es la diferencia?\"\r\n\r\n\"La información que me dieron sugiere que apareció —no solo a través del espacio— sino a través del <i>tiempo</i>.\"\r\n\r\n\"¿El tiempo? Eso es imposi-\"\r\n\r\n\"Imposible, sí. A menos que no lo sea. Nuestra tarea aquí es averiguar cómo esta cosa se teletransporta a través del tiempo y el espacio, y replicarla. Project Rifter, así es como lo llaman. Además, recuerda, Hannegan: probamos armas, <i>no</i> artículos de conveniencia.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..y así dejó atrás un mundo fracturado.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..y así desapareció de todos los reinos.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Superviviente",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Destrozo",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Detiene en seco a los enemigos y reduce su armadura en 30 durante 3 s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Grieta focalizada",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Apunta y dispara una grieta por <style=cIsDamage>300% - 500% de daño</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Grietas convergentes",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Apunta y dispara seis grietas por <style=cIsDamage>100% de daño</style> cada una. Ignora el terreno.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Grieta errante",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Lanza una grieta lenta e inactiva. La grieta se activará infligiendo <style=cIsDamage>300% de daño</style> cuando se active otra grieta. Al impactar, explotará por <style=cIsDamage>600% de daño</style> y aplicará Destrozo. No puede teletransportar.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Estela dimensional",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Estela dimensional de prestigio",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teletranspórtate</style> hacia atrás, dejando un vórtice que atrae a los enemigos. Mantén presionado para conservar la posición y la <style=cIsUtility>invulnerabilidad</style> hasta por 3 segundos.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Bloqueo temporal",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Aplastante</style>. Crea un campo que aplica Destrozo y hace que los enemigos alcanzados por grietas se teletransporten hacia él. <style=cIsUtility>Golpearlo con una grieta</style> colapsa el bloqueo temporal infligiendo <style=cIsDamage>500% de daño</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "Hacia la singularidad",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Coloca 10 grietas apiladas, infligiendo <style=cIsDamage>350% de daño</style> <style=cStack>(* 120% por grieta)</style>. Cada grieta es <style=cIsDamage>5% más pequeña</style> que la anterior.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Maestría",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Como Rifter, gana el juego u oblitérate en Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Enredando la realidad",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "¡Teletransporta a 10 o más enemigos a la vez!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Aplastante</style><style=cSub>Daño aumentado en <style=cIsDamage>120%</style> por enemigo golpeado.</style>"
+  }
+}

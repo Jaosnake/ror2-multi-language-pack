@@ -1,0 +1,25 @@
+{
+  "zh-CN": {
+    "KENKO_INTERROGATOR_NAME": "Interrogator",
+    "KENKO_INTERROGATOR_DESCRIPTION": "Interrogator以他人的痛苦为乐。别在伤害队友时玩得太开心，或者尽情享受也无妨……<color=#CCD3E0>\n\n< ! > 承受敌人、队友甚至自己的攻击以获得额外属性。没有人能置身事外。\n\n< ! > 如果你持有受击触发的物品，可以用斗殴对自己施加大出血。没有痛苦，就没有收获。\n\n< ! > 伪证是强行将敌人标记为有罪的绝佳手段。不道德？你在说什么呢？\n\n< ! > 对有罪目标施放定罪，确保他们为自己的所作所为付出代价。毕竟，在证明清白之前都是有罪的。\n\n</color>",
+    "KENKO_INTERROGATOR_SUBTITLE": "狂乱的折磨者",
+    "KENKO_INTERROGATOR_LORE": "雪花从天空轻柔飘落，对Dylan所处的这片区域来说再寻常不过。他和他的小队正在值勤，警戒着潜在的危险，或是寻找需要救援的人。\n\n“长官，我好像看到有人。”列兵转过身面向上级。指挥官起初没有回头，只是低哼了一声。他的声音透着疲惫。这颗星球吞噬了太多生命，连他这样经历过2019年战争的老兵也开始感到身心俱疲。到目前为止，这场救援行动简直是一场灾难，而且这还没算上Contact Light船员的遭遇。\n\n“肯定是一个人，”士兵继续说道，转回身望向那片偶有几棵树点缀的辽阔雪白洼地。他没有看错：确实是一个人，正悠闲地在雪地里漫步。昨晚的天气宛如噩梦：星球狂暴的气候肆虐着山谷，铺下了一层没过膝盖的冰冷雪毯，那道身影只有上半身露在外面。\n\nDylan从望远镜上抬起头，发现指挥官终于也朝向了与他相同的方向。\n\n“长官，我们要派人过去吗？”Dylan问道。\n\n“不用，”指挥官回答。\n\n列兵将视线短暂地移回雪原。“为什么？”\n\n“那不是人类。”\n\n“……看起来可真像，”列兵说着，重新举起望远镜观察。\n\n“至少，不是活人。”\n\n“……您觉得这颗星球能让死人复生？”\n\n“我一点也不会意外。”\n\n士兵继续透过望远镜观察。他盯着那个陌生人看的时间越长，令上级感到不对劲的怪异之处就越发明显。那个独行者穿着一件宽大的黑色夹克，兜帽上镶着厚重而肮脏的毛边。此人似乎对严寒做足了准备——唯独夹克的袖子被撕掉了，露出两条赤裸的手臂。那人微微侧过身，让列兵看清了他的躯干：对方穿着一件标准制式胸甲，和列兵身上穿的一模一样，只是型号更老，大概过时了一年以上。橙色涂装已经完全剥落，露出布满深深划痕的黑色金属表面。头盔看起来与胸甲配套，是略微过时的标准制式指挥官装备，颜色已被阳光晒得有些发白。\n\n无论那是谁——或者是什么——看起来都像是一个圈套。一种诱人上钩的拟态。仿佛有什么东西试图扮演人类，却从根本上不理解究竟是什么让人类成为人类。\n\n“……是的，长官。您说得大概没错。”\n\n第二天早晨他们的发现，让那个东西显得更加非人。Dylan所在的小队被派去执行侦察任务，想起昨天的事，列兵说服了战友和指挥官去调查那道身影的来处或去向。脚印引领他们来到了一处惨烈的现场：一座被摧毁的Contact Light营地。那只是个不超过5人的小型营地。5个可怜的灵魂以肉眼难以理解的方式、以任何人类都不可能做到的方式惨遭杀害。然而，现场没有咬痕，没有爪痕，没有鳞片、焦油块或毛发，也没有本土生物的血样：没有任何外星痕迹。一切，都出自人类之手。",
+    "KENKO_INTERROGATOR_OUTRO_FLAVOR": "……于是他离开了，迫不及待地想要伸张更多“正义”。",
+    "KENKO_INTERROGATOR_OUTRO_FAILURE": "……于是他消失了，为自己的罪行付出了代价。",
+    "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "备用",
+    "KENKO_INTERROGATOR_PASSIVE_NAME": "折磨",
+    "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "<color=#FFBF66>Interrogator</color>既可以攻击队友和敌人，也会受到他们的攻击。击中<color=#FFBF66>Interrogator</color>的攻击者会被标记为<color=#FFBF66>有罪</color>。",
+    "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "残暴猛击",
+    "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "向前挥击，造成<style=cIsDamage>320%伤害</style>。攻击落空时改为由你承受<style=cIsDamage>伤害</style>。",
+    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "斗殴",
+    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>屠夫。</style>掷出一把切肉刀，造成<style=cIsDamage>450%伤害</style>。若<color=#FFBF66>斗殴</color>击杀了目标，则对范围内的所有人施加<style=cIsHealth>大出血</style>和<color=#FFBF66>威压</color>。",
+    "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "伪证",
+    "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "向前冲刺，造成<style=cIsDamage>390%伤害</style>，并对命中的目标施加<color=#FFBF66>有罪</color>。",
+    "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "定罪",
+    "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "与一名<color=#FFBF66>有罪</color>的敌人决斗10秒。你的主要技能不再击中自己，且命中时附加一层<color=#FFBF66>有罪</color>。决斗期间，外部对你造成的<style=cIsDamage>伤害</style>会被无效化，但你对目标以外敌人造成的<style=cIsDamage>伤害</style>也会被<style=cIsUtility>无效化</style>。",
+    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "惩戒",
+    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "与一名<color=#FFBF66>有罪</color>的敌人决斗10秒。你的主要技能不再击中自己，且命中时附加一层<color=#FFBF66>有罪</color>。决斗期间，外部对你造成的<style=cIsDamage>伤害</style>会被无效化，但你对目标以外敌人造成的<style=cIsDamage>伤害</style>也会被<style=cIsUtility>无效化</style>。定罪可以指定没有有罪状态的敌人，且你造成的伤害不再被无效化，而是降低75%。",
+    "ACHIEVEMENT_KENKO_INTERROGATOR_masteryAchievement_NAME": "Interrogator：精通",
+    "ACHIEVEMENT_KENKO_INTERROGATOR_masteryAchievement_DESCRIPTION": "使用Interrogator在Monsoon难度下通关或抹除自己。"
+  }
+}

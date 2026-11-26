@@ -1,0 +1,31 @@
+{
+  "FR": {
+    "KENKO_CADET_NAME": "Cadet",
+    "KENKO_CADET_DESCRIPTION": "Cadet est un tireur polyvalent capable de se faufiler au cœur du combat grâce à ses armes à courte portée et sa mobilité rapide.<color=#CCD3E0>\n\n< ! > Veillez à tirer à courte distance afin d'utiliser efficacement vos munitions limitées sans réduire vos dégâts.\n\n< ! > Plan C augmente ses dégâts et son rayon en fonction de vos munitions actuelles ; utilisez-le donc lorsque votre chargeur est plein.\n\n< ! > Utilisez Roulade de réapprovisionnement pour esquiver rapidement les dégâts instantanés et recharger entièrement votre chargeur.\n\n< ! > Essayez d'utiliser Drones d'écho aussi souvent que possible pour éliminer les ennemis que vous auriez manqués en vous déplaçant.\n\n</color>",
+    "KENKO_CADET_SUBTITLE": "Aspirant soldat",
+    "KENKO_CADET_LORE": "\"Avez-vous déjà rêvé de changer ce monde ? Pensez-vous être destiné à une gloire guidée par l'honneur ? Votre corps réclame-t-il la montée d'adrénaline que seules les situations de vie ou de mort procurent ? Si vous avez répondu oui à l'une de ces questions, envisagez de rejoindre nos rangs !\"\r\n\r\nLa télévision à peine audible diffusait dans l'abri, une nouveauté récente. Parfaitement placée au milieu, elle captivait les regards jeunes et impressionnables du quartier qui n'avaient rien à perdre. Certains vinrent vite, immédiatement envoûtés par la promesse d'un avenir meilleur que ce qu'ils appelaient leur situation actuelle. D'autres tentèrent de résister, effrayés par l'idée de la vie militaire, même si l'on ne peut tenir bon qu'un temps avant de n'avoir d'autre choix que de ravaler ses plaintes et de suivre le mouvement.\r\n\r\nQuant aux autres ? Soit ils rentraient dans le rang, soit ils finissaient écrasés sous les décombres de la ville. L'indécision n'est pas une option, du moins pas à notre époque.\r\n\r\n\"Et n'oubliez pas, vous aurez toujours votre place ici ! Rendez-vous dans votre centre de recrutement local dès aujourd'hui ! À très vite, soldat !\"\r\n\r\nOuais. Pas une option, et ça ne l'a jamais été.\r\n",
+    "KENKO_CADET_OUTRO_FLAVOR": "et il partit, tel un écho de son passé.",
+    "KENKO_CADET_OUTRO_FAILURE": "et il disparut, une passion gâchée.",
+    "KENKO_CADET_MASTERY_SKIN_NAME": "Lieutenant",
+    "KENKO_CADET_PASSIVE_NAME": "",
+    "KENKO_CADET_PASSIVE_DESCRIPTION": ".",
+    "KENKO_CADET_PRIMARY_SMG_NAME": "Tempête de balles",
+    "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tire un laser infligeant <style=cIsDamage>60% de dégâts</style>. Nécessite un <style=cIsUtility>rechargement</style> après <style=cIsDamage>20</style> balles.",
+    "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Marées fracassantes",
+    "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tire une rafale infligeant <style=cIsDamage>3x100% de dégâts</style>. Nécessite un <style=cIsUtility>rechargement</style> après <style=cIsDamage>10</style> balles.",
+    "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Plan C",
+    "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Lance votre arme en infligeant <style=cIsDamage>250 - 750% de dégâts</style> selon vos munitions actuelles.",
+    "KENKO_CADET_SECONDARY_GRENADE_NAME": "Plan B",
+    "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Tire avec votre lance-grenades léger en infligeant <style=cIsDamage>400% de dégâts</style>.",
+    "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Roulade de réapprovisionnement",
+    "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Effectue une roulade dans une direction en <style=cIsUtility>rechargeant</style> instantanément votre arme.",
+    "KENKO_CADET_UTILITY_SLIDE_NAME": "Repositionnement de recharge",
+    "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Glisse dans une direction en <style=cIsUtility>rechargeant</style> instantanément votre arme.",
+    "KENKO_CADET_SPECIAL_ULTRA_NAME": "Plan A",
+    "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agile</style>. Tire une lourde salve de plombs infligeant <style=cIsDamage>32x150% de dégâts</style>.",
+    "KENKO_CADET_SPECIAL_ECHO_NAME": "Drones d'écho",
+    "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrique <style=cIsDamage>deux drones</style> qui traquent les ennemis proches et infligent <style=cIsDamage>2x370% de dégâts</style>.",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_NAME": "Cadet : Maîtrise",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_DESCRIPTION": "En tant que Cadet, terminez le jeu ou faites-vous oblitérer en Monsoon."
+  }
+}

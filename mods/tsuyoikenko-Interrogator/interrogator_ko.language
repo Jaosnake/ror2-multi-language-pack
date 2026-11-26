@@ -1,0 +1,25 @@
+{
+  "ko": {
+    "KENKO_INTERROGATOR_NAME": "Interrogator",
+    "KENKO_INTERROGATOR_DESCRIPTION": "Interrogator는 타인의 고통을 즐깁니다. 아군을 다치게 하는 데 너무 재미를 붙이지는 마세요, 아니면 그러시든가...<color=#CCD3E0>\n\n< ! > 적, 아군, 심지어 자기 자신에게 피격되어 추가 능력치를 얻으세요. 누구도 안전하지 않습니다.\n\n< ! > 피격 시 발동하는 아이템이 있다면 난투를 사용해 자신에게 과다출혈을 거세요. 고통 없이는 얻는 것도 없습니다.\n\n< ! > 위증은 적에게 강제로 유죄 표식을 남기는 훌륭한 방법입니다. 비윤리적이라고요? 무슨 말씀이신지?\n\n< ! > 유죄 상태인 대상에게 유죄 선고를 내려 그 행위에 대한 대가를 치르게 하세요. 어차피 무죄가 입증되기 전까지는 유죄니까요.\n\n</color>",
+    "KENKO_INTERROGATOR_SUBTITLE": "광기 어린 고문자",
+    "KENKO_INTERROGATOR_LORE": "Dylan이 머물던 지역에서 늘 그렇듯 하늘에서 눈이 부드럽게 내리고 있었다. 그는 분대원들과 함께 경계 근무를 서며 위험이나 구조가 필요한 사람이 있는지 살피고 있었다.\n\n\"대장님, 누군가 보이는 것 같습니다.\" 이등병이 돌아서서 상관을 바라보았다. 지휘관은 처음에 고개도 돌리지 않고 그저 낮게 신음할 뿐이었다. 그의 목소리는 지쳐 있었다. 이 행성에서 잃은 수많은 사람들 때문에 2019년 전쟁의 참전 용사인 그마저도 서서히 기력을 잃어가고 있었다. Contact Light 승무원들에게 벌어진 일을 제외하고서라도, 이번 구조 작전은 지금까지 완벽한 재앙이었다.\n\n\"사람이 확실합니다.\" 병사는 듬성듬성 나무가 서 있는 광활한 하얀 분지 쪽으로 다시 몸을 돌리며 말을 이었다. 그리고 그의 말이 맞았다. 정말로 누군가가 눈밭을 느긋하게 거닐고 있었다. 지난밤의 날씨는 악몽 같았다. 행성의 거센 자연 공세가 계곡을 무릎보다 깊은 차가운 눈 양탄자로 뒤덮었고, 그 인물의 상반신만 겨우 보였다.\n\nDylan이 쌍안경에서 고개를 들자 지휘관도 마침내 자신과 같은 방향을 바라보고 있었다.\n\n\"대장님, 누군가를 보낼까요?\" Dylan이 물었다.\n\n\"아니.\" 지휘관이 답했다.\n\n이등병은 잠시 풍경 쪽으로 다시 시선을 돌렸다. \"왜입니까?\"\n\n\"저건 인간이 아니다.\"\n\n\"..분명 사람처럼 보이는데요.\" 이등병이 다시 쌍안경을 들여다보며 말했다.\n\n\"적어도 살아있는 인간은 아니야.\"\n\n\"... 이 행성이 죽은 자를 되살릴 수 있다고 생각하십니까?\"\n\n\"그렇대도 놀랍지 않겠군\"\n\n병사는 계속 쌍안경으로 지켜보았다. 그 낯선 존재를 오래 볼수록 상관을 꺼림칙하게 만든 기이한 점들이 점점 뚜렷해졌다. 홀로 떠도는 자는 크고 검은 재킷을 입고 있었고, 후드에는 두껍고 더러운 털이 달려 있었다. 그 남자는 추운 날씨에 철저히 대비한 듯 보였지만, 재킷의 소매가 찢겨 나가 팔이 그대로 드러나 있었다. 그가 살짝 몸을 돌리자 이등병의 눈에 그의 상체가 들어왔다. 이등병 자신의 가슴에 착용한 것과 같은 표준 보급 흉갑을 입고 있었지만, 일 년 이상은 지난 구형 모델이었다. 주황색 도장은 완전히 벗겨져 심하게 긁힌 검은 금속 표면이 드러나 있었다. 헬멧도 흉갑과 한 쌍인 듯했다. 약간 구식인 표준 보급 코만도 장비였고, 색상은 햇빛에 살짝 바래 있었다.\n\n그것이 누구든, 혹은 무엇이든 함정처럼 보였다. 사람들을 유인하는 의태 생물. 마치 무언가가 인간 흉내를 내려 하지만 애초에 무엇이 인간을 인간답게 만드는지 이해하지 못하는 것처럼.\n\n\"…예, 대장님. 말씀이 맞을 겁니다.\"\n\n다음 날 아침 그들이 발견한 것은 그 존재를 더욱 인간과는 거리가 멀게 보이게 했다. Dylan이 속한 분대가 정찰 임무에 파견되었을 때, 어제 있었던 일을 떠올린 이등병은 동료들과 지휘관을 설득해 그 인물이 어디로, 혹은 어디서 걸어왔는지 조사하기로 했다. 발자국을 따라가자 참혹한 현장이 나타났다. 처참히 무너진 Contact Light 야영지였다. 5명 이하가 머물던 작은 야영지였다. 5명의 불쌍한 영혼이 눈으로는 도저히 이해할 수 없는 방식으로, 그 어떤 인간도 해낼 수 없을 방식으로 살해당해 있었다. 그런데도 물린 자국도, 발톱 자국도, 비늘도, 타르나 털 조각도, 토착 생물의 혈흔도 없었다. 외계의 흔적은 아무것도 없었다. 모든 것이 인간에 의한 것이었다.",
+    "KENKO_INTERROGATOR_OUTRO_FLAVOR": "..그렇게 그는 더 많은 \"정의\"를 실현하고 싶어 근질거리며 떠났다.",
+    "KENKO_INTERROGATOR_OUTRO_FAILURE": "..그렇게 그는 자신의 죄에 대한 벌을 받으며 사라졌다.",
+    "KENKO_INTERROGATOR_MASTERY_SKIN_NAME": "대체",
+    "KENKO_INTERROGATOR_PASSIVE_NAME": "고문",
+    "KENKO_INTERROGATOR_PASSIVE_DESCRIPTION": "<color=#FFBF66>Interrogator</color>는 아군과 적 모두를 공격하거나 그들에게 공격받을 수 있습니다. <color=#FFBF66>Interrogator</color>를 공격한 대상은 <color=#FFBF66>유죄</color> 표식이 남습니다.",
+    "KENKO_INTERROGATOR_PRIMARY_SWING_NAME": "잔혹한 강타",
+    "KENKO_INTERROGATOR_PRIMARY_SWING_DESCRIPTION": "전방을 휘둘러 <style=cIsDamage>320%의 피해</style>를 입힙니다. 공격이 빗나가면 대신 자신이 <style=cIsDamage>피해</style>를 입습니다.",
+    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_NAME": "난투",
+    "KENKO_INTERROGATOR_SECONDARY_AFFRAY_DESCRIPTION": "<style=cIsDamage>학살자.</style> 식칼을 던져 <style=cIsDamage>450%의 피해</style>를 입힙니다. <color=#FFBF66>난투</color>로 대상을 처치하면 주변의 모든 대상에게 <style=cIsHealth>과다출혈</style>과 <color=#FFBF66>압박</color>을 부여합니다.",
+    "KENKO_INTERROGATOR_UTILITY_FALSIFY_NAME": "위증",
+    "KENKO_INTERROGATOR_UTILITY_FALSIFY_DESCRIPTION": "전방으로 돌진해 <style=cIsDamage>390%의 피해</style>를 입히고 적중한 대상에게 <color=#FFBF66>유죄</color>를 부여합니다.",
+    "KENKO_INTERROGATOR_SPECIAL_CONVICT_NAME": "유죄 선고",
+    "KENKO_INTERROGATOR_SPECIAL_CONVICT_DESCRIPTION": "<color=#FFBF66>유죄</color> 상태인 적과 10초 동안 결투합니다. 기본 공격이 더 이상 자신을 때리지 않으며 적중 시 <color=#FFBF66>유죄</color> 중첩을 부여합니다. 결투 중 외부에서 들어오는 <style=cIsDamage>피해</style>는 무효화되지만, 대상 외의 적에게 입히는 <style=cIsDamage>피해</style> 또한 <style=cIsUtility>무효화</style>됩니다.",
+    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_NAME": "처벌",
+    "KENKO_INTERROGATOR_SPECIAL_SCEPTER_CONVICT_DESCRIPTION": "<color=#FFBF66>유죄</color> 상태인 적과 10초 동안 결투합니다. 기본 공격이 더 이상 자신을 때리지 않으며 적중 시 <color=#FFBF66>유죄</color> 중첩을 부여합니다. 결투 중 외부에서 들어오는 <style=cIsDamage>피해</style>는 무효화되지만, 대상 외의 적에게 입히는 <style=cIsDamage>피해</style> 또한 <style=cIsUtility>무효화</style>됩니다. 유죄 선고는 유죄가 없는 적도 대상으로 지정할 수 있으며, 자신이 입히는 피해는 더 이상 무효화되지 않고 75% 감소합니다.",
+    "ACHIEVEMENT_KENKO_INTERROGATOR_masteryAchievement_NAME": "Interrogator: 숙련",
+    "ACHIEVEMENT_KENKO_INTERROGATOR_masteryAchievement_DESCRIPTION": "Interrogator로 Monsoon 난이도에서 게임을 클리어하거나 소멸하십시오."
+  }
+}

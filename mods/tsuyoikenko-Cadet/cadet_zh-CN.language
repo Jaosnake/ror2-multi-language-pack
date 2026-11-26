@@ -1,0 +1,31 @@
+{
+  "zh-CN": {
+    "KENKO_CADET_NAME": "Cadet",
+    "KENKO_CADET_DESCRIPTION": "Cadet是一名多面手枪手，能够凭借近距离武器与迅捷机动在战场上穿梭。<color=#CCD3E0>\n\n< ! > 尽量在近距离射击，以免伤害衰减并充分利用有限的弹药。\n\n< ! > C计划会根据当前弹药量提高伤害和作用范围，因此请务必在弹匣装满时使用。\n\n< ! > 使用补给翻滚可迅速躲避爆发伤害，并立即补满弹匣。\n\n< ! > 尽可能频繁地使用回响无人机，它能帮你清理移动途中遗漏的敌人。\n\n</color>",
+    "KENKO_CADET_SUBTITLE": "有志士兵",
+    "KENKO_CADET_LORE": "“你可曾想过为这个世界带来改变？你是否相信自己命中注定要赢取名誉与荣耀？你的身体是否渴望着唯有生死一线间才能带来的肾上腺素飙升？只要你对其中任何一个问题的回答是肯定的，那就考虑加入我们的行列吧！”\r\n\r\n避难所里新添了一台电视，正以微弱得勉强能听清的音量播放着。它恰到好处地摆在正中央，吸引了这片区域里一无所有、涉世未深的年轻目光。有些人很快便前去报到，不由自主地沉醉于那份比所谓现状更好的承诺；另一些人则对军旅生活心怀畏惧，试图硬撑下去，可人能撑住的时日终究有限，到头来除了咽下一切牢骚、顺势而为之外，再无别的选择。\r\n\r\n至于剩下的人？要么顺应这套规矩，要么被埋在城市的废墟之下。优柔寡断不是选项，至少在这个时代不是。\r\n\r\n“别忘了，这里永远有你的一席之地！今天就去当地的征兵处吧！回头见，士兵！”\r\n\r\n是啊。从来都不是选项，过去不是，现在也不是。\r\n",
+    "KENKO_CADET_OUTRO_FLAVOR": "就这样他离开了，只留下往日自我的回响。",
+    "KENKO_CADET_OUTRO_FAILURE": "就这样他消失了，空负满腔热忱。",
+    "KENKO_CADET_MASTERY_SKIN_NAME": "中尉",
+    "KENKO_CADET_PASSIVE_NAME": "",
+    "KENKO_CADET_PASSIVE_DESCRIPTION": ".",
+    "KENKO_CADET_PRIMARY_SMG_NAME": "弹雨风暴",
+    "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>敏捷</style>。发射一道激光，造成<style=cIsDamage>60%伤害</style>。发射<style=cIsDamage>20</style>发子弹后需要<style=cIsUtility>装填</style>。",
+    "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "狂涛拍岸",
+    "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>敏捷</style>。发射一轮齐射，造成<style=cIsDamage>3x100%伤害</style>。发射<style=cIsDamage>10</style>发子弹后需要<style=cIsUtility>装填</style>。",
+    "KENKO_CADET_SECONDARY_THROWGUN_NAME": "C计划",
+    "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "投掷你的枪械，根据当前弹药量造成<style=cIsDamage>250 - 750%伤害</style>。",
+    "KENKO_CADET_SECONDARY_GRENADE_NAME": "B计划",
+    "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "发射轻型榴弹发射器，造成<style=cIsDamage>400%伤害</style>。",
+    "KENKO_CADET_UTILITY_ROLLOAD_NAME": "补给翻滚",
+    "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "朝一个方向翻滚，立即为枪械<style=cIsUtility>装填</style>。",
+    "KENKO_CADET_UTILITY_SLIDE_NAME": "补给换位",
+    "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "朝一个方向滑铲，立即为枪械<style=cIsUtility>装填</style>。",
+    "KENKO_CADET_SPECIAL_ULTRA_NAME": "A计划",
+    "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>敏捷</style>。发射一阵猛烈的霰弹齐射，造成<style=cIsDamage>32x150%伤害</style>。",
+    "KENKO_CADET_SPECIAL_ECHO_NAME": "回响无人机",
+    "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "制造<style=cIsDamage>两架无人机</style>，搜寻附近的敌人并造成<style=cIsDamage>2x370%伤害</style>。",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_NAME": "Cadet：精通",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_DESCRIPTION": "使用Cadet在Monsoon难度下通关或抹消自己。"
+  }
+}

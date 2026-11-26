@@ -1,0 +1,31 @@
+{
+  "pt-BR": {
+    "BLAKE_RIFTER_NAME": "Rifter",
+    "BLAKE_RIFTER_DESCRIPTION": "O Rifter utiliza posicionamento estratégico para criar fendas devastadoras na realidade.<color=#CCD3E0>\n\n<!> As fendas convergem a uma distância ideal — posicionamento é fundamental!\n\n<!> Fenda Errante pode ser usada como uma fonte móvel de dano.\n\n<!> Certas habilidades podem teletransportar inimigos, enquanto outras são condicionais. Usar esse poder mantém os inimigos afastados.\n\n<!> Bloqueio Temporal pode ser uma ferramenta poderosa para reunir inimigos e explodir todos de uma vez!\n\n</color>",
+    "BLAKE_RIFTER_SUBTITLE": "O Fraturado",
+    "BLAKE_RIFTER_LORE": "\"...Engraçado...\"\r\n\r\n\"É. Muito engraçado.\"\r\n\r\n\"Simplesmente... apareceu?\"\r\n\r\n\"Bem, é essa a versão que eles estão sustentando, pelo menos.\"\r\n\r\n\"Hã. Nunca imaginei que <i>nós</i> seríamos aqueles de quem eles esconderiam segredos.\"\r\n\r\n\"Acho que eles não podem deixar a Divisão Científica saber tudo o que chega até eles.\"\r\n\r\nHannegan espiou através da substância estranha e vítrea. Queria descrevê-la como vidro, mas sua necessidade de provas concretas falou mais alto. Ele também queria dar um toque nela.\r\n\r\nEle deu um toque.\r\n\r\nEla ressoou em uma frequência muito peculiar, quase... como se estivesse entrando e saindo do tempo? Ele guardou o pensamento consigo, mas hesitou em tirar conclusões a partir disso.\r\n\r\n\"Hannegan, você sabe o quanto eu odeio quando você toca nas amostras sem permissão.\"\r\n\r\n\"Permissão para tocar?\"\r\n\r\n\"...Sim... Ela não reage ao toque.\"\r\n\r\n\"Eles especificaram o material dessa... coisa vítrea?\"\r\n\r\n\"Não. E isso não é o que nos interessa.\"\r\n\r\nO cientista-chefe, D.O. Harold Schmeuller, gesticulou em direção à substância vítrea, mas não para a substância em si. Ele apontou para o que estava <i>lá dentro</i>.\r\n\r\n\"Dizem que obtiveram leituras de um objeto rudimentar, porém incompreensivelmente avançado, que tem a capacidade de teletransportar objetos.\"\r\n\r\n\"Você faz isso soar especial. Nós já descobrimos como teletransportar coisas. Qual é a diferença?\"\r\n\r\n\"As informações que recebi sugerem que ele apareceu — não apenas através do espaço — mas através do <i>tempo</i>.\"\r\n\r\n\"Tempo? Isso é impossí-\"\r\n\r\n\"Impossível, sim. A menos que não seja. Nossa tarefa aqui é descobrir como essa coisa se teletransporta através do tempo e do espaço, e replicá-la. Project Rifter, é assim que estão chamando. Além disso, lembre-se, Hannegan: nós testamos armas, <i>não</i> itens de conveniência.\"",
+    "BLAKE_RIFTER_OUTRO_FLAVOR": "..e assim ele deixou um mundo fraturado para trás.",
+    "BLAKE_RIFTER_OUTRO_FAILURE": "..e assim ele desapareceu de todos os reinos.",
+    "BLAKE_RIFTER_MASTERY_SKIN_NAME": "Sobrevivencialista",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST": "Estilhaçamento",
+    "BLAKE_RIFTER_PASSIVE_RIFT_BOOST_DESCRIPTION": "Imobiliza os inimigos no lugar e reduz a armadura em 30 por 3s.",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED": "Fenda Focada",
+    "BLAKE_RIFTER_PRIMARY_GAUNTLET_RANGED_DESCRIPTION": "Mire e dispare uma fenda causando <style=cIsDamage>300% - 500% de dano</style>.",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT": "Fendas Convergentes",
+    "BLAKE_RIFTER_PRIMARY_BUCKSHOT_DESCRIPTION": "Mire e dispare seis fendas causando <style=cIsDamage>100% de dano</style> cada. Ignora o terreno.",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE": "Fenda Errante",
+    "BLAKE_RIFTER_SECONDARY_FAULT_LINE_DESCRIPTION": "Lance uma fenda lenta e adormecida. A fenda será ativada causando <style=cIsDamage>300% de dano</style> quando outra fenda for ativada. No impacto, ela explode causando <style=cIsDamage>600% de dano</style> e aplica Estilhaçamento. Não pode teletransportar.",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM": "Deslize Dimensional",
+    "BLAKE_RIFTER_UTILITY_PRESTIGE_SLIPSTREAM": "Deslize Dimensional de Prestígio",
+    "BLAKE_RIFTER_UTILITY_SLIPSTREAM_DESCRIPTION": "<style=cIsUtility>Teleporte-se</style> para trás, deixando um vórtice que puxa os inimigos para dentro. Segure para manter a posição e a <style=cIsUtility>invulnerabilidade</style> por até 3 segundos.",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK": "Bloqueio Temporal",
+    "BLAKE_RIFTER_SPECIAL_TIMELOCK_DESCRIPTION": "<style=cIsHealth>Esmagador</style>. Crie um campo que aplica Estilhaçamento e faz com que inimigos atingidos por fendas se teletransportem até ele. <style=cIsUtility>Atingi-lo com uma fenda</style> colapsa o bloqueio temporal causando <style=cIsDamage>500% de dano</style>.",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_SCEPTER": "À Singularidade",
+    "BLAKE_RIFTER_SPECIAL_RECURSION_DESCRIPTION_SCEPTER": "Posicione 10 fendas empilhadas, causando <style=cIsDamage>350% de dano</style> <style=cStack>(* 120% por fenda)</style>. Cada fenda é <style=cIsDamage>5% menor</style> que a anterior.",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_NAME": "Rifter: Maestria",
+    "ACHIEVEMENT_BLAKE_RIFTER_MASTERYACHIEVEMENT_DESCRIPTION": "Como Rifter, vença o jogo ou oblitere-se no Monsoon.",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_NAME": "Rifter: Emaranhando a Realidade",
+    "ACHIEVEMENT_BLAKE_RIFTER_BUCKSHOT_ACHIEVEMENT_DESCRIPTION": "Teletransporte 10 ou mais inimigos de uma só vez!",
+    "<style=cKeywordName>Crushing</style><style=cSub>Damage increased by <style=cIsDamage>120%</style> per enemy hit.</style>": "<style=cKeywordName>Esmagador</style><style=cSub>Dano aumentado em <style=cIsDamage>120%</style> por inimigo atingido.</style>"
+  }
+}

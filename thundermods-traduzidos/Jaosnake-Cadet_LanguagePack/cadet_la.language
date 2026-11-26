@@ -1,0 +1,31 @@
+{
+  "la": {
+    "KENKO_CADET_NAME": "Cadet",
+    "KENKO_CADET_DESCRIPTION": "Cadet est iacularius versatilis qui per proelium armis comminus et celeri mobilitate se flectere potest.<color=#CCD3E0>\n\n< ! > Cura ut e propinquo iacias quo munitione tua finita efficaciter utaris sine deminutione damni.\n\n< ! > Consilium C damnum et radium suum pro munitione tua praesenti auget; quare eo utere cum receptaculum plenum est.\n\n< ! > Utere Volutatione Replente ut damnum repentinum celeriter vites et receptaculum tuum omnino repleas.\n\n< ! > Conare uti Automatis Echus quam saepissime, nam hostes quos inter motum praetermiseris purgare adiuvabunt.\n\n</color>",
+    "KENKO_CADET_SUBTITLE": "Miles Aspirans",
+    "KENKO_CADET_LORE": "\"Numquamne cogitasti de discrimine in hoc mundo faciendo? Credisne te gloriae honore devinctae destinatum esse? Dolorne corpus tuum agit pro impetu adrenalini quem sola vitae pericula praebent? Si ulli harum quaestionum annuisti, ordinibus nostris te adiungere considera!\"\r\n\r\nTelevisorium vix audibile in refugio sonabat, novum additamentum. In medio perfecte positum, centrum attentionis erat oculis iuvenibus et facile commovendis illius regionis quibus nihil perdendum erat. Aliqui celeriter venerunt, statim capti promissione rei melioris quam quidquid statum suum praesentem vocabant. Alii resistere conati sunt, vitae militaris notionem timentes, quamquam eatenus tantum resistere licet donec nulla alia optio supersit nisi querelas devorare et rem sequi.\r\n\r\nCeteri vero? Aut rationi se accommodaverunt, aut sub urbis ruinis oppressi sunt. Dubitatio optio non est, hac saltem aetate.\r\n\r\n\"Et memento, hic tibi locus semper erit! Centrum dilectus locale hodie visita! Mox te videbo, miles!\"\r\n\r\nIta. Non est optio, numquam fuit.\r\n",
+    "KENKO_CADET_OUTRO_FLAVOR": "et abiit, echo sui praeteriti.",
+    "KENKO_CADET_OUTRO_FAILURE": "et evanuit, ardoris iactura.",
+    "KENKO_CADET_MASTERY_SKIN_NAME": "Locumtenens",
+    "KENKO_CADET_PASSIVE_NAME": "",
+    "KENKO_CADET_PASSIVE_DESCRIPTION": ".",
+    "KENKO_CADET_PRIMARY_SMG_NAME": "Tempestas Glandium",
+    "KENKO_CADET_PRIMARY_SMG_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Emitte radium laser pro <style=cIsDamage>60% damni</style>. Post <style=cIsDamage>20</style> glandes <style=cIsUtility>repletionem</style> requirit.",
+    "KENKO_CADET_PRIMARY_SHOTGUN_NAME": "Aestus Frangentes",
+    "KENKO_CADET_PRIMARY_SHOTGUN_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Emitte ictum crebrum pro <style=cIsDamage>3x100% damni</style>. Post <style=cIsDamage>10</style> glandes <style=cIsUtility>repletionem</style> requirit.",
+    "KENKO_CADET_SECONDARY_THROWGUN_NAME": "Consilium C",
+    "KENKO_CADET_SECONDARY_THROWGUN_DESCRIPTION": "Iace telum tuum infligens <style=cIsDamage>250 - 750% damni</style> pro munitione tua praesenti.",
+    "KENKO_CADET_SECONDARY_GRENADE_NAME": "Consilium B",
+    "KENKO_CADET_SECONDARY_GRENADE_DESCRIPTION": "Emitte e tuo iaculatore granatarum levi infligens <style=cIsDamage>400% damni</style>.",
+    "KENKO_CADET_UTILITY_ROLLOAD_NAME": "Volutatio Replens",
+    "KENKO_CADET_UTILITY_ROLLOAD_DESCRIPTION": "Volve te in directionem, telum tuum statim <style=cIsUtility>replens</style>.",
+    "KENKO_CADET_UTILITY_SLIDE_NAME": "Repositio Replens",
+    "KENKO_CADET_UTILITY_SLIDE_DESCRIPTION": "Labere in directionem, telum tuum statim <style=cIsUtility>replens</style>.",
+    "KENKO_CADET_SPECIAL_ULTRA_NAME": "Consilium A",
+    "KENKO_CADET_SPECIAL_ULTRA_DESCRIPTION": "<style=cIsUtility>Agilis</style>. Emitte gravem nimbum globulorum, infligens <style=cIsDamage>32x150% damni</style>.",
+    "KENKO_CADET_SPECIAL_ECHO_NAME": "Automata Echus",
+    "KENKO_CADET_SPECIAL_ECHO_DESCRIPTION": "Fabrica <style=cIsDamage>duo automata</style> quae hostes proximos persequuntur infligentia <style=cIsDamage>2x370% damni</style>.",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_NAME": "Cadet: Magisterium",
+    "ACHIEVEMENT_KENKO_CADET_masteryAchievement_DESCRIPTION": "Ut Cadet, ludum vince aut te in Monsoon oblitera."
+  }
+}
