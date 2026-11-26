@@ -1,11 +1,10 @@
 {
-    "author": "Jaosnake",
-    "name": "Henry_LanguagePack",
-    "description": "Multi-language translation pack for Henry by TheTimesweeper.",
-    "dependencies": [
-        "TheTimesweeper-HenryMod-2.2.0",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+  "name": "Henry_LanguagePack",
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for Henry by rob (maintained by TheTimesweeper).",
+  "dependencies": [
+    "TheTimesweeper-HenryMod-2.2.1",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ]
 }

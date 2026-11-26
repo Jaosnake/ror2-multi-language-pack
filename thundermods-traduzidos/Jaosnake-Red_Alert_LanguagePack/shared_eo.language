@@ -1,0 +1,16 @@
+{
+    "eo": {
+        "LOADOUT_SKILL_COLOR": "Koloro",
+        "HABIBI_MC_SKIN_NAME": "Minecraft",
+        "HABIBI_RECOLOR_RED_NAME": "Rugxa",
+        "HABIBI_RECOLOR_BLUE_NAME": "Blua",
+        "HABIBI_RECOLOR_GREEN_NAME": "Verda",
+        "HABIBI_RECOLOR_YELLOW_NAME": "Flava",
+        "HABIBI_RECOLOR_ORANGE_NAME": "Orangxa",
+        "HABIBI_RECOLOR_CYAN_NAME": "Cejana",
+        "HABIBI_RECOLOR_PURPLE_NAME": "Purpura",
+        "HABIBI_RECOLOR_PINK_NAME": "Rozkolora",
+        "HABIBI_RECOLOR_BLACK_NAME": "Nigra",
+        "HABIBI_RECOLOR_WHITE_NAME": "Blanka"
+    }
+}

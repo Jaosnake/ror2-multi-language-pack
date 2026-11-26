@@ -1,13 +1,15 @@
+# Changelog
+
 ## 1.0.3
-- Atualizado para compatibilidade com Sandswept 1.4.6.
-- Corrigido fechamento de tags herdadas do mod original (`<style=cShrine>...</color>` corrigido para `</style>`).
-- Sanitizadas aspas duplas internas não escapadas no lore de Red Spring Water.
-- Catálogo canônico de 289 tokens 100% traduzidos e revisados em Português do Brasil (pt-BR).
-- UTF-8 estrito sem BOM e 100% de paridade com o mod oficial.
+
+- Atualizado para o Sandswept 1.4.6 com revisão completa de itens, equipamentos, habilidades, conquistas, santuários, drones e histórias do Diário de Bordo em Português (Brasil).
+- Corrigidas descrições com mecânicas ou valores desatualizados (como Placa Improvisada, Documento Fumegante, Diamante da Coroa, Salva Nuclear, Plutônio de Bolso, Passe Universal VIP, Pena Rasgada e habilidades da Ranger e da VOL-T) e restauradas histórias completas antes resumidas ou cortadas (como Escudo de Célula Galvânica, O Varredor de Areia, Sua Proeminência e Mistura de Eletrólitos Equinos).
+- Adicionados os textos faltantes do Fogo-Fátuo Ardente, da Hera e da palavra-chave Crescente, além da correção de destaques e mensagens de santuários que apareciam sem formatação.
 
 ## 1.0.2
-- Corrigido mojibake, acentuação, tokens de idioma e textos que ainda caíam para inglês.
-- Pacote preparado para R2API.Language e upload manual no Thunderstore.
+
+- Corrigidos caracteres acentuados e textos que ainda apareciam em inglês.
 
 ## 1.0.1
-- Atualizado os creditos que estavam poluindo a interface, devido a um erro durante upload dos arquivos.
+
+- Corrigidos os créditos que estavam aparecendo dentro da interface do jogo.

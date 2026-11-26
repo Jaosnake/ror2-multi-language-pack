@@ -1,6 +1,7 @@
 {
     "tr": {
-        "HABIBI_MC_SKIN_NAME": "minecraft",
+        "LOADOUT_SKILL_COLOR": "Renk",
+        "HABIBI_MC_SKIN_NAME": "Minecraft",
         "HABIBI_RECOLOR_RED_NAME": "Kırmızı",
         "HABIBI_RECOLOR_BLUE_NAME": "Mavi",
         "HABIBI_RECOLOR_GREEN_NAME": "Yeşil",

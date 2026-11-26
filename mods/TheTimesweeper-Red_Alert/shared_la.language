@@ -1,0 +1,16 @@
+{
+  "la": {
+    "LOADOUT_SKILL_COLOR": "Color",
+    "HABIBI_MC_SKIN_NAME": "Minecraft",
+    "HABIBI_RECOLOR_RED_NAME": "Ruber",
+    "HABIBI_RECOLOR_BLUE_NAME": "Caeruleus",
+    "HABIBI_RECOLOR_GREEN_NAME": "Viridis",
+    "HABIBI_RECOLOR_YELLOW_NAME": "Flavus",
+    "HABIBI_RECOLOR_ORANGE_NAME": "Aurantius",
+    "HABIBI_RECOLOR_CYAN_NAME": "Cyaneus",
+    "HABIBI_RECOLOR_PURPLE_NAME": "Purpureus",
+    "HABIBI_RECOLOR_PINK_NAME": "Roseus",
+    "HABIBI_RECOLOR_BLACK_NAME": "Niger",
+    "HABIBI_RECOLOR_WHITE_NAME": "Albus"
+  }
+}

@@ -1,12 +1,13 @@
 {
     "de": {
+        "LOADOUT_SKILL_COLOR": "Farbe",
         "HABIBI_MC_SKIN_NAME": "Minecraft",
         "HABIBI_RECOLOR_RED_NAME": "Rot",
         "HABIBI_RECOLOR_BLUE_NAME": "Blau",
         "HABIBI_RECOLOR_GREEN_NAME": "Grün",
         "HABIBI_RECOLOR_YELLOW_NAME": "Gelb",
         "HABIBI_RECOLOR_ORANGE_NAME": "Orange",
-        "HABIBI_RECOLOR_CYAN_NAME": "Cyan",
+        "HABIBI_RECOLOR_CYAN_NAME": "Zyan",
         "HABIBI_RECOLOR_PURPLE_NAME": "Lila",
         "HABIBI_RECOLOR_PINK_NAME": "Rosa",
         "HABIBI_RECOLOR_BLACK_NAME": "Schwarz",
