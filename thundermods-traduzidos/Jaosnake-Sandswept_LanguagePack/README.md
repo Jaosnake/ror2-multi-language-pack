@@ -1,6 +1,6 @@
 # 🌍 Jaosnake-Sandswept_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.5-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Sandswept** by **SandsweptTeam**.
@@ -28,22 +28,21 @@ For complete compatibility with all language features and support for Ukrainian 
 ## 🌐 Supported Languages (18)
 | Flag | Language | Code | Tokens |
 |:---:|---|:---:|:---:|
-| 🇺🇸 | English | `en` | 289/289 |
-| 🇩🇪 | German | `de` | 289/289 |
-| 🇪🇸 | Spanish (LATAM) | `es-419` | 289/289 |
-| 🇪🇸 | Spanish (Spain) | `es-ES` | 289/289 |
-| 🇫🇷 | French | `FR` | 289/289 |
-| 🇮🇹 | Italian | `IT` | 289/289 |
-| 🇯🇵 | Japanese | `ja` | 289/289 |
-| 🇰🇷 | Korean | `ko` | 289/289 |
-| 🇧🇷 | Portuguese (BR) | `pt-BR` | 289/289 |
-| 🇷🇺 | Russian | `RU` | 289/289 |
-| 🇹🇷 | Turkish | `tr` | 289/289 |
-| 🇺🇦 | Ukrainian ⚡ | `UA` | 289/289 |
-| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 289/289 |
-| 🟩 | Esperanto | `eo` | 289/289 |
-| 🏛️ | Latin | `la` | 289/289 |
-
+| 🇺🇸 | English | `en` | 288/288 |
+| 🇩🇪 | German | `de` | 288/288 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 288/288 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 288/288 |
+| 🇫🇷 | French | `FR` | 288/288 |
+| 🇮🇹 | Italian | `IT` | 288/288 |
+| 🇯🇵 | Japanese | `ja` | 288/288 |
+| 🇰🇷 | Korean | `ko` | 288/288 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 288/288 |
+| 🇷🇺 | Russian | `RU` | 288/288 |
+| 🇹🇷 | Turkish | `tr` | 288/288 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` | 288/288 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 288/288 |
+| 🟩 | Esperanto | `eo` | 288/288 |
+| 🏛️ | Latin | `la` | 288/288 |
 | 🇹🇭 | Thai | `th` | — |
 | 🇮🇳 | Hindi | `hi` | — |
 | 🌐 | Arabic | `ar` | — |
