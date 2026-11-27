@@ -1,0 +1,13 @@
+{
+    "la": {
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>celerius movetur</style> et <style=cIsUtility>alas suas bis quassare</style> potest ut in aere altius ascendat.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Signum Haeresis",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Ingens incrementum virium accipe... <color=#FF7F7F>SED salus tua per tempus decrescit.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "<style=cIsHealing>Salutem</style> per <style=cIsHealing>400%</style> et <style=cIsDamage>damnum</style> per <style=cIsDamage>50%</style> auget. <style=cIsHealing>Regenerationem salutis basalem</style> ad <style=cIsHealing>-6 PV/s</style> minuit.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Sphaeram laminarum onera quae iterum atque iterum <style=cIsDamage>175% damni</style> infert. Post moram explodit, omnes hostes <style=cIsDamage>in loco figit</style> et <style=cIsDamage>700% damni</style> infert.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Damnum inferre cumulum <style=cIsDamage>Ruinae</style> addit. Facultatem movere <style=cIsDamage>omnes cumulos Ruinae detonat</style> sine limite distantiae, inferens <style=cIsDamage>300% damni</style> plus <style=cIsDamage>120% damni</style> pro unoquoque cumulo <style=cIsDamage>Ruinae</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Heterodoxia Resurrecta",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "E luna effuge ut superstes arcanus.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Heterodoxia Resurrecta"
+    }
+}

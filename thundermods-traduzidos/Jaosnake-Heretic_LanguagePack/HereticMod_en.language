@@ -7,6 +7,7 @@
         "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Charge up a ball of blades that repeatedly deals <style=cIsDamage>175% damage</style>. After a delay, explode and <style=cIsDamage>root</style> all enemies for <style=cIsDamage>700% damage</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Dealing damage adds a stack of <style=cIsDamage>Ruin</style>. Activating the skill <style=cIsDamage>detonates all Ruin stacks</style> at unlimited range, dealing <style=cIsDamage>300% damage</style> plus <style=cIsDamage>120% damage</style> per stack of <style=cIsDamage>Ruin</style>.",
         "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Escape the moon as the secret survivor."
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Escape the moon as the secret survivor.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Unorthodoxy Risen"
     }
 }

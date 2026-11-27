@@ -1,3 +1,8 @@
+## 1.0.4
+- Atualizado para compatibilidade total com **Starstorm 2 v0.6.47**, incluindo os novos itens, habilidades e conquistas (como *Balde de Soldadinhos de Brinquedo*, *Lança Sísmica* da Artificer e novos visuais de Chirr e Commando).
+- Corrigidas descrições desatualizadas de itens e habilidades (como *Testador de Sangue Quebrado*, *Saco de Café*, *Agulhas*, *Moeda Derretida*, *Relógio Metrônomo*, *Reator Portátil*, *Alto-Falantes de Baixa Qualidade* e habilidades do Executioner) e preservados os valores dinâmicos do mod.
+- Traduzidos títulos e descrições de conquistas que ainda apareciam em inglês, completada a história do Pyro que estava cortada e revisados registros como o acrônimo de *M.I.D.A.S.* e falas de eventos.
+
 ## 1.0.3
 - Sincronização de compatibilidade e dependências com TeamMoonstorm-Starstorm2-0.6.46.
 - Garantida compatibilidade total com RiskofThunder-R2API_Language-1.1.0.

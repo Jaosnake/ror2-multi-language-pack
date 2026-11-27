@@ -1,12 +1,13 @@
 {
     "UA": {
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
         "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>рухається швидше</style> і може <style=cIsUtility>двічі змахнути крилами</style>, щоб піднятися вище в повітрі.",
         "MOFFEINHERETIC_STATBONUSITEM_NAME": "Знак Єресі",
-        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Отримайте величезне підвищення характеристик... <color=#FF7F7F>АЛЕ ваше здоров’я з часом погіршується.</color>",
-        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Збільшує <style=cIsHealing>здоров’я</style> на <style=cIsHealing>400%</style> та <style=cIsDamage>шкоду</style> на <style=cIsDamage>50%</style>. Зменшує <style=cIsHealing>базове відновлення здоров’я</style> до <style=cIsHealing>-6 од./с</style>.",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Отримайте величезне підвищення характеристик... <color=#FF7F7F>АЛЕ ваше здоров'я з часом зменшується.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Збільшує <style=cIsHealing>здоров'я</style> на <style=cIsHealing>400%</style> та <style=cIsDamage>шкоду</style> на <style=cIsDamage>50%</style>. Зменшує <style=cIsHealing>базове відновлення здоров'я</style> до <style=cIsHealing>-6 ОЗ/с</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Зарядіть сферу лез, яка неодноразово завдає <style=cIsDamage>175% шкоди</style>. Через деякий час вона вибухає, <style=cIsDamage>знерухомлює</style> всіх ворогів і завдає <style=cIsDamage>700% шкоди</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Завдання шкоди додає заряд <style=cIsDamage>Руїни</style>. Активація навички <style=cIsDamage>підриває всі заряди Руїни</style> на будь-якій відстані, завдаючи <style=cIsDamage>300% шкоди</style> та ще <style=cIsDamage>120% шкоди</style> за кожен заряд <style=cIsDamage>Руїни</style>.",
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Втечіть з Місяця за таємного вцілілого."
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Неортодоксальне воскресіння",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Втечіть з Місяця за таємного вцілілого.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Неортодоксальне воскресіння"
     }
 }

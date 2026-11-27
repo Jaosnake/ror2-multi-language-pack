@@ -1,0 +1,13 @@
+{
+    "eo": {
+        "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>movigxas pli rapide</style> kaj povas <style=cIsUtility>frapi siajn flugilojn dufoje</style> por gajni plian altecon dum sxi estas en la aero.",
+        "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marko de Herezo",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Akiru grandegan plifortigon de statistikoj... <color=#FF7F7F>SED via sano malpliigxas kun la tempo.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Pliigas <style=cIsHealing>sanon</style> je <style=cIsHealing>400%</style> kaj <style=cIsDamage>damagxon</style> je <style=cIsDamage>50%</style>. Malpliigas <style=cIsHealing>bazan sanregeneradon</style> al <style=cIsHealing>-6 sano/s</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Sxargu globon da klingoj kiu ripete faras <style=cIsDamage>175% damagxon</style>. Post prokrasto, gxi eksplodas, <style=cIsDamage>radikigas</style> cxiujn malamikojn kaj faras <style=cIsDamage>700% damagxon</style>.",
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Fari damagxon aldonas tavolon de <style=cIsDamage>Ruino</style>. Aktivigi la kapablon <style=cIsDamage>eksplodigas cxiujn tavolojn de Ruino</style> je senlima distanco, farante <style=cIsDamage>300% damagxon</style> plus <style=cIsDamage>120% damagxon</style> por cxiu tavolo de <style=cIsDamage>Ruino</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Malortodokseco Levigxinta",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Eskapu de la luno kiel la sekreta postvivanto.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Malortodokseco Levigxinta"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "la": {
+    "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Templum Certaminis demisit rem </style>{0}",
+    "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} demisit rem </color>{1}",
+    "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Signum Vacui Profundi demisit rem </style>{0}"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "eo": {
+    "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Sanktejo de Batalo faligis la objekton </style>{0}",
+    "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} faligis la objekton </color>{1}",
+    "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Signalo de Profunda Malpleno faligis la objekton </style>{0}"
+  }
+}

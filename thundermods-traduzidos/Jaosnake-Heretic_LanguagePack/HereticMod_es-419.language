@@ -1,12 +1,13 @@
 {
     "es-419": {
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
         "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>se mueve más rápido</style> y puede <style=cIsUtility>batir las alas dos veces</style> para ganar altura en el aire.",
         "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marca de herejía",
         "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Obtén un aumento masivo de estadísticas... <color=#FF7F7F>PERO tu salud decae con el tiempo.</color>",
-        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumenta la <style=cIsHealing>salud</style> un <style=cIsHealing>400%</style> y el <style=cIsDamage>daño</style> un <style=cIsDamage>50%</style>. Reduce la <style=cIsHealing>regeneración básica de salud</style> a <style=cIsHealing>-6 PS/s</style>.",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Aumenta la <style=cIsHealing>salud</style> un <style=cIsHealing>400%</style> y el <style=cIsDamage>daño</style> un <style=cIsDamage>50%</style>. Reduce la <style=cIsHealing>regeneración base de salud</style> a <style=cIsHealing>-6 PS/s</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Carga una esfera de cuchillas que inflige <style=cIsDamage>175% de daño</style> repetidamente. Tras un breve retraso, explota, <style=cIsDamage>inmoviliza</style> a todos los enemigos e inflige <style=cIsDamage>700% de daño</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Infligir daño añade una acumulación de <style=cIsDamage>Ruina</style>. Al activar la habilidad, <style=cIsDamage>detonas todas las acumulaciones de Ruina</style> sin límite de alcance e infliges <style=cIsDamage>300% de daño</style> más <style=cIsDamage>120% de daño</style> por acumulación de <style=cIsDamage>Ruina</style>.",
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Escapa de la luna como el superviviente secreto."
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Resurrección poco ortodoxa",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Escapa de la luna como el sobreviviente secreto.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Resurrección poco ortodoxa"
     }
 }

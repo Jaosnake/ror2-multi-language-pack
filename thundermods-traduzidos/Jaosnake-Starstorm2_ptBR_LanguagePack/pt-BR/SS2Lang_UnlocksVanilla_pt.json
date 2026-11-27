@@ -1,20 +1,22 @@
 {
     "strings": {
-        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Commando: Grand Mastery",
-        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "Como Commando, vença o jogo ou destrua no Typhoon ou Harder.",
-        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Commando: Scorpion",
-        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "Como Comando, encontre o Cristal Prismático escondido em Titanic Plains.",
-        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Commando: Lone Echo",
-        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "Como Comando, derrote o Vestígio do Comando.",
-        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Grand Mastery",
-        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "Como MUL-T, vença o jogo ou destrua no Typhoon ou Harder.",
-        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Acrid: Grand Mastery",
-        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "Como Acrid, vença o jogo ou destrua no Typhoon ou Harder.",
-        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Captain: Grand Mastery",
-        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "Como Capitão, vença o jogo ou destrua no Typhoon ou Harder.",
-        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Huntress: Grand Mastery",
-        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "Como Caçadora, vença o jogo ou destrua no Typhoon ou Harder.",
-        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Mercenary: Vengeful Deserter",
-        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "Como Mercenário, derrote o Vestígio do Mercenário."
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME": "Commando: Grande Maestria",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC": "Como Commando, vença o jogo ou oblitere-se no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME": "Commando: Escorpião",
+        "SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC": "Como Commando, encontre o Cristal Prismático escondido nas Planícies Titânicas.",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME": "Commando: Eco Solitário",
+        "SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC": "Como Commando, derrote o Vestígio do Commando.",
+        "SS2_ACHIEVEMENT_COMMANDO_SPECIALIST_NAME": "Commando: Especialista",
+        "SS2_ACHIEVEMENT_COMMANDO_SPECIALIST_DESC": "Como Commando, alcance o estágio 4 em menos de 15 minutos.",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME": "MUL-T: Grande Maestria",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC": "Como MUL-T, vença o jogo ou oblitere-se no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME": "Acrid: Grande Maestria",
+        "SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC": "Como Acrid, vença o jogo ou oblitere-se no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME": "Captain: Grande Maestria",
+        "SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC": "Como Captain, vença o jogo ou oblitere-se no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME": "Huntress: Grande Maestria",
+        "SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC": "Como Huntress, vença o jogo ou oblitere-se no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME": "Mercenary: Desertor Vingativo",
+        "SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC": "Como Mercenary, derrote o Vestígio do Mercenary."
     }
 }

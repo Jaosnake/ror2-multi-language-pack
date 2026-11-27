@@ -1,12 +1,13 @@
 {
     "de": {
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
         "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>bewegt sich schneller</style> und kann <style=cIsUtility>zweimal mit den Flügeln schlagen</style>, um in der Luft zusätzliche Höhe zu erreichen.",
         "MOFFEINHERETIC_STATBONUSITEM_NAME": "Malzeichen der Häresie",
-        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Erhalten Sie einen massiven Statusschub... <color=#FF7F7F>ABER Ihre Gesundheit lässt mit der Zeit nach.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Erhalte einen massiven Werteboost... <color=#FF7F7F>ABER deine Gesundheit schwindet mit der Zeit.</color>",
         "MOFFEINHERETIC_STATBONUSITEM_DESC": "Erhöht <style=cIsHealing>Leben</style> um <style=cIsHealing>400%</style> und <style=cIsDamage>Schaden</style> um <style=cIsDamage>50%</style>. Reduziert die <style=cIsHealing>Basis-Lebensregeneration</style> auf <style=cIsHealing>-6 LP/s</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Lade eine Klingenkugel auf, die wiederholt <style=cIsDamage>175% Schaden</style> verursacht. Nach einer Verzögerung explodiert sie, <style=cIsDamage>verwurzelt</style> alle Gegner und verursacht <style=cIsDamage>700% Schaden</style>.",
-        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Schaden fügt einen Stapel <style=cIsDamage>Ruin</style> hinzu. Beim Aktivieren der Fertigkeit werden <style=cIsDamage>alle Ruin-Stapel gezündet</style>, unabhängig von der Entfernung. Dies verursacht <style=cIsDamage>300% Schaden</style> plus <style=cIsDamage>120% Schaden</style> pro Stapel <style=cIsDamage>Ruin</style>.",
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Entfliehen Sie als heimlicher Überlebender dem Mond."
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Schaden zuzufügen fügt einen Stapel <style=cIsDamage>Verfall</style> hinzu. Beim Aktivieren der Fertigkeit werden <style=cIsDamage>alle Verfall-Stapel gezündet</style>, unabhängig von der Entfernung. Dies verursacht <style=cIsDamage>300% Schaden</style> plus <style=cIsDamage>120% Schaden</style> pro Stapel <style=cIsDamage>Verfall</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Auferstandene Unorthodoxie",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Entkomme als geheimer Überlebender vom Mond.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Auferstandene Unorthodoxie"
     }
 }

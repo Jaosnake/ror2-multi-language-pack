@@ -1,12 +1,13 @@
 {
     "FR": {
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
         "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Heretic <style=cIsUtility>se déplace plus rapidement</style> et peut <style=cIsUtility>battre des ailes deux fois</style> pour gagner de la hauteur en vol.",
         "MOFFEINHERETIC_STATBONUSITEM_NAME": "Marque d'hérésie",
-        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Obtenez une augmentation massive de vos statistiques... <color=#FF7F7F>MAIS votre santé se dégrade avec le temps.</color>",
-        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Augmente les <style=cIsHealing>points de vie</style> de <style=cIsHealing>400%</style> et les <style=cIsDamage>dégâts</style> de <style=cIsDamage>50%</style>. Réduit la <style=cIsHealing>régénération de base</style> à <style=cIsHealing>-6 PV/s</style>.",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "Obtenez une augmentation massive de vos statistiques... <color=#FF7F7F>MAIS votre santé diminue avec le temps.</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_DESC": "Augmente les <style=cIsHealing>points de vie</style> de <style=cIsHealing>400%</style> et les <style=cIsDamage>dégâts</style> de <style=cIsDamage>50%</style>. Réduit la <style=cIsHealing>régénération de santé de base</style> à <style=cIsHealing>-6 PV/s</style>.",
         "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Chargez une sphère de lames qui inflige à plusieurs reprises <style=cIsDamage>175% de dégâts</style>. Après un délai, elle explose, <style=cIsDamage>immobilise</style> tous les ennemis et inflige <style=cIsDamage>700% de dégâts</style>.",
-        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Infliger des dégâts ajoute un cumul de <style=cIsDamage>Ruine</style>. Activer la compétence <style=cIsDamage>fait exploser tous les cumuls de Ruine</style>, sans limite de portée, et inflige <style=cIsDamage>300% de dégâts</style> plus <style=cIsDamage>120% de dégâts</style> par cumul de <style=cIsDamage>Ruine</style>.",
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Échappez à la lune en tant que survivant secret."
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "Infliger des dégâts ajoute un cumul d'<style=cIsDamage>Usure</style>. Activer la compétence <style=cIsDamage>fait exploser tous les cumuls d'Usure</style>, sans limite de portée, et inflige <style=cIsDamage>300% de dégâts</style> plus <style=cIsDamage>120% de dégâts</style> par cumul d'<style=cIsDamage>Usure</style>.",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Résurrection peu orthodoxe",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "Échappez-vous de la lune en tant que survivant secret.",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "Résurrection peu orthodoxe"
     }
 }

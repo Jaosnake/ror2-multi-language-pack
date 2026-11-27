@@ -1,42 +1,48 @@
 # 🌍 Jaosnake-Pathfinder_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **Pathfinder** by **Bog**, reviewed against version 0.5.3.
+Multi-language translation pack for **Pathfinder** (`Bog-Pathfinder`) by **Bog**.
 
-> Ukrainian, Esperanto and Latin are included. P.E.L.E. provides support for these language options.
+---
+
+### 🇧🇷 Recomendação do P.E.L.E
+[P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) é **opcional** para este pacote e serve para quem deseja jogar em Ucraniano (`UA`/`uk`), Esperanto (`eo`) ou Latim (`la`). Os demais 12 idiomas oficiais do jogo funcionam normalmente apenas com `R2API.Language`.
+
+### 🇺🇸 P.E.L.E Recommendation
+[P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) is **optional** for this pack and is intended for players who want Ukrainian (`UA`/`uk`), Esperanto (`eo`), or Latin (`la`). The other 12 official game languages work directly with `R2API.Language`.
 
 ---
 
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| Bog-Pathfinder | `0.5.3` |
+| Bog-Pathfinder | `0.5.4` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
-| 🇫🇷 | French |
-| 🇮🇹 | Italian |
-| 🇯🇵 | Japanese |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian |
-| 🇨🇳 | Chinese (Simplified) |
-| 🌐 | Esperanto |
-| 🏛️ | Latin |
+## 🌐 Supported Languages (15)
+| Flag | Language | Code | Tokens |
+|:---:|---|:---:|:---:|
+| 🇺🇸 | English | `en` | 55/55 |
+| 🇩🇪 | German | `de` | 55/55 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 55/55 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 55/55 |
+| 🇫🇷 | French | `FR` | 55/55 |
+| 🇮🇹 | Italian | `IT` | 55/55 |
+| 🇯🇵 | Japanese | `ja` | 55/55 |
+| 🇰🇷 | Korean | `ko` | 55/55 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 55/55 |
+| 🇷🇺 | Russian | `RU` | 55/55 |
+| 🇹🇷 | Turkish | `tr` | 55/55 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` / `uk` | 55/55 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 55/55 |
+| 🟢 | Esperanto ⚡ | `eo` | 55/55 |
+| 🏛️ | Latin ⚡ | `la` | 55/55 |
 
-## Gameplay configuration
+> **Note:** Skill values in the translations reflect Pathfinder's default configuration settings and do not dynamically update if those settings are modified.
 
-The translated skill numbers describe the mod’s default settings. They do not update when those settings are changed. Some shared keyword translations may interact with other mods that use the same tokens.
+---
 
 ## 👤 Credits
 | Role | Name |
@@ -48,9 +54,3 @@ The translated skill numbers describe the mod’s default settings. They do not 
 
 ## ☕ Support
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
-
-
-## Issues / Feedback
-For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues
-
-> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.

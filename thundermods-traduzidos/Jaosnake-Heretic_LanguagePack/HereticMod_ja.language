@@ -1,12 +1,13 @@
 {
     "ja": {
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "Unorthodoxy Risen",
         "MOFFEINHERETIC_PASSIVE_DESCRIPTION": "Hereticは<style=cIsUtility>移動速度が速く</style>、空中で<style=cIsUtility>翼を2回羽ばたかせて</style>さらに高度を上げることができる。",
         "MOFFEINHERETIC_STATBONUSITEM_NAME": "異端の刻印",
-        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "能力値が大幅に上昇する...<color=#FF7F7F>ただし、体力が時間とともに減少する。</color>",
+        "MOFFEINHERETIC_STATBONUSITEM_PICKUP": "能力値が大幅に上昇する... <color=#FF7F7F>ただし、体力が時間とともに減少する。</color>",
         "MOFFEINHERETIC_STATBONUSITEM_DESC": "<style=cIsHealing>体力</style>が<style=cIsHealing>400%</style>、<style=cIsDamage>ダメージ</style>が<style=cIsDamage>50%</style>増加する。<style=cIsHealing>基本体力回復</style>が<style=cIsHealing>毎秒-6</style>になる。",
         "MOFFEINHERETIC_SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "刃の球をチャージし、繰り返し<style=cIsDamage>175%のダメージ</style>を与える。一定時間後に爆発し、敵全員を<style=cIsDamage>拘束</style>して<style=cIsDamage>700%のダメージ</style>を与える。",
-        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "ダメージを与えると<style=cIsDamage>破滅</style>が1スタック付与される。スキルを発動すると、距離に関係なく<style=cIsDamage>すべての破滅スタックを爆発</style>させ、<style=cIsDamage>300%のダメージ</style>に加え、<style=cIsDamage>破滅</style>1スタックにつき<style=cIsDamage>120%のダメージ</style>を与える。",
-        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "秘密の生存者として月から脱出しましょう。"
+        "MOFFEINHERETIC_SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION": "ダメージを与えると<style=cIsDamage>荒廃</style>が1スタック付与される。スキルを発動すると、距離に関係なく<style=cIsDamage>すべての荒廃スタックを爆発</style>させ、<style=cIsDamage>300%のダメージ</style>に加え、<style=cIsDamage>荒廃</style>1スタックにつき<style=cIsDamage>120%のダメージ</style>を与える。",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_NAME": "正統ならざる復活",
+        "ACHIEVEMENT_MOFFEINHERETICUNLOCK_DESCRIPTION": "秘密の生存者として月から脱出する。",
+        "ACHIEVEMENT_MOFFEINHERETIC_UNLOCK_NAME": "正統ならざる復活"
     }
 }

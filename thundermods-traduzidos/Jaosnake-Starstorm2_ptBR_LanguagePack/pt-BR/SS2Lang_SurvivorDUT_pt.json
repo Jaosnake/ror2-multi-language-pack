@@ -1,6 +1,6 @@
 {
-    "strings": {
-        "SS2_DUT_NAME": "DU-T (PROTÓTIPO BETA)",
-        "SS2_DUT_DESCRIPTION": "Este é um protótipo cru do DU-T. Bugado, mas utilizável."
-    }
+  "strings": {
+    "SS2_DUT_NAME": "DU-T (SS2 BETA. PROTÓTIPO BEM INICIAL)",
+    "SS2_DUT_DESCRIPTION": "Sério, este é um protótipo bem inicial do DU-T. Aproveite como novidade, mas está cheio de bugs."
+  }
 }

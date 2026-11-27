@@ -1,11 +1,10 @@
 {
-    "author": "Jaosnake",
-    "name": "Assassin_LanguagePack",
-    "description": "Multi-language translation pack for Assassin by HasteReapr.",
-    "dependencies": [
-        "HasteReapr-AssassinMod-2.2.4",
-        "RiskofThunder-R2API_Language-1.1.0"
-    ],
-    "version_number": "1.0.3",
-    "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
+  "name": "Assassin_LanguagePack",
+  "version_number": "1.0.4",
+  "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
+  "description": "Multi-language translation pack for Assassin by HasteReapr.",
+  "dependencies": [
+    "HasteReapr-AssassinMod-2.2.4",
+    "RiskofThunder-R2API_Language-1.1.0"
+  ]
 }

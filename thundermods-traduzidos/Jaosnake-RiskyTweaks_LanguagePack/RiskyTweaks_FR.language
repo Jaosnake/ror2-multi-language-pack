@@ -1,0 +1,7 @@
+{
+  "FR": {
+    "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>L'Autel du Combat a fait apparaître </style>{0}",
+    "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} a fait apparaître </color>{1}",
+    "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Le Signal du vide profond a fait apparaître </style>{0}"
+  }
+}

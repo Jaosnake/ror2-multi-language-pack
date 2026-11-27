@@ -1,11 +1,17 @@
 # 🌍 Jaosnake-Assassin_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
-Multi-language translation pack for **AssassinMod** by **HasteReapr**, reviewed against version 2.2.4.
+Multi-language translation pack for **Assassin** (`HasteReapr-AssassinMod`) by **HasteReapr**.
 
-> 🇺🇦 Ukrainian language added because original mod does not include it.
+---
+
+### 🇧🇷 Recomendação do P.E.L.E
+[P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) é **opcional** para este pacote e serve para quem deseja jogar em Ucraniano (`UA`/`uk`), Esperanto (`eo`) ou Latim (`la`). Os demais 12 idiomas oficiais do jogo funcionam normalmente apenas com `R2API.Language`.
+
+### 🇺🇸 P.E.L.E Recommendation
+[P.E.L.E (Language System)](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) is **optional** for this pack and is intended for players who want Ukrainian (`UA`/`uk`), Esperanto (`eo`), or Latin (`la`). The other 12 official game languages work directly with `R2API.Language`.
 
 ---
 
@@ -15,22 +21,26 @@ Multi-language translation pack for **AssassinMod** by **HasteReapr**, reviewed 
 | HasteReapr-AssassinMod | `2.2.4` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
-## 🌐 Languages
-| Flag | Language |
-|------|----------|
-| 🇺🇸 | English |
-| 🇩🇪 | German |
-| 🇪🇸 | Spanish (LATAM) |
-| 🇪🇸 | Spanish (Spain) |
-| 🇫🇷 | French |
-| 🇮🇹 | Italian |
-| 🇯🇵 | Japanese |
-| 🇰🇷 | Korean |
-| 🇧🇷 | Portuguese (BR) |
-| 🇷🇺 | Russian |
-| 🇹🇷 | Turkish |
-| 🇺🇦 | Ukrainian ⚡ |
-| 🇨🇳 | Chinese (Simplified) |
+## 🌐 Supported Languages (15)
+| Flag | Language | Code | Tokens |
+|:---:|---|:---:|:---:|
+| 🇺🇸 | English | `en` | 49/49 |
+| 🇩🇪 | German | `de` | 49/49 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 49/49 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 49/49 |
+| 🇫🇷 | French | `FR` | 49/49 |
+| 🇮🇹 | Italian | `IT` | 49/49 |
+| 🇯🇵 | Japanese | `ja` | 49/49 |
+| 🇰🇷 | Korean | `ko` | 49/49 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 49/49 |
+| 🇷🇺 | Russian | `RU` | 49/49 |
+| 🇹🇷 | Turkish | `tr` | 49/49 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` / `uk` | 49/49 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 49/49 |
+| 🟢 | Esperanto ⚡ | `eo` | 49/49 |
+| 🏛️ | Latin ⚡ | `la` | 49/49 |
+
+---
 
 ## 👤 Credits
 | Role | Name |
@@ -42,9 +52,3 @@ Multi-language translation pack for **AssassinMod** by **HasteReapr**, reviewed 
 
 ## ☕ Support
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?logo=ko-fi)](https://ko-fi.com/jaosnake)
-
-
-## Issues / Feedback
-For translation issues or suggestions, open a ticket at https://github.com/Jaosnake/ror2-multi-language-pack/issues
-
-> **Note**: Game loading times may increase slightly as additional language packs are processed during startup.

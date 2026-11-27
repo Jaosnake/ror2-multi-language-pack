@@ -1,14 +1,14 @@
 {
     "strings": {
-        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Lone Echo",
-        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Derrote o vestígio do Comando.",
-        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Nemesis Commando: Mastery",
-        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "Como Nemesis Commando, vença o jogo ou destrua em Monsoon ou mais difícil.",
-        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Nemesis Commando: Grand Mastery",
-        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "Como Nemesis Commando, vença o jogo ou destrua no Typhoon ou mais difícil.",
-        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Nemesis Commando: Nemesis Nemesis",
+        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Eco Solitário",
+        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Derrote o vestígio do Commando.",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Nemesis Commando: Maestria",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "Como Nemesis Commando, vença o jogo ou oblitere-se no Monsoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Nemesis Commando: Grande Maestria",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "Como Nemesis Commando, vença o jogo ou oblitere-se no Typhoon ou mais difícil.",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Nemesis Commando: Nêmesis do Nêmesis",
         "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "Como Nemesis Commando, derrote o vestígio do Commando.",
         "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Nemesis Commando: Zandatsu",
-        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "Como Nemesis Commando, mate um inimigo com 10 pilhas de goiva ou mais."
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "Como Nemesis Commando, abata um inimigo com 10 acúmulos de Goivar ou mais."
     }
 }

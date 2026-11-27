@@ -1,17 +1,17 @@
 {
     "FR": {
         "KENKO_BANSHEE_NAME": "Banshee",
-        "KENKO_BANSHEE_DESCRIPTION": "Banshee est une survivante aérienne qui excelle à entrer et sortir du combat rapproché.<color=#CCD3E0>\n\n< ! > Le Parapluie ATK est lent à manier, mais c'est un excellent moyen de prendre l'air. Vous pouvez aussi le manier en vol stationnaire si aucun ennemi n'est suivi.\n\n< ! > Accumuler des charges de Piqué avant de le déclencher peut infliger des dégâts dévastateurs dans sa zone optimale.\n\n< ! > Les Propulseurs HDN peuvent considérablement augmenter la mobilité de la Banshee en l'air — utilisez-les avec parcimonie pour esquiver les projectiles ennemis mortels.\n\n< ! > La Grenade CAL est idéale pour regrouper les ennemis — Essayez de viser le centre avec votre Piqué pour une efficacité maximale !\n\n</color>",
+        "KENKO_BANSHEE_DESCRIPTION": "Banshee est une survivante aérienne qui excelle à entrer et sortir du combat rapproché.<color=#CCD3E0>\n\n< ! > Le Parapluie ATK est lent à manier, mais c'est un excellent moyen de prendre l'air. Vous pouvez aussi le manier en vol stationnaire si aucun ennemi n'est suivi.\n\n< ! > Accumuler des charges de Piqué avant de le déclencher peut infliger des dégâts dévastateurs dans sa zone optimale.\n\n< ! > Les Propulseurs HDN peuvent considérablement augmenter la mobilité de Banshee en l'air — utilisez-les avec parcimonie pour esquiver les projectiles ennemis mortels.\n\n< ! > La Grenade CAL est idéale pour regrouper les ennemis — essayez de viser son centre avec votre Piqué pour une efficacité maximale !\n\n</color>",
         "KENKO_BANSHEE_SUBTITLE": "Messagère de la Maison d'Au-Delà",
-        "KENKO_BANSHEE_LORE": "Alors que les outils deviennent des armes, de nouvelles forces se sont élevées au sein de la stricte hiérarchie de la Maison d'Au-Delà pour \"Expérimenter\" avec leurs nouvelles technologies. Parmi ces forces, les Banshees dominent dans l'armement aérien avec leurs Parapluies FLT. Avec la capacité d'invoquer des feux follets et d'effondrer la gravité, leurs capacités destructrices sont infinies. À l'avenir, la Maison d'Au-Delà espère perfectionner les principes de conception pour propulser les capacités de leur technologie jusqu'à la lune.",
+        "KENKO_BANSHEE_LORE": "Alors que les outils deviennent des armes, de nouvelles forces se sont élevées au sein de la stricte hiérarchie de la Maison d'Au-Delà pour \"expérimenter\" avec leurs nouvelles technologies. Parmi ces forces, les Banshees dominent dans l'armement aérien avec leurs Parapluies FLT. Avec la capacité d'invoquer des feux follets et d'effondrer la gravité, leurs capacités destructrices sont infinies. À l'avenir, la Maison d'Au-Delà espère perfectionner ses conceptions au-delà du soleil et de la lune.",
         "KENKO_BANSHEE_OUTRO_FLAVOR": "..et ainsi elle partit, ses murmures résonnant à travers l'éternité.",
         "KENKO_BANSHEE_OUTRO_FAILURE": "..et ainsi elle disparut, faisant écho à un silence assourdissant.",
         "KENKO_BANSHEE_PASSIVE_NAME": "Parapluie FLT",
-        "KENKO_BANSHEE_PASSIVE_DESCRIPTION": "Maintenir la touche de saut permet à Banshee de rester en vol stationnaire. En vol stationnaire, lorsqu’un ennemi est suivi, votre <style=cIsUtility>Compétence Principale</style> tire un feu follet à la place, infligeant <style=cIsDamage>200% de dégâts</style>.",
+        "KENKO_BANSHEE_PASSIVE_DESCRIPTION": "Maintenir la touche de saut permet à Banshee de rester en vol stationnaire. En vol stationnaire, votre <style=cIsUtility>Compétence Principale</style> se transforme en une attaque ciblée qui applique <color=#ba8fff>Présage</color>.",
         "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_NAME": "Parapluie ATK",
-        "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_DESCRIPTION": "<color=#ba8fff>Présage</color>. Taillez devant vous pour <style=cIsDamage>250% de dégâts</style>. Chaque 3ème taille vous propulse en avant et dans les airs, infligeant <style=cIsDamage>300% de dégâts</style>.",
+        "KENKO_BANSHEE_PRIMARY_ATKUMBRELLA_DESCRIPTION": "<color=#ba8fff>Présage</color>. Taillez devant vous pour <style=cIsDamage>250% de dégâts</style>. Chaque 3e taille vous propulse en avant et dans les airs, infligeant <style=cIsDamage>300% de dégâts</style>.",
         "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_NAME": "Parapluie THRST",
-        "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_DESCRIPTION": "<color=#ba8fff>Présage</color>. Taillez devant vous pour <style=cIsDamage>250% de dégâts</style>. Chaque 3ème taille vous propulse dans les airs, infligeant <style=cIsDamage>300% de dégâts</style>.",
+        "KENKO_BANSHEE_PRIMARY_THRSTUMBRELLA_DESCRIPTION": "<color=#ba8fff>Présage</color>. Taillez devant vous pour <style=cIsDamage>250% de dégâts</style>. Chaque 3e taille vous propulse dans les airs, infligeant <style=cIsDamage>300% de dégâts</style>.",
         "KENKO_BANSHEE_PRIMARY_WISP_NAME": "Feu Follet Éthéré",
         "KENKO_BANSHEE_PRIMARY_WISP_DESCRIPTION": "Tire un feu follet pour <style=cIsDamage>200% de dégâts</style>.",
         "KENKO_BANSHEE_SECONDARY_DIVE_NAME": "Piqué",
@@ -24,7 +24,12 @@
         "KENKO_BANSHEE_SPECIAL_CALAMITAS_DESCRIPTION": "Lancez une grenade qui crée un trou noir instable. Après <style=cIsUtility>2</style> secondes, le trou noir s'effondre, infligeant <style=cIsDamage>700% de dégâts</style>.",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_NAME": "Calamitas",
         "KENKO_BANSHEE_SPECIAL_SCEP_CALAMITAS_DESCRIPTION": "Lancez 3 grenades qui créent des trous noirs instables. Après <style=cIsUtility>5</style> secondes, les trous noirs s'effondrent, infligeant <style=cIsDamage>700% de dégâts</style>.",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "I'm Mary Poppins Bitch!",
-        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Terminez une étape sans toucher le sol plus d'une fois."
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_NAME": "Je suis Mary Poppins, bordel !",
+        "ACHIEVEMENT_KENKO_BANSHEE_UNLOCK_ACHIEVEMENT_DESCRIPTION": "Terminez une étape sans toucher le sol plus d'une fois.",
+        "ACHIEVEMENT_KENKO_BANSHEE_MASTERYACHIEVEMENT_NAME": "Banshee : Maîtrise",
+        "ACHIEVEMENT_KENKO_BANSHEE_MASTERYACHIEVEMENT_DESCRIPTION": "En tant que Banshee, terminez le jeu ou oblitérez-vous en Monsoon.",
+        "<style=cKeywordName>Agile</style><style=cSub>The skill can be used while sprinting.</style>": "<style=cKeywordName>Agile</style><style=cSub>Cette compétence peut être utilisée en sprintant.</style>",
+        "<style=cKeywordName>Omen</style><style=cSub>This skill fires an <color=#ba8fff>Ethereal Wisp</color> when completed which deals <style=cIsDamage>200% damage</style> on hit and restores <style=cIsUtility>1</style> stock to your secondary skill.</style>": "<style=cKeywordName>Présage</style><style=cSub>Une fois terminée, cette compétence tire un <color=#ba8fff>Feu Follet Éthéré</color> qui inflige <style=cIsDamage>200% de dégâts</style> à l'impact et restaure <style=cIsUtility>1</style> charge de votre compétence secondaire.</style>",
+        "<style=cKeywordName>Aerodynamic</style><style=cSub>The skill deals more damage the longer the distance traveled before impact.</style>": "<style=cKeywordName>Aérodynamique</style><style=cSub>Cette compétence inflige d'autant plus de dégâts que la distance parcourue avant l'impact est grande.</style>"
     }
 }

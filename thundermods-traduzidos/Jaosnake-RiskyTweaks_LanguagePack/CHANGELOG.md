@@ -1,3 +1,10 @@
+# Changelog
+
+## 1.0.4
+- Updated compatibility for RiskyTweaks 1.11.2 and aligned Shrine of Combat, lunar pillar, and Deep Void Signal reward messages with official in-game terminology and grammar across all supported languages.
+- Added full Esperanto and Latin translations (15 languages total), with optional [P.E.L.E](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) support for Ukrainian, Esperanto, and Latin.
+- Standardized language filenames, package metadata, documentation, and icon.
+
 ## 1.0.3
 - Revised reward messages in all 13 included languages to describe the items dropped by the Shrine of Combat, lunar pillars, and the Deep Void Signal.
 - Corrected translations that described deleting an item or the source itself falling, and synchronized the README language list and package metadata.

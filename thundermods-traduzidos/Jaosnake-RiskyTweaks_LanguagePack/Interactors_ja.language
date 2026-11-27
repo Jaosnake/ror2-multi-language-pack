@@ -1,7 +1,0 @@
-{
-    "ja": {
-        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>戦闘の祠から </style>{0}がドロップしました",
-        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0}から </color>{1}がドロップしました",
-        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>深淵の虚空シグナルから </style>{0}がドロップしました"
-    }
-}
