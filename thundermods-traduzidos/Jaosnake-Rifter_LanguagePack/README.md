@@ -1,6 +1,6 @@
 # 🌍 Jaosnake-Rifter_LanguagePack
 
-![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.3-blue)
+![Version](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Version-1.0.4-blue)
 ![R2API](https://img.shields.io/badge/%F0%9F%93%A6%20R2API__Language-required-ff69b4)
 
 Multi-language translation pack for **Rifter** (`Hippo-Rifter`) by **Hippo** (original author **Blake**).
@@ -18,27 +18,27 @@ Multi-language translation pack for **Rifter** (`Hippo-Rifter`) by **Hippo** (or
 ## 📦 Dependencies
 | Package | Version |
 |---------|---------|
-| Hippo-Rifter | `2.0.0` |
+| Hippo-Rifter | `2.1.0` |
 | RiskofThunder-R2API_Language | `1.1.0` |
 
 ## 🌐 Supported Languages (15)
 | Flag | Language | Code | Tokens |
 |:---:|---|:---:|:---:|
-| 🇺🇸 | English | `en` | 27/27 |
-| 🇩🇪 | German | `de` | 27/27 |
-| 🇪🇸 | Spanish (LATAM) | `es-419` | 27/27 |
-| 🇪🇸 | Spanish (Spain) | `es-ES` | 27/27 |
-| 🇫🇷 | French | `FR` | 27/27 |
-| 🇮🇹 | Italian | `IT` | 27/27 |
-| 🇯🇵 | Japanese | `ja` | 27/27 |
-| 🇰🇷 | Korean | `ko` | 27/27 |
-| 🇧🇷 | Portuguese (BR) | `pt-BR` | 27/27 |
-| 🇷🇺 | Russian | `RU` | 27/27 |
-| 🇹🇷 | Turkish | `tr` | 27/27 |
-| 🇺🇦 | Ukrainian ⚡ | `UA` / `uk` | 27/27 |
-| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 27/27 |
-| 🟢 | Esperanto ⚡ | `eo` | 27/27 |
-| 🏛️ | Latin ⚡ | `la` | 27/27 |
+| 🇺🇸 | English | `en` | 29/29 |
+| 🇩🇪 | German | `de` | 29/29 |
+| 🇪🇸 | Spanish (LATAM) | `es-419` | 29/29 |
+| 🇪🇸 | Spanish (Spain) | `es-ES` | 29/29 |
+| 🇫🇷 | French | `FR` | 29/29 |
+| 🇮🇹 | Italian | `IT` | 29/29 |
+| 🇯🇵 | Japanese | `ja` | 29/29 |
+| 🇰🇷 | Korean | `ko` | 29/29 |
+| 🇧🇷 | Portuguese (BR) | `pt-BR` | 29/29 |
+| 🇷🇺 | Russian | `RU` | 29/29 |
+| 🇹🇷 | Turkish | `tr` | 29/29 |
+| 🇺🇦 | Ukrainian ⚡ | `UA` / `uk` | 29/29 |
+| 🇨🇳 | Chinese (Simplified) | `zh-CN` | 29/29 |
+| 🟢 | Esperanto ⚡ | `eo` | 29/29 |
+| 🏛️ | Latin ⚡ | `la` | 29/29 |
 
 ---
 

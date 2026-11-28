@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+- Updated for **Hippo-Rifter `2.1.0`** across all 15 languages.
+- Added translations for the new secondary skill **Warp Rift** (`450%` damage, critically strikes at max distance).
+- Updated **Focused Rift** (`350%` damage, critically strikes at max distance) and renamed **Wandering Rift** to **Dormant Rift** (up to 4 activations for `300%` damage, `600%` on the fifth activation).
+
 ## 1.0.3
 - Updated dependency and rebuilt all 27 active tokens directly against `Hippo-Rifter 2.0.0` (`RifterMod.dll`) full kit rework.
 - Updated reworked descriptions and values: `Shatter` (stops enemies and reduces armor by 30 for 3s), `Focused Rift` (`300% - 500%`), `Convergent Rifts` (6 rifts for `100%` each, ignores terrain), `Wandering Rift` (`300%` / `600%`), `Slipstream` (backwards vortex + invulnerability up to 3s), and `Timelock` (`500%`).

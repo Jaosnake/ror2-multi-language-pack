@@ -1,10 +1,10 @@
 {
   "name": "Rifter_LanguagePack",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack",
   "description": "Multi-language translation pack for Rifter by Hippo.",
   "dependencies": [
-    "Hippo-Rifter-2.0.0",
+    "Hippo-Rifter-2.1.0",
     "RiskofThunder-R2API_Language-1.1.0"
   ]
 }
