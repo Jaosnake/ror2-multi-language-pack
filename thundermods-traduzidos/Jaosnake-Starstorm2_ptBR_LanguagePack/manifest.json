@@ -1,11 +1,11 @@
 {
     "author": "Jaosnake",
     "name": "Starstorm2_ptBR_LanguagePack",
-    "description": "Brazilian Portuguese translation pack for Starstorm 2 by TeamMoonstorm. Original pt-BR base by Kauzok & Balorfist, updated and revised by Jaosnake.",
-    "version_number": "1.0.4",
+    "description": "Brazilian Portuguese translation pack for Starstorm 2 by TeamMoonstorm.",
+    "version_number": "1.0.6",
     "dependencies": [
         "TeamMoonstorm-Starstorm2-0.6.47",
-        "RiskofThunder-R2API_Language-1.1.0"
+        "TeamMoonstorm-MoonstormSharedUtils-2.6.3"
     ],
     "website_url": "https://github.com/Jaosnake/ror2-multi-language-pack"
 }
