@@ -1,0 +1,23 @@
+{
+  "strings": {
+    "TITLE_SINGLEPLAYER": "Ένας παίκτης",
+    "TITLE_SETTINGS": "Ρυθμίσεις",
+    "TITLE_LOGS": "Ημερολόγιο",
+    "TITLE_EXIT": "Έξοδος από το παιχνίδι",
+    "PAUSE_RESUME": "Συνέχεια",
+    "PAUSE_SCOREBOARD": "Απόθεμα",
+    "PAUSE_LOGBOOK": "Ημερολόγιο",
+    "PAUSE_SETTINGS": "Ρυθμίσεις",
+    "PAUSE_QUIT_TO_MENU": "Επιστροφή στο κύριο μενού",
+    "PAUSE_QUIT_TO_DESKTOP": "Έξοδος από το παιχνίδι",
+    "PELE_LANGUAGE_BUTTON": "Γλώσσα",
+    "SWITCH_LANGUAGE_TITLE": "Επιλογή γλώσσας",
+    "SWITCH_LANGUAGE_DESC": "Επιλέξτε γλώσσα παρακάτω.",
+    "STAGE_COUNT_FORMAT": "<style=cSub>Στάδιο</style> {0}",
+    "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Επίπ.</style> {0}",
+    "OBJECTIVE_FIND_TELEPORTER": "Βρείτε και ενεργοποιήστε τον <style=cDeath>Τηλεμεταφορέα <sprite name=\"TP\" tint=1></style>",
+    "SWITCH_LANGUAGE_APPLY_HINT": "Εφαρμογή",
+    "SWITCH_LANGUAGE_CANCEL_HINT": "Ακύρωση",
+    "SWITCH_LANGUAGE_MOUSE_APPLY_HINT": "Αριστερό κλικ"
+  }
+}

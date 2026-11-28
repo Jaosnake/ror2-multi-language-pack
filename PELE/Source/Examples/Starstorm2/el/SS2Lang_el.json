@@ -1,0 +1,13 @@
+{
+  "strings": {
+    "SS2_ITEM_COFFEEBAG_NAME": "Σακουλάκι καφέ",
+    "SS2_ITEM_COFFEEBAG_DESC": "Κάθε χτύπημα έχει πιθανότητα <style=cIsDamage>{0}%</style> να ρίξει έναν κόκκο καφέ που αυξάνει την <style=cIsDamage>ταχύτητα επίθεσης κατά {1}%</style> και την <style=cIsUtility>ταχύτητα κίνησης</style> για <style=cIsUtility>{3}</style> <style=cIsUtility>δευτερόλεπτα</style>. Ανώτατο όριο <style=cIsDamage>40%<style=cStack> (+40% ανά στοίβα)</style></style>.",
+    "SS2_ITEM_COFFEEBAG_PICKUP": "Ρίχνεις κόκκους καφέ που αυξάνουν την ταχύτητα επίθεσης και κίνησης.",
+    "SS2_ITEM_GUARDINGAMULET_NAME": "Φυλαχτό προστασίας",
+    "SS2_ITEM_GUARDINGAMULET_DESC": "Μειώνει τη ζημιά που δέχεσαι από πίσω κατά <style=cIsDamage>{0}%</style> <style=cStack>(+{0}% ανά στοίβα)</style>",
+    "SS2_ITEM_GUARDINGAMULET_PICKUP": "Μειώνει τη ζημιά που δέχεσαι από πίσω",
+    "SS2_ITEM_RELICOFMASS_NAME": "Κειμήλιο μάζας",
+    "SS2_ITEM_RELICOFMASS_DESC": "<style=cIsHealing>Αυξάνει τη μέγιστη υγεία</style> κατά <style=cIsHealing>{0}%</style> <style=cStack>(+{0}% ανά στοίβα)</style>. <style=cDeath>Μειώνει την επιτάχυνση και την επιβράδυνση</style> κατά συντελεστή <style=cDeath>{1}</style> <style=cStack>(+{1} ανά στοίβα)</style>.",
+    "SS2_ITEM_RELICOFMASS_PICKUP": "Διπλασιάζει τη μέγιστη υγεία σου. <style=cDeath>Η κίνησή σου έχει ορμή</style>."
+  }
+}

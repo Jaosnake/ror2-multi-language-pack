@@ -15,7 +15,7 @@ using UnityEngine.UI;
 namespace PELE.KingDBZFix
 {
     [BepInPlugin("jaosnake.pele.kingdbzfix", "PELE - KingModUtilities Localization Fix", "1.0.0")]
-    [BepInDependency("com.Kingpinush.KingModUtilities", BepInDependency.DependencyFlags.HardDependency)]
+    [BepInDependency("com.Kingpinush.KingModUtilities", BepInDependency.DependencyFlags.SoftDependency)]
     public class KingDBZFixPlugin : BaseUnityPlugin
     {
         internal static ManualLogSource Log;

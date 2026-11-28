@@ -1,0 +1,13 @@
+{
+  "strings": {
+    "SS2_ITEM_COFFEEBAG_NAME": "Túi cà phê",
+    "SS2_ITEM_COFFEEBAG_DESC": "Khi đánh trúng, có <style=cIsDamage>{0}%</style> cơ hội làm rơi một hạt cà phê, tăng <style=cIsDamage>{1}% tốc độ đánh</style> và <style=cIsUtility>tốc độ di chuyển</style> trong <style=cIsUtility>{3}</style> <style=cIsUtility>giây</style>. Giới hạn tối đa là <style=cIsDamage>40%<style=cStack> (+40% mỗi cộng dồn)</style></style>.",
+    "SS2_ITEM_COFFEEBAG_PICKUP": "Làm rơi hạt cà phê giúp tăng tốc độ đánh và di chuyển.",
+    "SS2_ITEM_GUARDINGAMULET_NAME": "Bùa hộ vệ",
+    "SS2_ITEM_GUARDINGAMULET_DESC": "Giảm sát thương nhận từ phía sau đi <style=cIsDamage>{0}%</style> <style=cStack>(+{0}% mỗi cộng dồn)</style>",
+    "SS2_ITEM_GUARDINGAMULET_PICKUP": "Giảm sát thương nhận từ phía sau",
+    "SS2_ITEM_RELICOFMASS_NAME": "Di vật khối lượng",
+    "SS2_ITEM_RELICOFMASS_DESC": "<style=cIsHealing>Tăng máu tối đa</style> thêm <style=cIsHealing>{0}%</style> <style=cStack>(+{0}% mỗi cộng dồn)</style>. <style=cDeath>Giảm gia tốc và giảm tốc</style> theo hệ số <style=cDeath>{1}</style> <style=cStack>(+{1} mỗi cộng dồn)</style>.",
+    "SS2_ITEM_RELICOFMASS_PICKUP": "Nhân đôi máu tối đa. <style=cDeath>Chuyển động của bạn có quán tính</style>."
+  }
+}

@@ -1,10 +1,24 @@
+# Changelog
+
+## 1.0.10
+
+- Added Greek and Vietnamese as previews, with flags, fonts, and sample base-game translations.
+- Moved the pause language selector's control hints into the panel footer.
+- Kept the last valid translation on a failed reload and added automatic ShapeText recovery.
+- Added `langsource TOKEN` diagnostics and pre-package validation for the preview translations.
+- Continues to use the official R2API.Language. The package contains no copy of its DLL.
+
+## 1.0.9
+
+- Adds Thai, Hindi, and Modern Standard Arabic, with base-game translations, fonts, and language selection.
+- Uses the official R2API.Language alongside P.E.L.E. Restores configurable item values and improves language switching during a run.
+- Keeps Ukrainian, Esperanto, and Latin available. Install standalone LanguagePacks for translated mod content.
+
 ## 1.0.8
 
 - Added Thai, Hindi and Modern Standard Arabic for the base game.
 - Added language options, flags and fonts; install the Sandswept and Starstorm 2 translation packs separately for those mods.
 - Text may briefly show question marks while a new screen loads.
-
-# Changelog
 
 ## 1.0.7
 

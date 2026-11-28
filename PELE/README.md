@@ -1,12 +1,21 @@
 # P.E.L.E - Plugin for Enhanced Language Extension
 
 P.E.L.E expands Risk of Rain 2 language support beyond the game's built-in
-language list. It adds support for Ukrainian, Esperanto, Latin, Thai, Hindi, and Arabic while
-remaining compatible with mods that already depend on `R2API.Language`.
+language list. It supports Ukrainian, Esperanto, Latin, Thai, Hindi, and Arabic,
+with preview support for Greek and Vietnamese. It depends on the official
+`RiskofThunder-R2API_Language` package and leaves its DLL intact on disk.
 
 It was created because custom community languages need more than translated
 text files: they need menu entries, font support, reliable token loading, and a
 way to keep many mod translations working as one coherent language pack.
+
+## New in 1.0.10
+
+- Greek (`el`) and Vietnamese (`vi`) are available in the language selectors, with flags, font support, and sample base-game translations. Untranslated text can fall back to English.
+- The pause-menu selector now keeps its Apply and Cancel hints inside the footer.
+- F5 keeps the last valid copy of a P.E.L.E. JSON translation in the current session if a file cannot be reloaded. Other valid files can still reload.
+- ShapeText can restart once if it stops responding. If it remains unavailable, the game reuses cached text where possible and uses a fallback font. Complex scripts may display with reduced shaping in this mode.
+- The `langsource TOKEN` console command shows the resolved text and candidate translation sources. The build checks sample translations for placeholder, markup, and duplicate-key errors before packaging.
 
 ## Thai, Hindi and Arabic
 
@@ -14,14 +23,13 @@ P.E.L.E includes base-game translations, fonts and language selection for these 
 
 ## What P.E.L.E Adds
 
-- Native custom language support for Ukrainian (`uk`), Esperanto (`eo`), and
-  Latin (`la`), Thai (`th`), Hindi (`hi`), and Modern Standard Arabic (`ar`).
-- P.E.L.E JSON translation packs for the base game and supported mods.
+- Language support for Ukrainian (`uk`), Esperanto (`eo`), Latin (`la`), Thai (`th`), Hindi (`hi`), and Modern Standard Arabic (`ar`).
+- P.E.L.E. JSON translations for the base game and DLCs.
 - Priority loading for P.E.L.E translations when another pack has the same
   token.
 - Main-menu and pause-menu language selection.
 - Keyboard, mouse, and controller hints in the language menu.
-- F5 hot reload for P.E.L.E JSON files and normal `.language` files.
+- F5 reloads P.E.L.E. JSON translations. Restart the game after changing external `.language` files.
 - Built-in Ukrainian/Cyrillic font support.
 - Startup checks for missing folders, missing font data, and duplicate language
   DLLs.
@@ -43,7 +51,7 @@ provide their own dependencies. Text and compatibility may vary with mod updates
 
 The included translations are a work in progress. Coverage and linguistic
 review vary between languages, game content, and mods; untranslated strings may
-fall back to the original text. This release includes full DLC4 (*Seekers of the Storm*) translations for Ukrainian, Esperanto, and Latin (903 tokens per language).
+fall back to the original text. Greek and Vietnamese are previews with partial base-game coverage.
 
 ## Screenshots
 
@@ -70,114 +78,29 @@ registration and Cyrillic font support. Esperanto and Latin are the first
 experimental custom languages shipped with P.E.L.E, useful for testing the
 loader, menus, and mod translation support outside the official language list.
 
-This package includes every P.E.L.E translation file currently shipped in the
-repository, even for mods you do not have installed. Risk of Rain 2 only uses a
-token when matching game or mod content asks for it.
+P.E.L.E includes translations for the base game and its DLCs. Install the corresponding LanguagePacks separately for mod translations.
 
-## Important
+## Compatibility and updates
 
-P.E.L.E replaces the `R2API.Language.dll` provided by
-`RiskofThunder-R2API_Language`. It keeps the same BepInEx plugin GUID so mods
-that depend on `R2API.Language` continue to work normally.
+P.E.L.E requires the original RiskofThunder R2API.Language. Its own components add language selection, fonts, and text rendering while working with the official library. The official R2API.Language DLL is not bundled, modified, moved, or deleted.
 
-Some mods also install the upstream `RiskofThunder-R2API_Language` as a
-dependency. P.E.L.E includes `PELE.LanguageGuard.dll`, a BepInEx preloader that
-prevents a known duplicate from installing conflicting language hooks. When the
-included P.E.L.E fork and the recognized upstream DLL are both present, it
-backs up the upstream DLL to `BepInEx/PELE-LanguageGuard-backup`, records its
-original relative path in `restore-paths.txt`, and removes that duplicate from
-the active plugins folder. Other versions are left untouched.
-
-The backup is not restored automatically if P.E.L.E is removed. To restore it,
-reinstall `RiskofThunder-R2API_Language` with your mod manager, or copy the
-backed-up DLL to the path recorded in `restore-paths.txt`. Do not manually add
-extra copies of the fork. Compatibility with other versions and mods is not
-guaranteed.
+If you used P.E.L.E 1.0.8 and R2API Language is missing, reinstall
+RiskofThunder-R2API_Language using your mod manager before starting the game.
+The earlier version could have moved its DLL to a backup folder.
 
 ## Dependencies
 
-Thunderstore installs these automatically:
-
-```text
-bbepis-BepInExPack-5.4.2121
-RiskofThunder-HookGenPatcher-1.2.9
-RiskofThunder-R2API_Core-5.3.0
-```
-
-`RiskofThunder-R2API_Language` is not listed as a dependency because P.E.L.E
-provides the replacement `R2API.Language.dll` itself.
+Your mod manager installs BepInEx, HookGenPatcher, R2API Core and the official
+R2API Language as dependencies.
 
 ## Translation Priority
 
-When P.E.L.E provides a token, it wins over other language packs. If P.E.L.E
-does not provide that token, the normal game/mod language fallback is used.
-Standalone language packs are available separately. Some older bundled translations remain in P.E.L.E; see each pack for language support.
+P.E.L.E provides base-game translations. Mod LanguagePacks provide their own translations, and the normal game and mod fallback applies where a translation is missing.
+For mod translations, install the relevant standalone LanguagePack. The game and its DLCs are included.
 
-## Included Three-Language Mod Support
+## Separate LanguagePacks
 
-The mods below have P.E.L.E translation packs for all three custom languages in
-this release: Ukrainian, Esperanto, and Latin.
-
-"Complete P.E.L.E support" here means this package includes matching P.E.L.E JSON
-files for `uk`, `eo`, and `la` for that mod. It does not mean the original mod
-author officially ships those languages.
-
-This list was checked against the P.E.L.E language files included in this
-release, not against the mods currently installed in a local profile.
-
-The mods below include P.E.L.E JSON support for the listed languages, except Starstorm 2, which includes Esperanto and Latin only. For its Ukrainian, Thai, Hindi and Arabic translations, install its separate LanguagePack:
-
-```text
-Ukrainian (uk) | Esperanto (eo) | Latin (la)
-```
-
-| Mod | Thunderstore package |
-| --- | --- |
-| Alloyed Armorer | [TatertotticusSquad / Alloyed_Armorer](https://thunderstore.io/c/riskofrain2/p/TatertotticusSquad/Alloyed_Armorer/) |
-| Arsonist | [PopcornFactory / Arsonist_Mod](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Arsonist_Mod/) |
-| Assassin | [HasteReapr / AssassinMod](https://thunderstore.io/c/riskofrain2/p/HasteReapr/AssassinMod/) |
-| Banshee | [tsuyoikenko / Banshee](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Banshee/) |
-| Bastian | [TeamSillyGuy / Bastian](https://thunderstore.io/c/riskofrain2/p/TeamSillyGuy/Bastian/) |
-| Belmont | [rob / Belmont](https://thunderstore.io/c/riskofrain2/p/rob/Belmont/) |
-| Chaos Angeloid | [DragonycksModdingComms / Chaos](https://thunderstore.io/c/riskofrain2/p/DragonycksModdingComms/Chaos/) |
-| Cloudburst | [TeamCloudburst / Cloudburst](https://thunderstore.io/c/riskofrain2/p/TeamCloudburst/Cloudburst/) |
-| Dancer | [nayDPz / Dancer](https://thunderstore.io/c/riskofrain2/p/nayDPz/Dancer/) |
-| Dante | [rob / Dante](https://thunderstore.io/c/riskofrain2/p/rob/Dante/) |
-| Deputy | [Bog / Deputy](https://thunderstore.io/c/riskofrain2/p/Bog/Deputy/) |
-| Driver | [public_ParticleSystem / Driver](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Driver/) |
-| Enforcer | [EnforcerGang / Enforcer](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Enforcer/) |
-| Goku | [kinggrinyov / Goku](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Goku/) |
-| HAND OVERCLOCKED | [EnforcerGang / HAND_OVERCLOCKED](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/HAND_OVERCLOCKED/) |
-| HEL P | [rob / HEL_P](https://thunderstore.io/c/riskofrain2/p/rob/HEL_P/) |
-| Henry | [TheTimesweeper / HenryMod](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/HenryMod/) |
-| Heretic | [Moffein / Heretic](https://thunderstore.io/c/riskofrain2/p/Moffein/Heretic/) |
-| HUNK | [rob / HUNK](https://thunderstore.io/c/riskofrain2/p/rob/HUNK/) |
-| Interrogator | [tsuyoikenko / Interrogator](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Interrogator/) |
-| Lee Hyperreal | [PopcornFactory / Lee_Hyperreal](https://thunderstore.io/c/riskofrain2/p/PopcornFactory/Lee_Hyperreal/) |
-| Miner Unearthed | [EnforcerGang / MinerUnearthed](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/MinerUnearthed/) |
-| Mortician | [Bog / Mortician](https://thunderstore.io/c/riskofrain2/p/Bog/Mortician/) |
-| Myst | [JavAngle / Myst](https://thunderstore.io/c/riskofrain2/p/JavAngle/Myst/) |
-| Paladin | [Paladin_Alliance / PaladinMod](https://thunderstore.io/c/riskofrain2/p/Paladin_Alliance/PaladinMod/) |
-| Pathfinder | [Bog / Pathfinder](https://thunderstore.io/c/riskofrain2/p/Bog/Pathfinder/) |
-| Pilot | [EnforcerGang / Pilot](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Pilot/) |
-| Ravager | [public_ParticleSystem / Ravager](https://thunderstore.io/c/riskofrain2/p/public_ParticleSystem/Ravager/) |
-| Red Alert | [TheTimesweeper / Red_Alert](https://thunderstore.io/c/riskofrain2/p/TheTimesweeper/Red_Alert/) |
-| Rifter | [toastyTeam / Rifter](https://thunderstore.io/c/riskofrain2/p/toastyTeam/Rifter/) |
-| RiskyTweaks | [Risky_Lives / RiskyTweaks](https://thunderstore.io/c/riskofrain2/p/Risky_Lives/RiskyTweaks/) |
-| Rocket | [EnforcerGang / Rocket](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/Rocket/) |
-| Seamstress | [tsuyoikenko / Seamstress](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Seamstress/) |
-| Sniper Classic | [EnforcerGang / SniperClassic](https://thunderstore.io/c/riskofrain2/p/EnforcerGang/SniperClassic/) |
-| Sorceress | [Frosthex / SorceressMod](https://thunderstore.io/c/riskofrain2/p/Frosthex/SorceressMod/) |
-| Spearman | [SaucySquash / Spearman](https://thunderstore.io/c/riskofrain2/p/SaucySquash/Spearman/) |
-| Starstorm 2 (Esperanto and Latin) | [TeamMoonstorm / Starstorm2](https://thunderstore.io/c/riskofrain2/p/TeamMoonstorm/Starstorm2/) |
-| Trunks | [kinggrinyov / Trunks](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Trunks/) |
-| Vegeta | [kinggrinyov / Vegeta](https://thunderstore.io/c/riskofrain2/p/kinggrinyov/Vegeta/) |
-| Wanderer | [tsuyoikenko / Wanderer](https://thunderstore.io/c/riskofrain2/p/tsuyoikenko/Wanderer/) |
-
-
-## Additional compatible translation packs
-
-The following separate translation packs include Ukrainian, Esperanto and Latin and can be used with P.E.L.E. Install the relevant translation pack separately; these mods are not part of the bundled P.E.L.E JSON list above.
+Install each mod's LanguagePack separately. Language availability varies by pack.
 
 | Mod | Translation pack |
 | --- | --- |
@@ -202,15 +125,20 @@ other languages they already cover.
 
 [Jaosnake packages on Thunderstore](https://thunderstore.io/c/riskofrain2/p/Jaosnake/)
 
-## Source code
+## GitHub backups
 
-The [Thai, Hindi and Arabic language support and ShapeText renderer source](https://github.com/Jaosnake/ror2-multi-language-pack/tree/main/PELE/Source/LanguageSupport) includes build instructions and an explanation of the local text-rendering helper.
+- [P.E.L.E. 1.0.10 Thunderstore upload ZIP](../mods/PELE/Jaosnake-PELE-1.0.10-THUNDERSTORE.zip)
+- [P.E.L.E. 1.0.9 archived ZIP](../mods/PELE/Jaosnake-PELE-1.0.9-THUNDERSTORE.zip)
+- [Source and build instructions](Source/README.md)
+- [Technical manual (PT-BR)](../docs/PELE.md)
+
+The public ZIP backups omit local build paths in DLL debug metadata. The translation data in this directory follows the 1.0.10 package. Older bundled mod translations remain available in the [previous repository snapshot](https://github.com/Jaosnake/ror2-multi-language-pack/tree/209e0f1/PELE/Language).
 
 ## Documentation
 
 More technical details are available here:
 
-- [Installation and compatibility](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#important-this-replaces-r2apilanguage)
+- [Installation and compatibility](https://github.com/Jaosnake/ror2-multi-language-pack)
 - [Manual installation](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#manual-installation)
 - [Configuration](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#configuration)
 - [Translation file layout](https://github.com/Jaosnake/ror2-multi-language-pack/blob/main/R2API.Language-Source/docs/WIKI.md#translation-file-layout)

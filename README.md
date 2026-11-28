@@ -2,7 +2,7 @@
 
 Translation packs for several **Risk of Rain 2** mods, available through Thunderstore and for manual installation.
 
-**Latest update:** P.E.L.E 1.0.8 adds Thai, Hindi and Modern Standard Arabic for the base game. Sandswept LanguagePack 1.0.4 and Starstorm2 LanguagePack 2.0.5 add these languages for their respective mods. The packages are backed up here; check Thunderstore for their current listing and review status. P.E.L.E 1.0.8 or newer enables these languages. Text may briefly show question marks while it is prepared, and a few interface elements may still show them. The ZIP backups are the authoritative package snapshots; source folders may not yet contain every file in those ZIPs.
+**P.E.L.E. 1.0.10** adds Greek and Vietnamese previews with flags, fonts and sample base-game translations. It keeps the last valid translation on a failed reload and can recover the ShapeText renderer. The update uses the official R2API.Language dependency. [Thunderstore upload ZIP](mods/PELE/Jaosnake-PELE-1.0.10-THUNDERSTORE.zip) · [Changelog](PELE/CHANGELOG.md) · [Technical manual (PT-BR)](docs/PELE.md)
 
 > **AI disclosure**: some translations were created with AI assistance and then reviewed/edited by Jaosnake. For **Starstorm 2** and **Sandswept**, the **PT-BR** translations were reviewed line by line and manually edited by Jaosnake. Original credits remain preserved. This disclosure is kept here and in package READMEs for Thunderstore clarity.
 
@@ -497,7 +497,7 @@ Use os links abaixo para instalar os pacotes publicados pelo gerenciador de mods
 | Project | Version |
 |---|---|
 | [CENI](https://thunderstore.io/c/riskofrain2/p/Jaosnake/CENI/) | `1.0.5` |
-| [PELE](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) | `1.0.6` |
+| [PELE](https://thunderstore.io/c/riskofrain2/p/Jaosnake/PELE/) | `1.0.9` |
 
 ### Repository files / Arquivos do repositório
 

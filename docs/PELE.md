@@ -7,9 +7,11 @@ O **P.E.L.E. (Plugin for Enhanced Language Extension)** amplia a localização d
 | Versão | Recursos cobertos por este manual |
 | --- | --- |
 | **1.0.9 pública** | Ucraniano, esperanto, latim, árabe padrão moderno, hindi e tailandês. Usa o pacote oficial `RiskofThunder-R2API_Language`. |
-| **Refatoração local auditada** | Mantém os seis idiomas e acrescenta suporte piloto a grego e vietnamita, com fontes, bandeiras, alguns textos do jogo base e uma amostra de três itens em um pack separado de Starstorm 2. Inclui as quatro melhorias da seção 6. |
+| **1.0.10 preparada para envio** | Mantém os seis idiomas e acrescenta suporte piloto a grego e vietnamita, com fontes, bandeiras, alguns textos do jogo base e uma amostra de três itens em um pack separado de Starstorm 2. Inclui as quatro melhorias da seção 6. |
 
 O número do manifesto de uma compilação local pode coincidir com o da versão pública. Para identificar o que realmente roda, confira o ZIP de origem, o hash da DLL e o perfil no `BepInEx/LogOutput.log`. A lista do gerenciador, sozinha, não distingue os dois binários.
+
+O [ZIP 1.0.10 preparado para envio](../mods/PELE/Jaosnake-PELE-1.0.10-THUNDERSTORE.zip) e as [instruções de compilação](../PELE/Source/README.md) estão neste repositório.
 
 Este manual fica em `docs/PELE.md`, fora da árvore de arquivos do pacote. Mantenha-o no repositório e confira que ele está ausente do ZIP de distribuição.
 
@@ -30,7 +32,7 @@ Para idiomas nativos como PT-BR, um pack que use apenas o formato compatível co
 4. O P.E.L.E. registra os idiomas extras e resolve o alias ucraniano `uk`/ `UA` nas consultas integradas. Alguns idiomas usam uma cultura alternativa para formatação de números ou datas. A cultura de formatação é independente do idioma exibido.
 5. A interface usa as fontes do jogo e fontes alternativas conforme a escrita. Quando um texto de árabe, hindi ou tailandês requer composição adicional, o módulo de apresentação chama o ShapeText.
 
-Chaves repetidas em JSONs do mesmo idioma seguem a ordem alfabética dos caminhos, com a última definição válida vencendo dentro dessa origem. A resolução final ainda depende das camadas do R2API, do jogo e do mod. Se um pack separado já mantém a tradução de um mod, evite duplicá-la no JSON interno do P.E.L.E. Use `langsource` na edição local para investigar.
+Chaves repetidas em JSONs do mesmo idioma seguem a ordem alfabética dos caminhos, com a última definição válida vencendo dentro dessa origem. A resolução final ainda depende das camadas do R2API, do jogo e do mod. Se um pack separado já mantém a tradução de um mod, evite duplicá-la no JSON interno do P.E.L.E. Use `langsource` na 1.0.10 para investigar.
 
 ## 4. Como criar arquivos de tradução
 
@@ -91,7 +93,7 @@ Na configuração empacotada, o executável e suas fontes ficam em `PELE/Languag
 
 A refatoração separa o núcleo `PELE.Language.Core.dll` da apresentação `LanguageSupport.dll`. No código, `PeleJsonLoader` e `PelePaths` cuidam da leitura, `OfficialLanguageIntegration` cuida da consulta integrada, `CustomLanguageRegistration` e `LanguagePauseMenu` cuidam da seleção. `LanguageRenderWorker`, `ComplexTextPresentation` e `HudLanguageRefresh` cuidam da composição, da interface e da atualização do HUD.
 
-| Melhoria da edição local | Como usar para investigar |
+| Melhoria da 1.0.10 | Como usar para investigar |
 | --- | --- |
 | **Recarga com recuperação automática** | Edite o JSON e pressione **F5**. Com `EnableHotReload=true`, alterações também podem ser detectadas pelo observador de arquivos. Se um arquivo lido anteriormente falhar, o log identifica a origem e registra que conservou a última versão válida daquela sessão. Corrija o caminho, a codificação ou a sintaxe e recarregue. Valide com um segundo arquivo que tenha sido atualizado normalmente. |
 | **Recuperação do ShapeText** | Procure por `ShapeText reiniciado` ou `ShapeText indisponível` no log. Após uma falha do processo ou ausência prolongada de resposta com pedidos pendentes, o módulo tenta reiniciar uma vez, reaproveita o cache e usa uma fonte nativa de contingência se a falha persistir. Essa fonte pode ter composição menos precisa. Em perfil isolado, compare o mesmo texto antes e depois e confirme que o jogo ainda responde. |

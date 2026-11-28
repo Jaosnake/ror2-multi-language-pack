@@ -14,6 +14,7 @@ using UnityEngine;
 internal sealed class LanguageRenderWorker : IDisposable
 {
     private const int MaxPending = 64;
+    private const float ResponseTimeoutSeconds = 12f;
     private static readonly HashSet<string> measured = new HashSet<string>();
     private const int MaxTextureBytes = 48 * 1024 * 1024;
     private static readonly Regex StyleTags = new Regex(@"<style=([^>]+)>|</style>", RegexOptions.IgnoreCase);
@@ -30,60 +31,90 @@ internal sealed class LanguageRenderWorker : IDisposable
     private readonly Dictionary<string, Cached> cache = new Dictionary<string, Cached>();
     private readonly Dictionary<string, string> pending = new Dictionary<string, string>();
     private readonly HashSet<string> queued = new HashSet<string>();
-    private readonly BlockingCollection<string> requests = new BlockingCollection<string>(MaxPending);
-    private readonly ConcurrentQueue<string> results = new ConcurrentQueue<string>();
     private readonly Action<string> log;
     private readonly Action<string> warn;
-    private Process process;
+    private readonly string path;
+    private Session session;
+    private float? waitingSince;
+    private bool restartAttempted;
     private int nextId;
     private int textureBytes;
-    private volatile bool closed;
-    private volatile bool failed;
+    private bool closed;
+    internal bool Unavailable => session == null;
+
+    private sealed class Session
+    {
+        internal readonly BlockingCollection<string> Requests = new BlockingCollection<string>(MaxPending);
+        internal readonly ConcurrentQueue<string> Results = new ConcurrentQueue<string>();
+        internal Process Process;
+        internal volatile bool Failed;
+        internal volatile bool Stopping;
+    }
 
     internal LanguageRenderWorker(string path, Action<string> log, Action<string> warn)
     {
         this.log = log;
         this.warn = warn;
-        process = new Process { StartInfo = new ProcessStartInfo(path, "--worker") {
+        this.path = path;
+        session = StartSession();
+    }
+
+    private Session StartSession()
+    {
+        var current = new Session();
+        var process = new Process { StartInfo = new ProcessStartInfo(path, "--worker") {
             UseShellExecute = false,
             CreateNoWindow = true,
             RedirectStandardInput = true,
             RedirectStandardOutput = true,
             RedirectStandardError = true
         }};
+        current.Process = process;
         process.OutputDataReceived += (_, e) => {
-            if (e.Data == null) failed = true;
-            else results.Enqueue(e.Data);
+            if (e.Data == null) current.Failed = true;
+            else if (!current.Stopping) current.Results.Enqueue(e.Data);
         };
         process.ErrorDataReceived += (_, e) => {
-            if (e.Data != null && !closed) warn(e.Data);
+            if (e.Data != null && !current.Stopping) warn(e.Data);
         };
-        process.Start();
-        process.BeginOutputReadLine();
-        process.BeginErrorReadLine();
-        new Thread(WriteRequests) { IsBackground = true, Name = "PELE text rendering" }.Start();
+        try
+        {
+            process.Start();
+            process.BeginOutputReadLine();
+            process.BeginErrorReadLine();
+            new Thread(() => WriteRequests(current)) { IsBackground = true, Name = "PELE text rendering" }.Start();
+            return current;
+        }
+        catch
+        {
+            StopSession(current);
+            throw;
+        }
     }
 
-    private void WriteRequests()
+    private static void WriteRequests(Session current)
     {
         try
         {
-            using (var input = process.StandardInput)
+            using (var input = current.Process.StandardInput)
             {
                 input.AutoFlush = true;
-                foreach (var request in requests.GetConsumingEnumerable())
+                foreach (var request in current.Requests.GetConsumingEnumerable())
+                {
+                    if (current.Stopping) break;
                     input.WriteLine(request);
+                }
             }
         }
-        catch (IOException) { failed = true; }
-        catch (ObjectDisposedException) { failed = true; }
+        catch (IOException) { current.Failed = true; }
+        catch (InvalidOperationException) { current.Failed = true; }
     }
 
     internal void Update(float now)
     {
         string response;
         int count = 0;
-        while (count++ < 12 && results.TryDequeue(out response))
+        while (session != null && count++ < 12 && session.Results.TryDequeue(out response))
         {
             var tab = response.IndexOf('\t');
             if (tab < 0) continue;
@@ -92,6 +123,7 @@ internal sealed class LanguageRenderWorker : IDisposable
             if (!pending.TryGetValue(id, out key)) continue;
             pending.Remove(id);
             queued.Remove(key);
+            waitingSince = pending.Count > 0 ? now : (float?)null;
             Texture2D texture = null;
             if (response.Substring(tab + 1) != "-")
             {
@@ -126,10 +158,30 @@ internal sealed class LanguageRenderWorker : IDisposable
                 cache.Remove(entry.Key);
             }
         }
-        if (failed && !closed)
+        if (session == null || closed) return;
+        if (session.Failed || (waitingSince.HasValue && now - waitingSince.Value >= ResponseTimeoutSeconds))
         {
-            warn("O renderizador dos novos idiomas parou.");
-            Dispose();
+            warn(session.Failed ? "O processo ShapeText foi interrompido." : "O processo ShapeText deixou de responder.");
+            StopSession(session);
+            session = null;
+            pending.Clear();
+            queued.Clear();
+            waitingSince = null;
+            if (restartAttempted)
+            {
+                warn("ShapeText indisponível. Textos já renderizados continuam no cache.");
+                return;
+            }
+            restartAttempted = true;
+            try
+            {
+                session = StartSession();
+                log("ShapeText reiniciado.");
+            }
+            catch (Exception error)
+            {
+                warn("Falha ao reiniciar ShapeText: " + error.Message);
+            }
         }
     }
 
@@ -163,14 +215,15 @@ internal sealed class LanguageRenderWorker : IDisposable
             texture = existing.Texture;
             return texture != null;
         }
-        if (pending.Count >= MaxPending || queued.Contains(key) || markup.Length > 262144) return false;
+        if (session == null || pending.Count >= MaxPending || queued.Contains(key) || markup.Length > 262144) return false;
         var id = (++nextId).ToString(CultureInfo.InvariantCulture);
         var payload = id + "\t" + key.Substring(0, key.Length - markup.Length) +
             Convert.ToBase64String(Encoding.UTF8.GetBytes(markup));
-        if (!requests.TryAdd(payload)) return false;
+        if (!session.Requests.TryAdd(payload)) return false;
         if (nextId == 1) log("Renderização das traduções ativada.");
         queued.Add(key);
         pending.Add(id, key);
+        waitingSince ??= now;
         return false;
     }
 
@@ -272,11 +325,25 @@ internal sealed class LanguageRenderWorker : IDisposable
         });
     }
 
+    private static void StopSession(Session current)
+    {
+        current.Stopping = true;
+        current.Requests.CompleteAdding();
+        try
+        {
+            if (!current.Process.HasExited) current.Process.Kill();
+        }
+        catch (InvalidOperationException) { }
+        catch (System.ComponentModel.Win32Exception) { }
+        finally { current.Process.Dispose(); }
+    }
+
     public void Dispose()
     {
         if (closed) return;
         closed = true;
-        requests.CompleteAdding();
+        if (session != null) StopSession(session);
+        session = null;
         foreach (var item in cache.Values)
             if (item.Texture != null) UnityEngine.Object.Destroy(item.Texture);
         cache.Clear();

@@ -1,7 +1,0 @@
-{
-    "strings": {
-        "VOID_SIGNAL_COMPLETE_RISKYMOD": "<style=cWorldEvent>Profunda Vakua Signalo falis</style>{0}",
-        "MOON_PILLAR_COMPLETE_RISKYMOD": "<color=#c6d5ff>{0} forigita</color>{1}",
-        "SHRINE_COMBAT_END_TRIAL_RISKYMOD": "<style=cShrine>Shrine of Combat falis</style>{0}"
-    }
-}

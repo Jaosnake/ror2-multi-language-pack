@@ -1,0 +1,23 @@
+{
+  "strings": {
+    "TITLE_SINGLEPLAYER": "Chơi đơn",
+    "TITLE_SETTINGS": "Cài đặt",
+    "TITLE_LOGS": "Nhật ký",
+    "TITLE_EXIT": "Thoát trò chơi",
+    "PAUSE_RESUME": "Tiếp tục",
+    "PAUSE_SCOREBOARD": "Kho đồ",
+    "PAUSE_LOGBOOK": "Nhật ký",
+    "PAUSE_SETTINGS": "Cài đặt",
+    "PAUSE_QUIT_TO_MENU": "Về menu chính",
+    "PAUSE_QUIT_TO_DESKTOP": "Thoát trò chơi",
+    "PELE_LANGUAGE_BUTTON": "Ngôn ngữ",
+    "SWITCH_LANGUAGE_TITLE": "Chọn ngôn ngữ",
+    "SWITCH_LANGUAGE_DESC": "Hãy chọn ngôn ngữ bên dưới.",
+    "STAGE_COUNT_FORMAT": "<style=cSub>Màn</style> {0}",
+    "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Cấp</style> {0}",
+    "OBJECTIVE_FIND_TELEPORTER": "Tìm và kích hoạt <style=cDeath>Thiết bị dịch chuyển <sprite name=\"TP\" tint=1></style>",
+    "SWITCH_LANGUAGE_APPLY_HINT": "Áp dụng",
+    "SWITCH_LANGUAGE_CANCEL_HINT": "Hủy",
+    "SWITCH_LANGUAGE_MOUSE_APPLY_HINT": "Nhấp trái"
+  }
+}

@@ -1,9 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 <PropertyGroup><TargetFramework>netstandard2.1</TargetFramework><AssemblyName>LanguageSupport</AssemblyName><LangVersion>latest</LangVersion><EnableDefaultCompileItems>false</EnableDefaultCompileItems><ProfileBepInEx>$(AppData)/Thunderstore Mod Manager/DataFolder/RiskOfRain2/profiles/Default/BepInEx</ProfileBepInEx></PropertyGroup>
-<ItemGroup><Compile Include="LanguageSupport.cs"/><Compile Include="LanguageRenderWorker.cs"/>
+<ItemGroup><Compile Include="*.cs"/>
 <Reference Include="BepInEx"><HintPath>$(ProfileBepInEx)/core/BepInEx.dll</HintPath><Private>false</Private></Reference>
 <Reference Include="0Harmony"><HintPath>$(ProfileBepInEx)/core/0Harmony.dll</HintPath><Private>false</Private></Reference>
-<Reference Include="R2API.Language"><HintPath>$(ProfileBepInEx)/plugins/Jaosnake-PELE/RiskofThunder-R2API_Language/R2API.Language/R2API.Language.dll</HintPath><Private>false</Private></Reference>
+<Reference Include="PELE.Language.Core"><HintPath>../Core/bin/Release/netstandard2.1/PELE.Language.Core.dll</HintPath><Private>false</Private></Reference>
 <Reference Include="Assembly-CSharp"><HintPath>$(GameManaged)/Assembly-CSharp.dll</HintPath><Private>false</Private></Reference>
 <Reference Include="UnityEngine"><HintPath>$(GameManaged)/UnityEngine.dll</HintPath><Private>false</Private></Reference>
 <Reference Include="UnityEngine.CoreModule"><HintPath>$(GameManaged)/UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
@@ -11,4 +11,4 @@
 <Reference Include="UnityEngine.UI"><HintPath>$(GameManaged)/UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
 <Reference Include="UnityEngine.ImageConversionModule"><HintPath>$(GameManaged)/UnityEngine.ImageConversionModule.dll</HintPath><Private>false</Private></Reference>
 <Reference Include="Unity.TextMeshPro"><HintPath>$(GameManaged)/Unity.TextMeshPro.dll</HintPath><Private>false</Private></Reference>
-<Reference Include="RoR2"><HintPath>$(GameManaged)/RoR2.dll</HintPath><Private>false</Private></Reference><Reference Include="UnityEngine.TextCoreFontEngineModule"><HintPath>$(GameManaged)/UnityEngine.TextCoreFontEngineModule.dll</HintPath><Private>false</Private></Reference></ItemGroup></Project>
+<Reference Include="RoR2"><HintPath>$(GameManaged)/RoR2.dll</HintPath><Private>false</Private></Reference><Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(GameManaged)/UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference><Reference Include="UnityEngine.TextCoreFontEngineModule"><HintPath>$(GameManaged)/UnityEngine.TextCoreFontEngineModule.dll</HintPath><Private>false</Private></Reference></ItemGroup></Project>

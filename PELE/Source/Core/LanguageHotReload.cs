@@ -1,0 +1,165 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Threading;
+using Timer = System.Timers.Timer;
+using UnityEngine;
+
+namespace R2API;
+
+public class LanguageHotReload : IDisposable
+{
+    private static LanguageHotReload _instance;
+    public static LanguageHotReload Instance => _instance ??= new LanguageHotReload();
+
+    public event Action<string, string> OnTokenReloaded;
+    public event Action<string> OnFileReloaded;
+    public event Action<IEnumerable<string>> OnBatchReloaded;
+    public event Action OnBeforeReload;
+    public event Action OnAfterReload;
+
+    public bool IsEnabled { get; private set; }
+    public string WatchDirectory { get; private set; }
+
+    private FileSystemWatcher _jsonWatcher;
+    private readonly Dictionary<string, DateTime> _lastModified = new();
+    private readonly Queue<string> _pending = new();
+    private readonly object _pendingLock = new();
+    private Timer _debounceTimer;
+
+    // Captured lazily on first use from the main Unity thread.
+    private SynchronizationContext _unityContext;
+
+    public void Enable(string directory)
+    {
+        if (IsEnabled) Disable();
+        if (!Directory.Exists(directory))
+        {
+            Debug.LogError($"[LanguageAPI] Diretorio nao encontrado: {directory}");
+            return;
+        }
+
+        // Capture Unity sync context here — called from OnEnable which runs on the main thread.
+        _unityContext = SynchronizationContext.Current;
+
+        WatchDirectory = directory;
+
+        try
+        {
+            var peleJsonDir = PelePaths.LanguageRoot(directory);
+            if (Directory.Exists(peleJsonDir))
+            {
+                _jsonWatcher = new FileSystemWatcher(peleJsonDir)
+                {
+                    Filter = "*.json",
+                    IncludeSubdirectories = true,
+                    NotifyFilter = NotifyFilters.LastWrite | NotifyFilters.FileName
+                };
+                _jsonWatcher.Changed += OnChanged;
+                _jsonWatcher.Created += OnChanged;
+                _jsonWatcher.Deleted += OnChanged;
+                _jsonWatcher.Renamed += OnChanged;
+                _jsonWatcher.EnableRaisingEvents = true;
+            }
+
+            _debounceTimer = new Timer(500) { AutoReset = false };
+            _debounceTimer.Elapsed += (_, _) => ProcessPending();
+
+            IsEnabled = true;
+        }
+        catch (Exception ex)
+        {
+            Debug.LogError($"[LanguageAPI] Erro ao iniciar FileSystemWatcher: {ex.Message}");
+        }
+    }
+
+    public void Disable()
+    {
+        IsEnabled = false; // Set first so ProcessPending bails out quickly if racing.
+
+        if (_jsonWatcher != null)
+        {
+            _jsonWatcher.EnableRaisingEvents = false;
+            _jsonWatcher.Changed -= OnChanged;
+            _jsonWatcher.Created -= OnChanged;
+            _jsonWatcher.Deleted -= OnChanged;
+            _jsonWatcher.Renamed -= OnChanged;
+            _jsonWatcher.Dispose();
+            _jsonWatcher = null;
+        }
+
+        _debounceTimer?.Stop();
+        _debounceTimer?.Dispose();
+        _debounceTimer = null;
+
+        lock (_pendingLock)
+        {
+            _pending.Clear();
+            _lastModified.Clear();
+        }
+    }
+
+    public void Dispose() => Disable();
+
+    private void OnChanged(object sender, FileSystemEventArgs e)
+    {
+        lock (_pendingLock)
+        {
+            try
+            {
+                var lastWrite = File.GetLastWriteTime(e.FullPath);
+                if (e.ChangeType == WatcherChangeTypes.Changed && _lastModified.TryGetValue(e.FullPath, out var prev) && prev == lastWrite)
+                    return;
+                _lastModified[e.FullPath] = lastWrite;
+            }
+            catch
+            {
+                // File may be locked/deleted mid-event; skip it.
+                return;
+            }
+
+            if (!_pending.Contains(e.FullPath))
+                _pending.Enqueue(e.FullPath);
+
+            _debounceTimer?.Stop();
+            _debounceTimer?.Start();
+        }
+    }
+
+    private void ProcessPending()
+    {
+        if (!IsEnabled) return;
+
+        List<string> files;
+        lock (_pendingLock)
+        {
+            files = new List<string>(_pending);
+            _pending.Clear();
+        }
+
+        if (files.Count == 0) return;
+
+        var ctx = _unityContext;
+        if (ctx != null) ctx.Post(_ => { if (IsEnabled) ReloadNow(files); }, null);
+    }
+
+    internal void NotifyFileReloaded(string file)
+    {
+        try { OnFileReloaded?.Invoke(file); } catch (Exception ex) { Debug.LogException(ex); }
+    }
+
+    internal void NotifyTokenReloaded(string language, string token)
+    {
+        try { OnTokenReloaded?.Invoke(language, token); } catch (Exception ex) { Debug.LogException(ex); }
+    }
+
+    internal void ReloadNow() => ReloadNow(Array.Empty<string>());
+
+    private void ReloadNow(IEnumerable<string> files)
+    {
+        try { OnBeforeReload?.Invoke(); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnBeforeReload: " + ex.Message); }
+        LanguagePlugin.ReloadPeleJsonFiles();
+        try { OnAfterReload?.Invoke(); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnAfterReload: " + ex.Message); }
+        try { OnBatchReloaded?.Invoke(files); } catch (Exception ex) { Debug.LogError("[LanguageAPI] OnBatchReloaded: " + ex.Message); }
+    }
+}
