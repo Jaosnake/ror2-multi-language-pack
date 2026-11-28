@@ -132,7 +132,7 @@ other languages they already cover.
 - [Source and build instructions](Source/README.md)
 - [Technical manual (PT-BR)](../docs/PELE.md)
 
-The public ZIP backups omit local build paths in DLL debug metadata. The translation data in this directory follows the 1.0.10 package. Older bundled mod translations remain available in the [previous repository snapshot](https://github.com/Jaosnake/ror2-multi-language-pack/tree/209e0f1/PELE/Language).
+The public ZIP backups omit local build paths in DLL debug metadata. The translation data in this directory follows the 1.0.10 package. Older bundled mod translations remain available in the [previous repository snapshot](https://github.com/Jaosnake/ror2-multi-language-pack/tree/1bda7f39b0ebecb78589826572a09de341fca6d6/PELE/Language).
 
 ## Documentation
 
