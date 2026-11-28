@@ -1,5 +1,9 @@
 # Manual do P.E.L.E.
 
+## Regra imutável de privacidade
+
+A [regra de privacidade dos pacotes](PRIVACIDADE_PACOTES.md) vale para todos os arquivos do P.E.L.E., inclusive testes, backups e builds locais. Verifique os metadados de depuração de cada DLL e EXE e inspecione o ZIP final antes de compartilhar.
+
 O **P.E.L.E. (Plugin for Enhanced Language Extension)** amplia a localização de Risk of Rain 2. Ele registra idiomas adicionais no jogo, carrega traduções, fornece fontes e adapta a interface para que o jogador possa mudar de idioma inclusive pelo menu de pausa. Os pacotes de tradução fornecem o texto de cada jogo ou mod. O P.E.L.E. fornece a infraestrutura para exibi-lo.
 
 ## 1. Qual versão está em uso

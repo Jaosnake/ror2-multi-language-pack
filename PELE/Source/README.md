@@ -1,5 +1,9 @@
 # P.E.L.E. 1.0.10 source
 
+## Build privacy
+
+The [project privacy rules (PT-BR)](../../docs/PRIVACIDADE_PACOTES.md) apply to every build, including local tests. Inspect the PE debug directory after compiling and verify that the final executable and archives contain no machine paths.
+
 - [Core](Core/) registers the additional languages, loads P.E.L.E. JSON translations and integrates with the official R2API.Language at runtime.
 - [LanguageSupport](LanguageSupport/) manages fonts, flags, selectors, HUD refresh and the ShapeText process.
 - [ShapeText source and Windows build instructions](LanguageSupport/README.md).

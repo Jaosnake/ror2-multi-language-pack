@@ -1,5 +1,9 @@
 # Risk of Rain 2 Multi-Language Pack
 
+## Package privacy
+
+Local machine data and absolute paths are prohibited in project files, including test builds, source, release assets and binary metadata. See the [project privacy rules (PT-BR)](docs/PRIVACIDADE_PACOTES.md).
+
 Translation packs for several **Risk of Rain 2** mods, available through Thunderstore and for manual installation.
 
 **P.E.L.E. 1.0.10** adds Greek and Vietnamese previews with flags, fonts and sample base-game translations. It keeps the last valid translation on a failed reload and can recover the ShapeText renderer. The update uses the official R2API.Language dependency. [Thunderstore upload ZIP](mods/PELE/Jaosnake-PELE-1.0.10-THUNDERSTORE.zip) · [Changelog](PELE/CHANGELOG.md) · [Technical manual (PT-BR)](docs/PELE.md)
@@ -695,4 +699,3 @@ Community translation credits preserved from the original files include Kauzok, 
 ## 📜 License
 
 GPL-3.0. See [LICENSE.txt](LICENSE.txt).
-
